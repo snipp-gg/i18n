@@ -26,4 +26,4 @@ Open an issue first so it can be tracked. Then copy `strings/en.json` to `string
 
 ## License
 
-[MIT](LICENSE). By contributing translations you agree to license them under MIT.
+MIT License © 2026 Snipp. See [LICENSE](LICENSE) for full details.
