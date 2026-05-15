@@ -12,9 +12,15 @@ All locale files live in `strings/`.
 |------|----------|
 | `strings/en.json` | English (source) |
 | `strings/pl.json` | Polski |
+| `strings/fr.json` | Français |
 | `strings/de.json` | Deutsch |
 | `strings/es.json` | Español |
 | `strings/pt-BR.json` | Português (Brasil) |
+| `strings/sv.json` | Svenska |
+| `strings/tr.json` | Türkçe |
+| `strings/ja.json` | 日本語 |
+| `strings/uk.json` | Українська |
+| `strings/ru.json` | Русский |
 
 ## Want to help?
 
