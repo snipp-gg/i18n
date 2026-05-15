@@ -4,12 +4,12 @@ Thanks for helping translate Snipp. This guide covers everything you need.
 
 ## How the files work
 
-Every file is a flat JSON object. The **key** is an opaque ID, the **value** is the text shown to users:
+Every file is a flat JSON object. The **key** is a stable ID, the **value** is the text shown to users:
 
 ```json
 {
-  "uIoM32": "Automatic Compression",
-  "TO4ScR": "Party Mode"
+  "SETTINGS_PREFS_AUTO_COMPRESSION_LABEL": "Automatic Compression",
+  "SETTINGS_PREFS_PARTY_MODE_LABEL": "Party Mode"
 }
 ```
 
@@ -20,7 +20,38 @@ Every file is a flat JSON object. The **key** is an opaque ID, the **value** is 
 1. Pick a locale file in `strings/` (e.g. `strings/de.json`).
 2. Find keys whose value still reads like English, or that you want to improve.
 3. Translate the **value** only. Never change a key.
-4. Open a pull request.
+4. Open a pull request (see [Submitting a pull request](#submitting-a-pull-request) below).
+
+## Submitting a pull request
+
+You don't need write access to this repo. The standard GitHub fork-and-PR flow:
+
+1. **Fork** this repo on GitHub (the **Fork** button, top right of the repo page).
+2. **Clone your fork** locally:
+   ```bash
+   git clone https://github.com/<your-username>/i18n.git
+   cd i18n
+   ```
+3. **Create a branch** for your change:
+   ```bash
+   git checkout -b translate-de
+   ```
+4. **Edit the locale file** in `strings/` and save.
+5. **Validate** your change:
+   ```bash
+   node validate.js
+   ```
+   Fix anything it reports.
+6. **Commit and push** to your fork:
+   ```bash
+   git add strings/<code>.json
+   git commit -m "Improve German translations"
+   git push origin translate-de
+   ```
+7. **Open a pull request** from your fork's branch to `snipp-gg/i18n` `main`. GitHub shows a "Compare & pull request" button after you push.
+8. A maintainer reviews and merges. Translations ship to the live site on the next release.
+
+If you don't want to use the command line, GitHub's web editor works too: fork the repo, open the locale file, click the pencil icon, edit, and propose changes. GitHub creates the branch and PR for you.
 
 ### Rules
 
