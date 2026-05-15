@@ -149,7 +149,7 @@
   "GIFT_CLAIMED_HEADING": "{tier} unlocked!",
   "GIFT_CLAIMED_BODY": "{tier} has been added to your account.",
   "GIFT_CLAIMED_BODY_WITH_DATE": "{tier} is yours until {date}.",
-  "GIFT_VIEW_BILLING_BUTTON": "View billing",
+  "GIFT_VIEW_BILLING_BUTTON": "View Billing",
   "GIFT_ERROR_HEADING": "Something went wrong",
   "GIFT_TRY_DIFFERENT_BUTTON": "Try a different code",
   "SETTINGS_NAV_PREFERENCES_SUBTITLE": "Налаштувати анімацію та ефекти",
