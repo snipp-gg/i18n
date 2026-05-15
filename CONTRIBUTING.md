@@ -78,7 +78,7 @@ It checks that every locale has the same keys as `en-US.json` and that placehold
 
 ## Adding a new language
 
-1. Open an issue proposing the language and its locale code (BCP-47, e.g. `fr`, `pt-BR`).
+1. Open an issue proposing the language and its locale code (BCP-47, e.g. `fr-FR`, `pt-BR`).
 2. Copy `strings/en-US.json` to `strings/<code>.json` (e.g. `it-IT.json`, BCP-47).
 3. Translate every value.
 4. Open a PR. A maintainer registers the locale in the Snipp website.
