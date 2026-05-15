@@ -144,7 +144,7 @@
   "GIFT_CLAIMING_HEADING": "Hämtar din present...",
   "GIFT_CLAIMING_BODY": "Vänta lite, det tar bara en sekund.",
   "GIFT_LOGIN_HEADING": "Logga in för att hämta",
-  "GIFT_LOGIN_BODY": "Du behöver ett Snipp-konto för att lösa in den här presenten. Vi tar dig direkt tillbaka.",
+  "GIFT_LOGIN_BODY": "Du behöver ett Snipp-konto för att lösa in den här presenten.",
   "GIFT_LOGIN_BUTTON": "Logga in för att hämta",
   "GIFT_CLAIMED_HEADING": "{tier} upplåst!",
   "GIFT_CLAIMED_BODY": "{tier} har lagts till på ditt konto.",

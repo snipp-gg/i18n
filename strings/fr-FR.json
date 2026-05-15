@@ -144,7 +144,7 @@
   "GIFT_CLAIMING_HEADING": "Réclamation de votre cadeau...",
   "GIFT_CLAIMING_BODY": "Patientez, cela ne prend qu'une seconde.",
   "GIFT_LOGIN_HEADING": "Connectez-vous pour réclamer",
-  "GIFT_LOGIN_BODY": "Vous avez besoin d'un compte Snipp pour utiliser ce cadeau. Nous vous ramènerons ici.",
+  "GIFT_LOGIN_BODY": "Vous avez besoin d'un compte Snipp pour utiliser ce cadeau.",
   "GIFT_LOGIN_BUTTON": "Connectez-vous pour réclamer",
   "GIFT_CLAIMED_HEADING": "{tier} débloqué !",
   "GIFT_CLAIMED_BODY": "{tier} a été ajouté à votre compte.",

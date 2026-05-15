@@ -144,7 +144,7 @@
   "GIFT_CLAIMING_HEADING": "Odbieranie prezentu...",
   "GIFT_CLAIMING_BODY": "Chwilę cierpliwości, to potrwa tylko sekundę.",
   "GIFT_LOGIN_HEADING": "Zaloguj się, aby odebrać",
-  "GIFT_LOGIN_BODY": "Potrzebujesz konta Snipp, aby odebrać ten prezent. Wrócimy tu z Tobą.",
+  "GIFT_LOGIN_BODY": "Potrzebujesz konta Snipp, aby odebrać ten prezent.",
   "GIFT_LOGIN_BUTTON": "Zaloguj się, aby odebrać",
   "GIFT_CLAIMED_HEADING": "{tier} odblokowane!",
   "GIFT_CLAIMED_BODY": "{tier} zostało dodane do Twojego konta.",

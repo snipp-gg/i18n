@@ -144,7 +144,7 @@
   "GIFT_CLAIMING_HEADING": "ギフトを受け取り中...",
   "GIFT_CLAIMING_BODY": "少々お待ちください。すぐ完了します。",
   "GIFT_LOGIN_HEADING": "ログインして受け取る",
-  "GIFT_LOGIN_BODY": "このギフトを受け取るには Snipp アカウントが必要です。ログイン後すぐに戻ります。",
+  "GIFT_LOGIN_BODY": "このギフトを受け取るには Snipp アカウントが必要です。",
   "GIFT_LOGIN_BUTTON": "ログインして受け取る",
   "GIFT_CLAIMED_HEADING": "{tier} のロックを解除しました！",
   "GIFT_CLAIMED_BODY": "{tier} があなたのアカウントに追加されました。",

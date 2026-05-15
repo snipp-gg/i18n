@@ -144,7 +144,7 @@
   "GIFT_CLAIMING_HEADING": "Hediyen alınıyor...",
   "GIFT_CLAIMING_BODY": "Bekle, sadece bir saniye sürer.",
   "GIFT_LOGIN_HEADING": "Almak için giriş yap",
-  "GIFT_LOGIN_BODY": "Bu hediyeyi kullanmak için bir Snipp hesabına ihtiyacın var. Seni hemen geri getireceğiz.",
+  "GIFT_LOGIN_BODY": "Bu hediyeyi kullanmak için bir Snipp hesabına ihtiyacın var.",
   "GIFT_LOGIN_BUTTON": "Almak için giriş yap",
   "GIFT_CLAIMED_HEADING": "{tier} açıldı!",
   "GIFT_CLAIMED_BODY": "{tier} hesabına eklendi.",

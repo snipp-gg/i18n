@@ -144,7 +144,7 @@
   "GIFT_CLAIMING_HEADING": "Получение подарка...",
   "GIFT_CLAIMING_BODY": "Подождите, это займет всего секунду.",
   "GIFT_LOGIN_HEADING": "Войдите, чтобы получить",
-  "GIFT_LOGIN_BODY": "Для получения подарка нужен аккаунт Snipp. Мы вернем вас сюда.",
+  "GIFT_LOGIN_BODY": "Для получения подарка нужен аккаунт Snipp.",
   "GIFT_LOGIN_BUTTON": "Войти, чтобы получить",
   "GIFT_CLAIMED_HEADING": "{tier} разблокирован!",
   "GIFT_CLAIMED_BODY": "{tier} добавлен к вашему аккаунту.",

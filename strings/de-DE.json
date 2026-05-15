@@ -144,7 +144,7 @@
   "GIFT_CLAIMING_HEADING": "Geschenk wird eingelöst...",
   "GIFT_CLAIMING_BODY": "Einen Moment, das dauert nur eine Sekunde.",
   "GIFT_LOGIN_HEADING": "Anmelden zum Einlösen",
-  "GIFT_LOGIN_BODY": "Du brauchst ein Snipp-Konto, um dieses Geschenk einzulösen. Wir bringen dich gleich zurück.",
+  "GIFT_LOGIN_BODY": "Du brauchst ein Snipp-Konto, um dieses Geschenk einzulösen.",
   "GIFT_LOGIN_BUTTON": "Anmelden zum Einlösen",
   "GIFT_CLAIMED_HEADING": "{tier} freigeschaltet!",
   "GIFT_CLAIMED_BODY": "{tier} wurde deinem Konto hinzugefügt.",

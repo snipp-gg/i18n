@@ -144,7 +144,7 @@
   "GIFT_CLAIMING_HEADING": "Resgatando seu presente...",
   "GIFT_CLAIMING_BODY": "Aguarde, leva apenas um segundo.",
   "GIFT_LOGIN_HEADING": "Entre para resgatar",
-  "GIFT_LOGIN_BODY": "Você precisa de uma conta Snipp para resgatar este presente. Vamos te trazer de volta.",
+  "GIFT_LOGIN_BODY": "Você precisa de uma conta Snipp para resgatar este presente.",
   "GIFT_LOGIN_BUTTON": "Entre para resgatar",
   "GIFT_CLAIMED_HEADING": "{tier} desbloqueado!",
   "GIFT_CLAIMED_BODY": "{tier} foi adicionado à sua conta.",

@@ -144,7 +144,7 @@
   "GIFT_CLAIMING_HEADING": "Claiming your gift...",
   "GIFT_CLAIMING_BODY": "Hang tight, this only takes a second.",
   "GIFT_LOGIN_HEADING": "Log in to claim",
-  "GIFT_LOGIN_BODY": "You need a Snipp account to redeem this gift. We'll bring you right back.",
+  "GIFT_LOGIN_BODY": "You need a Snipp account to redeem this gift.",
   "GIFT_LOGIN_BUTTON": "Log in to claim",
   "GIFT_CLAIMED_HEADING": "{tier} unlocked!",
   "GIFT_CLAIMED_BODY": "{tier} has been added to your account.",
