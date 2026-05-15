@@ -2,15 +2,13 @@
 
 This repository contains the translation files for [Snipp](https://snipp.gg).
 
-Each file is a flat JSON map of opaque string IDs to translated text. `en-US.json` is the source of truth. Every other locale mirrors its keys.
+Each file is a flat JSON map of opaque string IDs to translated text. `source/en-US.json` is the source of truth. Every other locale lives in `strings/` and mirrors its keys.
 
 ## Locales
 
-All locale files live in `strings/`.
-
 | File | Language |
 |------|----------|
-| `strings/en-US.json` | English (source) |
+| `source/en-US.json` | English (source) |
 | `strings/pl-PL.json` | Polski |
 | `strings/fr-FR.json` | Français |
 | `strings/de-DE.json` | Deutsch |
@@ -28,7 +26,7 @@ Read [CONTRIBUTING.md](CONTRIBUTING.md). You don't need to be a developer. If yo
 
 ## Adding a new language
 
-Open an issue first so it can be tracked. Locale codes use BCP-47 (e.g. `it-IT`, `zh-CN`). Then copy `strings/en-US.json` to `strings/<code>.json` (e.g. `strings/it-IT.json`), translate every value, and open a PR. A maintainer wires the new locale into the website.
+Open an issue first so it can be tracked. Locale codes use BCP-47 (e.g. `it-IT`, `zh-CN`). Then copy `source/en-US.json` to `strings/<code>.json` (e.g. `strings/it-IT.json`), translate every value, and open a PR. A maintainer wires the new locale into the website.
 
 ## License
 

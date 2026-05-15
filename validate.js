@@ -5,12 +5,13 @@
 const fs = require("fs");
 const path = require("path");
 
+const sourceDir = path.join(__dirname, "source");
 const dir = path.join(__dirname, "strings");
 const SOURCE = "en-US.json";
 
-function load(file) {
+function load(file, baseDir) {
   try {
-    return JSON.parse(fs.readFileSync(path.join(dir, file), "utf8"));
+    return JSON.parse(fs.readFileSync(path.join(baseDir, file), "utf8"));
   } catch (e) {
     console.error(`✗ ${file}: invalid JSON: ${e.message}`);
     process.exit(1);
@@ -21,17 +22,17 @@ function placeholders(str) {
   return (String(str).match(/\{\w+\}/g) || []).sort();
 }
 
-const source = load(SOURCE);
+const source = load(SOURCE, sourceDir);
 const sourceKeys = Object.keys(source);
 
 const locales = fs
   .readdirSync(dir)
-  .filter((f) => f.endsWith(".json") && f !== SOURCE);
+  .filter((f) => f.endsWith(".json"));
 
 let problems = 0;
 
 for (const file of locales) {
-  const data = load(file);
+  const data = load(file, dir);
   const keys = Object.keys(data);
 
   const missing = sourceKeys.filter((k) => !(k in data));
