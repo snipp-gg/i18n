@@ -13,11 +13,11 @@ Every file is a flat JSON object. The **key** is a stable ID, the **value** is t
 }
 ```
 
-`en.json` is the source of truth. Every other locale has the **exact same set of keys**, so you only ever change the values.
+`en-US.json` is the source of truth. Every other locale has the **exact same set of keys**, so you only ever change the values.
 
 ## Translating
 
-1. Pick a locale file in `strings/` (e.g. `strings/de.json`).
+1. Pick a locale file in `strings/` (e.g. `strings/de-DE.json`).
 2. Find keys whose value still reads like English, or that you want to improve.
 3. Translate the **value** only. Never change a key.
 4. Open a pull request (see [Submitting a pull request](#submitting-a-pull-request) below).
@@ -55,7 +55,7 @@ If you don't want to use the command line, GitHub's web editor works too: fork t
 
 ### Rules
 
-- **Never add, remove, or rename keys.** New keys come from the Snipp codebase via `en.json`. If a key is missing in your locale, the site falls back to English, so open an issue rather than inventing a key.
+- **Never add, remove, or rename keys.** New keys come from the Snipp codebase via `en-US.json`. If a key is missing in your locale, the site falls back to English, so open an issue rather than inventing a key.
 - **Keep placeholders identical.** Text like `{count}`, `{username}`, `{email}` is replaced at runtime. Keep the exact same placeholders, spelled the same way. You may move them to fit your language's word order.
   ```json
   "en": "Adding {count} files",
@@ -74,12 +74,12 @@ From the repo root:
 node validate.js
 ```
 
-It checks that every locale has the same keys as `en.json` and that placeholders match. Fix anything it reports before opening your PR.
+It checks that every locale has the same keys as `en-US.json` and that placeholders match. Fix anything it reports before opening your PR.
 
 ## Adding a new language
 
 1. Open an issue proposing the language and its locale code (BCP-47, e.g. `fr`, `pt-BR`).
-2. Copy `strings/en.json` to `strings/<code>.json`.
+2. Copy `strings/en-US.json` to `strings/<code>.json` (e.g. `it-IT.json`, BCP-47).
 3. Translate every value.
 4. Open a PR. A maintainer registers the locale in the Snipp website.
 

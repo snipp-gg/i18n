@@ -1,12 +1,12 @@
 #!/usr/bin/env node
-// Validates locale files against en.json: key parity + placeholder consistency.
+// Validates locale files against en-US.json: key parity + placeholder consistency.
 // Usage: node validate.js
 
 const fs = require("fs");
 const path = require("path");
 
 const dir = path.join(__dirname, "strings");
-const SOURCE = "en.json";
+const SOURCE = "en-US.json";
 
 function load(file) {
   try {

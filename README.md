@@ -2,7 +2,7 @@
 
 This repository contains the translation files for [Snipp](https://snipp.gg).
 
-Each file is a flat JSON map of opaque string IDs to translated text. `en.json` is the source of truth. Every other locale mirrors its keys.
+Each file is a flat JSON map of opaque string IDs to translated text. `en-US.json` is the source of truth. Every other locale mirrors its keys.
 
 ## Locales
 
@@ -10,17 +10,17 @@ All locale files live in `strings/`.
 
 | File | Language |
 |------|----------|
-| `strings/en.json` | English (source) |
-| `strings/pl.json` | Polski |
-| `strings/fr.json` | Français |
-| `strings/de.json` | Deutsch |
-| `strings/es.json` | Español |
+| `strings/en-US.json` | English (source) |
+| `strings/pl-PL.json` | Polski |
+| `strings/fr-FR.json` | Français |
+| `strings/de-DE.json` | Deutsch |
+| `strings/es-ES.json` | Español |
 | `strings/pt-BR.json` | Português (Brasil) |
-| `strings/sv.json` | Svenska |
-| `strings/tr.json` | Türkçe |
-| `strings/ja.json` | 日本語 |
-| `strings/uk.json` | Українська |
-| `strings/ru.json` | Русский |
+| `strings/sv-SE.json` | Svenska |
+| `strings/tr-TR.json` | Türkçe |
+| `strings/ja-JP.json` | 日本語 |
+| `strings/uk-UA.json` | Українська |
+| `strings/ru-RU.json` | Русский |
 
 ## Want to help?
 
@@ -28,7 +28,7 @@ Read [CONTRIBUTING.md](CONTRIBUTING.md). You don't need to be a developer. If yo
 
 ## Adding a new language
 
-Open an issue first so it can be tracked. Then copy `strings/en.json` to `strings/<code>.json` (e.g. `strings/fr.json`), translate every value, and open a PR. A maintainer wires the new locale into the website.
+Open an issue first so it can be tracked. Locale codes use BCP-47 (e.g. `it-IT`, `zh-CN`). Then copy `strings/en-US.json` to `strings/<code>.json` (e.g. `strings/it-IT.json`), translate every value, and open a PR. A maintainer wires the new locale into the website.
 
 ## License
 
