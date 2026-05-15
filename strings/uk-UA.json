@@ -931,7 +931,7 @@
   "SETTINGS_PROFILE_BIO_PLACEHOLDER": "Розкажіть людям трохи про себе...",
   "SETTINGS_PROFILE_EMAIL_HINT": "Використовується для оплати та відновлення акаунта. Ніколи не показується публічно.",
   "SETTINGS_PROFILE_EMBED_HEADING": "Власне вбудовування",
-  "SETTINGS_PROFILE_EMBED_HINT": "Налаштуйте, як ваші завантаження виглядають при обміні в Discord та деінде.",
+  "SETTINGS_PROFILE_EMBED_HINT": "Налаштуйте, як ваші завантаження виглядають при поширенні на платформах.",
   "SETTINGS_PROFILE_EMBED_CUSTOMIZE_BUTTON": "Налаштувати",
   "SETTINGS_PROFILE_DANGER_HEADING": "Небезпечна зона",
   "SETTINGS_PROFILE_DANGER_DELETE_UPLOADS_BUTTON": "Видалити всі завантаження",

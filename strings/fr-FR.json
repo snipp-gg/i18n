@@ -931,7 +931,7 @@
   "SETTINGS_PROFILE_BIO_PLACEHOLDER": "Parlez un peu de vous aux autres...",
   "SETTINGS_PROFILE_EMAIL_HINT": "Utilisée pour la facturation et la récupération du compte. Jamais affichée publiquement.",
   "SETTINGS_PROFILE_EMBED_HEADING": "Intégration personnalisée",
-  "SETTINGS_PROFILE_EMBED_HINT": "Personnalisez l'apparence de vos envois lorsqu'ils sont partagés sur Discord et ailleurs.",
+  "SETTINGS_PROFILE_EMBED_HINT": "Personnalisez l'apparence de vos envois lorsqu'ils sont partagés sur les plateformes.",
   "SETTINGS_PROFILE_EMBED_CUSTOMIZE_BUTTON": "Personnaliser",
   "SETTINGS_PROFILE_DANGER_HEADING": "Zone de danger",
   "SETTINGS_PROFILE_DANGER_DELETE_UPLOADS_BUTTON": "Supprimer tous les envois",

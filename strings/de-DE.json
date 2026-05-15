@@ -931,7 +931,7 @@
   "SETTINGS_PROFILE_BIO_PLACEHOLDER": "Erzähle anderen etwas über dich...",
   "SETTINGS_PROFILE_EMAIL_HINT": "Wird für Abrechnung und Kontowiederherstellung verwendet. Wird nie öffentlich angezeigt.",
   "SETTINGS_PROFILE_EMBED_HEADING": "Eigene Einbettung",
-  "SETTINGS_PROFILE_EMBED_HINT": "Passe an, wie deine Uploads aussehen, wenn sie auf Discord und anderswo geteilt werden.",
+  "SETTINGS_PROFILE_EMBED_HINT": "Passe an, wie deine Uploads aussehen, wenn sie auf Plattformen geteilt werden.",
   "SETTINGS_PROFILE_EMBED_CUSTOMIZE_BUTTON": "Anpassen",
   "SETTINGS_PROFILE_DANGER_HEADING": "Gefahrenzone",
   "SETTINGS_PROFILE_DANGER_DELETE_UPLOADS_BUTTON": "Alle Uploads löschen",

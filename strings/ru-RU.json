@@ -931,7 +931,7 @@
   "SETTINGS_PROFILE_BIO_PLACEHOLDER": "Расскажите немного о себе...",
   "SETTINGS_PROFILE_EMAIL_HINT": "Используется для оплаты и восстановления учётной записи. Никогда не отображается публично.",
   "SETTINGS_PROFILE_EMBED_HEADING": "Пользовательское встраивание",
-  "SETTINGS_PROFILE_EMBED_HINT": "Настройте, как ваши загрузки выглядят при отправке в Discord и в других местах.",
+  "SETTINGS_PROFILE_EMBED_HINT": "Настройте, как ваши загрузки выглядят при отправке на платформах.",
   "SETTINGS_PROFILE_EMBED_CUSTOMIZE_BUTTON": "Настроить",
   "SETTINGS_PROFILE_DANGER_HEADING": "Опасная зона",
   "SETTINGS_PROFILE_DANGER_DELETE_UPLOADS_BUTTON": "Удалить все загрузки",

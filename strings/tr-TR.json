@@ -931,7 +931,7 @@
   "SETTINGS_PROFILE_BIO_PLACEHOLDER": "İnsanlara kendiniz hakkında biraz bilgi verin...",
   "SETTINGS_PROFILE_EMAIL_HINT": "Faturalandırma ve hesap kurtarma için kullanılır. Asla herkese açık gösterilmez.",
   "SETTINGS_PROFILE_EMBED_HEADING": "Özel Embed",
-  "SETTINGS_PROFILE_EMBED_HINT": "Yüklemelerinizin Discord'da ve başka yerlerde paylaşıldığında nasıl göründüğünü özelleştirin.",
+  "SETTINGS_PROFILE_EMBED_HINT": "Yüklemelerinizin platformlarda paylaşıldığında nasıl göründüğünü özelleştirin.",
   "SETTINGS_PROFILE_EMBED_CUSTOMIZE_BUTTON": "Özelleştir",
   "SETTINGS_PROFILE_DANGER_HEADING": "Tehlikeli bölge",
   "SETTINGS_PROFILE_DANGER_DELETE_UPLOADS_BUTTON": "Tüm yüklemeleri sil",

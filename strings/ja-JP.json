@@ -931,7 +931,7 @@
   "SETTINGS_PROFILE_BIO_PLACEHOLDER": "自分について少し紹介しましょう...",
   "SETTINGS_PROFILE_EMAIL_HINT": "請求とアカウント復旧に使用されます。公開されることはありません。",
   "SETTINGS_PROFILE_EMBED_HEADING": "カスタム埋め込み",
-  "SETTINGS_PROFILE_EMBED_HINT": "Discordなどで共有したときのアップロードの見え方をカスタマイズできます。",
+  "SETTINGS_PROFILE_EMBED_HINT": "各種プラットフォームで共有したときのアップロードの見え方をカスタマイズできます。",
   "SETTINGS_PROFILE_EMBED_CUSTOMIZE_BUTTON": "カスタマイズ",
   "SETTINGS_PROFILE_DANGER_HEADING": "危険な操作",
   "SETTINGS_PROFILE_DANGER_DELETE_UPLOADS_BUTTON": "すべてのアップロードを削除",

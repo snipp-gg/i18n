@@ -931,7 +931,7 @@
   "SETTINGS_PROFILE_BIO_PLACEHOLDER": "Berätta lite om dig själv...",
   "SETTINGS_PROFILE_EMAIL_HINT": "Används för fakturering och kontoåterställning. Visas aldrig offentligt.",
   "SETTINGS_PROFILE_EMBED_HEADING": "Anpassad inbäddning",
-  "SETTINGS_PROFILE_EMBED_HINT": "Anpassa hur dina uppladdningar ser ut när de delas på Discord och andra ställen.",
+  "SETTINGS_PROFILE_EMBED_HINT": "Anpassa hur dina uppladdningar ser ut när de delas på plattformar.",
   "SETTINGS_PROFILE_EMBED_CUSTOMIZE_BUTTON": "Anpassa",
   "SETTINGS_PROFILE_DANGER_HEADING": "Farozon",
   "SETTINGS_PROFILE_DANGER_DELETE_UPLOADS_BUTTON": "Radera alla uppladdningar",

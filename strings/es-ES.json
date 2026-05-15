@@ -931,7 +931,7 @@
   "SETTINGS_PROFILE_BIO_PLACEHOLDER": "Cuéntale a la gente un poco sobre ti...",
   "SETTINGS_PROFILE_EMAIL_HINT": "Se usa para la facturación y la recuperación de la cuenta. Nunca se muestra públicamente.",
   "SETTINGS_PROFILE_EMBED_HEADING": "Inserción Personalizada",
-  "SETTINGS_PROFILE_EMBED_HINT": "Personaliza el aspecto de tus subidas cuando se comparten en Discord y otros sitios.",
+  "SETTINGS_PROFILE_EMBED_HINT": "Personaliza el aspecto de tus subidas cuando se comparten en plataformas.",
   "SETTINGS_PROFILE_EMBED_CUSTOMIZE_BUTTON": "Personalizar",
   "SETTINGS_PROFILE_DANGER_HEADING": "Zona de peligro",
   "SETTINGS_PROFILE_DANGER_DELETE_UPLOADS_BUTTON": "Eliminar todas las subidas",
