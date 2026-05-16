@@ -19,6 +19,8 @@ Each file is a flat JSON map of opaque string IDs to translated text. `source/en
 | `strings/ja-JP.json` | 日本語 |
 | `strings/uk-UA.json` | Українська |
 | `strings/ru-RU.json` | Русский |
+| `strings/th-TH.json` | ไทย |
+| `strings/fil-PH.json` | Filipino |
 
 ## Want to help?
 
