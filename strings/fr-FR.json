@@ -143,6 +143,7 @@
   "GIFT_INVALID_CODE": "Ce code cadeau semble invalide.",
   "GIFT_GIFTED_HEADING": "On vous a offert {tier}",
   "GIFT_GIFTED_BODY": "Une fois accepté, vous aurez {tier} pendant {days} jours.",
+  "GIFT_GIFTED_BODY_ONE": "Une fois accepté, vous aurez {tier} pendant {days} jour.",
   "GIFT_ACCEPT_BUTTON": "Accepter",
   "GIFT_CLAIMING_HEADING": "Réclamation de votre cadeau...",
   "GIFT_CLAIMING_BODY": "Patientez, cela ne prend qu'une seconde.",

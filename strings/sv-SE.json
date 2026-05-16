@@ -143,6 +143,7 @@
   "GIFT_INVALID_CODE": "Den här presentkoden ser ogiltig ut.",
   "GIFT_GIFTED_HEADING": "Du har fått {tier} i present",
   "GIFT_GIFTED_BODY": "När du accepterar har du {tier} i {days} dagar.",
+  "GIFT_GIFTED_BODY_ONE": "När du accepterar har du {tier} i {days} dag.",
   "GIFT_ACCEPT_BUTTON": "Acceptera",
   "GIFT_CLAIMING_HEADING": "Hämtar din present...",
   "GIFT_CLAIMING_BODY": "Vänta lite, det tar bara en sekund.",

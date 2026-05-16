@@ -143,6 +143,7 @@
   "GIFT_INVALID_CODE": "Bu hediye kodu geçersiz görünüyor.",
   "GIFT_GIFTED_HEADING": "Sana {tier} hediye edildi",
   "GIFT_GIFTED_BODY": "Kabul ettiğinde {days} gün boyunca {tier} senin olacak.",
+  "GIFT_GIFTED_BODY_ONE": "Kabul ettiğinde {days} gün boyunca {tier} senin olacak.",
   "GIFT_ACCEPT_BUTTON": "Kabul Et",
   "GIFT_CLAIMING_HEADING": "Hediyen alınıyor...",
   "GIFT_CLAIMING_BODY": "Bekle, sadece bir saniye sürer.",

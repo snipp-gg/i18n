@@ -143,6 +143,7 @@
   "GIFT_INVALID_CODE": "Dieser Geschenkcode sieht ungültig aus.",
   "GIFT_GIFTED_HEADING": "Du hast {tier} geschenkt bekommen",
   "GIFT_GIFTED_BODY": "Wenn du annimmst, hast du {tier} für {days} Tage.",
+  "GIFT_GIFTED_BODY_ONE": "Wenn du annimmst, hast du {tier} für {days} Tag.",
   "GIFT_ACCEPT_BUTTON": "Annehmen",
   "GIFT_CLAIMING_HEADING": "Geschenk wird eingelöst...",
   "GIFT_CLAIMING_BODY": "Einen Moment, das dauert nur eine Sekunde.",

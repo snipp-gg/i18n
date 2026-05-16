@@ -143,6 +143,7 @@
   "GIFT_INVALID_CODE": "Este código de presente parece inválido.",
   "GIFT_GIFTED_HEADING": "Você ganhou {tier} de presente",
   "GIFT_GIFTED_BODY": "Ao aceitar, você terá {tier} por {days} dias.",
+  "GIFT_GIFTED_BODY_ONE": "Ao aceitar, você terá {tier} por {days} dia.",
   "GIFT_ACCEPT_BUTTON": "Aceitar",
   "GIFT_CLAIMING_HEADING": "Resgatando seu presente...",
   "GIFT_CLAIMING_BODY": "Aguarde, leva apenas um segundo.",

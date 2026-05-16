@@ -143,6 +143,7 @@
   "GIFT_INVALID_CODE": "Ten kod podarunkowy wygląda na nieprawidłowy.",
   "GIFT_GIFTED_HEADING": "Otrzymałeś prezent {tier}",
   "GIFT_GIFTED_BODY": "Po zaakceptowaniu będziesz mieć {tier} przez {days} dni.",
+  "GIFT_GIFTED_BODY_ONE": "Po zaakceptowaniu będziesz mieć {tier} przez {days} dzień.",
   "GIFT_ACCEPT_BUTTON": "Akceptuję",
   "GIFT_CLAIMING_HEADING": "Odbieranie prezentu...",
   "GIFT_CLAIMING_BODY": "Chwilę cierpliwości, to potrwa tylko sekundę.",

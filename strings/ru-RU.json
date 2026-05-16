@@ -143,6 +143,7 @@
   "GIFT_INVALID_CODE": "Этот подарочный код выглядит недействительным.",
   "GIFT_GIFTED_HEADING": "Вам подарили {tier}",
   "GIFT_GIFTED_BODY": "После принятия у вас будет {tier} на {days} дней.",
+  "GIFT_GIFTED_BODY_ONE": "После принятия у вас будет {tier} на {days} день.",
   "GIFT_ACCEPT_BUTTON": "Принять",
   "GIFT_CLAIMING_HEADING": "Получение подарка...",
   "GIFT_CLAIMING_BODY": "Подождите, это займет всего секунду.",

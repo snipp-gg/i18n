@@ -143,6 +143,7 @@
   "GIFT_INVALID_CODE": "Цей подарунковий код виглядає недійсним.",
   "GIFT_GIFTED_HEADING": "Вам подарували {tier}",
   "GIFT_GIFTED_BODY": "Після прийняття у вас буде {tier} на {days} днів.",
+  "GIFT_GIFTED_BODY_ONE": "Після прийняття у вас буде {tier} на {days} день.",
   "GIFT_ACCEPT_BUTTON": "Прийняти",
   "GIFT_CLAIMING_HEADING": "Отримання подарунка...",
   "GIFT_CLAIMING_BODY": "Зачекайте, це займе лише секунду.",
