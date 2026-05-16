@@ -16,11 +16,11 @@ Each file is a flat JSON map of opaque string IDs to translated text. `source/en
 | `strings/pt-BR.json` | Português (Brasil) |
 | `strings/sv-SE.json` | Svenska |
 | `strings/tr-TR.json` | Türkçe |
+| `strings/fil-PH.json` | Filipino |
 | `strings/ja-JP.json` | 日本語 |
 | `strings/uk-UA.json` | Українська |
 | `strings/ru-RU.json` | Русский |
 | `strings/th-TH.json` | ไทย |
-| `strings/fil-PH.json` | Filipino |
 
 ## Want to help?
 
