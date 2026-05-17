@@ -2,6 +2,10 @@
 
 Thanks for helping translate Snipp. This guide covers everything you need.
 
+## Rewards
+
+Meaningful contributions will earn you the exclusive translator badge on your profile, along with the Translator role in our Discord server. (just don't forget to include your Snipp username) Heavy contributors may also receive Snipp+ as a thank you.
+
 ## How the files work
 
 Every file is a flat JSON object. The **key** is a stable ID, the **value** is the text shown to users:
