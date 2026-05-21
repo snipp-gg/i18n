@@ -1466,7 +1466,6 @@
   "TEAMS_GALLERY_NO_ACCESS_BODY": "This team does not exist or you are not a member.",
   "UPLOAD_TARGET_LABEL": "Upload to",
   "UPLOAD_TARGET_PERSONAL": "Personal",
-  "UPLOAD_TARGET_TEAM_NO_PUBLIC": "Team posts cannot be public",
   "SETTINGS_TEAMS_DELETE_UPLOADS_HEADING": "Видалити всі завантаження",
   "SETTINGS_TEAMS_DELETE_UPLOADS_DESCRIPTION": "Permanently delete every post and file in this team's gallery. The team itself stays.",
   "SETTINGS_TEAMS_DELETE_UPLOADS_BUTTON": "Delete uploads",
