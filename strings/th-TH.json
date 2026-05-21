@@ -926,6 +926,7 @@
   "SETTINGS_PROFILE_BANNER_ERROR_INVALID_URL": "แบนเนอร์ต้องเป็น URL รูปภาพ Snipp ที่ถูกต้อง",
   "SETTINGS_PROFILE_TOAST_UPDATE_FAILED": "ไม่สามารถอัปเดตโปรไฟล์ได้",
   "SETTINGS_PROFILE_TOAST_UPDATE_SUCCESS": "อัปเดตโปรไฟล์แล้ว!",
+  "SETTINGS_PROFILE_TOAST_EMAIL_CONFIRM": "อัปเดตโปรไฟล์แล้ว ตรวจสอบกล่องจดหมายของอีเมลใหม่เพื่อยืนยันการเปลี่ยนแปลง",
   "SETTINGS_PROFILE_DANGER_ERROR_DELETE_ACCOUNT": "เกิดข้อผิดพลาดขณะลบบัญชีของคุณ",
   "SETTINGS_PROFILE_DANGER_TOAST_UPLOADS_DELETED": "การอัปโหลดและโพสต์ทั้งหมดของคุณถูกลบแล้ว",
   "SETTINGS_PROFILE_HEADING": "โปรไฟล์และบัญชี",

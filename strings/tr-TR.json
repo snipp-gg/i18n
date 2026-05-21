@@ -926,6 +926,7 @@
   "SETTINGS_PROFILE_BANNER_ERROR_INVALID_URL": "Afiş geçerli bir Snipp görsel URL'si olmalıdır.",
   "SETTINGS_PROFILE_TOAST_UPDATE_FAILED": "Profil güncellenemedi.",
   "SETTINGS_PROFILE_TOAST_UPDATE_SUCCESS": "Profil güncellendi!",
+  "SETTINGS_PROFILE_TOAST_EMAIL_CONFIRM": "Profil güncellendi. Değişikliği onaylamak için yeni e-posta gelen kutunu kontrol et.",
   "SETTINGS_PROFILE_DANGER_ERROR_DELETE_ACCOUNT": "Hesabınız silinirken bir hata oluştu.",
   "SETTINGS_PROFILE_DANGER_TOAST_UPLOADS_DELETED": "Tüm yüklemeleriniz ve gönderileriniz silindi.",
   "SETTINGS_PROFILE_HEADING": "Profil ve hesap",

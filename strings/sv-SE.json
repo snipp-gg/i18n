@@ -926,6 +926,7 @@
   "SETTINGS_PROFILE_BANNER_ERROR_INVALID_URL": "Bannern måste vara en giltig Snipp-bild-URL.",
   "SETTINGS_PROFILE_TOAST_UPDATE_FAILED": "Kunde inte uppdatera profilen.",
   "SETTINGS_PROFILE_TOAST_UPDATE_SUCCESS": "Profil uppdaterad!",
+  "SETTINGS_PROFILE_TOAST_EMAIL_CONFIRM": "Profilen uppdaterad. Kontrollera inkorgen för din nya e-postadress för att bekräfta ändringen.",
   "SETTINGS_PROFILE_DANGER_ERROR_DELETE_ACCOUNT": "Ett fel uppstod när ditt konto skulle raderas.",
   "SETTINGS_PROFILE_DANGER_TOAST_UPLOADS_DELETED": "Alla dina uppladdningar och inlägg har raderats.",
   "SETTINGS_PROFILE_HEADING": "Profil och konto",

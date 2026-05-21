@@ -926,6 +926,7 @@
   "SETTINGS_PROFILE_BANNER_ERROR_INVALID_URL": "Баннер должен быть корректным URL изображения Snipp.",
   "SETTINGS_PROFILE_TOAST_UPDATE_FAILED": "Не удалось обновить профиль.",
   "SETTINGS_PROFILE_TOAST_UPDATE_SUCCESS": "Профиль обновлён!",
+  "SETTINGS_PROFILE_TOAST_EMAIL_CONFIRM": "Профиль обновлён. Проверьте почту нового адреса, чтобы подтвердить изменение.",
   "SETTINGS_PROFILE_DANGER_ERROR_DELETE_ACCOUNT": "Произошла ошибка при удалении вашей учётной записи.",
   "SETTINGS_PROFILE_DANGER_TOAST_UPLOADS_DELETED": "Все ваши загрузки и посты были удалены.",
   "SETTINGS_PROFILE_HEADING": "Профиль и учётная запись",

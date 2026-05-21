@@ -926,6 +926,7 @@
   "SETTINGS_PROFILE_BANNER_ERROR_INVALID_URL": "Ang banner ay dapat valid na Snipp image URL.",
   "SETTINGS_PROFILE_TOAST_UPDATE_FAILED": "Hindi na-update ang profile.",
   "SETTINGS_PROFILE_TOAST_UPDATE_SUCCESS": "Na-update ang profile!",
+  "SETTINGS_PROFILE_TOAST_EMAIL_CONFIRM": "Na-update ang profile. Tingnan ang inbox ng iyong bagong email para kumpirmahin ang pagbabago.",
   "SETTINGS_PROFILE_DANGER_ERROR_DELETE_ACCOUNT": "May naganap na error habang tinatanggal ang iyong account.",
   "SETTINGS_PROFILE_DANGER_TOAST_UPLOADS_DELETED": "Natanggal na ang lahat ng iyong mga upload at post.",
   "SETTINGS_PROFILE_HEADING": "Profile at account",

@@ -926,6 +926,7 @@
   "SETTINGS_PROFILE_BANNER_ERROR_INVALID_URL": "El banner debe ser una URL de imagen de Snipp válida.",
   "SETTINGS_PROFILE_TOAST_UPDATE_FAILED": "No se pudo actualizar el perfil.",
   "SETTINGS_PROFILE_TOAST_UPDATE_SUCCESS": "¡Perfil actualizado!",
+  "SETTINGS_PROFILE_TOAST_EMAIL_CONFIRM": "Perfil actualizado. Revisa la bandeja de entrada de tu nuevo correo para confirmar el cambio.",
   "SETTINGS_PROFILE_DANGER_ERROR_DELETE_ACCOUNT": "Se produjo un error al eliminar tu cuenta.",
   "SETTINGS_PROFILE_DANGER_TOAST_UPLOADS_DELETED": "Se han eliminado todas tus subidas y publicaciones.",
   "SETTINGS_PROFILE_HEADING": "Perfil y cuenta",
