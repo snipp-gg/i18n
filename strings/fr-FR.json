@@ -926,6 +926,7 @@
   "SETTINGS_PROFILE_BANNER_ERROR_INVALID_URL": "La bannière doit être une URL d'image Snipp valide.",
   "SETTINGS_PROFILE_TOAST_UPDATE_FAILED": "Échec de la mise à jour du profil.",
   "SETTINGS_PROFILE_TOAST_UPDATE_SUCCESS": "Profil mis à jour !",
+  "SETTINGS_PROFILE_TOAST_EMAIL_CONFIRM": "Profile updated. Check your new email inbox to confirm the change.",
   "SETTINGS_PROFILE_DANGER_ERROR_DELETE_ACCOUNT": "Une erreur s'est produite lors de la suppression de votre compte.",
   "SETTINGS_PROFILE_DANGER_TOAST_UPLOADS_DELETED": "Tous vos envois et posts ont été supprimés.",
   "SETTINGS_PROFILE_HEADING": "Profil et compte",
