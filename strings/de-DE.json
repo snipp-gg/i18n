@@ -926,6 +926,7 @@
   "SETTINGS_PROFILE_BANNER_ERROR_INVALID_URL": "Das Banner muss eine gültige Snipp-Bild-URL sein.",
   "SETTINGS_PROFILE_TOAST_UPDATE_FAILED": "Profil konnte nicht aktualisiert werden.",
   "SETTINGS_PROFILE_TOAST_UPDATE_SUCCESS": "Profil aktualisiert!",
+  "SETTINGS_PROFILE_TOAST_EMAIL_CONFIRM": "Profile updated. Check your new email inbox to confirm the change.",
   "SETTINGS_PROFILE_DANGER_ERROR_DELETE_ACCOUNT": "Beim Löschen deines Kontos ist ein Fehler aufgetreten.",
   "SETTINGS_PROFILE_DANGER_TOAST_UPLOADS_DELETED": "Alle deine Uploads und Beiträge wurden gelöscht.",
   "SETTINGS_PROFILE_HEADING": "Profil & Konto",
