@@ -926,6 +926,7 @@
   "SETTINGS_PROFILE_BANNER_ERROR_INVALID_URL": "Банер має бути дійсним URL зображення Snipp.",
   "SETTINGS_PROFILE_TOAST_UPDATE_FAILED": "Не вдалося оновити профіль.",
   "SETTINGS_PROFILE_TOAST_UPDATE_SUCCESS": "Профіль оновлено!",
+  "SETTINGS_PROFILE_TOAST_EMAIL_CONFIRM": "Profile updated. Check your new email inbox to confirm the change.",
   "SETTINGS_PROFILE_DANGER_ERROR_DELETE_ACCOUNT": "Під час видалення вашого акаунта сталася помилка.",
   "SETTINGS_PROFILE_DANGER_TOAST_UPLOADS_DELETED": "Усі ваші завантаження та дописи видалено.",
   "SETTINGS_PROFILE_HEADING": "Профіль та акаунт",
