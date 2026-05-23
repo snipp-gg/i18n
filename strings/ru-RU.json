@@ -1504,5 +1504,17 @@
   "TEAMS_JOIN_ENTERPRISE_REQUIRED": "Команды — это функция Enterprise. Перейдите на план Enterprise, чтобы присоединиться к этой команде.",
   "SETTINGS_TEAMS_MEMBER_COUNT_CAPPED": "{count} / {max} участников",
   "SETTINGS_TEAMS_INVITES_FULL": "Эта команда заполнена ({max} участников). Удалите участника, чтобы пригласить нового.",
-  "SETTINGS_TEAMS_INVITES_LIMIT_REACHED": "Вы достигли лимита в {max} пригласительных ссылок. Отзовите одну, чтобы создать новую."
+  "SETTINGS_TEAMS_INVITES_LIMIT_REACHED": "Вы достигли лимита в {max} пригласительных ссылок. Отзовите одну, чтобы создать новую.",
+  "FOLLOW_FOLLOW": "Подписаться",
+  "FOLLOW_FOLLOWING": "Вы подписаны",
+  "FOLLOW_UNFOLLOW": "Отписаться",
+  "FOLLOW_FOLLOW_BACK": "Подписаться в ответ",
+  "FOLLOW_FOLLOWERS": "Подписчики",
+  "FOLLOW_NO_FOLLOWERS": "Пока нет подписчиков.",
+  "FOLLOW_NO_FOLLOWING": "Вы пока ни на кого не подписаны.",
+  "FOLLOW_LIST_ERROR": "Не удалось загрузить этот список.",
+  "FOLLOW_REMOVE": "Удалить",
+  "FOLLOW_REMOVE_THIS_FOLLOWER": "Удалить этого подписчика",
+  "FOLLOW_ACTIONS_MENU_LABEL": "Действия с подписчиком",
+  "FOLLOW_TOAST_REMOVED_FOLLOWER": "@{username} удалён из ваших подписчиков"
 }

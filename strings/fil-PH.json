@@ -1504,5 +1504,17 @@
   "TEAMS_JOIN_ENTERPRISE_REQUIRED": "Ang mga team ay isang Enterprise feature. Mag-upgrade sa Enterprise plan para sumali sa team na ito.",
   "SETTINGS_TEAMS_MEMBER_COUNT_CAPPED": "{count} / {max} miyembro",
   "SETTINGS_TEAMS_INVITES_FULL": "Puno na ang team na ito ({max} miyembro). Mag-alis ng miyembro para mag-imbita ng bago.",
-  "SETTINGS_TEAMS_INVITES_LIMIT_REACHED": "Naabot mo na ang limitasyong {max} na invite link. Bumawi ng isa para makagawa ng panibago."
+  "SETTINGS_TEAMS_INVITES_LIMIT_REACHED": "Naabot mo na ang limitasyong {max} na invite link. Bumawi ng isa para makagawa ng panibago.",
+  "FOLLOW_FOLLOW": "I-follow",
+  "FOLLOW_FOLLOWING": "Sinusundan",
+  "FOLLOW_UNFOLLOW": "I-unfollow",
+  "FOLLOW_FOLLOW_BACK": "I-follow pabalik",
+  "FOLLOW_FOLLOWERS": "Mga follower",
+  "FOLLOW_NO_FOLLOWERS": "Wala pang follower.",
+  "FOLLOW_NO_FOLLOWING": "Wala pang sinusundan.",
+  "FOLLOW_LIST_ERROR": "Hindi ma-load ang listahang ito.",
+  "FOLLOW_REMOVE": "Alisin",
+  "FOLLOW_REMOVE_THIS_FOLLOWER": "Alisin ang follower na ito",
+  "FOLLOW_ACTIONS_MENU_LABEL": "Mga aksyon sa follower",
+  "FOLLOW_TOAST_REMOVED_FOLLOWER": "Inalis si @{username} sa iyong mga follower"
 }

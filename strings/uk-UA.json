@@ -1504,5 +1504,17 @@
   "TEAMS_JOIN_ENTERPRISE_REQUIRED": "Команди — це функція Enterprise. Перейдіть на план Enterprise, щоб приєднатися до цієї команди.",
   "SETTINGS_TEAMS_MEMBER_COUNT_CAPPED": "{count} / {max} учасників",
   "SETTINGS_TEAMS_INVITES_FULL": "Ця команда заповнена ({max} учасників). Видаліть учасника, щоб запросити когось нового.",
-  "SETTINGS_TEAMS_INVITES_LIMIT_REACHED": "Ви досягли ліміту в {max} посилань-запрошень. Відкличте одне, щоб створити нове."
+  "SETTINGS_TEAMS_INVITES_LIMIT_REACHED": "Ви досягли ліміту в {max} посилань-запрошень. Відкличте одне, щоб створити нове.",
+  "FOLLOW_FOLLOW": "Стежити",
+  "FOLLOW_FOLLOWING": "Ви стежите",
+  "FOLLOW_UNFOLLOW": "Не стежити",
+  "FOLLOW_FOLLOW_BACK": "Стежити у відповідь",
+  "FOLLOW_FOLLOWERS": "Підписники",
+  "FOLLOW_NO_FOLLOWERS": "Ще немає підписників.",
+  "FOLLOW_NO_FOLLOWING": "Ви ще ні за ким не стежите.",
+  "FOLLOW_LIST_ERROR": "Не вдалося завантажити цей список.",
+  "FOLLOW_REMOVE": "Вилучити",
+  "FOLLOW_REMOVE_THIS_FOLLOWER": "Вилучити цього підписника",
+  "FOLLOW_ACTIONS_MENU_LABEL": "Дії з підписником",
+  "FOLLOW_TOAST_REMOVED_FOLLOWER": "@{username} вилучено з ваших підписників"
 }

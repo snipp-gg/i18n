@@ -1504,5 +1504,17 @@
   "TEAMS_JOIN_ENTERPRISE_REQUIRED": "Takımlar bir Enterprise özelliğidir. Bu takıma katılmak için Enterprise planına geç.",
   "SETTINGS_TEAMS_MEMBER_COUNT_CAPPED": "{count} / {max} üye",
   "SETTINGS_TEAMS_INVITES_FULL": "Bu takım dolu ({max} üye). Yeni birini davet etmek için bir üyeyi kaldır.",
-  "SETTINGS_TEAMS_INVITES_LIMIT_REACHED": "{max} davet bağlantısı sınırına ulaştın. Yenisini oluşturmak için birini iptal et."
+  "SETTINGS_TEAMS_INVITES_LIMIT_REACHED": "{max} davet bağlantısı sınırına ulaştın. Yenisini oluşturmak için birini iptal et.",
+  "FOLLOW_FOLLOW": "Takip et",
+  "FOLLOW_FOLLOWING": "Takip ediliyor",
+  "FOLLOW_UNFOLLOW": "Takibi bırak",
+  "FOLLOW_FOLLOW_BACK": "Geri takip et",
+  "FOLLOW_FOLLOWERS": "Takipçiler",
+  "FOLLOW_NO_FOLLOWERS": "Henüz takipçi yok.",
+  "FOLLOW_NO_FOLLOWING": "Henüz kimse takip edilmiyor.",
+  "FOLLOW_LIST_ERROR": "Bu liste yüklenemedi.",
+  "FOLLOW_REMOVE": "Kaldır",
+  "FOLLOW_REMOVE_THIS_FOLLOWER": "Bu takipçiyi kaldır",
+  "FOLLOW_ACTIONS_MENU_LABEL": "Takipçi işlemleri",
+  "FOLLOW_TOAST_REMOVED_FOLLOWER": "@{username} takipçilerinden kaldırıldı"
 }

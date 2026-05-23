@@ -1504,5 +1504,17 @@
   "TEAMS_JOIN_ENTERPRISE_REQUIRED": "Equipes são um recurso Enterprise. Mude para o plano Enterprise para entrar nesta equipe.",
   "SETTINGS_TEAMS_MEMBER_COUNT_CAPPED": "{count} / {max} membros",
   "SETTINGS_TEAMS_INVITES_FULL": "Esta equipe está cheia ({max} membros). Remova um membro para convidar alguém novo.",
-  "SETTINGS_TEAMS_INVITES_LIMIT_REACHED": "Você atingiu o limite de {max} links de convite. Revogue um para criar outro."
+  "SETTINGS_TEAMS_INVITES_LIMIT_REACHED": "Você atingiu o limite de {max} links de convite. Revogue um para criar outro.",
+  "FOLLOW_FOLLOW": "Seguir",
+  "FOLLOW_FOLLOWING": "Seguindo",
+  "FOLLOW_UNFOLLOW": "Deixar de seguir",
+  "FOLLOW_FOLLOW_BACK": "Seguir de volta",
+  "FOLLOW_FOLLOWERS": "Seguidores",
+  "FOLLOW_NO_FOLLOWERS": "Ainda não há seguidores.",
+  "FOLLOW_NO_FOLLOWING": "Você ainda não segue ninguém.",
+  "FOLLOW_LIST_ERROR": "Não foi possível carregar esta lista.",
+  "FOLLOW_REMOVE": "Remover",
+  "FOLLOW_REMOVE_THIS_FOLLOWER": "Remover este seguidor",
+  "FOLLOW_ACTIONS_MENU_LABEL": "Ações do seguidor",
+  "FOLLOW_TOAST_REMOVED_FOLLOWER": "@{username} removido dos seus seguidores"
 }

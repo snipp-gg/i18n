@@ -1504,5 +1504,17 @@
   "TEAMS_JOIN_ENTERPRISE_REQUIRED": "ทีมเป็นฟีเจอร์ของ Enterprise อัปเกรดเป็นแพ็กเกจ Enterprise เพื่อเข้าร่วมทีมนี้",
   "SETTINGS_TEAMS_MEMBER_COUNT_CAPPED": "{count} / {max} สมาชิก",
   "SETTINGS_TEAMS_INVITES_FULL": "ทีมนี้เต็มแล้ว ({max} สมาชิก) นำสมาชิกออกหนึ่งคนเพื่อเชิญคนใหม่",
-  "SETTINGS_TEAMS_INVITES_LIMIT_REACHED": "คุณถึงขีดจำกัด {max} ลิงก์คำเชิญแล้ว เพิกถอนหนึ่งลิงก์เพื่อสร้างลิงก์ใหม่"
+  "SETTINGS_TEAMS_INVITES_LIMIT_REACHED": "คุณถึงขีดจำกัด {max} ลิงก์คำเชิญแล้ว เพิกถอนหนึ่งลิงก์เพื่อสร้างลิงก์ใหม่",
+  "FOLLOW_FOLLOW": "ติดตาม",
+  "FOLLOW_FOLLOWING": "กำลังติดตาม",
+  "FOLLOW_UNFOLLOW": "เลิกติดตาม",
+  "FOLLOW_FOLLOW_BACK": "ติดตามกลับ",
+  "FOLLOW_FOLLOWERS": "ผู้ติดตาม",
+  "FOLLOW_NO_FOLLOWERS": "ยังไม่มีผู้ติดตาม",
+  "FOLLOW_NO_FOLLOWING": "ยังไม่ได้ติดตามใคร",
+  "FOLLOW_LIST_ERROR": "ไม่สามารถโหลดรายการนี้ได้",
+  "FOLLOW_REMOVE": "ลบ",
+  "FOLLOW_REMOVE_THIS_FOLLOWER": "ลบผู้ติดตามรายนี้",
+  "FOLLOW_ACTIONS_MENU_LABEL": "การดำเนินการกับผู้ติดตาม",
+  "FOLLOW_TOAST_REMOVED_FOLLOWER": "ลบ @{username} ออกจากผู้ติดตามของคุณแล้ว"
 }

@@ -1504,5 +1504,17 @@
   "TEAMS_JOIN_ENTERPRISE_REQUIRED": "Les équipes sont une fonctionnalité Enterprise. Passez au forfait Enterprise pour rejoindre cette équipe.",
   "SETTINGS_TEAMS_MEMBER_COUNT_CAPPED": "{count} / {max} membres",
   "SETTINGS_TEAMS_INVITES_FULL": "Cette équipe est complète ({max} membres). Retirez un membre pour en inviter un nouveau.",
-  "SETTINGS_TEAMS_INVITES_LIMIT_REACHED": "Vous avez atteint la limite de {max} liens d'invitation. Révoquez-en un pour en créer un autre."
+  "SETTINGS_TEAMS_INVITES_LIMIT_REACHED": "Vous avez atteint la limite de {max} liens d'invitation. Révoquez-en un pour en créer un autre.",
+  "FOLLOW_FOLLOW": "Suivre",
+  "FOLLOW_FOLLOWING": "Abonné",
+  "FOLLOW_UNFOLLOW": "Ne plus suivre",
+  "FOLLOW_FOLLOW_BACK": "Suivre en retour",
+  "FOLLOW_FOLLOWERS": "Abonnés",
+  "FOLLOW_NO_FOLLOWERS": "Aucun abonné pour l'instant.",
+  "FOLLOW_NO_FOLLOWING": "Aucun abonnement pour l'instant.",
+  "FOLLOW_LIST_ERROR": "Impossible de charger cette liste.",
+  "FOLLOW_REMOVE": "Retirer",
+  "FOLLOW_REMOVE_THIS_FOLLOWER": "Retirer cet abonné",
+  "FOLLOW_ACTIONS_MENU_LABEL": "Actions sur l'abonné",
+  "FOLLOW_TOAST_REMOVED_FOLLOWER": "@{username} retiré de vos abonnés"
 }

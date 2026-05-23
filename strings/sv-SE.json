@@ -1504,5 +1504,17 @@
   "TEAMS_JOIN_ENTERPRISE_REQUIRED": "Team är en Enterprise-funktion. Uppgradera till Enterprise-planen för att gå med i det här teamet.",
   "SETTINGS_TEAMS_MEMBER_COUNT_CAPPED": "{count} / {max} medlemmar",
   "SETTINGS_TEAMS_INVITES_FULL": "Det här teamet är fullt ({max} medlemmar). Ta bort en medlem för att bjuda in någon ny.",
-  "SETTINGS_TEAMS_INVITES_LIMIT_REACHED": "Du har nått gränsen på {max} inbjudningslänkar. Återkalla en för att skapa en ny."
+  "SETTINGS_TEAMS_INVITES_LIMIT_REACHED": "Du har nått gränsen på {max} inbjudningslänkar. Återkalla en för att skapa en ny.",
+  "FOLLOW_FOLLOW": "Följ",
+  "FOLLOW_FOLLOWING": "Följer",
+  "FOLLOW_UNFOLLOW": "Sluta följa",
+  "FOLLOW_FOLLOW_BACK": "Följ tillbaka",
+  "FOLLOW_FOLLOWERS": "Följare",
+  "FOLLOW_NO_FOLLOWERS": "Inga följare än.",
+  "FOLLOW_NO_FOLLOWING": "Följer ingen än.",
+  "FOLLOW_LIST_ERROR": "Det gick inte att läsa in den här listan.",
+  "FOLLOW_REMOVE": "Ta bort",
+  "FOLLOW_REMOVE_THIS_FOLLOWER": "Ta bort den här följaren",
+  "FOLLOW_ACTIONS_MENU_LABEL": "Följaråtgärder",
+  "FOLLOW_TOAST_REMOVED_FOLLOWER": "Tog bort @{username} från dina följare"
 }

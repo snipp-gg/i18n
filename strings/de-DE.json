@@ -1504,5 +1504,17 @@
   "TEAMS_JOIN_ENTERPRISE_REQUIRED": "Teams sind eine Enterprise-Funktion. Wechsle zum Enterprise-Tarif, um diesem Team beizutreten.",
   "SETTINGS_TEAMS_MEMBER_COUNT_CAPPED": "{count} / {max} Mitglieder",
   "SETTINGS_TEAMS_INVITES_FULL": "Dieses Team ist voll ({max} Mitglieder). Entferne ein Mitglied, um jemand Neues einzuladen.",
-  "SETTINGS_TEAMS_INVITES_LIMIT_REACHED": "Du hast das Limit von {max} Einladungslinks erreicht. Widerrufe einen, um einen weiteren zu erstellen."
+  "SETTINGS_TEAMS_INVITES_LIMIT_REACHED": "Du hast das Limit von {max} Einladungslinks erreicht. Widerrufe einen, um einen weiteren zu erstellen.",
+  "FOLLOW_FOLLOW": "Folgen",
+  "FOLLOW_FOLLOWING": "Gefolgt",
+  "FOLLOW_UNFOLLOW": "Entfolgen",
+  "FOLLOW_FOLLOW_BACK": "Zurückfolgen",
+  "FOLLOW_FOLLOWERS": "Follower",
+  "FOLLOW_NO_FOLLOWERS": "Noch keine Follower.",
+  "FOLLOW_NO_FOLLOWING": "Folgt noch niemandem.",
+  "FOLLOW_LIST_ERROR": "Diese Liste konnte nicht geladen werden.",
+  "FOLLOW_REMOVE": "Entfernen",
+  "FOLLOW_REMOVE_THIS_FOLLOWER": "Diesen Follower entfernen",
+  "FOLLOW_ACTIONS_MENU_LABEL": "Follower-Aktionen",
+  "FOLLOW_TOAST_REMOVED_FOLLOWER": "@{username} aus deinen Followern entfernt"
 }
