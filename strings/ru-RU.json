@@ -1504,5 +1504,17 @@
   "TEAMS_JOIN_ENTERPRISE_REQUIRED": "Teams are an Enterprise feature. Upgrade to the Enterprise plan to join this team.",
   "SETTINGS_TEAMS_MEMBER_COUNT_CAPPED": "{count} / {max} members",
   "SETTINGS_TEAMS_INVITES_FULL": "This team is full ({max} members). Remove a member to invite someone new.",
-  "SETTINGS_TEAMS_INVITES_LIMIT_REACHED": "You've reached the limit of {max} invite links. Revoke one to create another."
+  "SETTINGS_TEAMS_INVITES_LIMIT_REACHED": "You've reached the limit of {max} invite links. Revoke one to create another.",
+  "FOLLOW_FOLLOW": "Follow",
+  "FOLLOW_FOLLOWING": "Following",
+  "FOLLOW_UNFOLLOW": "Unfollow",
+  "FOLLOW_FOLLOW_BACK": "Follow Back",
+  "FOLLOW_FOLLOWERS": "Followers",
+  "FOLLOW_NO_FOLLOWERS": "No followers yet.",
+  "FOLLOW_NO_FOLLOWING": "Not following anyone yet.",
+  "FOLLOW_LIST_ERROR": "Could not load this list.",
+  "FOLLOW_REMOVE": "Убрать",
+  "FOLLOW_REMOVE_THIS_FOLLOWER": "Remove this follower",
+  "FOLLOW_ACTIONS_MENU_LABEL": "Follower actions",
+  "FOLLOW_TOAST_REMOVED_FOLLOWER": "Removed @{username} from your followers"
 }
