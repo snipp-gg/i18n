@@ -21,6 +21,7 @@ Each file is a flat JSON map of opaque string IDs to translated text. `source/en
 | `strings/uk-UA.json` | Українська |
 | `strings/ru-RU.json` | Русский |
 | `strings/th-TH.json` | ไทย |
+| `strings/zh-CN.json` | Chinese (China) |
 
 ## Want to help?
 
