@@ -14,6 +14,7 @@ Each file is a flat JSON map of opaque string IDs to translated text. `source/en
 | `strings/de-DE.json` | Deutsch |
 | `strings/es-ES.json` | Español |
 | `strings/pt-BR.json` | Português (Brasil) |
+| `strings/el-GR.json` | ελληνικά |
 | `strings/sv-SE.json` | Svenska |
 | `strings/fil-PH.json` | Filipino |
 | `strings/tr-TR.json` | Türkçe |
