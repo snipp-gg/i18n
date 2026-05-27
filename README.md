@@ -13,6 +13,7 @@ Each file is a flat JSON map of opaque string IDs to translated text. `source/en
 | `strings/fr-FR.json` | Français |
 | `strings/de-DE.json` | Deutsch |
 | `strings/es-ES.json` | Español |
+| `strings/pt-PT.json` | Português (Portugal) |
 | `strings/pt-BR.json` | Português (Brasil) |
 | `strings/el-GR.json` | ελληνικά |
 | `strings/sv-SE.json` | Svenska |
