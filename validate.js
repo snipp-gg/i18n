@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 // Validates locale files against en-US.json: key parity + placeholder consistency.
-// Usage: node validate.js
+// Usage: node validate.js [--fix]
 
 const fs = require("fs");
 const path = require("path");
@@ -8,6 +8,7 @@ const path = require("path");
 const sourceDir = path.join(__dirname, "source");
 const dir = path.join(__dirname, "strings");
 const SOURCE = "en-US.json";
+const FIX = process.argv.includes("--fix");
 
 function load(file, baseDir) {
   try {
@@ -25,9 +26,7 @@ function placeholders(str) {
 const source = load(SOURCE, sourceDir);
 const sourceKeys = Object.keys(source);
 
-const locales = fs
-  .readdirSync(dir)
-  .filter((f) => f.endsWith(".json"));
+const locales = fs.readdirSync(dir).filter((f) => f.endsWith(".json"));
 
 let problems = 0;
 
@@ -38,10 +37,29 @@ for (const file of locales) {
   const missing = sourceKeys.filter((k) => !(k in data));
   const extra = keys.filter((k) => !(k in source));
 
-  for (const k of missing) {
-    console.error(`✗ ${file}: missing key "${k}"`);
-    problems++;
+  if (missing.length > 0 && FIX) {
+    for (const k of missing) {
+      data[k] = source[k];
+      console.log(
+        `  ✎ ${file}: added missing key "${k}" (copied from ${SOURCE})`,
+      );
+    }
+    const fixed = {};
+    for (const k of sourceKeys) fixed[k] = data[k];
+    for (const k of extra) fixed[k] = data[k];
+    fs.writeFileSync(
+      path.join(dir, file),
+      JSON.stringify(fixed, null, 2) + "\n",
+      "utf8",
+    );
+    console.log(`✎ ${file}: wrote ${missing.length} fix(es)`);
+  } else {
+    for (const k of missing) {
+      console.error(`✗ ${file}: missing key "${k}"`);
+      problems++;
+    }
   }
+
   for (const k of extra) {
     console.error(`✗ ${file}: unknown key "${k}" (not in ${SOURCE})`);
     problems++;
@@ -54,8 +72,8 @@ for (const file of locales) {
     if (want.join(",") !== got.join(",")) {
       console.error(
         `✗ ${file}: placeholder mismatch on "${k}": expected ${JSON.stringify(
-          want
-        )}, got ${JSON.stringify(got)}`
+          want,
+        )}, got ${JSON.stringify(got)}`,
       );
       problems++;
     }
@@ -71,6 +89,7 @@ if (problems) {
   process.exit(1);
 }
 
+const fixMsg = FIX ? " (with auto-fix enabled)" : "";
 console.log(
-  `✓ All ${locales.length} locale(s) valid, ${sourceKeys.length} keys each.`
+  `✓ All ${locales.length} locale(s) valid, ${sourceKeys.length} keys each.${fixMsg}`,
 );
