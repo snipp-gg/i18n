@@ -1513,7 +1513,6 @@
   "FOLLOW_NO_FOLLOWERS": "Ще немає підписників.",
   "FOLLOW_NO_FOLLOWING": "Ви ще ні за ким не стежите.",
   "FOLLOW_LIST_ERROR": "Не вдалося завантажити цей список.",
-  "FOLLOW_REMOVE": "Вилучити",
   "FOLLOW_REMOVE_THIS_FOLLOWER": "Вилучити цього підписника",
   "FOLLOW_ACTIONS_MENU_LABEL": "Дії з підписником",
   "FOLLOW_TOAST_REMOVED_FOLLOWER": "@{username} вилучено з ваших підписників"

@@ -15,12 +15,12 @@ Each file is a flat JSON map of opaque string IDs to translated text. `source/en
 | [`strings/es-ES.json`](./strings/es-ES.json)   | Español              |
 | [`strings/pt-PT.json`](./strings/pt-PT.json)   | Português (Portugal) |
 | [`strings/pt-BR.json`](./strings/pt-BR.json)   | Português (Brasil)   |
-| [`strings/el-GR.json`](./strings/el-GR.json)   | Ελληνικά             |
 | [`strings/sv-SE.json`](./strings/sv-SE.json)   | Svenska              |
 | [`strings/fil-PH.json`](./strings/fil-PH.json) | Filipino             |
 | [`strings/tr-TR.json`](./strings/tr-TR.json)   | Türkçe               |
 | [`strings/ja-JP.json`](./strings/ja-JP.json)   | 日本語                  |
 | [`strings/uk-UA.json`](./strings/uk-UA.json)   | Українська           |
+| [`strings/el-GR.json`](./strings/el-GR.json)   | Ελληνικά             |
 | [`strings/ru-RU.json`](./strings/ru-RU.json)   | Русский              |
 | [`strings/th-TH.json`](./strings/th-TH.json)   | ไทย                  |
 | [`strings/zh-CN.json`](./strings/zh-CN.json)   | 中文（简体）               |

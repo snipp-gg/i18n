@@ -1513,7 +1513,6 @@
   "FOLLOW_NO_FOLLOWERS": "ยังไม่มีผู้ติดตาม",
   "FOLLOW_NO_FOLLOWING": "ยังไม่ได้ติดตามใคร",
   "FOLLOW_LIST_ERROR": "ไม่สามารถโหลดรายการนี้ได้",
-  "FOLLOW_REMOVE": "ลบ",
   "FOLLOW_REMOVE_THIS_FOLLOWER": "ลบผู้ติดตามรายนี้",
   "FOLLOW_ACTIONS_MENU_LABEL": "การดำเนินการกับผู้ติดตาม",
   "FOLLOW_TOAST_REMOVED_FOLLOWER": "ลบ @{username} ออกจากผู้ติดตามของคุณแล้ว"

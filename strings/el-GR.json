@@ -1513,19 +1513,7 @@
   "FOLLOW_NO_FOLLOWERS": "No followers yet.",
   "FOLLOW_NO_FOLLOWING": "Not following anyone yet.",
   "FOLLOW_LIST_ERROR": "Could not load this list.",
-  "FOLLOW_REMOVE": "Remove",
   "FOLLOW_REMOVE_THIS_FOLLOWER": "Remove this follower",
   "FOLLOW_ACTIONS_MENU_LABEL": "Follower actions",
-  "FOLLOW_TOAST_REMOVED_FOLLOWER": "Removed @{username} from your followers",
-  "COMMON_PLUS": "Plus",
-  "LOGIN_CHECK_EMAIL_SUBHEADING": "Στείλαμε ένα magic link στο {email}. Κάντε κλικ στον σύνδεσμο για σύνδεση ή εισάγετε τον κωδικό παρακάτω. Λήγει σε 15 λεπτά.",
-  "LOGIN_VERIFY_CODE_BUTTON": "Επαλήθευση κωδικού",
-  "PLUS_PAGE_FEATURE_MORE_SOON_HEADING": "Περισσότερα Σύντομα",
-  "PLUS_PAGE_FEATURE_MORE_SOON_BODY": "Δουλεύουμε πάντα νέα προνόμια για τα μέλη PLUS. Αναλυτικά στοιχεία και άλλα είναι στον δρόμο.",
-  "PLUS_PAGE_FEATURE_NO_FILE_LIMIT_HEADING": "Χωρίς όριο ανά αρχείο",
-  "PLUS_PAGE_FEATURE_NO_FILE_LIMIT_BODY_2": "Από 50 MB σε καμία οροφή. Ανεβάστε πλήρη gameplay, στιγμιότυπα 4K, raw εξαγωγές, ό,τι θέλετε. Η εβδομαδιαία ποσόστωσή σας είναι το μόνο όριο.",
-  "HOME_STATS_QUOTA_LABEL": "Δωρεάν εβδομαδιαία ποσόστωση",
-  "HOME_STATS_QUOTA_CAPTION": "Κυλιόμενο παράθυρο 7 ημερών, 20 GB στο PLUS",
-  "SUPPORT_SECURITY_OUT_OF_SCOPE_ITEM_BRUTE_FORCE": "Επιθέσεις brute force",
-  "SUPPORT_SECURITY_OUT_OF_SCOPE_ITEM_DOS": "Επιθέσεις Άρνησης Υπηρεσίας όπου το αποτέλεσμα είναι εξάντληση πόρων"
+  "FOLLOW_TOAST_REMOVED_FOLLOWER": "Removed @{username} from your followers"
 }

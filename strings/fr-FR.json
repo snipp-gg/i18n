@@ -1513,7 +1513,6 @@
   "FOLLOW_NO_FOLLOWERS": "Aucun abonné pour l'instant.",
   "FOLLOW_NO_FOLLOWING": "Aucun abonnement pour l'instant.",
   "FOLLOW_LIST_ERROR": "Impossible de charger cette liste.",
-  "FOLLOW_REMOVE": "Retirer",
   "FOLLOW_REMOVE_THIS_FOLLOWER": "Retirer cet abonné",
   "FOLLOW_ACTIONS_MENU_LABEL": "Actions sur l'abonné",
   "FOLLOW_TOAST_REMOVED_FOLLOWER": "@{username} retiré de vos abonnés"

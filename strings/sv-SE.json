@@ -1513,7 +1513,6 @@
   "FOLLOW_NO_FOLLOWERS": "Inga följare än.",
   "FOLLOW_NO_FOLLOWING": "Följer ingen än.",
   "FOLLOW_LIST_ERROR": "Det gick inte att läsa in den här listan.",
-  "FOLLOW_REMOVE": "Ta bort",
   "FOLLOW_REMOVE_THIS_FOLLOWER": "Ta bort den här följaren",
   "FOLLOW_ACTIONS_MENU_LABEL": "Följaråtgärder",
   "FOLLOW_TOAST_REMOVED_FOLLOWER": "Tog bort @{username} från dina följare"

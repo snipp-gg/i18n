@@ -1513,7 +1513,6 @@
   "FOLLOW_NO_FOLLOWERS": "Noch keine Follower.",
   "FOLLOW_NO_FOLLOWING": "Folgt noch niemandem.",
   "FOLLOW_LIST_ERROR": "Diese Liste konnte nicht geladen werden.",
-  "FOLLOW_REMOVE": "Entfernen",
   "FOLLOW_REMOVE_THIS_FOLLOWER": "Diesen Follower entfernen",
   "FOLLOW_ACTIONS_MENU_LABEL": "Follower-Aktionen",
   "FOLLOW_TOAST_REMOVED_FOLLOWER": "@{username} aus deinen Followern entfernt"

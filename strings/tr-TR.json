@@ -1513,7 +1513,6 @@
   "FOLLOW_NO_FOLLOWERS": "Henüz takipçi yok.",
   "FOLLOW_NO_FOLLOWING": "Henüz kimse takip edilmiyor.",
   "FOLLOW_LIST_ERROR": "Bu liste yüklenemedi.",
-  "FOLLOW_REMOVE": "Kaldır",
   "FOLLOW_REMOVE_THIS_FOLLOWER": "Bu takipçiyi kaldır",
   "FOLLOW_ACTIONS_MENU_LABEL": "Takipçi işlemleri",
   "FOLLOW_TOAST_REMOVED_FOLLOWER": "@{username} takipçilerinden kaldırıldı"

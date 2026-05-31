@@ -1513,7 +1513,6 @@
   "FOLLOW_NO_FOLLOWERS": "目前还没有关注者。",
   "FOLLOW_NO_FOLLOWING": "目前还没有关注任何人。",
   "FOLLOW_LIST_ERROR": "无法加载此列表。",
-  "FOLLOW_REMOVE": "移除",
   "FOLLOW_REMOVE_THIS_FOLLOWER": "移除此关注者",
   "FOLLOW_ACTIONS_MENU_LABEL": "关注者行为",
   "FOLLOW_TOAST_REMOVED_FOLLOWER": "已从您的关注者中移除 @{username}"
