@@ -1489,7 +1489,7 @@
   "SETTINGS_TEAMS_CREATE_HINT": "Each team gets its own gallery and access key. You can create up to {limit} teams.",
   "SETTINGS_TEAMS_OVERVIEW_HINT": "Your team's name, storage, and gallery.",
   "SETTINGS_TEAMS_NAME_LABEL": "Team Name",
-  "SETTINGS_TEAMS_DANGER_HEADING": "Danger Zone",
+  "SETTINGS_TEAMS_DANGER_HEADING": "Danger zone",
   "SETTINGS_TEAMS_OWNER_TOOLTIP": "Team Owner",
   "SETTINGS_TEAMS_LIST_COUNT_SINGULAR": "You are currently in {count} team.",
   "SETTINGS_TEAMS_LIST_COUNT_PLURAL": "You are currently in {count} teams.",
