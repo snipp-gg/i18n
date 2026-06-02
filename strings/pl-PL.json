@@ -1515,6 +1515,6 @@
   "FOLLOW_NO_FOLLOWING": "Nie obserwujesz jeszcze nikogo.",
   "FOLLOW_LIST_ERROR": "Nie udało się wczytać tej listy.",
   "FOLLOW_REMOVE_THIS_FOLLOWER": "Usuń tego obserwującego",
-  "FOLLOW_ACTIONS_MENU_LABEL": "Działania obserwującego",
+  "USER_ACTIONS_MENU_LABEL": "Działania użytkownika",
   "FOLLOW_TOAST_REMOVED_FOLLOWER": "Usunięto @{username} z Twoich obserwujących"
 }

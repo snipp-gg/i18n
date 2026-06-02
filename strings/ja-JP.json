@@ -1515,6 +1515,6 @@
   "FOLLOW_NO_FOLLOWING": "まだ誰もフォローしていません。",
   "FOLLOW_LIST_ERROR": "このリストを読み込めませんでした。",
   "FOLLOW_REMOVE_THIS_FOLLOWER": "このフォロワーを削除",
-  "FOLLOW_ACTIONS_MENU_LABEL": "フォロワーの操作",
+  "USER_ACTIONS_MENU_LABEL": "ユーザーの操作",
   "FOLLOW_TOAST_REMOVED_FOLLOWER": "@{username}さんをフォロワーから削除しました"
 }

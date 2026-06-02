@@ -1515,6 +1515,6 @@
   "FOLLOW_NO_FOLLOWING": "Вы пока ни на кого не подписаны.",
   "FOLLOW_LIST_ERROR": "Не удалось загрузить этот список.",
   "FOLLOW_REMOVE_THIS_FOLLOWER": "Удалить этого подписчика",
-  "FOLLOW_ACTIONS_MENU_LABEL": "Действия с подписчиком",
+  "USER_ACTIONS_MENU_LABEL": "Действия с пользователем",
   "FOLLOW_TOAST_REMOVED_FOLLOWER": "@{username} удалён из ваших подписчиков"
 }

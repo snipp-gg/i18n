@@ -1515,6 +1515,6 @@
   "FOLLOW_NO_FOLLOWING": "Wala pang sinusundan.",
   "FOLLOW_LIST_ERROR": "Hindi ma-load ang listahang ito.",
   "FOLLOW_REMOVE_THIS_FOLLOWER": "Alisin ang follower na ito",
-  "FOLLOW_ACTIONS_MENU_LABEL": "Mga aksyon sa follower",
+  "USER_ACTIONS_MENU_LABEL": "Mga aksyon sa user",
   "FOLLOW_TOAST_REMOVED_FOLLOWER": "Inalis si @{username} sa iyong mga follower"
 }

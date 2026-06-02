@@ -1515,6 +1515,6 @@
   "FOLLOW_NO_FOLLOWING": "Not following anyone yet.",
   "FOLLOW_LIST_ERROR": "Could not load this list.",
   "FOLLOW_REMOVE_THIS_FOLLOWER": "Remove this follower",
-  "FOLLOW_ACTIONS_MENU_LABEL": "Follower actions",
+  "USER_ACTIONS_MENU_LABEL": "User actions",
   "FOLLOW_TOAST_REMOVED_FOLLOWER": "Removed @{username} from your followers"
 }
