@@ -204,6 +204,7 @@
   "BADGE_EARLY_SUPPORTER": "Wczesny Wspierający",
   "BADGE_TRANSLATOR": "Tłumacz",
   "BADGE_SUBSCRIBER": "Subskrybent",
+  "BADGE_SUBSCRIBER_SINCE": "Subscriber since {date}",
   "PROFILE_JOINED_DATE": "Dołączył(a) {date}",
   "COMMON_CLOSE": "Zamknij",
   "LIGHTBOX_PREVIOUS_ARIA": "Poprzedni",
@@ -1177,7 +1178,7 @@
   "SUPPORT_BADGES_VERIFIED_HEADING": "Zweryfikowany",
   "SUPPORT_BADGES_VERIFIED_BODY": "The Verified badge marks notable accounts and confirms an identity is genuine. It is granted by the Snipp team, typically to public figures, brands, and creators with an established presence. It cannot be requested directly, though an active and authentic profile helps.",
   "SUPPORT_BADGES_SUBSCRIBER_HEADING": "Subskrybent",
-  "SUPPORT_BADGES_SUBSCRIBER_BODY": "The Subscriber badge shows you support Snipp with an active PLUS subscription. It appears for as long as your subscription is active. Upgrade on the pricing page to earn it.",
+  "SUPPORT_BADGES_SUBSCRIBER_BODY": "The Subscriber badge shows you support Snipp with an active PLUS subscription. It appears for as long as your subscription is active. Upgrade on the pricing page to earn it. Hover the badge to see when you subscribed.",
   "SUPPORT_BADGES_BUG_HUNTER_HEADING": "Łowca Błędów",
   "SUPPORT_BADGES_BUG_HUNTER_BODY": "The Bug Hunter badge is awarded for your first valid security report through our bug bounty program. It recognizes researchers who responsibly disclose vulnerabilities and help keep Snipp safe.",
   "SUPPORT_BADGES_ELITE_BUG_HUNTER_HEADING": "Elitarny Łowca Błędów",
@@ -1514,6 +1515,6 @@
   "FOLLOW_NO_FOLLOWING": "Not following anyone yet.",
   "FOLLOW_LIST_ERROR": "Could not load this list.",
   "FOLLOW_REMOVE_THIS_FOLLOWER": "Remove this follower",
-  "FOLLOW_ACTIONS_MENU_LABEL": "Follower actions",
+  "USER_ACTIONS_MENU_LABEL": "User actions",
   "FOLLOW_TOAST_REMOVED_FOLLOWER": "Removed @{username} from your followers"
 }
