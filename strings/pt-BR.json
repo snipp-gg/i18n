@@ -325,6 +325,7 @@
   "MODAL_ADD_SOCIALS_ERROR_INVALID_PLATFORM_LINK": "Insira um link válido do {platform}.",
   "MODAL_ADD_SOCIALS_ERROR_INVALID_PLATFORM_PROFILE": "Isso não parece um link de perfil válido do {platform}!",
   "MODAL_ADD_SOCIALS_HEADING": "Adicionar link do {platform}",
+  "MODAL_ADD_SOCIALS_MANAGE_HEADING": "Gerenciar link do {platform}",
   "MODAL_ADD_SOCIALS_ADD_BUTTON": "Adicionar",
   "COMMON_POST_MODERATED": "Publicação Moderada",
   "COMMON_USER_SUSPENDED": "Usuário Suspenso",

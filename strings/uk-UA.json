@@ -325,6 +325,7 @@
   "MODAL_ADD_SOCIALS_ERROR_INVALID_PLATFORM_LINK": "Будь ласка, введіть дійсне посилання {platform}.",
   "MODAL_ADD_SOCIALS_ERROR_INVALID_PLATFORM_PROFILE": "Це не схоже на дійсне посилання на профіль {platform}!",
   "MODAL_ADD_SOCIALS_HEADING": "Додати посилання {platform}",
+  "MODAL_ADD_SOCIALS_MANAGE_HEADING": "Керувати посиланням {platform}",
   "MODAL_ADD_SOCIALS_ADD_BUTTON": "Додати",
   "COMMON_POST_MODERATED": "Допис модеровано",
   "COMMON_USER_SUSPENDED": "Користувача призупинено",

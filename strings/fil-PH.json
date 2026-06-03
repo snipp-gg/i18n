@@ -325,6 +325,7 @@
   "MODAL_ADD_SOCIALS_ERROR_INVALID_PLATFORM_LINK": "Maglagay ng valid na {platform} link.",
   "MODAL_ADD_SOCIALS_ERROR_INVALID_PLATFORM_PROFILE": "Mukhang hindi yan valid na link ng {platform} profile!",
   "MODAL_ADD_SOCIALS_HEADING": "Magdagdag ng {platform} link",
+  "MODAL_ADD_SOCIALS_MANAGE_HEADING": "Pamahalaan ang {platform} link",
   "MODAL_ADD_SOCIALS_ADD_BUTTON": "Idagdag",
   "COMMON_POST_MODERATED": "Naka-moderate na Post",
   "COMMON_USER_SUSPENDED": "Suspendido na User",

@@ -325,6 +325,7 @@
   "MODAL_ADD_SOCIALS_ERROR_INVALID_PLATFORM_LINK": "有効な{platform}のリンクを入力してください。",
   "MODAL_ADD_SOCIALS_ERROR_INVALID_PLATFORM_PROFILE": "有効な{platform}のプロフィールリンクではないようです！",
   "MODAL_ADD_SOCIALS_HEADING": "{platform}のリンクを追加",
+  "MODAL_ADD_SOCIALS_MANAGE_HEADING": "{platform}のリンクを管理",
   "MODAL_ADD_SOCIALS_ADD_BUTTON": "追加",
   "COMMON_POST_MODERATED": "投稿はモデレートされました",
   "COMMON_USER_SUSPENDED": "ユーザーは停止されました",

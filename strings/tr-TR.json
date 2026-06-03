@@ -325,6 +325,7 @@
   "MODAL_ADD_SOCIALS_ERROR_INVALID_PLATFORM_LINK": "Lütfen geçerli bir {platform} bağlantısı girin.",
   "MODAL_ADD_SOCIALS_ERROR_INVALID_PLATFORM_PROFILE": "Bu geçerli bir {platform} profil bağlantısına benzemiyor!",
   "MODAL_ADD_SOCIALS_HEADING": "{platform} bağlantısı ekle",
+  "MODAL_ADD_SOCIALS_MANAGE_HEADING": "{platform} bağlantısını yönet",
   "MODAL_ADD_SOCIALS_ADD_BUTTON": "Ekle",
   "COMMON_POST_MODERATED": "Gönderi Denetlendi",
   "COMMON_USER_SUSPENDED": "Kullanıcı Askıya Alındı",

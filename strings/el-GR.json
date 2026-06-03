@@ -325,6 +325,7 @@
   "MODAL_ADD_SOCIALS_ERROR_INVALID_PLATFORM_LINK": "Εισάγετε έγκυρο σύνδεσμο {platform}.",
   "MODAL_ADD_SOCIALS_ERROR_INVALID_PLATFORM_PROFILE": "Αυτό δεν μοιάζει με έγκυρο σύνδεσμο προφίλ {platform}!",
   "MODAL_ADD_SOCIALS_HEADING": "Προσθήκη συνδέσμου {platform}",
+  "MODAL_ADD_SOCIALS_MANAGE_HEADING": "Διαχείριση συνδέσμου {platform}",
   "MODAL_ADD_SOCIALS_ADD_BUTTON": "Προσθήκη",
   "COMMON_POST_MODERATED": "Ανάρτηση Υπό Συντονισμό",
   "COMMON_USER_SUSPENDED": "Χρήστης Υπό Αναστολή",

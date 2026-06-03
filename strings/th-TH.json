@@ -325,6 +325,7 @@
   "MODAL_ADD_SOCIALS_ERROR_INVALID_PLATFORM_LINK": "กรุณากรอกลิงก์ {platform} ที่ถูกต้อง",
   "MODAL_ADD_SOCIALS_ERROR_INVALID_PLATFORM_PROFILE": "ดูเหมือนจะไม่ใช่ลิงก์โปรไฟล์ {platform} ที่ถูกต้อง!",
   "MODAL_ADD_SOCIALS_HEADING": "เพิ่มลิงก์ {platform}",
+  "MODAL_ADD_SOCIALS_MANAGE_HEADING": "จัดการลิงก์ {platform}",
   "MODAL_ADD_SOCIALS_ADD_BUTTON": "เพิ่ม",
   "COMMON_POST_MODERATED": "โพสต์ถูกจัดการ",
   "COMMON_USER_SUSPENDED": "ผู้ใช้ถูกระงับ",

@@ -325,6 +325,7 @@
   "MODAL_ADD_SOCIALS_ERROR_INVALID_PLATFORM_LINK": "Введите корректную ссылку {platform}.",
   "MODAL_ADD_SOCIALS_ERROR_INVALID_PLATFORM_PROFILE": "Это не похоже на корректную ссылку на профиль {platform}!",
   "MODAL_ADD_SOCIALS_HEADING": "Добавить ссылку {platform}",
+  "MODAL_ADD_SOCIALS_MANAGE_HEADING": "Управление ссылкой {platform}",
   "MODAL_ADD_SOCIALS_ADD_BUTTON": "Добавить",
   "COMMON_POST_MODERATED": "Пост модерирован",
   "COMMON_USER_SUSPENDED": "Пользователь заблокирован",

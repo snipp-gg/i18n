@@ -325,6 +325,7 @@
   "MODAL_ADD_SOCIALS_ERROR_INVALID_PLATFORM_LINK": "请输入有效的 {platform} 链接。",
   "MODAL_ADD_SOCIALS_ERROR_INVALID_PLATFORM_PROFILE": "这看起来不像是有效的 {platform} 用户资料链接！",
   "MODAL_ADD_SOCIALS_HEADING": "添加 {platform} 链接",
+  "MODAL_ADD_SOCIALS_MANAGE_HEADING": "管理 {platform} 链接",
   "MODAL_ADD_SOCIALS_ADD_BUTTON": "添加",
   "COMMON_POST_MODERATED": "帖子已审核",
   "COMMON_USER_SUSPENDED": "用户已暂停",

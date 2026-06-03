@@ -325,6 +325,7 @@
   "MODAL_ADD_SOCIALS_ERROR_INVALID_PLATFORM_LINK": "Ange en giltig {platform}-länk.",
   "MODAL_ADD_SOCIALS_ERROR_INVALID_PLATFORM_PROFILE": "Det där ser inte ut som en giltig {platform}-profillänk!",
   "MODAL_ADD_SOCIALS_HEADING": "Lägg till {platform}-länk",
+  "MODAL_ADD_SOCIALS_MANAGE_HEADING": "Hantera {platform}-länk",
   "MODAL_ADD_SOCIALS_ADD_BUTTON": "Lägg till",
   "COMMON_POST_MODERATED": "Inlägg modererat",
   "COMMON_USER_SUSPENDED": "Användare avstängd",
