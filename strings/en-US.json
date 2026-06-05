@@ -187,7 +187,7 @@
   "ANALYTICS_METRIC_COMMENTS": "Comments",
   "ANALYTICS_TOTAL_PLUS": "PLUS users",
   "ANALYTICS_TOTAL_ENTERPRISE": "Enterprise users",
-  "ANALYTICS_TOTAL_TEAMS": "Teams",
+  "ANALYTICS_TOTAL_TEAMS": "Total teams",
   "ANALYTICS_TOTAL_COMMENTS": "Total comments",
   "ANALYTICS_TOTAL_ACTIVE_UPLOADERS": "Active uploaders",
   "ANALYTICS_TOTAL_UPLOADED": "Total uploaded",
@@ -342,6 +342,9 @@
   "MODAL_REPORT_DISCLAIMER": "Do not include any personal information in your report. This report will not be shared.",
   "MODAL_REPORT_SUBMITTING_BUTTON": "Reporting...",
   "COMMON_REPORT": "Report",
+  "MODAL_REPORT_USER_HEADING": "Report User",
+  "MODAL_REPORT_USER_REASON_LABEL": "Why are you reporting this user? (optional)",
+  "MODAL_REPORT_USER_REASON_PLACEHOLDER": "e.g. spam, harassment, impersonation, inappropriate profile...",
   "MODAL_MODERATE_HEADING": "Moderate Post",
   "MODAL_MODERATE_REASON_LABEL": "Select a reason for moderating this post:",
   "MODAL_MODERATE_CONFIRM_BODY": "Are you sure you want to moderate this post for {reason}? This will hide the post from other users.",
@@ -812,6 +815,7 @@
   "USER_PROFILE_ERROR_UPDATE_BLOCK_STATUS": "Failed to update block status.",
   "ERROR_GENERIC": "Something went wrong.",
   "USER_PROFILE_TOAST_BLOCKED_USER": "Blocked @{username}",
+  "USER_PROFILE_TOAST_REPORT_FAILED": "Failed to submit report.",
   "TOAST_UNBLOCKED_USER": "Unblocked @{username}",
   "USER_PROFILE_SUSPENDED_MESSAGE": "This user has been suspended indefinitely for breaking our",
   "USER_PROFILE_SUSPENDED_MESSAGE_PERIOD": ".",
@@ -1544,5 +1548,6 @@
   "FOLLOW_LIST_ERROR": "Could not load this list.",
   "FOLLOW_REMOVE_THIS_FOLLOWER": "Remove this follower",
   "USER_ACTIONS_MENU_LABEL": "User actions",
+  "USER_ACTIONS_MENU_REPORT": "Report",
   "FOLLOW_TOAST_REMOVED_FOLLOWER": "Removed @{username} from your followers"
 }
