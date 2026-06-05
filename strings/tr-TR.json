@@ -187,7 +187,7 @@
   "ANALYTICS_METRIC_COMMENTS": "Yorumlar",
   "ANALYTICS_TOTAL_PLUS": "PLUS users",
   "ANALYTICS_TOTAL_ENTERPRISE": "Enterprise users",
-  "ANALYTICS_TOTAL_TEAMS": "Teams",
+  "ANALYTICS_TOTAL_TEAMS": "Total teams",
   "ANALYTICS_TOTAL_COMMENTS": "Total comments",
   "ANALYTICS_TOTAL_ACTIVE_UPLOADERS": "Active uploaders",
   "ANALYTICS_TOTAL_UPLOADED": "Toplam yüklenen",
@@ -342,6 +342,9 @@
   "MODAL_REPORT_DISCLAIMER": "Bildiriminizde herhangi bir kişisel bilgi paylaşmayın. Bu bildirim paylaşılmayacaktır.",
   "MODAL_REPORT_SUBMITTING_BUTTON": "Bildiriliyor...",
   "COMMON_REPORT": "Bildir",
+  "MODAL_REPORT_USER_HEADING": "Report User",
+  "MODAL_REPORT_USER_REASON_LABEL": "Why are you reporting this user? (optional)",
+  "MODAL_REPORT_USER_REASON_PLACEHOLDER": "e.g. spam, harassment, impersonation, inappropriate profile...",
   "MODAL_MODERATE_HEADING": "Gönderiyi Denetle",
   "MODAL_MODERATE_REASON_LABEL": "Bu gönderiyi denetlemek için bir neden seçin:",
   "MODAL_MODERATE_CONFIRM_BODY": "Bu gönderiyi {reason} nedeniyle denetlemek istediğinizden emin misiniz? Bu, gönderiyi diğer kullanıcılardan gizleyecek.",
@@ -812,6 +815,7 @@
   "USER_PROFILE_ERROR_UPDATE_BLOCK_STATUS": "Engelleme durumu güncellenemedi.",
   "ERROR_GENERIC": "Bir şeyler ters gitti.",
   "USER_PROFILE_TOAST_BLOCKED_USER": "@{username} engellendi",
+  "USER_PROFILE_TOAST_REPORT_FAILED": "Bildirim gönderilemedi.",
   "TOAST_UNBLOCKED_USER": "@{username} kullanıcısının engeli kaldırıldı",
   "USER_PROFILE_SUSPENDED_MESSAGE": "Bu kullanıcı, şunları ihlal ettiği için süresiz olarak askıya alındı:",
   "USER_PROFILE_SUSPENDED_MESSAGE_PERIOD": ".",
@@ -1544,5 +1548,6 @@
   "FOLLOW_LIST_ERROR": "Could not load this list.",
   "FOLLOW_REMOVE_THIS_FOLLOWER": "Remove this follower",
   "USER_ACTIONS_MENU_LABEL": "User actions",
+  "USER_ACTIONS_MENU_REPORT": "Bildir",
   "FOLLOW_TOAST_REMOVED_FOLLOWER": "Removed @{username} from your followers"
 }
