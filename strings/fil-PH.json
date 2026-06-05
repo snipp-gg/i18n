@@ -187,7 +187,7 @@
   "ANALYTICS_METRIC_COMMENTS": "Mga komento",
   "ANALYTICS_TOTAL_PLUS": "Mga PLUS user",
   "ANALYTICS_TOTAL_ENTERPRISE": "Mga Enterprise user",
-  "ANALYTICS_TOTAL_TEAMS": "Mga Team",
+  "ANALYTICS_TOTAL_TEAMS": "Kabuuang team",
   "ANALYTICS_TOTAL_COMMENTS": "Kabuuang komento",
   "ANALYTICS_TOTAL_ACTIVE_UPLOADERS": "Aktibong uploader",
   "ANALYTICS_TOTAL_UPLOADED": "Kabuuang na-upload",
@@ -342,6 +342,9 @@
   "MODAL_REPORT_DISCLAIMER": "Huwag isama ang anumang personal na impormasyon sa iyong report. Hindi ibabahagi ang report na ito.",
   "MODAL_REPORT_SUBMITTING_BUTTON": "Nirereport...",
   "COMMON_REPORT": "I-report",
+  "MODAL_REPORT_USER_HEADING": "I-report ang User",
+  "MODAL_REPORT_USER_REASON_LABEL": "Bakit mo ire-report ang user na ito? (opsyonal)",
+  "MODAL_REPORT_USER_REASON_PLACEHOLDER": "hal. spam, panliligalig, pagpapanggap, hindi angkop na profile...",
   "MODAL_MODERATE_HEADING": "I-moderate ang Post",
   "MODAL_MODERATE_REASON_LABEL": "Pumili ng dahilan sa pag-moderate sa post na ito:",
   "MODAL_MODERATE_CONFIRM_BODY": "Sigurado ka bang gusto mong i-moderate ang post na ito para sa {reason}? Ito ay magtatago ng post mula sa ibang user.",
@@ -812,6 +815,7 @@
   "USER_PROFILE_ERROR_UPDATE_BLOCK_STATUS": "Hindi na-update ang block status.",
   "ERROR_GENERIC": "May nangyaring mali.",
   "USER_PROFILE_TOAST_BLOCKED_USER": "Na-block si @{username}",
+  "USER_PROFILE_TOAST_REPORT_FAILED": "Nabigong isumite ang report.",
   "TOAST_UNBLOCKED_USER": "Na-unblock si @{username}",
   "USER_PROFILE_SUSPENDED_MESSAGE": "Ang user na ito ay sinuspendi nang walang takdang panahon dahil sa paglabag sa aming",
   "USER_PROFILE_SUSPENDED_MESSAGE_PERIOD": ".",
@@ -1544,5 +1548,6 @@
   "FOLLOW_LIST_ERROR": "Hindi ma-load ang listahang ito.",
   "FOLLOW_REMOVE_THIS_FOLLOWER": "Alisin ang follower na ito",
   "USER_ACTIONS_MENU_LABEL": "Mga aksyon sa user",
+  "USER_ACTIONS_MENU_REPORT": "I-report",
   "FOLLOW_TOAST_REMOVED_FOLLOWER": "Inalis si @{username} sa iyong mga follower"
 }

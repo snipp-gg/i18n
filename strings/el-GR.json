@@ -187,7 +187,7 @@
   "ANALYTICS_METRIC_COMMENTS": "Σχόλια",
   "ANALYTICS_TOTAL_PLUS": "Χρήστες PLUS",
   "ANALYTICS_TOTAL_ENTERPRISE": "Χρήστες Enterprise",
-  "ANALYTICS_TOTAL_TEAMS": "Ομάδες",
+  "ANALYTICS_TOTAL_TEAMS": "Σύνολο ομάδων",
   "ANALYTICS_TOTAL_COMMENTS": "Σύνολο σχολίων",
   "ANALYTICS_TOTAL_ACTIVE_UPLOADERS": "Ενεργοί χρήστες",
   "ANALYTICS_TOTAL_UPLOADED": "Σύνολο μεταφορτώσεων",
@@ -342,6 +342,9 @@
   "MODAL_REPORT_DISCLAIMER": "Μην συμπεριλαμβάνετε προσωπικές πληροφορίες στην αναφορά σας. Αυτή η αναφορά δεν θα κοινοποιηθεί.",
   "MODAL_REPORT_SUBMITTING_BUTTON": "Υποβολή αναφοράς...",
   "COMMON_REPORT": "Αναφορά",
+  "MODAL_REPORT_USER_HEADING": "Αναφορά Χρήστη",
+  "MODAL_REPORT_USER_REASON_LABEL": "Γιατί αναφέρεις αυτόν τον χρήστη; (προαιρετικό)",
+  "MODAL_REPORT_USER_REASON_PLACEHOLDER": "π.χ. ανεπιθύμητα μηνύματα, παρενόχληση, πλαστοπροσωπία, ακατάλληλο προφίλ...",
   "MODAL_MODERATE_HEADING": "Συντονισμός Ανάρτησης",
   "MODAL_MODERATE_REASON_LABEL": "Επιλέξτε λόγο συντονισμού αυτής της ανάρτησης:",
   "MODAL_MODERATE_CONFIRM_BODY": "Είστε σίγουροι ότι θέλετε να συντονίσετε αυτή την ανάρτηση για {reason}; Αυτό θα αποκρύψει την ανάρτηση από άλλους χρήστες.",
@@ -812,6 +815,7 @@
   "USER_PROFILE_ERROR_UPDATE_BLOCK_STATUS": "Αποτυχία ενημέρωσης κατάστασης αποκλεισμού.",
   "ERROR_GENERIC": "Κάτι πήγε στραβά.",
   "USER_PROFILE_TOAST_BLOCKED_USER": "Αποκλείστηκε ο @{username}",
+  "USER_PROFILE_TOAST_REPORT_FAILED": "Η αποστολή της αναφοράς απέτυχε.",
   "TOAST_UNBLOCKED_USER": "Καταργήθηκε ο αποκλεισμός του @{username}",
   "USER_PROFILE_SUSPENDED_MESSAGE": "Αυτός ο χρήστης έχει ανασταλεί αορίστως για παραβίαση των",
   "USER_PROFILE_SUSPENDED_MESSAGE_PERIOD": ".",
@@ -1544,5 +1548,6 @@
   "FOLLOW_LIST_ERROR": "Could not load this list.",
   "FOLLOW_REMOVE_THIS_FOLLOWER": "Remove this follower",
   "USER_ACTIONS_MENU_LABEL": "Ενέργειες χρήστη",
+  "USER_ACTIONS_MENU_REPORT": "Αναφορά",
   "FOLLOW_TOAST_REMOVED_FOLLOWER": "Removed @{username} from your followers"
 }

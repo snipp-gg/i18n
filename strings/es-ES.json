@@ -187,7 +187,7 @@
   "ANALYTICS_METRIC_COMMENTS": "Comentarios",
   "ANALYTICS_TOTAL_PLUS": "Usuarios PLUS",
   "ANALYTICS_TOTAL_ENTERPRISE": "Usuarios Enterprise",
-  "ANALYTICS_TOTAL_TEAMS": "Equipos",
+  "ANALYTICS_TOTAL_TEAMS": "Total de equipos",
   "ANALYTICS_TOTAL_COMMENTS": "Comentarios totales",
   "ANALYTICS_TOTAL_ACTIVE_UPLOADERS": "Subidores activos",
   "ANALYTICS_TOTAL_UPLOADED": "Total subido",
@@ -342,6 +342,9 @@
   "MODAL_REPORT_DISCLAIMER": "No incluyas información personal en tu reporte. Este reporte no se compartirá.",
   "MODAL_REPORT_SUBMITTING_BUTTON": "Reportando...",
   "COMMON_REPORT": "Reportar",
+  "MODAL_REPORT_USER_HEADING": "Reportar Usuario",
+  "MODAL_REPORT_USER_REASON_LABEL": "¿Por qué reportas a este usuario? (opcional)",
+  "MODAL_REPORT_USER_REASON_PLACEHOLDER": "p. ej. spam, acoso, suplantación de identidad, perfil inapropiado...",
   "MODAL_MODERATE_HEADING": "Moderar Publicación",
   "MODAL_MODERATE_REASON_LABEL": "Selecciona un motivo para moderar esta publicación:",
   "MODAL_MODERATE_CONFIRM_BODY": "¿Seguro que quieres moderar esta publicación por {reason}? Esto ocultará la publicación a otros usuarios.",
@@ -812,6 +815,7 @@
   "USER_PROFILE_ERROR_UPDATE_BLOCK_STATUS": "No se pudo actualizar el estado de bloqueo.",
   "ERROR_GENERIC": "Algo salió mal.",
   "USER_PROFILE_TOAST_BLOCKED_USER": "Has bloqueado a @{username}",
+  "USER_PROFILE_TOAST_REPORT_FAILED": "No se pudo enviar el reporte.",
   "TOAST_UNBLOCKED_USER": "Has desbloqueado a @{username}",
   "USER_PROFILE_SUSPENDED_MESSAGE": "Este usuario ha sido suspendido indefinidamente por incumplir nuestros",
   "USER_PROFILE_SUSPENDED_MESSAGE_PERIOD": ".",
@@ -1544,5 +1548,6 @@
   "FOLLOW_LIST_ERROR": "No se pudo cargar esta lista.",
   "FOLLOW_REMOVE_THIS_FOLLOWER": "Eliminar este seguidor",
   "USER_ACTIONS_MENU_LABEL": "Acciones de usuario",
+  "USER_ACTIONS_MENU_REPORT": "Reportar",
   "FOLLOW_TOAST_REMOVED_FOLLOWER": "@{username} eliminado de tus seguidores"
 }

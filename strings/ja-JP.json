@@ -187,7 +187,7 @@
   "ANALYTICS_METRIC_COMMENTS": "コメント",
   "ANALYTICS_TOTAL_PLUS": "PLUSユーザー",
   "ANALYTICS_TOTAL_ENTERPRISE": "Enterpriseユーザー",
-  "ANALYTICS_TOTAL_TEAMS": "チーム",
+  "ANALYTICS_TOTAL_TEAMS": "総チーム数",
   "ANALYTICS_TOTAL_COMMENTS": "総コメント数",
   "ANALYTICS_TOTAL_ACTIVE_UPLOADERS": "アクティブな投稿者",
   "ANALYTICS_TOTAL_UPLOADED": "総アップロード量",
@@ -342,6 +342,9 @@
   "MODAL_REPORT_DISCLAIMER": "報告には個人情報を含めないでください。この報告は共有されません。",
   "MODAL_REPORT_SUBMITTING_BUTTON": "報告中...",
   "COMMON_REPORT": "報告",
+  "MODAL_REPORT_USER_HEADING": "ユーザーを報告",
+  "MODAL_REPORT_USER_REASON_LABEL": "このユーザーを報告する理由を教えてください。（任意）",
+  "MODAL_REPORT_USER_REASON_PLACEHOLDER": "例：スパム、嫌がらせ、なりすまし、不適切なプロフィールなど...",
   "MODAL_MODERATE_HEADING": "投稿をモデレート",
   "MODAL_MODERATE_REASON_LABEL": "この投稿をモデレートする理由を選択してください：",
   "MODAL_MODERATE_CONFIRM_BODY": "{reason}を理由にこの投稿をモデレートしてもよろしいですか？この投稿は他のユーザーから非表示になります。",
@@ -812,6 +815,7 @@
   "USER_PROFILE_ERROR_UPDATE_BLOCK_STATUS": "ブロック状態の更新に失敗しました。",
   "ERROR_GENERIC": "問題が発生しました。",
   "USER_PROFILE_TOAST_BLOCKED_USER": "@{username} をブロックしました",
+  "USER_PROFILE_TOAST_REPORT_FAILED": "報告の送信に失敗しました。",
   "TOAST_UNBLOCKED_USER": "@{username} のブロックを解除しました",
   "USER_PROFILE_SUSPENDED_MESSAGE": "このユーザーは、当社の規約に違反したため無期限に停止されています。違反した規約：",
   "USER_PROFILE_SUSPENDED_MESSAGE_PERIOD": "。",
@@ -1544,5 +1548,6 @@
   "FOLLOW_LIST_ERROR": "このリストを読み込めませんでした。",
   "FOLLOW_REMOVE_THIS_FOLLOWER": "このフォロワーを削除",
   "USER_ACTIONS_MENU_LABEL": "ユーザーの操作",
+  "USER_ACTIONS_MENU_REPORT": "報告",
   "FOLLOW_TOAST_REMOVED_FOLLOWER": "@{username}さんをフォロワーから削除しました"
 }

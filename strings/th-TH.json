@@ -187,7 +187,7 @@
   "ANALYTICS_METRIC_COMMENTS": "ความคิดเห็น",
   "ANALYTICS_TOTAL_PLUS": "ผู้ใช้ PLUS",
   "ANALYTICS_TOTAL_ENTERPRISE": "ผู้ใช้ Enterprise",
-  "ANALYTICS_TOTAL_TEAMS": "ทีม",
+  "ANALYTICS_TOTAL_TEAMS": "ทีมทั้งหมด",
   "ANALYTICS_TOTAL_COMMENTS": "ความคิดเห็นทั้งหมด",
   "ANALYTICS_TOTAL_ACTIVE_UPLOADERS": "ผู้อัปโหลดที่ใช้งาน",
   "ANALYTICS_TOTAL_UPLOADED": "อัปโหลดทั้งหมด",
@@ -342,6 +342,9 @@
   "MODAL_REPORT_DISCLAIMER": "อย่าใส่ข้อมูลส่วนตัวในรายงานของคุณ รายงานนี้จะไม่ถูกแชร์",
   "MODAL_REPORT_SUBMITTING_BUTTON": "กำลังรายงาน...",
   "COMMON_REPORT": "รายงาน",
+  "MODAL_REPORT_USER_HEADING": "รายงานผู้ใช้",
+  "MODAL_REPORT_USER_REASON_LABEL": "ทำไมคุณจึงรายงานผู้ใช้นี้ (ไม่บังคับ)",
+  "MODAL_REPORT_USER_REASON_PLACEHOLDER": "เช่น สแปม การล่วงละเมิด การปลอมตัว โปรไฟล์ที่ไม่เหมาะสม...",
   "MODAL_MODERATE_HEADING": "จัดการโพสต์",
   "MODAL_MODERATE_REASON_LABEL": "เลือกเหตุผลในการจัดการโพสต์นี้:",
   "MODAL_MODERATE_CONFIRM_BODY": "คุณแน่ใจหรือไม่ว่าต้องการจัดการโพสต์นี้ในเหตุผล {reason}? การกระทำนี้จะซ่อนโพสต์จากผู้ใช้คนอื่น",
@@ -812,6 +815,7 @@
   "USER_PROFILE_ERROR_UPDATE_BLOCK_STATUS": "ไม่สามารถอัปเดตสถานะการบล็อกได้",
   "ERROR_GENERIC": "มีบางอย่างผิดพลาด",
   "USER_PROFILE_TOAST_BLOCKED_USER": "บล็อก @{username} แล้ว",
+  "USER_PROFILE_TOAST_REPORT_FAILED": "ส่งรายงานไม่สำเร็จ",
   "TOAST_UNBLOCKED_USER": "ปลดบล็อก @{username} แล้ว",
   "USER_PROFILE_SUSPENDED_MESSAGE": "ผู้ใช้คนนี้ถูกระงับอย่างไม่มีกำหนดเนื่องจากละเมิด",
   "USER_PROFILE_SUSPENDED_MESSAGE_PERIOD": ".",
@@ -1544,5 +1548,6 @@
   "FOLLOW_LIST_ERROR": "ไม่สามารถโหลดรายการนี้ได้",
   "FOLLOW_REMOVE_THIS_FOLLOWER": "ลบผู้ติดตามรายนี้",
   "USER_ACTIONS_MENU_LABEL": "การดำเนินการกับผู้ใช้",
+  "USER_ACTIONS_MENU_REPORT": "รายงาน",
   "FOLLOW_TOAST_REMOVED_FOLLOWER": "ลบ @{username} ออกจากผู้ติดตามของคุณแล้ว"
 }

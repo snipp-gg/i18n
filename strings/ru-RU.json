@@ -187,7 +187,7 @@
   "ANALYTICS_METRIC_COMMENTS": "Комментарии",
   "ANALYTICS_TOTAL_PLUS": "Пользователи PLUS",
   "ANALYTICS_TOTAL_ENTERPRISE": "Пользователи Enterprise",
-  "ANALYTICS_TOTAL_TEAMS": "Команды",
+  "ANALYTICS_TOTAL_TEAMS": "Всего команд",
   "ANALYTICS_TOTAL_COMMENTS": "Всего комментариев",
   "ANALYTICS_TOTAL_ACTIVE_UPLOADERS": "Активные загрузчики",
   "ANALYTICS_TOTAL_UPLOADED": "Всего загружено",
@@ -342,6 +342,9 @@
   "MODAL_REPORT_DISCLAIMER": "Не указывайте в жалобе никакую личную информацию. Эта жалоба не будет передана другим.",
   "MODAL_REPORT_SUBMITTING_BUTTON": "Отправка жалобы...",
   "COMMON_REPORT": "Пожаловаться",
+  "MODAL_REPORT_USER_HEADING": "Пожаловаться на Пользователя",
+  "MODAL_REPORT_USER_REASON_LABEL": "Почему вы жалуетесь на этого пользователя? (необязательно)",
+  "MODAL_REPORT_USER_REASON_PLACEHOLDER": "например: спам, домогательство, выдача себя за другого, неприемлемый профиль...",
   "MODAL_MODERATE_HEADING": "Модерировать пост",
   "MODAL_MODERATE_REASON_LABEL": "Выберите причину модерации этого поста:",
   "MODAL_MODERATE_CONFIRM_BODY": "Вы уверены, что хотите модерировать этот пост по причине «{reason}»? Это скроет пост от других пользователей.",
@@ -812,6 +815,7 @@
   "USER_PROFILE_ERROR_UPDATE_BLOCK_STATUS": "Не удалось обновить статус блокировки.",
   "ERROR_GENERIC": "Что-то пошло не так.",
   "USER_PROFILE_TOAST_BLOCKED_USER": "@{username} заблокирован",
+  "USER_PROFILE_TOAST_REPORT_FAILED": "Не удалось отправить жалобу.",
   "TOAST_UNBLOCKED_USER": "@{username} разблокирован",
   "USER_PROFILE_SUSPENDED_MESSAGE": "Этот пользователь заблокирован на неопределённый срок за нарушение наших",
   "USER_PROFILE_SUSPENDED_MESSAGE_PERIOD": ".",
@@ -1544,5 +1548,6 @@
   "FOLLOW_LIST_ERROR": "Не удалось загрузить этот список.",
   "FOLLOW_REMOVE_THIS_FOLLOWER": "Удалить этого подписчика",
   "USER_ACTIONS_MENU_LABEL": "Действия с пользователем",
+  "USER_ACTIONS_MENU_REPORT": "Пожаловаться",
   "FOLLOW_TOAST_REMOVED_FOLLOWER": "@{username} удалён из ваших подписчиков"
 }

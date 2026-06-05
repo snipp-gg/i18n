@@ -187,7 +187,7 @@
   "ANALYTICS_METRIC_COMMENTS": "Kommentare",
   "ANALYTICS_TOTAL_PLUS": "PLUS-Nutzer",
   "ANALYTICS_TOTAL_ENTERPRISE": "Enterprise-Nutzer",
-  "ANALYTICS_TOTAL_TEAMS": "Teams",
+  "ANALYTICS_TOTAL_TEAMS": "Teams gesamt",
   "ANALYTICS_TOTAL_COMMENTS": "Kommentare gesamt",
   "ANALYTICS_TOTAL_ACTIVE_UPLOADERS": "Aktive Uploader",
   "ANALYTICS_TOTAL_UPLOADED": "Insgesamt hochgeladen",
@@ -342,6 +342,9 @@
   "MODAL_REPORT_DISCLAIMER": "Gib in deiner Meldung keine persönlichen Informationen an. Diese Meldung wird nicht weitergegeben.",
   "MODAL_REPORT_SUBMITTING_BUTTON": "Wird gemeldet...",
   "COMMON_REPORT": "Melden",
+  "MODAL_REPORT_USER_HEADING": "Benutzer Melden",
+  "MODAL_REPORT_USER_REASON_LABEL": "Warum meldest du diesen Benutzer? (optional)",
+  "MODAL_REPORT_USER_REASON_PLACEHOLDER": "z. B. Spam, Belästigung, Identitätsdiebstahl, unangemessenes Profil...",
   "MODAL_MODERATE_HEADING": "Beitrag Moderieren",
   "MODAL_MODERATE_REASON_LABEL": "Wähle einen Grund für die Moderation dieses Beitrags:",
   "MODAL_MODERATE_CONFIRM_BODY": "Möchtest du diesen Beitrag wirklich wegen {reason} moderieren? Dadurch wird der Beitrag für andere Nutzer ausgeblendet.",
@@ -812,6 +815,7 @@
   "USER_PROFILE_ERROR_UPDATE_BLOCK_STATUS": "Blockierungsstatus konnte nicht aktualisiert werden.",
   "ERROR_GENERIC": "Etwas ist schiefgelaufen.",
   "USER_PROFILE_TOAST_BLOCKED_USER": "@{username} blockiert",
+  "USER_PROFILE_TOAST_REPORT_FAILED": "Meldung konnte nicht gesendet werden.",
   "TOAST_UNBLOCKED_USER": "Blockierung von @{username} aufgehoben",
   "USER_PROFILE_SUSPENDED_MESSAGE": "Dieser Benutzer wurde wegen Verstoßes gegen unsere",
   "USER_PROFILE_SUSPENDED_MESSAGE_PERIOD": " auf unbestimmte Zeit gesperrt.",
@@ -1544,5 +1548,6 @@
   "FOLLOW_LIST_ERROR": "Diese Liste konnte nicht geladen werden.",
   "FOLLOW_REMOVE_THIS_FOLLOWER": "Diesen Follower entfernen",
   "USER_ACTIONS_MENU_LABEL": "Benutzeraktionen",
+  "USER_ACTIONS_MENU_REPORT": "Melden",
   "FOLLOW_TOAST_REMOVED_FOLLOWER": "@{username} aus deinen Followern entfernt"
 }

@@ -187,7 +187,7 @@
   "ANALYTICS_METRIC_COMMENTS": "Kommentarer",
   "ANALYTICS_TOTAL_PLUS": "PLUS-användare",
   "ANALYTICS_TOTAL_ENTERPRISE": "Enterprise-användare",
-  "ANALYTICS_TOTAL_TEAMS": "Team",
+  "ANALYTICS_TOTAL_TEAMS": "Totalt antal team",
   "ANALYTICS_TOTAL_COMMENTS": "Totalt antal kommentarer",
   "ANALYTICS_TOTAL_ACTIVE_UPLOADERS": "Aktiva uppladdare",
   "ANALYTICS_TOTAL_UPLOADED": "Totalt uppladdat",
@@ -342,6 +342,9 @@
   "MODAL_REPORT_DISCLAIMER": "Inkludera inte någon personlig information i din rapport. Den här rapporten kommer inte att delas.",
   "MODAL_REPORT_SUBMITTING_BUTTON": "Rapporterar...",
   "COMMON_REPORT": "Rapportera",
+  "MODAL_REPORT_USER_HEADING": "Rapportera Användare",
+  "MODAL_REPORT_USER_REASON_LABEL": "Varför rapporterar du den här användaren? (valfritt)",
+  "MODAL_REPORT_USER_REASON_PLACEHOLDER": "t.ex. skräppost, trakasserier, identitetsstöld, olämplig profil...",
   "MODAL_MODERATE_HEADING": "Moderera inlägg",
   "MODAL_MODERATE_REASON_LABEL": "Välj en anledning till att moderera det här inlägget:",
   "MODAL_MODERATE_CONFIRM_BODY": "Är du säker på att du vill moderera det här inlägget för {reason}? Detta döljer inlägget för andra användare.",
@@ -812,6 +815,7 @@
   "USER_PROFILE_ERROR_UPDATE_BLOCK_STATUS": "Kunde inte uppdatera blockeringsstatus.",
   "ERROR_GENERIC": "Något gick fel.",
   "USER_PROFILE_TOAST_BLOCKED_USER": "Blockerade @{username}",
+  "USER_PROFILE_TOAST_REPORT_FAILED": "Det gick inte att skicka rapporten.",
   "TOAST_UNBLOCKED_USER": "Avblockerade @{username}",
   "USER_PROFILE_SUSPENDED_MESSAGE": "Den här användaren har stängts av på obestämd tid för att ha brutit mot våra",
   "USER_PROFILE_SUSPENDED_MESSAGE_PERIOD": ".",
@@ -1544,5 +1548,6 @@
   "FOLLOW_LIST_ERROR": "Det gick inte att läsa in den här listan.",
   "FOLLOW_REMOVE_THIS_FOLLOWER": "Ta bort den här följaren",
   "USER_ACTIONS_MENU_LABEL": "Användaråtgärder",
+  "USER_ACTIONS_MENU_REPORT": "Rapportera",
   "FOLLOW_TOAST_REMOVED_FOLLOWER": "Tog bort @{username} från dina följare"
 }
