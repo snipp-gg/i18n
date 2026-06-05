@@ -187,7 +187,7 @@
   "ANALYTICS_METRIC_COMMENTS": "Komentarze",
   "ANALYTICS_TOTAL_PLUS": "PLUS users",
   "ANALYTICS_TOTAL_ENTERPRISE": "Enterprise users",
-  "ANALYTICS_TOTAL_TEAMS": "Teams",
+  "ANALYTICS_TOTAL_TEAMS": "Total teams",
   "ANALYTICS_TOTAL_COMMENTS": "Total comments",
   "ANALYTICS_TOTAL_ACTIVE_UPLOADERS": "Active uploaders",
   "ANALYTICS_TOTAL_UPLOADED": "Łącznie przesłano",
@@ -342,6 +342,9 @@
   "MODAL_REPORT_DISCLAIMER": "Nie umieszczaj żadnych danych osobowych w zgłoszeniu. To zgłoszenie nie zostanie udostępnione.",
   "MODAL_REPORT_SUBMITTING_BUTTON": "Zgłaszanie...",
   "COMMON_REPORT": "Zgłoś",
+  "MODAL_REPORT_USER_HEADING": "Report User",
+  "MODAL_REPORT_USER_REASON_LABEL": "Why are you reporting this user? (optional)",
+  "MODAL_REPORT_USER_REASON_PLACEHOLDER": "e.g. spam, harassment, impersonation, inappropriate profile...",
   "MODAL_MODERATE_HEADING": "Moderuj Post",
   "MODAL_MODERATE_REASON_LABEL": "Wybierz powód moderacji tego posta:",
   "MODAL_MODERATE_CONFIRM_BODY": "Czy na pewno chcesz moderować ten post za {reason}? Spowoduje to ukrycie posta przed innymi użytkownikami.",
@@ -812,6 +815,7 @@
   "USER_PROFILE_ERROR_UPDATE_BLOCK_STATUS": "Nie udało się zaktualizować statusu blokady.",
   "ERROR_GENERIC": "Coś poszło nie tak.",
   "USER_PROFILE_TOAST_BLOCKED_USER": "Zablokowano @{username}",
+  "USER_PROFILE_TOAST_REPORT_FAILED": "Nie udało się wysłać zgłoszenia.",
   "TOAST_UNBLOCKED_USER": "Odblokowano @{username}",
   "USER_PROFILE_SUSPENDED_MESSAGE": "Ten użytkownik został zawieszony bezterminowo za złamanie naszego",
   "USER_PROFILE_SUSPENDED_MESSAGE_PERIOD": ".",
@@ -1544,5 +1548,6 @@
   "FOLLOW_LIST_ERROR": "Could not load this list.",
   "FOLLOW_REMOVE_THIS_FOLLOWER": "Remove this follower",
   "USER_ACTIONS_MENU_LABEL": "User actions",
+  "USER_ACTIONS_MENU_REPORT": "Zgłoś",
   "FOLLOW_TOAST_REMOVED_FOLLOWER": "Removed @{username} from your followers"
 }
