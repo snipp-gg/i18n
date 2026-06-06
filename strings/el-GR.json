@@ -807,7 +807,7 @@
   "USER_PROFILE_BLOCKED_HEADING": "Αποκλεισμένος",
   "USER_PROFILE_BLOCKED_BY_YOU_MESSAGE": "Έχετε αποκλείσει αυτόν τον χρήστη. Δεν μπορείτε να δείτε το προφίλ ή το περιεχόμενό τους.",
   "USER_PROFILE_BLOCKED_BY_THEM_MESSAGE": "Ο @{username} σας έχει αποκλείσει. Δεν μπορείτε να δείτε το προφίλ ή το περιεχόμενό τους.",
-  "USER_PROFILE_META_DESCRIPTION": "Δείτε τον {name} στο Snipp.",
+  "USER_PROFILE_META_DESCRIPTION": "Δείτε το προφίλ του {name} στο Snipp.",
   "USER_PROFILE_UNBLOCKING_BUTTON": "Κατάργηση αποκλεισμού...",
   "COMMON_UNBLOCK": "Κατάργηση αποκλεισμού",
   "USER_PROFILE_EDIT_BUTTON": "Επεξεργασία Προφίλ",

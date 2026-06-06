@@ -807,7 +807,7 @@
   "USER_PROFILE_BLOCKED_HEADING": "Bloqueado",
   "USER_PROFILE_BLOCKED_BY_YOU_MESSAGE": "Você bloqueou este usuário. Não é possível ver o perfil ou o conteúdo dele.",
   "USER_PROFILE_BLOCKED_BY_THEM_MESSAGE": "@{username} bloqueou você. Não é possível ver o perfil ou o conteúdo dele.",
-  "USER_PROFILE_META_DESCRIPTION": "Ver {name} no Snipp.",
+  "USER_PROFILE_META_DESCRIPTION": "Ver o perfil de {name} no Snipp.",
   "USER_PROFILE_UNBLOCKING_BUTTON": "Desbloqueando...",
   "COMMON_UNBLOCK": "Desbloquear",
   "USER_PROFILE_EDIT_BUTTON": "Editar Perfil",

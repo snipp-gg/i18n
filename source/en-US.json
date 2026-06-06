@@ -807,7 +807,7 @@
   "USER_PROFILE_BLOCKED_HEADING": "Blocked",
   "USER_PROFILE_BLOCKED_BY_YOU_MESSAGE": "You have blocked this user. You cannot view their profile or content.",
   "USER_PROFILE_BLOCKED_BY_THEM_MESSAGE": "@{username} has blocked you. You cannot view their profile or content.",
-  "USER_PROFILE_META_DESCRIPTION": "View {name} on Snipp.",
+  "USER_PROFILE_META_DESCRIPTION": "View {name}'s profile on Snipp.",
   "USER_PROFILE_UNBLOCKING_BUTTON": "Unblocking...",
   "COMMON_UNBLOCK": "Unblock",
   "USER_PROFILE_EDIT_BUTTON": "Edit Profile",

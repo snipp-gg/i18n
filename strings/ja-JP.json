@@ -807,7 +807,7 @@
   "USER_PROFILE_BLOCKED_HEADING": "ブロック済み",
   "USER_PROFILE_BLOCKED_BY_YOU_MESSAGE": "あなたはこのユーザーをブロックしています。そのプロフィールやコンテンツを閲覧することはできません。",
   "USER_PROFILE_BLOCKED_BY_THEM_MESSAGE": "@{username} はあなたをブロックしています。そのプロフィールやコンテンツを閲覧することはできません。",
-  "USER_PROFILE_META_DESCRIPTION": "Snipp で {name} を見る。",
+  "USER_PROFILE_META_DESCRIPTION": "Snipp で {name} のプロフィールを見る。",
   "USER_PROFILE_UNBLOCKING_BUTTON": "ブロック解除中...",
   "COMMON_UNBLOCK": "ブロック解除",
   "USER_PROFILE_EDIT_BUTTON": "プロフィールを編集",

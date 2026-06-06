@@ -807,7 +807,7 @@
   "USER_PROFILE_BLOCKED_HEADING": "Naka-block",
   "USER_PROFILE_BLOCKED_BY_YOU_MESSAGE": "Na-block mo ang user na ito. Hindi mo makikita ang kanilang profile o content.",
   "USER_PROFILE_BLOCKED_BY_THEM_MESSAGE": "Na-block ka ni @{username}. Hindi mo makikita ang kanilang profile o content.",
-  "USER_PROFILE_META_DESCRIPTION": "Tingnan si {name} sa Snipp.",
+  "USER_PROFILE_META_DESCRIPTION": "Tingnan ang profile ni {name} sa Snipp.",
   "USER_PROFILE_UNBLOCKING_BUTTON": "Ina-unblock...",
   "COMMON_UNBLOCK": "I-unblock",
   "USER_PROFILE_EDIT_BUTTON": "I-edit ang Profile",

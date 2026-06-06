@@ -807,7 +807,7 @@
   "USER_PROFILE_BLOCKED_HEADING": "Заблоковано",
   "USER_PROFILE_BLOCKED_BY_YOU_MESSAGE": "Ви заблокували цього користувача. Ви не можете переглядати його профіль чи вміст.",
   "USER_PROFILE_BLOCKED_BY_THEM_MESSAGE": "@{username} заблокував вас. Ви не можете переглядати його профіль чи вміст.",
-  "USER_PROFILE_META_DESCRIPTION": "Перегляньте {name} на Snipp.",
+  "USER_PROFILE_META_DESCRIPTION": "Перегляньте профіль {name} на Snipp.",
   "USER_PROFILE_UNBLOCKING_BUTTON": "Розблокування...",
   "COMMON_UNBLOCK": "Розблокувати",
   "USER_PROFILE_EDIT_BUTTON": "Редагувати профіль",

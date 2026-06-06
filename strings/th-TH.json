@@ -807,7 +807,7 @@
   "USER_PROFILE_BLOCKED_HEADING": "ถูกบล็อก",
   "USER_PROFILE_BLOCKED_BY_YOU_MESSAGE": "คุณได้บล็อกผู้ใช้คนนี้ คุณไม่สามารถดูโปรไฟล์หรือเนื้อหาของพวกเขาได้",
   "USER_PROFILE_BLOCKED_BY_THEM_MESSAGE": "@{username} ได้บล็อกคุณ คุณไม่สามารถดูโปรไฟล์หรือเนื้อหาของพวกเขาได้",
-  "USER_PROFILE_META_DESCRIPTION": "ดู {name} บน Snipp",
+  "USER_PROFILE_META_DESCRIPTION": "ดูโปรไฟล์ของ {name} บน Snipp",
   "USER_PROFILE_UNBLOCKING_BUTTON": "กำลังปลดบล็อก...",
   "COMMON_UNBLOCK": "ปลดบล็อก",
   "USER_PROFILE_EDIT_BUTTON": "แก้ไขโปรไฟล์",

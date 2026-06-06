@@ -807,7 +807,7 @@
   "USER_PROFILE_BLOCKED_HEADING": "已屏蔽",
   "USER_PROFILE_BLOCKED_BY_YOU_MESSAGE": "您已屏蔽此用户。您无法查看其个人资料或内容。",
   "USER_PROFILE_BLOCKED_BY_THEM_MESSAGE": "@{username} 已屏蔽您。您无法查看其个人资料或内容。",
-  "USER_PROFILE_META_DESCRIPTION": "在 Snipp 上查看 {name}。",
+  "USER_PROFILE_META_DESCRIPTION": "在 Snipp 上查看 {name} 的个人资料。",
   "USER_PROFILE_UNBLOCKING_BUTTON": "正在取消屏蔽...",
   "COMMON_UNBLOCK": "取消屏蔽",
   "USER_PROFILE_EDIT_BUTTON": "编辑个人资料",

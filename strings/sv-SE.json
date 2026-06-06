@@ -807,7 +807,7 @@
   "USER_PROFILE_BLOCKED_HEADING": "Blockerad",
   "USER_PROFILE_BLOCKED_BY_YOU_MESSAGE": "Du har blockerat den här användaren. Du kan inte se deras profil eller innehåll.",
   "USER_PROFILE_BLOCKED_BY_THEM_MESSAGE": "@{username} har blockerat dig. Du kan inte se deras profil eller innehåll.",
-  "USER_PROFILE_META_DESCRIPTION": "Visa {name} på Snipp.",
+  "USER_PROFILE_META_DESCRIPTION": "Visa {name}s profil på Snipp.",
   "USER_PROFILE_UNBLOCKING_BUTTON": "Avblockerar...",
   "COMMON_UNBLOCK": "Avblockera",
   "USER_PROFILE_EDIT_BUTTON": "Redigera profil",
