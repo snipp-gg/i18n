@@ -1617,6 +1617,7 @@
   "MYSTATS_METRIC_DATA": "Загружено данных",
   "MYSTATS_METRIC_COMMENTS": "Полученные комментарии",
   "MYSTATS_METRIC_LIKES": "Полученные лайки",
+  "MYSTATS_METRIC_FOLLOWERS": "Подписчики",
   "MYSTATS_CHART_VIEWS": "Просмотры",
   "MYSTATS_CHART_POSTS": "Посты",
   "MYSTATS_CHART_UPLOADS": "Загрузки",

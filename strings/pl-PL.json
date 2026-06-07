@@ -1617,6 +1617,7 @@
   "MYSTATS_METRIC_DATA": "Przesłane dane",
   "MYSTATS_METRIC_COMMENTS": "Otrzymane komentarze",
   "MYSTATS_METRIC_LIKES": "Otrzymane polubienia",
+  "MYSTATS_METRIC_FOLLOWERS": "Obserwujący",
   "MYSTATS_CHART_VIEWS": "Wyświetlenia",
   "MYSTATS_CHART_POSTS": "Posty",
   "MYSTATS_CHART_UPLOADS": "Przesłane pliki",

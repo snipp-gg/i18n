@@ -1617,6 +1617,7 @@
   "MYSTATS_METRIC_DATA": "Δεδομένα που μεταφορτώθηκαν",
   "MYSTATS_METRIC_COMMENTS": "Σχόλια που λήφθηκαν",
   "MYSTATS_METRIC_LIKES": "Likes που λήφθηκαν",
+  "MYSTATS_METRIC_FOLLOWERS": "Ακόλουθοι",
   "MYSTATS_CHART_VIEWS": "Προβολές",
   "MYSTATS_CHART_POSTS": "Δημοσιεύσεις",
   "MYSTATS_CHART_UPLOADS": "Μεταφορτώσεις",

@@ -1617,6 +1617,7 @@
   "MYSTATS_METRIC_DATA": "Datos subidos",
   "MYSTATS_METRIC_COMMENTS": "Comentarios recibidos",
   "MYSTATS_METRIC_LIKES": "Me gusta recibidos",
+  "MYSTATS_METRIC_FOLLOWERS": "Seguidores",
   "MYSTATS_CHART_VIEWS": "Vistas",
   "MYSTATS_CHART_POSTS": "Publicaciones",
   "MYSTATS_CHART_UPLOADS": "Subidas",

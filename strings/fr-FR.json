@@ -1617,6 +1617,7 @@
   "MYSTATS_METRIC_DATA": "Données téléversées",
   "MYSTATS_METRIC_COMMENTS": "Commentaires reçus",
   "MYSTATS_METRIC_LIKES": "J'aime reçus",
+  "MYSTATS_METRIC_FOLLOWERS": "Abonnés",
   "MYSTATS_CHART_VIEWS": "Vues",
   "MYSTATS_CHART_POSTS": "Publications",
   "MYSTATS_CHART_UPLOADS": "Téléversements",

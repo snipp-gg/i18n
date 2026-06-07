@@ -1617,6 +1617,7 @@
   "MYSTATS_METRIC_DATA": "ข้อมูลที่อัปโหลด",
   "MYSTATS_METRIC_COMMENTS": "ความคิดเห็นที่ได้รับ",
   "MYSTATS_METRIC_LIKES": "ไลก์ที่ได้รับ",
+  "MYSTATS_METRIC_FOLLOWERS": "ผู้ติดตาม",
   "MYSTATS_CHART_VIEWS": "ยอดดู",
   "MYSTATS_CHART_POSTS": "โพสต์",
   "MYSTATS_CHART_UPLOADS": "การอัปโหลด",

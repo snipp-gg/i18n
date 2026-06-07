@@ -1617,6 +1617,7 @@
   "MYSTATS_METRIC_DATA": "Hochgeladene Daten",
   "MYSTATS_METRIC_COMMENTS": "Erhaltene Kommentare",
   "MYSTATS_METRIC_LIKES": "Erhaltene Likes",
+  "MYSTATS_METRIC_FOLLOWERS": "Follower",
   "MYSTATS_CHART_VIEWS": "Aufrufe",
   "MYSTATS_CHART_POSTS": "Beiträge",
   "MYSTATS_CHART_UPLOADS": "Uploads",

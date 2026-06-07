@@ -1617,6 +1617,7 @@
   "MYSTATS_METRIC_DATA": "アップロード容量",
   "MYSTATS_METRIC_COMMENTS": "受け取ったコメント",
   "MYSTATS_METRIC_LIKES": "受け取ったいいね",
+  "MYSTATS_METRIC_FOLLOWERS": "フォロワー",
   "MYSTATS_CHART_VIEWS": "閲覧数",
   "MYSTATS_CHART_POSTS": "投稿",
   "MYSTATS_CHART_UPLOADS": "アップロード",
