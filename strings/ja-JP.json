@@ -20,7 +20,7 @@
   "SETTINGS_PREFS_COPY_URL_LABEL": "アップロード時にURLをコピー",
   "SETTINGS_PREFS_COPY_URL_HINT": "アップロードが完了すると、投稿のリンクを自動的にクリップボードにコピーします。",
   "SETTINGS_PREFS_INCLUDE_METADATA_LABEL": "Include Metadata",
-  "SETTINGS_PREFS_INCLUDE_METADATA_HINT": "Keeps EXIF data such as camera, location and timestamp in your image uploads. Disabled by default to protect your privacy.",
+  "SETTINGS_PREFS_INCLUDE_METADATA_HINT": "Keeps metadata such as camera, location and timestamp in your uploads. Disabled by default to protect your privacy.",
   "SETTINGS_PREFS_PARTY_MODE_LABEL": "パーティーモード",
   "SETTINGS_PREFS_PARTY_MODE_HINT": "アップロード時に紙吹雪やキラキラなど、ちょっとしたお祝い演出を表示します。",
   "SETTINGS_PREFS_REDUCED_MOTION_LABEL": "視差効果を減らす",
