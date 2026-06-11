@@ -20,7 +20,7 @@
   "SETTINGS_PREFS_COPY_URL_LABEL": "คัดลอก URL เมื่ออัปโหลด",
   "SETTINGS_PREFS_COPY_URL_HINT": "คัดลอกลิงก์โพสต์ไปยังคลิปบอร์ดของคุณโดยอัตโนมัติเมื่ออัปโหลดเสร็จ",
   "SETTINGS_PREFS_INCLUDE_METADATA_LABEL": "เก็บข้อมูลเมตา",
-  "SETTINGS_PREFS_INCLUDE_METADATA_HINT": "เก็บข้อมูล EXIF เช่น กล้อง ตำแหน่ง และเวลาที่บันทึก ไว้ในรูปภาพที่คุณอัปโหลด ปิดไว้เป็นค่าเริ่มต้นเพื่อปกป้องความเป็นส่วนตัวของคุณ",
+  "SETTINGS_PREFS_INCLUDE_METADATA_HINT": "เก็บข้อมูล EXIF เช่น กล้อง ตำแหน่ง และเวลาที่บันทึก ไว้ในรูปภาพที่คุณอัปโหลด ปิดใช้งานไว้เป็นค่าเริ่มต้นเพื่อปกป้องความเป็นส่วนตัวของคุณ",
   "SETTINGS_PREFS_PARTY_MODE_LABEL": "โหมดปาร์ตี้",
   "SETTINGS_PREFS_PARTY_MODE_HINT": "คอนเฟ็ตติ ประกายระยิบระยับ และการเฉลิมฉลองเล็กๆ น้อยๆ เมื่ออัปโหลด",
   "SETTINGS_PREFS_REDUCED_MOTION_LABEL": "ลดการเคลื่อนไหว",

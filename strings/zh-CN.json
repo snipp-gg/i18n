@@ -20,7 +20,7 @@
   "SETTINGS_PREFS_COPY_URL_LABEL": "上传时复制URL。",
   "SETTINGS_PREFS_COPY_URL_HINT": "上传完成后,自动复制文件的URL到剪贴板。",
   "SETTINGS_PREFS_INCLUDE_METADATA_LABEL": "保留元数据",
-  "SETTINGS_PREFS_INCLUDE_METADATA_HINT": "在上传的图片中保留相机、位置和时间戳等 EXIF 数据。默认关闭以保护您的隐私。",
+  "SETTINGS_PREFS_INCLUDE_METADATA_HINT": "在上传的图片中保留相机、位置和时间戳等 EXIF 数据。默认禁用以保护您的隐私。",
   "SETTINGS_PREFS_PARTY_MODE_LABEL": "派对模式",
   "SETTINGS_PREFS_PARTY_MODE_HINT": "上传过城中出现了彩带,闪光和其他小型庆祝活动。",
   "SETTINGS_PREFS_REDUCED_MOTION_LABEL": "减少动画",

@@ -20,7 +20,7 @@
   "SETTINGS_PREFS_COPY_URL_LABEL": "Copy URL on Upload",
   "SETTINGS_PREFS_COPY_URL_HINT": "Automatically copies the post link to your clipboard once an upload finishes.",
   "SETTINGS_PREFS_INCLUDE_METADATA_LABEL": "Include Metadata",
-  "SETTINGS_PREFS_INCLUDE_METADATA_HINT": "Keeps EXIF data such as camera, location and timestamp in your image uploads. Off by default to protect your privacy.",
+  "SETTINGS_PREFS_INCLUDE_METADATA_HINT": "Keeps EXIF data such as camera, location and timestamp in your image uploads. Disabled by default to protect your privacy.",
   "SETTINGS_PREFS_PARTY_MODE_LABEL": "Party Mode",
   "SETTINGS_PREFS_PARTY_MODE_HINT": "Confetti, sparkles and other small celebrations on upload.",
   "SETTINGS_PREFS_REDUCED_MOTION_LABEL": "Reduced Motion",
