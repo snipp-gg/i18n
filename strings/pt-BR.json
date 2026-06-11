@@ -20,7 +20,7 @@
   "SETTINGS_PREFS_COPY_URL_LABEL": "Copiar URL ao Enviar",
   "SETTINGS_PREFS_COPY_URL_HINT": "Copia automaticamente o link da publicação para a área de transferência assim que um envio termina.",
   "SETTINGS_PREFS_INCLUDE_METADATA_LABEL": "Include Metadata",
-  "SETTINGS_PREFS_INCLUDE_METADATA_HINT": "Keeps EXIF data such as camera, location and timestamp in your image uploads. Disabled by default to protect your privacy.",
+  "SETTINGS_PREFS_INCLUDE_METADATA_HINT": "Keeps metadata such as camera, location and timestamp in your uploads. Disabled by default to protect your privacy.",
   "SETTINGS_PREFS_PARTY_MODE_LABEL": "Modo Festa",
   "SETTINGS_PREFS_PARTY_MODE_HINT": "Confete, brilhos e outras pequenas comemorações ao enviar.",
   "SETTINGS_PREFS_REDUCED_MOTION_LABEL": "Movimento Reduzido",
