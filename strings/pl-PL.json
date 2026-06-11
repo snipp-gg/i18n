@@ -20,7 +20,7 @@
   "SETTINGS_PREFS_COPY_URL_LABEL": "Kopiuj URL po Przesłaniu",
   "SETTINGS_PREFS_COPY_URL_HINT": "Automatycznie kopiuje link do posta do schowka po zakończeniu przesyłania.",
   "SETTINGS_PREFS_INCLUDE_METADATA_LABEL": "Include Metadata",
-  "SETTINGS_PREFS_INCLUDE_METADATA_HINT": "Keeps EXIF data such as camera, location and timestamp in your image uploads. Disabled by default to protect your privacy.",
+  "SETTINGS_PREFS_INCLUDE_METADATA_HINT": "Keeps metadata such as camera, location and timestamp in your uploads. Disabled by default to protect your privacy.",
   "SETTINGS_PREFS_PARTY_MODE_LABEL": "Tryb Imprezy",
   "SETTINGS_PREFS_PARTY_MODE_HINT": "Konfetti, iskierki i inne drobne świętowanie po przesłaniu.",
   "SETTINGS_PREFS_REDUCED_MOTION_LABEL": "Ograniczone Animacje",
