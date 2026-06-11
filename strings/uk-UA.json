@@ -20,7 +20,7 @@
   "SETTINGS_PREFS_COPY_URL_LABEL": "Копіювати URL при завантаженні",
   "SETTINGS_PREFS_COPY_URL_HINT": "Автоматично копіює посилання на допис у буфер обміну після завершення завантаження.",
   "SETTINGS_PREFS_INCLUDE_METADATA_LABEL": "Include Metadata",
-  "SETTINGS_PREFS_INCLUDE_METADATA_HINT": "Keeps EXIF data such as camera, location and timestamp in your image uploads. Disabled by default to protect your privacy.",
+  "SETTINGS_PREFS_INCLUDE_METADATA_HINT": "Keeps metadata such as camera, location and timestamp in your uploads. Disabled by default to protect your privacy.",
   "SETTINGS_PREFS_PARTY_MODE_LABEL": "Режим вечірки",
   "SETTINGS_PREFS_PARTY_MODE_HINT": "Конфеті, блискітки та інші маленькі святкування під час завантаження.",
   "SETTINGS_PREFS_REDUCED_MOTION_LABEL": "Зменшена анімація",
