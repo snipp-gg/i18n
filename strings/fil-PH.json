@@ -20,7 +20,7 @@
   "SETTINGS_PREFS_COPY_URL_LABEL": "Kopyahin ang URL sa Pag-upload",
   "SETTINGS_PREFS_COPY_URL_HINT": "Awtomatikong kinokopya ang link ng post sa iyong clipboard kapag tapos na ang upload.",
   "SETTINGS_PREFS_INCLUDE_METADATA_LABEL": "Isama ang Metadata",
-  "SETTINGS_PREFS_INCLUDE_METADATA_HINT": "Pinapanatili ang EXIF data gaya ng camera, lokasyon at timestamp sa iyong mga ina-upload na larawan. Naka-disable bilang default para protektahan ang iyong privacy.",
+  "SETTINGS_PREFS_INCLUDE_METADATA_HINT": "Pinapanatili ang metadata gaya ng camera, lokasyon at timestamp sa iyong mga ina-upload. Naka-disable bilang default para protektahan ang iyong privacy.",
   "SETTINGS_PREFS_PARTY_MODE_LABEL": "Party Mode",
   "SETTINGS_PREFS_PARTY_MODE_HINT": "Confetti, sparkles, at iba pang maliliit na selebrasyon kapag nag-upload.",
   "SETTINGS_PREFS_REDUCED_MOTION_LABEL": "Reduced Motion",

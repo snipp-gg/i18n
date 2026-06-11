@@ -20,7 +20,7 @@
   "SETTINGS_PREFS_COPY_URL_LABEL": "Copiar URL ao Carregar",
   "SETTINGS_PREFS_COPY_URL_HINT": "Copia automaticamente o link da publicação para a área de transferência quando um carregamento termina.",
   "SETTINGS_PREFS_INCLUDE_METADATA_LABEL": "Manter Metadados",
-  "SETTINGS_PREFS_INCLUDE_METADATA_HINT": "Mantém os dados EXIF, como câmara, localização e data e hora, nos seus carregamentos de imagem. Desativado por predefinição para proteger a sua privacidade.",
+  "SETTINGS_PREFS_INCLUDE_METADATA_HINT": "Mantém os metadados, como câmara, localização e data e hora, nos seus carregamentos. Desativado por predefinição para proteger a sua privacidade.",
   "SETTINGS_PREFS_PARTY_MODE_LABEL": "Modo Festa",
   "SETTINGS_PREFS_PARTY_MODE_HINT": "Confetis, brilhantes e outras pequenas celebrações ao carregar.",
   "SETTINGS_PREFS_REDUCED_MOTION_LABEL": "Movimento Reduzido",

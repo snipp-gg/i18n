@@ -20,7 +20,7 @@
   "SETTINGS_PREFS_COPY_URL_LABEL": "URL beim Hochladen Kopieren",
   "SETTINGS_PREFS_COPY_URL_HINT": "Kopiert den Beitragslink automatisch in die Zwischenablage, sobald ein Upload abgeschlossen ist.",
   "SETTINGS_PREFS_INCLUDE_METADATA_LABEL": "Metadaten beibehalten",
-  "SETTINGS_PREFS_INCLUDE_METADATA_HINT": "Behält EXIF-Daten wie Kamera, Standort und Zeitstempel in deinen hochgeladenen Bildern. Standardmäßig deaktiviert, um deine Privatsphäre zu schützen.",
+  "SETTINGS_PREFS_INCLUDE_METADATA_HINT": "Behält Metadaten wie Kamera, Standort und Zeitstempel in deinen Uploads. Standardmäßig deaktiviert, um deine Privatsphäre zu schützen.",
   "SETTINGS_PREFS_PARTY_MODE_LABEL": "Partymodus",
   "SETTINGS_PREFS_PARTY_MODE_HINT": "Konfetti, Funkeln und andere kleine Feiern beim Hochladen.",
   "SETTINGS_PREFS_REDUCED_MOTION_LABEL": "Reduzierte Bewegung",

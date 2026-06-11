@@ -20,7 +20,7 @@
   "SETTINGS_PREFS_COPY_URL_LABEL": "Copiar URL al Subir",
   "SETTINGS_PREFS_COPY_URL_HINT": "Copia automáticamente el enlace de la publicación al portapapeles cuando termina una subida.",
   "SETTINGS_PREFS_INCLUDE_METADATA_LABEL": "Conservar Metadatos",
-  "SETTINGS_PREFS_INCLUDE_METADATA_HINT": "Conserva los datos EXIF como cámara, ubicación y marca de tiempo en las imágenes que subes. Desactivado por defecto para proteger tu privacidad.",
+  "SETTINGS_PREFS_INCLUDE_METADATA_HINT": "Conserva los metadatos como cámara, ubicación y marca de tiempo en los archivos que subes. Desactivado por defecto para proteger tu privacidad.",
   "SETTINGS_PREFS_PARTY_MODE_LABEL": "Modo Fiesta",
   "SETTINGS_PREFS_PARTY_MODE_HINT": "Confeti, destellos y otras pequeñas celebraciones al subir.",
   "SETTINGS_PREFS_REDUCED_MOTION_LABEL": "Movimiento Reducido",

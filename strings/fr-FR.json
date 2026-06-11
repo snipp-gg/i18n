@@ -20,7 +20,7 @@
   "SETTINGS_PREFS_COPY_URL_LABEL": "Copier l'URL à l'envoi",
   "SETTINGS_PREFS_COPY_URL_HINT": "Copie automatiquement le lien du post dans votre presse-papiers une fois l'envoi terminé.",
   "SETTINGS_PREFS_INCLUDE_METADATA_LABEL": "Conserver les métadonnées",
-  "SETTINGS_PREFS_INCLUDE_METADATA_HINT": "Conserve les données EXIF telles que l'appareil photo, la localisation et l'horodatage dans vos images envoyées. Désactivé par défaut pour protéger votre vie privée.",
+  "SETTINGS_PREFS_INCLUDE_METADATA_HINT": "Conserve les métadonnées telles que l'appareil photo, la localisation et l'horodatage dans vos fichiers envoyés. Désactivé par défaut pour protéger votre vie privée.",
   "SETTINGS_PREFS_PARTY_MODE_LABEL": "Mode fête",
   "SETTINGS_PREFS_PARTY_MODE_HINT": "Confettis, étincelles et autres petites célébrations à l'envoi.",
   "SETTINGS_PREFS_REDUCED_MOTION_LABEL": "Animations réduites",

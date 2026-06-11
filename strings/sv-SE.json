@@ -20,7 +20,7 @@
   "SETTINGS_PREFS_COPY_URL_LABEL": "Kopiera URL vid uppladdning",
   "SETTINGS_PREFS_COPY_URL_HINT": "Kopierar automatiskt inläggslänken till urklipp när en uppladdning är klar.",
   "SETTINGS_PREFS_INCLUDE_METADATA_LABEL": "Behåll metadata",
-  "SETTINGS_PREFS_INCLUDE_METADATA_HINT": "Behåller EXIF-data som kamera, plats och tidsstämpel i dina uppladdade bilder. Inaktiverat som standard för att skydda din integritet.",
+  "SETTINGS_PREFS_INCLUDE_METADATA_HINT": "Behåller metadata som kamera, plats och tidsstämpel i dina uppladdade filer. Inaktiverat som standard för att skydda din integritet.",
   "SETTINGS_PREFS_PARTY_MODE_LABEL": "Festläge",
   "SETTINGS_PREFS_PARTY_MODE_HINT": "Konfetti, gnistror och andra små firanden vid uppladdning.",
   "SETTINGS_PREFS_REDUCED_MOTION_LABEL": "Reducerad rörelse",

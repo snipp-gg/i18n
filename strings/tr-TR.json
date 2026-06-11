@@ -20,7 +20,7 @@
   "SETTINGS_PREFS_COPY_URL_LABEL": "Yüklemede URL'yi Kopyala",
   "SETTINGS_PREFS_COPY_URL_HINT": "Bir yükleme tamamlandığında gönderi bağlantısını panonuza otomatik olarak kopyalar.",
   "SETTINGS_PREFS_INCLUDE_METADATA_LABEL": "Meta Verileri Koru",
-  "SETTINGS_PREFS_INCLUDE_METADATA_HINT": "Yüklediğin görüntülerde kamera, konum ve zaman damgası gibi EXIF verilerini korur. Gizliliğini korumak için varsayılan olarak devre dışıdır.",
+  "SETTINGS_PREFS_INCLUDE_METADATA_HINT": "Yüklediğin dosyalarda kamera, konum ve zaman damgası gibi meta verileri korur. Gizliliğini korumak için varsayılan olarak devre dışıdır.",
   "SETTINGS_PREFS_PARTY_MODE_LABEL": "Parti Modu",
   "SETTINGS_PREFS_PARTY_MODE_HINT": "Yüklemede konfeti, parıltılar ve diğer küçük kutlamalar.",
   "SETTINGS_PREFS_REDUCED_MOTION_LABEL": "Azaltılmış Hareket",
