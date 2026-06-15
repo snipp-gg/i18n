@@ -24,6 +24,19 @@ Each file is a flat JSON map of opaque string IDs to translated text. `source/en
 | [`strings/ru-RU.json`](./strings/ru-RU.json)   | Русский              |
 | [`strings/th-TH.json`](./strings/th-TH.json)   | ไทย                  |
 | [`strings/zh-CN.json`](./strings/zh-CN.json)   | 中文（简体）               |
+| [`strings/nl-NL.json`](./strings/nl-NL.json)   | Nederlands           |
+| [`strings/ko-KR.json`](./strings/ko-KR.json)   | 한국어                  |
+| [`strings/id-ID.json`](./strings/id-ID.json)   | Bahasa Indonesia     |
+| [`strings/vi-VN.json`](./strings/vi-VN.json)   | Tiếng Việt           |
+| [`strings/ro-RO.json`](./strings/ro-RO.json)   | Română               |
+| [`strings/it-IT.json`](./strings/it-IT.json)   | Italiano             |
+| [`strings/cs-CZ.json`](./strings/cs-CZ.json)   | Čeština              |
+| [`strings/fi-FI.json`](./strings/fi-FI.json)   | Suomi                |
+| [`strings/nb-NO.json`](./strings/nb-NO.json)   | Norsk                |
+| [`strings/sk-SK.json`](./strings/sk-SK.json)   | Slovenčina           |
+| [`strings/hr-HR.json`](./strings/hr-HR.json)   | Hrvatski             |
+| [`strings/bg-BG.json`](./strings/bg-BG.json)   | Български            |
+| [`strings/sr-RS.json`](./strings/sr-RS.json)   | Srpski               |
 
 
 ## Want to help?
