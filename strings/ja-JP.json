@@ -790,6 +790,7 @@
   "POST_ADD_FILES_SLOT_LEFT_PLURAL": "残り {remaining} 枠",
   "POST_COMMENT_HEADING": "コメント",
   "POST_COMMENT_HEADING_COUNT": "コメント ({count})",
+  "POST_ACTIONS_MENU_LABEL": "Post actions",
   "POST_COMMENT_LOG_IN_SUFFIX": "してコメントしましょう。",
   "POST_COMMENT_SUSPENDED": "Your account is suspended, so you cannot comment.",
   "POST_LIKE_SUSPENDED": "Your account is suspended, so you cannot like posts.",
