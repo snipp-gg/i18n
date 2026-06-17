@@ -790,6 +790,7 @@
   "POST_ADD_FILES_SLOT_LEFT_PLURAL": "{remaining} emplacements restants",
   "POST_COMMENT_HEADING": "Commentaires",
   "POST_COMMENT_HEADING_COUNT": "Commentaires ({count})",
+  "POST_ACTIONS_MENU_LABEL": "Post actions",
   "POST_COMMENT_LOG_IN_SUFFIX": "pour commenter.",
   "POST_COMMENT_SUSPENDED": "Your account is suspended, so you cannot comment.",
   "POST_LIKE_SUSPENDED": "Your account is suspended, so you cannot like posts.",
