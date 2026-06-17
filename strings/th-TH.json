@@ -790,6 +790,7 @@
   "POST_ADD_FILES_SLOT_LEFT_PLURAL": "เหลือ {remaining} ช่อง",
   "POST_COMMENT_HEADING": "ความคิดเห็น",
   "POST_COMMENT_HEADING_COUNT": "ความคิดเห็น ({count})",
+  "POST_ACTIONS_MENU_LABEL": "การดำเนินการกับโพสต์",
   "POST_COMMENT_LOG_IN_SUFFIX": "เพื่อแสดงความคิดเห็น",
   "POST_COMMENT_SUSPENDED": "บัญชีของคุณถูกระงับ คุณจึงไม่สามารถแสดงความคิดเห็นได้",
   "POST_LIKE_SUSPENDED": "บัญชีของคุณถูกระงับ คุณจึงไม่สามารถกดถูกใจโพสต์ได้",

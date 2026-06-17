@@ -790,6 +790,7 @@
   "POST_ADD_FILES_SLOT_LEFT_PLURAL": "{remaining} slots ang natitira",
   "POST_COMMENT_HEADING": "Mga Komento",
   "POST_COMMENT_HEADING_COUNT": "Mga Komento ({count})",
+  "POST_ACTIONS_MENU_LABEL": "Mga aksyon sa post",
   "POST_COMMENT_LOG_IN_SUFFIX": "para mag-komento.",
   "POST_COMMENT_SUSPENDED": "Naka-suspend ang iyong account, kaya hindi ka makapag-comment.",
   "POST_LIKE_SUSPENDED": "Naka-suspend ang iyong account, kaya hindi ka makapag-like ng mga post.",

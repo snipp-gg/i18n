@@ -790,6 +790,7 @@
   "POST_ADD_FILES_SLOT_LEFT_PLURAL": "{remaining} plekken over",
   "POST_COMMENT_HEADING": "Reacties",
   "POST_COMMENT_HEADING_COUNT": "Reacties ({count})",
+  "POST_ACTIONS_MENU_LABEL": "Berichtacties",
   "POST_COMMENT_LOG_IN_SUFFIX": "om te reageren.",
   "POST_COMMENT_SUSPENDED": "Je account is geschorst, dus je kunt geen reactie plaatsen.",
   "POST_LIKE_SUSPENDED": "Je account is geschorst, dus je kunt geen berichten liken.",

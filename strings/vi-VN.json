@@ -790,6 +790,7 @@
   "POST_ADD_FILES_SLOT_LEFT_PLURAL": "Còn {remaining} chỗ",
   "POST_COMMENT_HEADING": "Bình luận",
   "POST_COMMENT_HEADING_COUNT": "Bình luận ({count})",
+  "POST_ACTIONS_MENU_LABEL": "Tác vụ bài đăng",
   "POST_COMMENT_LOG_IN_SUFFIX": "để bình luận.",
   "POST_COMMENT_SUSPENDED": "Tài khoản của bạn đã bị đình chỉ, vì vậy bạn không thể bình luận.",
   "POST_LIKE_SUSPENDED": "Tài khoản của bạn đã bị đình chỉ, vì vậy bạn không thể thích bài viết.",

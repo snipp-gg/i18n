@@ -790,6 +790,7 @@
   "POST_ADD_FILES_SLOT_LEFT_PLURAL": "{remaining} espacios disponibles",
   "POST_COMMENT_HEADING": "Comentarios",
   "POST_COMMENT_HEADING_COUNT": "Comentarios ({count})",
+  "POST_ACTIONS_MENU_LABEL": "Acciones de publicación",
   "POST_COMMENT_LOG_IN_SUFFIX": "para comentar.",
   "POST_COMMENT_SUSPENDED": "Tu cuenta está suspendida, así que no puedes comentar.",
   "POST_LIKE_SUSPENDED": "Tu cuenta está suspendida, así que no puedes dar me gusta a las publicaciones.",

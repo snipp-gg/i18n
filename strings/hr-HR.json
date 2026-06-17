@@ -790,6 +790,7 @@
   "POST_ADD_FILES_SLOT_LEFT_PLURAL": "Preostalo {remaining} mjesta",
   "POST_COMMENT_HEADING": "Komentari",
   "POST_COMMENT_HEADING_COUNT": "Komentari ({count})",
+  "POST_ACTIONS_MENU_LABEL": "Radnje objave",
   "POST_COMMENT_LOG_IN_SUFFIX": "za komentiranje.",
   "POST_COMMENT_SUSPENDED": "Vaš je račun suspendiran, pa ne možete komentirati.",
   "POST_LIKE_SUSPENDED": "Vaš je račun suspendiran, pa ne možete označiti objave s oznakom Sviđa mi se.",

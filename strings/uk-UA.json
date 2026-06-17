@@ -790,6 +790,7 @@
   "POST_ADD_FILES_SLOT_LEFT_PLURAL": "Залишилося {remaining} місць",
   "POST_COMMENT_HEADING": "Коментарі",
   "POST_COMMENT_HEADING_COUNT": "Коментарі ({count})",
+  "POST_ACTIONS_MENU_LABEL": "Дії з публікацією",
   "POST_COMMENT_LOG_IN_SUFFIX": "щоб коментувати.",
   "POST_COMMENT_SUSPENDED": "Ваш обліковий запис призупинено, тому ви не можете коментувати.",
   "POST_LIKE_SUSPENDED": "Ваш обліковий запис призупинено, тому ви не можете вподобати дописи.",

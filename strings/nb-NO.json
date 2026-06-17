@@ -790,6 +790,7 @@
   "POST_ADD_FILES_SLOT_LEFT_PLURAL": "{remaining} plasser igjen",
   "POST_COMMENT_HEADING": "Kommentarer",
   "POST_COMMENT_HEADING_COUNT": "Kommentarer ({count})",
+  "POST_ACTIONS_MENU_LABEL": "Innleggshandlinger",
   "POST_COMMENT_LOG_IN_SUFFIX": "for å kommentere.",
   "POST_COMMENT_SUSPENDED": "Kontoen din er suspendert, så du kan ikke kommentere.",
   "POST_LIKE_SUSPENDED": "Kontoen din er suspendert, så du kan ikke like innlegg.",

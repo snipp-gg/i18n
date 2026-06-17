@@ -790,6 +790,7 @@
   "POST_ADD_FILES_SLOT_LEFT_PLURAL": "{remaining} locuri rămase",
   "POST_COMMENT_HEADING": "Comentarii",
   "POST_COMMENT_HEADING_COUNT": "Comentarii ({count})",
+  "POST_ACTIONS_MENU_LABEL": "Acțiuni postare",
   "POST_COMMENT_LOG_IN_SUFFIX": "pentru a comenta.",
   "POST_COMMENT_SUSPENDED": "Contul tău este suspendat, așa că nu poți comenta.",
   "POST_LIKE_SUSPENDED": "Contul tău este suspendat, așa că nu poți aprecia postări.",

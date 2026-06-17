@@ -790,6 +790,7 @@
   "POST_ADD_FILES_SLOT_LEFT_PLURAL": "{remaining} Plätze übrig",
   "POST_COMMENT_HEADING": "Kommentare",
   "POST_COMMENT_HEADING_COUNT": "Kommentare ({count})",
+  "POST_ACTIONS_MENU_LABEL": "Beitragsaktionen",
   "POST_COMMENT_LOG_IN_SUFFIX": "um zu kommentieren.",
   "POST_COMMENT_SUSPENDED": "Dein Konto ist gesperrt, daher kannst du nicht kommentieren.",
   "POST_LIKE_SUSPENDED": "Dein Konto ist gesperrt, daher kannst du keine Beiträge liken.",

@@ -790,6 +790,7 @@
   "POST_ADD_FILES_SLOT_LEFT_PLURAL": "Остават {remaining} места",
   "POST_COMMENT_HEADING": "Коментари",
   "POST_COMMENT_HEADING_COUNT": "Коментари ({count})",
+  "POST_ACTIONS_MENU_LABEL": "Действия с публикацията",
   "POST_COMMENT_LOG_IN_SUFFIX": "за да коментирате.",
   "POST_COMMENT_SUSPENDED": "Акаунтът ви е спрян, така че не можете да коментирате.",
   "POST_LIKE_SUSPENDED": "Акаунтът ви е спрян, така че не можете да харесвате публикации.",

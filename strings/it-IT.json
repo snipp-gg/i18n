@@ -790,6 +790,7 @@
   "POST_ADD_FILES_SLOT_LEFT_PLURAL": "{remaining} posti rimasti",
   "POST_COMMENT_HEADING": "Commenti",
   "POST_COMMENT_HEADING_COUNT": "Commenti ({count})",
+  "POST_ACTIONS_MENU_LABEL": "Azioni post",
   "POST_COMMENT_LOG_IN_SUFFIX": "per commentare.",
   "POST_COMMENT_SUSPENDED": "Il tuo account è sospeso, quindi non puoi commentare.",
   "POST_LIKE_SUSPENDED": "Il tuo account è sospeso, quindi non puoi mettere mi piace ai post.",

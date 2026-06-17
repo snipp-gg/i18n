@@ -790,6 +790,7 @@
   "POST_ADD_FILES_SLOT_LEFT_PLURAL": "{remaining} yuva kaldı",
   "POST_COMMENT_HEADING": "Yorumlar",
   "POST_COMMENT_HEADING_COUNT": "Yorumlar ({count})",
+  "POST_ACTIONS_MENU_LABEL": "Gönderi işlemleri",
   "POST_COMMENT_LOG_IN_SUFFIX": "yorum yapmak için.",
   "POST_COMMENT_SUSPENDED": "Hesabınız askıya alındı, bu yüzden yorum yapamazsınız.",
   "POST_LIKE_SUSPENDED": "Hesabınız askıya alındı, bu yüzden gönderileri beğenemezsiniz.",

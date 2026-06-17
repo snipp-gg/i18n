@@ -790,6 +790,7 @@
   "POST_ADD_FILES_SLOT_LEFT_PLURAL": "zbývá {remaining} míst",
   "POST_COMMENT_HEADING": "Komentáře",
   "POST_COMMENT_HEADING_COUNT": "Komentáře ({count})",
+  "POST_ACTIONS_MENU_LABEL": "Akce příspěvku",
   "POST_COMMENT_LOG_IN_SUFFIX": "pro komentování.",
   "POST_COMMENT_SUSPENDED": "Váš účet je pozastaven, takže nemůžete komentovat.",
   "POST_LIKE_SUSPENDED": "Váš účet je pozastaven, takže nemůžete označovat příspěvky To se mi líbí.",

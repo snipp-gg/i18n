@@ -790,6 +790,7 @@
   "POST_ADD_FILES_SLOT_LEFT_PLURAL": "{remaining} paikkaa jäljellä",
   "POST_COMMENT_HEADING": "Kommentit",
   "POST_COMMENT_HEADING_COUNT": "Kommentit ({count})",
+  "POST_ACTIONS_MENU_LABEL": "Julkaisun toiminnot",
   "POST_COMMENT_LOG_IN_SUFFIX": "kommentoidaksesi.",
   "POST_COMMENT_SUSPENDED": "Tilisi on jäädytetty, joten et voi kommentoida.",
   "POST_LIKE_SUSPENDED": "Tilisi on jäädytetty, joten et voi tykätä julkaisuista.",

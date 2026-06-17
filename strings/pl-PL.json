@@ -790,6 +790,7 @@
   "POST_ADD_FILES_SLOT_LEFT_PLURAL": "{remaining} wolnych miejsc",
   "POST_COMMENT_HEADING": "Komentarze",
   "POST_COMMENT_HEADING_COUNT": "Komentarze ({count})",
+  "POST_ACTIONS_MENU_LABEL": "Działania na poście",
   "POST_COMMENT_LOG_IN_SUFFIX": "aby skomentować.",
   "POST_COMMENT_SUSPENDED": "Twoje konto jest zawieszone, więc nie możesz komentować.",
   "POST_LIKE_SUSPENDED": "Twoje konto jest zawieszone, więc nie możesz polubić postów.",

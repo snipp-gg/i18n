@@ -790,6 +790,7 @@
   "POST_ADD_FILES_SLOT_LEFT_PLURAL": "{remaining}개 남음",
   "POST_COMMENT_HEADING": "댓글",
   "POST_COMMENT_HEADING_COUNT": "댓글 ({count})",
+  "POST_ACTIONS_MENU_LABEL": "게시물 작업",
   "POST_COMMENT_LOG_IN_SUFFIX": "하여 댓글을 남기세요.",
   "POST_COMMENT_SUSPENDED": "계정이 정지되어 댓글을 작성할 수 없습니다.",
   "POST_LIKE_SUSPENDED": "계정이 정지되어 게시물에 좋아요를 누를 수 없습니다.",

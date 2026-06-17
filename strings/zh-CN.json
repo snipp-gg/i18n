@@ -790,6 +790,7 @@
   "POST_ADD_FILES_SLOT_LEFT_PLURAL": "{remaining} 剩余名额",
   "POST_COMMENT_HEADING": "评论",
   "POST_COMMENT_HEADING_COUNT": "评论 ({count})",
+  "POST_ACTIONS_MENU_LABEL": "帖子操作",
   "POST_COMMENT_LOG_IN_SUFFIX": "来发表评论。",
   "POST_COMMENT_SUSPENDED": "您的账户已被封禁，因此无法评论。",
   "POST_LIKE_SUSPENDED": "您的账户已被封禁，因此无法点赞帖子。",

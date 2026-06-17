@@ -790,6 +790,7 @@
   "POST_ADD_FILES_SLOT_LEFT_PLURAL": "{remaining} θέσεις απομένουν",
   "POST_COMMENT_HEADING": "Σχόλια",
   "POST_COMMENT_HEADING_COUNT": "Σχόλια ({count})",
+  "POST_ACTIONS_MENU_LABEL": "Ενέργειες ανάρτησης",
   "POST_COMMENT_LOG_IN_SUFFIX": "για σχολιασμό.",
   "POST_COMMENT_SUSPENDED": "Ο λογαριασμός σας έχει ανασταλεί, οπότε δεν μπορείτε να σχολιάσετε.",
   "POST_LIKE_SUSPENDED": "Ο λογαριασμός σας έχει ανασταλεί, οπότε δεν μπορείτε να κάνετε «μου αρέσει» σε αναρτήσεις.",

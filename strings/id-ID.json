@@ -790,6 +790,7 @@
   "POST_ADD_FILES_SLOT_LEFT_PLURAL": "{remaining} slot tersisa",
   "POST_COMMENT_HEADING": "Komentar",
   "POST_COMMENT_HEADING_COUNT": "Komentar ({count})",
+  "POST_ACTIONS_MENU_LABEL": "Tindakan postingan",
   "POST_COMMENT_LOG_IN_SUFFIX": "untuk berkomentar.",
   "POST_COMMENT_SUSPENDED": "Akun Anda ditangguhkan, jadi Anda tidak dapat berkomentar.",
   "POST_LIKE_SUSPENDED": "Akun Anda ditangguhkan, jadi Anda tidak dapat menyukai postingan.",

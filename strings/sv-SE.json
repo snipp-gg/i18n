@@ -790,6 +790,7 @@
   "POST_ADD_FILES_SLOT_LEFT_PLURAL": "{remaining} platser kvar",
   "POST_COMMENT_HEADING": "Kommentarer",
   "POST_COMMENT_HEADING_COUNT": "Kommentarer ({count})",
+  "POST_ACTIONS_MENU_LABEL": "Inläggsåtgärder",
   "POST_COMMENT_LOG_IN_SUFFIX": "för att kommentera.",
   "POST_COMMENT_SUSPENDED": "Ditt konto är avstängt, så du kan inte kommentera.",
   "POST_LIKE_SUSPENDED": "Ditt konto är avstängt, så du kan inte gilla inlägg.",
