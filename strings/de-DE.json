@@ -631,7 +631,7 @@
   "HOME_FAQ_PRIVACY_ANSWER": "Uploads über die Website sind standardmäßig nicht gelistet (nur per Link). Du kannst deinen Post jederzeit öffentlich machen, damit er auf der Entdecken-Seite erscheint, bei Bedarf ist auch private Sichtbarkeit verfügbar.",
   "HOME_HERO_HEADING": "Teile deine Momente",
   "HOME_HERO_HEADING_ACCENT": "schneller als je zuvor",
-  "HOME_HERO_SUBTITLE": "Lade Screenshots und Clips in Sekunden hoch und erhalte sofort einen Link zum Teilen. Einfach schnelles, unkompliziertes Teilen, gemacht für Gamer und Creator.",
+  "HOME_HERO_SUBTITLE": "Free image hosting and clip sharing built for gamers and creators. Upload a screenshot or video and get an instant link to share in seconds.",
   "HOME_HERO_BUTTON_UPLOAD": "Jetzt hochladen",
   "HOME_HERO_BUTTON_DISCORD": "Tritt unserem Discord bei",
   "HOME_STEPS_HEADING": "Three steps to share",
@@ -874,14 +874,11 @@
   "SETTINGS_CONSOLE_TOAST_API_KEY_CREATED": "API-Schlüssel erfolgreich erstellt!",
   "SETTINGS_CONSOLE_ERROR_API_KEY_CREATE": "Beim Generieren eines API-Schlüssels ist ein Fehler aufgetreten.",
   "SETTINGS_CONSOLE_ERROR_API_KEY_NONE_TO_REGENERATE": "Kein API-Schlüssel zum Neugenerieren vorhanden.",
-  "ERROR_API_KEY_REGENERATE": "API-Schlüssel konnte nicht neu generiert werden.",
   "SETTINGS_CONSOLE_TOAST_API_KEY_REGENERATED": "Dein API-Schlüssel wurde neu generiert!",
   "SETTINGS_CONSOLE_ERROR_API_KEY_REGENERATE": "Beim Neugenerieren deines API-Schlüssels ist ein Fehler aufgetreten.",
   "SETTINGS_CONSOLE_ERROR_API_KEY_NONE_TO_DELETE": "Kein API-Schlüssel zum Löschen vorhanden.",
-  "ERROR_API_KEY_DELETE": "API-Schlüssel konnte nicht gelöscht werden.",
   "SETTINGS_CONSOLE_TOAST_API_KEY_DELETED": "API-Schlüssel erfolgreich gelöscht!",
   "SETTINGS_CONSOLE_ERROR_API_KEY_DELETE": "Beim Löschen deines API-Schlüssels ist ein Fehler aufgetreten.",
-  "ERROR_API_KEY_PERMISSIONS": "API-Schlüssel-Berechtigungen konnten nicht aktualisiert werden.",
   "SETTINGS_CONSOLE_TOAST_API_KEY_PERMISSIONS_UPDATED": "API-Schlüssel-Berechtigungen erfolgreich aktualisiert!",
   "SETTINGS_CONSOLE_ERROR_API_KEY_PERMISSIONS_UPDATE": "Beim Aktualisieren der API-Schlüssel-Berechtigungen ist ein Fehler aufgetreten.",
   "SETTINGS_CONSOLE_ERROR_CONFIG_DOWNLOAD": "Konfigurationsdatei konnte nicht heruntergeladen werden.",
@@ -1601,5 +1598,7 @@
   "MYSTATS_PAYOUT_LABEL": "Estimated payout",
   "MYSTATS_PAYOUT_SHARE": "Your share this month",
   "MYSTATS_FETCH_ERROR": "Failed to load analytics",
-  "OBSERVATORY_FETCH_ERROR": "Failed to load analytics"
+  "OBSERVATORY_FETCH_ERROR": "Failed to load analytics",
+  "HOME_META_TITLE": "Capture, upload, and share your best moments",
+  "HOME_META_DESCRIPTION": "Snipp is a free screenshot and video upload tool. Capture, upload, and share your gaming clips and screenshots instantly."
 }
