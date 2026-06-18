@@ -631,7 +631,7 @@
   "HOME_FAQ_PRIVACY_ANSWER": "Web sitesinden yapılan yüklemeler varsayılan olarak listelenmemiştir (yalnızca bağlantıyla). Gönderinizin Keşfet sayfasında görülmesi için istediğiniz zaman herkese açık hale getirebilir, gerektiğinde özel görünürlüğü de kullanabilirsiniz.",
   "HOME_HERO_HEADING": "Anlarınızı paylaşın",
   "HOME_HERO_HEADING_ACCENT": "her zamankinden daha hızlı",
-  "HOME_HERO_SUBTITLE": "Ekran görüntülerini ve klipleri saniyeler içinde yükleyin ve paylaşmak için anında bir bağlantı alın. Oyuncular ve içerik üreticileri için tasarlanmış, hızlı ve basit paylaşım.",
+  "HOME_HERO_SUBTITLE": "Free image hosting and clip sharing built for gamers and creators. Upload a screenshot or video and get an instant link to share in seconds.",
   "HOME_HERO_BUTTON_UPLOAD": "Yüklemeye başla",
   "HOME_HERO_BUTTON_DISCORD": "Discord'umuza katıl",
   "HOME_STEPS_HEADING": "Three steps to share",
@@ -874,14 +874,11 @@
   "SETTINGS_CONSOLE_TOAST_API_KEY_CREATED": "API anahtarı başarıyla oluşturuldu!",
   "SETTINGS_CONSOLE_ERROR_API_KEY_CREATE": "API anahtarı oluşturulurken bir hata oluştu.",
   "SETTINGS_CONSOLE_ERROR_API_KEY_NONE_TO_REGENERATE": "Yeniden oluşturulacak API anahtarı yok.",
-  "ERROR_API_KEY_REGENERATE": "API anahtarı yeniden oluşturulamadı.",
   "SETTINGS_CONSOLE_TOAST_API_KEY_REGENERATED": "API anahtarınız yeniden oluşturuldu!",
   "SETTINGS_CONSOLE_ERROR_API_KEY_REGENERATE": "API anahtarınız yeniden oluşturulurken bir hata oluştu.",
   "SETTINGS_CONSOLE_ERROR_API_KEY_NONE_TO_DELETE": "Silinecek API anahtarı yok.",
-  "ERROR_API_KEY_DELETE": "API anahtarı silinemedi.",
   "SETTINGS_CONSOLE_TOAST_API_KEY_DELETED": "API anahtarı başarıyla silindi!",
   "SETTINGS_CONSOLE_ERROR_API_KEY_DELETE": "API anahtarınız silinirken bir hata oluştu.",
-  "ERROR_API_KEY_PERMISSIONS": "API anahtarı izinleri güncellenemedi.",
   "SETTINGS_CONSOLE_TOAST_API_KEY_PERMISSIONS_UPDATED": "API anahtarı izinleri başarıyla güncellendi!",
   "SETTINGS_CONSOLE_ERROR_API_KEY_PERMISSIONS_UPDATE": "API anahtarı izinleri güncellenirken bir hata oluştu.",
   "SETTINGS_CONSOLE_ERROR_CONFIG_DOWNLOAD": "Yapılandırma dosyası indirilemedi.",
@@ -1601,5 +1598,7 @@
   "MYSTATS_PAYOUT_LABEL": "Estimated payout",
   "MYSTATS_PAYOUT_SHARE": "Your share this month",
   "MYSTATS_FETCH_ERROR": "Failed to load analytics",
-  "OBSERVATORY_FETCH_ERROR": "Failed to load analytics"
+  "OBSERVATORY_FETCH_ERROR": "Failed to load analytics",
+  "HOME_META_TITLE": "Capture, upload, and share your best moments",
+  "HOME_META_DESCRIPTION": "Snipp is a free screenshot and video upload tool. Capture, upload, and share your gaming clips and screenshots instantly."
 }
