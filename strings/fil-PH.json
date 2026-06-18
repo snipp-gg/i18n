@@ -631,7 +631,7 @@
   "HOME_FAQ_PRIVACY_ANSWER": "Ang mga upload mula sa website ay unlisted bilang default (link-only). Maaari mong gawing public ang iyong post anumang oras para makita sa Discover page, na may private visibility na available kapag kinakailangan.",
   "HOME_HERO_HEADING": "Ibahagi ang iyong mga sandali",
   "HOME_HERO_HEADING_ACCENT": "mas mabilis kaysa noon",
-  "HOME_HERO_SUBTITLE": "Mag-upload ng screenshot at clip sa loob ng ilang segundo, at makakuha ng instant link na ibabahagi. Mabilis at simpleng pagbabahagi, ginawa para sa mga gamer at creator.",
+  "HOME_HERO_SUBTITLE": "Libreng image hosting at clip sharing para sa mga gamer at creator. Mag-upload ng screenshot o video at makakuha ng instant na link para i-share sa ilang segundo.",
   "HOME_HERO_BUTTON_UPLOAD": "Simulang mag-upload",
   "HOME_HERO_BUTTON_DISCORD": "Sumali sa aming Discord",
   "HOME_STEPS_HEADING": "Tatlong hakbang para mag-share",
@@ -874,14 +874,11 @@
   "SETTINGS_CONSOLE_TOAST_API_KEY_CREATED": "Matagumpay na gumawa ng API key!",
   "SETTINGS_CONSOLE_ERROR_API_KEY_CREATE": "May naganap na error habang gumagawa ng API key.",
   "SETTINGS_CONSOLE_ERROR_API_KEY_NONE_TO_REGENERATE": "Walang API key na maaaring i-regenerate.",
-  "ERROR_API_KEY_REGENERATE": "Hindi na-regenerate ang API key.",
   "SETTINGS_CONSOLE_TOAST_API_KEY_REGENERATED": "Na-regenerate ang iyong API key!",
   "SETTINGS_CONSOLE_ERROR_API_KEY_REGENERATE": "May naganap na error habang nire-regenerate ang iyong API key.",
   "SETTINGS_CONSOLE_ERROR_API_KEY_NONE_TO_DELETE": "Walang API key na maaaring tanggalin.",
-  "ERROR_API_KEY_DELETE": "Hindi natanggal ang API key.",
   "SETTINGS_CONSOLE_TOAST_API_KEY_DELETED": "Matagumpay na natanggal ang API key!",
   "SETTINGS_CONSOLE_ERROR_API_KEY_DELETE": "May naganap na error habang tinatanggal ang iyong API key.",
-  "ERROR_API_KEY_PERMISSIONS": "Hindi na-update ang API key permissions.",
   "SETTINGS_CONSOLE_TOAST_API_KEY_PERMISSIONS_UPDATED": "Matagumpay na na-update ang API key permissions!",
   "SETTINGS_CONSOLE_ERROR_API_KEY_PERMISSIONS_UPDATE": "May naganap na error habang ina-update ang API key permissions.",
   "SETTINGS_CONSOLE_ERROR_CONFIG_DOWNLOAD": "Hindi ma-download ang configuration file.",
@@ -1601,5 +1598,7 @@
   "MYSTATS_PAYOUT_LABEL": "Tinatayang bayad",
   "MYSTATS_PAYOUT_SHARE": "Ang iyong bahagi ngayong buwan",
   "MYSTATS_FETCH_ERROR": "Nabigo ang pag-load ng analytics",
-  "OBSERVATORY_FETCH_ERROR": "Nabigo ang pag-load ng analytics"
+  "OBSERVATORY_FETCH_ERROR": "Nabigo ang pag-load ng analytics",
+  "HOME_META_TITLE": "I-capture, i-upload, at i-share ang iyong mga pinakamagagandang sandali",
+  "HOME_META_DESCRIPTION": "Ang Snipp ay isang libreng tool sa pag-upload ng screenshot at video. I-capture, i-upload, at agad na i-share ang iyong mga gaming clip at screenshot."
 }

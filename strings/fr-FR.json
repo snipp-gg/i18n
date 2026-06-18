@@ -631,7 +631,7 @@
   "HOME_FAQ_PRIVACY_ANSWER": "Les envois depuis le site web sont non répertoriés par défaut (accessibles par lien uniquement). Vous pouvez rendre votre post public à tout moment pour qu'il apparaisse sur la page Découvrir, la visibilité privée étant également disponible si besoin.",
   "HOME_HERO_HEADING": "Partagez vos moments",
   "HOME_HERO_HEADING_ACCENT": "plus vite que jamais",
-  "HOME_HERO_SUBTITLE": "Envoyez des captures d'écran et des clips en quelques secondes, et obtenez un lien instantané à partager. Un partage rapide et simple, conçu pour les joueurs et les créateurs.",
+  "HOME_HERO_SUBTITLE": "Hébergement d'images gratuit et partage de clips, pensé pour les gamers et les créateurs. Importez une capture d'écran ou une vidéo et obtenez un lien instantané à partager en quelques secondes.",
   "HOME_HERO_BUTTON_UPLOAD": "Commencer à envoyer",
   "HOME_HERO_BUTTON_DISCORD": "Rejoindre notre Discord",
   "HOME_STEPS_HEADING": "Trois étapes pour partager",
@@ -874,14 +874,11 @@
   "SETTINGS_CONSOLE_TOAST_API_KEY_CREATED": "Clé API créée avec succès !",
   "SETTINGS_CONSOLE_ERROR_API_KEY_CREATE": "Une erreur s'est produite lors de la génération d'une clé API.",
   "SETTINGS_CONSOLE_ERROR_API_KEY_NONE_TO_REGENERATE": "Aucune clé API disponible à régénérer.",
-  "ERROR_API_KEY_REGENERATE": "Échec de la régénération de la clé API.",
   "SETTINGS_CONSOLE_TOAST_API_KEY_REGENERATED": "Votre clé API a été régénérée !",
   "SETTINGS_CONSOLE_ERROR_API_KEY_REGENERATE": "Une erreur s'est produite lors de la régénération de votre clé API.",
   "SETTINGS_CONSOLE_ERROR_API_KEY_NONE_TO_DELETE": "Aucune clé API disponible à supprimer.",
-  "ERROR_API_KEY_DELETE": "Échec de la suppression de la clé API.",
   "SETTINGS_CONSOLE_TOAST_API_KEY_DELETED": "Clé API supprimée avec succès !",
   "SETTINGS_CONSOLE_ERROR_API_KEY_DELETE": "Une erreur s'est produite lors de la suppression de votre clé API.",
-  "ERROR_API_KEY_PERMISSIONS": "Échec de la mise à jour des autorisations de la clé API.",
   "SETTINGS_CONSOLE_TOAST_API_KEY_PERMISSIONS_UPDATED": "Autorisations de la clé API mises à jour avec succès !",
   "SETTINGS_CONSOLE_ERROR_API_KEY_PERMISSIONS_UPDATE": "Une erreur s'est produite lors de la mise à jour des autorisations de la clé API.",
   "SETTINGS_CONSOLE_ERROR_CONFIG_DOWNLOAD": "Impossible de télécharger le fichier de configuration.",
@@ -1601,5 +1598,7 @@
   "MYSTATS_PAYOUT_LABEL": "Paiement estimé",
   "MYSTATS_PAYOUT_SHARE": "Votre part ce mois-ci",
   "MYSTATS_FETCH_ERROR": "Échec du chargement des statistiques",
-  "OBSERVATORY_FETCH_ERROR": "Échec du chargement des statistiques"
+  "OBSERVATORY_FETCH_ERROR": "Échec du chargement des statistiques",
+  "HOME_META_TITLE": "Capturez, partagez et revivez vos meilleurs moments",
+  "HOME_META_DESCRIPTION": "Snipp est un outil gratuit de capture d'écran et de partage de vidéos. Capturez et partagez vos clips de jeu et screenshots en un instant."
 }

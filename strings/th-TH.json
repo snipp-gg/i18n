@@ -631,7 +631,7 @@
   "HOME_FAQ_PRIVACY_ANSWER": "การอัปโหลดจากเว็บไซต์ตั้งค่าเป็นไม่อยู่ในรายการตามค่าเริ่มต้น (ลิงก์เท่านั้น) คุณสามารถทำให้โพสต์ของคุณเป็นสาธารณะได้ทุกเมื่อ เพื่อให้โพสต์ของคุณปรากฏในหน้า Discover พร้อมการมองเห็นแบบส่วนตัวเมื่อจำเป็น",
   "HOME_HERO_HEADING": "แชร์ช่วงเวลาของคุณ",
   "HOME_HERO_HEADING_ACCENT": "เร็วกว่าที่เคย",
-  "HOME_HERO_SUBTITLE": "อัปโหลดสกรีนช็อตและคลิปได้ในไม่กี่วินาที และรับลิงก์ทันทีเพื่อแชร์ การแชร์ที่รวดเร็วและเรียบง่าย สร้างขึ้นเพื่อเกมเมอร์และครีเอเตอร์",
+  "HOME_HERO_SUBTITLE": "บริการฝากรูปภาพฟรีและแชร์คลิป สร้างมาเพื่อเกมเมอร์และครีเอเตอร์ อัปโหลดสกรีนช็อตหรือวิดีโอ แล้วรับลิงก์ทันทีเพื่อแชร์ในไม่กี่วินาที",
   "HOME_HERO_BUTTON_UPLOAD": "เริ่มอัปโหลด",
   "HOME_HERO_BUTTON_DISCORD": "เข้าร่วม Discord ของเรา",
   "HOME_STEPS_HEADING": "สามขั้นตอนสู่การแชร์",
@@ -874,14 +874,11 @@
   "SETTINGS_CONSOLE_TOAST_API_KEY_CREATED": "สร้าง API key สำเร็จ!",
   "SETTINGS_CONSOLE_ERROR_API_KEY_CREATE": "เกิดข้อผิดพลาดขณะสร้าง API key",
   "SETTINGS_CONSOLE_ERROR_API_KEY_NONE_TO_REGENERATE": "ไม่มี API key ให้สร้างใหม่",
-  "ERROR_API_KEY_REGENERATE": "ไม่สามารถสร้าง API key ใหม่ได้",
   "SETTINGS_CONSOLE_TOAST_API_KEY_REGENERATED": "สร้าง API key ใหม่แล้ว!",
   "SETTINGS_CONSOLE_ERROR_API_KEY_REGENERATE": "เกิดข้อผิดพลาดขณะสร้าง API key ใหม่",
   "SETTINGS_CONSOLE_ERROR_API_KEY_NONE_TO_DELETE": "ไม่มี API key ให้ลบ",
-  "ERROR_API_KEY_DELETE": "ไม่สามารถลบ API key ได้",
   "SETTINGS_CONSOLE_TOAST_API_KEY_DELETED": "ลบ API key สำเร็จ!",
   "SETTINGS_CONSOLE_ERROR_API_KEY_DELETE": "เกิดข้อผิดพลาดขณะลบ API key",
-  "ERROR_API_KEY_PERMISSIONS": "ไม่สามารถอัปเดตสิทธิ์ API key ได้",
   "SETTINGS_CONSOLE_TOAST_API_KEY_PERMISSIONS_UPDATED": "อัปเดตสิทธิ์ API key สำเร็จ!",
   "SETTINGS_CONSOLE_ERROR_API_KEY_PERMISSIONS_UPDATE": "เกิดข้อผิดพลาดขณะอัปเดตสิทธิ์ API key",
   "SETTINGS_CONSOLE_ERROR_CONFIG_DOWNLOAD": "ไม่สามารถดาวน์โหลดไฟล์ configuration ได้",
@@ -1601,5 +1598,7 @@
   "MYSTATS_PAYOUT_LABEL": "ยอดจ่ายโดยประมาณ",
   "MYSTATS_PAYOUT_SHARE": "ส่วนแบ่งของคุณเดือนนี้",
   "MYSTATS_FETCH_ERROR": "โหลดการวิเคราะห์ไม่สำเร็จ",
-  "OBSERVATORY_FETCH_ERROR": "โหลดการวิเคราะห์ไม่สำเร็จ"
+  "OBSERVATORY_FETCH_ERROR": "โหลดการวิเคราะห์ไม่สำเร็จ",
+  "HOME_META_TITLE": "บันทึก อัปโหลด และแชร์ช่วงเวลาดีๆ ของคุณ",
+  "HOME_META_DESCRIPTION": "Snipp คือเครื่องมืออัปโหลดภาพหน้าจอและวิดีโอฟรี บันทึก อัปโหลด และแชร์คลิปเกมและภาพหน้าจอของคุณได้ทันที"
 }

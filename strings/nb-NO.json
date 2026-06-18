@@ -631,7 +631,7 @@
   "HOME_FAQ_PRIVACY_ANSWER": "Opplastinger fra nettstedet er uoppførte som standard (kun via lenke). Du kan gjøre innlegget ditt offentlig når som helst slik at det vises på Utforsk-siden, med privat synlighet også tilgjengelig ved behov.",
   "HOME_HERO_HEADING": "Del øyeblikkene dine",
   "HOME_HERO_HEADING_ACCENT": "raskere enn noensinne",
-  "HOME_HERO_SUBTITLE": "Last opp skjermbilder og klipp på sekunder, og få en umiddelbar lenke å dele. Bare rask og enkel deling, bygget for spillere og skapere.",
+  "HOME_HERO_SUBTITLE": "Gratis bildehosting og deling av klipp, laget for gamere og skapere. Last opp et skjermbilde eller en video og få en direktelenke du kan dele på sekunder.",
   "HOME_HERO_BUTTON_UPLOAD": "Begynn å laste opp",
   "HOME_HERO_BUTTON_DISCORD": "Bli med i Discord-en vår",
   "HOME_STEPS_HEADING": "Tre steg til deling",
@@ -874,14 +874,11 @@
   "SETTINGS_CONSOLE_TOAST_API_KEY_CREATED": "API-nøkkel opprettet!",
   "SETTINGS_CONSOLE_ERROR_API_KEY_CREATE": "Det oppstod en feil under generering av en API-nøkkel.",
   "SETTINGS_CONSOLE_ERROR_API_KEY_NONE_TO_REGENERATE": "Ingen API-nøkkel tilgjengelig for regenerering.",
-  "ERROR_API_KEY_REGENERATE": "Kunne ikke regenerere API-nøkkel.",
   "SETTINGS_CONSOLE_TOAST_API_KEY_REGENERATED": "API-nøkkelen din er regenerert!",
   "SETTINGS_CONSOLE_ERROR_API_KEY_REGENERATE": "Det oppstod en feil under regenerering av API-nøkkelen din.",
   "SETTINGS_CONSOLE_ERROR_API_KEY_NONE_TO_DELETE": "Ingen API-nøkkel tilgjengelig for sletting.",
-  "ERROR_API_KEY_DELETE": "Kunne ikke slette API-nøkkel.",
   "SETTINGS_CONSOLE_TOAST_API_KEY_DELETED": "API-nøkkel slettet!",
   "SETTINGS_CONSOLE_ERROR_API_KEY_DELETE": "Det oppstod en feil under sletting av API-nøkkelen din.",
-  "ERROR_API_KEY_PERMISSIONS": "Kunne ikke oppdatere API-nøkkeltillatelser.",
   "SETTINGS_CONSOLE_TOAST_API_KEY_PERMISSIONS_UPDATED": "API-nøkkeltillatelser oppdatert!",
   "SETTINGS_CONSOLE_ERROR_API_KEY_PERMISSIONS_UPDATE": "Det oppstod en feil under oppdatering av API-nøkkeltillatelser.",
   "SETTINGS_CONSOLE_ERROR_CONFIG_DOWNLOAD": "Kunne ikke laste ned konfigurasjonsfil.",
@@ -1601,5 +1598,7 @@
   "MYSTATS_PAYOUT_LABEL": "Estimert utbetaling",
   "MYSTATS_PAYOUT_SHARE": "Din andel denne måneden",
   "MYSTATS_FETCH_ERROR": "Kunne ikke laste inn analyse",
-  "OBSERVATORY_FETCH_ERROR": "Kunne ikke laste inn analyse"
+  "OBSERVATORY_FETCH_ERROR": "Kunne ikke laste inn analyse",
+  "HOME_META_TITLE": "Fang, last opp og del de beste øyeblikkene dine",
+  "HOME_META_DESCRIPTION": "Snipp er et gratis verktøy for opplasting av skjermbilder og video. Fang, last opp og del gaming-klippene og skjermbildene dine umiddelbart."
 }

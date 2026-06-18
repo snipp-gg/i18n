@@ -631,7 +631,7 @@
   "HOME_FAQ_PRIVACY_ANSWER": "Uploads from the website are unlisted by default (link-only). You can make your post public at any time for your post to be seen on the Discover page, with private visibility also available when needed.",
   "HOME_HERO_HEADING": "Share your moments",
   "HOME_HERO_HEADING_ACCENT": "faster than ever",
-  "HOME_HERO_SUBTITLE": "Upload screenshots and clips in seconds, and get an instant link to share. Just fast and simple sharing, built for gamers and creators.",
+  "HOME_HERO_SUBTITLE": "Free image hosting and clip sharing built for gamers and creators. Upload a screenshot or video and get an instant link to share in seconds.",
   "HOME_HERO_BUTTON_UPLOAD": "Start uploading",
   "HOME_HERO_BUTTON_DISCORD": "Join our Discord",
   "HOME_STEPS_HEADING": "Three steps to share",
@@ -874,14 +874,11 @@
   "SETTINGS_CONSOLE_TOAST_API_KEY_CREATED": "Successfully created an API key!",
   "SETTINGS_CONSOLE_ERROR_API_KEY_CREATE": "An error occurred while generating an API key.",
   "SETTINGS_CONSOLE_ERROR_API_KEY_NONE_TO_REGENERATE": "No API key available to regenerate.",
-  "ERROR_API_KEY_REGENERATE": "Failed to regenerate API key.",
   "SETTINGS_CONSOLE_TOAST_API_KEY_REGENERATED": "Your API key has been regenerated!",
   "SETTINGS_CONSOLE_ERROR_API_KEY_REGENERATE": "An error occurred while regenerating your API key.",
   "SETTINGS_CONSOLE_ERROR_API_KEY_NONE_TO_DELETE": "No API key available to delete.",
-  "ERROR_API_KEY_DELETE": "Failed to delete API key.",
   "SETTINGS_CONSOLE_TOAST_API_KEY_DELETED": "API key successfully deleted!",
   "SETTINGS_CONSOLE_ERROR_API_KEY_DELETE": "An error occurred while deleting your API key.",
-  "ERROR_API_KEY_PERMISSIONS": "Failed to update API key permissions.",
   "SETTINGS_CONSOLE_TOAST_API_KEY_PERMISSIONS_UPDATED": "Successfully updated API key permissions!",
   "SETTINGS_CONSOLE_ERROR_API_KEY_PERMISSIONS_UPDATE": "An error occurred while updating API key permissions.",
   "SETTINGS_CONSOLE_ERROR_CONFIG_DOWNLOAD": "Unable to download configuration file.",
@@ -1601,5 +1598,7 @@
   "MYSTATS_PAYOUT_LABEL": "Estimated payout",
   "MYSTATS_PAYOUT_SHARE": "Your share this month",
   "MYSTATS_FETCH_ERROR": "Failed to load analytics",
-  "OBSERVATORY_FETCH_ERROR": "Failed to load analytics"
+  "OBSERVATORY_FETCH_ERROR": "Failed to load analytics",
+  "HOME_META_TITLE": "Capture, upload, and share your best moments",
+  "HOME_META_DESCRIPTION": "Snipp is a free screenshot and video upload tool. Capture, upload, and share your gaming clips and screenshots instantly."
 }

@@ -631,7 +631,7 @@
   "HOME_FAQ_PRIVACY_ANSWER": "Качванията от уебсайта са скрити по подразбиране (само с връзка). Можете да направите публикацията си публична по всяко време, за да се вижда в страницата Откриване, като лична видимост също е налична при нужда.",
   "HOME_HERO_HEADING": "Споделяйте моментите си",
   "HOME_HERO_HEADING_ACCENT": "по-бързо от всякога",
-  "HOME_HERO_SUBTITLE": "Качвайте екранни снимки и клипове за секунди и получете незабавна връзка за споделяне. Просто бързо и лесно споделяне, създадено за геймъри и творци.",
+  "HOME_HERO_SUBTITLE": "Безплатен хостинг на снимки и споделяне на клипове, създаден за геймъри и създатели. Качи скрийншот или видео и получи моментален линк за споделяне за секунди.",
   "HOME_HERO_BUTTON_UPLOAD": "Започнете да качвате",
   "HOME_HERO_BUTTON_DISCORD": "Присъединете се към нашия Discord",
   "HOME_STEPS_HEADING": "Три стъпки до споделяне",
@@ -874,14 +874,11 @@
   "SETTINGS_CONSOLE_TOAST_API_KEY_CREATED": "API ключът е създаден успешно!",
   "SETTINGS_CONSOLE_ERROR_API_KEY_CREATE": "Възникна грешка при генерирането на API ключ.",
   "SETTINGS_CONSOLE_ERROR_API_KEY_NONE_TO_REGENERATE": "Няма наличен API ключ за повторно генериране.",
-  "ERROR_API_KEY_REGENERATE": "Неуспешно повторно генериране на API ключ.",
   "SETTINGS_CONSOLE_TOAST_API_KEY_REGENERATED": "API ключът ви е генериран повторно!",
   "SETTINGS_CONSOLE_ERROR_API_KEY_REGENERATE": "Възникна грешка при повторното генериране на API ключа ви.",
   "SETTINGS_CONSOLE_ERROR_API_KEY_NONE_TO_DELETE": "Няма наличен API ключ за изтриване.",
-  "ERROR_API_KEY_DELETE": "Неуспешно изтриване на API ключ.",
   "SETTINGS_CONSOLE_TOAST_API_KEY_DELETED": "API ключът е изтрит успешно!",
   "SETTINGS_CONSOLE_ERROR_API_KEY_DELETE": "Възникна грешка при изтриването на API ключа ви.",
-  "ERROR_API_KEY_PERMISSIONS": "Неуспешно обновяване на разрешенията за API ключа.",
   "SETTINGS_CONSOLE_TOAST_API_KEY_PERMISSIONS_UPDATED": "Разрешенията за API ключа са обновени успешно!",
   "SETTINGS_CONSOLE_ERROR_API_KEY_PERMISSIONS_UPDATE": "Възникна грешка при обновяването на разрешенията за API ключа.",
   "SETTINGS_CONSOLE_ERROR_CONFIG_DOWNLOAD": "Не може да се изтегли конфигурационният файл.",
@@ -1601,5 +1598,7 @@
   "MYSTATS_PAYOUT_LABEL": "Прогнозно изплащане",
   "MYSTATS_PAYOUT_SHARE": "Вашият дял този месец",
   "MYSTATS_FETCH_ERROR": "Неуспешно зареждане на анализите",
-  "OBSERVATORY_FETCH_ERROR": "Неуспешно зареждане на анализите"
+  "OBSERVATORY_FETCH_ERROR": "Неуспешно зареждане на анализите",
+  "HOME_META_TITLE": "Заснемай, качвай и споделяй най-добрите си моменти",
+  "HOME_META_DESCRIPTION": "Snipp е безплатен инструмент за качване на скрийншоти и видеа. Заснемай, качвай и споделяй гейминг клиповете и скрийншотите си мигновено."
 }

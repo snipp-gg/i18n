@@ -631,7 +631,7 @@
   "HOME_FAQ_PRIVACY_ANSWER": "Przesłania ze strony są domyślnie niepubliczne (tylko z linkiem). W każdej chwili możesz upublicznić swój post, aby pojawił się na stronie Odkrywaj, a w razie potrzeby dostępna jest też widoczność prywatna.",
   "HOME_HERO_HEADING": "Dziel się swoimi chwilami",
   "HOME_HERO_HEADING_ACCENT": "szybciej niż kiedykolwiek",
-  "HOME_HERO_SUBTITLE": "Przesyłaj zrzuty ekranu i klipy w kilka sekund i od razu otrzymuj link do udostępnienia. Po prostu szybkie i proste udostępnianie, stworzone dla graczy i twórców.",
+  "HOME_HERO_SUBTITLE": "Darmowy hosting zdjęć i udostępnianie klipów stworzony z myślą o graczach i twórcach. Prześlij zrzut ekranu lub film i otrzymaj natychmiastowy link do udostępnienia w kilka sekund.",
   "HOME_HERO_BUTTON_UPLOAD": "Zacznij przesyłać",
   "HOME_HERO_BUTTON_DISCORD": "Dołącz do naszego Discorda",
   "HOME_STEPS_HEADING": "Trzy kroki do udostępnienia",
@@ -874,14 +874,11 @@
   "SETTINGS_CONSOLE_TOAST_API_KEY_CREATED": "Pomyślnie utworzono klucz API!",
   "SETTINGS_CONSOLE_ERROR_API_KEY_CREATE": "Wystąpił błąd podczas generowania klucza API.",
   "SETTINGS_CONSOLE_ERROR_API_KEY_NONE_TO_REGENERATE": "Brak klucza API do ponownego wygenerowania.",
-  "ERROR_API_KEY_REGENERATE": "Nie udało się ponownie wygenerować klucza API.",
   "SETTINGS_CONSOLE_TOAST_API_KEY_REGENERATED": "Twój klucz API został ponownie wygenerowany!",
   "SETTINGS_CONSOLE_ERROR_API_KEY_REGENERATE": "Wystąpił błąd podczas ponownego generowania klucza API.",
   "SETTINGS_CONSOLE_ERROR_API_KEY_NONE_TO_DELETE": "Brak klucza API do usunięcia.",
-  "ERROR_API_KEY_DELETE": "Nie udało się usunąć klucza API.",
   "SETTINGS_CONSOLE_TOAST_API_KEY_DELETED": "Klucz API został pomyślnie usunięty!",
   "SETTINGS_CONSOLE_ERROR_API_KEY_DELETE": "Wystąpił błąd podczas usuwania klucza API.",
-  "ERROR_API_KEY_PERMISSIONS": "Nie udało się zaktualizować uprawnień klucza API.",
   "SETTINGS_CONSOLE_TOAST_API_KEY_PERMISSIONS_UPDATED": "Pomyślnie zaktualizowano uprawnienia klucza API!",
   "SETTINGS_CONSOLE_ERROR_API_KEY_PERMISSIONS_UPDATE": "Wystąpił błąd podczas aktualizowania uprawnień klucza API.",
   "SETTINGS_CONSOLE_ERROR_CONFIG_DOWNLOAD": "Nie można pobrać pliku konfiguracyjnego.",
@@ -1601,5 +1598,7 @@
   "MYSTATS_PAYOUT_LABEL": "Szacowana wypłata",
   "MYSTATS_PAYOUT_SHARE": "Twój udział w tym miesiącu",
   "MYSTATS_FETCH_ERROR": "Nie udało się załadować analityki",
-  "OBSERVATORY_FETCH_ERROR": "Nie udało się załadować analityki"
+  "OBSERVATORY_FETCH_ERROR": "Nie udało się załadować analityki",
+  "HOME_META_TITLE": "Przechwytuj, udostępniaj i dziel się najlepszymi momentami",
+  "HOME_META_DESCRIPTION": "Snipp to darmowe narzędzie do przesyłania zrzutów ekranu i filmów. Przechwytuj i błyskawicznie udostępniaj swoje klipy z gier i zrzuty ekranu."
 }

@@ -631,7 +631,7 @@
   "HOME_FAQ_PRIVACY_ANSWER": "Τα αρχεία που ανεβαίνουν από τον ιστότοπο είναι μη καταχωρημένα από προεπιλογή (μόνο με σύνδεσμο). Μπορείτε να κάνετε την ανάρτησή σας δημόσια ανά πάσα στιγμή για να εμφανίζεται στη σελίδα Εξερεύνησης, με ιδιωτική ορατότητα επίσης διαθέσιμη όποτε χρειάζεται.",
   "HOME_HERO_HEADING": "Μοιραστείτε τις στιγμές σας",
   "HOME_HERO_HEADING_ACCENT": "γρηγορότερα από ποτέ",
-  "HOME_HERO_SUBTITLE": "Ανεβάστε στιγμιότυπα και clips σε δευτερόλεπτα και αποκτήστε άμεσα έναν σύνδεσμο για κοινοποίηση. Απλώς γρήγορη και απλή κοινοποίηση, φτιαγμένη για gamers και δημιουργούς.",
+  "HOME_HERO_SUBTITLE": "Δωρεάν φιλοξενία εικόνων και κοινή χρήση clip, φτιαγμένη για gamers και δημιουργούς. Ανέβασε ένα screenshot ή βίντεο και πάρε άμεσο σύνδεσμο για κοινοποίηση μέσα σε δευτερόλεπτα.",
   "HOME_HERO_BUTTON_UPLOAD": "Αρχίστε να ανεβάζετε",
   "HOME_HERO_BUTTON_DISCORD": "Εγγραφείτε στο Discord μας",
   "HOME_STEPS_HEADING": "Τρία βήματα, μηδέν ταλαιπωρία",
@@ -874,14 +874,11 @@
   "SETTINGS_CONSOLE_TOAST_API_KEY_CREATED": "Το κλειδί API δημιουργήθηκε επιτυχώς!",
   "SETTINGS_CONSOLE_ERROR_API_KEY_CREATE": "Παρουσιάστηκε σφάλμα κατά τη δημιουργία κλειδιού API.",
   "SETTINGS_CONSOLE_ERROR_API_KEY_NONE_TO_REGENERATE": "Δεν υπάρχει διαθέσιμο κλειδί API για αναδημιουργία.",
-  "ERROR_API_KEY_REGENERATE": "Αποτυχία αναδημιουργίας κλειδιού API.",
   "SETTINGS_CONSOLE_TOAST_API_KEY_REGENERATED": "Το κλειδί API αναδημιουργήθηκε!",
   "SETTINGS_CONSOLE_ERROR_API_KEY_REGENERATE": "Παρουσιάστηκε σφάλμα κατά την αναδημιουργία του κλειδιού API.",
   "SETTINGS_CONSOLE_ERROR_API_KEY_NONE_TO_DELETE": "Δεν υπάρχει διαθέσιμο κλειδί API για διαγραφή.",
-  "ERROR_API_KEY_DELETE": "Αποτυχία διαγραφής κλειδιού API.",
   "SETTINGS_CONSOLE_TOAST_API_KEY_DELETED": "Το κλειδί API διαγράφηκε επιτυχώς!",
   "SETTINGS_CONSOLE_ERROR_API_KEY_DELETE": "Παρουσιάστηκε σφάλμα κατά τη διαγραφή του κλειδιού API.",
-  "ERROR_API_KEY_PERMISSIONS": "Αποτυχία ενημέρωσης δικαιωμάτων κλειδιού API.",
   "SETTINGS_CONSOLE_TOAST_API_KEY_PERMISSIONS_UPDATED": "Τα δικαιώματα κλειδιού API ενημερώθηκαν επιτυχώς!",
   "SETTINGS_CONSOLE_ERROR_API_KEY_PERMISSIONS_UPDATE": "Παρουσιάστηκε σφάλμα κατά την ενημέρωση δικαιωμάτων κλειδιού API.",
   "SETTINGS_CONSOLE_ERROR_CONFIG_DOWNLOAD": "Αδύνατη η λήψη αρχείου ρύθμισης.",
@@ -1601,5 +1598,7 @@
   "MYSTATS_PAYOUT_LABEL": "Εκτιμώμενη πληρωμή",
   "MYSTATS_PAYOUT_SHARE": "Το μερίδιό σου αυτόν τον μήνα",
   "MYSTATS_FETCH_ERROR": "Αποτυχία φόρτωσης στατιστικών",
-  "OBSERVATORY_FETCH_ERROR": "Αποτυχία φόρτωσης στατιστικών"
+  "OBSERVATORY_FETCH_ERROR": "Αποτυχία φόρτωσης στατιστικών",
+  "HOME_META_TITLE": "Καταγράψτε, ανεβάστε και μοιραστείτε τις καλύτερές σας στιγμές",
+  "HOME_META_DESCRIPTION": "Το Snipp είναι ένα δωρεάν εργαλείο για στιγμιότυπα και βίντεο. Καταγράψτε, ανεβάστε και μοιραστείτε τα κλιπ και τα screenshots σας στο λεπτό."
 }

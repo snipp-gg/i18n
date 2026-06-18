@@ -631,7 +631,7 @@
   "HOME_FAQ_PRIVACY_ANSWER": "Unggahan dari situs web tidak terdaftar secara default (hanya tautan). Anda dapat membuat postingan Anda publik kapan saja agar terlihat di halaman Discover, dengan visibilitas pribadi juga tersedia bila diperlukan.",
   "HOME_HERO_HEADING": "Bagikan momen Anda",
   "HOME_HERO_HEADING_ACCENT": "lebih cepat dari sebelumnya",
-  "HOME_HERO_SUBTITLE": "Unggah tangkapan layar dan klip dalam hitungan detik, dan dapatkan tautan instan untuk dibagikan. Berbagi yang cepat dan sederhana, dibuat untuk gamer dan kreator.",
+  "HOME_HERO_SUBTITLE": "Hosting gambar gratis dan berbagi klip yang dibuat untuk gamer dan kreator. Unggah screenshot atau video dan dapatkan tautan instan untuk dibagikan dalam hitungan detik.",
   "HOME_HERO_BUTTON_UPLOAD": "Mulai mengunggah",
   "HOME_HERO_BUTTON_DISCORD": "Gabung Discord kami",
   "HOME_STEPS_HEADING": "Tiga langkah untuk berbagi",
@@ -874,14 +874,11 @@
   "SETTINGS_CONSOLE_TOAST_API_KEY_CREATED": "Berhasil membuat kunci API!",
   "SETTINGS_CONSOLE_ERROR_API_KEY_CREATE": "Terjadi kesalahan saat membuat kunci API.",
   "SETTINGS_CONSOLE_ERROR_API_KEY_NONE_TO_REGENERATE": "Tidak ada kunci API yang tersedia untuk dibuat ulang.",
-  "ERROR_API_KEY_REGENERATE": "Gagal membuat ulang kunci API.",
   "SETTINGS_CONSOLE_TOAST_API_KEY_REGENERATED": "Kunci API Anda telah dibuat ulang!",
   "SETTINGS_CONSOLE_ERROR_API_KEY_REGENERATE": "Terjadi kesalahan saat membuat ulang kunci API Anda.",
   "SETTINGS_CONSOLE_ERROR_API_KEY_NONE_TO_DELETE": "Tidak ada kunci API yang tersedia untuk dihapus.",
-  "ERROR_API_KEY_DELETE": "Gagal menghapus kunci API.",
   "SETTINGS_CONSOLE_TOAST_API_KEY_DELETED": "Kunci API berhasil dihapus!",
   "SETTINGS_CONSOLE_ERROR_API_KEY_DELETE": "Terjadi kesalahan saat menghapus kunci API Anda.",
-  "ERROR_API_KEY_PERMISSIONS": "Gagal memperbarui izin kunci API.",
   "SETTINGS_CONSOLE_TOAST_API_KEY_PERMISSIONS_UPDATED": "Berhasil memperbarui izin kunci API!",
   "SETTINGS_CONSOLE_ERROR_API_KEY_PERMISSIONS_UPDATE": "Terjadi kesalahan saat memperbarui izin kunci API.",
   "SETTINGS_CONSOLE_ERROR_CONFIG_DOWNLOAD": "Tidak dapat mengunduh file konfigurasi.",
@@ -1601,5 +1598,7 @@
   "MYSTATS_PAYOUT_LABEL": "Estimasi pembayaran",
   "MYSTATS_PAYOUT_SHARE": "Bagian Anda bulan ini",
   "MYSTATS_FETCH_ERROR": "Gagal memuat analitik",
-  "OBSERVATORY_FETCH_ERROR": "Gagal memuat analitik"
+  "OBSERVATORY_FETCH_ERROR": "Gagal memuat analitik",
+  "HOME_META_TITLE": "Abadikan, unggah, dan bagikan momen terbaikmu",
+  "HOME_META_DESCRIPTION": "Snipp adalah alat unggah tangkapan layar dan video gratis. Abadikan, unggah, dan bagikan klip game serta tangkapan layarmu secara instan."
 }

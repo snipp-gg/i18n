@@ -631,7 +631,7 @@
   "HOME_FAQ_PRIVACY_ANSWER": "Загрузки с сайта по умолчанию доступны по ссылке. Вы можете в любой момент сделать свой пост публичным, чтобы он отображался на странице «Обзор», а при необходимости также доступна приватная видимость.",
   "HOME_HERO_HEADING": "Делитесь своими моментами",
   "HOME_HERO_HEADING_ACCENT": "быстрее, чем когда-либо",
-  "HOME_HERO_SUBTITLE": "Загружайте скриншоты и клипы за секунды и получайте мгновенную ссылку для обмена. Просто быстрый и простой обмен, созданный для геймеров и авторов.",
+  "HOME_HERO_SUBTITLE": "Бесплатный хостинг картинок и обмен клипами для геймеров и авторов. Загрузите скриншот или видео и мгновенно получите ссылку, чтобы поделиться за пару секунд.",
   "HOME_HERO_BUTTON_UPLOAD": "Начать загрузку",
   "HOME_HERO_BUTTON_DISCORD": "Присоединиться к нашему Discord",
   "HOME_STEPS_HEADING": "Три шага до публикации",
@@ -874,14 +874,11 @@
   "SETTINGS_CONSOLE_TOAST_API_KEY_CREATED": "API-ключ успешно создан!",
   "SETTINGS_CONSOLE_ERROR_API_KEY_CREATE": "Произошла ошибка при генерации API-ключа.",
   "SETTINGS_CONSOLE_ERROR_API_KEY_NONE_TO_REGENERATE": "Нет API-ключа для повторной генерации.",
-  "ERROR_API_KEY_REGENERATE": "Не удалось повторно сгенерировать API-ключ.",
   "SETTINGS_CONSOLE_TOAST_API_KEY_REGENERATED": "Ваш API-ключ был повторно сгенерирован!",
   "SETTINGS_CONSOLE_ERROR_API_KEY_REGENERATE": "Произошла ошибка при повторной генерации вашего API-ключа.",
   "SETTINGS_CONSOLE_ERROR_API_KEY_NONE_TO_DELETE": "Нет API-ключа для удаления.",
-  "ERROR_API_KEY_DELETE": "Не удалось удалить API-ключ.",
   "SETTINGS_CONSOLE_TOAST_API_KEY_DELETED": "API-ключ успешно удалён!",
   "SETTINGS_CONSOLE_ERROR_API_KEY_DELETE": "Произошла ошибка при удалении вашего API-ключа.",
-  "ERROR_API_KEY_PERMISSIONS": "Не удалось обновить разрешения API-ключа.",
   "SETTINGS_CONSOLE_TOAST_API_KEY_PERMISSIONS_UPDATED": "Разрешения API-ключа успешно обновлены!",
   "SETTINGS_CONSOLE_ERROR_API_KEY_PERMISSIONS_UPDATE": "Произошла ошибка при обновлении разрешений API-ключа.",
   "SETTINGS_CONSOLE_ERROR_CONFIG_DOWNLOAD": "Не удалось скачать файл конфигурации.",
@@ -1601,5 +1598,7 @@
   "MYSTATS_PAYOUT_LABEL": "Ожидаемая выплата",
   "MYSTATS_PAYOUT_SHARE": "Ваша доля в этом месяце",
   "MYSTATS_FETCH_ERROR": "Не удалось загрузить аналитику",
-  "OBSERVATORY_FETCH_ERROR": "Не удалось загрузить аналитику"
+  "OBSERVATORY_FETCH_ERROR": "Не удалось загрузить аналитику",
+  "HOME_META_TITLE": "Снимай, загружай и делись лучшими моментами",
+  "HOME_META_DESCRIPTION": "Snipp — бесплатный сервис для загрузки скриншотов и видео. Снимай, загружай и мгновенно делись игровыми клипами и скриншотами."
 }

@@ -631,7 +631,7 @@
   "HOME_FAQ_PRIVACY_ANSWER": "网站上传的内容默认不公开（仅显示链接）。您可以随时将帖子设为公开，使其出现在“发现”页面上；如有需要，也可设置为私密可见。",
   "HOME_HERO_HEADING": "分享你的精彩瞬间",
   "HOME_HERO_HEADING_ACCENT": "比以往任何时候都快",
-  "HOME_HERO_SUBTITLE": "秒钟即可上传屏幕截图和视频片段，并立即获得分享链接。快速简便的分享体验，专为游戏玩家和内容创作者打造。",
+  "HOME_HERO_SUBTITLE": "专为玩家和创作者打造的免费图床与片段分享平台。上传截图或视频，几秒钟即可生成链接，随时分享。",
   "HOME_HERO_BUTTON_UPLOAD": "开始上传",
   "HOME_HERO_BUTTON_DISCORD": "加入我们的 Discord",
   "HOME_STEPS_HEADING": "三个步骤，零麻烦",
@@ -874,14 +874,11 @@
   "SETTINGS_CONSOLE_TOAST_API_KEY_CREATED": "API 密钥创建成功！",
   "SETTINGS_CONSOLE_ERROR_API_KEY_CREATE": "生成 API 密钥时发生错误。",
   "SETTINGS_CONSOLE_ERROR_API_KEY_NONE_TO_REGENERATE": "没有可用的 API 密钥进行重新生成。",
-  "ERROR_API_KEY_REGENERATE": "重新生成 API 密钥失败。",
   "SETTINGS_CONSOLE_TOAST_API_KEY_REGENERATED": "您的 API 密钥已重新生成！",
   "SETTINGS_CONSOLE_ERROR_API_KEY_REGENERATE": "重新生成 API 密钥时发生错误。",
   "SETTINGS_CONSOLE_ERROR_API_KEY_NONE_TO_DELETE": "没有可用的 API 密钥进行删除。",
-  "ERROR_API_KEY_DELETE": "删除 API 密钥失败。",
   "SETTINGS_CONSOLE_TOAST_API_KEY_DELETED": "API 密钥已成功删除！",
   "SETTINGS_CONSOLE_ERROR_API_KEY_DELETE": "删除 API 密钥时发生错误。",
-  "ERROR_API_KEY_PERMISSIONS": "更新 API 密钥权限失败。",
   "SETTINGS_CONSOLE_TOAST_API_KEY_PERMISSIONS_UPDATED": "API 密钥权限已成功更新！",
   "SETTINGS_CONSOLE_ERROR_API_KEY_PERMISSIONS_UPDATE": "更新 API 密钥权限时发生错误。",
   "SETTINGS_CONSOLE_ERROR_CONFIG_DOWNLOAD": "无法下载配置文件。",
@@ -1601,5 +1598,7 @@
   "MYSTATS_PAYOUT_LABEL": "预计收益",
   "MYSTATS_PAYOUT_SHARE": "你本月的份额",
   "MYSTATS_FETCH_ERROR": "加载分析失败",
-  "OBSERVATORY_FETCH_ERROR": "加载分析失败"
+  "OBSERVATORY_FETCH_ERROR": "加载分析失败",
+  "HOME_META_TITLE": "捕捉、上传、分享你的精彩瞬间",
+  "HOME_META_DESCRIPTION": "Snipp 是一款免费的截图与视频上传工具，让你即刻捕捉、上传并分享游戏录像和截图。"
 }

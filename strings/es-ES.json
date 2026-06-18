@@ -631,7 +631,7 @@
   "HOME_FAQ_PRIVACY_ANSWER": "Las subidas desde el sitio web son no listadas por defecto (solo con enlace). Puedes hacer pública tu publicación en cualquier momento para que aparezca en la página Descubrir, y también está disponible la visibilidad privada cuando la necesites.",
   "HOME_HERO_HEADING": "Comparte tus momentos",
   "HOME_HERO_HEADING_ACCENT": "más rápido que nunca",
-  "HOME_HERO_SUBTITLE": "Sube capturas y clips en segundos y consigue al instante un enlace para compartir. Compartir rápido y sencillo, creado para gamers y creadores.",
+  "HOME_HERO_SUBTITLE": "Alojamiento de imágenes gratuito y para compartir clips, hecho para gamers y creadores. Sube una captura o un vídeo y consigue un enlace al instante para compartir en segundos.",
   "HOME_HERO_BUTTON_UPLOAD": "Empezar a subir",
   "HOME_HERO_BUTTON_DISCORD": "Únete a nuestro Discord",
   "HOME_STEPS_HEADING": "Tres pasos para compartir",
@@ -874,14 +874,11 @@
   "SETTINGS_CONSOLE_TOAST_API_KEY_CREATED": "¡Clave de API creada correctamente!",
   "SETTINGS_CONSOLE_ERROR_API_KEY_CREATE": "Se produjo un error al generar la clave de API.",
   "SETTINGS_CONSOLE_ERROR_API_KEY_NONE_TO_REGENERATE": "No hay ninguna clave de API para regenerar.",
-  "ERROR_API_KEY_REGENERATE": "No se pudo regenerar la clave de API.",
   "SETTINGS_CONSOLE_TOAST_API_KEY_REGENERATED": "¡Tu clave de API se ha regenerado!",
   "SETTINGS_CONSOLE_ERROR_API_KEY_REGENERATE": "Se produjo un error al regenerar tu clave de API.",
   "SETTINGS_CONSOLE_ERROR_API_KEY_NONE_TO_DELETE": "No hay ninguna clave de API para eliminar.",
-  "ERROR_API_KEY_DELETE": "No se pudo eliminar la clave de API.",
   "SETTINGS_CONSOLE_TOAST_API_KEY_DELETED": "¡Clave de API eliminada correctamente!",
   "SETTINGS_CONSOLE_ERROR_API_KEY_DELETE": "Se produjo un error al eliminar tu clave de API.",
-  "ERROR_API_KEY_PERMISSIONS": "No se pudieron actualizar los permisos de la clave de API.",
   "SETTINGS_CONSOLE_TOAST_API_KEY_PERMISSIONS_UPDATED": "¡Permisos de la clave de API actualizados correctamente!",
   "SETTINGS_CONSOLE_ERROR_API_KEY_PERMISSIONS_UPDATE": "Se produjo un error al actualizar los permisos de la clave de API.",
   "SETTINGS_CONSOLE_ERROR_CONFIG_DOWNLOAD": "No se puede descargar el archivo de configuración.",
@@ -1601,5 +1598,7 @@
   "MYSTATS_PAYOUT_LABEL": "Pago estimado",
   "MYSTATS_PAYOUT_SHARE": "Tu parte este mes",
   "MYSTATS_FETCH_ERROR": "No se pudieron cargar las analíticas",
-  "OBSERVATORY_FETCH_ERROR": "No se pudieron cargar las analíticas"
+  "OBSERVATORY_FETCH_ERROR": "No se pudieron cargar las analíticas",
+  "HOME_META_TITLE": "Captura, sube y comparte tus mejores momentos",
+  "HOME_META_DESCRIPTION": "Snipp es una herramienta gratuita para subir capturas y vídeos. Captura, sube y comparte tus clips de juego y capturas de pantalla al instante."
 }

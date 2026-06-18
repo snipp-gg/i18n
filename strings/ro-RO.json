@@ -631,7 +631,7 @@
   "HOME_FAQ_PRIVACY_ANSWER": "Încărcările de pe site sunt nelistate implicit (doar cu link). Poți face postarea publică oricând pentru ca aceasta să fie văzută în pagina Descoperă, având la dispoziție și vizibilitatea privată atunci când e necesar.",
   "HOME_HERO_HEADING": "Distribuie-ți momentele",
   "HOME_HERO_HEADING_ACCENT": "mai rapid ca niciodată",
-  "HOME_HERO_SUBTITLE": "Încarcă capturi de ecran și clipuri în câteva secunde și obține un link instant de distribuit. Partajare rapidă și simplă, creată pentru gameri și creatori.",
+  "HOME_HERO_SUBTITLE": "Găzduire gratuită de imagini și partajare de clipuri, creată pentru gameri și creatori. Încarcă o captură de ecran sau un videoclip și primești instant un link de partajat în câteva secunde.",
   "HOME_HERO_BUTTON_UPLOAD": "Începe să încarci",
   "HOME_HERO_BUTTON_DISCORD": "Alătură-te Discordului nostru",
   "HOME_STEPS_HEADING": "Trei pași până la distribuire",
@@ -874,14 +874,11 @@
   "SETTINGS_CONSOLE_TOAST_API_KEY_CREATED": "Cheie API creată cu succes!",
   "SETTINGS_CONSOLE_ERROR_API_KEY_CREATE": "A apărut o eroare la generarea unei chei API.",
   "SETTINGS_CONSOLE_ERROR_API_KEY_NONE_TO_REGENERATE": "Nicio cheie API disponibilă pentru regenerare.",
-  "ERROR_API_KEY_REGENERATE": "Nu s-a putut regenera cheia API.",
   "SETTINGS_CONSOLE_TOAST_API_KEY_REGENERATED": "Cheia ta API a fost regenerată!",
   "SETTINGS_CONSOLE_ERROR_API_KEY_REGENERATE": "A apărut o eroare la regenerarea cheii tale API.",
   "SETTINGS_CONSOLE_ERROR_API_KEY_NONE_TO_DELETE": "Nicio cheie API disponibilă pentru ștergere.",
-  "ERROR_API_KEY_DELETE": "Nu s-a putut șterge cheia API.",
   "SETTINGS_CONSOLE_TOAST_API_KEY_DELETED": "Cheie API ștearsă cu succes!",
   "SETTINGS_CONSOLE_ERROR_API_KEY_DELETE": "A apărut o eroare la ștergerea cheii tale API.",
-  "ERROR_API_KEY_PERMISSIONS": "Nu s-au putut actualiza permisiunile cheii API.",
   "SETTINGS_CONSOLE_TOAST_API_KEY_PERMISSIONS_UPDATED": "Permisiunile cheii API actualizate cu succes!",
   "SETTINGS_CONSOLE_ERROR_API_KEY_PERMISSIONS_UPDATE": "A apărut o eroare la actualizarea permisiunilor cheii API.",
   "SETTINGS_CONSOLE_ERROR_CONFIG_DOWNLOAD": "Fișierul de configurare nu a putut fi descărcat.",
@@ -1601,5 +1598,7 @@
   "MYSTATS_PAYOUT_LABEL": "Plată estimată",
   "MYSTATS_PAYOUT_SHARE": "Partea ta din această lună",
   "MYSTATS_FETCH_ERROR": "Nu s-au putut încărca statisticile",
-  "OBSERVATORY_FETCH_ERROR": "Nu s-au putut încărca statisticile"
+  "OBSERVATORY_FETCH_ERROR": "Nu s-au putut încărca statisticile",
+  "HOME_META_TITLE": "Surprinde, încarcă și distribuie cele mai bune momente",
+  "HOME_META_DESCRIPTION": "Snipp este un instrument gratuit pentru capturi de ecran și videoclipuri. Surprinde, încarcă și distribuie instantaneu clipurile și capturile tale din jocuri."
 }

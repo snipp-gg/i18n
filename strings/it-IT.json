@@ -631,7 +631,7 @@
   "HOME_FAQ_PRIVACY_ANSWER": "I caricamenti dal sito web sono non in elenco per impostazione predefinita (solo tramite link). Puoi rendere pubblico il tuo post in qualsiasi momento per farlo apparire nella pagina Esplora, con la visibilita privata disponibile quando serve.",
   "HOME_HERO_HEADING": "Condividi i tuoi momenti",
   "HOME_HERO_HEADING_ACCENT": "piu velocemente che mai",
-  "HOME_HERO_SUBTITLE": "Carica screenshot e clip in pochi secondi e ottieni un link istantaneo da condividere. Condivisione rapida e semplice, pensata per gamer e creator.",
+  "HOME_HERO_SUBTITLE": "Hosting di immagini gratuito e condivisione di clip, pensato per gamer e creator. Carica uno screenshot o un video e ricevi subito un link da condividere in pochi secondi.",
   "HOME_HERO_BUTTON_UPLOAD": "Inizia a caricare",
   "HOME_HERO_BUTTON_DISCORD": "Unisciti al nostro Discord",
   "HOME_STEPS_HEADING": "Tre passi per condividere",
@@ -874,14 +874,11 @@
   "SETTINGS_CONSOLE_TOAST_API_KEY_CREATED": "Chiave API creata con successo!",
   "SETTINGS_CONSOLE_ERROR_API_KEY_CREATE": "Si e verificato un errore durante la creazione di una chiave API.",
   "SETTINGS_CONSOLE_ERROR_API_KEY_NONE_TO_REGENERATE": "Nessuna chiave API disponibile da rigenerare.",
-  "ERROR_API_KEY_REGENERATE": "Impossibile rigenerare la chiave API.",
   "SETTINGS_CONSOLE_TOAST_API_KEY_REGENERATED": "La tua chiave API e stata rigenerata!",
   "SETTINGS_CONSOLE_ERROR_API_KEY_REGENERATE": "Si e verificato un errore durante la rigenerazione della tua chiave API.",
   "SETTINGS_CONSOLE_ERROR_API_KEY_NONE_TO_DELETE": "Nessuna chiave API disponibile da eliminare.",
-  "ERROR_API_KEY_DELETE": "Impossibile eliminare la chiave API.",
   "SETTINGS_CONSOLE_TOAST_API_KEY_DELETED": "Chiave API eliminata con successo!",
   "SETTINGS_CONSOLE_ERROR_API_KEY_DELETE": "Si e verificato un errore durante l'eliminazione della tua chiave API.",
-  "ERROR_API_KEY_PERMISSIONS": "Impossibile aggiornare le autorizzazioni della chiave API.",
   "SETTINGS_CONSOLE_TOAST_API_KEY_PERMISSIONS_UPDATED": "Autorizzazioni della chiave API aggiornate con successo!",
   "SETTINGS_CONSOLE_ERROR_API_KEY_PERMISSIONS_UPDATE": "Si e verificato un errore durante l'aggiornamento delle autorizzazioni della chiave API.",
   "SETTINGS_CONSOLE_ERROR_CONFIG_DOWNLOAD": "Impossibile scaricare il file di configurazione.",
@@ -1601,5 +1598,7 @@
   "MYSTATS_PAYOUT_LABEL": "Pagamento stimato",
   "MYSTATS_PAYOUT_SHARE": "La tua quota questo mese",
   "MYSTATS_FETCH_ERROR": "Impossibile caricare le analisi",
-  "OBSERVATORY_FETCH_ERROR": "Impossibile caricare le analisi"
+  "OBSERVATORY_FETCH_ERROR": "Impossibile caricare le analisi",
+  "HOME_META_TITLE": "Cattura, carica e condividi i tuoi momenti migliori",
+  "HOME_META_DESCRIPTION": "Snipp è uno strumento gratuito per caricare screenshot e video. Cattura, carica e condividi le tue clip di gioco e i tuoi screenshot in un istante."
 }

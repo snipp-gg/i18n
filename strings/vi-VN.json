@@ -631,7 +631,7 @@
   "HOME_FAQ_PRIVACY_ANSWER": "Nội dung tải lên từ trang web mặc định là không công khai (chỉ qua liên kết). Bạn có thể công khai bài đăng bất cứ lúc nào để nó được nhìn thấy trên trang Khám phá, và cũng có chế độ riêng tư khi cần.",
   "HOME_HERO_HEADING": "Chia sẻ khoảnh khắc của bạn",
   "HOME_HERO_HEADING_ACCENT": "nhanh hơn bao giờ hết",
-  "HOME_HERO_SUBTITLE": "Tải lên ảnh chụp màn hình và clip trong vài giây, nhận ngay liên kết để chia sẻ. Chia sẻ nhanh và đơn giản, xây dựng cho game thủ và nhà sáng tạo.",
+  "HOME_HERO_SUBTITLE": "Lưu trữ ảnh miễn phí và chia sẻ clip, dành riêng cho game thủ và nhà sáng tạo. Tải lên ảnh chụp màn hình hoặc video và nhận ngay liên kết để chia sẻ trong vài giây.",
   "HOME_HERO_BUTTON_UPLOAD": "Bắt đầu tải lên",
   "HOME_HERO_BUTTON_DISCORD": "Tham gia Discord của chúng tôi",
   "HOME_STEPS_HEADING": "Ba bước để chia sẻ",
@@ -874,14 +874,11 @@
   "SETTINGS_CONSOLE_TOAST_API_KEY_CREATED": "Đã tạo khóa API thành công!",
   "SETTINGS_CONSOLE_ERROR_API_KEY_CREATE": "Đã xảy ra lỗi khi tạo khóa API.",
   "SETTINGS_CONSOLE_ERROR_API_KEY_NONE_TO_REGENERATE": "Không có khóa API nào để tạo lại.",
-  "ERROR_API_KEY_REGENERATE": "Không thể tạo lại khóa API.",
   "SETTINGS_CONSOLE_TOAST_API_KEY_REGENERATED": "Khóa API của bạn đã được tạo lại!",
   "SETTINGS_CONSOLE_ERROR_API_KEY_REGENERATE": "Đã xảy ra lỗi khi tạo lại khóa API của bạn.",
   "SETTINGS_CONSOLE_ERROR_API_KEY_NONE_TO_DELETE": "Không có khóa API nào để xóa.",
-  "ERROR_API_KEY_DELETE": "Không thể xóa khóa API.",
   "SETTINGS_CONSOLE_TOAST_API_KEY_DELETED": "Đã xóa khóa API thành công!",
   "SETTINGS_CONSOLE_ERROR_API_KEY_DELETE": "Đã xảy ra lỗi khi xóa khóa API của bạn.",
-  "ERROR_API_KEY_PERMISSIONS": "Không thể cập nhật quyền của khóa API.",
   "SETTINGS_CONSOLE_TOAST_API_KEY_PERMISSIONS_UPDATED": "Đã cập nhật quyền của khóa API thành công!",
   "SETTINGS_CONSOLE_ERROR_API_KEY_PERMISSIONS_UPDATE": "Đã xảy ra lỗi khi cập nhật quyền của khóa API.",
   "SETTINGS_CONSOLE_ERROR_CONFIG_DOWNLOAD": "Không thể tải xuống tệp cấu hình.",
@@ -1601,5 +1598,7 @@
   "MYSTATS_PAYOUT_LABEL": "Khoản chi trả ước tính",
   "MYSTATS_PAYOUT_SHARE": "Phần của bạn tháng này",
   "MYSTATS_FETCH_ERROR": "Không thể tải phân tích",
-  "OBSERVATORY_FETCH_ERROR": "Không thể tải phân tích"
+  "OBSERVATORY_FETCH_ERROR": "Không thể tải phân tích",
+  "HOME_META_TITLE": "Ghi lại, tải lên và chia sẻ những khoảnh khắc đáng nhớ nhất",
+  "HOME_META_DESCRIPTION": "Snipp là công cụ tải ảnh chụp màn hình và video miễn phí. Ghi lại, tải lên và chia sẻ clip game cùng ảnh chụp màn hình của bạn ngay tức thì."
 }

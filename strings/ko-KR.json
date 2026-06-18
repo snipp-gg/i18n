@@ -631,7 +631,7 @@
   "HOME_FAQ_PRIVACY_ANSWER": "웹사이트에서의 업로드는 기본적으로 링크 공개(링크 전용)입니다. 언제든지 게시물을 공개로 설정해 둘러보기 페이지에 노출시킬 수 있으며, 필요할 때는 비공개도 선택할 수 있습니다.",
   "HOME_HERO_HEADING": "당신의 순간을 공유하세요",
   "HOME_HERO_HEADING_ACCENT": "그 어느 때보다 빠르게",
-  "HOME_HERO_SUBTITLE": "스크린샷과 클립을 몇 초 만에 업로드하고 공유할 링크를 즉시 받으세요. 게이머와 크리에이터를 위해 만든, 빠르고 간단한 공유.",
+  "HOME_HERO_SUBTITLE": "게이머와 크리에이터를 위한 무료 이미지 호스팅과 클립 공유. 스크린샷이나 영상을 올리면 단 몇 초 만에 공유 링크가 생성됩니다.",
   "HOME_HERO_BUTTON_UPLOAD": "업로드 시작하기",
   "HOME_HERO_BUTTON_DISCORD": "Discord 참여하기",
   "HOME_STEPS_HEADING": "공유까지 세 단계",
@@ -874,14 +874,11 @@
   "SETTINGS_CONSOLE_TOAST_API_KEY_CREATED": "API 키를 생성했습니다!",
   "SETTINGS_CONSOLE_ERROR_API_KEY_CREATE": "API 키를 생성하는 중 오류가 발생했습니다.",
   "SETTINGS_CONSOLE_ERROR_API_KEY_NONE_TO_REGENERATE": "재생성할 API 키가 없습니다.",
-  "ERROR_API_KEY_REGENERATE": "API 키를 재생성하지 못했습니다.",
   "SETTINGS_CONSOLE_TOAST_API_KEY_REGENERATED": "API 키가 재생성되었습니다!",
   "SETTINGS_CONSOLE_ERROR_API_KEY_REGENERATE": "API 키를 재생성하는 중 오류가 발생했습니다.",
   "SETTINGS_CONSOLE_ERROR_API_KEY_NONE_TO_DELETE": "삭제할 API 키가 없습니다.",
-  "ERROR_API_KEY_DELETE": "API 키를 삭제하지 못했습니다.",
   "SETTINGS_CONSOLE_TOAST_API_KEY_DELETED": "API 키가 삭제되었습니다!",
   "SETTINGS_CONSOLE_ERROR_API_KEY_DELETE": "API 키를 삭제하는 중 오류가 발생했습니다.",
-  "ERROR_API_KEY_PERMISSIONS": "API 키 권한을 업데이트하지 못했습니다.",
   "SETTINGS_CONSOLE_TOAST_API_KEY_PERMISSIONS_UPDATED": "API 키 권한을 업데이트했습니다!",
   "SETTINGS_CONSOLE_ERROR_API_KEY_PERMISSIONS_UPDATE": "API 키 권한을 업데이트하는 중 오류가 발생했습니다.",
   "SETTINGS_CONSOLE_ERROR_CONFIG_DOWNLOAD": "구성 파일을 다운로드할 수 없습니다.",
@@ -1601,5 +1598,7 @@
   "MYSTATS_PAYOUT_LABEL": "예상 수익",
   "MYSTATS_PAYOUT_SHARE": "이번 달 회원님의 몫",
   "MYSTATS_FETCH_ERROR": "분석을 불러오지 못했습니다",
-  "OBSERVATORY_FETCH_ERROR": "분석을 불러오지 못했습니다"
+  "OBSERVATORY_FETCH_ERROR": "분석을 불러오지 못했습니다",
+  "HOME_META_TITLE": "캡처하고, 업로드하고, 최고의 순간을 공유하세요",
+  "HOME_META_DESCRIPTION": "Snipp는 무료 스크린샷 및 영상 업로드 도구입니다. 게임 클립과 스크린샷을 캡처해 바로 업로드하고 공유하세요."
 }

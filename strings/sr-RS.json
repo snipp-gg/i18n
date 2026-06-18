@@ -631,7 +631,7 @@
   "HOME_FAQ_PRIVACY_ANSWER": "Otpremanja sa sajta su podrazumevano nelistirana (samo putem linka). Svoju objavu možete učiniti javnom u bilo kom trenutku da bi bila vidljiva na stranici Otkrij, uz dostupnu privatnu vidljivost kada je potrebno.",
   "HOME_HERO_HEADING": "Podeli svoje trenutke",
   "HOME_HERO_HEADING_ACCENT": "brže nego ikad",
-  "HOME_HERO_SUBTITLE": "Otpremite snimke ekrana i klipove za nekoliko sekundi i dobijte trenutni link za deljenje. Samo brzo i jednostavno deljenje, napravljeno za gejmere i kreatore.",
+  "HOME_HERO_SUBTITLE": "Besplatan hosting slika i deljenje klipova, napravljen za gejmere i kreatore. Otpremite snimak ekrana ili video i za nekoliko sekundi dobijte trenutni link za deljenje.",
   "HOME_HERO_BUTTON_UPLOAD": "Počni otpremanje",
   "HOME_HERO_BUTTON_DISCORD": "Pridruži se našem Discord-u",
   "HOME_STEPS_HEADING": "Tri koraka do deljenja",
@@ -874,14 +874,11 @@
   "SETTINGS_CONSOLE_TOAST_API_KEY_CREATED": "Uspešno kreiran API ključ!",
   "SETTINGS_CONSOLE_ERROR_API_KEY_CREATE": "Došlo je do greške prilikom generisanja API ključa.",
   "SETTINGS_CONSOLE_ERROR_API_KEY_NONE_TO_REGENERATE": "Nema dostupnog API ključa za regenerisanje.",
-  "ERROR_API_KEY_REGENERATE": "Neuspešno regenerisanje API ključa.",
   "SETTINGS_CONSOLE_TOAST_API_KEY_REGENERATED": "Vaš API ključ je regenerisan!",
   "SETTINGS_CONSOLE_ERROR_API_KEY_REGENERATE": "Došlo je do greške prilikom regenerisanja vašeg API ključa.",
   "SETTINGS_CONSOLE_ERROR_API_KEY_NONE_TO_DELETE": "Nema dostupnog API ključa za brisanje.",
-  "ERROR_API_KEY_DELETE": "Neuspešno brisanje API ključa.",
   "SETTINGS_CONSOLE_TOAST_API_KEY_DELETED": "API ključ uspešno obrisan!",
   "SETTINGS_CONSOLE_ERROR_API_KEY_DELETE": "Došlo je do greške prilikom brisanja vašeg API ključa.",
-  "ERROR_API_KEY_PERMISSIONS": "Neuspešno ažuriranje dozvola API ključa.",
   "SETTINGS_CONSOLE_TOAST_API_KEY_PERMISSIONS_UPDATED": "Uspešno ažurirane dozvole API ključa!",
   "SETTINGS_CONSOLE_ERROR_API_KEY_PERMISSIONS_UPDATE": "Došlo je do greške prilikom ažuriranja dozvola API ključa.",
   "SETTINGS_CONSOLE_ERROR_CONFIG_DOWNLOAD": "Nije moguće preuzeti konfiguracioni fajl.",
@@ -1601,5 +1598,7 @@
   "MYSTATS_PAYOUT_LABEL": "Procenjena isplata",
   "MYSTATS_PAYOUT_SHARE": "Vaš udeo ovog meseca",
   "MYSTATS_FETCH_ERROR": "Neuspešno učitavanje analitike",
-  "OBSERVATORY_FETCH_ERROR": "Neuspešno učitavanje analitike"
+  "OBSERVATORY_FETCH_ERROR": "Neuspešno učitavanje analitike",
+  "HOME_META_TITLE": "Snimajte, otpremajte i delite svoje najbolje trenutke",
+  "HOME_META_DESCRIPTION": "Snipp je besplatan alat za otpremanje snimaka ekrana i video-snimaka. Snimajte, otpremajte i odmah delite svoje gejming klipove i snimke ekrana."
 }

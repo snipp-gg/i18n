@@ -631,7 +631,7 @@
   "HOME_FAQ_PRIVACY_ANSWER": "Uppladdningar från webbplatsen är olistade som standard (endast länk). Du kan göra ditt inlägg offentligt när som helst för att det ska synas på Utforska-sidan, med privat synlighet också tillgängligt vid behov.",
   "HOME_HERO_HEADING": "Dela dina ögonblick",
   "HOME_HERO_HEADING_ACCENT": "snabbare än någonsin",
-  "HOME_HERO_SUBTITLE": "Ladda upp skärmdumpar och klipp på sekunder och få en omedelbar länk att dela. Bara snabb och enkel delning, byggd för gamers och kreatörer.",
+  "HOME_HERO_SUBTITLE": "Gratis bildhosting och klippdelning byggd för gamers och kreatörer. Ladda upp en skärmdump eller video och få en direktlänk att dela på några sekunder.",
   "HOME_HERO_BUTTON_UPLOAD": "Börja ladda upp",
   "HOME_HERO_BUTTON_DISCORD": "Gå med i vår Discord",
   "HOME_STEPS_HEADING": "Tre steg till att dela",
@@ -874,14 +874,11 @@
   "SETTINGS_CONSOLE_TOAST_API_KEY_CREATED": "API-nyckel skapad!",
   "SETTINGS_CONSOLE_ERROR_API_KEY_CREATE": "Ett fel uppstod när en API-nyckel skulle genereras.",
   "SETTINGS_CONSOLE_ERROR_API_KEY_NONE_TO_REGENERATE": "Ingen API-nyckel tillgänglig att återskapa.",
-  "ERROR_API_KEY_REGENERATE": "Kunde inte återskapa API-nyckel.",
   "SETTINGS_CONSOLE_TOAST_API_KEY_REGENERATED": "Din API-nyckel har återskapats!",
   "SETTINGS_CONSOLE_ERROR_API_KEY_REGENERATE": "Ett fel uppstod när din API-nyckel skulle återskapas.",
   "SETTINGS_CONSOLE_ERROR_API_KEY_NONE_TO_DELETE": "Ingen API-nyckel tillgänglig att radera.",
-  "ERROR_API_KEY_DELETE": "Kunde inte radera API-nyckel.",
   "SETTINGS_CONSOLE_TOAST_API_KEY_DELETED": "API-nyckel raderad!",
   "SETTINGS_CONSOLE_ERROR_API_KEY_DELETE": "Ett fel uppstod när din API-nyckel skulle raderas.",
-  "ERROR_API_KEY_PERMISSIONS": "Kunde inte uppdatera API-nyckelns behörigheter.",
   "SETTINGS_CONSOLE_TOAST_API_KEY_PERMISSIONS_UPDATED": "API-nyckelns behörigheter uppdaterades!",
   "SETTINGS_CONSOLE_ERROR_API_KEY_PERMISSIONS_UPDATE": "Ett fel uppstod när API-nyckelns behörigheter skulle uppdateras.",
   "SETTINGS_CONSOLE_ERROR_CONFIG_DOWNLOAD": "Kan inte ladda ner konfigurationsfilen.",
@@ -1601,5 +1598,7 @@
   "MYSTATS_PAYOUT_LABEL": "Beräknad utbetalning",
   "MYSTATS_PAYOUT_SHARE": "Din andel den här månaden",
   "MYSTATS_FETCH_ERROR": "Det gick inte att läsa in analysen",
-  "OBSERVATORY_FETCH_ERROR": "Det gick inte att läsa in analysen"
+  "OBSERVATORY_FETCH_ERROR": "Det gick inte att läsa in analysen",
+  "HOME_META_TITLE": "Fånga, ladda upp och dela dina bästa ögonblick",
+  "HOME_META_DESCRIPTION": "Snipp är ett gratis verktyg för skärmdumpar och videouppladdning. Fånga, ladda upp och dela dina gaming-klipp och skärmdumpar direkt."
 }

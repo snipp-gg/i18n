@@ -631,7 +631,7 @@
   "HOME_FAQ_PRIVACY_ANSWER": "Verkkosivustolta tehdyt lataukset ovat oletuksena listaamattomia (vain linkillä). Voit tehdä julkaisustasi julkisen milloin tahansa, jotta se näkyy Tutustu-sivulla, ja yksityinen näkyvyys on myös saatavilla tarvittaessa.",
   "HOME_HERO_HEADING": "Jaa hetkesi",
   "HOME_HERO_HEADING_ACCENT": "nopeammin kuin koskaan",
-  "HOME_HERO_SUBTITLE": "Lataa kuvakaappaukset ja klipit sekunneissa ja saa heti jaettava linkki. Vain nopeaa ja yksinkertaista jakamista, rakennettu pelaajille ja luojille.",
+  "HOME_HERO_SUBTITLE": "Ilmainen kuvien hosting ja klippien jakaminen pelaajille ja sisällöntuottajille. Lataa kuvakaappaus tai video ja saat heti linkin, jonka jaat sekunneissa.",
   "HOME_HERO_BUTTON_UPLOAD": "Aloita lataaminen",
   "HOME_HERO_BUTTON_DISCORD": "Liity Discordiimme",
   "HOME_STEPS_HEADING": "Kolme askelta jakamiseen",
@@ -874,14 +874,11 @@
   "SETTINGS_CONSOLE_TOAST_API_KEY_CREATED": "API-avain luotu onnistuneesti!",
   "SETTINGS_CONSOLE_ERROR_API_KEY_CREATE": "API-avaimen luonnissa tapahtui virhe.",
   "SETTINGS_CONSOLE_ERROR_API_KEY_NONE_TO_REGENERATE": "Ei API-avainta, jota luoda uudelleen.",
-  "ERROR_API_KEY_REGENERATE": "API-avaimen uudelleenluonti epäonnistui.",
   "SETTINGS_CONSOLE_TOAST_API_KEY_REGENERATED": "API-avaimesi on luotu uudelleen!",
   "SETTINGS_CONSOLE_ERROR_API_KEY_REGENERATE": "API-avaimesi uudelleenluonnissa tapahtui virhe.",
   "SETTINGS_CONSOLE_ERROR_API_KEY_NONE_TO_DELETE": "Ei API-avainta, jonka voisi poistaa.",
-  "ERROR_API_KEY_DELETE": "API-avaimen poisto epäonnistui.",
   "SETTINGS_CONSOLE_TOAST_API_KEY_DELETED": "API-avain poistettu onnistuneesti!",
   "SETTINGS_CONSOLE_ERROR_API_KEY_DELETE": "API-avaimesi poistossa tapahtui virhe.",
-  "ERROR_API_KEY_PERMISSIONS": "API-avaimen käyttöoikeuksien päivitys epäonnistui.",
   "SETTINGS_CONSOLE_TOAST_API_KEY_PERMISSIONS_UPDATED": "API-avaimen käyttöoikeudet päivitetty onnistuneesti!",
   "SETTINGS_CONSOLE_ERROR_API_KEY_PERMISSIONS_UPDATE": "API-avaimen käyttöoikeuksien päivityksessä tapahtui virhe.",
   "SETTINGS_CONSOLE_ERROR_CONFIG_DOWNLOAD": "Määritystiedoston lataus ei onnistunut.",
@@ -1601,5 +1598,7 @@
   "MYSTATS_PAYOUT_LABEL": "Arvioitu maksu",
   "MYSTATS_PAYOUT_SHARE": "Osuutesi tässä kuussa",
   "MYSTATS_FETCH_ERROR": "Analytiikan lataus epäonnistui",
-  "OBSERVATORY_FETCH_ERROR": "Analytiikan lataus epäonnistui"
+  "OBSERVATORY_FETCH_ERROR": "Analytiikan lataus epäonnistui",
+  "HOME_META_TITLE": "Kuvaa, lataa ja jaa parhaat hetkesi",
+  "HOME_META_DESCRIPTION": "Snipp on ilmainen työkalu kuvakaappausten ja videoiden jakamiseen. Kuvaa, lataa ja jaa pelileikkeesi ja kuvakaappauksesi hetkessä."
 }

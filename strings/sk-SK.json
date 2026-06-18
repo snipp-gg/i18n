@@ -631,7 +631,7 @@
   "HOME_FAQ_PRIVACY_ANSWER": "Nahrávania z webovej stránky sú v predvolenom nastavení neuvedené (len cez odkaz). Svoj príspevok môžeš kedykoľvek zverejniť, aby sa zobrazil na stránke Objavuj, a v prípade potreby je dostupná aj súkromná viditeľnosť.",
   "HOME_HERO_HEADING": "Zdieľaj svoje momenty",
   "HOME_HERO_HEADING_ACCENT": "rýchlejšie než kedykoľvek predtým",
-  "HOME_HERO_SUBTITLE": "Nahraj snímky obrazovky a klipy za pár sekúnd a získaj okamžitý odkaz na zdieľanie. Len rýchle a jednoduché zdieľanie, vytvorené pre hráčov a tvorcov.",
+  "HOME_HERO_SUBTITLE": "Bezplatný hosting obrázkov a zdieľanie klipov pre hráčov a tvorcov. Nahraj screenshot alebo video a v priebehu sekúnd získaj okamžitý odkaz na zdieľanie.",
   "HOME_HERO_BUTTON_UPLOAD": "Začať nahrávať",
   "HOME_HERO_BUTTON_DISCORD": "Pridaj sa na náš Discord",
   "HOME_STEPS_HEADING": "Tri kroky k zdieľaniu",
@@ -874,14 +874,11 @@
   "SETTINGS_CONSOLE_TOAST_API_KEY_CREATED": "API kľúč úspešne vytvorený!",
   "SETTINGS_CONSOLE_ERROR_API_KEY_CREATE": "Pri generovaní API kľúča nastala chyba.",
   "SETTINGS_CONSOLE_ERROR_API_KEY_NONE_TO_REGENERATE": "Žiadny API kľúč na opätovné vygenerovanie.",
-  "ERROR_API_KEY_REGENERATE": "Nepodarilo sa znova vygenerovať API kľúč.",
   "SETTINGS_CONSOLE_TOAST_API_KEY_REGENERATED": "Tvoj API kľúč bol znova vygenerovaný!",
   "SETTINGS_CONSOLE_ERROR_API_KEY_REGENERATE": "Pri opätovnom generovaní tvojho API kľúča nastala chyba.",
   "SETTINGS_CONSOLE_ERROR_API_KEY_NONE_TO_DELETE": "Žiadny API kľúč na odstránenie.",
-  "ERROR_API_KEY_DELETE": "Nepodarilo sa odstrániť API kľúč.",
   "SETTINGS_CONSOLE_TOAST_API_KEY_DELETED": "API kľúč úspešne odstránený!",
   "SETTINGS_CONSOLE_ERROR_API_KEY_DELETE": "Pri odstraňovaní tvojho API kľúča nastala chyba.",
-  "ERROR_API_KEY_PERMISSIONS": "Nepodarilo sa aktualizovať oprávnenia API kľúča.",
   "SETTINGS_CONSOLE_TOAST_API_KEY_PERMISSIONS_UPDATED": "Oprávnenia API kľúča úspešne aktualizované!",
   "SETTINGS_CONSOLE_ERROR_API_KEY_PERMISSIONS_UPDATE": "Pri aktualizácii oprávnení API kľúča nastala chyba.",
   "SETTINGS_CONSOLE_ERROR_CONFIG_DOWNLOAD": "Konfiguračný súbor sa nepodarilo stiahnuť.",
@@ -1601,5 +1598,7 @@
   "MYSTATS_PAYOUT_LABEL": "Odhadovaná výplata",
   "MYSTATS_PAYOUT_SHARE": "Tvoj podiel tento mesiac",
   "MYSTATS_FETCH_ERROR": "Nepodarilo sa načítať analytiku",
-  "OBSERVATORY_FETCH_ERROR": "Nepodarilo sa načítať analytiku"
+  "OBSERVATORY_FETCH_ERROR": "Nepodarilo sa načítať analytiku",
+  "HOME_META_TITLE": "Zachyťte, nahrajte a zdieľajte svoje najlepšie momenty",
+  "HOME_META_DESCRIPTION": "Snipp je bezplatný nástroj na nahrávanie snímok obrazovky a videí. Zachyťte, nahrajte a okamžite zdieľajte svoje herné klipy a screenshoty."
 }

@@ -631,7 +631,7 @@
   "HOME_FAQ_PRIVACY_ANSWER": "Завантаження з вебсайту за замовчуванням приховані (лише за посиланням). Ви можете будь-коли зробити свій допис публічним, щоб його було видно на сторінці Огляду, а за потреби також доступна приватна видимість.",
   "HOME_HERO_HEADING": "Діліться своїми моментами",
   "HOME_HERO_HEADING_ACCENT": "швидше, ніж будь-коли",
-  "HOME_HERO_SUBTITLE": "Завантажуйте скриншоти та кліпи за секунди й отримуйте миттєве посилання для обміну. Просто швидкий і простий обмін, створений для геймерів та авторів.",
+  "HOME_HERO_SUBTITLE": "Безкоштовний хостинг зображень і обмін кліпами для геймерів і кріейторів. Завантажте скріншот чи відео та отримайте миттєве посилання, яким можна поділитися за лічені секунди.",
   "HOME_HERO_BUTTON_UPLOAD": "Почати завантаження",
   "HOME_HERO_BUTTON_DISCORD": "Приєднатися до нашого Discord",
   "HOME_STEPS_HEADING": "Три кроки до публікації",
@@ -874,14 +874,11 @@
   "SETTINGS_CONSOLE_TOAST_API_KEY_CREATED": "Ключ API успішно створено!",
   "SETTINGS_CONSOLE_ERROR_API_KEY_CREATE": "Під час генерації ключа API сталася помилка.",
   "SETTINGS_CONSOLE_ERROR_API_KEY_NONE_TO_REGENERATE": "Немає ключа API для повторної генерації.",
-  "ERROR_API_KEY_REGENERATE": "Не вдалося повторно згенерувати ключ API.",
   "SETTINGS_CONSOLE_TOAST_API_KEY_REGENERATED": "Ваш ключ API повторно згенеровано!",
   "SETTINGS_CONSOLE_ERROR_API_KEY_REGENERATE": "Під час повторної генерації вашого ключа API сталася помилка.",
   "SETTINGS_CONSOLE_ERROR_API_KEY_NONE_TO_DELETE": "Немає ключа API для видалення.",
-  "ERROR_API_KEY_DELETE": "Не вдалося видалити ключ API.",
   "SETTINGS_CONSOLE_TOAST_API_KEY_DELETED": "Ключ API успішно видалено!",
   "SETTINGS_CONSOLE_ERROR_API_KEY_DELETE": "Під час видалення вашого ключа API сталася помилка.",
-  "ERROR_API_KEY_PERMISSIONS": "Не вдалося оновити дозволи ключа API.",
   "SETTINGS_CONSOLE_TOAST_API_KEY_PERMISSIONS_UPDATED": "Дозволи ключа API успішно оновлено!",
   "SETTINGS_CONSOLE_ERROR_API_KEY_PERMISSIONS_UPDATE": "Під час оновлення дозволів ключа API сталася помилка.",
   "SETTINGS_CONSOLE_ERROR_CONFIG_DOWNLOAD": "Не вдалося завантажити файл конфігурації.",
@@ -1601,5 +1598,7 @@
   "MYSTATS_PAYOUT_LABEL": "Очікувана виплата",
   "MYSTATS_PAYOUT_SHARE": "Ваша частка цього місяця",
   "MYSTATS_FETCH_ERROR": "Не вдалося завантажити аналітику",
-  "OBSERVATORY_FETCH_ERROR": "Не вдалося завантажити аналітику"
+  "OBSERVATORY_FETCH_ERROR": "Не вдалося завантажити аналітику",
+  "HOME_META_TITLE": "Знімайте, завантажуйте та діліться найкращими моментами",
+  "HOME_META_DESCRIPTION": "Snipp — безкоштовний інструмент для завантаження скриншотів і відео. Знімайте, завантажуйте та миттєво діліться ігровими кліпами й скриншотами."
 }
