@@ -631,7 +631,7 @@
   "HOME_FAQ_PRIVACY_ANSWER": "ウェブサイトからのアップロードは、デフォルトで限定公開（リンクを知っている人のみ）になっています。投稿はいつでも公開設定にして発見ページに表示させることができ、必要に応じてプライベート公開も選べます。",
   "HOME_HERO_HEADING": "あなたの瞬間を共有しよう",
   "HOME_HERO_HEADING_ACCENT": "かつてないほど速く",
-  "HOME_HERO_SUBTITLE": "スクリーンショットやクリップを数秒でアップロードし、共有用のリンクをすぐに取得。ゲーマーとクリエイターのために作られた、速くてシンプルな共有です。",
+  "HOME_HERO_SUBTITLE": "Free image hosting and clip sharing built for gamers and creators. Upload a screenshot or video and get an instant link to share in seconds.",
   "HOME_HERO_BUTTON_UPLOAD": "アップロードを始める",
   "HOME_HERO_BUTTON_DISCORD": "Discord に参加する",
   "HOME_STEPS_HEADING": "Three steps to share",
@@ -874,14 +874,11 @@
   "SETTINGS_CONSOLE_TOAST_API_KEY_CREATED": "API キーを正常に作成しました！",
   "SETTINGS_CONSOLE_ERROR_API_KEY_CREATE": "API キーの生成中にエラーが発生しました。",
   "SETTINGS_CONSOLE_ERROR_API_KEY_NONE_TO_REGENERATE": "再生成できる API キーがありません。",
-  "ERROR_API_KEY_REGENERATE": "API キーの再生成に失敗しました。",
   "SETTINGS_CONSOLE_TOAST_API_KEY_REGENERATED": "API キーが再生成されました！",
   "SETTINGS_CONSOLE_ERROR_API_KEY_REGENERATE": "API キーの再生成中にエラーが発生しました。",
   "SETTINGS_CONSOLE_ERROR_API_KEY_NONE_TO_DELETE": "削除できる API キーがありません。",
-  "ERROR_API_KEY_DELETE": "API キーの削除に失敗しました。",
   "SETTINGS_CONSOLE_TOAST_API_KEY_DELETED": "API キーを正常に削除しました！",
   "SETTINGS_CONSOLE_ERROR_API_KEY_DELETE": "API キーの削除中にエラーが発生しました。",
-  "ERROR_API_KEY_PERMISSIONS": "API キーの権限の更新に失敗しました。",
   "SETTINGS_CONSOLE_TOAST_API_KEY_PERMISSIONS_UPDATED": "API キーの権限を正常に更新しました！",
   "SETTINGS_CONSOLE_ERROR_API_KEY_PERMISSIONS_UPDATE": "API キーの権限の更新中にエラーが発生しました。",
   "SETTINGS_CONSOLE_ERROR_CONFIG_DOWNLOAD": "設定ファイルをダウンロードできません。",
@@ -1601,5 +1598,7 @@
   "MYSTATS_PAYOUT_LABEL": "Estimated payout",
   "MYSTATS_PAYOUT_SHARE": "Your share this month",
   "MYSTATS_FETCH_ERROR": "Failed to load analytics",
-  "OBSERVATORY_FETCH_ERROR": "Failed to load analytics"
+  "OBSERVATORY_FETCH_ERROR": "Failed to load analytics",
+  "HOME_META_TITLE": "Capture, upload, and share your best moments",
+  "HOME_META_DESCRIPTION": "Snipp is a free screenshot and video upload tool. Capture, upload, and share your gaming clips and screenshots instantly."
 }
