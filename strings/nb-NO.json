@@ -1600,5 +1600,6 @@
   "MYSTATS_FETCH_ERROR": "Kunne ikke laste inn analyse",
   "OBSERVATORY_FETCH_ERROR": "Kunne ikke laste inn analyse",
   "HOME_META_TITLE": "Fang, last opp og del de beste øyeblikkene dine",
-  "HOME_META_DESCRIPTION": "Snipp er et gratis verktøy for opplasting av skjermbilder og video. Fang, last opp og del gaming-klippene og skjermbildene dine umiddelbart."
+  "HOME_META_DESCRIPTION": "Snipp er et gratis verktøy for opplasting av skjermbilder og video. Fang, last opp og del gaming-klippene og skjermbildene dine umiddelbart.",
+  "POST_META_FALLBACK_DESCRIPTION": "{title} av @{username} på Snipp. Last opp, del og host skjermbildene og klippene dine gratis."
 }

@@ -1600,5 +1600,6 @@
   "MYSTATS_FETCH_ERROR": "Échec du chargement des statistiques",
   "OBSERVATORY_FETCH_ERROR": "Échec du chargement des statistiques",
   "HOME_META_TITLE": "Capturez, partagez et revivez vos meilleurs moments",
-  "HOME_META_DESCRIPTION": "Snipp est un outil gratuit de capture d'écran et de partage de vidéos. Capturez et partagez vos clips de jeu et screenshots en un instant."
+  "HOME_META_DESCRIPTION": "Snipp est un outil gratuit de capture d'écran et de partage de vidéos. Capturez et partagez vos clips de jeu et screenshots en un instant.",
+  "POST_META_FALLBACK_DESCRIPTION": "{title} par @{username} sur Snipp. Importez, partagez et hébergez vos captures d'écran et vos clips gratuitement."
 }

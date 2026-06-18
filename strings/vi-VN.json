@@ -1600,5 +1600,6 @@
   "MYSTATS_FETCH_ERROR": "Không thể tải phân tích",
   "OBSERVATORY_FETCH_ERROR": "Không thể tải phân tích",
   "HOME_META_TITLE": "Ghi lại, tải lên và chia sẻ những khoảnh khắc đáng nhớ nhất",
-  "HOME_META_DESCRIPTION": "Snipp là công cụ tải ảnh chụp màn hình và video miễn phí. Ghi lại, tải lên và chia sẻ clip game cùng ảnh chụp màn hình của bạn ngay tức thì."
+  "HOME_META_DESCRIPTION": "Snipp là công cụ tải ảnh chụp màn hình và video miễn phí. Ghi lại, tải lên và chia sẻ clip game cùng ảnh chụp màn hình của bạn ngay tức thì.",
+  "POST_META_FALLBACK_DESCRIPTION": "{title} bởi @{username} trên Snipp. Tải lên, chia sẻ và lưu trữ ảnh chụp màn hình cùng video clip của bạn miễn phí."
 }

@@ -1600,5 +1600,6 @@
   "MYSTATS_FETCH_ERROR": "Nu s-au putut încărca statisticile",
   "OBSERVATORY_FETCH_ERROR": "Nu s-au putut încărca statisticile",
   "HOME_META_TITLE": "Surprinde, încarcă și distribuie cele mai bune momente",
-  "HOME_META_DESCRIPTION": "Snipp este un instrument gratuit pentru capturi de ecran și videoclipuri. Surprinde, încarcă și distribuie instantaneu clipurile și capturile tale din jocuri."
+  "HOME_META_DESCRIPTION": "Snipp este un instrument gratuit pentru capturi de ecran și videoclipuri. Surprinde, încarcă și distribuie instantaneu clipurile și capturile tale din jocuri.",
+  "POST_META_FALLBACK_DESCRIPTION": "{title} de @{username} pe Snipp. Încarcă, distribuie și găzduiește gratuit capturile de ecran și clipurile tale."
 }

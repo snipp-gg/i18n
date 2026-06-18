@@ -1600,5 +1600,6 @@
   "MYSTATS_FETCH_ERROR": "분석을 불러오지 못했습니다",
   "OBSERVATORY_FETCH_ERROR": "분석을 불러오지 못했습니다",
   "HOME_META_TITLE": "캡처하고, 업로드하고, 최고의 순간을 공유하세요",
-  "HOME_META_DESCRIPTION": "Snipp는 무료 스크린샷 및 영상 업로드 도구입니다. 게임 클립과 스크린샷을 캡처해 바로 업로드하고 공유하세요."
+  "HOME_META_DESCRIPTION": "Snipp는 무료 스크린샷 및 영상 업로드 도구입니다. 게임 클립과 스크린샷을 캡처해 바로 업로드하고 공유하세요.",
+  "POST_META_FALLBACK_DESCRIPTION": "Snipp에서 @{username}님이 올린 {title}. 스크린샷과 클립을 무료로 업로드하고, 공유하고, 호스팅하세요."
 }

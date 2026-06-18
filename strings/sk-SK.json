@@ -1600,5 +1600,6 @@
   "MYSTATS_FETCH_ERROR": "Nepodarilo sa načítať analytiku",
   "OBSERVATORY_FETCH_ERROR": "Nepodarilo sa načítať analytiku",
   "HOME_META_TITLE": "Zachyťte, nahrajte a zdieľajte svoje najlepšie momenty",
-  "HOME_META_DESCRIPTION": "Snipp je bezplatný nástroj na nahrávanie snímok obrazovky a videí. Zachyťte, nahrajte a okamžite zdieľajte svoje herné klipy a screenshoty."
+  "HOME_META_DESCRIPTION": "Snipp je bezplatný nástroj na nahrávanie snímok obrazovky a videí. Zachyťte, nahrajte a okamžite zdieľajte svoje herné klipy a screenshoty.",
+  "POST_META_FALLBACK_DESCRIPTION": "{title} od @{username} na Snipp. Nahrávajte, zdieľajte a hostujte svoje snímky obrazovky a klipy zadarmo."
 }

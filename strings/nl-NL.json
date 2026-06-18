@@ -1600,5 +1600,6 @@
   "MYSTATS_FETCH_ERROR": "Analytics laden mislukt",
   "OBSERVATORY_FETCH_ERROR": "Analytics laden mislukt",
   "HOME_META_TITLE": "Leg je beste momenten vast, upload en deel ze",
-  "HOME_META_DESCRIPTION": "Snipp is een gratis tool om screenshots en video's te uploaden. Leg je gameclips en screenshots vast en deel ze meteen."
+  "HOME_META_DESCRIPTION": "Snipp is een gratis tool om screenshots en video's te uploaden. Leg je gameclips en screenshots vast en deel ze meteen.",
+  "POST_META_FALLBACK_DESCRIPTION": "{title} door @{username} op Snipp. Upload, deel en host je screenshots en clips gratis."
 }

@@ -1600,5 +1600,6 @@
   "MYSTATS_FETCH_ERROR": "Falha ao carregar as análises",
   "OBSERVATORY_FETCH_ERROR": "Falha ao carregar as análises",
   "HOME_META_TITLE": "Capture, envie e compartilhe seus melhores momentos",
-  "HOME_META_DESCRIPTION": "O Snipp é uma ferramenta gratuita para enviar prints e vídeos. Capture, envie e compartilhe seus clipes e prints de jogos na hora."
+  "HOME_META_DESCRIPTION": "O Snipp é uma ferramenta gratuita para enviar prints e vídeos. Capture, envie e compartilhe seus clipes e prints de jogos na hora.",
+  "POST_META_FALLBACK_DESCRIPTION": "{title} por @{username} no Snipp. Faça upload, compartilhe e hospede suas capturas de tela e clipes de graça."
 }

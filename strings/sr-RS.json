@@ -1600,5 +1600,6 @@
   "MYSTATS_FETCH_ERROR": "Neuspešno učitavanje analitike",
   "OBSERVATORY_FETCH_ERROR": "Neuspešno učitavanje analitike",
   "HOME_META_TITLE": "Snimajte, otpremajte i delite svoje najbolje trenutke",
-  "HOME_META_DESCRIPTION": "Snipp je besplatan alat za otpremanje snimaka ekrana i video-snimaka. Snimajte, otpremajte i odmah delite svoje gejming klipove i snimke ekrana."
+  "HOME_META_DESCRIPTION": "Snipp je besplatan alat za otpremanje snimaka ekrana i video-snimaka. Snimajte, otpremajte i odmah delite svoje gejming klipove i snimke ekrana.",
+  "POST_META_FALLBACK_DESCRIPTION": "{title} koju je objavio @{username} na Snipp-u. Otpremajte, delite i hostujte svoje snimke ekrana i klipove besplatno."
 }

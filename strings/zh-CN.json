@@ -1600,5 +1600,6 @@
   "MYSTATS_FETCH_ERROR": "加载分析失败",
   "OBSERVATORY_FETCH_ERROR": "加载分析失败",
   "HOME_META_TITLE": "捕捉、上传、分享你的精彩瞬间",
-  "HOME_META_DESCRIPTION": "Snipp 是一款免费的截图与视频上传工具，让你即刻捕捉、上传并分享游戏录像和截图。"
+  "HOME_META_DESCRIPTION": "Snipp 是一款免费的截图与视频上传工具，让你即刻捕捉、上传并分享游戏录像和截图。",
+  "POST_META_FALLBACK_DESCRIPTION": "{title} 由 @{username} 发布于 Snipp。免费上传、分享和托管你的截图与剪辑。"
 }

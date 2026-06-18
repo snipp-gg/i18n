@@ -1600,5 +1600,6 @@
   "MYSTATS_FETCH_ERROR": "Analizler yüklenemedi",
   "OBSERVATORY_FETCH_ERROR": "Analizler yüklenemedi",
   "HOME_META_TITLE": "Yakala, yükle ve en güzel anlarını paylaş",
-  "HOME_META_DESCRIPTION": "Snipp, ücretsiz bir ekran görüntüsü ve video yükleme aracıdır. Oyun kliplerini ve ekran görüntülerini anında yakala, yükle ve paylaş."
+  "HOME_META_DESCRIPTION": "Snipp, ücretsiz bir ekran görüntüsü ve video yükleme aracıdır. Oyun kliplerini ve ekran görüntülerini anında yakala, yükle ve paylaş.",
+  "POST_META_FALLBACK_DESCRIPTION": "{title}, @{username} tarafından Snipp'te. Ekran görüntülerinizi ve kliplerinizi ücretsiz yükleyin, paylaşın ve barındırın."
 }

@@ -1600,5 +1600,6 @@
   "MYSTATS_FETCH_ERROR": "Det gick inte att läsa in analysen",
   "OBSERVATORY_FETCH_ERROR": "Det gick inte att läsa in analysen",
   "HOME_META_TITLE": "Fånga, ladda upp och dela dina bästa ögonblick",
-  "HOME_META_DESCRIPTION": "Snipp är ett gratis verktyg för skärmdumpar och videouppladdning. Fånga, ladda upp och dela dina gaming-klipp och skärmdumpar direkt."
+  "HOME_META_DESCRIPTION": "Snipp är ett gratis verktyg för skärmdumpar och videouppladdning. Fånga, ladda upp och dela dina gaming-klipp och skärmdumpar direkt.",
+  "POST_META_FALLBACK_DESCRIPTION": "{title} av @{username} på Snipp. Ladda upp, dela och lagra dina skärmdumpar och klipp gratis."
 }

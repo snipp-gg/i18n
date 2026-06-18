@@ -1600,5 +1600,6 @@
   "MYSTATS_FETCH_ERROR": "Analyse konnte nicht geladen werden",
   "OBSERVATORY_FETCH_ERROR": "Analyse konnte nicht geladen werden",
   "HOME_META_TITLE": "Nimm auf, lade hoch und teile deine besten Momente",
-  "HOME_META_DESCRIPTION": "Snipp ist ein kostenloses Tool zum Hochladen von Screenshots und Videos. Nimm deine Gaming-Clips und Screenshots auf, lade sie hoch und teile sie sofort."
+  "HOME_META_DESCRIPTION": "Snipp ist ein kostenloses Tool zum Hochladen von Screenshots und Videos. Nimm deine Gaming-Clips und Screenshots auf, lade sie hoch und teile sie sofort.",
+  "POST_META_FALLBACK_DESCRIPTION": "{title} von @{username} auf Snipp. Lade deine Screenshots und Clips kostenlos hoch, teile und hoste sie."
 }

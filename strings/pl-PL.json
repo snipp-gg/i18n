@@ -1600,5 +1600,6 @@
   "MYSTATS_FETCH_ERROR": "Nie udało się załadować analityki",
   "OBSERVATORY_FETCH_ERROR": "Nie udało się załadować analityki",
   "HOME_META_TITLE": "Przechwytuj, udostępniaj i dziel się najlepszymi momentami",
-  "HOME_META_DESCRIPTION": "Snipp to darmowe narzędzie do przesyłania zrzutów ekranu i filmów. Przechwytuj i błyskawicznie udostępniaj swoje klipy z gier i zrzuty ekranu."
+  "HOME_META_DESCRIPTION": "Snipp to darmowe narzędzie do przesyłania zrzutów ekranu i filmów. Przechwytuj i błyskawicznie udostępniaj swoje klipy z gier i zrzuty ekranu.",
+  "POST_META_FALLBACK_DESCRIPTION": "{title} od @{username} na Snipp. Przesyłaj, udostępniaj i hostuj swoje zrzuty ekranu oraz klipy za darmo."
 }

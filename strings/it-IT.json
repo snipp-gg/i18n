@@ -1600,5 +1600,6 @@
   "MYSTATS_FETCH_ERROR": "Impossibile caricare le analisi",
   "OBSERVATORY_FETCH_ERROR": "Impossibile caricare le analisi",
   "HOME_META_TITLE": "Cattura, carica e condividi i tuoi momenti migliori",
-  "HOME_META_DESCRIPTION": "Snipp è uno strumento gratuito per caricare screenshot e video. Cattura, carica e condividi le tue clip di gioco e i tuoi screenshot in un istante."
+  "HOME_META_DESCRIPTION": "Snipp è uno strumento gratuito per caricare screenshot e video. Cattura, carica e condividi le tue clip di gioco e i tuoi screenshot in un istante.",
+  "POST_META_FALLBACK_DESCRIPTION": "{title} di @{username} su Snipp. Carica, condividi e ospita i tuoi screenshot e clip gratuitamente."
 }

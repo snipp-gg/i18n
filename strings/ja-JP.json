@@ -1600,5 +1600,6 @@
   "MYSTATS_FETCH_ERROR": "アナリティクスを読み込めませんでした",
   "OBSERVATORY_FETCH_ERROR": "アナリティクスを読み込めませんでした",
   "HOME_META_TITLE": "ベストな瞬間をキャプチャ、アップロード、シェア",
-  "HOME_META_DESCRIPTION": "Snippは無料のスクリーンショット・動画アップロードツール。ゲームのクリップやスクショを今すぐキャプチャ、アップロード、シェアしよう。"
+  "HOME_META_DESCRIPTION": "Snippは無料のスクリーンショット・動画アップロードツール。ゲームのクリップやスクショを今すぐキャプチャ、アップロード、シェアしよう。",
+  "POST_META_FALLBACK_DESCRIPTION": "@{username} さんによる「{title}」を Snipp で公開中。スクリーンショットやクリップを無料でアップロード、共有、ホスティングできます。"
 }

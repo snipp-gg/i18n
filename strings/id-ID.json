@@ -1600,5 +1600,6 @@
   "MYSTATS_FETCH_ERROR": "Gagal memuat analitik",
   "OBSERVATORY_FETCH_ERROR": "Gagal memuat analitik",
   "HOME_META_TITLE": "Abadikan, unggah, dan bagikan momen terbaikmu",
-  "HOME_META_DESCRIPTION": "Snipp adalah alat unggah tangkapan layar dan video gratis. Abadikan, unggah, dan bagikan klip game serta tangkapan layarmu secara instan."
+  "HOME_META_DESCRIPTION": "Snipp adalah alat unggah tangkapan layar dan video gratis. Abadikan, unggah, dan bagikan klip game serta tangkapan layarmu secara instan.",
+  "POST_META_FALLBACK_DESCRIPTION": "{title} oleh @{username} di Snipp. Unggah, bagikan, dan hosting tangkapan layar serta klipmu secara gratis."
 }
