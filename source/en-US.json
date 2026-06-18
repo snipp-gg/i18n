@@ -113,6 +113,7 @@
   "GALLERY_PAGINATION_PAGE_OF": "Page {current} of {total}",
   "FOOTER_LINK_FEATURES": "Features",
   "FOOTER_LINK_PRICING": "Pricing",
+  "FOOTER_LINK_DOWNLOADS": "Downloads",
   "FOOTER_LINK_STATUS": "Status",
   "COMMON_PRIVACY": "Privacy",
   "COMMON_TERMS": "Terms",
@@ -1601,5 +1602,18 @@
   "OBSERVATORY_FETCH_ERROR": "Failed to load analytics",
   "HOME_META_TITLE": "Capture, upload, and share your best moments",
   "HOME_META_DESCRIPTION": "Snipp is a free screenshot and video upload tool. Capture, upload, and share your gaming clips and screenshots instantly.",
-  "POST_META_FALLBACK_DESCRIPTION": "{title} by @{username} on Snipp. Upload, share, and host your screenshots and clips for free."
+  "POST_META_FALLBACK_DESCRIPTION": "{title} by @{username} on Snipp. Upload, share, and host your screenshots and clips for free.",
+  "DOWNLOADS_META_TITLE": "Download Snipp",
+  "DOWNLOADS_META_DESCRIPTION": "Get Snipp on Windows, macOS, iOS, and Android. Capture, upload, and share your screenshots and clips from anywhere.",
+  "DOWNLOADS_HEADING": "Download Snipp",
+  "DOWNLOADS_SUBHEADING": "Capture, upload, and share from anywhere. Apps for every platform.",
+  "DOWNLOADS_COMING_SOON": "Coming soon",
+  "DOWNLOADS_WINDOWS_NAME": "Windows",
+  "DOWNLOADS_WINDOWS_NOTE": "Windows 10 and later.",
+  "DOWNLOADS_MACOS_NAME": "macOS",
+  "DOWNLOADS_MACOS_NOTE": "Apple Silicon.",
+  "DOWNLOADS_IOS_NAME": "iOS",
+  "DOWNLOADS_IOS_NOTE": "iPhone and iPad.",
+  "DOWNLOADS_ANDROID_NAME": "Android",
+  "DOWNLOADS_ANDROID_NOTE": "Phones and tablets."
 }

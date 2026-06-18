@@ -113,6 +113,7 @@
   "GALLERY_PAGINATION_PAGE_OF": "Pagina {current} din {total}",
   "FOOTER_LINK_FEATURES": "Funcții",
   "FOOTER_LINK_PRICING": "Prețuri",
+  "FOOTER_LINK_DOWNLOADS": "Descărcări",
   "FOOTER_LINK_STATUS": "Stare",
   "COMMON_PRIVACY": "Confidențialitate",
   "COMMON_TERMS": "Termeni",
@@ -1601,5 +1602,18 @@
   "OBSERVATORY_FETCH_ERROR": "Nu s-au putut încărca statisticile",
   "HOME_META_TITLE": "Surprinde, încarcă și distribuie cele mai bune momente",
   "HOME_META_DESCRIPTION": "Snipp este un instrument gratuit pentru capturi de ecran și videoclipuri. Surprinde, încarcă și distribuie instantaneu clipurile și capturile tale din jocuri.",
-  "POST_META_FALLBACK_DESCRIPTION": "{title} de @{username} pe Snipp. Încarcă, distribuie și găzduiește gratuit capturile de ecran și clipurile tale."
+  "POST_META_FALLBACK_DESCRIPTION": "{title} de @{username} pe Snipp. Încarcă, distribuie și găzduiește gratuit capturile de ecran și clipurile tale.",
+  "DOWNLOADS_META_TITLE": "Descarcă Snipp",
+  "DOWNLOADS_META_DESCRIPTION": "Obține Snipp pe Windows, macOS, iOS și Android. Capturează, încarcă și distribuie capturile de ecran și clipurile tale de oriunde.",
+  "DOWNLOADS_HEADING": "Descarcă Snipp",
+  "DOWNLOADS_SUBHEADING": "Capturează, încarcă și distribuie de oriunde. Aplicații pentru fiecare platformă.",
+  "DOWNLOADS_COMING_SOON": "În curând",
+  "DOWNLOADS_WINDOWS_NAME": "Windows",
+  "DOWNLOADS_WINDOWS_NOTE": "Windows 10 și ulterior.",
+  "DOWNLOADS_MACOS_NAME": "macOS",
+  "DOWNLOADS_MACOS_NOTE": "Apple Silicon.",
+  "DOWNLOADS_IOS_NAME": "iOS",
+  "DOWNLOADS_IOS_NOTE": "iPhone și iPad.",
+  "DOWNLOADS_ANDROID_NAME": "Android",
+  "DOWNLOADS_ANDROID_NOTE": "Telefoane și tablete."
 }

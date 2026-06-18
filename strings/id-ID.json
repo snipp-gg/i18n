@@ -113,6 +113,7 @@
   "GALLERY_PAGINATION_PAGE_OF": "Halaman {current} dari {total}",
   "FOOTER_LINK_FEATURES": "Fitur",
   "FOOTER_LINK_PRICING": "Harga",
+  "FOOTER_LINK_DOWNLOADS": "Unduhan",
   "FOOTER_LINK_STATUS": "Status",
   "COMMON_PRIVACY": "Privasi",
   "COMMON_TERMS": "Ketentuan",
@@ -1601,5 +1602,18 @@
   "OBSERVATORY_FETCH_ERROR": "Gagal memuat analitik",
   "HOME_META_TITLE": "Abadikan, unggah, dan bagikan momen terbaikmu",
   "HOME_META_DESCRIPTION": "Snipp adalah alat unggah tangkapan layar dan video gratis. Abadikan, unggah, dan bagikan klip game serta tangkapan layarmu secara instan.",
-  "POST_META_FALLBACK_DESCRIPTION": "{title} oleh @{username} di Snipp. Unggah, bagikan, dan hosting tangkapan layar serta klipmu secara gratis."
+  "POST_META_FALLBACK_DESCRIPTION": "{title} oleh @{username} di Snipp. Unggah, bagikan, dan hosting tangkapan layar serta klipmu secara gratis.",
+  "DOWNLOADS_META_TITLE": "Unduh Snipp",
+  "DOWNLOADS_META_DESCRIPTION": "Dapatkan Snipp di Windows, macOS, iOS, dan Android. Tangkap, unggah, dan bagikan tangkapan layar serta klip kamu dari mana saja.",
+  "DOWNLOADS_HEADING": "Unduh Snipp",
+  "DOWNLOADS_SUBHEADING": "Tangkap, unggah, dan bagikan dari mana saja. Aplikasi untuk setiap platform.",
+  "DOWNLOADS_COMING_SOON": "Segera hadir",
+  "DOWNLOADS_WINDOWS_NAME": "Windows",
+  "DOWNLOADS_WINDOWS_NOTE": "Windows 10 dan yang lebih baru.",
+  "DOWNLOADS_MACOS_NAME": "macOS",
+  "DOWNLOADS_MACOS_NOTE": "Apple Silicon.",
+  "DOWNLOADS_IOS_NAME": "iOS",
+  "DOWNLOADS_IOS_NOTE": "iPhone dan iPad.",
+  "DOWNLOADS_ANDROID_NAME": "Android",
+  "DOWNLOADS_ANDROID_NOTE": "Ponsel dan tablet."
 }

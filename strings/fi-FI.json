@@ -113,6 +113,7 @@
   "GALLERY_PAGINATION_PAGE_OF": "Sivu {current} / {total}",
   "FOOTER_LINK_FEATURES": "Ominaisuudet",
   "FOOTER_LINK_PRICING": "Hinnoittelu",
+  "FOOTER_LINK_DOWNLOADS": "Lataukset",
   "FOOTER_LINK_STATUS": "Tila",
   "COMMON_PRIVACY": "Tietosuoja",
   "COMMON_TERMS": "Käyttöehdot",
@@ -1601,5 +1602,18 @@
   "OBSERVATORY_FETCH_ERROR": "Analytiikan lataus epäonnistui",
   "HOME_META_TITLE": "Kuvaa, lataa ja jaa parhaat hetkesi",
   "HOME_META_DESCRIPTION": "Snipp on ilmainen työkalu kuvakaappausten ja videoiden jakamiseen. Kuvaa, lataa ja jaa pelileikkeesi ja kuvakaappauksesi hetkessä.",
-  "POST_META_FALLBACK_DESCRIPTION": "{title} käyttäjältä @{username} Snipp-palvelussa. Lataa, jaa ja säilytä kuvakaappauksesi ja leikkeesi ilmaiseksi."
+  "POST_META_FALLBACK_DESCRIPTION": "{title} käyttäjältä @{username} Snipp-palvelussa. Lataa, jaa ja säilytä kuvakaappauksesi ja leikkeesi ilmaiseksi.",
+  "DOWNLOADS_META_TITLE": "Lataa Snipp",
+  "DOWNLOADS_META_DESCRIPTION": "Hanki Snipp Windowsille, macOS:lle, iOS:lle ja Androidille. Kaappaa, lataa ja jaa kuvakaappauksesi ja leikkeesi mistä tahansa.",
+  "DOWNLOADS_HEADING": "Lataa Snipp",
+  "DOWNLOADS_SUBHEADING": "Kaappaa, lataa ja jaa mistä tahansa. Sovellukset jokaiselle alustalle.",
+  "DOWNLOADS_COMING_SOON": "Tulossa pian",
+  "DOWNLOADS_WINDOWS_NAME": "Windows",
+  "DOWNLOADS_WINDOWS_NOTE": "Windows 10 ja uudemmat.",
+  "DOWNLOADS_MACOS_NAME": "macOS",
+  "DOWNLOADS_MACOS_NOTE": "Apple Silicon.",
+  "DOWNLOADS_IOS_NAME": "iOS",
+  "DOWNLOADS_IOS_NOTE": "iPhone ja iPad.",
+  "DOWNLOADS_ANDROID_NAME": "Android",
+  "DOWNLOADS_ANDROID_NOTE": "Puhelimet ja tabletit."
 }

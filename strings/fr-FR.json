@@ -113,6 +113,7 @@
   "GALLERY_PAGINATION_PAGE_OF": "Page {current} sur {total}",
   "FOOTER_LINK_FEATURES": "Fonctionnalités",
   "FOOTER_LINK_PRICING": "Tarifs",
+  "FOOTER_LINK_DOWNLOADS": "Téléchargements",
   "FOOTER_LINK_STATUS": "État",
   "COMMON_PRIVACY": "Confidentialité",
   "COMMON_TERMS": "Conditions",
@@ -1601,5 +1602,18 @@
   "OBSERVATORY_FETCH_ERROR": "Échec du chargement des statistiques",
   "HOME_META_TITLE": "Capturez, partagez et revivez vos meilleurs moments",
   "HOME_META_DESCRIPTION": "Snipp est un outil gratuit de capture d'écran et de partage de vidéos. Capturez et partagez vos clips de jeu et screenshots en un instant.",
-  "POST_META_FALLBACK_DESCRIPTION": "{title} par @{username} sur Snipp. Importez, partagez et hébergez vos captures d'écran et vos clips gratuitement."
+  "POST_META_FALLBACK_DESCRIPTION": "{title} par @{username} sur Snipp. Importez, partagez et hébergez vos captures d'écran et vos clips gratuitement.",
+  "DOWNLOADS_META_TITLE": "Télécharger Snipp",
+  "DOWNLOADS_META_DESCRIPTION": "Obtenez Snipp sur Windows, macOS, iOS et Android. Capturez, importez et partagez vos captures d'écran et vos clips où que vous soyez.",
+  "DOWNLOADS_HEADING": "Télécharger Snipp",
+  "DOWNLOADS_SUBHEADING": "Capturez, importez et partagez où que vous soyez. Des applications pour toutes les plateformes.",
+  "DOWNLOADS_COMING_SOON": "Bientôt disponible",
+  "DOWNLOADS_WINDOWS_NAME": "Windows",
+  "DOWNLOADS_WINDOWS_NOTE": "Windows 10 et versions ultérieures.",
+  "DOWNLOADS_MACOS_NAME": "macOS",
+  "DOWNLOADS_MACOS_NOTE": "Apple Silicon.",
+  "DOWNLOADS_IOS_NAME": "iOS",
+  "DOWNLOADS_IOS_NOTE": "iPhone et iPad.",
+  "DOWNLOADS_ANDROID_NAME": "Android",
+  "DOWNLOADS_ANDROID_NOTE": "Téléphones et tablettes."
 }

@@ -113,6 +113,7 @@
   "GALLERY_PAGINATION_PAGE_OF": "Strona {current} z {total}",
   "FOOTER_LINK_FEATURES": "Funkcje",
   "FOOTER_LINK_PRICING": "Cennik",
+  "FOOTER_LINK_DOWNLOADS": "Pobieranie",
   "FOOTER_LINK_STATUS": "Status",
   "COMMON_PRIVACY": "Prywatność",
   "COMMON_TERMS": "Warunki",
@@ -1601,5 +1602,18 @@
   "OBSERVATORY_FETCH_ERROR": "Nie udało się załadować analityki",
   "HOME_META_TITLE": "Przechwytuj, udostępniaj i dziel się najlepszymi momentami",
   "HOME_META_DESCRIPTION": "Snipp to darmowe narzędzie do przesyłania zrzutów ekranu i filmów. Przechwytuj i błyskawicznie udostępniaj swoje klipy z gier i zrzuty ekranu.",
-  "POST_META_FALLBACK_DESCRIPTION": "{title} od @{username} na Snipp. Przesyłaj, udostępniaj i hostuj swoje zrzuty ekranu oraz klipy za darmo."
+  "POST_META_FALLBACK_DESCRIPTION": "{title} od @{username} na Snipp. Przesyłaj, udostępniaj i hostuj swoje zrzuty ekranu oraz klipy za darmo.",
+  "DOWNLOADS_META_TITLE": "Pobierz Snipp",
+  "DOWNLOADS_META_DESCRIPTION": "Pobierz Snipp na Windows, macOS, iOS i Android. Przechwytuj, przesyłaj i udostępniaj swoje zrzuty ekranu oraz klipy z dowolnego miejsca.",
+  "DOWNLOADS_HEADING": "Pobierz Snipp",
+  "DOWNLOADS_SUBHEADING": "Przechwytuj, przesyłaj i udostępniaj z dowolnego miejsca. Aplikacje na każdą platformę.",
+  "DOWNLOADS_COMING_SOON": "Już wkrótce",
+  "DOWNLOADS_WINDOWS_NAME": "Windows",
+  "DOWNLOADS_WINDOWS_NOTE": "Windows 10 i nowszy.",
+  "DOWNLOADS_MACOS_NAME": "macOS",
+  "DOWNLOADS_MACOS_NOTE": "Apple Silicon.",
+  "DOWNLOADS_IOS_NAME": "iOS",
+  "DOWNLOADS_IOS_NOTE": "iPhone i iPad.",
+  "DOWNLOADS_ANDROID_NAME": "Android",
+  "DOWNLOADS_ANDROID_NOTE": "Telefony i tablety."
 }

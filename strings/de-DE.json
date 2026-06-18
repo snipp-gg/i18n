@@ -113,6 +113,7 @@
   "GALLERY_PAGINATION_PAGE_OF": "Seite {current} von {total}",
   "FOOTER_LINK_FEATURES": "Funktionen",
   "FOOTER_LINK_PRICING": "Preise",
+  "FOOTER_LINK_DOWNLOADS": "Downloads",
   "FOOTER_LINK_STATUS": "Status",
   "COMMON_PRIVACY": "Datenschutz",
   "COMMON_TERMS": "Bedingungen",
@@ -1601,5 +1602,18 @@
   "OBSERVATORY_FETCH_ERROR": "Analyse konnte nicht geladen werden",
   "HOME_META_TITLE": "Nimm auf, lade hoch und teile deine besten Momente",
   "HOME_META_DESCRIPTION": "Snipp ist ein kostenloses Tool zum Hochladen von Screenshots und Videos. Nimm deine Gaming-Clips und Screenshots auf, lade sie hoch und teile sie sofort.",
-  "POST_META_FALLBACK_DESCRIPTION": "{title} von @{username} auf Snipp. Lade deine Screenshots und Clips kostenlos hoch, teile und hoste sie."
+  "POST_META_FALLBACK_DESCRIPTION": "{title} von @{username} auf Snipp. Lade deine Screenshots und Clips kostenlos hoch, teile und hoste sie.",
+  "DOWNLOADS_META_TITLE": "Snipp herunterladen",
+  "DOWNLOADS_META_DESCRIPTION": "Hol dir Snipp für Windows, macOS, iOS und Android. Erstelle, lade hoch und teile deine Screenshots und Clips von überall.",
+  "DOWNLOADS_HEADING": "Snipp herunterladen",
+  "DOWNLOADS_SUBHEADING": "Erstelle, lade hoch und teile von überall. Apps für jede Plattform.",
+  "DOWNLOADS_COMING_SOON": "Demnächst verfügbar",
+  "DOWNLOADS_WINDOWS_NAME": "Windows",
+  "DOWNLOADS_WINDOWS_NOTE": "Windows 10 und neuer.",
+  "DOWNLOADS_MACOS_NAME": "macOS",
+  "DOWNLOADS_MACOS_NOTE": "Apple Silicon.",
+  "DOWNLOADS_IOS_NAME": "iOS",
+  "DOWNLOADS_IOS_NOTE": "iPhone und iPad.",
+  "DOWNLOADS_ANDROID_NAME": "Android",
+  "DOWNLOADS_ANDROID_NOTE": "Smartphones und Tablets."
 }

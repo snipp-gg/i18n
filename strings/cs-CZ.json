@@ -113,6 +113,7 @@
   "GALLERY_PAGINATION_PAGE_OF": "Stránka {current} z {total}",
   "FOOTER_LINK_FEATURES": "Funkce",
   "FOOTER_LINK_PRICING": "Ceník",
+  "FOOTER_LINK_DOWNLOADS": "Ke stažení",
   "FOOTER_LINK_STATUS": "Stav",
   "COMMON_PRIVACY": "Soukromí",
   "COMMON_TERMS": "Podmínky",
@@ -1601,5 +1602,18 @@
   "OBSERVATORY_FETCH_ERROR": "Nepodařilo se načíst analytiku",
   "HOME_META_TITLE": "Zachyťte, nahrajte a sdílejte své nejlepší momenty",
   "HOME_META_DESCRIPTION": "Snipp je bezplatný nástroj pro nahrávání screenshotů a videí. Zachyťte, nahrajte a okamžitě sdílejte své herní klipy a snímky obrazovky.",
-  "POST_META_FALLBACK_DESCRIPTION": "{title} od @{username} na Snipp. Nahrávejte, sdílejte a hostujte své snímky obrazovky a klipy zdarma."
+  "POST_META_FALLBACK_DESCRIPTION": "{title} od @{username} na Snipp. Nahrávejte, sdílejte a hostujte své snímky obrazovky a klipy zdarma.",
+  "DOWNLOADS_META_TITLE": "Stáhnout Snipp",
+  "DOWNLOADS_META_DESCRIPTION": "Získej Snipp pro Windows, macOS, iOS a Android. Zachycuj, nahrávej a sdílej své snímky obrazovky a klipy odkudkoli.",
+  "DOWNLOADS_HEADING": "Stáhnout Snipp",
+  "DOWNLOADS_SUBHEADING": "Zachycuj, nahrávej a sdílej odkudkoli. Aplikace pro každou platformu.",
+  "DOWNLOADS_COMING_SOON": "Již brzy",
+  "DOWNLOADS_WINDOWS_NAME": "Windows",
+  "DOWNLOADS_WINDOWS_NOTE": "Windows 10 a novější.",
+  "DOWNLOADS_MACOS_NAME": "macOS",
+  "DOWNLOADS_MACOS_NOTE": "Apple Silicon.",
+  "DOWNLOADS_IOS_NAME": "iOS",
+  "DOWNLOADS_IOS_NOTE": "iPhone a iPad.",
+  "DOWNLOADS_ANDROID_NAME": "Android",
+  "DOWNLOADS_ANDROID_NOTE": "Telefony a tablety."
 }

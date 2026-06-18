@@ -113,6 +113,7 @@
   "GALLERY_PAGINATION_PAGE_OF": "Página {current} de {total}",
   "FOOTER_LINK_FEATURES": "Funciones",
   "FOOTER_LINK_PRICING": "Precios",
+  "FOOTER_LINK_DOWNLOADS": "Descargas",
   "FOOTER_LINK_STATUS": "Estado",
   "COMMON_PRIVACY": "Privacidad",
   "COMMON_TERMS": "Términos",
@@ -1601,5 +1602,18 @@
   "OBSERVATORY_FETCH_ERROR": "No se pudieron cargar las analíticas",
   "HOME_META_TITLE": "Captura, sube y comparte tus mejores momentos",
   "HOME_META_DESCRIPTION": "Snipp es una herramienta gratuita para subir capturas y vídeos. Captura, sube y comparte tus clips de juego y capturas de pantalla al instante.",
-  "POST_META_FALLBACK_DESCRIPTION": "{title} de @{username} en Snipp. Sube, comparte y aloja tus capturas de pantalla y clips gratis."
+  "POST_META_FALLBACK_DESCRIPTION": "{title} de @{username} en Snipp. Sube, comparte y aloja tus capturas de pantalla y clips gratis.",
+  "DOWNLOADS_META_TITLE": "Descargar Snipp",
+  "DOWNLOADS_META_DESCRIPTION": "Consigue Snipp en Windows, macOS, iOS y Android. Captura, sube y comparte tus capturas de pantalla y clips desde cualquier lugar.",
+  "DOWNLOADS_HEADING": "Descargar Snipp",
+  "DOWNLOADS_SUBHEADING": "Captura, sube y comparte desde cualquier lugar. Apps para todas las plataformas.",
+  "DOWNLOADS_COMING_SOON": "Próximamente",
+  "DOWNLOADS_WINDOWS_NAME": "Windows",
+  "DOWNLOADS_WINDOWS_NOTE": "Windows 10 y posteriores.",
+  "DOWNLOADS_MACOS_NAME": "macOS",
+  "DOWNLOADS_MACOS_NOTE": "Apple Silicon.",
+  "DOWNLOADS_IOS_NAME": "iOS",
+  "DOWNLOADS_IOS_NOTE": "iPhone y iPad.",
+  "DOWNLOADS_ANDROID_NAME": "Android",
+  "DOWNLOADS_ANDROID_NOTE": "Teléfonos y tabletas."
 }

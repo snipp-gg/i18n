@@ -113,6 +113,7 @@
   "GALLERY_PAGINATION_PAGE_OF": "Pagina {current} van {total}",
   "FOOTER_LINK_FEATURES": "Functies",
   "FOOTER_LINK_PRICING": "Prijzen",
+  "FOOTER_LINK_DOWNLOADS": "Downloads",
   "FOOTER_LINK_STATUS": "Status",
   "COMMON_PRIVACY": "Privacy",
   "COMMON_TERMS": "Voorwaarden",
@@ -1601,5 +1602,18 @@
   "OBSERVATORY_FETCH_ERROR": "Analytics laden mislukt",
   "HOME_META_TITLE": "Leg je beste momenten vast, upload en deel ze",
   "HOME_META_DESCRIPTION": "Snipp is een gratis tool om screenshots en video's te uploaden. Leg je gameclips en screenshots vast en deel ze meteen.",
-  "POST_META_FALLBACK_DESCRIPTION": "{title} door @{username} op Snipp. Upload, deel en host je screenshots en clips gratis."
+  "POST_META_FALLBACK_DESCRIPTION": "{title} door @{username} op Snipp. Upload, deel en host je screenshots en clips gratis.",
+  "DOWNLOADS_META_TITLE": "Snipp downloaden",
+  "DOWNLOADS_META_DESCRIPTION": "Haal Snipp op Windows, macOS, iOS en Android. Leg vast, upload en deel je screenshots en clips vanaf overal.",
+  "DOWNLOADS_HEADING": "Snipp downloaden",
+  "DOWNLOADS_SUBHEADING": "Leg vast, upload en deel vanaf overal. Apps voor elk platform.",
+  "DOWNLOADS_COMING_SOON": "Binnenkort beschikbaar",
+  "DOWNLOADS_WINDOWS_NAME": "Windows",
+  "DOWNLOADS_WINDOWS_NOTE": "Windows 10 en nieuwer.",
+  "DOWNLOADS_MACOS_NAME": "macOS",
+  "DOWNLOADS_MACOS_NOTE": "Apple Silicon.",
+  "DOWNLOADS_IOS_NAME": "iOS",
+  "DOWNLOADS_IOS_NOTE": "iPhone en iPad.",
+  "DOWNLOADS_ANDROID_NAME": "Android",
+  "DOWNLOADS_ANDROID_NOTE": "Telefoons en tablets."
 }

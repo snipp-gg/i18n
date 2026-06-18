@@ -113,6 +113,7 @@
   "GALLERY_PAGINATION_PAGE_OF": "{total}페이지 중 {current}페이지",
   "FOOTER_LINK_FEATURES": "기능",
   "FOOTER_LINK_PRICING": "요금제",
+  "FOOTER_LINK_DOWNLOADS": "다운로드",
   "FOOTER_LINK_STATUS": "상태",
   "COMMON_PRIVACY": "개인정보 보호",
   "COMMON_TERMS": "약관",
@@ -1601,5 +1602,18 @@
   "OBSERVATORY_FETCH_ERROR": "분석을 불러오지 못했습니다",
   "HOME_META_TITLE": "캡처하고, 업로드하고, 최고의 순간을 공유하세요",
   "HOME_META_DESCRIPTION": "Snipp는 무료 스크린샷 및 영상 업로드 도구입니다. 게임 클립과 스크린샷을 캡처해 바로 업로드하고 공유하세요.",
-  "POST_META_FALLBACK_DESCRIPTION": "Snipp에서 @{username}님이 올린 {title}. 스크린샷과 클립을 무료로 업로드하고, 공유하고, 호스팅하세요."
+  "POST_META_FALLBACK_DESCRIPTION": "Snipp에서 @{username}님이 올린 {title}. 스크린샷과 클립을 무료로 업로드하고, 공유하고, 호스팅하세요.",
+  "DOWNLOADS_META_TITLE": "Snipp 다운로드",
+  "DOWNLOADS_META_DESCRIPTION": "Windows, macOS, iOS, Android에서 Snipp을 받아보세요. 어디서나 스크린샷과 클립을 캡처하고 업로드하고 공유하세요.",
+  "DOWNLOADS_HEADING": "Snipp 다운로드",
+  "DOWNLOADS_SUBHEADING": "어디서나 캡처하고 업로드하고 공유하세요. 모든 플랫폼을 위한 앱.",
+  "DOWNLOADS_COMING_SOON": "출시 예정",
+  "DOWNLOADS_WINDOWS_NAME": "Windows",
+  "DOWNLOADS_WINDOWS_NOTE": "Windows 10 이상.",
+  "DOWNLOADS_MACOS_NAME": "macOS",
+  "DOWNLOADS_MACOS_NOTE": "Apple Silicon.",
+  "DOWNLOADS_IOS_NAME": "iOS",
+  "DOWNLOADS_IOS_NOTE": "iPhone 및 iPad.",
+  "DOWNLOADS_ANDROID_NAME": "Android",
+  "DOWNLOADS_ANDROID_NOTE": "휴대폰 및 태블릿."
 }

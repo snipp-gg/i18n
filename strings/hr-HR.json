@@ -113,6 +113,7 @@
   "GALLERY_PAGINATION_PAGE_OF": "Stranica {current} od {total}",
   "FOOTER_LINK_FEATURES": "Značajke",
   "FOOTER_LINK_PRICING": "Cijene",
+  "FOOTER_LINK_DOWNLOADS": "Preuzimanja",
   "FOOTER_LINK_STATUS": "Status",
   "COMMON_PRIVACY": "Privatnost",
   "COMMON_TERMS": "Uvjeti",
@@ -1601,5 +1602,18 @@
   "OBSERVATORY_FETCH_ERROR": "Učitavanje analitike nije uspjelo",
   "HOME_META_TITLE": "Snimi, učitaj i podijeli svoje najbolje trenutke",
   "HOME_META_DESCRIPTION": "Snipp je besplatan alat za učitavanje snimki zaslona i videa. Snimi, učitaj i odmah podijeli svoje gaming isječke i snimke zaslona.",
-  "POST_META_FALLBACK_DESCRIPTION": "{title} korisnika @{username} na Snippu. Učitavaj, dijeli i hostaj svoje snimke zaslona i isječke besplatno."
+  "POST_META_FALLBACK_DESCRIPTION": "{title} korisnika @{username} na Snippu. Učitavaj, dijeli i hostaj svoje snimke zaslona i isječke besplatno.",
+  "DOWNLOADS_META_TITLE": "Preuzmi Snipp",
+  "DOWNLOADS_META_DESCRIPTION": "Nabavi Snipp za Windows, macOS, iOS i Android. Snimaj, prenosi i dijeli svoje snimke zaslona i isječke s bilo kojeg mjesta.",
+  "DOWNLOADS_HEADING": "Preuzmi Snipp",
+  "DOWNLOADS_SUBHEADING": "Snimaj, prenosi i dijeli s bilo kojeg mjesta. Aplikacije za svaku platformu.",
+  "DOWNLOADS_COMING_SOON": "Uskoro",
+  "DOWNLOADS_WINDOWS_NAME": "Windows",
+  "DOWNLOADS_WINDOWS_NOTE": "Windows 10 i noviji.",
+  "DOWNLOADS_MACOS_NAME": "macOS",
+  "DOWNLOADS_MACOS_NOTE": "Apple Silicon.",
+  "DOWNLOADS_IOS_NAME": "iOS",
+  "DOWNLOADS_IOS_NOTE": "iPhone i iPad.",
+  "DOWNLOADS_ANDROID_NAME": "Android",
+  "DOWNLOADS_ANDROID_NOTE": "Telefoni i tableti."
 }

@@ -113,6 +113,7 @@
   "GALLERY_PAGINATION_PAGE_OF": "Trang {current} / {total}",
   "FOOTER_LINK_FEATURES": "Tính năng",
   "FOOTER_LINK_PRICING": "Bảng giá",
+  "FOOTER_LINK_DOWNLOADS": "Tải xuống",
   "FOOTER_LINK_STATUS": "Trạng thái",
   "COMMON_PRIVACY": "Quyền riêng tư",
   "COMMON_TERMS": "Điều khoản",
@@ -1601,5 +1602,18 @@
   "OBSERVATORY_FETCH_ERROR": "Không thể tải phân tích",
   "HOME_META_TITLE": "Ghi lại, tải lên và chia sẻ những khoảnh khắc đáng nhớ nhất",
   "HOME_META_DESCRIPTION": "Snipp là công cụ tải ảnh chụp màn hình và video miễn phí. Ghi lại, tải lên và chia sẻ clip game cùng ảnh chụp màn hình của bạn ngay tức thì.",
-  "POST_META_FALLBACK_DESCRIPTION": "{title} bởi @{username} trên Snipp. Tải lên, chia sẻ và lưu trữ ảnh chụp màn hình cùng video clip của bạn miễn phí."
+  "POST_META_FALLBACK_DESCRIPTION": "{title} bởi @{username} trên Snipp. Tải lên, chia sẻ và lưu trữ ảnh chụp màn hình cùng video clip của bạn miễn phí.",
+  "DOWNLOADS_META_TITLE": "Tải Snipp",
+  "DOWNLOADS_META_DESCRIPTION": "Nhận Snipp trên Windows, macOS, iOS và Android. Chụp, tải lên và chia sẻ ảnh chụp màn hình cùng các đoạn clip của bạn từ bất cứ đâu.",
+  "DOWNLOADS_HEADING": "Tải Snipp",
+  "DOWNLOADS_SUBHEADING": "Chụp, tải lên và chia sẻ từ bất cứ đâu. Ứng dụng cho mọi nền tảng.",
+  "DOWNLOADS_COMING_SOON": "Sắp ra mắt",
+  "DOWNLOADS_WINDOWS_NAME": "Windows",
+  "DOWNLOADS_WINDOWS_NOTE": "Windows 10 trở lên.",
+  "DOWNLOADS_MACOS_NAME": "macOS",
+  "DOWNLOADS_MACOS_NOTE": "Apple Silicon.",
+  "DOWNLOADS_IOS_NAME": "iOS",
+  "DOWNLOADS_IOS_NOTE": "iPhone và iPad.",
+  "DOWNLOADS_ANDROID_NAME": "Android",
+  "DOWNLOADS_ANDROID_NOTE": "Điện thoại và máy tính bảng."
 }

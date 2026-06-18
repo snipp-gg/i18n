@@ -113,6 +113,7 @@
   "GALLERY_PAGINATION_PAGE_OF": "Σελίδα {current} από {total}",
   "FOOTER_LINK_FEATURES": "Χαρακτηριστικά",
   "FOOTER_LINK_PRICING": "Τιμολόγηση",
+  "FOOTER_LINK_DOWNLOADS": "Λήψεις",
   "FOOTER_LINK_STATUS": "Κατάσταση",
   "COMMON_PRIVACY": "Απόρρητο",
   "COMMON_TERMS": "Όροι",
@@ -1601,5 +1602,18 @@
   "OBSERVATORY_FETCH_ERROR": "Αποτυχία φόρτωσης στατιστικών",
   "HOME_META_TITLE": "Καταγράψτε, ανεβάστε και μοιραστείτε τις καλύτερές σας στιγμές",
   "HOME_META_DESCRIPTION": "Το Snipp είναι ένα δωρεάν εργαλείο για στιγμιότυπα και βίντεο. Καταγράψτε, ανεβάστε και μοιραστείτε τα κλιπ και τα screenshots σας στο λεπτό.",
-  "POST_META_FALLBACK_DESCRIPTION": "{title} από τον/την @{username} στο Snipp. Ανεβάστε, μοιραστείτε και φιλοξενήστε τα στιγμιότυπα οθόνης και τα κλιπ σας δωρεάν."
+  "POST_META_FALLBACK_DESCRIPTION": "{title} από τον/την @{username} στο Snipp. Ανεβάστε, μοιραστείτε και φιλοξενήστε τα στιγμιότυπα οθόνης και τα κλιπ σας δωρεάν.",
+  "DOWNLOADS_META_TITLE": "Λήψη του Snipp",
+  "DOWNLOADS_META_DESCRIPTION": "Αποκτήστε το Snipp σε Windows, macOS, iOS και Android. Καταγράψτε, ανεβάστε και μοιραστείτε τα στιγμιότυπα και τα κλιπ σας από οπουδήποτε.",
+  "DOWNLOADS_HEADING": "Λήψη του Snipp",
+  "DOWNLOADS_SUBHEADING": "Καταγράψτε, ανεβάστε και μοιραστείτε από οπουδήποτε. Εφαρμογές για κάθε πλατφόρμα.",
+  "DOWNLOADS_COMING_SOON": "Σύντομα διαθέσιμο",
+  "DOWNLOADS_WINDOWS_NAME": "Windows",
+  "DOWNLOADS_WINDOWS_NOTE": "Windows 10 και νεότερα.",
+  "DOWNLOADS_MACOS_NAME": "macOS",
+  "DOWNLOADS_MACOS_NOTE": "Apple Silicon.",
+  "DOWNLOADS_IOS_NAME": "iOS",
+  "DOWNLOADS_IOS_NOTE": "iPhone και iPad.",
+  "DOWNLOADS_ANDROID_NAME": "Android",
+  "DOWNLOADS_ANDROID_NOTE": "Τηλέφωνα και tablet."
 }

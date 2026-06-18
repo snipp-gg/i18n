@@ -113,6 +113,7 @@
   "GALLERY_PAGINATION_PAGE_OF": "Sayfa {current} / {total}",
   "FOOTER_LINK_FEATURES": "Özellikler",
   "FOOTER_LINK_PRICING": "Fiyatlandırma",
+  "FOOTER_LINK_DOWNLOADS": "İndirmeler",
   "FOOTER_LINK_STATUS": "Durum",
   "COMMON_PRIVACY": "Gizlilik",
   "COMMON_TERMS": "Şartlar",
@@ -1601,5 +1602,18 @@
   "OBSERVATORY_FETCH_ERROR": "Analizler yüklenemedi",
   "HOME_META_TITLE": "Yakala, yükle ve en güzel anlarını paylaş",
   "HOME_META_DESCRIPTION": "Snipp, ücretsiz bir ekran görüntüsü ve video yükleme aracıdır. Oyun kliplerini ve ekran görüntülerini anında yakala, yükle ve paylaş.",
-  "POST_META_FALLBACK_DESCRIPTION": "{title}, @{username} tarafından Snipp'te. Ekran görüntülerinizi ve kliplerinizi ücretsiz yükleyin, paylaşın ve barındırın."
+  "POST_META_FALLBACK_DESCRIPTION": "{title}, @{username} tarafından Snipp'te. Ekran görüntülerinizi ve kliplerinizi ücretsiz yükleyin, paylaşın ve barındırın.",
+  "DOWNLOADS_META_TITLE": "Snipp'i indir",
+  "DOWNLOADS_META_DESCRIPTION": "Snipp'i Windows, macOS, iOS ve Android'de edin. Ekran görüntülerini ve kliplerini her yerden yakala, yükle ve paylaş.",
+  "DOWNLOADS_HEADING": "Snipp'i indir",
+  "DOWNLOADS_SUBHEADING": "Her yerden yakala, yükle ve paylaş. Her platform için uygulamalar.",
+  "DOWNLOADS_COMING_SOON": "Yakında",
+  "DOWNLOADS_WINDOWS_NAME": "Windows",
+  "DOWNLOADS_WINDOWS_NOTE": "Windows 10 ve sonrası.",
+  "DOWNLOADS_MACOS_NAME": "macOS",
+  "DOWNLOADS_MACOS_NOTE": "Apple Silicon.",
+  "DOWNLOADS_IOS_NAME": "iOS",
+  "DOWNLOADS_IOS_NOTE": "iPhone ve iPad.",
+  "DOWNLOADS_ANDROID_NAME": "Android",
+  "DOWNLOADS_ANDROID_NOTE": "Telefonlar ve tabletler."
 }

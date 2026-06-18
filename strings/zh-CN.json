@@ -113,6 +113,7 @@
   "GALLERY_PAGINATION_PAGE_OF": "第 {current} 页，共 {total} 页",
   "FOOTER_LINK_FEATURES": "特征",
   "FOOTER_LINK_PRICING": "定价",
+  "FOOTER_LINK_DOWNLOADS": "下载",
   "FOOTER_LINK_STATUS": "状态",
   "COMMON_PRIVACY": "隐私",
   "COMMON_TERMS": "条款",
@@ -1601,5 +1602,18 @@
   "OBSERVATORY_FETCH_ERROR": "加载分析失败",
   "HOME_META_TITLE": "捕捉、上传、分享你的精彩瞬间",
   "HOME_META_DESCRIPTION": "Snipp 是一款免费的截图与视频上传工具，让你即刻捕捉、上传并分享游戏录像和截图。",
-  "POST_META_FALLBACK_DESCRIPTION": "{title} 由 @{username} 发布于 Snipp。免费上传、分享和托管你的截图与剪辑。"
+  "POST_META_FALLBACK_DESCRIPTION": "{title} 由 @{username} 发布于 Snipp。免费上传、分享和托管你的截图与剪辑。",
+  "DOWNLOADS_META_TITLE": "下载 Snipp",
+  "DOWNLOADS_META_DESCRIPTION": "在 Windows、macOS、iOS 和 Android 上获取 Snipp。随时随地捕捉、上传并分享你的截图和剪辑。",
+  "DOWNLOADS_HEADING": "下载 Snipp",
+  "DOWNLOADS_SUBHEADING": "随时随地捕捉、上传并分享。覆盖每个平台的应用。",
+  "DOWNLOADS_COMING_SOON": "即将推出",
+  "DOWNLOADS_WINDOWS_NAME": "Windows",
+  "DOWNLOADS_WINDOWS_NOTE": "Windows 10 及更高版本。",
+  "DOWNLOADS_MACOS_NAME": "macOS",
+  "DOWNLOADS_MACOS_NOTE": "Apple Silicon。",
+  "DOWNLOADS_IOS_NAME": "iOS",
+  "DOWNLOADS_IOS_NOTE": "iPhone 和 iPad。",
+  "DOWNLOADS_ANDROID_NAME": "Android",
+  "DOWNLOADS_ANDROID_NOTE": "手机和平板电脑。"
 }

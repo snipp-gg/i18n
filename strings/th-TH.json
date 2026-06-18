@@ -113,6 +113,7 @@
   "GALLERY_PAGINATION_PAGE_OF": "หน้า {current} จาก {total}",
   "FOOTER_LINK_FEATURES": "คุณสมบัติ",
   "FOOTER_LINK_PRICING": "ราคา",
+  "FOOTER_LINK_DOWNLOADS": "ดาวน์โหลด",
   "FOOTER_LINK_STATUS": "สถานะ",
   "COMMON_PRIVACY": "ความเป็นส่วนตัว",
   "COMMON_TERMS": "ข้อกำหนด",
@@ -1601,5 +1602,18 @@
   "OBSERVATORY_FETCH_ERROR": "โหลดการวิเคราะห์ไม่สำเร็จ",
   "HOME_META_TITLE": "บันทึก อัปโหลด และแชร์ช่วงเวลาดีๆ ของคุณ",
   "HOME_META_DESCRIPTION": "Snipp คือเครื่องมืออัปโหลดภาพหน้าจอและวิดีโอฟรี บันทึก อัปโหลด และแชร์คลิปเกมและภาพหน้าจอของคุณได้ทันที",
-  "POST_META_FALLBACK_DESCRIPTION": "{title} โดย @{username} บน Snipp อัปโหลด แชร์ และโฮสต์สกรีนช็อตและคลิปของคุณได้ฟรี"
+  "POST_META_FALLBACK_DESCRIPTION": "{title} โดย @{username} บน Snipp อัปโหลด แชร์ และโฮสต์สกรีนช็อตและคลิปของคุณได้ฟรี",
+  "DOWNLOADS_META_TITLE": "ดาวน์โหลด Snipp",
+  "DOWNLOADS_META_DESCRIPTION": "รับ Snipp บน Windows, macOS, iOS และ Android จับภาพ อัปโหลด และแชร์ภาพหน้าจอและคลิปของคุณได้จากทุกที่",
+  "DOWNLOADS_HEADING": "ดาวน์โหลด Snipp",
+  "DOWNLOADS_SUBHEADING": "จับภาพ อัปโหลด และแชร์ได้จากทุกที่ มีแอปสำหรับทุกแพลตฟอร์ม",
+  "DOWNLOADS_COMING_SOON": "เร็ว ๆ นี้",
+  "DOWNLOADS_WINDOWS_NAME": "Windows",
+  "DOWNLOADS_WINDOWS_NOTE": "Windows 10 ขึ้นไป",
+  "DOWNLOADS_MACOS_NAME": "macOS",
+  "DOWNLOADS_MACOS_NOTE": "Apple Silicon",
+  "DOWNLOADS_IOS_NAME": "iOS",
+  "DOWNLOADS_IOS_NOTE": "iPhone และ iPad",
+  "DOWNLOADS_ANDROID_NAME": "Android",
+  "DOWNLOADS_ANDROID_NOTE": "โทรศัพท์และแท็บเล็ต"
 }

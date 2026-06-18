@@ -113,6 +113,7 @@
   "GALLERY_PAGINATION_PAGE_OF": "Сторінка {current} з {total}",
   "FOOTER_LINK_FEATURES": "Можливості",
   "FOOTER_LINK_PRICING": "Ціни",
+  "FOOTER_LINK_DOWNLOADS": "Завантаження",
   "FOOTER_LINK_STATUS": "Статус",
   "COMMON_PRIVACY": "Конфіденційність",
   "COMMON_TERMS": "Умови",
@@ -1601,5 +1602,18 @@
   "OBSERVATORY_FETCH_ERROR": "Не вдалося завантажити аналітику",
   "HOME_META_TITLE": "Знімайте, завантажуйте та діліться найкращими моментами",
   "HOME_META_DESCRIPTION": "Snipp — безкоштовний інструмент для завантаження скриншотів і відео. Знімайте, завантажуйте та миттєво діліться ігровими кліпами й скриншотами.",
-  "POST_META_FALLBACK_DESCRIPTION": "{title} від @{username} на Snipp. Завантажуйте, діліться та зберігайте свої скриншоти й кліпи безкоштовно."
+  "POST_META_FALLBACK_DESCRIPTION": "{title} від @{username} на Snipp. Завантажуйте, діліться та зберігайте свої скриншоти й кліпи безкоштовно.",
+  "DOWNLOADS_META_TITLE": "Завантажити Snipp",
+  "DOWNLOADS_META_DESCRIPTION": "Установіть Snipp на Windows, macOS, iOS та Android. Знімайте, завантажуйте та діліться своїми скриншотами й кліпами звідусіль.",
+  "DOWNLOADS_HEADING": "Завантажити Snipp",
+  "DOWNLOADS_SUBHEADING": "Знімайте, завантажуйте та діліться звідусіль. Застосунки для кожної платформи.",
+  "DOWNLOADS_COMING_SOON": "Незабаром",
+  "DOWNLOADS_WINDOWS_NAME": "Windows",
+  "DOWNLOADS_WINDOWS_NOTE": "Windows 10 і новіші.",
+  "DOWNLOADS_MACOS_NAME": "macOS",
+  "DOWNLOADS_MACOS_NOTE": "Apple Silicon.",
+  "DOWNLOADS_IOS_NAME": "iOS",
+  "DOWNLOADS_IOS_NOTE": "iPhone та iPad.",
+  "DOWNLOADS_ANDROID_NAME": "Android",
+  "DOWNLOADS_ANDROID_NOTE": "Телефони та планшети."
 }

@@ -113,6 +113,7 @@
   "GALLERY_PAGINATION_PAGE_OF": "{total} ページ中 {current} ページ",
   "FOOTER_LINK_FEATURES": "機能",
   "FOOTER_LINK_PRICING": "料金",
+  "FOOTER_LINK_DOWNLOADS": "ダウンロード",
   "FOOTER_LINK_STATUS": "ステータス",
   "COMMON_PRIVACY": "プライバシー",
   "COMMON_TERMS": "規約",
@@ -1601,5 +1602,18 @@
   "OBSERVATORY_FETCH_ERROR": "アナリティクスを読み込めませんでした",
   "HOME_META_TITLE": "ベストな瞬間をキャプチャ、アップロード、シェア",
   "HOME_META_DESCRIPTION": "Snippは無料のスクリーンショット・動画アップロードツール。ゲームのクリップやスクショを今すぐキャプチャ、アップロード、シェアしよう。",
-  "POST_META_FALLBACK_DESCRIPTION": "@{username} さんによる「{title}」を Snipp で公開中。スクリーンショットやクリップを無料でアップロード、共有、ホスティングできます。"
+  "POST_META_FALLBACK_DESCRIPTION": "@{username} さんによる「{title}」を Snipp で公開中。スクリーンショットやクリップを無料でアップロード、共有、ホスティングできます。",
+  "DOWNLOADS_META_TITLE": "Snipp をダウンロード",
+  "DOWNLOADS_META_DESCRIPTION": "Windows、macOS、iOS、Android で Snipp を入手しよう。どこからでもスクリーンショットやクリップをキャプチャ、アップロード、共有できます。",
+  "DOWNLOADS_HEADING": "Snipp をダウンロード",
+  "DOWNLOADS_SUBHEADING": "どこからでもキャプチャ、アップロード、共有。あらゆるプラットフォーム向けのアプリ。",
+  "DOWNLOADS_COMING_SOON": "近日公開",
+  "DOWNLOADS_WINDOWS_NAME": "Windows",
+  "DOWNLOADS_WINDOWS_NOTE": "Windows 10 以降。",
+  "DOWNLOADS_MACOS_NAME": "macOS",
+  "DOWNLOADS_MACOS_NOTE": "Apple Silicon。",
+  "DOWNLOADS_IOS_NAME": "iOS",
+  "DOWNLOADS_IOS_NOTE": "iPhone と iPad。",
+  "DOWNLOADS_ANDROID_NAME": "Android",
+  "DOWNLOADS_ANDROID_NOTE": "スマートフォンとタブレット。"
 }

@@ -113,6 +113,7 @@
   "GALLERY_PAGINATION_PAGE_OF": "Side {current} av {total}",
   "FOOTER_LINK_FEATURES": "Funksjoner",
   "FOOTER_LINK_PRICING": "Priser",
+  "FOOTER_LINK_DOWNLOADS": "Nedlastinger",
   "FOOTER_LINK_STATUS": "Status",
   "COMMON_PRIVACY": "Personvern",
   "COMMON_TERMS": "Vilkår",
@@ -1601,5 +1602,18 @@
   "OBSERVATORY_FETCH_ERROR": "Kunne ikke laste inn analyse",
   "HOME_META_TITLE": "Fang, last opp og del de beste øyeblikkene dine",
   "HOME_META_DESCRIPTION": "Snipp er et gratis verktøy for opplasting av skjermbilder og video. Fang, last opp og del gaming-klippene og skjermbildene dine umiddelbart.",
-  "POST_META_FALLBACK_DESCRIPTION": "{title} av @{username} på Snipp. Last opp, del og host skjermbildene og klippene dine gratis."
+  "POST_META_FALLBACK_DESCRIPTION": "{title} av @{username} på Snipp. Last opp, del og host skjermbildene og klippene dine gratis.",
+  "DOWNLOADS_META_TITLE": "Last ned Snipp",
+  "DOWNLOADS_META_DESCRIPTION": "Få Snipp på Windows, macOS, iOS og Android. Ta opp, last opp og del skjermbildene og klippene dine fra hvor som helst.",
+  "DOWNLOADS_HEADING": "Last ned Snipp",
+  "DOWNLOADS_SUBHEADING": "Ta opp, last opp og del fra hvor som helst. Apper for alle plattformer.",
+  "DOWNLOADS_COMING_SOON": "Kommer snart",
+  "DOWNLOADS_WINDOWS_NAME": "Windows",
+  "DOWNLOADS_WINDOWS_NOTE": "Windows 10 og nyere.",
+  "DOWNLOADS_MACOS_NAME": "macOS",
+  "DOWNLOADS_MACOS_NOTE": "Apple Silicon.",
+  "DOWNLOADS_IOS_NAME": "iOS",
+  "DOWNLOADS_IOS_NOTE": "iPhone og iPad.",
+  "DOWNLOADS_ANDROID_NAME": "Android",
+  "DOWNLOADS_ANDROID_NOTE": "Telefoner og nettbrett."
 }
