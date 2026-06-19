@@ -1114,7 +1114,7 @@
   "SUPPORT_GETTING_STARTED_ACCOUNT_P1_LINK": "сторінку входу",
   "SUPPORT_GETTING_STARTED_ACCOUNT_P1_AFTER_LINK": "щоб увійти за допомогою Discord або магічного посилання, надісланого на вашу електронну пошту.",
   "SUPPORT_GETTING_STARTED_ACCOUNT_ITEM_NO_PASSWORD": "Пароль не потрібен. Ваш акаунт створюється автоматично під час першого входу.",
-  "SUPPORT_GETTING_STARTED_ACCOUNT_ITEM_DISCORD_IMPORT": "Якщо ви входите за допомогою Discord, ваше ім'я користувача та аватар буде імпортовано автоматично.",
+  "SUPPORT_GETTING_STARTED_ACCOUNT_ITEM_DISCORD_IMPORT": "If you sign in with Discord, your username will be imported automatically.",
   "SUPPORT_GETTING_STARTED_PROFILE_HEADING": "Налаштуйте свій профіль",
   "SUPPORT_GETTING_STARTED_PROFILE_P1_BEFORE_LINK": "Відвідайте свої",
   "SUPPORT_GETTING_STARTED_PROFILE_P1_AFTER_LINK": "щоб налаштувати зображення профілю, банер, опис та посилання на соцмережі.",
