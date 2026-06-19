@@ -806,7 +806,7 @@
   "USER_PROFILE_NOT_FOUND_PAGE_TITLE": "Bruker ikke funnet",
   "USER_PROFILE_BLOCKED_PAGE_TITLE": "Bruker blokkert",
   "USER_PROFILE_SUSPENDED_PAGE_TITLE": "Bruker suspendert",
-  "USER_PROFILE_NOT_FOUND_MESSAGE": "Med mindre du har en tidsmaskin, finnes ikke brukeren du leter etter. Prøv å søke etter en annen.",
+  "USER_PROFILE_NOT_FOUND_MESSAGE": "Med mindre du har en tidsmaskin, finnes ikke brukeren du leter etter. Prøv å søke etter en annen bruker.",
   "USER_PROFILE_BLOCKED_HEADING": "Blokkert",
   "USER_PROFILE_BLOCKED_BY_YOU_MESSAGE": "Du har blokkert denne brukeren. Du kan ikke se profilen eller innholdet deres.",
   "USER_PROFILE_BLOCKED_BY_THEM_MESSAGE": "@{username} har blokkert deg. Du kan ikke se profilen eller innholdet deres.",

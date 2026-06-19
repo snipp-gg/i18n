@@ -806,7 +806,7 @@
   "USER_PROFILE_NOT_FOUND_PAGE_TITLE": "Käyttäjää ei löytynyt",
   "USER_PROFILE_BLOCKED_PAGE_TITLE": "Käyttäjä estetty",
   "USER_PROFILE_SUSPENDED_PAGE_TITLE": "Käyttäjä jäädytetty",
-  "USER_PROFILE_NOT_FOUND_MESSAGE": "Ellei sinulla ole aikakonetta, etsimääsi käyttäjää ei ole olemassa. Kokeile etsiä toista.",
+  "USER_PROFILE_NOT_FOUND_MESSAGE": "Ellei sinulla ole aikakonetta, etsimääsi käyttäjää ei ole olemassa. Kokeile etsiä toista käyttäjää.",
   "USER_PROFILE_BLOCKED_HEADING": "Estetty",
   "USER_PROFILE_BLOCKED_BY_YOU_MESSAGE": "Olet estänyt tämän käyttäjän. Et voi katsella hänen profiiliaan tai sisältöään.",
   "USER_PROFILE_BLOCKED_BY_THEM_MESSAGE": "@{username} on estänyt sinut. Et voi katsella hänen profiiliaan tai sisältöään.",

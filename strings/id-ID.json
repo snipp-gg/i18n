@@ -806,7 +806,7 @@
   "USER_PROFILE_NOT_FOUND_PAGE_TITLE": "Pengguna Tidak Ditemukan",
   "USER_PROFILE_BLOCKED_PAGE_TITLE": "Pengguna Diblokir",
   "USER_PROFILE_SUSPENDED_PAGE_TITLE": "Pengguna Ditangguhkan",
-  "USER_PROFILE_NOT_FOUND_MESSAGE": "Kecuali Anda punya mesin waktu, pengguna yang Anda cari tidak ada. Coba cari yang lain.",
+  "USER_PROFILE_NOT_FOUND_MESSAGE": "Kecuali Anda punya mesin waktu, pengguna yang Anda cari tidak ada. Coba cari pengguna lain.",
   "USER_PROFILE_BLOCKED_HEADING": "Diblokir",
   "USER_PROFILE_BLOCKED_BY_YOU_MESSAGE": "Anda telah memblokir pengguna ini. Anda tidak dapat melihat profil atau konten mereka.",
   "USER_PROFILE_BLOCKED_BY_THEM_MESSAGE": "@{username} telah memblokir Anda. Anda tidak dapat melihat profil atau konten mereka.",

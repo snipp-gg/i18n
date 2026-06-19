@@ -806,7 +806,7 @@
   "USER_PROFILE_NOT_FOUND_PAGE_TITLE": "Gebruiker niet gevonden",
   "USER_PROFILE_BLOCKED_PAGE_TITLE": "Gebruiker geblokkeerd",
   "USER_PROFILE_SUSPENDED_PAGE_TITLE": "Gebruiker geschorst",
-  "USER_PROFILE_NOT_FOUND_MESSAGE": "Tenzij je een tijdmachine hebt, bestaat de gebruiker die je zoekt niet. Zoek een andere.",
+  "USER_PROFILE_NOT_FOUND_MESSAGE": "Tenzij je een tijdmachine hebt, bestaat de gebruiker die je zoekt niet. Zoek een andere gebruiker.",
   "USER_PROFILE_BLOCKED_HEADING": "Geblokkeerd",
   "USER_PROFILE_BLOCKED_BY_YOU_MESSAGE": "Je hebt deze gebruiker geblokkeerd. Je kunt hun profiel of content niet bekijken.",
   "USER_PROFILE_BLOCKED_BY_THEM_MESSAGE": "@{username} heeft je geblokkeerd. Je kunt hun profiel of content niet bekijken.",

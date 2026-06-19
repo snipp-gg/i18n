@@ -806,7 +806,7 @@
   "USER_PROFILE_NOT_FOUND_PAGE_TITLE": "Користувача не знайдено",
   "USER_PROFILE_BLOCKED_PAGE_TITLE": "Користувача заблоковано",
   "USER_PROFILE_SUSPENDED_PAGE_TITLE": "Користувача призупинено",
-  "USER_PROFILE_NOT_FOUND_MESSAGE": "Якщо у вас немає машини часу, користувача, якого ви шукаєте, не існує. Спробуйте знайти іншого.",
+  "USER_PROFILE_NOT_FOUND_MESSAGE": "Якщо у вас немає машини часу, користувача, якого ви шукаєте, не існує. Спробуйте знайти іншого користувача.",
   "USER_PROFILE_BLOCKED_HEADING": "Заблоковано",
   "USER_PROFILE_BLOCKED_BY_YOU_MESSAGE": "Ви заблокували цього користувача. Ви не можете переглядати його профіль чи вміст.",
   "USER_PROFILE_BLOCKED_BY_THEM_MESSAGE": "@{username} заблокував вас. Ви не можете переглядати його профіль чи вміст.",

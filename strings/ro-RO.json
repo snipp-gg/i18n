@@ -806,7 +806,7 @@
   "USER_PROFILE_NOT_FOUND_PAGE_TITLE": "Utilizator negăsit",
   "USER_PROFILE_BLOCKED_PAGE_TITLE": "Utilizator blocat",
   "USER_PROFILE_SUSPENDED_PAGE_TITLE": "Utilizator suspendat",
-  "USER_PROFILE_NOT_FOUND_MESSAGE": "Dacă nu cumva ai o mașină a timpului, utilizatorul pe care îl cauți nu există. Încearcă să cauți altul.",
+  "USER_PROFILE_NOT_FOUND_MESSAGE": "Dacă nu cumva ai o mașină a timpului, utilizatorul pe care îl cauți nu există. Încearcă să cauți alt utilizator.",
   "USER_PROFILE_BLOCKED_HEADING": "Blocat",
   "USER_PROFILE_BLOCKED_BY_YOU_MESSAGE": "Ai blocat acest utilizator. Nu îi poți vedea profilul sau conținutul.",
   "USER_PROFILE_BLOCKED_BY_THEM_MESSAGE": "@{username} te-a blocat. Nu îi poți vedea profilul sau conținutul.",

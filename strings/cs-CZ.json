@@ -806,7 +806,7 @@
   "USER_PROFILE_NOT_FOUND_PAGE_TITLE": "Uživatel nenalezen",
   "USER_PROFILE_BLOCKED_PAGE_TITLE": "Uživatel zablokován",
   "USER_PROFILE_SUSPENDED_PAGE_TITLE": "Uživatel pozastaven",
-  "USER_PROFILE_NOT_FOUND_MESSAGE": "Pokud nemáte stroj času, uživatel, kterého hledáte, neexistuje. Zkuste hledat jiného.",
+  "USER_PROFILE_NOT_FOUND_MESSAGE": "Pokud nemáte stroj času, uživatel, kterého hledáte, neexistuje. Zkuste hledat jiného uživatele.",
   "USER_PROFILE_BLOCKED_HEADING": "Zablokováno",
   "USER_PROFILE_BLOCKED_BY_YOU_MESSAGE": "Tohoto uživatele jste zablokovali. Nemůžete zobrazit jeho profil ani obsah.",
   "USER_PROFILE_BLOCKED_BY_THEM_MESSAGE": "@{username} vás zablokoval. Nemůžete zobrazit jeho profil ani obsah.",

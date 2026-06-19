@@ -806,7 +806,7 @@
   "USER_PROFILE_NOT_FOUND_PAGE_TITLE": "Hindi Nakitang User",
   "USER_PROFILE_BLOCKED_PAGE_TITLE": "Naka-block na User",
   "USER_PROFILE_SUSPENDED_PAGE_TITLE": "Suspendido na User",
-  "USER_PROFILE_NOT_FOUND_MESSAGE": "Maliban kung mayroon kang time machine, hindi umiiral ang user na hinahanap mo. Subukang maghanap ng iba.",
+  "USER_PROFILE_NOT_FOUND_MESSAGE": "Maliban kung mayroon kang time machine, hindi umiiral ang user na hinahanap mo. Subukang maghanap ng ibang user.",
   "USER_PROFILE_BLOCKED_HEADING": "Naka-block",
   "USER_PROFILE_BLOCKED_BY_YOU_MESSAGE": "Na-block mo ang user na ito. Hindi mo makikita ang kanilang profile o content.",
   "USER_PROFILE_BLOCKED_BY_THEM_MESSAGE": "Na-block ka ni @{username}. Hindi mo makikita ang kanilang profile o content.",

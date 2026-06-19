@@ -806,7 +806,7 @@
   "USER_PROFILE_NOT_FOUND_PAGE_TITLE": "Потребителят не е намерен",
   "USER_PROFILE_BLOCKED_PAGE_TITLE": "Потребителят е блокиран",
   "USER_PROFILE_SUSPENDED_PAGE_TITLE": "Потребителят е спрян",
-  "USER_PROFILE_NOT_FOUND_MESSAGE": "Освен ако нямате машина на времето, потребителят, който търсите, не съществува. Опитайте да потърсите друг.",
+  "USER_PROFILE_NOT_FOUND_MESSAGE": "Освен ако нямате машина на времето, потребителят, който търсите, не съществува. Опитайте да потърсите друг потребител.",
   "USER_PROFILE_BLOCKED_HEADING": "Блокиран",
   "USER_PROFILE_BLOCKED_BY_YOU_MESSAGE": "Блокирали сте този потребител. Не можете да видите профила или съдържанието му.",
   "USER_PROFILE_BLOCKED_BY_THEM_MESSAGE": "@{username} ви е блокирал. Не можете да видите профила или съдържанието му.",
