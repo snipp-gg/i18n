@@ -806,7 +806,7 @@
   "USER_PROFILE_NOT_FOUND_PAGE_TITLE": "ユーザーが見つかりません",
   "USER_PROFILE_BLOCKED_PAGE_TITLE": "User Blocked",
   "USER_PROFILE_SUSPENDED_PAGE_TITLE": "ユーザーは停止されました",
-  "USER_PROFILE_NOT_FOUND_MESSAGE": "Unless you have a time machine, the user you're looking for doesn't exist. Try searching another.",
+  "USER_PROFILE_NOT_FOUND_MESSAGE": "Unless you have a time machine, the user you're looking for doesn't exist. Try searching for another user.",
   "USER_PROFILE_BLOCKED_HEADING": "ブロック済み",
   "USER_PROFILE_BLOCKED_BY_YOU_MESSAGE": "あなたはこのユーザーをブロックしています。そのプロフィールやコンテンツを閲覧することはできません。",
   "USER_PROFILE_BLOCKED_BY_THEM_MESSAGE": "@{username} はあなたをブロックしています。そのプロフィールやコンテンツを閲覧することはできません。",
