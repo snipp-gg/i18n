@@ -1114,7 +1114,7 @@
   "SUPPORT_GETTING_STARTED_ACCOUNT_P1_LINK": "inlogpagina",
   "SUPPORT_GETTING_STARTED_ACCOUNT_P1_AFTER_LINK": "om in te loggen met Discord of een magic link die naar je e-mail wordt gestuurd.",
   "SUPPORT_GETTING_STARTED_ACCOUNT_ITEM_NO_PASSWORD": "Geen wachtwoord vereist. Je account wordt automatisch aangemaakt de eerste keer dat je inlogt.",
-  "SUPPORT_GETTING_STARTED_ACCOUNT_ITEM_DISCORD_IMPORT": "Als je inlogt met Discord, worden je gebruikersnaam en avatar automatisch geïmporteerd.",
+  "SUPPORT_GETTING_STARTED_ACCOUNT_ITEM_DISCORD_IMPORT": "Als je inlogt met Discord, wordt je gebruikersnaam automatisch geïmporteerd.",
   "SUPPORT_GETTING_STARTED_PROFILE_HEADING": "Stel je profiel in",
   "SUPPORT_GETTING_STARTED_PROFILE_P1_BEFORE_LINK": "Bezoek je",
   "SUPPORT_GETTING_STARTED_PROFILE_P1_AFTER_LINK": "om je profielfoto, banner, bio en sociale links aan te passen.",

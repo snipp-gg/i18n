@@ -1114,7 +1114,7 @@
   "SUPPORT_GETTING_STARTED_ACCOUNT_P1_LINK": "ログインページ",
   "SUPPORT_GETTING_STARTED_ACCOUNT_P1_AFTER_LINK": "Discordまたはメールに送られるマジックリンクでサインインしましょう。",
   "SUPPORT_GETTING_STARTED_ACCOUNT_ITEM_NO_PASSWORD": "パスワードは不要です。初めてサインインしたときにアカウントが自動的に作成されます。",
-  "SUPPORT_GETTING_STARTED_ACCOUNT_ITEM_DISCORD_IMPORT": "Discordでサインインすると、ユーザー名とアバターが自動的にインポートされます。",
+  "SUPPORT_GETTING_STARTED_ACCOUNT_ITEM_DISCORD_IMPORT": "Discordでサインインすると、ユーザー名が自動的にインポートされます。",
   "SUPPORT_GETTING_STARTED_PROFILE_HEADING": "プロフィールを設定する",
   "SUPPORT_GETTING_STARTED_PROFILE_P1_BEFORE_LINK": "以下にアクセスして、",
   "SUPPORT_GETTING_STARTED_PROFILE_P1_AFTER_LINK": "プロフィール画像、バナー、自己紹介、ソーシャルリンクをカスタマイズしましょう。",

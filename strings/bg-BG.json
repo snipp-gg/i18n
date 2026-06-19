@@ -1114,7 +1114,7 @@
   "SUPPORT_GETTING_STARTED_ACCOUNT_P1_LINK": "страницата за вход",
   "SUPPORT_GETTING_STARTED_ACCOUNT_P1_AFTER_LINK": ", за да влезете с Discord или магическа връзка, изпратена на имейла ви.",
   "SUPPORT_GETTING_STARTED_ACCOUNT_ITEM_NO_PASSWORD": "Не е необходима парола. Акаунтът ви се създава автоматично при първия ви вход.",
-  "SUPPORT_GETTING_STARTED_ACCOUNT_ITEM_DISCORD_IMPORT": "Ако влезете с Discord, потребителското ви име и аватар ще бъдат импортирани автоматично.",
+  "SUPPORT_GETTING_STARTED_ACCOUNT_ITEM_DISCORD_IMPORT": "Ако влезете с Discord, потребителското ви име ще бъде импортирано автоматично.",
   "SUPPORT_GETTING_STARTED_PROFILE_HEADING": "Настройте профила си",
   "SUPPORT_GETTING_STARTED_PROFILE_P1_BEFORE_LINK": "Посетете",
   "SUPPORT_GETTING_STARTED_PROFILE_P1_AFTER_LINK": ", за да персонализирате профилната си снимка, банер, биография и социални връзки.",

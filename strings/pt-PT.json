@@ -1114,7 +1114,7 @@
   "SUPPORT_GETTING_STARTED_ACCOUNT_P1_LINK": "página de início de sessão",
   "SUPPORT_GETTING_STARTED_ACCOUNT_P1_AFTER_LINK": "para iniciar sessão com Discord ou um link mágico enviado para o seu e-mail.",
   "SUPPORT_GETTING_STARTED_ACCOUNT_ITEM_NO_PASSWORD": "Sem palavra-passe necessária. A sua conta é criada automaticamente na primeira vez que inicia sessão.",
-  "SUPPORT_GETTING_STARTED_ACCOUNT_ITEM_DISCORD_IMPORT": "Se iniciar sessão com Discord, o seu nome de utilizador e avatar serão importados automaticamente.",
+  "SUPPORT_GETTING_STARTED_ACCOUNT_ITEM_DISCORD_IMPORT": "Se iniciar sessão com Discord, o seu nome de utilizador será importado automaticamente.",
   "SUPPORT_GETTING_STARTED_PROFILE_HEADING": "Configurar o Seu Perfil",
   "SUPPORT_GETTING_STARTED_PROFILE_P1_BEFORE_LINK": "Visite as suas",
   "SUPPORT_GETTING_STARTED_PROFILE_P1_AFTER_LINK": "para personalizar a sua foto de perfil, banner, bio e links sociais.",

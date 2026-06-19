@@ -1114,7 +1114,7 @@
   "SUPPORT_GETTING_STARTED_ACCOUNT_P1_LINK": "stranicu za prijavu",
   "SUPPORT_GETTING_STARTED_ACCOUNT_P1_AFTER_LINK": "da se prijavite preko Discord-a ili magičnim linkom poslatim na vaš imejl.",
   "SUPPORT_GETTING_STARTED_ACCOUNT_ITEM_NO_PASSWORD": "Lozinka nije potrebna. Vaš nalog se kreira automatski prvi put kada se prijavite.",
-  "SUPPORT_GETTING_STARTED_ACCOUNT_ITEM_DISCORD_IMPORT": "Ako se prijavite preko Discord-a, vaše korisničko ime i avatar biće automatski uvezeni.",
+  "SUPPORT_GETTING_STARTED_ACCOUNT_ITEM_DISCORD_IMPORT": "Ako se prijavite preko Discord-a, vaše korisničko ime biće automatski uvezeno.",
   "SUPPORT_GETTING_STARTED_PROFILE_HEADING": "Podesite svoj profil",
   "SUPPORT_GETTING_STARTED_PROFILE_P1_BEFORE_LINK": "Posetite svoja",
   "SUPPORT_GETTING_STARTED_PROFILE_P1_AFTER_LINK": "da prilagodite svoju profilnu sliku, baner, biografiju i društvene linkove.",

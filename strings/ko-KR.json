@@ -1114,7 +1114,7 @@
   "SUPPORT_GETTING_STARTED_ACCOUNT_P1_LINK": "로그인 페이지",
   "SUPPORT_GETTING_STARTED_ACCOUNT_P1_AFTER_LINK": "에서 Discord 또는 이메일로 받은 매직 링크로 로그인하세요.",
   "SUPPORT_GETTING_STARTED_ACCOUNT_ITEM_NO_PASSWORD": "비밀번호가 필요 없습니다. 처음 로그인할 때 계정이 자동으로 생성됩니다.",
-  "SUPPORT_GETTING_STARTED_ACCOUNT_ITEM_DISCORD_IMPORT": "Discord로 로그인하면 사용자 이름과 아바타가 자동으로 가져와집니다.",
+  "SUPPORT_GETTING_STARTED_ACCOUNT_ITEM_DISCORD_IMPORT": "Discord로 로그인하면 사용자 이름이 자동으로 가져와집니다.",
   "SUPPORT_GETTING_STARTED_PROFILE_HEADING": "프로필 설정하기",
   "SUPPORT_GETTING_STARTED_PROFILE_P1_BEFORE_LINK": "다음을 방문하세요:",
   "SUPPORT_GETTING_STARTED_PROFILE_P1_AFTER_LINK": "에서 프로필 사진, 배너, 소개, 소셜 링크를 맞춤 설정하세요.",

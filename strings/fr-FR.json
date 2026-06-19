@@ -1114,7 +1114,7 @@
   "SUPPORT_GETTING_STARTED_ACCOUNT_P1_LINK": "page de connexion",
   "SUPPORT_GETTING_STARTED_ACCOUNT_P1_AFTER_LINK": "pour vous connecter avec Discord ou un lien magique envoyé à votre adresse e-mail.",
   "SUPPORT_GETTING_STARTED_ACCOUNT_ITEM_NO_PASSWORD": "Aucun mot de passe requis. Votre compte est créé automatiquement la première fois que vous vous connectez.",
-  "SUPPORT_GETTING_STARTED_ACCOUNT_ITEM_DISCORD_IMPORT": "Si vous vous connectez avec Discord, votre nom d'utilisateur et votre avatar seront importés automatiquement.",
+  "SUPPORT_GETTING_STARTED_ACCOUNT_ITEM_DISCORD_IMPORT": "Si vous vous connectez avec Discord, votre nom d'utilisateur sera importé automatiquement.",
   "SUPPORT_GETTING_STARTED_PROFILE_HEADING": "Configurez votre profil",
   "SUPPORT_GETTING_STARTED_PROFILE_P1_BEFORE_LINK": "Rendez-vous dans vos",
   "SUPPORT_GETTING_STARTED_PROFILE_P1_AFTER_LINK": "pour personnaliser votre photo de profil, votre bannière, votre bio et vos liens sociaux.",

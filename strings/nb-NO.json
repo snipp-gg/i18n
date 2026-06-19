@@ -1114,7 +1114,7 @@
   "SUPPORT_GETTING_STARTED_ACCOUNT_P1_LINK": "innloggingssiden",
   "SUPPORT_GETTING_STARTED_ACCOUNT_P1_AFTER_LINK": "for å logge inn med Discord eller en magisk lenke sendt til e-posten din.",
   "SUPPORT_GETTING_STARTED_ACCOUNT_ITEM_NO_PASSWORD": "Ingen passord nødvendig. Kontoen din opprettes automatisk første gang du logger inn.",
-  "SUPPORT_GETTING_STARTED_ACCOUNT_ITEM_DISCORD_IMPORT": "Hvis du logger inn med Discord, importeres brukernavnet og avataren din automatisk.",
+  "SUPPORT_GETTING_STARTED_ACCOUNT_ITEM_DISCORD_IMPORT": "Hvis du logger inn med Discord, importeres brukernavnet ditt automatisk.",
   "SUPPORT_GETTING_STARTED_PROFILE_HEADING": "Sett opp profilen din",
   "SUPPORT_GETTING_STARTED_PROFILE_P1_BEFORE_LINK": "Besøk dine",
   "SUPPORT_GETTING_STARTED_PROFILE_P1_AFTER_LINK": "for å tilpasse profilbildet, banneret, bioen og sosiale lenker.",
