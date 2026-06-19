@@ -1114,7 +1114,7 @@
   "SUPPORT_GETTING_STARTED_ACCOUNT_P1_LINK": "Anmeldeseite",
   "SUPPORT_GETTING_STARTED_ACCOUNT_P1_AFTER_LINK": "um dich mit Discord oder einem Magic Link, der an deine E-Mail gesendet wird, anzumelden.",
   "SUPPORT_GETTING_STARTED_ACCOUNT_ITEM_NO_PASSWORD": "Kein Passwort erforderlich. Dein Konto wird bei der ersten Anmeldung automatisch erstellt.",
-  "SUPPORT_GETTING_STARTED_ACCOUNT_ITEM_DISCORD_IMPORT": "Wenn du dich mit Discord anmeldest, werden dein Benutzername und Avatar automatisch importiert.",
+  "SUPPORT_GETTING_STARTED_ACCOUNT_ITEM_DISCORD_IMPORT": "If you sign in with Discord, your username will be imported automatically.",
   "SUPPORT_GETTING_STARTED_PROFILE_HEADING": "Profil Einrichten",
   "SUPPORT_GETTING_STARTED_PROFILE_P1_BEFORE_LINK": "Besuche deine",
   "SUPPORT_GETTING_STARTED_PROFILE_P1_AFTER_LINK": "um dein Profilbild, Banner, deine Bio und Social-Media-Links anzupassen.",
