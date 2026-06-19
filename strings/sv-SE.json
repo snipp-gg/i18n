@@ -1114,7 +1114,7 @@
   "SUPPORT_GETTING_STARTED_ACCOUNT_P1_LINK": "inloggningssidan",
   "SUPPORT_GETTING_STARTED_ACCOUNT_P1_AFTER_LINK": "för att logga in med Discord eller en magisk länk skickad till din e-post.",
   "SUPPORT_GETTING_STARTED_ACCOUNT_ITEM_NO_PASSWORD": "Inget lösenord krävs. Ditt konto skapas automatiskt första gången du loggar in.",
-  "SUPPORT_GETTING_STARTED_ACCOUNT_ITEM_DISCORD_IMPORT": "Om du loggar in med Discord importeras ditt användarnamn och din avatar automatiskt.",
+  "SUPPORT_GETTING_STARTED_ACCOUNT_ITEM_DISCORD_IMPORT": "If you sign in with Discord, your username will be imported automatically.",
   "SUPPORT_GETTING_STARTED_PROFILE_HEADING": "Sätt upp din profil",
   "SUPPORT_GETTING_STARTED_PROFILE_P1_BEFORE_LINK": "Besök dina",
   "SUPPORT_GETTING_STARTED_PROFILE_P1_AFTER_LINK": "för att anpassa din profilbild, banner, bio och sociala länkar.",
