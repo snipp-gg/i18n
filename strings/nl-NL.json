@@ -1612,6 +1612,8 @@
   "DOWNLOADS_HEADING": "Snipp downloaden",
   "DOWNLOADS_SUBHEADING": "Leg vast, upload en deel vanaf overal. Apps voor elk platform.",
   "DOWNLOADS_COMING_SOON": "Binnenkort beschikbaar",
+  "DOWNLOADS_GET_EXE": "Downloaden (.exe)",
+  "DOWNLOADS_GET_DMG": "Downloaden (.dmg)",
   "DOWNLOADS_WINDOWS_NAME": "Windows",
   "DOWNLOADS_WINDOWS_NOTE": "Windows 10 en nieuwer.",
   "DOWNLOADS_MACOS_NAME": "macOS",

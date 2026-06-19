@@ -1612,6 +1612,8 @@
   "DOWNLOADS_HEADING": "Λήψη του Snipp",
   "DOWNLOADS_SUBHEADING": "Καταγράψτε, ανεβάστε και μοιραστείτε από οπουδήποτε. Εφαρμογές για κάθε πλατφόρμα.",
   "DOWNLOADS_COMING_SOON": "Σύντομα διαθέσιμο",
+  "DOWNLOADS_GET_EXE": "Λήψη (.exe)",
+  "DOWNLOADS_GET_DMG": "Λήψη (.dmg)",
   "DOWNLOADS_WINDOWS_NAME": "Windows",
   "DOWNLOADS_WINDOWS_NOTE": "Windows 10 και νεότερα.",
   "DOWNLOADS_MACOS_NAME": "macOS",

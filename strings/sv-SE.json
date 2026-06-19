@@ -1612,6 +1612,8 @@
   "DOWNLOADS_HEADING": "Ladda ner Snipp",
   "DOWNLOADS_SUBHEADING": "Fånga, ladda upp och dela var du än är. Appar för varje plattform.",
   "DOWNLOADS_COMING_SOON": "Kommer snart",
+  "DOWNLOADS_GET_EXE": "Ladda ner (.exe)",
+  "DOWNLOADS_GET_DMG": "Ladda ner (.dmg)",
   "DOWNLOADS_WINDOWS_NAME": "Windows",
   "DOWNLOADS_WINDOWS_NOTE": "Windows 10 och senare.",
   "DOWNLOADS_MACOS_NAME": "macOS",

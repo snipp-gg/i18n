@@ -1612,6 +1612,8 @@
   "DOWNLOADS_HEADING": "Last ned Snipp",
   "DOWNLOADS_SUBHEADING": "Ta opp, last opp og del fra hvor som helst. Apper for alle plattformer.",
   "DOWNLOADS_COMING_SOON": "Kommer snart",
+  "DOWNLOADS_GET_EXE": "Last ned (.exe)",
+  "DOWNLOADS_GET_DMG": "Last ned (.dmg)",
   "DOWNLOADS_WINDOWS_NAME": "Windows",
   "DOWNLOADS_WINDOWS_NOTE": "Windows 10 og nyere.",
   "DOWNLOADS_MACOS_NAME": "macOS",

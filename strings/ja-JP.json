@@ -1612,6 +1612,8 @@
   "DOWNLOADS_HEADING": "Snipp をダウンロード",
   "DOWNLOADS_SUBHEADING": "どこからでもキャプチャ、アップロード、共有。あらゆるプラットフォーム向けのアプリ。",
   "DOWNLOADS_COMING_SOON": "近日公開",
+  "DOWNLOADS_GET_EXE": "ダウンロード (.exe)",
+  "DOWNLOADS_GET_DMG": "ダウンロード (.dmg)",
   "DOWNLOADS_WINDOWS_NAME": "Windows",
   "DOWNLOADS_WINDOWS_NOTE": "Windows 10 以降。",
   "DOWNLOADS_MACOS_NAME": "macOS",

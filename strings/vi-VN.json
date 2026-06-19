@@ -1612,6 +1612,8 @@
   "DOWNLOADS_HEADING": "Tải Snipp",
   "DOWNLOADS_SUBHEADING": "Chụp, tải lên và chia sẻ từ bất cứ đâu. Ứng dụng cho mọi nền tảng.",
   "DOWNLOADS_COMING_SOON": "Sắp ra mắt",
+  "DOWNLOADS_GET_EXE": "Tải (.exe)",
+  "DOWNLOADS_GET_DMG": "Tải (.dmg)",
   "DOWNLOADS_WINDOWS_NAME": "Windows",
   "DOWNLOADS_WINDOWS_NOTE": "Windows 10 trở lên.",
   "DOWNLOADS_MACOS_NAME": "macOS",

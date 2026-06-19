@@ -1612,6 +1612,8 @@
   "DOWNLOADS_HEADING": "Завантажити Snipp",
   "DOWNLOADS_SUBHEADING": "Знімайте, завантажуйте та діліться звідусіль. Застосунки для кожної платформи.",
   "DOWNLOADS_COMING_SOON": "Незабаром",
+  "DOWNLOADS_GET_EXE": "Завантажити (.exe)",
+  "DOWNLOADS_GET_DMG": "Завантажити (.dmg)",
   "DOWNLOADS_WINDOWS_NAME": "Windows",
   "DOWNLOADS_WINDOWS_NOTE": "Windows 10 і новіші.",
   "DOWNLOADS_MACOS_NAME": "macOS",

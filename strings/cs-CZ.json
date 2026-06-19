@@ -1612,6 +1612,8 @@
   "DOWNLOADS_HEADING": "Stáhnout Snipp",
   "DOWNLOADS_SUBHEADING": "Zachycuj, nahrávej a sdílej odkudkoli. Aplikace pro každou platformu.",
   "DOWNLOADS_COMING_SOON": "Již brzy",
+  "DOWNLOADS_GET_EXE": "Stáhnout (.exe)",
+  "DOWNLOADS_GET_DMG": "Stáhnout (.dmg)",
   "DOWNLOADS_WINDOWS_NAME": "Windows",
   "DOWNLOADS_WINDOWS_NOTE": "Windows 10 a novější.",
   "DOWNLOADS_MACOS_NAME": "macOS",

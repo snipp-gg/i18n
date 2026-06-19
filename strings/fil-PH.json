@@ -1612,6 +1612,8 @@
   "DOWNLOADS_HEADING": "I-download ang Snipp",
   "DOWNLOADS_SUBHEADING": "Mag-capture, mag-upload, at magbahagi kahit saan. May app para sa bawat platform.",
   "DOWNLOADS_COMING_SOON": "Malapit na",
+  "DOWNLOADS_GET_EXE": "I-download (.exe)",
+  "DOWNLOADS_GET_DMG": "I-download (.dmg)",
   "DOWNLOADS_WINDOWS_NAME": "Windows",
   "DOWNLOADS_WINDOWS_NOTE": "Windows 10 at mas bago.",
   "DOWNLOADS_MACOS_NAME": "macOS",

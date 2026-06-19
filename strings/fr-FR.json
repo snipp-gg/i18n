@@ -1612,6 +1612,8 @@
   "DOWNLOADS_HEADING": "Télécharger Snipp",
   "DOWNLOADS_SUBHEADING": "Capturez, importez et partagez où que vous soyez. Des applications pour toutes les plateformes.",
   "DOWNLOADS_COMING_SOON": "Bientôt disponible",
+  "DOWNLOADS_GET_EXE": "Télécharger (.exe)",
+  "DOWNLOADS_GET_DMG": "Télécharger (.dmg)",
   "DOWNLOADS_WINDOWS_NAME": "Windows",
   "DOWNLOADS_WINDOWS_NOTE": "Windows 10 et versions ultérieures.",
   "DOWNLOADS_MACOS_NAME": "macOS",

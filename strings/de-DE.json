@@ -1612,6 +1612,8 @@
   "DOWNLOADS_HEADING": "Snipp herunterladen",
   "DOWNLOADS_SUBHEADING": "Erstelle, lade hoch und teile von überall. Apps für jede Plattform.",
   "DOWNLOADS_COMING_SOON": "Demnächst verfügbar",
+  "DOWNLOADS_GET_EXE": "Herunterladen (.exe)",
+  "DOWNLOADS_GET_DMG": "Herunterladen (.dmg)",
   "DOWNLOADS_WINDOWS_NAME": "Windows",
   "DOWNLOADS_WINDOWS_NOTE": "Windows 10 und neuer.",
   "DOWNLOADS_MACOS_NAME": "macOS",
