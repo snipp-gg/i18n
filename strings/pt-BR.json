@@ -806,7 +806,7 @@
   "USER_PROFILE_NOT_FOUND_PAGE_TITLE": "Usuário Não Encontrado",
   "USER_PROFILE_BLOCKED_PAGE_TITLE": "User Blocked",
   "USER_PROFILE_SUSPENDED_PAGE_TITLE": "Usuário Suspenso",
-  "USER_PROFILE_NOT_FOUND_MESSAGE": "Unless you have a time machine, the user you're looking for doesn't exist. Try searching another.",
+  "USER_PROFILE_NOT_FOUND_MESSAGE": "Unless you have a time machine, the user you're looking for doesn't exist. Try searching for another user.",
   "USER_PROFILE_BLOCKED_HEADING": "Bloqueado",
   "USER_PROFILE_BLOCKED_BY_YOU_MESSAGE": "Você bloqueou este usuário. Não é possível ver o perfil ou o conteúdo dele.",
   "USER_PROFILE_BLOCKED_BY_THEM_MESSAGE": "@{username} bloqueou você. Não é possível ver o perfil ou o conteúdo dele.",
