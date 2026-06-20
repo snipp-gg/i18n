@@ -1601,6 +1601,7 @@
   "FOLLOW_NO_FOLLOWERS": "No followers yet.",
   "FOLLOW_NO_FOLLOWING": "Not following anyone yet.",
   "FOLLOW_LIST_ERROR": "Could not load this list.",
+  "FOLLOW_LIST_RATE_LIMITED": "Slow down. Try again in a moment.",
   "FOLLOW_REMOVE_THIS_FOLLOWER": "Remove this follower",
   "USER_ACTIONS_MENU_LABEL": "User actions",
   "USER_ACTIONS_MENU_REPORT": "Пожаловаться",
