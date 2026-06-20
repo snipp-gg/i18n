@@ -1601,6 +1601,7 @@
   "FOLLOW_NO_FOLLOWERS": "ยังไม่มีผู้ติดตาม",
   "FOLLOW_NO_FOLLOWING": "ยังไม่ได้ติดตามใคร",
   "FOLLOW_LIST_ERROR": "ไม่สามารถโหลดรายการนี้ได้",
+  "FOLLOW_LIST_RATE_LIMITED": "ช้าลงหน่อย ลองอีกครั้งในอีกสักครู่",
   "FOLLOW_REMOVE_THIS_FOLLOWER": "ลบผู้ติดตามรายนี้",
   "USER_ACTIONS_MENU_LABEL": "การดำเนินการกับผู้ใช้",
   "USER_ACTIONS_MENU_REPORT": "รายงาน",

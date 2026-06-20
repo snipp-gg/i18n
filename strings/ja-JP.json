@@ -1601,6 +1601,7 @@
   "FOLLOW_NO_FOLLOWERS": "まだフォロワーはいません。",
   "FOLLOW_NO_FOLLOWING": "まだ誰もフォローしていません。",
   "FOLLOW_LIST_ERROR": "このリストを読み込めませんでした。",
+  "FOLLOW_LIST_RATE_LIMITED": "少し待ってください。しばらくしてからもう一度お試しください。",
   "FOLLOW_REMOVE_THIS_FOLLOWER": "このフォロワーを削除",
   "USER_ACTIONS_MENU_LABEL": "ユーザーの操作",
   "USER_ACTIONS_MENU_REPORT": "報告",

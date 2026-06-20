@@ -1601,6 +1601,7 @@
   "FOLLOW_NO_FOLLOWERS": "Ще немає підписників.",
   "FOLLOW_NO_FOLLOWING": "Ви ще ні за ким не стежите.",
   "FOLLOW_LIST_ERROR": "Не вдалося завантажити цей список.",
+  "FOLLOW_LIST_RATE_LIMITED": "Не так швидко. Спробуйте ще раз за мить.",
   "FOLLOW_REMOVE_THIS_FOLLOWER": "Вилучити цього підписника",
   "USER_ACTIONS_MENU_LABEL": "Дії з користувачем",
   "USER_ACTIONS_MENU_REPORT": "Поскаржитися",

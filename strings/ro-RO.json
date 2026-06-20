@@ -1601,6 +1601,7 @@
   "FOLLOW_NO_FOLLOWERS": "Niciun urmăritor încă.",
   "FOLLOW_NO_FOLLOWING": "Nu urmărești încă pe nimeni.",
   "FOLLOW_LIST_ERROR": "Această listă nu a putut fi încărcată.",
+  "FOLLOW_LIST_RATE_LIMITED": "Mai încet. Încearcă din nou într-o clipă.",
   "FOLLOW_REMOVE_THIS_FOLLOWER": "Elimină acest urmăritor",
   "USER_ACTIONS_MENU_LABEL": "Acțiuni utilizator",
   "USER_ACTIONS_MENU_REPORT": "Raportează",

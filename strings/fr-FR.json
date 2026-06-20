@@ -1601,6 +1601,7 @@
   "FOLLOW_NO_FOLLOWERS": "Aucun abonné pour l'instant.",
   "FOLLOW_NO_FOLLOWING": "Aucun abonnement pour l'instant.",
   "FOLLOW_LIST_ERROR": "Impossible de charger cette liste.",
+  "FOLLOW_LIST_RATE_LIMITED": "Doucement. Réessayez dans un instant.",
   "FOLLOW_REMOVE_THIS_FOLLOWER": "Retirer cet abonné",
   "USER_ACTIONS_MENU_LABEL": "Actions sur l'utilisateur",
   "USER_ACTIONS_MENU_REPORT": "Signaler",

@@ -1601,6 +1601,7 @@
   "FOLLOW_NO_FOLLOWERS": "Все още няма последователи.",
   "FOLLOW_NO_FOLLOWING": "Все още не следвате никого.",
   "FOLLOW_LIST_ERROR": "Този списък не можа да се зареди.",
+  "FOLLOW_LIST_RATE_LIMITED": "По-бавно. Опитайте отново след малко.",
   "FOLLOW_REMOVE_THIS_FOLLOWER": "Премахване на този последовател",
   "USER_ACTIONS_MENU_LABEL": "Действия с потребителя",
   "USER_ACTIONS_MENU_REPORT": "Докладване",

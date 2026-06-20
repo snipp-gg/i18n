@@ -1601,6 +1601,7 @@
   "FOLLOW_NO_FOLLOWERS": "Henüz takipçi yok.",
   "FOLLOW_NO_FOLLOWING": "Henüz kimse takip edilmiyor.",
   "FOLLOW_LIST_ERROR": "Bu liste yüklenemedi.",
+  "FOLLOW_LIST_RATE_LIMITED": "Biraz yavaşla. Birazdan tekrar dene.",
   "FOLLOW_REMOVE_THIS_FOLLOWER": "Bu takipçiyi kaldır",
   "USER_ACTIONS_MENU_LABEL": "Kullanıcı işlemleri",
   "USER_ACTIONS_MENU_REPORT": "Bildir",

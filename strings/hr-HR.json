@@ -1601,6 +1601,7 @@
   "FOLLOW_NO_FOLLOWERS": "Još nema pratitelja.",
   "FOLLOW_NO_FOLLOWING": "Još nikoga ne pratiš.",
   "FOLLOW_LIST_ERROR": "Učitavanje ovog popisa nije uspjelo.",
+  "FOLLOW_LIST_RATE_LIMITED": "Uspori. Pokušaj ponovno za trenutak.",
   "FOLLOW_REMOVE_THIS_FOLLOWER": "Ukloni ovog pratitelja",
   "USER_ACTIONS_MENU_LABEL": "Radnje korisnika",
   "USER_ACTIONS_MENU_REPORT": "Prijavi",

@@ -1601,6 +1601,7 @@
   "FOLLOW_NO_FOLLOWERS": "Δεν υπάρχουν ακόλουθοι ακόμη.",
   "FOLLOW_NO_FOLLOWING": "Δεν ακολουθείτε κανέναν ακόμη.",
   "FOLLOW_LIST_ERROR": "Δεν ήταν δυνατή η φόρτωση αυτής της λίστας.",
+  "FOLLOW_LIST_RATE_LIMITED": "Με το μαλακό. Δοκιμάστε ξανά σε λίγο.",
   "FOLLOW_REMOVE_THIS_FOLLOWER": "Αφαίρεση αυτού του ακόλουθου",
   "USER_ACTIONS_MENU_LABEL": "Ενέργειες χρήστη",
   "USER_ACTIONS_MENU_REPORT": "Αναφορά",

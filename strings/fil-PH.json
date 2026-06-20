@@ -1601,6 +1601,7 @@
   "FOLLOW_NO_FOLLOWERS": "Wala pang follower.",
   "FOLLOW_NO_FOLLOWING": "Wala pang sinusundan.",
   "FOLLOW_LIST_ERROR": "Hindi ma-load ang listahang ito.",
+  "FOLLOW_LIST_RATE_LIMITED": "Dahan-dahan lang. Subukan ulit mamaya.",
   "FOLLOW_REMOVE_THIS_FOLLOWER": "Alisin ang follower na ito",
   "USER_ACTIONS_MENU_LABEL": "Mga aksyon sa user",
   "USER_ACTIONS_MENU_REPORT": "I-report",

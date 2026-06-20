@@ -1601,6 +1601,7 @@
   "FOLLOW_NO_FOLLOWERS": "Nog geen volgers.",
   "FOLLOW_NO_FOLLOWING": "Volgt nog niemand.",
   "FOLLOW_LIST_ERROR": "Kon deze lijst niet laden.",
+  "FOLLOW_LIST_RATE_LIMITED": "Rustig aan. Probeer het zo opnieuw.",
   "FOLLOW_REMOVE_THIS_FOLLOWER": "Deze volger verwijderen",
   "USER_ACTIONS_MENU_LABEL": "Gebruikersacties",
   "USER_ACTIONS_MENU_REPORT": "Rapporteren",

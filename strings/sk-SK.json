@@ -1601,6 +1601,7 @@
   "FOLLOW_NO_FOLLOWERS": "Zatiaľ žiadni sledovatelia.",
   "FOLLOW_NO_FOLLOWING": "Zatiaľ nikoho nesleduješ.",
   "FOLLOW_LIST_ERROR": "Tento zoznam sa nepodarilo načítať.",
+  "FOLLOW_LIST_RATE_LIMITED": "Spomaľte. Skúste to o chvíľu znova.",
   "FOLLOW_REMOVE_THIS_FOLLOWER": "Odstrániť tohto sledovateľa",
   "USER_ACTIONS_MENU_LABEL": "Akcie používateľa",
   "USER_ACTIONS_MENU_REPORT": "Nahlásiť",

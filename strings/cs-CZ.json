@@ -1601,6 +1601,7 @@
   "FOLLOW_NO_FOLLOWERS": "Zatím žádní sledující.",
   "FOLLOW_NO_FOLLOWING": "Zatím nikoho nesledujete.",
   "FOLLOW_LIST_ERROR": "Nepodařilo se načíst tento seznam.",
+  "FOLLOW_LIST_RATE_LIMITED": "Zpomalte. Zkuste to za chvíli znovu.",
   "FOLLOW_REMOVE_THIS_FOLLOWER": "Odebrat tohoto sledujícího",
   "USER_ACTIONS_MENU_LABEL": "Akce uživatele",
   "USER_ACTIONS_MENU_REPORT": "Nahlásit",

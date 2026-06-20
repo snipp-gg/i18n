@@ -1601,6 +1601,7 @@
   "FOLLOW_NO_FOLLOWERS": "Brak obserwujących.",
   "FOLLOW_NO_FOLLOWING": "Nie obserwujesz jeszcze nikogo.",
   "FOLLOW_LIST_ERROR": "Nie udało się wczytać tej listy.",
+  "FOLLOW_LIST_RATE_LIMITED": "Zwolnij. Spróbuj ponownie za chwilę.",
   "FOLLOW_REMOVE_THIS_FOLLOWER": "Usuń tego obserwującego",
   "USER_ACTIONS_MENU_LABEL": "Działania użytkownika",
   "USER_ACTIONS_MENU_REPORT": "Zgłoś",

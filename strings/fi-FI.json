@@ -1601,6 +1601,7 @@
   "FOLLOW_NO_FOLLOWERS": "Ei vielä seuraajia.",
   "FOLLOW_NO_FOLLOWING": "Ei vielä seurattavia.",
   "FOLLOW_LIST_ERROR": "Tätä luetteloa ei voitu ladata.",
+  "FOLLOW_LIST_RATE_LIMITED": "Hidasta hieman. Yritä hetken kuluttua uudelleen.",
   "FOLLOW_REMOVE_THIS_FOLLOWER": "Poista tämä seuraaja",
   "USER_ACTIONS_MENU_LABEL": "Käyttäjätoiminnot",
   "USER_ACTIONS_MENU_REPORT": "Ilmoita",

@@ -1601,6 +1601,7 @@
   "FOLLOW_NO_FOLLOWERS": "Ingen følgere ennå.",
   "FOLLOW_NO_FOLLOWING": "Følger ingen ennå.",
   "FOLLOW_LIST_ERROR": "Kunne ikke laste inn denne listen.",
+  "FOLLOW_LIST_RATE_LIMITED": "Ro ned. Prøv igjen om et øyeblikk.",
   "FOLLOW_REMOVE_THIS_FOLLOWER": "Fjern denne følgeren",
   "USER_ACTIONS_MENU_LABEL": "Brukerhandlinger",
   "USER_ACTIONS_MENU_REPORT": "Rapporter",

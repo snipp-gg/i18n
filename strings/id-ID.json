@@ -1601,6 +1601,7 @@
   "FOLLOW_NO_FOLLOWERS": "Belum ada pengikut.",
   "FOLLOW_NO_FOLLOWING": "Belum mengikuti siapa pun.",
   "FOLLOW_LIST_ERROR": "Tidak dapat memuat daftar ini.",
+  "FOLLOW_LIST_RATE_LIMITED": "Pelan-pelan. Coba lagi sebentar.",
   "FOLLOW_REMOVE_THIS_FOLLOWER": "Hapus pengikut ini",
   "USER_ACTIONS_MENU_LABEL": "Tindakan pengguna",
   "USER_ACTIONS_MENU_REPORT": "Laporkan",

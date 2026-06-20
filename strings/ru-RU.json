@@ -1601,6 +1601,7 @@
   "FOLLOW_NO_FOLLOWERS": "Пока нет подписчиков.",
   "FOLLOW_NO_FOLLOWING": "Вы пока ни на кого не подписаны.",
   "FOLLOW_LIST_ERROR": "Не удалось загрузить этот список.",
+  "FOLLOW_LIST_RATE_LIMITED": "Не так быстро. Повторите попытку через мгновение.",
   "FOLLOW_REMOVE_THIS_FOLLOWER": "Удалить этого подписчика",
   "USER_ACTIONS_MENU_LABEL": "Действия с пользователем",
   "USER_ACTIONS_MENU_REPORT": "Пожаловаться",

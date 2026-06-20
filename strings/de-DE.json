@@ -1601,6 +1601,7 @@
   "FOLLOW_NO_FOLLOWERS": "Noch keine Follower.",
   "FOLLOW_NO_FOLLOWING": "Folgt noch niemandem.",
   "FOLLOW_LIST_ERROR": "Diese Liste konnte nicht geladen werden.",
+  "FOLLOW_LIST_RATE_LIMITED": "Langsamer. Versuche es gleich noch einmal.",
   "FOLLOW_REMOVE_THIS_FOLLOWER": "Diesen Follower entfernen",
   "USER_ACTIONS_MENU_LABEL": "Benutzeraktionen",
   "USER_ACTIONS_MENU_REPORT": "Melden",
