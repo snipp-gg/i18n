@@ -1418,7 +1418,7 @@
   "SUPPORT_PRIORITY_MINUTES_RUNNING_OUT_ITEM_STANDARD_QUALITY": "ไม่มีอะไรเสียหาย วิดีโอยังคงอัปโหลดและเล่นได้ เพียงแต่เป็นคุณภาพมาตรฐานที่ให้บริการจากที่จัดเก็บโดยตรงโดยไม่มีบิตเรตแบบปรับอัตโนมัติ นี่คือการถอยกลับอย่างนุ่มนวล ไม่ใช่การบล็อก",
   "SUPPORT_PRIORITY_MINUTES_RUNNING_OUT_P1_BEFORE_LINK": "ตรวจสอบว่าคุณเหลือนาทีลำดับความสำคัญอยู่เท่าใดได้จาก",
   "SUPPORT_PRIORITY_MINUTES_RUNNING_OUT_P1_LINK": "การตั้งค่าการเรียกเก็บเงิน",
-  "SUPPORT_PRIORITY_MINUTES_RUNNING_OUT_ITEM_BOT_REJECT": "ข้อยกเว้นเดียวคือบอท Discord ของเรา ซึ่งจะปฏิเสธวิดีโอที่เกินงบประมาณเพราะไม่สามารถสร้างภาพขนาดย่อได้หากไม่มีการสตรีม ให้อัปโหลดวิดีโอเหล่านั้นผ่านเว็บไซต์หรือ API แทน",
+  "SUPPORT_PRIORITY_MINUTES_RUNNING_OUT_ITEM_BOT_REJECT": "บอท Discord ของเราไม่รองรับการอัปโหลดวิดีโอ ให้อัปโหลดวิดีโอผ่านเว็บไซต์หรือ API แทน",
   "SUPPORT_PRIORITY_MINUTES_CTA_HEADING": "ต้องการนาทีเพิ่มเติมไหม?",
   "SUPPORT_PRIORITY_MINUTES_CTA_BODY": "กำลังทำโปรเจกต์ที่ต้องการนาทีสตรีมมากกว่า 1,000 นาทีต่อสัปดาห์อยู่ใช่ไหม ติดต่อเราแล้วเราจะจัดแพ็กเกจที่เหมาะกับคุณ",
   "SUPPORT_PRIORITY_MINUTES_CTA_BUTTON": "ติดต่อฝ่ายขาย",

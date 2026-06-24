@@ -1418,7 +1418,7 @@
   "SUPPORT_PRIORITY_MINUTES_RUNNING_OUT_ITEM_STANDARD_QUALITY": "Hiçbir şey bozulmaz. Videolar yine yüklenir ve oynatılır, yalnızca uyarlanabilir bit hızı olmadan doğrudan depolamadan sunulan standart kalitede. Bu bir engelleme değil, yumuşak bir yedek çözümdür.",
   "SUPPORT_PRIORITY_MINUTES_RUNNING_OUT_P1_BEFORE_LINK": "Kaç öncelikli dakikanızın kaldığını şuradan kontrol edin:",
   "SUPPORT_PRIORITY_MINUTES_RUNNING_OUT_P1_LINK": "faturalandırma ayarları",
-  "SUPPORT_PRIORITY_MINUTES_RUNNING_OUT_ITEM_BOT_REJECT": "Tek istisna, yayın olmadan küçük resim oluşturamadığı için bütçeyi aşan videoları reddeden Discord botumuzdur. Bunları bunun yerine web sitesi veya API üzerinden yükleyin.",
+  "SUPPORT_PRIORITY_MINUTES_RUNNING_OUT_ITEM_BOT_REJECT": "Discord botumuz video yüklemeyi desteklemez. Videoları bunun yerine web sitesi veya API üzerinden yükleyin.",
   "SUPPORT_PRIORITY_MINUTES_CTA_HEADING": "Daha fazla dakika mı lazım?",
   "SUPPORT_PRIORITY_MINUTES_CTA_BODY": "Haftada 1.000 yayın dakikasından fazlasına ihtiyaç duyan bir proje mi yürütüyorsunuz? Bize ulaşın, size uygun bir plan oluşturalım.",
   "SUPPORT_PRIORITY_MINUTES_CTA_BUTTON": "Satışla İletişime Geç",

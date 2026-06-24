@@ -1418,7 +1418,7 @@
   "SUPPORT_PRIORITY_MINUTES_RUNNING_OUT_ITEM_STANDARD_QUALITY": "Inget går sönder. Videor laddas fortfarande upp och spelas upp, bara i standardkvalitet som serveras direkt från lagringen utan adaptiv bithastighet. Det är en mjuk reservlösning, inte en blockering.",
   "SUPPORT_PRIORITY_MINUTES_RUNNING_OUT_P1_BEFORE_LINK": "Kontrollera hur många prioritetsminuter du har kvar från",
   "SUPPORT_PRIORITY_MINUTES_RUNNING_OUT_P1_LINK": "faktureringsinställningar",
-  "SUPPORT_PRIORITY_MINUTES_RUNNING_OUT_ITEM_BOT_REJECT": "Det enda undantaget är vår Discord-bot, som avvisar videor över budget eftersom den inte kan generera miniatyrer utan streaming. Ladda upp dem via webbplatsen eller API:et i stället.",
+  "SUPPORT_PRIORITY_MINUTES_RUNNING_OUT_ITEM_BOT_REJECT": "Vår Discord-bot stöder inte uppladdning av videor. Ladda upp videor via webbplatsen eller API:et i stället.",
   "SUPPORT_PRIORITY_MINUTES_CTA_HEADING": "Behöver du fler minuter?",
   "SUPPORT_PRIORITY_MINUTES_CTA_BODY": "Driver du ett projekt som behöver mer än 1 000 streamingminuter i veckan? Hör av dig så tar vi fram en plan som passar.",
   "SUPPORT_PRIORITY_MINUTES_CTA_BUTTON": "Kontakta säljteamet",

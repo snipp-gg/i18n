@@ -1418,7 +1418,7 @@
   "SUPPORT_PRIORITY_MINUTES_RUNNING_OUT_ITEM_STANDARD_QUALITY": "Không có gì hỏng cả. Video vẫn được tải lên và phát, chỉ ở chất lượng tiêu chuẩn được phục vụ trực tiếp từ kho lưu trữ mà không có bitrate thích ứng. Đây là một phương án dự phòng nhẹ nhàng, không phải là chặn.",
   "SUPPORT_PRIORITY_MINUTES_RUNNING_OUT_P1_BEFORE_LINK": "Kiểm tra bạn còn lại bao nhiêu phút ưu tiên từ",
   "SUPPORT_PRIORITY_MINUTES_RUNNING_OUT_P1_LINK": "cài đặt thanh toán",
-  "SUPPORT_PRIORITY_MINUTES_RUNNING_OUT_ITEM_BOT_REJECT": "Ngoại lệ duy nhất là bot Discord của chúng tôi, vốn từ chối các video vượt ngân sách vì không thể tạo ảnh thu nhỏ nếu không phát trực tuyến. Hãy tải những video đó lên qua trang web hoặc API thay vào đó.",
+  "SUPPORT_PRIORITY_MINUTES_RUNNING_OUT_ITEM_BOT_REJECT": "Bot Discord của chúng tôi không hỗ trợ tải video lên. Hãy tải video lên qua trang web hoặc API thay vào đó.",
   "SUPPORT_PRIORITY_MINUTES_CTA_HEADING": "Cần thêm phút?",
   "SUPPORT_PRIORITY_MINUTES_CTA_BODY": "Đang chạy một dự án cần hơn 1.000 phút phát trực tuyến mỗi tuần? Hãy liên hệ với chúng tôi và chúng tôi sẽ xây dựng một gói phù hợp.",
   "SUPPORT_PRIORITY_MINUTES_CTA_BUTTON": "Liên hệ kinh doanh",

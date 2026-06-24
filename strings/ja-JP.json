@@ -1418,7 +1418,7 @@
   "SUPPORT_PRIORITY_MINUTES_RUNNING_OUT_ITEM_STANDARD_QUALITY": "何も壊れません。動画は引き続きアップロードでき再生もされますが、アダプティブビットレートなしでストレージから直接配信される標準画質になります。これはブロックではなく、滑らかなフォールバックです。",
   "SUPPORT_PRIORITY_MINUTES_RUNNING_OUT_P1_BEFORE_LINK": "残りの優先ストリーミング分は以下から確認できます：",
   "SUPPORT_PRIORITY_MINUTES_RUNNING_OUT_P1_LINK": "請求設定",
-  "SUPPORT_PRIORITY_MINUTES_RUNNING_OUT_ITEM_BOT_REJECT": "唯一の例外は当社のDiscordボットで、ストリーミングなしではサムネイルを生成できないため、予算超過の動画を拒否します。そうした動画はウェブサイトまたはAPIからアップロードしてください。",
+  "SUPPORT_PRIORITY_MINUTES_RUNNING_OUT_ITEM_BOT_REJECT": "当社のDiscordボットは動画のアップロードに対応していません。動画はウェブサイトまたはAPIからアップロードしてください。",
   "SUPPORT_PRIORITY_MINUTES_CTA_HEADING": "もっと分数が必要ですか？",
   "SUPPORT_PRIORITY_MINUTES_CTA_BODY": "週に1,000ストリーミング分を超えるプロジェクトを運用していますか？ご連絡いただければ、ご要望に合ったプランをご提案します。",
   "SUPPORT_PRIORITY_MINUTES_CTA_BUTTON": "セールスに問い合わせる",

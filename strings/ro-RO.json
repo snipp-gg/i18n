@@ -1418,7 +1418,7 @@
   "SUPPORT_PRIORITY_MINUTES_RUNNING_OUT_ITEM_STANDARD_QUALITY": "Nimic nu se strică. Videoclipurile se încarcă și se redau în continuare, doar în calitate standard livrată direct din stocare, fără rată de biți adaptivă. Este o soluție de rezervă elegantă, nu un blocaj.",
   "SUPPORT_PRIORITY_MINUTES_RUNNING_OUT_P1_BEFORE_LINK": "Verifică câte minute prioritare ți-au mai rămas din",
   "SUPPORT_PRIORITY_MINUTES_RUNNING_OUT_P1_LINK": "setările de facturare",
-  "SUPPORT_PRIORITY_MINUTES_RUNNING_OUT_ITEM_BOT_REJECT": "Singura excepție este botul nostru de Discord, care respinge videoclipurile peste buget, deoarece nu poate genera miniaturi fără streaming. Încarcă-le prin site sau prin API.",
+  "SUPPORT_PRIORITY_MINUTES_RUNNING_OUT_ITEM_BOT_REJECT": "Botul nostru de Discord nu acceptă încărcarea videoclipurilor. Încarcă-le prin site sau prin API.",
   "SUPPORT_PRIORITY_MINUTES_CTA_HEADING": "Ai nevoie de mai multe minute?",
   "SUPPORT_PRIORITY_MINUTES_CTA_BODY": "Ai un proiect care are nevoie de mai mult de 1.000 de minute de streaming pe săptămână? Contactează-ne și vom găsi un plan potrivit.",
   "SUPPORT_PRIORITY_MINUTES_CTA_BUTTON": "Contactează vânzările",

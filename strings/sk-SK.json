@@ -1418,7 +1418,7 @@
   "SUPPORT_PRIORITY_MINUTES_RUNNING_OUT_ITEM_STANDARD_QUALITY": "Nič sa nepokazí. Videá sa naďalej nahrávajú a prehrávajú, len v štandardnej kvalite poskytovanej priamo z úložiska bez adaptívneho dátového toku. Je to plynulé náhradné riešenie, nie blokovanie.",
   "SUPPORT_PRIORITY_MINUTES_RUNNING_OUT_P1_BEFORE_LINK": "Skontroluj, koľko prioritných minút ti zostáva, v",
   "SUPPORT_PRIORITY_MINUTES_RUNNING_OUT_P1_LINK": "nastaveniach fakturácie",
-  "SUPPORT_PRIORITY_MINUTES_RUNNING_OUT_ITEM_BOT_REJECT": "Jedinou výnimkou je náš Discord bot, ktorý odmieta videá nad rámec rozpočtu, pretože bez streamovania nedokáže vygenerovať náhľady. Nahraj ich radšej cez webovú stránku alebo API.",
+  "SUPPORT_PRIORITY_MINUTES_RUNNING_OUT_ITEM_BOT_REJECT": "Náš Discord bot nepodporuje nahrávanie videí. Videá nahrávaj radšej cez webovú stránku alebo API.",
   "SUPPORT_PRIORITY_MINUTES_CTA_HEADING": "Potrebuješ viac minút?",
   "SUPPORT_PRIORITY_MINUTES_CTA_BODY": "Vedieš projekt, ktorý potrebuje viac ako 1 000 minút streamovania týždenne? Ozvi sa nám a pripravíme plán, ktorý ti bude vyhovovať.",
   "SUPPORT_PRIORITY_MINUTES_CTA_BUTTON": "Kontaktovať obchod",

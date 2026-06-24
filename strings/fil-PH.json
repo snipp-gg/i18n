@@ -1418,7 +1418,7 @@
   "SUPPORT_PRIORITY_MINUTES_RUNNING_OUT_ITEM_STANDARD_QUALITY": "Walang masisira. Patuloy pa ring nag-u-upload at nagpe-play ang mga video, sa standard quality lamang na direktang inihahatid mula sa storage nang walang adaptive bitrate. Isa itong magaan na fallback, hindi isang block.",
   "SUPPORT_PRIORITY_MINUTES_RUNNING_OUT_P1_BEFORE_LINK": "Tingnan kung ilang priority minutes ang natitira sa iyo mula sa",
   "SUPPORT_PRIORITY_MINUTES_RUNNING_OUT_P1_LINK": "mga setting ng billing",
-  "SUPPORT_PRIORITY_MINUTES_RUNNING_OUT_ITEM_BOT_REJECT": "Ang nag-iisang eksepsiyon ay ang aming Discord bot, na nagre-reject ng mga video na lampas sa budget dahil hindi ito makakagawa ng thumbnail nang walang streaming. I-upload ang mga iyon sa pamamagitan ng website o API sa halip.",
+  "SUPPORT_PRIORITY_MINUTES_RUNNING_OUT_ITEM_BOT_REJECT": "Hindi sinusuportahan ng aming Discord bot ang pag-upload ng video. I-upload ang mga video sa pamamagitan ng website o API sa halip.",
   "SUPPORT_PRIORITY_MINUTES_CTA_HEADING": "Kailangan ng mas maraming minuto?",
   "SUPPORT_PRIORITY_MINUTES_CTA_BODY": "Nagpapatakbo ng project na nangangailangan ng higit sa 1,000 streaming minute kada linggo? Makipag-ugnayan at gagawan namin ng plan na kasya.",
   "SUPPORT_PRIORITY_MINUTES_CTA_BUTTON": "Makipag-ugnayan sa Sales",

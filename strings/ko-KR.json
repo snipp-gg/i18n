@@ -1418,7 +1418,7 @@
   "SUPPORT_PRIORITY_MINUTES_RUNNING_OUT_ITEM_STANDARD_QUALITY": "아무것도 망가지지 않습니다. 동영상은 여전히 업로드되고 재생되며, 다만 적응형 비트레이트 없이 저장소에서 바로 제공되는 표준 화질로 재생됩니다. 차단이 아니라 자연스러운 대체입니다.",
   "SUPPORT_PRIORITY_MINUTES_RUNNING_OUT_P1_BEFORE_LINK": "남은 우선 스트리밍 시간은 다음에서 확인하세요:",
   "SUPPORT_PRIORITY_MINUTES_RUNNING_OUT_P1_LINK": "결제 설정",
-  "SUPPORT_PRIORITY_MINUTES_RUNNING_OUT_ITEM_BOT_REJECT": "한 가지 예외는 Discord 봇으로, 스트리밍 없이는 썸네일을 생성할 수 없어 예산을 초과한 동영상을 거부합니다. 그런 동영상은 웹사이트나 API를 통해 업로드하세요.",
+  "SUPPORT_PRIORITY_MINUTES_RUNNING_OUT_ITEM_BOT_REJECT": "Discord 봇은 동영상 업로드를 지원하지 않습니다. 동영상은 웹사이트나 API를 통해 업로드하세요.",
   "SUPPORT_PRIORITY_MINUTES_CTA_HEADING": "더 많은 시간이 필요한가요?",
   "SUPPORT_PRIORITY_MINUTES_CTA_BODY": "주당 1,000 스트리밍 분을 넘게 필요로 하는 프로젝트를 운영하시나요? 연락 주시면 잘 맞는 플랜을 마련해 드리겠습니다.",
   "SUPPORT_PRIORITY_MINUTES_CTA_BUTTON": "영업팀 문의",

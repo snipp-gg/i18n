@@ -1418,7 +1418,7 @@
   "SUPPORT_PRIORITY_MINUTES_RUNNING_OUT_ITEM_STANDARD_QUALITY": "Nichts geht kaputt. Videos werden weiterhin hochgeladen und abgespielt, nur in Standardqualität, direkt aus dem Speicher ohne adaptive Bitrate. Es ist ein sanfter Fallback, keine Sperre.",
   "SUPPORT_PRIORITY_MINUTES_RUNNING_OUT_P1_BEFORE_LINK": "Prüfe, wie viele Prioritätsminuten dir noch bleiben, in den",
   "SUPPORT_PRIORITY_MINUTES_RUNNING_OUT_P1_LINK": "Abrechnungseinstellungen",
-  "SUPPORT_PRIORITY_MINUTES_RUNNING_OUT_ITEM_BOT_REJECT": "Die einzige Ausnahme ist unser Discord-Bot, der Videos über dem Budget ablehnt, da er ohne Streaming keine Vorschaubilder erzeugen kann. Lade solche Videos stattdessen über die Website oder API hoch.",
+  "SUPPORT_PRIORITY_MINUTES_RUNNING_OUT_ITEM_BOT_REJECT": "Unser Discord-Bot unterstützt keine Video-Uploads. Lade Videos stattdessen über die Website oder API hoch.",
   "SUPPORT_PRIORITY_MINUTES_CTA_HEADING": "Brauchst du mehr Minuten?",
   "SUPPORT_PRIORITY_MINUTES_CTA_BODY": "Betreibst du ein Projekt, das mehr als 1.000 Streaming-Minuten pro Woche benötigt? Melde dich und wir erarbeiten einen passenden Plan.",
   "SUPPORT_PRIORITY_MINUTES_CTA_BUTTON": "Vertrieb Kontaktieren",

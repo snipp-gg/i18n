@@ -1418,7 +1418,7 @@
   "SUPPORT_PRIORITY_MINUTES_RUNNING_OUT_ITEM_STANDARD_QUALITY": "Nada se rompe. Los vídeos siguen subiéndose y reproduciéndose, solo que en calidad estándar servida directamente desde el almacenamiento sin tasa de bits adaptativa. Es una alternativa elegante, no un bloqueo.",
   "SUPPORT_PRIORITY_MINUTES_RUNNING_OUT_P1_BEFORE_LINK": "Consulta cuántos minutos de prioridad te quedan desde los",
   "SUPPORT_PRIORITY_MINUTES_RUNNING_OUT_P1_LINK": "ajustes de facturación",
-  "SUPPORT_PRIORITY_MINUTES_RUNNING_OUT_ITEM_BOT_REJECT": "La única excepción es nuestro bot de Discord, que rechaza los vídeos que superan el presupuesto porque no puede generar miniaturas sin streaming. Sube esos vídeos a través de la web o la API en su lugar.",
+  "SUPPORT_PRIORITY_MINUTES_RUNNING_OUT_ITEM_BOT_REJECT": "Nuestro bot de Discord no admite la subida de vídeos. Sube los vídeos a través de la web o la API en su lugar.",
   "SUPPORT_PRIORITY_MINUTES_CTA_HEADING": "¿Necesitas más minutos?",
   "SUPPORT_PRIORITY_MINUTES_CTA_BODY": "¿Tienes un proyecto que necesita más de 1.000 minutos de streaming por semana? Contáctanos y elaboraremos un plan que se ajuste a tus necesidades.",
   "SUPPORT_PRIORITY_MINUTES_CTA_BUTTON": "Contactar con Ventas",

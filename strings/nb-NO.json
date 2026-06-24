@@ -1418,7 +1418,7 @@
   "SUPPORT_PRIORITY_MINUTES_RUNNING_OUT_ITEM_STANDARD_QUALITY": "Ingenting går i stykker. Videoer lastes fortsatt opp og spilles av, bare i standardkvalitet levert rett fra lagringen uten adaptiv bitrate. Det er en smidig reserveløsning, ikke en sperre.",
   "SUPPORT_PRIORITY_MINUTES_RUNNING_OUT_P1_BEFORE_LINK": "Sjekk hvor mange prioriterte minutter du har igjen fra",
   "SUPPORT_PRIORITY_MINUTES_RUNNING_OUT_P1_LINK": "faktureringsinnstillinger",
-  "SUPPORT_PRIORITY_MINUTES_RUNNING_OUT_ITEM_BOT_REJECT": "Det eneste unntaket er Discord-boten vår, som avviser videoer over budsjett fordi den ikke kan generere miniatyrbilder uten strømming. Last opp disse via nettstedet eller API-et i stedet.",
+  "SUPPORT_PRIORITY_MINUTES_RUNNING_OUT_ITEM_BOT_REJECT": "Discord-boten vår støtter ikke videoopplasting. Last opp videoer via nettstedet eller API-et i stedet.",
   "SUPPORT_PRIORITY_MINUTES_CTA_HEADING": "Trenger du flere minutter?",
   "SUPPORT_PRIORITY_MINUTES_CTA_BODY": "Driver du et prosjekt som trenger mer enn 1 000 strømmeminutter i uken? Ta kontakt, så finner vi et abonnement som passer.",
   "SUPPORT_PRIORITY_MINUTES_CTA_BUTTON": "Kontakt salg",

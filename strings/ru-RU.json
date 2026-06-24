@@ -1418,7 +1418,7 @@
   "SUPPORT_PRIORITY_MINUTES_RUNNING_OUT_ITEM_STANDARD_QUALITY": "Ничего не ломается. Видео по-прежнему загружаются и воспроизводятся, просто в стандартном качестве, выдаваемом напрямую из хранилища без адаптивного битрейта. Это плавный запасной вариант, а не блокировка.",
   "SUPPORT_PRIORITY_MINUTES_RUNNING_OUT_P1_BEFORE_LINK": "Проверьте, сколько приоритетных минут у вас осталось, в",
   "SUPPORT_PRIORITY_MINUTES_RUNNING_OUT_P1_LINK": "настройках оплаты",
-  "SUPPORT_PRIORITY_MINUTES_RUNNING_OUT_ITEM_BOT_REJECT": "Единственное исключение — наш Discord-бот, который отклоняет видео сверх бюджета, потому что не может создавать миниатюры без стриминга. Загружайте такие видео через сайт или API.",
+  "SUPPORT_PRIORITY_MINUTES_RUNNING_OUT_ITEM_BOT_REJECT": "Наш Discord-бот не поддерживает загрузку видео. Загружайте видео через сайт или API.",
   "SUPPORT_PRIORITY_MINUTES_CTA_HEADING": "Нужно больше минут?",
   "SUPPORT_PRIORITY_MINUTES_CTA_BODY": "Ведёте проект, которому нужно более 1 000 минут стриминга в неделю? Свяжитесь с нами, и мы подберём подходящий тариф.",
   "SUPPORT_PRIORITY_MINUTES_CTA_BUTTON": "Связаться с отделом продаж",

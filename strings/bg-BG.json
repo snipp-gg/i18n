@@ -1418,7 +1418,7 @@
   "SUPPORT_PRIORITY_MINUTES_RUNNING_OUT_ITEM_STANDARD_QUALITY": "Нищо не се чупи. Видеата все още се качват и възпроизвеждат, само че в стандартно качество, поднесено директно от хранилището без адаптивен битрейт. Това е плавна резервна опция, а не блокиране.",
   "SUPPORT_PRIORITY_MINUTES_RUNNING_OUT_P1_BEFORE_LINK": "Проверете колко приоритетни минути ви остават от",
   "SUPPORT_PRIORITY_MINUTES_RUNNING_OUT_P1_LINK": "настройки за плащане",
-  "SUPPORT_PRIORITY_MINUTES_RUNNING_OUT_ITEM_BOT_REJECT": "Единственото изключение е нашият Discord бот, който отхвърля видеа над бюджета, защото не може да генерира миниатюри без стрийминг. Качвайте тези видеа през уебсайта или API вместо това.",
+  "SUPPORT_PRIORITY_MINUTES_RUNNING_OUT_ITEM_BOT_REJECT": "Нашият Discord бот не поддържа качване на видеа. Качвайте видеа през уебсайта или API вместо това.",
   "SUPPORT_PRIORITY_MINUTES_CTA_HEADING": "Нужни ли са ви повече минути?",
   "SUPPORT_PRIORITY_MINUTES_CTA_BODY": "Управлявате проект, който се нуждае от повече от 1 000 минути стрийминг седмично? Свържете се с нас и ще измислим план, който пасва.",
   "SUPPORT_PRIORITY_MINUTES_CTA_BUTTON": "Свържете се с продажби",

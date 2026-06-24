@@ -1418,7 +1418,7 @@
   "SUPPORT_PRIORITY_MINUTES_RUNNING_OUT_ITEM_STANDARD_QUALITY": "Ništa se ne kvari. Video-snimci se i dalje otpremaju i reprodukuju, samo u standardnom kvalitetu koji se isporučuje direktno iz skladišta, bez adaptivnog bitrejta. To je elegantno rezervno rešenje, a ne blokada.",
   "SUPPORT_PRIORITY_MINUTES_RUNNING_OUT_P1_BEFORE_LINK": "Proveri koliko ti je prioritetnih minuta ostalo iz",
   "SUPPORT_PRIORITY_MINUTES_RUNNING_OUT_P1_LINK": "podešavanja naplate",
-  "SUPPORT_PRIORITY_MINUTES_RUNNING_OUT_ITEM_BOT_REJECT": "Jedini izuzetak je naš Discord bot, koji odbija video-snimke preko budžeta jer ne može da generiše sličice bez strimovanja. Njih otpremi preko sajta ili API-ja.",
+  "SUPPORT_PRIORITY_MINUTES_RUNNING_OUT_ITEM_BOT_REJECT": "Naš Discord bot ne podržava otpremanje video-snimaka. Video-snimke otpremi preko sajta ili API-ja.",
   "SUPPORT_PRIORITY_MINUTES_CTA_HEADING": "Treba ti više minuta?",
   "SUPPORT_PRIORITY_MINUTES_CTA_BODY": "Vodiš projekat kojem treba više od 1.000 minuta strimovanja nedeljno? Javi nam se i osmislićemo plan koji ti odgovara.",
   "SUPPORT_PRIORITY_MINUTES_CTA_BUTTON": "Kontaktiraj prodaju",

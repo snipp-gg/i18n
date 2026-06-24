@@ -1418,7 +1418,7 @@
   "SUPPORT_PRIORITY_MINUTES_RUNNING_OUT_ITEM_STANDARD_QUALITY": "Τίποτα δεν χαλάει. Τα βίντεο εξακολουθούν να ανεβαίνουν και να αναπαράγονται, απλώς σε τυπική ποιότητα που παρέχεται απευθείας από την αποθήκευση χωρίς προσαρμοστικό bitrate. Είναι μια ομαλή εφεδρική λύση, όχι ένας αποκλεισμός.",
   "SUPPORT_PRIORITY_MINUTES_RUNNING_OUT_P1_BEFORE_LINK": "Ελέγξτε πόσα λεπτά προτεραιότητας σας απομένουν από τις",
   "SUPPORT_PRIORITY_MINUTES_RUNNING_OUT_P1_LINK": "ρυθμίσεις χρέωσης",
-  "SUPPORT_PRIORITY_MINUTES_RUNNING_OUT_ITEM_BOT_REJECT": "Η μόνη εξαίρεση είναι το Discord bot μας, το οποίο απορρίπτει βίντεο εκτός προϋπολογισμού επειδή δεν μπορεί να δημιουργήσει μικρογραφίες χωρίς streaming. Ανεβάστε αυτά τα βίντεο μέσω του ιστότοπου ή του API.",
+  "SUPPORT_PRIORITY_MINUTES_RUNNING_OUT_ITEM_BOT_REJECT": "Το Discord bot μας δεν υποστηρίζει μεταφορτώσεις βίντεο. Ανεβάστε βίντεο μέσω του ιστότοπου ή του API.",
   "SUPPORT_PRIORITY_MINUTES_CTA_HEADING": "Χρειάζεστε περισσότερα λεπτά;",
   "SUPPORT_PRIORITY_MINUTES_CTA_BODY": "Τρέχετε έργο που χρειάζεται περισσότερα από 1.000 λεπτά streaming την εβδομάδα; Επικοινωνήστε μαζί μας και θα βρούμε ένα πλάνο που ταιριάζει.",
   "SUPPORT_PRIORITY_MINUTES_CTA_BUTTON": "Επικοινωνία Πωλήσεων",

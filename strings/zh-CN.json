@@ -1418,7 +1418,7 @@
   "SUPPORT_PRIORITY_MINUTES_RUNNING_OUT_ITEM_STANDARD_QUALITY": "不会出现任何故障。视频仍可上传和播放，只是以标准画质直接从存储提供，不带自适应码率。这是一种平滑的降级，而不是封锁。",
   "SUPPORT_PRIORITY_MINUTES_RUNNING_OUT_P1_BEFORE_LINK": "查看您还剩多少优先分钟",
   "SUPPORT_PRIORITY_MINUTES_RUNNING_OUT_P1_LINK": "计费设置",
-  "SUPPORT_PRIORITY_MINUTES_RUNNING_OUT_ITEM_BOT_REJECT": "唯一的例外是我们的 Discord 机器人，它会拒绝超出预算的视频，因为不进行流式传输就无法生成缩略图。请改为通过网站或 API 上传这些视频。",
+  "SUPPORT_PRIORITY_MINUTES_RUNNING_OUT_ITEM_BOT_REJECT": "我们的 Discord 机器人不支持上传视频。请改为通过网站或 API 上传视频。",
   "SUPPORT_PRIORITY_MINUTES_CTA_HEADING": "需要更多分钟？",
   "SUPPORT_PRIORITY_MINUTES_CTA_BODY": "正在运营一个每周需要超过 1,000 流式传输分钟的项目吗？联系我们，我们会为您制定合适的方案。",
   "SUPPORT_PRIORITY_MINUTES_CTA_BUTTON": "联系销售",

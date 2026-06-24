@@ -1418,7 +1418,7 @@
   "SUPPORT_PRIORITY_MINUTES_RUNNING_OUT_ITEM_STANDARD_QUALITY": "Nic się nie psuje. Filmy nadal się przesyłają i odtwarzają, tylko w standardowej jakości serwowanej bezpośrednio z magazynu, bez adaptacyjnej przepływności. To płynne przejście awaryjne, a nie blokada.",
   "SUPPORT_PRIORITY_MINUTES_RUNNING_OUT_P1_BEFORE_LINK": "Sprawdź, ile minut priorytetowych Ci pozostało, w",
   "SUPPORT_PRIORITY_MINUTES_RUNNING_OUT_P1_LINK": "ustawieniach rozliczeń",
-  "SUPPORT_PRIORITY_MINUTES_RUNNING_OUT_ITEM_BOT_REJECT": "Jedynym wyjątkiem jest nasz bot Discord, który odrzuca filmy przekraczające budżet, ponieważ nie może wygenerować miniatur bez streamingu. Prześlij je zamiast tego przez stronę internetową lub API.",
+  "SUPPORT_PRIORITY_MINUTES_RUNNING_OUT_ITEM_BOT_REJECT": "Nasz bot Discord nie obsługuje przesyłania filmów. Filmy przesyłaj zamiast tego przez stronę internetową lub API.",
   "SUPPORT_PRIORITY_MINUTES_CTA_HEADING": "Potrzebujesz więcej minut?",
   "SUPPORT_PRIORITY_MINUTES_CTA_BODY": "Prowadzisz projekt, który potrzebuje więcej niż 1000 minut streamingu tygodniowo? Skontaktuj się z nami, a opracujemy dopasowany plan.",
   "SUPPORT_PRIORITY_MINUTES_CTA_BUTTON": "Skontaktuj Się z Działem Sprzedaży",

@@ -1418,7 +1418,7 @@
   "SUPPORT_PRIORITY_MINUTES_RUNNING_OUT_ITEM_STANDARD_QUALITY": "Mikään ei rikkoudu. Videot latautuvat ja toistuvat edelleen, vain vakiolaadulla suoraan tallennustilasta ilman mukautuvaa bittinopeutta. Se on hallittu varatoiminto, ei esto.",
   "SUPPORT_PRIORITY_MINUTES_RUNNING_OUT_P1_BEFORE_LINK": "Tarkista, kuinka monta prioriteettiminuuttia sinulla on jäljellä kohdasta",
   "SUPPORT_PRIORITY_MINUTES_RUNNING_OUT_P1_LINK": "laskutusasetukset",
-  "SUPPORT_PRIORITY_MINUTES_RUNNING_OUT_ITEM_BOT_REJECT": "Ainoa poikkeus on Discord-bottimme, joka hylkää budjetin ylittävät videot, koska se ei voi luoda pienoiskuvia ilman suoratoistoa. Lataa ne sen sijaan verkkosivuston tai API:n kautta.",
+  "SUPPORT_PRIORITY_MINUTES_RUNNING_OUT_ITEM_BOT_REJECT": "Discord-bottimme ei tue videoiden lataamista. Lataa videot sen sijaan verkkosivuston tai API:n kautta.",
   "SUPPORT_PRIORITY_MINUTES_CTA_HEADING": "Tarvitsetko lisää minuutteja?",
   "SUPPORT_PRIORITY_MINUTES_CTA_BODY": "Pyöritätkö projektia, joka tarvitsee yli 1 000 suoratoistominuuttia viikossa? Ota yhteyttä, niin laadimme sinulle sopivan paketin.",
   "SUPPORT_PRIORITY_MINUTES_CTA_BUTTON": "Ota yhteyttä myyntiin",
