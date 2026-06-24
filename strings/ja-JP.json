@@ -1418,7 +1418,7 @@
   "SUPPORT_PRIORITY_MINUTES_RUNNING_OUT_ITEM_STANDARD_QUALITY": "Nothing breaks. Videos still upload and play, just in standard quality served straight from storage without adaptive bitrate. It's a graceful fallback, not a block.",
   "SUPPORT_PRIORITY_MINUTES_RUNNING_OUT_P1_BEFORE_LINK": "Check how many priority minutes you have left from",
   "SUPPORT_PRIORITY_MINUTES_RUNNING_OUT_P1_LINK": "請求設定",
-  "SUPPORT_PRIORITY_MINUTES_RUNNING_OUT_ITEM_BOT_REJECT": "The one exception is our Discord bot, which rejects over-budget videos because it can't generate thumbnails without streaming. Upload those through the website or API instead.",
+  "SUPPORT_PRIORITY_MINUTES_RUNNING_OUT_ITEM_BOT_REJECT": "Our Discord bot doesn't support video uploads. Upload videos through the website or API instead.",
   "SUPPORT_PRIORITY_MINUTES_CTA_HEADING": "Need more minutes?",
   "SUPPORT_PRIORITY_MINUTES_CTA_BODY": "Running a project that needs more than 1,000 streaming minutes a week? Reach out and we'll work out a plan that fits.",
   "SUPPORT_PRIORITY_MINUTES_CTA_BUTTON": "セールスに問い合わせる",
