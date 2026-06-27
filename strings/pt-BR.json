@@ -890,7 +890,7 @@
   "SETTINGS_BILLING_PRIORITY_MINUTES_LABEL": "Priority Minutes",
   "SETTINGS_BILLING_PRIORITY_MINUTES_VALUE": "{used} / {limit} min ({percent}% used)",
   "SETTINGS_BILLING_PRIORITY_MINUTES_EXCEEDED": "Priority minutes exceeded",
-  "SETTINGS_BILLING_PRIORITY_MINUTES_HINT": "Videos stream in adaptive quality each month, up to your plan's limit. Beyond it, videos still upload and play in standard quality.",
+  "COMMON_LEARN_MORE": "Saiba mais",
   "SETTINGS_BILLING_UPGRADE_HINT": "Faça upgrade para aumentar os limites",
   "SETTINGS_BILLING_SUBSCRIBED_TO_PLAN": "Inscrito no {plan}",
   "SETTINGS_BILLING_MANAGE_PLAN_HINT": "Gerencie seu plano, forma de pagamento e faturas.",
