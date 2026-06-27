@@ -890,7 +890,7 @@
   "SETTINGS_BILLING_PRIORITY_MINUTES_LABEL": "Minuty priorytetowe",
   "SETTINGS_BILLING_PRIORITY_MINUTES_VALUE": "{used} / {limit} min ({percent}% wykorzystano)",
   "SETTINGS_BILLING_PRIORITY_MINUTES_EXCEEDED": "Przekroczono minuty priorytetowe",
-  "SETTINGS_BILLING_PRIORITY_MINUTES_HINT": "Filmy są co miesiąc streamowane w adaptacyjnej jakości, do limitu Twojego planu. Po jego przekroczeniu filmy nadal są przesyłane i odtwarzane w standardowej jakości.",
+  "COMMON_LEARN_MORE": "Dowiedz się więcej",
   "SETTINGS_BILLING_UPGRADE_HINT": "Ulepsz, aby zwiększyć limity",
   "SETTINGS_BILLING_SUBSCRIBED_TO_PLAN": "Subskrybujesz {plan}",
   "SETTINGS_BILLING_MANAGE_PLAN_HINT": "Zarządzaj swoim planem, metodą płatności i fakturami.",

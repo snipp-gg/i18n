@@ -890,7 +890,7 @@
   "SETTINGS_BILLING_PRIORITY_MINUTES_LABEL": "Minutos prioritarios",
   "SETTINGS_BILLING_PRIORITY_MINUTES_VALUE": "{used} / {limit} min ({percent}% usado)",
   "SETTINGS_BILLING_PRIORITY_MINUTES_EXCEEDED": "Minutos prioritarios superados",
-  "SETTINGS_BILLING_PRIORITY_MINUTES_HINT": "Los vídeos se reproducen en calidad adaptativa cada mes, hasta el límite de tu plan. Superado este límite, los vídeos se siguen subiendo y reproduciendo en calidad estándar.",
+  "COMMON_LEARN_MORE": "Más información",
   "SETTINGS_BILLING_UPGRADE_HINT": "Mejora tu plan para aumentar los límites",
   "SETTINGS_BILLING_SUBSCRIBED_TO_PLAN": "Suscrito a {plan}",
   "SETTINGS_BILLING_MANAGE_PLAN_HINT": "Gestiona tu plan, método de pago y facturas.",

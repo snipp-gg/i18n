@@ -890,7 +890,7 @@
   "SETTINGS_BILLING_PRIORITY_MINUTES_LABEL": "นาทีลำดับความสำคัญ",
   "SETTINGS_BILLING_PRIORITY_MINUTES_VALUE": "{used} / {limit} นาที (ใช้ไป {percent}%)",
   "SETTINGS_BILLING_PRIORITY_MINUTES_EXCEEDED": "เกินจำนวนนาทีลำดับความสำคัญ",
-  "SETTINGS_BILLING_PRIORITY_MINUTES_HINT": "วิดีโอจะสตรีมในคุณภาพแบบปรับอัตโนมัติทุกเดือน สูงสุดตามขีดจำกัดของแพ็กเกจคุณ เมื่อเกินจากนั้น วิดีโอยังคงอัปโหลดและเล่นได้ในคุณภาพมาตรฐาน",
+  "COMMON_LEARN_MORE": "ดูเพิ่มเติม",
   "SETTINGS_BILLING_UPGRADE_HINT": "อัปเกรดเพื่อเพิ่มขีดจำกัด",
   "SETTINGS_BILLING_SUBSCRIBED_TO_PLAN": "สมัครสมาชิก {plan} แล้ว",
   "SETTINGS_BILLING_MANAGE_PLAN_HINT": "จัดการแผน วิธีการชำระเงิน และใบแจ้งหนี้ของคุณ",

@@ -890,7 +890,7 @@
   "SETTINGS_BILLING_PRIORITY_MINUTES_LABEL": "Λεπτά προτεραιότητας",
   "SETTINGS_BILLING_PRIORITY_MINUTES_VALUE": "{used} / {limit} λεπτά ({percent}% σε χρήση)",
   "SETTINGS_BILLING_PRIORITY_MINUTES_EXCEEDED": "Υπέρβαση λεπτών προτεραιότητας",
-  "SETTINGS_BILLING_PRIORITY_MINUTES_HINT": "Τα βίντεο μεταδίδονται σε προσαρμοστική ποιότητα κάθε μήνα, έως το όριο του πλάνου σας. Πέραν αυτού, τα βίντεο εξακολουθούν να ανεβαίνουν και να αναπαράγονται σε τυπική ποιότητα.",
+  "COMMON_LEARN_MORE": "Μάθετε περισσότερα",
   "SETTINGS_BILLING_UPGRADE_HINT": "Αναβαθμίστε για αυξημένα όρια",
   "SETTINGS_BILLING_SUBSCRIBED_TO_PLAN": "Συνδρομητής σε {plan}",
   "SETTINGS_BILLING_MANAGE_PLAN_HINT": "Διαχειριστείτε το πρόγραμμα, τη μέθοδο πληρωμής και τα τιμολόγιά σας.",

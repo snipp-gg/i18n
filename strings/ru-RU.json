@@ -890,7 +890,7 @@
   "SETTINGS_BILLING_PRIORITY_MINUTES_LABEL": "Приоритетные минуты",
   "SETTINGS_BILLING_PRIORITY_MINUTES_VALUE": "{used} / {limit} мин ({percent}% использовано)",
   "SETTINGS_BILLING_PRIORITY_MINUTES_EXCEEDED": "Лимит приоритетных минут превышен",
-  "SETTINGS_BILLING_PRIORITY_MINUTES_HINT": "Каждый месяц видео транслируются в адаптивном качестве в пределах лимита вашего плана. После его исчерпания видео по-прежнему загружаются и воспроизводятся в стандартном качестве.",
+  "COMMON_LEARN_MORE": "Подробнее",
   "SETTINGS_BILLING_UPGRADE_HINT": "Улучшите тариф для увеличения лимитов",
   "SETTINGS_BILLING_SUBSCRIBED_TO_PLAN": "Подписка на {plan}",
   "SETTINGS_BILLING_MANAGE_PLAN_HINT": "Управляйте своим тарифом, способом оплаты и счетами.",

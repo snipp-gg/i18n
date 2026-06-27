@@ -890,7 +890,7 @@
   "SETTINGS_BILLING_PRIORITY_MINUTES_LABEL": "Prioritetni minuti",
   "SETTINGS_BILLING_PRIORITY_MINUTES_VALUE": "{used} / {limit} min ({percent}% iskorišćeno)",
   "SETTINGS_BILLING_PRIORITY_MINUTES_EXCEEDED": "Prioritetni minuti prekoračeni",
-  "SETTINGS_BILLING_PRIORITY_MINUTES_HINT": "Видео-снимци се сваког месеца стримују у адаптивном квалитету, до ограничења твог плана. Након тога се видео-снимци и даље отпремају и репродукују у стандардном квалитету.",
+  "COMMON_LEARN_MORE": "Saznaj više",
   "SETTINGS_BILLING_UPGRADE_HINT": "Nadogradite za veće limite",
   "SETTINGS_BILLING_SUBSCRIBED_TO_PLAN": "Pretplaćeni na {plan}",
   "SETTINGS_BILLING_MANAGE_PLAN_HINT": "Upravljajte svojim planom, načinom plaćanja i fakturama.",

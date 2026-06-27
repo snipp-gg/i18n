@@ -890,7 +890,7 @@
   "SETTINGS_BILLING_PRIORITY_MINUTES_LABEL": "Prioriteettiminuutit",
   "SETTINGS_BILLING_PRIORITY_MINUTES_VALUE": "{used} / {limit} min ({percent}% käytetty)",
   "SETTINGS_BILLING_PRIORITY_MINUTES_EXCEEDED": "Prioriteettiminuutit ylitetty",
-  "SETTINGS_BILLING_PRIORITY_MINUTES_HINT": "Videot suoratoistetaan mukautuvalla laadulla joka kuukausi, pakettisi rajaan asti. Tämän jälkeen videot ladataan ja toistetaan edelleen vakiolaadulla.",
+  "COMMON_LEARN_MORE": "Lue lisää",
   "SETTINGS_BILLING_UPGRADE_HINT": "Päivitä saadaksesi suuremmat rajat",
   "SETTINGS_BILLING_SUBSCRIBED_TO_PLAN": "Tilattu: {plan}",
   "SETTINGS_BILLING_MANAGE_PLAN_HINT": "Hallitse tilaustasi, maksutapaasi ja laskujasi.",

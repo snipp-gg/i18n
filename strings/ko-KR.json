@@ -890,7 +890,7 @@
   "SETTINGS_BILLING_PRIORITY_MINUTES_LABEL": "우선 스트리밍 시간",
   "SETTINGS_BILLING_PRIORITY_MINUTES_VALUE": "{used} / {limit}분 ({percent}% 사용)",
   "SETTINGS_BILLING_PRIORITY_MINUTES_EXCEEDED": "우선 스트리밍 시간 초과",
-  "SETTINGS_BILLING_PRIORITY_MINUTES_HINT": "동영상은 매달 플랜 한도까지 적응형 화질로 스트리밍됩니다. 이 한도를 초과해도 동영상은 표준 화질로 계속 업로드되고 재생됩니다.",
+  "COMMON_LEARN_MORE": "자세히 보기",
   "SETTINGS_BILLING_UPGRADE_HINT": "업그레이드하고 한도를 늘리세요",
   "SETTINGS_BILLING_SUBSCRIBED_TO_PLAN": "{plan} 구독 중",
   "SETTINGS_BILLING_MANAGE_PLAN_HINT": "요금제, 결제 수단, 청구서를 관리하세요.",

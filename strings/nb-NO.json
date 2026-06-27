@@ -890,7 +890,7 @@
   "SETTINGS_BILLING_PRIORITY_MINUTES_LABEL": "Prioritetsminutter",
   "SETTINGS_BILLING_PRIORITY_MINUTES_VALUE": "{used} / {limit} min ({percent}% brukt)",
   "SETTINGS_BILLING_PRIORITY_MINUTES_EXCEEDED": "Prioritetsminutter overskredet",
-  "SETTINGS_BILLING_PRIORITY_MINUTES_HINT": "Videoer strømmes i adaptiv kvalitet hver måned, opp til grensen for abonnementet ditt. Ut over denne grensen lastes videoer fortsatt opp og spilles av i standardkvalitet.",
+  "COMMON_LEARN_MORE": "Finn ut mer",
   "SETTINGS_BILLING_UPGRADE_HINT": "Oppgrader for økte grenser",
   "SETTINGS_BILLING_SUBSCRIBED_TO_PLAN": "Abonnerer på {plan}",
   "SETTINGS_BILLING_MANAGE_PLAN_HINT": "Administrer planen, betalingsmetoden og fakturaene dine.",

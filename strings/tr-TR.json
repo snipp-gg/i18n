@@ -890,7 +890,7 @@
   "SETTINGS_BILLING_PRIORITY_MINUTES_LABEL": "Öncelikli dakikalar",
   "SETTINGS_BILLING_PRIORITY_MINUTES_VALUE": "{used} / {limit} dk ({percent}% kullanıldı)",
   "SETTINGS_BILLING_PRIORITY_MINUTES_EXCEEDED": "Öncelikli dakikalar aşıldı",
-  "SETTINGS_BILLING_PRIORITY_MINUTES_HINT": "Videolar her ay, planınızın limitine kadar uyarlanabilir kalitede yayınlanır. Bu sınırın ötesinde videolar yine de yüklenir ve standart kalitede oynatılır.",
+  "COMMON_LEARN_MORE": "Daha fazla bilgi",
   "SETTINGS_BILLING_UPGRADE_HINT": "Daha yüksek sınırlar için yükseltin",
   "SETTINGS_BILLING_SUBSCRIBED_TO_PLAN": "{plan} aboneliğiniz var",
   "SETTINGS_BILLING_MANAGE_PLAN_HINT": "Planınızı, ödeme yönteminizi ve faturalarınızı yönetin.",

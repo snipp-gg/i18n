@@ -890,7 +890,7 @@
   "SETTINGS_BILLING_PRIORITY_MINUTES_LABEL": "优先分钟数",
   "SETTINGS_BILLING_PRIORITY_MINUTES_VALUE": "{used} / {limit} 分钟（已用 {percent}%）",
   "SETTINGS_BILLING_PRIORITY_MINUTES_EXCEEDED": "优先时长已超过",
-  "SETTINGS_BILLING_PRIORITY_MINUTES_HINT": "视频每月以自适应画质串流，最高至你套餐的限额。超出此限额后，视频仍可上传并以标准画质播放。",
+  "COMMON_LEARN_MORE": "了解更多",
   "SETTINGS_BILLING_UPGRADE_HINT": "升级以提高限额",
   "SETTINGS_BILLING_SUBSCRIBED_TO_PLAN": "已订阅 {plan}",
   "SETTINGS_BILLING_MANAGE_PLAN_HINT": "自行管理您的计划, 付款方式和发票。",

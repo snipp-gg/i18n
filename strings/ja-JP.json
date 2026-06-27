@@ -890,7 +890,7 @@
   "SETTINGS_BILLING_PRIORITY_MINUTES_LABEL": "優先ストリーミング時間",
   "SETTINGS_BILLING_PRIORITY_MINUTES_VALUE": "{used} / {limit} 分（{percent}% 使用）",
   "SETTINGS_BILLING_PRIORITY_MINUTES_EXCEEDED": "優先ストリーミング時間を超過しました",
-  "SETTINGS_BILLING_PRIORITY_MINUTES_HINT": "動画は毎月、プランの上限までアダプティブ画質でストリーミングされます。それを超えても、動画は引き続き標準画質でアップロード・再生されます。",
+  "COMMON_LEARN_MORE": "詳細",
   "SETTINGS_BILLING_UPGRADE_HINT": "アップグレードして制限を引き上げる",
   "SETTINGS_BILLING_SUBSCRIBED_TO_PLAN": "{plan} に加入中",
   "SETTINGS_BILLING_MANAGE_PLAN_HINT": "プラン、支払い方法、請求書を管理できます。",

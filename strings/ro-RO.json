@@ -890,7 +890,7 @@
   "SETTINGS_BILLING_PRIORITY_MINUTES_LABEL": "Minute prioritare",
   "SETTINGS_BILLING_PRIORITY_MINUTES_VALUE": "{used} / {limit} min ({percent}% utilizate)",
   "SETTINGS_BILLING_PRIORITY_MINUTES_EXCEEDED": "Minute prioritare depășite",
-  "SETTINGS_BILLING_PRIORITY_MINUTES_HINT": "Videoclipurile sunt redate în calitate adaptivă în fiecare lună, până la limita planului tău. Dincolo de aceasta, videoclipurile se încarcă și se redau în continuare la calitate standard.",
+  "COMMON_LEARN_MORE": "Află mai multe",
   "SETTINGS_BILLING_UPGRADE_HINT": "Fă upgrade pentru limite mai mari",
   "SETTINGS_BILLING_SUBSCRIBED_TO_PLAN": "Abonat la {plan}",
   "SETTINGS_BILLING_MANAGE_PLAN_HINT": "Gestionează-ți planul, metoda de plată și facturile.",

@@ -890,7 +890,7 @@
   "SETTINGS_BILLING_PRIORITY_MINUTES_LABEL": "Priority Minutes",
   "SETTINGS_BILLING_PRIORITY_MINUTES_VALUE": "{used} / {limit} min ({percent}% nagamit)",
   "SETTINGS_BILLING_PRIORITY_MINUTES_EXCEEDED": "Lumampas sa priority minutes",
-  "SETTINGS_BILLING_PRIORITY_MINUTES_HINT": "Nagsa-stream ang mga video sa adaptive na kalidad kada buwan, hanggang sa limitasyon ng iyong plan. Lampas dito, mag-a-upload at magpe-play pa rin ang mga video sa standard na kalidad.",
+  "COMMON_LEARN_MORE": "Matuto pa",
   "SETTINGS_BILLING_UPGRADE_HINT": "Mag-upgrade para sa mas malaking limit",
   "SETTINGS_BILLING_SUBSCRIBED_TO_PLAN": "Naka-subscribe sa {plan}",
   "SETTINGS_BILLING_MANAGE_PLAN_HINT": "Pamahalaan ang iyong plan, payment method, at invoices.",

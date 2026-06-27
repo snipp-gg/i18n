@@ -890,7 +890,7 @@
   "SETTINGS_BILLING_PRIORITY_MINUTES_LABEL": "Phút ưu tiên",
   "SETTINGS_BILLING_PRIORITY_MINUTES_VALUE": "{used} / {limit} phút (đã dùng {percent}%)",
   "SETTINGS_BILLING_PRIORITY_MINUTES_EXCEEDED": "Đã vượt số phút ưu tiên",
-  "SETTINGS_BILLING_PRIORITY_MINUTES_HINT": "Video được phát ở chất lượng thích ứng mỗi tháng, tối đa theo giới hạn của gói. Vượt quá giới hạn này, video vẫn được tải lên và phát ở chất lượng tiêu chuẩn.",
+  "COMMON_LEARN_MORE": "Tìm hiểu thêm",
   "SETTINGS_BILLING_UPGRADE_HINT": "Nâng cấp để tăng giới hạn",
   "SETTINGS_BILLING_SUBSCRIBED_TO_PLAN": "Đã đăng ký {plan}",
   "SETTINGS_BILLING_MANAGE_PLAN_HINT": "Quản lý gói, phương thức thanh toán và hóa đơn của bạn.",

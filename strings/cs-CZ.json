@@ -890,7 +890,7 @@
   "SETTINGS_BILLING_PRIORITY_MINUTES_LABEL": "Prioritní minuty",
   "SETTINGS_BILLING_PRIORITY_MINUTES_VALUE": "{used} / {limit} min ({percent}% využito)",
   "SETTINGS_BILLING_PRIORITY_MINUTES_EXCEEDED": "Prioritní minuty překročeny",
-  "SETTINGS_BILLING_PRIORITY_MINUTES_HINT": "Videa se každý měsíc streamují v adaptivní kvalitě, až do limitu tvého plánu. Po jeho překročení se videa stále nahrávají a přehrávají ve standardní kvalitě.",
+  "COMMON_LEARN_MORE": "Zjistit více",
   "SETTINGS_BILLING_UPGRADE_HINT": "Vylepšete pro vyšší limity",
   "SETTINGS_BILLING_SUBSCRIBED_TO_PLAN": "Předplaceno {plan}",
   "SETTINGS_BILLING_MANAGE_PLAN_HINT": "Spravujte svůj plán, platební metodu a faktury.",

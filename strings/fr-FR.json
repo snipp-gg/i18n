@@ -890,7 +890,7 @@
   "SETTINGS_BILLING_PRIORITY_MINUTES_LABEL": "Minutes prioritaires",
   "SETTINGS_BILLING_PRIORITY_MINUTES_VALUE": "{used} / {limit} min ({percent}% utilisées)",
   "SETTINGS_BILLING_PRIORITY_MINUTES_EXCEEDED": "Minutes prioritaires dépassées",
-  "SETTINGS_BILLING_PRIORITY_MINUTES_HINT": "Les vidéos sont diffusées en qualité adaptative chaque mois, jusqu'à la limite de votre formule. Au-delà, les vidéos continuent d'être téléversées et lues en qualité standard.",
+  "COMMON_LEARN_MORE": "En savoir plus",
   "SETTINGS_BILLING_UPGRADE_HINT": "Passez à la version supérieure pour des limites accrues",
   "SETTINGS_BILLING_SUBSCRIBED_TO_PLAN": "Abonné à {plan}",
   "SETTINGS_BILLING_MANAGE_PLAN_HINT": "Gérez votre forfait, votre moyen de paiement et vos factures.",
