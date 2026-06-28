@@ -37,6 +37,7 @@ Each file is a flat JSON map of opaque string IDs to translated text. `source/en
 | [`strings/hr-HR.json`](./strings/hr-HR.json)   | Hrvatski             |
 | [`strings/bg-BG.json`](./strings/bg-BG.json)   | Български            |
 | [`strings/sr-RS.json`](./strings/sr-RS.json)   | Srpski               |
+| [`strings/hi-IN.json`](./strings/hi-IN.json)   | हिन्दी                  |
 
 
 ## Want to help?
