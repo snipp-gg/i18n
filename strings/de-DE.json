@@ -1008,6 +1008,7 @@
   "ERROR_REDIRECT_BILLING": "Weiterleitung zur Abrechnungsseite fehlgeschlagen.",
   "SETTINGS_BILLING_RESETS_NOW": "Wird jetzt zurückgesetzt",
   "SETTINGS_BILLING_RESETS_AT": "Wird {day} {time} zurückgesetzt",
+  "SETTINGS_BILLING_RESETS_ON": "Wird {date} zurückgesetzt",
   "SETTINGS_BLOCKED_DESCRIPTION": "Verwalte die Personen, die du auf Snipp blockiert hast.",
   "SETTINGS_BLOCKED_HEADING": "Blockierte Nutzer",
   "SETTINGS_BLOCKED_EMPTY_HINT": "Du hast noch niemanden blockiert.",

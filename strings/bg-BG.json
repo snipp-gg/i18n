@@ -1008,6 +1008,7 @@
   "ERROR_REDIRECT_BILLING": "Неуспешно пренасочване към страницата за плащане.",
   "SETTINGS_BILLING_RESETS_NOW": "Нулира се сега",
   "SETTINGS_BILLING_RESETS_AT": "Нулира се {day} {time}",
+  "SETTINGS_BILLING_RESETS_ON": "Нулира се {date}",
   "SETTINGS_BLOCKED_DESCRIPTION": "Управлявайте хората, които сте блокирали в Snipp.",
   "SETTINGS_BLOCKED_HEADING": "Блокирани потребители",
   "SETTINGS_BLOCKED_EMPTY_HINT": "Все още не сте блокирали никого.",

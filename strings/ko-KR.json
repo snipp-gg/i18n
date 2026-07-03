@@ -1008,6 +1008,7 @@
   "ERROR_REDIRECT_BILLING": "결제 페이지로 이동하지 못했습니다.",
   "SETTINGS_BILLING_RESETS_NOW": "지금 초기화됨",
   "SETTINGS_BILLING_RESETS_AT": "{day} {time}에 초기화",
+  "SETTINGS_BILLING_RESETS_ON": "{date}에 초기화",
   "SETTINGS_BLOCKED_DESCRIPTION": "Snipp에서 차단한 사람들을 관리하세요.",
   "SETTINGS_BLOCKED_HEADING": "차단한 사용자",
   "SETTINGS_BLOCKED_EMPTY_HINT": "아직 아무도 차단하지 않았습니다.",

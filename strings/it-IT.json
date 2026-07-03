@@ -1008,6 +1008,7 @@
   "ERROR_REDIRECT_BILLING": "Impossibile reindirizzare alla pagina di fatturazione.",
   "SETTINGS_BILLING_RESETS_NOW": "Si azzera ora",
   "SETTINGS_BILLING_RESETS_AT": "Si azzera {day} {time}",
+  "SETTINGS_BILLING_RESETS_ON": "Si azzera {date}",
   "SETTINGS_BLOCKED_DESCRIPTION": "Gestisci le persone che hai bloccato su Snipp.",
   "SETTINGS_BLOCKED_HEADING": "Utenti bloccati",
   "SETTINGS_BLOCKED_EMPTY_HINT": "Non hai ancora bloccato nessuno.",

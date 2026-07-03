@@ -1008,6 +1008,7 @@
   "ERROR_REDIRECT_BILLING": "Gagal mengalihkan ke halaman tagihan.",
   "SETTINGS_BILLING_RESETS_NOW": "Reset sekarang",
   "SETTINGS_BILLING_RESETS_AT": "Reset {day} {time}",
+  "SETTINGS_BILLING_RESETS_ON": "Reset {date}",
   "SETTINGS_BLOCKED_DESCRIPTION": "Kelola orang yang Anda blokir di Snipp.",
   "SETTINGS_BLOCKED_HEADING": "Pengguna diblokir",
   "SETTINGS_BLOCKED_EMPTY_HINT": "Anda belum memblokir siapa pun.",

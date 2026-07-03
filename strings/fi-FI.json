@@ -1008,6 +1008,7 @@
   "ERROR_REDIRECT_BILLING": "Ohjaaminen laskutussivulle epäonnistui.",
   "SETTINGS_BILLING_RESETS_NOW": "Nollautuu nyt",
   "SETTINGS_BILLING_RESETS_AT": "Nollautuu {day} {time}",
+  "SETTINGS_BILLING_RESETS_ON": "Nollautuu {date}",
   "SETTINGS_BLOCKED_DESCRIPTION": "Hallitse Snippissä estämiäsi henkilöitä.",
   "SETTINGS_BLOCKED_HEADING": "Estetyt käyttäjät",
   "SETTINGS_BLOCKED_EMPTY_HINT": "Et ole vielä estänyt ketään.",

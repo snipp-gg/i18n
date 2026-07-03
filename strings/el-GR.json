@@ -1008,6 +1008,7 @@
   "ERROR_REDIRECT_BILLING": "Αποτυχία ανακατεύθυνσης στη σελίδα χρέωσης.",
   "SETTINGS_BILLING_RESETS_NOW": "Επαναφέρεται τώρα",
   "SETTINGS_BILLING_RESETS_AT": "Επαναφέρεται {day} {time}",
+  "SETTINGS_BILLING_RESETS_ON": "Επαναφέρεται {date}",
   "SETTINGS_BLOCKED_DESCRIPTION": "Διαχειριστείτε τα άτομα που έχετε αποκλείσει στο Snipp.",
   "SETTINGS_BLOCKED_HEADING": "Αποκλεισμένοι χρήστες",
   "SETTINGS_BLOCKED_EMPTY_HINT": "Δεν έχετε αποκλείσει κανέναν ακόμα.",

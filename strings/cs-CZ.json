@@ -1008,6 +1008,7 @@
   "ERROR_REDIRECT_BILLING": "Nepodařilo se přesměrovat na stránku fakturace.",
   "SETTINGS_BILLING_RESETS_NOW": "Resetuje se teď",
   "SETTINGS_BILLING_RESETS_AT": "Resetuje se {day} {time}",
+  "SETTINGS_BILLING_RESETS_ON": "Resetuje se {date}",
   "SETTINGS_BLOCKED_DESCRIPTION": "Spravujte lidi, které jste na Snippu zablokovali.",
   "SETTINGS_BLOCKED_HEADING": "Blokovaní uživatelé",
   "SETTINGS_BLOCKED_EMPTY_HINT": "Zatím jste nikoho nezablokovali.",

@@ -1008,6 +1008,7 @@
   "ERROR_REDIRECT_BILLING": "Nu s-a putut face redirecționarea către pagina de facturare.",
   "SETTINGS_BILLING_RESETS_NOW": "Se resetează acum",
   "SETTINGS_BILLING_RESETS_AT": "Se resetează {day} {time}",
+  "SETTINGS_BILLING_RESETS_ON": "Se resetează {date}",
   "SETTINGS_BLOCKED_DESCRIPTION": "Gestionează persoanele pe care le-ai blocat pe Snipp.",
   "SETTINGS_BLOCKED_HEADING": "Utilizatori blocați",
   "SETTINGS_BLOCKED_EMPTY_HINT": "Nu ai blocat încă pe nimeni.",

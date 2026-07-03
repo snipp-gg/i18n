@@ -1008,6 +1008,7 @@
   "ERROR_REDIRECT_BILLING": "跳转到账单页面失败。",
   "SETTINGS_BILLING_RESETS_NOW": "立即重置",
   "SETTINGS_BILLING_RESETS_AT": "在 {day} {time} 重置",
+  "SETTINGS_BILLING_RESETS_ON": "在 {date} 重置",
   "SETTINGS_BLOCKED_DESCRIPTION": "管理您在 Snipp 上屏蔽的用户。",
   "SETTINGS_BLOCKED_HEADING": "已屏蔽的用户",
   "SETTINGS_BLOCKED_EMPTY_HINT": "您还没有屏蔽任何人。",

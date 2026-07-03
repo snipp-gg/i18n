@@ -1008,6 +1008,7 @@
   "ERROR_REDIRECT_BILLING": "ไม่สามารถเปลี่ยนเส้นทางไปยังหน้าการเรียกเก็บเงินได้",
   "SETTINGS_BILLING_RESETS_NOW": "รีเซ็ตตอนนี้",
   "SETTINGS_BILLING_RESETS_AT": "รีเซ็ต {day} {time}",
+  "SETTINGS_BILLING_RESETS_ON": "รีเซ็ต {date}",
   "SETTINGS_BLOCKED_DESCRIPTION": "จัดการบุคคลที่คุณบล็อกไว้บน Snipp",
   "SETTINGS_BLOCKED_HEADING": "ผู้ใช้ที่ถูกบล็อก",
   "SETTINGS_BLOCKED_EMPTY_HINT": "คุณยังไม่ได้บล็อกใครเลย",

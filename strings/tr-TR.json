@@ -1008,6 +1008,7 @@
   "ERROR_REDIRECT_BILLING": "Faturalandırma sayfasına yönlendirilemedi.",
   "SETTINGS_BILLING_RESETS_NOW": "Şimdi sıfırlanıyor",
   "SETTINGS_BILLING_RESETS_AT": "{day} {time} sıfırlanır",
+  "SETTINGS_BILLING_RESETS_ON": "{date} sıfırlanır",
   "SETTINGS_BLOCKED_DESCRIPTION": "Snipp'te engellediğiniz kişileri yönetin.",
   "SETTINGS_BLOCKED_HEADING": "Engellenen kullanıcılar",
   "SETTINGS_BLOCKED_EMPTY_HINT": "Henüz kimseyi engellemediniz.",

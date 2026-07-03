@@ -1008,6 +1008,7 @@
   "ERROR_REDIRECT_BILLING": "Kunne ikke videresende til faktureringssiden.",
   "SETTINGS_BILLING_RESETS_NOW": "Tilbakestilles nå",
   "SETTINGS_BILLING_RESETS_AT": "Tilbakestilles {day} {time}",
+  "SETTINGS_BILLING_RESETS_ON": "Tilbakestilles {date}",
   "SETTINGS_BLOCKED_DESCRIPTION": "Administrer personer du har blokkert på Snipp.",
   "SETTINGS_BLOCKED_HEADING": "Blokkerte brukere",
   "SETTINGS_BLOCKED_EMPTY_HINT": "Du har ikke blokkert noen ennå.",

@@ -1008,6 +1008,7 @@
   "ERROR_REDIRECT_BILLING": "Neuspešno preusmeravanje na stranicu naplate.",
   "SETTINGS_BILLING_RESETS_NOW": "Resetuje se sada",
   "SETTINGS_BILLING_RESETS_AT": "Resetuje se {day} u {time}",
+  "SETTINGS_BILLING_RESETS_ON": "Resetuje se {date}",
   "SETTINGS_BLOCKED_DESCRIPTION": "Upravljajte ljudima koje ste blokirali na Snipp-u.",
   "SETTINGS_BLOCKED_HEADING": "Blokirani korisnici",
   "SETTINGS_BLOCKED_EMPTY_HINT": "Još niste nikoga blokirali.",

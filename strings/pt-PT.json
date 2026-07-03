@@ -1008,6 +1008,7 @@
   "ERROR_REDIRECT_BILLING": "Falha ao redirecionar para a página de faturação.",
   "SETTINGS_BILLING_RESETS_NOW": "Reinicia agora",
   "SETTINGS_BILLING_RESETS_AT": "Reinicia {day} {time}",
+  "SETTINGS_BILLING_RESETS_ON": "Reinicia {date}",
   "SETTINGS_BLOCKED_DESCRIPTION": "Gira as pessoas que bloqueou no Snipp.",
   "SETTINGS_BLOCKED_HEADING": "Utilizadores bloqueados",
   "SETTINGS_BLOCKED_EMPTY_HINT": "Ainda não bloqueou ninguém.",

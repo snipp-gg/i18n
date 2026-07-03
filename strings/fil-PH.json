@@ -1008,6 +1008,7 @@
   "ERROR_REDIRECT_BILLING": "Hindi na-redirect sa billing page.",
   "SETTINGS_BILLING_RESETS_NOW": "Mare-reset ngayon",
   "SETTINGS_BILLING_RESETS_AT": "Mare-reset {day} {time}",
+  "SETTINGS_BILLING_RESETS_ON": "Mare-reset {date}",
   "SETTINGS_BLOCKED_DESCRIPTION": "Pamahalaan ang mga taong na-block mo sa Snipp.",
   "SETTINGS_BLOCKED_HEADING": "Mga naka-block na user",
   "SETTINGS_BLOCKED_EMPTY_HINT": "Wala ka pang na-block.",

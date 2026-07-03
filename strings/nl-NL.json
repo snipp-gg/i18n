@@ -1008,6 +1008,7 @@
   "ERROR_REDIRECT_BILLING": "Doorsturen naar facturatiepagina mislukt.",
   "SETTINGS_BILLING_RESETS_NOW": "Reset nu",
   "SETTINGS_BILLING_RESETS_AT": "Reset {day} {time}",
+  "SETTINGS_BILLING_RESETS_ON": "Reset {date}",
   "SETTINGS_BLOCKED_DESCRIPTION": "Beheer mensen die je hebt geblokkeerd op Snipp.",
   "SETTINGS_BLOCKED_HEADING": "Geblokkeerde gebruikers",
   "SETTINGS_BLOCKED_EMPTY_HINT": "Je hebt nog niemand geblokkeerd.",

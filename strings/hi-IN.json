@@ -1008,6 +1008,7 @@
   "ERROR_REDIRECT_BILLING": "बिलिंग पेज पर रीडायरेक्ट करने में विफल।",
   "SETTINGS_BILLING_RESETS_NOW": "अभी रीसेट होगा",
   "SETTINGS_BILLING_RESETS_AT": "{day} {time} को रीसेट होगा",
+  "SETTINGS_BILLING_RESETS_ON": "{date} को रीसेट होगा",
   "SETTINGS_BLOCKED_DESCRIPTION": "Snipp पर आपने जिन लोगों को ब्लॉक किया है उन्हें मैनेज करें।",
   "SETTINGS_BLOCKED_HEADING": "ब्लॉक किए गए उपयोगकर्ता",
   "SETTINGS_BLOCKED_EMPTY_HINT": "आपने अभी तक किसी को ब्लॉक नहीं किया है।",

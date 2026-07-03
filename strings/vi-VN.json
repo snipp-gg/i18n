@@ -1008,6 +1008,7 @@
   "ERROR_REDIRECT_BILLING": "Không thể chuyển đến trang thanh toán.",
   "SETTINGS_BILLING_RESETS_NOW": "Đặt lại ngay bây giờ",
   "SETTINGS_BILLING_RESETS_AT": "Đặt lại {day} {time}",
+  "SETTINGS_BILLING_RESETS_ON": "Đặt lại {date}",
   "SETTINGS_BLOCKED_DESCRIPTION": "Quản lý những người bạn đã chặn trên Snipp.",
   "SETTINGS_BLOCKED_HEADING": "Người dùng đã chặn",
   "SETTINGS_BLOCKED_EMPTY_HINT": "Bạn chưa chặn ai.",
