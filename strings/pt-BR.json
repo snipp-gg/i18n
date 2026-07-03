@@ -1008,6 +1008,7 @@
   "ERROR_REDIRECT_BILLING": "Falha ao redirecionar para a página de cobrança.",
   "SETTINGS_BILLING_RESETS_NOW": "Redefine agora",
   "SETTINGS_BILLING_RESETS_AT": "Redefine {day} {time}",
+  "SETTINGS_BILLING_RESETS_ON": "Resets {date}",
   "SETTINGS_BLOCKED_DESCRIPTION": "Gerencie as pessoas que você bloqueou no Snipp.",
   "SETTINGS_BLOCKED_HEADING": "Usuários bloqueados",
   "SETTINGS_BLOCKED_EMPTY_HINT": "Você ainda não bloqueou ninguém.",
