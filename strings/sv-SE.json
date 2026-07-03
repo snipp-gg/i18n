@@ -1008,6 +1008,7 @@
   "ERROR_REDIRECT_BILLING": "Kunde inte omdirigera till faktureringssidan.",
   "SETTINGS_BILLING_RESETS_NOW": "Återställs nu",
   "SETTINGS_BILLING_RESETS_AT": "Återställs {day} {time}",
+  "SETTINGS_BILLING_RESETS_ON": "Resets {date}",
   "SETTINGS_BLOCKED_DESCRIPTION": "Hantera personer du har blockerat på Snipp.",
   "SETTINGS_BLOCKED_HEADING": "Blockerade användare",
   "SETTINGS_BLOCKED_EMPTY_HINT": "Du har inte blockerat någon än.",
