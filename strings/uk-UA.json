@@ -1008,6 +1008,7 @@
   "ERROR_REDIRECT_BILLING": "Не вдалося перенаправити на сторінку оплати.",
   "SETTINGS_BILLING_RESETS_NOW": "Скидається зараз",
   "SETTINGS_BILLING_RESETS_AT": "Скидається {day} о {time}",
+  "SETTINGS_BILLING_RESETS_ON": "Resets {date}",
   "SETTINGS_BLOCKED_DESCRIPTION": "Керуйте людьми, яких ви заблокували на Snipp.",
   "SETTINGS_BLOCKED_HEADING": "Заблоковані користувачі",
   "SETTINGS_BLOCKED_EMPTY_HINT": "Ви ще нікого не заблокували.",
