@@ -1008,6 +1008,7 @@
   "ERROR_REDIRECT_BILLING": "Failed to redirect to billing page.",
   "SETTINGS_BILLING_RESETS_NOW": "Resets now",
   "SETTINGS_BILLING_RESETS_AT": "Resets {day} {time}",
+  "SETTINGS_BILLING_RESETS_ON": "Resets {date}",
   "SETTINGS_BLOCKED_DESCRIPTION": "Manage people you've blocked on Snipp.",
   "SETTINGS_BLOCKED_HEADING": "Blocked users",
   "SETTINGS_BLOCKED_EMPTY_HINT": "You haven't blocked anyone yet.",
