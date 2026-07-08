@@ -1070,6 +1070,11 @@
   "USER_PROFILE_POSTS_EMPTY_HEADING": "Ei vielä julkaisuja täällä...",
   "USER_PROFILE_POSTS_EMPTY_MESSAGE": "Tämä käyttäjä ei ole vielä julkaissut mitään.",
   "USER_PROFILE_ERROR_SUSPEND_USER": "Käyttäjän jäädytys epäonnistui.",
+  "USER_PROFILE_DEMONETIZE_CONFIRM_MESSAGE": "Poistetaanko @{username} sisällöntekijöiden maksuohjelmasta? Hän saa sähköpostin, että monetisointi on keskeytetty.",
+  "USER_PROFILE_MONETIZE_CONFIRM_MESSAGE": "Lisätäänkö @{username} sisällöntekijöiden maksuohjelmaan?",
+  "USER_PROFILE_DEMONETIZED_SUCCESS": "@{username} demonetisoitu",
+  "USER_PROFILE_MONETIZED_SUCCESS": "@{username} monetisoitu",
+  "USER_PROFILE_ERROR_TOGGLE_MONETIZE": "Monetisoinnin päivitys epäonnistui.",
   "USER_PROFILE_ERROR_UPDATE_BLOCK_STATUS": "Estotilan päivitys epäonnistui.",
   "ERROR_GENERIC": "Jotain meni pieleen.",
   "USER_PROFILE_TOAST_BLOCKED_USER": "Estettiin @{username}",
@@ -1598,7 +1603,7 @@
   "SUPPORT_PAYOUTS_POOL_ITEM_GROWS": "Potti kasvaa Snipp+:n kasvaessa, joten tilaajiksi ryhtyvien ihmisten suositteleminen auttaa kaikkia.",
   "SUPPORT_PAYOUTS_POOL_ITEM_ENGAGEMENT": "Mitä enemmän ihmisiä suosittelet, sitä suurempi osuutesi.",
   "SUPPORT_PAYOUTS_WHEN_HEADING": "Milloin saat maksun",
-  "SUPPORT_PAYOUTS_WHEN_ITEM_BIWEEKLY": "Maksut lasketaan kahden viikon välein, kuukauden 1. ja 15. päivä, ja lähetetään pian jakson päätyttyä.",
+  "SUPPORT_PAYOUTS_WHEN_ITEM_BIWEEKLY": "Maksut lasketaan kahden viikon välein ja lähetetään pian jakson päätyttyä.",
   "SUPPORT_PAYOUTS_WHEN_ITEM_MINIMUM": "Jokaisella jaksolla on vähimmäismaksusumma. Jos saldosi jää sen alle, se siirtyy seuraavaan maksuusi ja lisätään siihen.",
   "SUPPORT_PAYOUTS_WHEN_P1_BEFORE_LINK": "Voit seurata arvioitua maksuasi milloin tahansa kohdassa",
   "SUPPORT_PAYOUTS_WHEN_P1_LINK": "analytiikkanäkymä",
@@ -1967,5 +1972,7 @@
   "DOWNLOADS_ANDROID_NAME": "Android",
   "DOWNLOADS_ANDROID_NOTE": "Puhelimet ja tabletit.",
   "USER_ACTIONS_MENU_BLOCK": "Estä käyttäjä",
-  "USER_ACTIONS_MENU_SUSPEND": "Jäädytä käyttäjä"
+  "USER_ACTIONS_MENU_SUSPEND": "Jäädytä käyttäjä",
+  "USER_ACTIONS_MENU_DEMONETIZE": "Poista käyttäjän monetisointi",
+  "USER_ACTIONS_MENU_MONETIZE": "Monetisoi käyttäjä"
 }

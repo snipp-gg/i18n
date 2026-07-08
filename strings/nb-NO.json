@@ -1070,6 +1070,11 @@
   "USER_PROFILE_POSTS_EMPTY_HEADING": "Ingen innlegg her ennå...",
   "USER_PROFILE_POSTS_EMPTY_MESSAGE": "Denne brukeren har ikke lagt ut noe ennå.",
   "USER_PROFILE_ERROR_SUSPEND_USER": "Kunne ikke suspendere brukeren.",
+  "USER_PROFILE_DEMONETIZE_CONFIRM_MESSAGE": "Fjerne @{username} fra utbetalingsprogrammet for skapere? Personen får en e-post om at monetiseringen er satt på pause.",
+  "USER_PROFILE_MONETIZE_CONFIRM_MESSAGE": "Legge til @{username} i utbetalingsprogrammet for skapere?",
+  "USER_PROFILE_DEMONETIZED_SUCCESS": "@{username} avmonetisert",
+  "USER_PROFILE_MONETIZED_SUCCESS": "@{username} monetisert",
+  "USER_PROFILE_ERROR_TOGGLE_MONETIZE": "Kunne ikke oppdatere monetiseringen.",
   "USER_PROFILE_ERROR_UPDATE_BLOCK_STATUS": "Kunne ikke oppdatere blokkeringsstatus.",
   "ERROR_GENERIC": "Noe gikk galt.",
   "USER_PROFILE_TOAST_BLOCKED_USER": "Blokkerte @{username}",
@@ -1598,7 +1603,7 @@
   "SUPPORT_PAYOUTS_POOL_ITEM_GROWS": "Puljen vil vokse etter hvert som Snipp+ vokser, så å henvise folk som abonnerer hjelper alle.",
   "SUPPORT_PAYOUTS_POOL_ITEM_ENGAGEMENT": "Jo flere folk du verver, desto større blir andelen din.",
   "SUPPORT_PAYOUTS_WHEN_HEADING": "Når du blir betalt",
-  "SUPPORT_PAYOUTS_WHEN_ITEM_BIWEEKLY": "Utbetalinger beregnes annenhver uke, den 1. og 15., og sendes kort tid etter at hver periode er over.",
+  "SUPPORT_PAYOUTS_WHEN_ITEM_BIWEEKLY": "Utbetalinger beregnes annenhver uke og sendes kort tid etter at hver periode er over.",
   "SUPPORT_PAYOUTS_WHEN_ITEM_MINIMUM": "Det finnes et minstebeløp for utbetaling hver periode. Er du under grensen, overføres saldoen din og legges til neste utbetaling.",
   "SUPPORT_PAYOUTS_WHEN_P1_BEFORE_LINK": "Du kan følge den estimerte utbetalingen din når som helst i ditt",
   "SUPPORT_PAYOUTS_WHEN_P1_LINK": "analysepanel",
@@ -1967,5 +1972,7 @@
   "DOWNLOADS_ANDROID_NAME": "Android",
   "DOWNLOADS_ANDROID_NOTE": "Telefoner og nettbrett.",
   "USER_ACTIONS_MENU_BLOCK": "Blokker bruker",
-  "USER_ACTIONS_MENU_SUSPEND": "Suspender bruker"
+  "USER_ACTIONS_MENU_SUSPEND": "Suspender bruker",
+  "USER_ACTIONS_MENU_DEMONETIZE": "Avmonetiser bruker",
+  "USER_ACTIONS_MENU_MONETIZE": "Monetiser bruker"
 }

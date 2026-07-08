@@ -1070,6 +1070,11 @@
   "USER_PROFILE_POSTS_EMPTY_HEADING": "Nicio postare aici încă...",
   "USER_PROFILE_POSTS_EMPTY_MESSAGE": "Acest utilizator nu a postat încă nimic.",
   "USER_PROFILE_ERROR_SUSPEND_USER": "Nu s-a putut suspenda utilizatorul.",
+  "USER_PROFILE_DEMONETIZE_CONFIRM_MESSAGE": "Elimini @{username} din programul de plăți pentru creatori? Va primi un e-mail că monetizarea i-a fost suspendată.",
+  "USER_PROFILE_MONETIZE_CONFIRM_MESSAGE": "Adaugi @{username} în programul de plăți pentru creatori?",
+  "USER_PROFILE_DEMONETIZED_SUCCESS": "@{username} demonetizat",
+  "USER_PROFILE_MONETIZED_SUCCESS": "@{username} monetizat",
+  "USER_PROFILE_ERROR_TOGGLE_MONETIZE": "Actualizarea monetizării a eșuat.",
   "USER_PROFILE_ERROR_UPDATE_BLOCK_STATUS": "Nu s-a putut actualiza starea de blocare.",
   "ERROR_GENERIC": "Ceva n-a mers bine.",
   "USER_PROFILE_TOAST_BLOCKED_USER": "L-ai blocat pe @{username}",
@@ -1598,7 +1603,7 @@
   "SUPPORT_PAYOUTS_POOL_ITEM_GROWS": "Fondul va crește pe măsură ce Snipp+ crește, așa că recomandarea persoanelor care se abonează ajută pe toată lumea.",
   "SUPPORT_PAYOUTS_POOL_ITEM_ENGAGEMENT": "Cu cât recomanzi mai mulți oameni, cu atât partea ta este mai mare.",
   "SUPPORT_PAYOUTS_WHEN_HEADING": "Când ești plătit",
-  "SUPPORT_PAYOUTS_WHEN_ITEM_BIWEEKLY": "Plățile sunt calculate la fiecare două săptămâni, pe 1 și pe 15, și sunt trimise la scurt timp după încheierea fiecărei perioade.",
+  "SUPPORT_PAYOUTS_WHEN_ITEM_BIWEEKLY": "Plățile sunt calculate la fiecare două săptămâni și sunt trimise la scurt timp după încheierea fiecărei perioade.",
   "SUPPORT_PAYOUTS_WHEN_ITEM_MINIMUM": "Există o sumă minimă de plată în fiecare perioadă. Dacă te afli sub ea, soldul tău se reportează și se adaugă la următoarea plată.",
   "SUPPORT_PAYOUTS_WHEN_P1_BEFORE_LINK": "Îți poți urmări oricând plata estimată în",
   "SUPPORT_PAYOUTS_WHEN_P1_LINK": "panoul de statistici",
@@ -1967,5 +1972,7 @@
   "DOWNLOADS_ANDROID_NAME": "Android",
   "DOWNLOADS_ANDROID_NOTE": "Telefoane și tablete.",
   "USER_ACTIONS_MENU_BLOCK": "Blochează utilizatorul",
-  "USER_ACTIONS_MENU_SUSPEND": "Suspendă utilizatorul"
+  "USER_ACTIONS_MENU_SUSPEND": "Suspendă utilizatorul",
+  "USER_ACTIONS_MENU_DEMONETIZE": "Demonetizează utilizatorul",
+  "USER_ACTIONS_MENU_MONETIZE": "Monetizează utilizatorul"
 }

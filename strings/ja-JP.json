@@ -1070,6 +1070,11 @@
   "USER_PROFILE_POSTS_EMPTY_HEADING": "まだ投稿はありません...",
   "USER_PROFILE_POSTS_EMPTY_MESSAGE": "このユーザーはまだ何も投稿していません。",
   "USER_PROFILE_ERROR_SUSPEND_USER": "ユーザーの停止に失敗しました。",
+  "USER_PROFILE_DEMONETIZE_CONFIRM_MESSAGE": "@{username} をクリエイター報酬プログラムから削除しますか？収益化が停止されたことがメールで通知されます。",
+  "USER_PROFILE_MONETIZE_CONFIRM_MESSAGE": "@{username} をクリエイター報酬プログラムに追加しますか？",
+  "USER_PROFILE_DEMONETIZED_SUCCESS": "@{username} の収益化を停止しました",
+  "USER_PROFILE_MONETIZED_SUCCESS": "@{username} の収益化を有効にしました",
+  "USER_PROFILE_ERROR_TOGGLE_MONETIZE": "収益化の更新に失敗しました。",
   "USER_PROFILE_ERROR_UPDATE_BLOCK_STATUS": "ブロック状態の更新に失敗しました。",
   "ERROR_GENERIC": "問題が発生しました。",
   "USER_PROFILE_TOAST_BLOCKED_USER": "@{username} をブロックしました",
@@ -1598,7 +1603,7 @@
   "SUPPORT_PAYOUTS_POOL_ITEM_GROWS": "プールは Snipp+ の成長とともに拡大します。購読者を紹介すると全員の利益になります。",
   "SUPPORT_PAYOUTS_POOL_ITEM_ENGAGEMENT": "招く人が多いほど、あなたの取り分も大きくなります。",
   "SUPPORT_PAYOUTS_WHEN_HEADING": "支払いのタイミング",
-  "SUPPORT_PAYOUTS_WHEN_ITEM_BIWEEKLY": "報酬は2週間ごと、毎月1日と15日に計算され、各期間の終了後まもなく支払われます。",
+  "SUPPORT_PAYOUTS_WHEN_ITEM_BIWEEKLY": "報酬は2週間ごとに計算され、各期間の終了後まもなく支払われます。",
   "SUPPORT_PAYOUTS_WHEN_ITEM_MINIMUM": "各期間には最低支払額があります。それに満たない場合、残高は次回に繰り越され、次の支払いに加算されます。",
   "SUPPORT_PAYOUTS_WHEN_P1_BEFORE_LINK": "推定報酬はいつでもアカウント設定の",
   "SUPPORT_PAYOUTS_WHEN_P1_LINK": "アナリティクスダッシュボード",
@@ -1967,5 +1972,7 @@
   "DOWNLOADS_ANDROID_NAME": "Android",
   "DOWNLOADS_ANDROID_NOTE": "スマートフォンとタブレット。",
   "USER_ACTIONS_MENU_BLOCK": "ユーザーをブロック",
-  "USER_ACTIONS_MENU_SUSPEND": "ユーザーを停止"
+  "USER_ACTIONS_MENU_SUSPEND": "ユーザーを停止",
+  "USER_ACTIONS_MENU_DEMONETIZE": "ユーザーの収益化を停止",
+  "USER_ACTIONS_MENU_MONETIZE": "ユーザーの収益化を有効化"
 }

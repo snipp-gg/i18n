@@ -1070,6 +1070,11 @@
   "USER_PROFILE_POSTS_EMPTY_HEADING": "Burada henüz gönderi yok...",
   "USER_PROFILE_POSTS_EMPTY_MESSAGE": "Bu kullanıcı henüz hiçbir şey paylaşmadı.",
   "USER_PROFILE_ERROR_SUSPEND_USER": "Kullanıcı askıya alınamadı.",
+  "USER_PROFILE_DEMONETIZE_CONFIRM_MESSAGE": "@{username} içerik üretici ödeme programından çıkarılsın mı? Gelir elde etmesinin askıya alındığına dair e-posta gönderilecek.",
+  "USER_PROFILE_MONETIZE_CONFIRM_MESSAGE": "@{username} içerik üretici ödeme programına eklensin mi?",
+  "USER_PROFILE_DEMONETIZED_SUCCESS": "@{username} gelir dışı bırakıldı",
+  "USER_PROFILE_MONETIZED_SUCCESS": "@{username} gelire dahil edildi",
+  "USER_PROFILE_ERROR_TOGGLE_MONETIZE": "Gelir durumu güncellenemedi.",
   "USER_PROFILE_ERROR_UPDATE_BLOCK_STATUS": "Engelleme durumu güncellenemedi.",
   "ERROR_GENERIC": "Bir şeyler ters gitti.",
   "USER_PROFILE_TOAST_BLOCKED_USER": "@{username} engellendi",
@@ -1598,7 +1603,7 @@
   "SUPPORT_PAYOUTS_POOL_ITEM_GROWS": "Havuz, Snipp+ büyüdükçe büyüyecek, bu yüzden abone olacak kişileri yönlendirmek herkese yardımcı olur.",
   "SUPPORT_PAYOUTS_POOL_ITEM_ENGAGEMENT": "Ne kadar çok kişi davet edersen, payın o kadar büyük olur.",
   "SUPPORT_PAYOUTS_WHEN_HEADING": "Ne zaman ödeme alırsın",
-  "SUPPORT_PAYOUTS_WHEN_ITEM_BIWEEKLY": "Ödemeler iki haftada bir, ayın 1'inde ve 15'inde hesaplanır ve her dönem sona erdikten kısa süre sonra gönderilir.",
+  "SUPPORT_PAYOUTS_WHEN_ITEM_BIWEEKLY": "Ödemeler iki haftada bir hesaplanır ve her dönem sona erdikten kısa süre sonra gönderilir.",
   "SUPPORT_PAYOUTS_WHEN_ITEM_MINIMUM": "Her dönem için minimum bir ödeme tutarı vardır. Bu tutarın altında kalırsan bakiyen bir sonraki ödemene aktarılır ve eklenir.",
   "SUPPORT_PAYOUTS_WHEN_P1_BEFORE_LINK": "Tahmini ödemeni istediğin zaman hesap ayarlarındaki",
   "SUPPORT_PAYOUTS_WHEN_P1_LINK": "analiz panelinden",
@@ -1967,5 +1972,7 @@
   "DOWNLOADS_ANDROID_NAME": "Android",
   "DOWNLOADS_ANDROID_NOTE": "Telefonlar ve tabletler.",
   "USER_ACTIONS_MENU_BLOCK": "Kullanıcıyı Engelle",
-  "USER_ACTIONS_MENU_SUSPEND": "Kullanıcıyı Askıya Al"
+  "USER_ACTIONS_MENU_SUSPEND": "Kullanıcıyı Askıya Al",
+  "USER_ACTIONS_MENU_DEMONETIZE": "Kullanıcının gelirini kapat",
+  "USER_ACTIONS_MENU_MONETIZE": "Kullanıcının gelirini aç"
 }

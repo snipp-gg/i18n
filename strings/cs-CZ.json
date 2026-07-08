@@ -1070,6 +1070,11 @@
   "USER_PROFILE_POSTS_EMPTY_HEADING": "Zatím tu nejsou žádné příspěvky...",
   "USER_PROFILE_POSTS_EMPTY_MESSAGE": "Tento uživatel zatím nic nezveřejnil.",
   "USER_PROFILE_ERROR_SUSPEND_USER": "Nepodařilo se pozastavit uživatele.",
+  "USER_PROFILE_DEMONETIZE_CONFIRM_MESSAGE": "Odebrat @{username} z programu výplat pro tvůrce? Dostane e-mail, že jeho monetizace byla pozastavena.",
+  "USER_PROFILE_MONETIZE_CONFIRM_MESSAGE": "Přidat @{username} do programu výplat pro tvůrce?",
+  "USER_PROFILE_DEMONETIZED_SUCCESS": "Monetizace @{username} zrušena",
+  "USER_PROFILE_MONETIZED_SUCCESS": "@{username} monetizován",
+  "USER_PROFILE_ERROR_TOGGLE_MONETIZE": "Nepodařilo se aktualizovat monetizaci.",
   "USER_PROFILE_ERROR_UPDATE_BLOCK_STATUS": "Nepodařilo se aktualizovat stav blokování.",
   "ERROR_GENERIC": "Něco se pokazilo.",
   "USER_PROFILE_TOAST_BLOCKED_USER": "Zablokován @{username}",
@@ -1598,7 +1603,7 @@
   "SUPPORT_PAYOUTS_POOL_ITEM_GROWS": "Fond poroste, jak poroste Snipp+, takže doporučování lidí, kteří si předplatí, pomáhá všem.",
   "SUPPORT_PAYOUTS_POOL_ITEM_ENGAGEMENT": "Čím více lidí doporučíte, tím větší je váš podíl.",
   "SUPPORT_PAYOUTS_WHEN_HEADING": "Kdy dostanete zaplaceno",
-  "SUPPORT_PAYOUTS_WHEN_ITEM_BIWEEKLY": "Výplaty se počítají každé dva týdny, vždy 1. a 15. dne v měsíci, a odesílají se krátce po skončení každého období.",
+  "SUPPORT_PAYOUTS_WHEN_ITEM_BIWEEKLY": "Výplaty se počítají každé dva týdny a odesílají se krátce po skončení každého období.",
   "SUPPORT_PAYOUTS_WHEN_ITEM_MINIMUM": "Pro každé období platí minimální částka k výplatě. Pokud ji nedosáhnete, váš zůstatek se převede a přičte k příští výplatě.",
   "SUPPORT_PAYOUTS_WHEN_P1_BEFORE_LINK": "Svou odhadovanou výplatu můžete kdykoli sledovat na",
   "SUPPORT_PAYOUTS_WHEN_P1_LINK": "panelu analytiky",
@@ -1967,5 +1972,7 @@
   "DOWNLOADS_ANDROID_NAME": "Android",
   "DOWNLOADS_ANDROID_NOTE": "Telefony a tablety.",
   "USER_ACTIONS_MENU_BLOCK": "Zablokovat uživatele",
-  "USER_ACTIONS_MENU_SUSPEND": "Pozastavit uživatele"
+  "USER_ACTIONS_MENU_SUSPEND": "Pozastavit uživatele",
+  "USER_ACTIONS_MENU_DEMONETIZE": "Zrušit monetizaci uživatele",
+  "USER_ACTIONS_MENU_MONETIZE": "Monetizovat uživatele"
 }

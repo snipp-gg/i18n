@@ -1070,6 +1070,11 @@
   "USER_PROFILE_POSTS_EMPTY_HEADING": "Все още няма публикации тук...",
   "USER_PROFILE_POSTS_EMPTY_MESSAGE": "Този потребител още не е публикувал нищо.",
   "USER_PROFILE_ERROR_SUSPEND_USER": "Неуспешно спиране на потребителя.",
+  "USER_PROFILE_DEMONETIZE_CONFIRM_MESSAGE": "Да се премахне ли @{username} от програмата за плащания към създатели? Ще получи имейл, че монетизацията му е спряна.",
+  "USER_PROFILE_MONETIZE_CONFIRM_MESSAGE": "Да се добави ли @{username} към програмата за плащания към създатели?",
+  "USER_PROFILE_DEMONETIZED_SUCCESS": "@{username} е демонетизиран",
+  "USER_PROFILE_MONETIZED_SUCCESS": "@{username} е монетизиран",
+  "USER_PROFILE_ERROR_TOGGLE_MONETIZE": "Неуспешно обновяване на монетизацията.",
   "USER_PROFILE_ERROR_UPDATE_BLOCK_STATUS": "Неуспешно обновяване на състоянието на блокиране.",
   "ERROR_GENERIC": "Нещо се обърка.",
   "USER_PROFILE_TOAST_BLOCKED_USER": "@{username} е блокиран",
@@ -1598,7 +1603,7 @@
   "SUPPORT_PAYOUTS_POOL_ITEM_GROWS": "Фондът ще расте с растежа на Snipp+, така че привличането на хора, които се абонират, помага на всички.",
   "SUPPORT_PAYOUTS_POOL_ITEM_ENGAGEMENT": "Колкото повече хора препоръчвате, толкова по-голям е делът ви.",
   "SUPPORT_PAYOUTS_WHEN_HEADING": "Кога получавате плащане",
-  "SUPPORT_PAYOUTS_WHEN_ITEM_BIWEEKLY": "Изплащанията се изчисляват на всеки две седмици, на 1-во и 15-о число, и се превеждат скоро след края на всеки период.",
+  "SUPPORT_PAYOUTS_WHEN_ITEM_BIWEEKLY": "Изплащанията се изчисляват на всеки две седмици и се превеждат скоро след края на всеки период.",
   "SUPPORT_PAYOUTS_WHEN_ITEM_MINIMUM": "Има минимална сума за изплащане за всеки период. Ако балансът ви е под нея, той се прехвърля и се добавя към следващото ви плащане.",
   "SUPPORT_PAYOUTS_WHEN_P1_BEFORE_LINK": "Можете да проследявате прогнозното си изплащане по всяко време в",
   "SUPPORT_PAYOUTS_WHEN_P1_LINK": "таблото за анализи",
@@ -1967,5 +1972,7 @@
   "DOWNLOADS_ANDROID_NAME": "Android",
   "DOWNLOADS_ANDROID_NOTE": "Телефони и таблети.",
   "USER_ACTIONS_MENU_BLOCK": "Блокирай потребител",
-  "USER_ACTIONS_MENU_SUSPEND": "Спиране на потребител"
+  "USER_ACTIONS_MENU_SUSPEND": "Спиране на потребител",
+  "USER_ACTIONS_MENU_DEMONETIZE": "Демонетизиране на потребителя",
+  "USER_ACTIONS_MENU_MONETIZE": "Монетизиране на потребителя"
 }

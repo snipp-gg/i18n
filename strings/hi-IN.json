@@ -1070,6 +1070,11 @@
   "USER_PROFILE_POSTS_EMPTY_HEADING": "अभी यहाँ कोई पोस्ट नहीं...",
   "USER_PROFILE_POSTS_EMPTY_MESSAGE": "इस यूज़र ने अभी तक कुछ भी पोस्ट नहीं किया है।",
   "USER_PROFILE_ERROR_SUSPEND_USER": "उपयोगकर्ता को सस्पेंड करने में विफल।",
+  "USER_PROFILE_DEMONETIZE_CONFIRM_MESSAGE": "@{username} को क्रिएटर भुगतान प्रोग्राम से हटाएं? उन्हें ईमेल भेजा जाएगा कि उनका मुद्रीकरण निलंबित कर दिया गया है।",
+  "USER_PROFILE_MONETIZE_CONFIRM_MESSAGE": "@{username} को क्रिएटर भुगतान प्रोग्राम में जोड़ें?",
+  "USER_PROFILE_DEMONETIZED_SUCCESS": "@{username} का मुद्रीकरण बंद किया गया",
+  "USER_PROFILE_MONETIZED_SUCCESS": "@{username} का मुद्रीकरण चालू किया गया",
+  "USER_PROFILE_ERROR_TOGGLE_MONETIZE": "मुद्रीकरण अपडेट करने में विफल।",
   "USER_PROFILE_ERROR_UPDATE_BLOCK_STATUS": "ब्लॉक स्थिति अपडेट करने में विफल।",
   "ERROR_GENERIC": "कुछ गड़बड़ हो गई।",
   "USER_PROFILE_TOAST_BLOCKED_USER": "@{username} को ब्लॉक किया गया",
@@ -1598,7 +1603,7 @@
   "SUPPORT_PAYOUTS_POOL_ITEM_GROWS": "Snipp+ के बढ़ने के साथ पूल भी बढ़ेगा, इसलिए सब्सक्राइब करने वाले लोगों को रेफ़र करना सभी की मदद करता है।",
   "SUPPORT_PAYOUTS_POOL_ITEM_ENGAGEMENT": "आप जितने ज़्यादा लोग रेफ़र करेंगे, आपका हिस्सा उतना बड़ा होगा।",
   "SUPPORT_PAYOUTS_WHEN_HEADING": "आपको भुगतान कब मिलता है",
-  "SUPPORT_PAYOUTS_WHEN_ITEM_BIWEEKLY": "भुगतान की गणना हर दो सप्ताह में, महीने की 1 और 15 तारीख को की जाती है और हर अवधि समाप्त होने के तुरंत बाद भेज दी जाती है।",
+  "SUPPORT_PAYOUTS_WHEN_ITEM_BIWEEKLY": "भुगतान की गणना हर दो सप्ताह में की जाती है और हर अवधि समाप्त होने के तुरंत बाद भेज दी जाती है।",
   "SUPPORT_PAYOUTS_WHEN_ITEM_MINIMUM": "हर अवधि में एक न्यूनतम भुगतान राशि होती है। अगर आपका बैलेंस उससे कम है, तो वह अगली बार के भुगतान में जुड़कर आगे बढ़ा दिया जाता है।",
   "SUPPORT_PAYOUTS_WHEN_P1_BEFORE_LINK": "आप अपने अनुमानित पेआउट को कभी भी अपनी अकाउंट सेटिंग्स के तहत अपने",
   "SUPPORT_PAYOUTS_WHEN_P1_LINK": "एनालिटिक्स डैशबोर्ड",
@@ -1967,5 +1972,7 @@
   "DOWNLOADS_ANDROID_NAME": "Android",
   "DOWNLOADS_ANDROID_NOTE": "फ़ोन और टैबलेट।",
   "USER_ACTIONS_MENU_BLOCK": "यूज़र को ब्लॉक करें",
-  "USER_ACTIONS_MENU_SUSPEND": "यूज़र को सस्पेंड करें"
+  "USER_ACTIONS_MENU_SUSPEND": "यूज़र को सस्पेंड करें",
+  "USER_ACTIONS_MENU_DEMONETIZE": "उपयोगकर्ता का मुद्रीकरण बंद करें",
+  "USER_ACTIONS_MENU_MONETIZE": "उपयोगकर्ता का मुद्रीकरण चालू करें"
 }

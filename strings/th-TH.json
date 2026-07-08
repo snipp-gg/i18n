@@ -1070,6 +1070,11 @@
   "USER_PROFILE_POSTS_EMPTY_HEADING": "ยังไม่มีโพสต์ที่นี่...",
   "USER_PROFILE_POSTS_EMPTY_MESSAGE": "ผู้ใช้คนนี้ยังไม่ได้โพสต์อะไรเลย",
   "USER_PROFILE_ERROR_SUSPEND_USER": "ไม่สามารถระงับผู้ใช้ได้",
+  "USER_PROFILE_DEMONETIZE_CONFIRM_MESSAGE": "นำ @{username} ออกจากโปรแกรมจ่ายเงินครีเอเตอร์หรือไม่? ระบบจะส่งอีเมลแจ้งว่าการสร้างรายได้ถูกระงับ",
+  "USER_PROFILE_MONETIZE_CONFIRM_MESSAGE": "เพิ่ม @{username} เข้าโปรแกรมจ่ายเงินครีเอเตอร์หรือไม่?",
+  "USER_PROFILE_DEMONETIZED_SUCCESS": "ปิดการสร้างรายได้ของ @{username} แล้ว",
+  "USER_PROFILE_MONETIZED_SUCCESS": "เปิดการสร้างรายได้ของ @{username} แล้ว",
+  "USER_PROFILE_ERROR_TOGGLE_MONETIZE": "อัปเดตการสร้างรายได้ไม่สำเร็จ",
   "USER_PROFILE_ERROR_UPDATE_BLOCK_STATUS": "ไม่สามารถอัปเดตสถานะการบล็อกได้",
   "ERROR_GENERIC": "มีบางอย่างผิดพลาด",
   "USER_PROFILE_TOAST_BLOCKED_USER": "บล็อก @{username} แล้ว",
@@ -1598,7 +1603,7 @@
   "SUPPORT_PAYOUTS_POOL_ITEM_GROWS": "กองทุนจะเติบโตขึ้นเมื่อ Snipp+ เติบโต ดังนั้นการแนะนำคนให้สมัครสมาชิกจึงช่วยทุกคน",
   "SUPPORT_PAYOUTS_POOL_ITEM_ENGAGEMENT": "ยิ่งคุณแนะนำผู้คนมากเท่าไร ส่วนแบ่งของคุณก็ยิ่งมากขึ้น",
   "SUPPORT_PAYOUTS_WHEN_HEADING": "คุณจะได้รับเงินเมื่อใด",
-  "SUPPORT_PAYOUTS_WHEN_ITEM_BIWEEKLY": "ระบบจะคำนวณการจ่ายเงินทุกสองสัปดาห์ ในวันที่ 1 และวันที่ 15 และโอนให้ไม่นานหลังจากสิ้นสุดแต่ละรอบ",
+  "SUPPORT_PAYOUTS_WHEN_ITEM_BIWEEKLY": "ระบบจะคำนวณการจ่ายเงินทุกสองสัปดาห์ และโอนให้ไม่นานหลังจากสิ้นสุดแต่ละรอบ",
   "SUPPORT_PAYOUTS_WHEN_ITEM_MINIMUM": "แต่ละรอบจะมียอดขั้นต่ำสำหรับการจ่ายเงิน หากยอดของคุณยังไม่ถึงเกณฑ์ ยอดคงเหลือจะถูกยกไปรวมกับการจ่ายเงินรอบถัดไป",
   "SUPPORT_PAYOUTS_WHEN_P1_BEFORE_LINK": "คุณสามารถติดตามยอดจ่ายโดยประมาณได้ทุกเมื่อใน",
   "SUPPORT_PAYOUTS_WHEN_P1_LINK": "แดชบอร์ดวิเคราะห์",
@@ -1967,5 +1972,7 @@
   "DOWNLOADS_ANDROID_NAME": "Android",
   "DOWNLOADS_ANDROID_NOTE": "โทรศัพท์และแท็บเล็ต",
   "USER_ACTIONS_MENU_BLOCK": "บล็อกผู้ใช้",
-  "USER_ACTIONS_MENU_SUSPEND": "ระงับผู้ใช้"
+  "USER_ACTIONS_MENU_SUSPEND": "ระงับผู้ใช้",
+  "USER_ACTIONS_MENU_DEMONETIZE": "ปิดการสร้างรายได้ของผู้ใช้",
+  "USER_ACTIONS_MENU_MONETIZE": "เปิดการสร้างรายได้ของผู้ใช้"
 }

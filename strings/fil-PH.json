@@ -1070,6 +1070,11 @@
   "USER_PROFILE_POSTS_EMPTY_HEADING": "Wala pang post dito...",
   "USER_PROFILE_POSTS_EMPTY_MESSAGE": "Wala pang naipost ang user na ito.",
   "USER_PROFILE_ERROR_SUSPEND_USER": "Hindi nasuspendi ang user.",
+  "USER_PROFILE_DEMONETIZE_CONFIRM_MESSAGE": "Alisin si @{username} sa creator payout program? Me-email siya na na-suspend ang kanyang monetization.",
+  "USER_PROFILE_MONETIZE_CONFIRM_MESSAGE": "Idagdag si @{username} sa creator payout program?",
+  "USER_PROFILE_DEMONETIZED_SUCCESS": "Na-demonetize si @{username}",
+  "USER_PROFILE_MONETIZED_SUCCESS": "Na-monetize si @{username}",
+  "USER_PROFILE_ERROR_TOGGLE_MONETIZE": "Nabigong i-update ang monetization.",
   "USER_PROFILE_ERROR_UPDATE_BLOCK_STATUS": "Hindi na-update ang block status.",
   "ERROR_GENERIC": "May nangyaring mali.",
   "USER_PROFILE_TOAST_BLOCKED_USER": "Na-block si @{username}",
@@ -1598,7 +1603,7 @@
   "SUPPORT_PAYOUTS_POOL_ITEM_GROWS": "Lalaki ang pool habang lumalaki ang Snipp+, kaya ang pag-refer ng mga magsa-subscribe ay nakakatulong sa lahat.",
   "SUPPORT_PAYOUTS_POOL_ITEM_ENGAGEMENT": "Habang mas maraming taong ire-refer mo, mas malaki ang iyong bahagi.",
   "SUPPORT_PAYOUTS_WHEN_HEADING": "Kailan ka babayaran",
-  "SUPPORT_PAYOUTS_WHEN_ITEM_BIWEEKLY": "Kinakalkula ang mga payout kada dalawang linggo, tuwing ika-1 at ika-15, at ipinapadala ilang sandali matapos ang bawat period.",
+  "SUPPORT_PAYOUTS_WHEN_ITEM_BIWEEKLY": "Kinakalkula ang mga payout kada dalawang linggo at ipinapadala ilang sandali matapos ang bawat period.",
   "SUPPORT_PAYOUTS_WHEN_ITEM_MINIMUM": "May pinakamababang halaga ng bayad sa bawat panahon. Kung mas mababa ka rito, ililipat ang iyong balanse at idaragdag sa susunod mong bayad.",
   "SUPPORT_PAYOUTS_WHEN_P1_BEFORE_LINK": "Puwede mong tingnan ang tinatayang bayad mo anumang oras sa iyong",
   "SUPPORT_PAYOUTS_WHEN_P1_LINK": "analytics dashboard",
@@ -1967,5 +1972,7 @@
   "DOWNLOADS_ANDROID_NAME": "Android",
   "DOWNLOADS_ANDROID_NOTE": "Mga telepono at tablet.",
   "USER_ACTIONS_MENU_BLOCK": "I-block ang User",
-  "USER_ACTIONS_MENU_SUSPEND": "Suspendihin ang User"
+  "USER_ACTIONS_MENU_SUSPEND": "Suspendihin ang User",
+  "USER_ACTIONS_MENU_DEMONETIZE": "I-demonetize ang user",
+  "USER_ACTIONS_MENU_MONETIZE": "I-monetize ang user"
 }

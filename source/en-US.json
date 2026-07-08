@@ -1070,6 +1070,11 @@
   "USER_PROFILE_POSTS_EMPTY_HEADING": "No posts here yet...",
   "USER_PROFILE_POSTS_EMPTY_MESSAGE": "This user hasn't posted anything yet.",
   "USER_PROFILE_ERROR_SUSPEND_USER": "Failed to suspend user.",
+  "USER_PROFILE_DEMONETIZE_CONFIRM_MESSAGE": "Remove @{username} from the creator payout program? They'll be emailed that their monetization has been suspended.",
+  "USER_PROFILE_MONETIZE_CONFIRM_MESSAGE": "Add @{username} to the creator payout program?",
+  "USER_PROFILE_DEMONETIZED_SUCCESS": "Demonetized @{username}",
+  "USER_PROFILE_MONETIZED_SUCCESS": "Monetized @{username}",
+  "USER_PROFILE_ERROR_TOGGLE_MONETIZE": "Failed to update monetization.",
   "USER_PROFILE_ERROR_UPDATE_BLOCK_STATUS": "Failed to update block status.",
   "ERROR_GENERIC": "Something went wrong.",
   "USER_PROFILE_TOAST_BLOCKED_USER": "Blocked @{username}",
@@ -1598,7 +1603,7 @@
   "SUPPORT_PAYOUTS_POOL_ITEM_GROWS": "The pool will grow as Snipp+ grows, so referring people who subscribe helps everyone.",
   "SUPPORT_PAYOUTS_POOL_ITEM_ENGAGEMENT": "The more people you refer, the bigger your share.",
   "SUPPORT_PAYOUTS_WHEN_HEADING": "When you get paid",
-  "SUPPORT_PAYOUTS_WHEN_ITEM_BIWEEKLY": "Payouts are calculated every two weeks, on the 1st and 15th, and sent shortly after each period ends.",
+  "SUPPORT_PAYOUTS_WHEN_ITEM_BIWEEKLY": "Payouts are calculated every two weeks and sent shortly after each period ends.",
   "SUPPORT_PAYOUTS_WHEN_ITEM_MINIMUM": "There's a minimum payout amount each period. If you're under it, your balance rolls over and adds to your next payout.",
   "SUPPORT_PAYOUTS_WHEN_P1_BEFORE_LINK": "You can track your estimated payout anytime in your",
   "SUPPORT_PAYOUTS_WHEN_P1_LINK": "analytics dashboard",
@@ -1967,5 +1972,7 @@
   "DOWNLOADS_ANDROID_NAME": "Android",
   "DOWNLOADS_ANDROID_NOTE": "Phones and tablets.",
   "USER_ACTIONS_MENU_BLOCK": "Block User",
-  "USER_ACTIONS_MENU_SUSPEND": "Suspend User"
+  "USER_ACTIONS_MENU_SUSPEND": "Suspend User",
+  "USER_ACTIONS_MENU_DEMONETIZE": "Demonetize User",
+  "USER_ACTIONS_MENU_MONETIZE": "Monetize User"
 }

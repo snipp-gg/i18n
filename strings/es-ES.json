@@ -1070,6 +1070,11 @@
   "USER_PROFILE_POSTS_EMPTY_HEADING": "Aún no hay publicaciones aquí...",
   "USER_PROFILE_POSTS_EMPTY_MESSAGE": "Este usuario aún no ha publicado nada.",
   "USER_PROFILE_ERROR_SUSPEND_USER": "No se pudo suspender al usuario.",
+  "USER_PROFILE_DEMONETIZE_CONFIRM_MESSAGE": "¿Quitar a @{username} del programa de pagos para creadores? Recibirá un correo indicando que su monetización ha sido suspendida.",
+  "USER_PROFILE_MONETIZE_CONFIRM_MESSAGE": "¿Añadir a @{username} al programa de pagos para creadores?",
+  "USER_PROFILE_DEMONETIZED_SUCCESS": "@{username} desmonetizado",
+  "USER_PROFILE_MONETIZED_SUCCESS": "@{username} monetizado",
+  "USER_PROFILE_ERROR_TOGGLE_MONETIZE": "No se pudo actualizar la monetización.",
   "USER_PROFILE_ERROR_UPDATE_BLOCK_STATUS": "No se pudo actualizar el estado de bloqueo.",
   "ERROR_GENERIC": "Algo salió mal.",
   "USER_PROFILE_TOAST_BLOCKED_USER": "Has bloqueado a @{username}",
@@ -1598,7 +1603,7 @@
   "SUPPORT_PAYOUTS_POOL_ITEM_GROWS": "El fondo crecerá a medida que crezca Snipp+, así que referir a personas que se suscriban ayuda a todos.",
   "SUPPORT_PAYOUTS_POOL_ITEM_ENGAGEMENT": "Cuantas más personas recomiendes, mayor será tu parte.",
   "SUPPORT_PAYOUTS_WHEN_HEADING": "Cuándo cobras",
-  "SUPPORT_PAYOUTS_WHEN_ITEM_BIWEEKLY": "Los pagos se calculan cada dos semanas, los días 1 y 15, y se envían poco después de que termina cada periodo.",
+  "SUPPORT_PAYOUTS_WHEN_ITEM_BIWEEKLY": "Los pagos se calculan cada dos semanas y se envían poco después de que termina cada periodo.",
   "SUPPORT_PAYOUTS_WHEN_ITEM_MINIMUM": "Hay un importe mínimo de pago en cada periodo. Si tu saldo no lo alcanza, se traspasa y se suma a tu próximo pago.",
   "SUPPORT_PAYOUTS_WHEN_P1_BEFORE_LINK": "Puedes consultar tu pago estimado en cualquier momento en tu",
   "SUPPORT_PAYOUTS_WHEN_P1_LINK": "panel de analíticas",
@@ -1967,5 +1972,7 @@
   "DOWNLOADS_ANDROID_NAME": "Android",
   "DOWNLOADS_ANDROID_NOTE": "Teléfonos y tabletas.",
   "USER_ACTIONS_MENU_BLOCK": "Bloquear Usuario",
-  "USER_ACTIONS_MENU_SUSPEND": "Suspender Usuario"
+  "USER_ACTIONS_MENU_SUSPEND": "Suspender Usuario",
+  "USER_ACTIONS_MENU_DEMONETIZE": "Desmonetizar usuario",
+  "USER_ACTIONS_MENU_MONETIZE": "Monetizar usuario"
 }

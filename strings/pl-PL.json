@@ -1070,6 +1070,11 @@
   "USER_PROFILE_POSTS_EMPTY_HEADING": "Nie ma tu jeszcze postów...",
   "USER_PROFILE_POSTS_EMPTY_MESSAGE": "Ten użytkownik nie opublikował jeszcze niczego.",
   "USER_PROFILE_ERROR_SUSPEND_USER": "Nie udało się zawiesić użytkownika.",
+  "USER_PROFILE_DEMONETIZE_CONFIRM_MESSAGE": "Usunąć @{username} z programu wypłat dla twórców? Otrzyma e-mail z informacją, że monetyzacja została zawieszona.",
+  "USER_PROFILE_MONETIZE_CONFIRM_MESSAGE": "Dodać @{username} do programu wypłat dla twórców?",
+  "USER_PROFILE_DEMONETIZED_SUCCESS": "Zdemonetyzowano @{username}",
+  "USER_PROFILE_MONETIZED_SUCCESS": "Zmonetyzowano @{username}",
+  "USER_PROFILE_ERROR_TOGGLE_MONETIZE": "Nie udało się zaktualizować monetyzacji.",
   "USER_PROFILE_ERROR_UPDATE_BLOCK_STATUS": "Nie udało się zaktualizować statusu blokady.",
   "ERROR_GENERIC": "Coś poszło nie tak.",
   "USER_PROFILE_TOAST_BLOCKED_USER": "Zablokowano @{username}",
@@ -1598,7 +1603,7 @@
   "SUPPORT_PAYOUTS_POOL_ITEM_GROWS": "Pula będzie rosła wraz z rozwojem Snipp+, więc polecanie subskrybentów pomaga wszystkim.",
   "SUPPORT_PAYOUTS_POOL_ITEM_ENGAGEMENT": "Im więcej osób polecisz, tym większy twój udział.",
   "SUPPORT_PAYOUTS_WHEN_HEADING": "Kiedy otrzymasz płatność",
-  "SUPPORT_PAYOUTS_WHEN_ITEM_BIWEEKLY": "Wypłaty są naliczane co dwa tygodnie, 1. i 15. dnia miesiąca, i wysyłane wkrótce po zakończeniu każdego okresu.",
+  "SUPPORT_PAYOUTS_WHEN_ITEM_BIWEEKLY": "Wypłaty są naliczane co dwa tygodnie i wysyłane wkrótce po zakończeniu każdego okresu.",
   "SUPPORT_PAYOUTS_WHEN_ITEM_MINIMUM": "W każdym okresie obowiązuje minimalna kwota wypłaty. Jeśli jej nie osiągniesz, Twoje saldo przechodzi na kolejny okres i zostaje doliczone do następnej wypłaty.",
   "SUPPORT_PAYOUTS_WHEN_P1_BEFORE_LINK": "Szacowaną wypłatę możesz śledzić w dowolnym momencie w swoim",
   "SUPPORT_PAYOUTS_WHEN_P1_LINK": "panelu analiz",
@@ -1967,5 +1972,7 @@
   "DOWNLOADS_ANDROID_NAME": "Android",
   "DOWNLOADS_ANDROID_NOTE": "Telefony i tablety.",
   "USER_ACTIONS_MENU_BLOCK": "Zablokuj użytkownika",
-  "USER_ACTIONS_MENU_SUSPEND": "Zawieś Użytkownika"
+  "USER_ACTIONS_MENU_SUSPEND": "Zawieś Użytkownika",
+  "USER_ACTIONS_MENU_DEMONETIZE": "Zdemonetyzuj użytkownika",
+  "USER_ACTIONS_MENU_MONETIZE": "Zmonetyzuj użytkownika"
 }

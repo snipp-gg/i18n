@@ -1070,6 +1070,11 @@
   "USER_PROFILE_POSTS_EMPTY_HEADING": "Здесь пока нет постов...",
   "USER_PROFILE_POSTS_EMPTY_MESSAGE": "Этот пользователь пока ничего не опубликовал.",
   "USER_PROFILE_ERROR_SUSPEND_USER": "Не удалось заблокировать пользователя.",
+  "USER_PROFILE_DEMONETIZE_CONFIRM_MESSAGE": "Убрать @{username} из программы выплат авторам? Пользователь получит письмо о том, что монетизация приостановлена.",
+  "USER_PROFILE_MONETIZE_CONFIRM_MESSAGE": "Добавить @{username} в программу выплат авторам?",
+  "USER_PROFILE_DEMONETIZED_SUCCESS": "Монетизация @{username} отключена",
+  "USER_PROFILE_MONETIZED_SUCCESS": "Монетизация @{username} включена",
+  "USER_PROFILE_ERROR_TOGGLE_MONETIZE": "Не удалось обновить монетизацию.",
   "USER_PROFILE_ERROR_UPDATE_BLOCK_STATUS": "Не удалось обновить статус блокировки.",
   "ERROR_GENERIC": "Что-то пошло не так.",
   "USER_PROFILE_TOAST_BLOCKED_USER": "@{username} заблокирован",
@@ -1598,7 +1603,7 @@
   "SUPPORT_PAYOUTS_POOL_ITEM_GROWS": "Пул будет расти вместе с Snipp+, поэтому привлечение подписчиков помогает всем.",
   "SUPPORT_PAYOUTS_POOL_ITEM_ENGAGEMENT": "Чем больше людей вы приводите, тем больше ваша доля.",
   "SUPPORT_PAYOUTS_WHEN_HEADING": "Когда вы получаете выплату",
-  "SUPPORT_PAYOUTS_WHEN_ITEM_BIWEEKLY": "Выплаты рассчитываются каждые две недели — 1-го и 15-го числа — и отправляются вскоре после окончания каждого периода.",
+  "SUPPORT_PAYOUTS_WHEN_ITEM_BIWEEKLY": "Выплаты рассчитываются каждые две недели и отправляются вскоре после окончания каждого периода.",
   "SUPPORT_PAYOUTS_WHEN_ITEM_MINIMUM": "Для каждого периода есть минимальная сумма выплаты. Если ваш баланс меньше её, он переносится и добавляется к следующей выплате.",
   "SUPPORT_PAYOUTS_WHEN_P1_BEFORE_LINK": "Вы можете в любой момент отслеживать ожидаемую выплату в своей",
   "SUPPORT_PAYOUTS_WHEN_P1_LINK": "панели аналитики",
@@ -1967,5 +1972,7 @@
   "DOWNLOADS_ANDROID_NAME": "Android",
   "DOWNLOADS_ANDROID_NOTE": "Телефоны и планшеты.",
   "USER_ACTIONS_MENU_BLOCK": "Заблокировать пользователя",
-  "USER_ACTIONS_MENU_SUSPEND": "Заблокировать пользователя"
+  "USER_ACTIONS_MENU_SUSPEND": "Заблокировать пользователя",
+  "USER_ACTIONS_MENU_DEMONETIZE": "Отключить монетизацию",
+  "USER_ACTIONS_MENU_MONETIZE": "Включить монетизацию"
 }

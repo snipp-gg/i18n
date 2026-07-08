@@ -1070,6 +1070,11 @@
   "USER_PROFILE_POSTS_EMPTY_HEADING": "Nog geen posts hier...",
   "USER_PROFILE_POSTS_EMPTY_MESSAGE": "Deze gebruiker heeft nog niets geplaatst.",
   "USER_PROFILE_ERROR_SUSPEND_USER": "Gebruiker schorsen mislukt.",
+  "USER_PROFILE_DEMONETIZE_CONFIRM_MESSAGE": "@{username} uit het uitbetalingsprogramma voor creators verwijderen? Diegene ontvangt een e-mail dat hun monetisatie is opgeschort.",
+  "USER_PROFILE_MONETIZE_CONFIRM_MESSAGE": "@{username} aan het uitbetalingsprogramma voor creators toevoegen?",
+  "USER_PROFILE_DEMONETIZED_SUCCESS": "@{username} gedemonetiseerd",
+  "USER_PROFILE_MONETIZED_SUCCESS": "@{username} gemonetiseerd",
+  "USER_PROFILE_ERROR_TOGGLE_MONETIZE": "Kan monetisatie niet bijwerken.",
   "USER_PROFILE_ERROR_UPDATE_BLOCK_STATUS": "Blokkeerstatus bijwerken mislukt.",
   "ERROR_GENERIC": "Er ging iets mis.",
   "USER_PROFILE_TOAST_BLOCKED_USER": "@{username} geblokkeerd",
@@ -1598,7 +1603,7 @@
   "SUPPORT_PAYOUTS_POOL_ITEM_GROWS": "De pool groeit naarmate Snipp+ groeit, dus het verwijzen van mensen die zich abonneren helpt iedereen.",
   "SUPPORT_PAYOUTS_POOL_ITEM_ENGAGEMENT": "Hoe meer mensen je aanbrengt, hoe groter je aandeel.",
   "SUPPORT_PAYOUTS_WHEN_HEADING": "Wanneer je wordt betaald",
-  "SUPPORT_PAYOUTS_WHEN_ITEM_BIWEEKLY": "Uitbetalingen worden om de twee weken berekend, op de 1e en de 15e, en kort na afloop van elke periode verzonden.",
+  "SUPPORT_PAYOUTS_WHEN_ITEM_BIWEEKLY": "Uitbetalingen worden om de twee weken berekend en kort na afloop van elke periode verzonden.",
   "SUPPORT_PAYOUTS_WHEN_ITEM_MINIMUM": "Er geldt per periode een minimumbedrag voor uitbetaling. Zit je daaronder, dan wordt je saldo doorgeschoven en bij je volgende uitbetaling opgeteld.",
   "SUPPORT_PAYOUTS_WHEN_P1_BEFORE_LINK": "Je kunt je geschatte uitbetaling op elk moment volgen in je",
   "SUPPORT_PAYOUTS_WHEN_P1_LINK": "analytics-dashboard",
@@ -1967,5 +1972,7 @@
   "DOWNLOADS_ANDROID_NAME": "Android",
   "DOWNLOADS_ANDROID_NOTE": "Telefoons en tablets.",
   "USER_ACTIONS_MENU_BLOCK": "Gebruiker blokkeren",
-  "USER_ACTIONS_MENU_SUSPEND": "Gebruiker schorsen"
+  "USER_ACTIONS_MENU_SUSPEND": "Gebruiker schorsen",
+  "USER_ACTIONS_MENU_DEMONETIZE": "Gebruiker demonetiseren",
+  "USER_ACTIONS_MENU_MONETIZE": "Gebruiker monetiseren"
 }

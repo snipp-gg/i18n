@@ -1070,6 +1070,11 @@
   "USER_PROFILE_POSTS_EMPTY_HEADING": "Belum ada postingan di sini...",
   "USER_PROFILE_POSTS_EMPTY_MESSAGE": "Pengguna ini belum memposting apa pun.",
   "USER_PROFILE_ERROR_SUSPEND_USER": "Gagal menangguhkan pengguna.",
+  "USER_PROFILE_DEMONETIZE_CONFIRM_MESSAGE": "Keluarkan @{username} dari program pembayaran kreator? Dia akan menerima email bahwa monetisasinya ditangguhkan.",
+  "USER_PROFILE_MONETIZE_CONFIRM_MESSAGE": "Tambahkan @{username} ke program pembayaran kreator?",
+  "USER_PROFILE_DEMONETIZED_SUCCESS": "Monetisasi @{username} dinonaktifkan",
+  "USER_PROFILE_MONETIZED_SUCCESS": "Monetisasi @{username} diaktifkan",
+  "USER_PROFILE_ERROR_TOGGLE_MONETIZE": "Gagal memperbarui monetisasi.",
   "USER_PROFILE_ERROR_UPDATE_BLOCK_STATUS": "Gagal memperbarui status blokir.",
   "ERROR_GENERIC": "Terjadi kesalahan.",
   "USER_PROFILE_TOAST_BLOCKED_USER": "Memblokir @{username}",
@@ -1598,7 +1603,7 @@
   "SUPPORT_PAYOUTS_POOL_ITEM_GROWS": "Pool akan bertumbuh seiring pertumbuhan Snipp+, jadi mereferensikan orang yang berlangganan membantu semua orang.",
   "SUPPORT_PAYOUTS_POOL_ITEM_ENGAGEMENT": "Semakin banyak orang yang Anda referensikan, semakin besar bagian Anda.",
   "SUPPORT_PAYOUTS_WHEN_HEADING": "Kapan Anda dibayar",
-  "SUPPORT_PAYOUTS_WHEN_ITEM_BIWEEKLY": "Pembayaran dihitung setiap dua minggu, pada tanggal 1 dan 15, lalu dikirim tak lama setelah setiap periode berakhir.",
+  "SUPPORT_PAYOUTS_WHEN_ITEM_BIWEEKLY": "Pembayaran dihitung setiap dua minggu, lalu dikirim tak lama setelah setiap periode berakhir.",
   "SUPPORT_PAYOUTS_WHEN_ITEM_MINIMUM": "Ada jumlah pembayaran minimum di setiap periode. Jika saldo Anda di bawahnya, saldo tersebut akan dibawa ke periode berikutnya dan ditambahkan ke pembayaran Anda selanjutnya.",
   "SUPPORT_PAYOUTS_WHEN_P1_BEFORE_LINK": "Anda dapat melacak estimasi pembayaran kapan saja di",
   "SUPPORT_PAYOUTS_WHEN_P1_LINK": "dasbor analitik",
@@ -1967,5 +1972,7 @@
   "DOWNLOADS_ANDROID_NAME": "Android",
   "DOWNLOADS_ANDROID_NOTE": "Ponsel dan tablet.",
   "USER_ACTIONS_MENU_BLOCK": "Blokir Pengguna",
-  "USER_ACTIONS_MENU_SUSPEND": "Tangguhkan Pengguna"
+  "USER_ACTIONS_MENU_SUSPEND": "Tangguhkan Pengguna",
+  "USER_ACTIONS_MENU_DEMONETIZE": "Nonaktifkan monetisasi pengguna",
+  "USER_ACTIONS_MENU_MONETIZE": "Aktifkan monetisasi pengguna"
 }

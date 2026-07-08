@@ -1070,6 +1070,11 @@
   "USER_PROFILE_POSTS_EMPTY_HEADING": "Chưa có bài đăng nào ở đây...",
   "USER_PROFILE_POSTS_EMPTY_MESSAGE": "Người dùng này chưa đăng gì cả.",
   "USER_PROFILE_ERROR_SUSPEND_USER": "Không thể đình chỉ người dùng.",
+  "USER_PROFILE_DEMONETIZE_CONFIRM_MESSAGE": "Xóa @{username} khỏi chương trình thanh toán cho nhà sáng tạo? Họ sẽ nhận được email thông báo việc kiếm tiền đã bị tạm ngưng.",
+  "USER_PROFILE_MONETIZE_CONFIRM_MESSAGE": "Thêm @{username} vào chương trình thanh toán cho nhà sáng tạo?",
+  "USER_PROFILE_DEMONETIZED_SUCCESS": "Đã hủy kiếm tiền của @{username}",
+  "USER_PROFILE_MONETIZED_SUCCESS": "Đã bật kiếm tiền cho @{username}",
+  "USER_PROFILE_ERROR_TOGGLE_MONETIZE": "Không thể cập nhật trạng thái kiếm tiền.",
   "USER_PROFILE_ERROR_UPDATE_BLOCK_STATUS": "Không thể cập nhật trạng thái chặn.",
   "ERROR_GENERIC": "Đã xảy ra lỗi.",
   "USER_PROFILE_TOAST_BLOCKED_USER": "Đã chặn @{username}",
@@ -1598,7 +1603,7 @@
   "SUPPORT_PAYOUTS_POOL_ITEM_GROWS": "Quỹ sẽ tăng khi Snipp+ phát triển, nên việc giới thiệu những người đăng ký giúp ích cho tất cả mọi người.",
   "SUPPORT_PAYOUTS_POOL_ITEM_ENGAGEMENT": "Bạn giới thiệu càng nhiều người, phần của bạn càng lớn.",
   "SUPPORT_PAYOUTS_WHEN_HEADING": "Khi nào bạn được trả tiền",
-  "SUPPORT_PAYOUTS_WHEN_ITEM_BIWEEKLY": "Khoản thanh toán được tính hai tuần một lần, vào ngày 1 và ngày 15, và được gửi ngay sau khi mỗi kỳ kết thúc.",
+  "SUPPORT_PAYOUTS_WHEN_ITEM_BIWEEKLY": "Khoản thanh toán được tính hai tuần một lần và được gửi ngay sau khi mỗi kỳ kết thúc.",
   "SUPPORT_PAYOUTS_WHEN_ITEM_MINIMUM": "Mỗi kỳ đều có mức thanh toán tối thiểu. Nếu số dư của bạn chưa đạt mức đó, nó sẽ được chuyển sang và cộng vào kỳ thanh toán tiếp theo.",
   "SUPPORT_PAYOUTS_WHEN_P1_BEFORE_LINK": "Bạn có thể theo dõi khoản chi trả ước tính bất cứ lúc nào trong",
   "SUPPORT_PAYOUTS_WHEN_P1_LINK": "bảng phân tích",
@@ -1967,5 +1972,7 @@
   "DOWNLOADS_ANDROID_NAME": "Android",
   "DOWNLOADS_ANDROID_NOTE": "Điện thoại và máy tính bảng.",
   "USER_ACTIONS_MENU_BLOCK": "Chặn người dùng",
-  "USER_ACTIONS_MENU_SUSPEND": "Đình chỉ người dùng"
+  "USER_ACTIONS_MENU_SUSPEND": "Đình chỉ người dùng",
+  "USER_ACTIONS_MENU_DEMONETIZE": "Hủy kiếm tiền của người dùng",
+  "USER_ACTIONS_MENU_MONETIZE": "Bật kiếm tiền cho người dùng"
 }

@@ -1070,6 +1070,11 @@
   "USER_PROFILE_POSTS_EMPTY_HEADING": "Ovde još nema objava...",
   "USER_PROFILE_POSTS_EMPTY_MESSAGE": "Ovaj korisnik još ništa nije objavio.",
   "USER_PROFILE_ERROR_SUSPEND_USER": "Neuspešna suspenzija korisnika.",
+  "USER_PROFILE_DEMONETIZE_CONFIRM_MESSAGE": "Ukloniti @{username} iz programa isplata za autore? Dobiće e-poruku da mu je monetizacija obustavljena.",
+  "USER_PROFILE_MONETIZE_CONFIRM_MESSAGE": "Dodati @{username} u program isplata za autore?",
+  "USER_PROFILE_DEMONETIZED_SUCCESS": "Monetizacija korisnika @{username} ukinuta",
+  "USER_PROFILE_MONETIZED_SUCCESS": "Korisnik @{username} monetizovan",
+  "USER_PROFILE_ERROR_TOGGLE_MONETIZE": "Ažuriranje monetizacije nije uspelo.",
   "USER_PROFILE_ERROR_UPDATE_BLOCK_STATUS": "Neuspešno ažuriranje statusa blokiranja.",
   "ERROR_GENERIC": "Nešto je pošlo naopako.",
   "USER_PROFILE_TOAST_BLOCKED_USER": "Blokiran @{username}",
@@ -1598,7 +1603,7 @@
   "SUPPORT_PAYOUTS_POOL_ITEM_GROWS": "Fond će rasti kako Snipp+ raste, pa preporučivanje ljudi koji se pretplate pomaže svima.",
   "SUPPORT_PAYOUTS_POOL_ITEM_ENGAGEMENT": "Što više ljudi preporučite, to je veći vaš udeo.",
   "SUPPORT_PAYOUTS_WHEN_HEADING": "Kada vam se isplaćuje",
-  "SUPPORT_PAYOUTS_WHEN_ITEM_BIWEEKLY": "Isplate se obračunavaju svake dve nedelje, 1. i 15. u mesecu, i šalju se ubrzo nakon završetka svakog perioda.",
+  "SUPPORT_PAYOUTS_WHEN_ITEM_BIWEEKLY": "Isplate se obračunavaju svake dve nedelje i šalju se ubrzo nakon završetka svakog perioda.",
   "SUPPORT_PAYOUTS_WHEN_ITEM_MINIMUM": "Za svaki period postoji minimalni iznos za isplatu. Ako ga ne dostigneš, tvoj saldo se prenosi i dodaje na sledeću isplatu.",
   "SUPPORT_PAYOUTS_WHEN_P1_BEFORE_LINK": "Svoju procenjenu isplatu možete pratiti u bilo kom trenutku u svojoj",
   "SUPPORT_PAYOUTS_WHEN_P1_LINK": "analitičkoj tabli",
@@ -1967,5 +1972,7 @@
   "DOWNLOADS_ANDROID_NAME": "Android",
   "DOWNLOADS_ANDROID_NOTE": "Телефони и таблети.",
   "USER_ACTIONS_MENU_BLOCK": "Блокирај корисника",
-  "USER_ACTIONS_MENU_SUSPEND": "Suspenduj korisnika"
+  "USER_ACTIONS_MENU_SUSPEND": "Suspenduj korisnika",
+  "USER_ACTIONS_MENU_DEMONETIZE": "Ukini monetizaciju korisnika",
+  "USER_ACTIONS_MENU_MONETIZE": "Monetizuj korisnika"
 }

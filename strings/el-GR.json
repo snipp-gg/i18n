@@ -1070,6 +1070,11 @@
   "USER_PROFILE_POSTS_EMPTY_HEADING": "Δεν υπάρχουν ακόμα αναρτήσεις...",
   "USER_PROFILE_POSTS_EMPTY_MESSAGE": "Αυτός ο χρήστης δεν έχει κάνει ακόμα καμία ανάρτηση.",
   "USER_PROFILE_ERROR_SUSPEND_USER": "Αποτυχία αναστολής χρήστη.",
+  "USER_PROFILE_DEMONETIZE_CONFIRM_MESSAGE": "Να αφαιρεθεί ο @{username} από το πρόγραμμα πληρωμών δημιουργών; Θα λάβει email ότι η δημιουργία εσόδων του ανεστάλη.",
+  "USER_PROFILE_MONETIZE_CONFIRM_MESSAGE": "Να προστεθεί ο @{username} στο πρόγραμμα πληρωμών δημιουργών;",
+  "USER_PROFILE_DEMONETIZED_SUCCESS": "Απενεργοποιήθηκαν τα έσοδα του @{username}",
+  "USER_PROFILE_MONETIZED_SUCCESS": "Ενεργοποιήθηκαν τα έσοδα του @{username}",
+  "USER_PROFILE_ERROR_TOGGLE_MONETIZE": "Αποτυχία ενημέρωσης δημιουργίας εσόδων.",
   "USER_PROFILE_ERROR_UPDATE_BLOCK_STATUS": "Αποτυχία ενημέρωσης κατάστασης αποκλεισμού.",
   "ERROR_GENERIC": "Κάτι πήγε στραβά.",
   "USER_PROFILE_TOAST_BLOCKED_USER": "Αποκλείστηκε ο @{username}",
@@ -1598,7 +1603,7 @@
   "SUPPORT_PAYOUTS_POOL_ITEM_GROWS": "Το ταμείο θα μεγαλώνει καθώς μεγαλώνει το Snipp+, οπότε το να φέρνεις συνδρομητές βοηθά όλους.",
   "SUPPORT_PAYOUTS_POOL_ITEM_ENGAGEMENT": "Όσο περισσότερους ανθρώπους παραπέμπεις, τόσο μεγαλύτερο το μερίδιό σου.",
   "SUPPORT_PAYOUTS_WHEN_HEADING": "Πότε πληρώνεσαι",
-  "SUPPORT_PAYOUTS_WHEN_ITEM_BIWEEKLY": "Οι πληρωμές υπολογίζονται κάθε δύο εβδομάδες, την 1η και τη 15η κάθε μήνα, και αποστέλλονται λίγο μετά τη λήξη κάθε περιόδου.",
+  "SUPPORT_PAYOUTS_WHEN_ITEM_BIWEEKLY": "Οι πληρωμές υπολογίζονται κάθε δύο εβδομάδες και αποστέλλονται λίγο μετά τη λήξη κάθε περιόδου.",
   "SUPPORT_PAYOUTS_WHEN_ITEM_MINIMUM": "Υπάρχει ένα ελάχιστο ποσό πληρωμής για κάθε περίοδο. Αν το υπόλοιπό σου είναι κάτω από αυτό, μεταφέρεται και προστίθεται στην επόμενη πληρωμή σου.",
   "SUPPORT_PAYOUTS_WHEN_P1_BEFORE_LINK": "Μπορείς να παρακολουθείς την εκτιμώμενη πληρωμή σου ανά πάσα στιγμή στον",
   "SUPPORT_PAYOUTS_WHEN_P1_LINK": "πίνακα αναλυτικών στοιχείων",
@@ -1967,5 +1972,7 @@
   "DOWNLOADS_ANDROID_NAME": "Android",
   "DOWNLOADS_ANDROID_NOTE": "Τηλέφωνα και tablet.",
   "USER_ACTIONS_MENU_BLOCK": "Αποκλεισμός χρήστη",
-  "USER_ACTIONS_MENU_SUSPEND": "Αναστολή Χρήστη"
+  "USER_ACTIONS_MENU_SUSPEND": "Αναστολή Χρήστη",
+  "USER_ACTIONS_MENU_DEMONETIZE": "Απενεργοποίηση εσόδων χρήστη",
+  "USER_ACTIONS_MENU_MONETIZE": "Ενεργοποίηση εσόδων χρήστη"
 }

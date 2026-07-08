@@ -1070,6 +1070,11 @@
   "USER_PROFILE_POSTS_EMPTY_HEADING": "Тут ще немає дописів...",
   "USER_PROFILE_POSTS_EMPTY_MESSAGE": "Цей користувач ще нічого не опублікував.",
   "USER_PROFILE_ERROR_SUSPEND_USER": "Не вдалося призупинити користувача.",
+  "USER_PROFILE_DEMONETIZE_CONFIRM_MESSAGE": "Вилучити @{username} з програми виплат авторам? Користувач отримає лист про призупинення монетизації.",
+  "USER_PROFILE_MONETIZE_CONFIRM_MESSAGE": "Додати @{username} до програми виплат авторам?",
+  "USER_PROFILE_DEMONETIZED_SUCCESS": "Монетизацію @{username} вимкнено",
+  "USER_PROFILE_MONETIZED_SUCCESS": "Монетизацію @{username} увімкнено",
+  "USER_PROFILE_ERROR_TOGGLE_MONETIZE": "Не вдалося оновити монетизацію.",
   "USER_PROFILE_ERROR_UPDATE_BLOCK_STATUS": "Не вдалося оновити статус блокування.",
   "ERROR_GENERIC": "Щось пішло не так.",
   "USER_PROFILE_TOAST_BLOCKED_USER": "Заблоковано @{username}",
@@ -1598,7 +1603,7 @@
   "SUPPORT_PAYOUTS_POOL_ITEM_GROWS": "Пул зростатиме разом зі зростанням Snipp+, тож залучення підписників допомагає всім.",
   "SUPPORT_PAYOUTS_POOL_ITEM_ENGAGEMENT": "Що більше людей ви приводите, то більша ваша частка.",
   "SUPPORT_PAYOUTS_WHEN_HEADING": "Коли ви отримуєте виплату",
-  "SUPPORT_PAYOUTS_WHEN_ITEM_BIWEEKLY": "Виплати нараховуються кожні два тижні, 1-го та 15-го числа, і надсилаються невдовзі після завершення кожного періоду.",
+  "SUPPORT_PAYOUTS_WHEN_ITEM_BIWEEKLY": "Виплати нараховуються кожні два тижні і надсилаються невдовзі після завершення кожного періоду.",
   "SUPPORT_PAYOUTS_WHEN_ITEM_MINIMUM": "Для кожного періоду діє мінімальна сума виплати. Якщо твій баланс не досягає її, він переноситься й додається до наступної виплати.",
   "SUPPORT_PAYOUTS_WHEN_P1_BEFORE_LINK": "Ви можете будь-коли відстежувати очікувану виплату у своїй",
   "SUPPORT_PAYOUTS_WHEN_P1_LINK": "панелі аналітики",
@@ -1967,5 +1972,7 @@
   "DOWNLOADS_ANDROID_NAME": "Android",
   "DOWNLOADS_ANDROID_NOTE": "Телефони та планшети.",
   "USER_ACTIONS_MENU_BLOCK": "Заблокувати користувача",
-  "USER_ACTIONS_MENU_SUSPEND": "Призупинити користувача"
+  "USER_ACTIONS_MENU_SUSPEND": "Призупинити користувача",
+  "USER_ACTIONS_MENU_DEMONETIZE": "Вимкнути монетизацію",
+  "USER_ACTIONS_MENU_MONETIZE": "Увімкнути монетизацію"
 }

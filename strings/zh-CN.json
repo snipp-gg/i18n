@@ -1070,6 +1070,11 @@
   "USER_PROFILE_POSTS_EMPTY_HEADING": "这里还没有帖子...",
   "USER_PROFILE_POSTS_EMPTY_MESSAGE": "该用户还没有发布任何内容。",
   "USER_PROFILE_ERROR_SUSPEND_USER": "暂停用户失败。",
+  "USER_PROFILE_DEMONETIZE_CONFIRM_MESSAGE": "将 @{username} 从创作者分成计划中移除？系统会向其发送邮件，告知变现已被暂停。",
+  "USER_PROFILE_MONETIZE_CONFIRM_MESSAGE": "将 @{username} 加入创作者分成计划？",
+  "USER_PROFILE_DEMONETIZED_SUCCESS": "已取消 @{username} 的变现",
+  "USER_PROFILE_MONETIZED_SUCCESS": "已开启 @{username} 的变现",
+  "USER_PROFILE_ERROR_TOGGLE_MONETIZE": "更新变现状态失败。",
   "USER_PROFILE_ERROR_UPDATE_BLOCK_STATUS": "更新屏蔽状态失败。",
   "ERROR_GENERIC": "出了点问题。",
   "USER_PROFILE_TOAST_BLOCKED_USER": "已屏蔽 @{username}",
@@ -1598,7 +1603,7 @@
   "SUPPORT_PAYOUTS_POOL_ITEM_GROWS": "奖金池将随 Snipp+ 的发展而增长，因此推荐他人订阅对大家都有好处。",
   "SUPPORT_PAYOUTS_POOL_ITEM_ENGAGEMENT": "你推荐的人越多，你的份额就越大。",
   "SUPPORT_PAYOUTS_WHEN_HEADING": "何时付款",
-  "SUPPORT_PAYOUTS_WHEN_ITEM_BIWEEKLY": "收益每两周结算一次，在每月 1 日和 15 日进行，并在每个周期结束后不久发放。",
+  "SUPPORT_PAYOUTS_WHEN_ITEM_BIWEEKLY": "收益每两周结算一次，并在每个周期结束后不久发放。",
   "SUPPORT_PAYOUTS_WHEN_ITEM_MINIMUM": "每个结算周期都有最低支付金额。如果未达到该金额，你的余额会顺延并累加到下一次支付中。",
   "SUPPORT_PAYOUTS_WHEN_P1_BEFORE_LINK": "你可以随时在账户设置的",
   "SUPPORT_PAYOUTS_WHEN_P1_LINK": "分析面板",
@@ -1967,5 +1972,7 @@
   "DOWNLOADS_ANDROID_NAME": "Android",
   "DOWNLOADS_ANDROID_NOTE": "手机和平板电脑。",
   "USER_ACTIONS_MENU_BLOCK": "屏蔽用户",
-  "USER_ACTIONS_MENU_SUSPEND": "暂停用户"
+  "USER_ACTIONS_MENU_SUSPEND": "暂停用户",
+  "USER_ACTIONS_MENU_DEMONETIZE": "取消用户变现",
+  "USER_ACTIONS_MENU_MONETIZE": "开启用户变现"
 }
