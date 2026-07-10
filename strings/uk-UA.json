@@ -1012,7 +1012,7 @@
   "POST_TOOLTIP_GO_TO_FILE": "Перейти до файлу {number}",
   "COMMON_USER_AVATAR": "Аватар користувача",
   "POST_COMMENT_INPUT_PLACEHOLDER": "Додати коментар...",
-  "POST_COMMENT_BUTTON_SEND": "Надіслати",
+  "POST_COMMENT_BUTTON_SEND": "Post",
   "POST_COMMENT_BUTTON_LOG_IN": "Увійти",
   "POST_COMMENT_EMPTY": "Коментарів ще немає.",
   "POST_UNAVAILABLE_POST_NOT_FOUND": "The requested post could not be found.",
