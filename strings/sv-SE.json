@@ -1012,7 +1012,7 @@
   "POST_TOOLTIP_GO_TO_FILE": "Gå till fil {number}",
   "COMMON_USER_AVATAR": "Användaravatar",
   "POST_COMMENT_INPUT_PLACEHOLDER": "Lägg till en kommentar...",
-  "POST_COMMENT_BUTTON_SEND": "Skicka",
+  "POST_COMMENT_BUTTON_SEND": "Post",
   "POST_COMMENT_BUTTON_LOG_IN": "Logga in",
   "POST_COMMENT_EMPTY": "Inga kommentarer än.",
   "POST_UNAVAILABLE_POST_NOT_FOUND": "The requested post could not be found.",
