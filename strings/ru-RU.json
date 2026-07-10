@@ -1012,7 +1012,7 @@
   "POST_TOOLTIP_GO_TO_FILE": "Перейти к файлу {number}",
   "COMMON_USER_AVATAR": "Аватар пользователя",
   "POST_COMMENT_INPUT_PLACEHOLDER": "Добавить комментарий...",
-  "POST_COMMENT_BUTTON_SEND": "Отправить",
+  "POST_COMMENT_BUTTON_SEND": "Post",
   "POST_COMMENT_BUTTON_LOG_IN": "Войти",
   "POST_COMMENT_EMPTY": "Комментариев пока нет.",
   "POST_UNAVAILABLE_POST_NOT_FOUND": "The requested post could not be found.",
