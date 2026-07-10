@@ -1012,7 +1012,7 @@
   "POST_TOOLTIP_GO_TO_FILE": "파일 {number}(으)로 이동",
   "COMMON_USER_AVATAR": "사용자 아바타",
   "POST_COMMENT_INPUT_PLACEHOLDER": "댓글 추가...",
-  "POST_COMMENT_BUTTON_SEND": "보내기",
+  "POST_COMMENT_BUTTON_SEND": "게시",
   "POST_COMMENT_BUTTON_LOG_IN": "로그인",
   "POST_COMMENT_EMPTY": "아직 댓글이 없습니다.",
   "POST_UNAVAILABLE_POST_NOT_FOUND": "요청한 게시물을 찾을 수 없습니다.",

@@ -1012,7 +1012,7 @@
   "POST_TOOLTIP_GO_TO_FILE": "Ga naar bestand {number}",
   "COMMON_USER_AVATAR": "Gebruikersavatar",
   "POST_COMMENT_INPUT_PLACEHOLDER": "Voeg een reactie toe...",
-  "POST_COMMENT_BUTTON_SEND": "Verzenden",
+  "POST_COMMENT_BUTTON_SEND": "Plaatsen",
   "POST_COMMENT_BUTTON_LOG_IN": "Inloggen",
   "POST_COMMENT_EMPTY": "Nog geen reacties.",
   "POST_UNAVAILABLE_POST_NOT_FOUND": "De gevraagde post kon niet worden gevonden.",

@@ -1012,7 +1012,7 @@
   "POST_TOOLTIP_GO_TO_FILE": "Idi na datoteku {number}",
   "COMMON_USER_AVATAR": "Avatar korisnika",
   "POST_COMMENT_INPUT_PLACEHOLDER": "Dodaj komentar...",
-  "POST_COMMENT_BUTTON_SEND": "Pošalji",
+  "POST_COMMENT_BUTTON_SEND": "Objavi",
   "POST_COMMENT_BUTTON_LOG_IN": "Prijava",
   "POST_COMMENT_EMPTY": "Još nema komentara.",
   "POST_UNAVAILABLE_POST_NOT_FOUND": "Tražena objava nije pronađena.",

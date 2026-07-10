@@ -1012,7 +1012,7 @@
   "POST_TOOLTIP_GO_TO_FILE": "Siirry tiedostoon {number}",
   "COMMON_USER_AVATAR": "Käyttäjän avatar",
   "POST_COMMENT_INPUT_PLACEHOLDER": "Lisää kommentti...",
-  "POST_COMMENT_BUTTON_SEND": "Lähetä",
+  "POST_COMMENT_BUTTON_SEND": "Julkaise",
   "POST_COMMENT_BUTTON_LOG_IN": "Kirjaudu sisään",
   "POST_COMMENT_EMPTY": "Ei vielä kommentteja.",
   "POST_UNAVAILABLE_POST_NOT_FOUND": "Pyydettyä julkaisua ei löytynyt.",

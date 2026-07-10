@@ -1012,7 +1012,7 @@
   "POST_TOOLTIP_GO_TO_FILE": "Μεταβείτε στο αρχείο {number}",
   "COMMON_USER_AVATAR": "Avatar Χρήστη",
   "POST_COMMENT_INPUT_PLACEHOLDER": "Προσθέστε σχόλιο...",
-  "POST_COMMENT_BUTTON_SEND": "Αποστολή",
+  "POST_COMMENT_BUTTON_SEND": "Δημοσίευση",
   "POST_COMMENT_BUTTON_LOG_IN": "Σύνδεση",
   "POST_COMMENT_EMPTY": "Δεν υπάρχουν ακόμα σχόλια.",
   "POST_UNAVAILABLE_POST_NOT_FOUND": "Η ανάρτηση που ζητήθηκε δεν βρέθηκε.",

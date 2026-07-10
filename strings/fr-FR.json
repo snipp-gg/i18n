@@ -1012,7 +1012,7 @@
   "POST_TOOLTIP_GO_TO_FILE": "Aller au fichier {number}",
   "COMMON_USER_AVATAR": "Avatar de l'utilisateur",
   "POST_COMMENT_INPUT_PLACEHOLDER": "Ajouter un commentaire...",
-  "POST_COMMENT_BUTTON_SEND": "Envoyer",
+  "POST_COMMENT_BUTTON_SEND": "Publier",
   "POST_COMMENT_BUTTON_LOG_IN": "Connexion",
   "POST_COMMENT_EMPTY": "Aucun commentaire pour le moment.",
   "POST_UNAVAILABLE_POST_NOT_FOUND": "La publication demandée est introuvable.",

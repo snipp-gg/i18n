@@ -1012,7 +1012,7 @@
   "POST_TOOLTIP_GO_TO_FILE": "Gå til fil {number}",
   "COMMON_USER_AVATAR": "Brukeravatar",
   "POST_COMMENT_INPUT_PLACEHOLDER": "Legg til en kommentar...",
-  "POST_COMMENT_BUTTON_SEND": "Send",
+  "POST_COMMENT_BUTTON_SEND": "Publiser",
   "POST_COMMENT_BUTTON_LOG_IN": "Logg inn",
   "POST_COMMENT_EMPTY": "Ingen kommentarer ennå.",
   "POST_UNAVAILABLE_POST_NOT_FOUND": "Det forespurte innlegget ble ikke funnet.",

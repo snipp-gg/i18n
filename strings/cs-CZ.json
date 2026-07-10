@@ -1012,7 +1012,7 @@
   "POST_TOOLTIP_GO_TO_FILE": "Přejít na soubor {number}",
   "COMMON_USER_AVATAR": "Avatar uživatele",
   "POST_COMMENT_INPUT_PLACEHOLDER": "Přidat komentář...",
-  "POST_COMMENT_BUTTON_SEND": "Odeslat",
+  "POST_COMMENT_BUTTON_SEND": "Zveřejnit",
   "POST_COMMENT_BUTTON_LOG_IN": "Přihlásit se",
   "POST_COMMENT_EMPTY": "Zatím žádné komentáře.",
   "POST_UNAVAILABLE_POST_NOT_FOUND": "Požadovaný příspěvek se nepodařilo najít.",

@@ -1012,7 +1012,7 @@
   "POST_TOOLTIP_GO_TO_FILE": "फ़ाइल {number} पर जाएँ",
   "COMMON_USER_AVATAR": "यूज़र अवतार",
   "POST_COMMENT_INPUT_PLACEHOLDER": "एक कमेंट जोड़ें...",
-  "POST_COMMENT_BUTTON_SEND": "भेजें",
+  "POST_COMMENT_BUTTON_SEND": "पोस्ट करें",
   "POST_COMMENT_BUTTON_LOG_IN": "लॉग इन करें",
   "POST_COMMENT_EMPTY": "अभी तक कोई कमेंट नहीं।",
   "POST_UNAVAILABLE_POST_NOT_FOUND": "जो पोस्ट माँगी गई थी वह नहीं मिल सकी।",

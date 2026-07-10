@@ -1012,7 +1012,7 @@
   "POST_TOOLTIP_GO_TO_FILE": "Vai al file {number}",
   "COMMON_USER_AVATAR": "Avatar utente",
   "POST_COMMENT_INPUT_PLACEHOLDER": "Aggiungi un commento...",
-  "POST_COMMENT_BUTTON_SEND": "Invia",
+  "POST_COMMENT_BUTTON_SEND": "Pubblica",
   "POST_COMMENT_BUTTON_LOG_IN": "Accedi",
   "POST_COMMENT_EMPTY": "Ancora nessun commento.",
   "POST_UNAVAILABLE_POST_NOT_FOUND": "Impossibile trovare il post richiesto.",

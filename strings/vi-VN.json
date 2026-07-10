@@ -1012,7 +1012,7 @@
   "POST_TOOLTIP_GO_TO_FILE": "Đến tệp {number}",
   "COMMON_USER_AVATAR": "Ảnh đại diện người dùng",
   "POST_COMMENT_INPUT_PLACEHOLDER": "Thêm bình luận...",
-  "POST_COMMENT_BUTTON_SEND": "Gửi",
+  "POST_COMMENT_BUTTON_SEND": "Đăng",
   "POST_COMMENT_BUTTON_LOG_IN": "Đăng nhập",
   "POST_COMMENT_EMPTY": "Chưa có bình luận nào.",
   "POST_UNAVAILABLE_POST_NOT_FOUND": "Không tìm thấy bài đăng được yêu cầu.",

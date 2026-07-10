@@ -1012,7 +1012,7 @@
   "POST_TOOLTIP_GO_TO_FILE": "Mergi la fișierul {number}",
   "COMMON_USER_AVATAR": "Avatarul utilizatorului",
   "POST_COMMENT_INPUT_PLACEHOLDER": "Adaugă un comentariu...",
-  "POST_COMMENT_BUTTON_SEND": "Trimite",
+  "POST_COMMENT_BUTTON_SEND": "Postează",
   "POST_COMMENT_BUTTON_LOG_IN": "Conectează-te",
   "POST_COMMENT_EMPTY": "Niciun comentariu încă.",
   "POST_UNAVAILABLE_POST_NOT_FOUND": "Postarea solicitată nu a putut fi găsită.",

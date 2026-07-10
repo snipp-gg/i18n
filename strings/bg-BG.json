@@ -1012,7 +1012,7 @@
   "POST_TOOLTIP_GO_TO_FILE": "Към файл {number}",
   "COMMON_USER_AVATAR": "Аватар на потребителя",
   "POST_COMMENT_INPUT_PLACEHOLDER": "Добавете коментар...",
-  "POST_COMMENT_BUTTON_SEND": "Изпращане",
+  "POST_COMMENT_BUTTON_SEND": "Публикувай",
   "POST_COMMENT_BUTTON_LOG_IN": "Вход",
   "POST_COMMENT_EMPTY": "Все още няма коментари.",
   "POST_UNAVAILABLE_POST_NOT_FOUND": "Заявената публикация не можа да бъде намерена.",

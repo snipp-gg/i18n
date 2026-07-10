@@ -1012,7 +1012,7 @@
   "POST_TOOLTIP_GO_TO_FILE": "Przejdź do pliku {number}",
   "COMMON_USER_AVATAR": "Awatar Użytkownika",
   "POST_COMMENT_INPUT_PLACEHOLDER": "Dodaj komentarz...",
-  "POST_COMMENT_BUTTON_SEND": "Wyślij",
+  "POST_COMMENT_BUTTON_SEND": "Opublikuj",
   "POST_COMMENT_BUTTON_LOG_IN": "Zaloguj się",
   "POST_COMMENT_EMPTY": "Brak komentarzy.",
   "POST_UNAVAILABLE_POST_NOT_FOUND": "Nie znaleziono żądanego posta.",

@@ -1012,7 +1012,7 @@
   "POST_TOOLTIP_GO_TO_FILE": "ไปที่ไฟล์ {number}",
   "COMMON_USER_AVATAR": "รูปโปรไฟล์ผู้ใช้",
   "POST_COMMENT_INPUT_PLACEHOLDER": "เพิ่มความคิดเห็น...",
-  "POST_COMMENT_BUTTON_SEND": "ส่ง",
+  "POST_COMMENT_BUTTON_SEND": "โพสต์",
   "POST_COMMENT_BUTTON_LOG_IN": "เข้าสู่ระบบ",
   "POST_COMMENT_EMPTY": "ยังไม่มีความคิดเห็น",
   "POST_UNAVAILABLE_POST_NOT_FOUND": "ไม่พบโพสต์ที่ร้องขอ",
