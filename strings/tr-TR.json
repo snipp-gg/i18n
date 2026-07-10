@@ -1012,7 +1012,7 @@
   "POST_TOOLTIP_GO_TO_FILE": "{number}. dosyaya git",
   "COMMON_USER_AVATAR": "Kullanıcı Avatarı",
   "POST_COMMENT_INPUT_PLACEHOLDER": "Bir yorum ekle...",
-  "POST_COMMENT_BUTTON_SEND": "Gönder",
+  "POST_COMMENT_BUTTON_SEND": "Post",
   "POST_COMMENT_BUTTON_LOG_IN": "Giriş yap",
   "POST_COMMENT_EMPTY": "Henüz yorum yok.",
   "POST_UNAVAILABLE_POST_NOT_FOUND": "The requested post could not be found.",
