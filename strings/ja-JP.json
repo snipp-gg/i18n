@@ -1012,7 +1012,7 @@
   "POST_TOOLTIP_GO_TO_FILE": "ファイル {number} へ移動",
   "COMMON_USER_AVATAR": "ユーザーアバター",
   "POST_COMMENT_INPUT_PLACEHOLDER": "コメントを追加...",
-  "POST_COMMENT_BUTTON_SEND": "送信",
+  "POST_COMMENT_BUTTON_SEND": "Post",
   "POST_COMMENT_BUTTON_LOG_IN": "ログイン",
   "POST_COMMENT_EMPTY": "まだコメントはありません。",
   "POST_UNAVAILABLE_POST_NOT_FOUND": "The requested post could not be found.",
