@@ -1955,6 +1955,7 @@
   "SETTINGS_TEAMS_INVITES_LIMIT_REACHED": "Ai atins limita de {max} linkuri de invitație. Revocă unul pentru a crea altul.",
   "FOLLOW_FOLLOW": "Urmărește",
   "FOLLOW_FOLLOWING": "Urmărești",
+  "FOLLOW_FOLLOWS_YOU": "Te urmărește",
   "POST_WHO_TO_FOLLOW": "Pe cine să urmărești",
   "POST_MORE_POSTS": "Mai multe postări",
   "FOLLOW_FOLLOW_BACK": "Urmărește înapoi",

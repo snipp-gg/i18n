@@ -1955,6 +1955,7 @@
   "SETTINGS_TEAMS_INVITES_LIMIT_REACHED": "Dostigli ste limit od {max} linkova za pozivnice. Opozovite jedan da kreirate drugi.",
   "FOLLOW_FOLLOW": "Zaprati",
   "FOLLOW_FOLLOWING": "Pratite",
+  "FOLLOW_FOLLOWS_YOU": "Prati vas",
   "POST_WHO_TO_FOLLOW": "Koga pratiti",
   "POST_MORE_POSTS": "Још објава",
   "FOLLOW_FOLLOW_BACK": "Zaprati nazad",

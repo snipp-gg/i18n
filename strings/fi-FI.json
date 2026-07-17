@@ -1955,6 +1955,7 @@
   "SETTINGS_TEAMS_INVITES_LIMIT_REACHED": "Olet saavuttanut {max} kutsulinkin rajan. Peruuta yksi luodaksesi toisen.",
   "FOLLOW_FOLLOW": "Seuraa",
   "FOLLOW_FOLLOWING": "Seuraat",
+  "FOLLOW_FOLLOWS_YOU": "Seuraa sinua",
   "POST_WHO_TO_FOLLOW": "Ketä seurata",
   "POST_MORE_POSTS": "Lisää julkaisuja",
   "FOLLOW_FOLLOW_BACK": "Seuraa takaisin",

@@ -1955,6 +1955,7 @@
   "SETTINGS_TEAMS_INVITES_LIMIT_REACHED": "{max} davet bağlantısı sınırına ulaştın. Yenisini oluşturmak için birini iptal et.",
   "FOLLOW_FOLLOW": "Takip et",
   "FOLLOW_FOLLOWING": "Takip ediliyor",
+  "FOLLOW_FOLLOWS_YOU": "Seni takip ediyor",
   "POST_WHO_TO_FOLLOW": "Kimi takip etmeli",
   "POST_MORE_POSTS": "Daha Fazla Gönderi",
   "FOLLOW_FOLLOW_BACK": "Geri takip et",

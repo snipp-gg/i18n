@@ -1955,6 +1955,7 @@
   "SETTINGS_TEAMS_INVITES_LIMIT_REACHED": "Naabot mo na ang limitasyong {max} na invite link. Bumawi ng isa para makagawa ng panibago.",
   "FOLLOW_FOLLOW": "I-follow",
   "FOLLOW_FOLLOWING": "Sinusundan",
+  "FOLLOW_FOLLOWS_YOU": "Sinusundan ka",
   "POST_WHO_TO_FOLLOW": "Sino ang susundan",
   "POST_MORE_POSTS": "Higit Pang Post",
   "FOLLOW_FOLLOW_BACK": "I-follow pabalik",

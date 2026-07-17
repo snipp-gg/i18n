@@ -1955,6 +1955,7 @@
   "SETTINGS_TEAMS_INVITES_LIMIT_REACHED": "您已达到邀请链接数量的上限 {max}。撤销一个邀请链接即可创建新的链接。",
   "FOLLOW_FOLLOW": "跟随",
   "FOLLOW_FOLLOWING": "跟随",
+  "FOLLOW_FOLLOWS_YOU": "关注了你",
   "POST_WHO_TO_FOLLOW": "推荐关注",
   "POST_MORE_POSTS": "更多帖子",
   "FOLLOW_FOLLOW_BACK": "跟着回来",

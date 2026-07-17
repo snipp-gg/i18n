@@ -1955,6 +1955,7 @@
   "SETTINGS_TEAMS_INVITES_LIMIT_REACHED": "Anda telah mencapai batas {max} tautan undangan. Cabut satu untuk membuat yang lain.",
   "FOLLOW_FOLLOW": "Ikuti",
   "FOLLOW_FOLLOWING": "Mengikuti",
+  "FOLLOW_FOLLOWS_YOU": "Mengikuti Anda",
   "POST_WHO_TO_FOLLOW": "Siapa yang diikuti",
   "POST_MORE_POSTS": "Postingan Lainnya",
   "FOLLOW_FOLLOW_BACK": "Ikuti Balik",

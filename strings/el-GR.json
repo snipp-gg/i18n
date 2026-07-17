@@ -1955,6 +1955,7 @@
   "SETTINGS_TEAMS_INVITES_LIMIT_REACHED": "Φτάσατε το όριο των {max} συνδέσμων πρόσκλησης. Ανακαλέστε έναν για να δημιουργήσετε άλλον.",
   "FOLLOW_FOLLOW": "Ακολούθηση",
   "FOLLOW_FOLLOWING": "Ακολουθείτε",
+  "FOLLOW_FOLLOWS_YOU": "Σε ακολουθεί",
   "POST_WHO_TO_FOLLOW": "Ποιον να ακολουθήσετε",
   "POST_MORE_POSTS": "Περισσότερες δημοσιεύσεις",
   "FOLLOW_FOLLOW_BACK": "Ακολούθηση κι εσείς",

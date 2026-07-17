@@ -1955,6 +1955,7 @@
   "SETTINGS_TEAMS_INVITES_LIMIT_REACHED": "Достигнахте лимита от {max} връзки за покана. Отменете една, за да създадете друга.",
   "FOLLOW_FOLLOW": "Последване",
   "FOLLOW_FOLLOWING": "Следвате",
+  "FOLLOW_FOLLOWS_YOU": "Следва те",
   "POST_WHO_TO_FOLLOW": "Кого да последвате",
   "POST_MORE_POSTS": "Още публикации",
   "FOLLOW_FOLLOW_BACK": "Последвай обратно",

@@ -1955,6 +1955,7 @@
   "SETTINGS_TEAMS_INVITES_LIMIT_REACHED": "초대 링크 {max}개 한도에 도달했습니다. 하나를 취소해 다른 것을 만드세요.",
   "FOLLOW_FOLLOW": "팔로우",
   "FOLLOW_FOLLOWING": "팔로잉",
+  "FOLLOW_FOLLOWS_YOU": "회원님을 팔로우합니다",
   "POST_WHO_TO_FOLLOW": "팔로우 추천",
   "POST_MORE_POSTS": "더 많은 게시물",
   "FOLLOW_FOLLOW_BACK": "맞팔로우",

@@ -1955,6 +1955,7 @@
   "SETTINGS_TEAMS_INVITES_LIMIT_REACHED": "Du har nått gränsen på {max} inbjudningslänkar. Återkalla en för att skapa en ny.",
   "FOLLOW_FOLLOW": "Följ",
   "FOLLOW_FOLLOWING": "Följer",
+  "FOLLOW_FOLLOWS_YOU": "Följer dig",
   "POST_WHO_TO_FOLLOW": "Vem du kan följa",
   "POST_MORE_POSTS": "Fler inlägg",
   "FOLLOW_FOLLOW_BACK": "Följ tillbaka",

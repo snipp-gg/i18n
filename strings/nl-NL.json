@@ -1955,6 +1955,7 @@
   "SETTINGS_TEAMS_INVITES_LIMIT_REACHED": "Je hebt de limiet van {max} uitnodigingslinks bereikt. Trek er een in om een andere aan te maken.",
   "FOLLOW_FOLLOW": "Volgen",
   "FOLLOW_FOLLOWING": "Volgend",
+  "FOLLOW_FOLLOWS_YOU": "Volgt jou",
   "POST_WHO_TO_FOLLOW": "Wie te volgen",
   "POST_MORE_POSTS": "Meer berichten",
   "FOLLOW_FOLLOW_BACK": "Terugvolgen",

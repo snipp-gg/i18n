@@ -1955,6 +1955,7 @@
   "SETTINGS_TEAMS_INVITES_LIMIT_REACHED": "आप {max} इन्वाइट लिंक की लिमिट तक पहुँच गए हैं। एक और बनाने के लिए किसी एक को रद्द करें।",
   "FOLLOW_FOLLOW": "फ़ॉलो करें",
   "FOLLOW_FOLLOWING": "फ़ॉलो कर रहे हैं",
+  "FOLLOW_FOLLOWS_YOU": "आपको फ़ॉलो करता है",
   "POST_WHO_TO_FOLLOW": "किसे फ़ॉलो करें",
   "POST_MORE_POSTS": "और पोस्ट",
   "FOLLOW_FOLLOW_BACK": "वापस फ़ॉलो करें",

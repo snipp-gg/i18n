@@ -1955,6 +1955,7 @@
   "SETTINGS_TEAMS_INVITES_LIMIT_REACHED": "Dosiahol si limit {max} pozývacích odkazov. Zruš jeden a vytvor ďalší.",
   "FOLLOW_FOLLOW": "Sledovať",
   "FOLLOW_FOLLOWING": "Sledované",
+  "FOLLOW_FOLLOWS_YOU": "Sleduje vás",
   "POST_WHO_TO_FOLLOW": "Koho sledovať",
   "POST_MORE_POSTS": "Ďalšie príspevky",
   "FOLLOW_FOLLOW_BACK": "Sledovať späť",

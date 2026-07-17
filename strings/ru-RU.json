@@ -1955,6 +1955,7 @@
   "SETTINGS_TEAMS_INVITES_LIMIT_REACHED": "Вы достигли лимита в {max} пригласительных ссылок. Отзовите одну, чтобы создать новую.",
   "FOLLOW_FOLLOW": "Подписаться",
   "FOLLOW_FOLLOWING": "Вы подписаны",
+  "FOLLOW_FOLLOWS_YOU": "Подписан на вас",
   "POST_WHO_TO_FOLLOW": "Кого читать",
   "POST_MORE_POSTS": "Ещё публикации",
   "FOLLOW_FOLLOW_BACK": "Подписаться в ответ",

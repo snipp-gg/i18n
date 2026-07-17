@@ -1955,6 +1955,7 @@
   "SETTINGS_TEAMS_INVITES_LIMIT_REACHED": "Você atingiu o limite de {max} links de convite. Revogue um para criar outro.",
   "FOLLOW_FOLLOW": "Seguir",
   "FOLLOW_FOLLOWING": "Seguindo",
+  "FOLLOW_FOLLOWS_YOU": "Segue você",
   "POST_WHO_TO_FOLLOW": "Quem seguir",
   "POST_MORE_POSTS": "Mais publicações",
   "FOLLOW_FOLLOW_BACK": "Seguir de volta",

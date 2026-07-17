@@ -1955,6 +1955,7 @@
   "SETTINGS_TEAMS_INVITES_LIMIT_REACHED": "Ви досягли ліміту в {max} посилань-запрошень. Відкличте одне, щоб створити нове.",
   "FOLLOW_FOLLOW": "Стежити",
   "FOLLOW_FOLLOWING": "Ви стежите",
+  "FOLLOW_FOLLOWS_YOU": "Стежить за вами",
   "POST_WHO_TO_FOLLOW": "Кого читати",
   "POST_MORE_POSTS": "Більше дописів",
   "FOLLOW_FOLLOW_BACK": "Стежити у відповідь",

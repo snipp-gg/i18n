@@ -1955,6 +1955,7 @@
   "SETTINGS_TEAMS_INVITES_LIMIT_REACHED": "Osiągnięto limit {max} linków z zaproszeniem. Cofnij jeden, aby utworzyć kolejny.",
   "FOLLOW_FOLLOW": "Obserwuj",
   "FOLLOW_FOLLOWING": "Obserwujesz",
+  "FOLLOW_FOLLOWS_YOU": "Obserwuje Cię",
   "POST_WHO_TO_FOLLOW": "Kogo obserwować",
   "POST_MORE_POSTS": "Więcej postów",
   "FOLLOW_FOLLOW_BACK": "Obserwuj wzajemnie",
