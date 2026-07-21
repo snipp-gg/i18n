@@ -382,7 +382,7 @@
   "MODAL_EDIT_POST_ADAPTIVE_STREAMING_LABEL": "Enable Adaptive Streaming",
   "MODAL_EDIT_POST_ADAPTIVE_STREAMING_HINT": "Stream this video in adaptive quality. Uses your priority minutes. Turning it off won't refund them.",
   "MODAL_EDIT_POST_ADAPTIVE_STREAMING_NO_MINUTES_HINT": "You're out of priority minutes this month.",
-  "MODAL_EDIT_POST_ADAPTIVE_STREAMING_PROCESSING_HINT": "Processing for adaptive streaming. This can take a few minutes.",
+  "MODAL_EDIT_POST_ADAPTIVE_STREAMING_PROCESSING_HINT": "Processing for adaptive streaming. This can take a few minutes. Your video already plays while it finishes, so you can safely leave this page.",
   "COMMON_MODERATE": "Moderera",
   "POST_MENU_MODERATE": "Moderera inlägg",
   "MODAL_ADD_SOCIALS_ERROR_INVALID_DISCORD": "Ange ett giltigt Discord-användar-ID eller en https://discord.com/users/ID-länk.",
