@@ -382,7 +382,7 @@
   "MODAL_EDIT_POST_ADAPTIVE_STREAMING_LABEL": "アダプティブストリーミングを有効化",
   "MODAL_EDIT_POST_ADAPTIVE_STREAMING_HINT": "この動画をアダプティブ画質でストリーミングします。優先時間を消費します。オフにしても返却されません。",
   "MODAL_EDIT_POST_ADAPTIVE_STREAMING_NO_MINUTES_HINT": "今月の優先時間を使い切りました。",
-  "MODAL_EDIT_POST_ADAPTIVE_STREAMING_PROCESSING_HINT": "アダプティブストリーミング用に処理しています。数分かかる場合があります。",
+  "MODAL_EDIT_POST_ADAPTIVE_STREAMING_PROCESSING_HINT": "アダプティブストリーミング用に処理しています。数分かかる場合があります。 処理中も動画はすでに再生できるため、このページを閉じても問題ありません。",
   "COMMON_MODERATE": "モデレート",
   "POST_MENU_MODERATE": "投稿をモデレート",
   "MODAL_ADD_SOCIALS_ERROR_INVALID_DISCORD": "有効なDiscordユーザーID、またはhttps://discord.com/users/ID形式のリンクを入力してください。",

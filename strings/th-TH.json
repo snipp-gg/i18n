@@ -382,7 +382,7 @@
   "MODAL_EDIT_POST_ADAPTIVE_STREAMING_LABEL": "เปิดใช้การสตรีมแบบปรับอัตโนมัติ",
   "MODAL_EDIT_POST_ADAPTIVE_STREAMING_HINT": "สตรีมวิดีโอนี้ในคุณภาพแบบปรับอัตโนมัติ ใช้นาทีลำดับความสำคัญของคุณ การปิดใช้จะไม่คืนนาทีให้",
   "MODAL_EDIT_POST_ADAPTIVE_STREAMING_NO_MINUTES_HINT": "นาทีลำดับความสำคัญของคุณหมดแล้วในเดือนนี้",
-  "MODAL_EDIT_POST_ADAPTIVE_STREAMING_PROCESSING_HINT": "กำลังประมวลผลสำหรับการสตรีมแบบปรับอัตโนมัติ อาจใช้เวลาสองสามนาที",
+  "MODAL_EDIT_POST_ADAPTIVE_STREAMING_PROCESSING_HINT": "กำลังประมวลผลสำหรับการสตรีมแบบปรับอัตโนมัติ อาจใช้เวลาสองสามนาที ระหว่างนี้วิดีโอของคุณเล่นได้แล้ว คุณจึงออกจากหน้านี้ได้อย่างปลอดภัย",
   "COMMON_MODERATE": "จัดการ",
   "POST_MENU_MODERATE": "จัดการโพสต์",
   "MODAL_ADD_SOCIALS_ERROR_INVALID_DISCORD": "กรอก Discord User ID ที่ถูกต้องหรือลิงก์ https://discord.com/users/ID",

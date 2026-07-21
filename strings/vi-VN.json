@@ -382,7 +382,7 @@
   "MODAL_EDIT_POST_ADAPTIVE_STREAMING_LABEL": "Bật phát trực tuyến thích ứng",
   "MODAL_EDIT_POST_ADAPTIVE_STREAMING_HINT": "Phát video này ở chất lượng thích ứng. Sử dụng phút ưu tiên của bạn. Tắt đi sẽ không hoàn lại chúng.",
   "MODAL_EDIT_POST_ADAPTIVE_STREAMING_NO_MINUTES_HINT": "Bạn đã hết phút ưu tiên trong tháng này.",
-  "MODAL_EDIT_POST_ADAPTIVE_STREAMING_PROCESSING_HINT": "Đang xử lý để phát trực tuyến thích ứng. Quá trình này có thể mất vài phút.",
+  "MODAL_EDIT_POST_ADAPTIVE_STREAMING_PROCESSING_HINT": "Đang xử lý để phát trực tuyến thích ứng. Quá trình này có thể mất vài phút. Trong lúc đó video của bạn đã phát được, vì vậy bạn có thể yên tâm rời khỏi trang này.",
   "COMMON_MODERATE": "Kiểm duyệt",
   "POST_MENU_MODERATE": "Kiểm duyệt bài đăng",
   "MODAL_ADD_SOCIALS_ERROR_INVALID_DISCORD": "Nhập ID người dùng Discord hợp lệ hoặc liên kết https://discord.com/users/ID.",

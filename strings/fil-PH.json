@@ -382,7 +382,7 @@
   "MODAL_EDIT_POST_ADAPTIVE_STREAMING_LABEL": "I-enable ang Adaptive Streaming",
   "MODAL_EDIT_POST_ADAPTIVE_STREAMING_HINT": "I-stream ang video na ito sa adaptive na kalidad. Gumagamit ito ng iyong priority minutes. Ang pag-off nito ay hindi magre-refund ng mga ito.",
   "MODAL_EDIT_POST_ADAPTIVE_STREAMING_NO_MINUTES_HINT": "Naubos na ang iyong priority minutes ngayong buwan.",
-  "MODAL_EDIT_POST_ADAPTIVE_STREAMING_PROCESSING_HINT": "Pinoproseso para sa adaptive streaming. Maaaring tumagal ito nang ilang minuto.",
+  "MODAL_EDIT_POST_ADAPTIVE_STREAMING_PROCESSING_HINT": "Pinoproseso para sa adaptive streaming. Maaaring tumagal ito nang ilang minuto. Nagpe-play na ang iyong video habang hinihintay ito, kaya maaari mo nang iwanan ang pahinang ito.",
   "COMMON_MODERATE": "I-moderate",
   "POST_MENU_MODERATE": "I-moderate ang Post",
   "MODAL_ADD_SOCIALS_ERROR_INVALID_DISCORD": "Maglagay ng valid na Discord User ID o https://discord.com/users/ID link.",

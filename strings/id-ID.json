@@ -382,7 +382,7 @@
   "MODAL_EDIT_POST_ADAPTIVE_STREAMING_LABEL": "Aktifkan Streaming Adaptif",
   "MODAL_EDIT_POST_ADAPTIVE_STREAMING_HINT": "Streaming video ini dalam kualitas adaptif. Menggunakan menit prioritasmu. Menonaktifkannya tidak akan mengembalikannya.",
   "MODAL_EDIT_POST_ADAPTIVE_STREAMING_NO_MINUTES_HINT": "Menit prioritasmu sudah habis bulan ini.",
-  "MODAL_EDIT_POST_ADAPTIVE_STREAMING_PROCESSING_HINT": "Memproses untuk streaming adaptif. Ini bisa memakan waktu beberapa menit.",
+  "MODAL_EDIT_POST_ADAPTIVE_STREAMING_PROCESSING_HINT": "Memproses untuk streaming adaptif. Ini bisa memakan waktu beberapa menit. Sementara itu video Anda sudah dapat diputar, jadi Anda bisa meninggalkan halaman ini dengan aman.",
   "COMMON_MODERATE": "Moderasi",
   "POST_MENU_MODERATE": "Moderasi Postingan",
   "MODAL_ADD_SOCIALS_ERROR_INVALID_DISCORD": "Masukkan ID Pengguna Discord yang valid atau tautan https://discord.com/users/ID.",

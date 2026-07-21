@@ -382,7 +382,7 @@
   "MODAL_EDIT_POST_ADAPTIVE_STREAMING_LABEL": "Omogući prilagodljivi streaming",
   "MODAL_EDIT_POST_ADAPTIVE_STREAMING_HINT": "Streamaj ovaj video u prilagodljivoj kvaliteti. Koristi tvoje prioritetne minute. Isključivanje ih neće vratiti.",
   "MODAL_EDIT_POST_ADAPTIVE_STREAMING_NO_MINUTES_HINT": "Ovaj mjesec si potrošio sve prioritetne minute.",
-  "MODAL_EDIT_POST_ADAPTIVE_STREAMING_PROCESSING_HINT": "Obrađuje se za prilagodljivo streamanje. To može potrajati nekoliko minuta.",
+  "MODAL_EDIT_POST_ADAPTIVE_STREAMING_PROCESSING_HINT": "Obrađuje se za prilagodljivo streamanje. To može potrajati nekoliko minuta. Vaš se videozapis u međuvremenu već reproducira, pa slobodno možete napustiti ovu stranicu.",
   "COMMON_MODERATE": "Moderiraj",
   "POST_MENU_MODERATE": "Moderiraj objavu",
   "MODAL_ADD_SOCIALS_ERROR_INVALID_DISCORD": "Unesi valjani Discord ID korisnika ili poveznicu https://discord.com/users/ID.",

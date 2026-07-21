@@ -382,7 +382,7 @@
   "MODAL_EDIT_POST_ADAPTIVE_STREAMING_LABEL": "Activează streamingul adaptiv",
   "MODAL_EDIT_POST_ADAPTIVE_STREAMING_HINT": "Redă acest videoclip în calitate adaptivă. Îți folosește minutele prioritare. Dezactivarea nu le rambursează.",
   "MODAL_EDIT_POST_ADAPTIVE_STREAMING_NO_MINUTES_HINT": "Ai rămas fără minute prioritare luna aceasta.",
-  "MODAL_EDIT_POST_ADAPTIVE_STREAMING_PROCESSING_HINT": "Se procesează pentru streaming adaptiv. Acest lucru poate dura câteva minute.",
+  "MODAL_EDIT_POST_ADAPTIVE_STREAMING_PROCESSING_HINT": "Se procesează pentru streaming adaptiv. Acest lucru poate dura câteva minute. Între timp videoclipul tău poate fi deja redat, așa că poți părăsi liniștit această pagină.",
   "COMMON_MODERATE": "Moderează",
   "POST_MENU_MODERATE": "Moderează postarea",
   "MODAL_ADD_SOCIALS_ERROR_INVALID_DISCORD": "Introdu un ID de utilizator Discord valid sau un link https://discord.com/users/ID.",

@@ -382,7 +382,7 @@
   "MODAL_EDIT_POST_ADAPTIVE_STREAMING_LABEL": "Włącz streaming adaptacyjny",
   "MODAL_EDIT_POST_ADAPTIVE_STREAMING_HINT": "Streamuj ten film w jakości adaptacyjnej. Zużywa Twoje minuty priorytetowe. Wyłączenie nie zwraca ich.",
   "MODAL_EDIT_POST_ADAPTIVE_STREAMING_NO_MINUTES_HINT": "W tym miesiącu wyczerpałeś minuty priorytetowe.",
-  "MODAL_EDIT_POST_ADAPTIVE_STREAMING_PROCESSING_HINT": "Przetwarzanie na potrzeby adaptacyjnego streamingu. Może to potrwać kilka minut.",
+  "MODAL_EDIT_POST_ADAPTIVE_STREAMING_PROCESSING_HINT": "Przetwarzanie na potrzeby adaptacyjnego streamingu. Może to potrwać kilka minut. W międzyczasie Twój film już się odtwarza, więc możesz spokojnie opuścić tę stronę.",
   "COMMON_MODERATE": "Moderuj",
   "POST_MENU_MODERATE": "Moderuj Post",
   "MODAL_ADD_SOCIALS_ERROR_INVALID_DISCORD": "Wprowadź prawidłowe ID użytkownika Discord lub link https://discord.com/users/ID.",

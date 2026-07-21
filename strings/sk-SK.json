@@ -382,7 +382,7 @@
   "MODAL_EDIT_POST_ADAPTIVE_STREAMING_LABEL": "Povoliť adaptívne streamovanie",
   "MODAL_EDIT_POST_ADAPTIVE_STREAMING_HINT": "Streamovať toto video v adaptívnej kvalite. Spotrebúva tvoje prioritné minúty. Vypnutie ich nevráti.",
   "MODAL_EDIT_POST_ADAPTIVE_STREAMING_NO_MINUTES_HINT": "Tento mesiac ti došli prioritné minúty.",
-  "MODAL_EDIT_POST_ADAPTIVE_STREAMING_PROCESSING_HINT": "Spracúva sa pre adaptívne streamovanie. Môže to trvať niekoľko minút.",
+  "MODAL_EDIT_POST_ADAPTIVE_STREAMING_PROCESSING_HINT": "Spracúva sa pre adaptívne streamovanie. Môže to trvať niekoľko minút. Video sa medzitým už prehráva, takže túto stránku môžete pokojne opustiť.",
   "COMMON_MODERATE": "Moderovať",
   "POST_MENU_MODERATE": "Moderovať príspevok",
   "MODAL_ADD_SOCIALS_ERROR_INVALID_DISCORD": "Zadaj platné Discord ID používateľa alebo odkaz https://discord.com/users/ID.",

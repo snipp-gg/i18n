@@ -382,7 +382,7 @@
   "MODAL_EDIT_POST_ADAPTIVE_STREAMING_LABEL": "Adaptieve streaming inschakelen",
   "MODAL_EDIT_POST_ADAPTIVE_STREAMING_HINT": "Stream deze video in adaptieve kwaliteit. Verbruikt je prioriteitsminuten. Uitschakelen geeft ze niet terug.",
   "MODAL_EDIT_POST_ADAPTIVE_STREAMING_NO_MINUTES_HINT": "Je prioriteitsminuten voor deze maand zijn op.",
-  "MODAL_EDIT_POST_ADAPTIVE_STREAMING_PROCESSING_HINT": "Bezig met verwerken voor adaptieve streaming. Dit kan een paar minuten duren.",
+  "MODAL_EDIT_POST_ADAPTIVE_STREAMING_PROCESSING_HINT": "Bezig met verwerken voor adaptieve streaming. Dit kan een paar minuten duren. Je video is ondertussen al afspeelbaar, dus je kunt deze pagina gerust verlaten.",
   "COMMON_MODERATE": "Modereren",
   "POST_MENU_MODERATE": "Post modereren",
   "MODAL_ADD_SOCIALS_ERROR_INVALID_DISCORD": "Voer een geldige Discord-gebruikers-ID of https://discord.com/users/ID-link in.",

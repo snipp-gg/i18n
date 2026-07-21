@@ -382,7 +382,7 @@
   "MODAL_EDIT_POST_ADAPTIVE_STREAMING_LABEL": "Ενεργοποίηση προσαρμοστικού streaming",
   "MODAL_EDIT_POST_ADAPTIVE_STREAMING_HINT": "Μεταδώστε αυτό το βίντεο σε προσαρμοστική ποιότητα. Χρησιμοποιεί τα λεπτά προτεραιότητάς σας. Η απενεργοποίηση δεν τα επιστρέφει.",
   "MODAL_EDIT_POST_ADAPTIVE_STREAMING_NO_MINUTES_HINT": "Έχετε εξαντλήσει τα λεπτά προτεραιότητας αυτόν τον μήνα.",
-  "MODAL_EDIT_POST_ADAPTIVE_STREAMING_PROCESSING_HINT": "Γίνεται επεξεργασία για προσαρμοστική ροή. Αυτό μπορεί να διαρκέσει μερικά λεπτά.",
+  "MODAL_EDIT_POST_ADAPTIVE_STREAMING_PROCESSING_HINT": "Γίνεται επεξεργασία για προσαρμοστική ροή. Αυτό μπορεί να διαρκέσει μερικά λεπτά. Στο μεταξύ το βίντεό σας αναπαράγεται ήδη, οπότε μπορείτε να φύγετε από αυτή τη σελίδα με ασφάλεια.",
   "COMMON_MODERATE": "Συντονισμός",
   "POST_MENU_MODERATE": "Συντονισμός Ανάρτησης",
   "MODAL_ADD_SOCIALS_ERROR_INVALID_DISCORD": "Εισάγετε έγκυρο Αναγνωριστικό Χρήστη Discord ή σύνδεσμο https://discord.com/users/ID.",

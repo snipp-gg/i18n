@@ -382,7 +382,7 @@
   "MODAL_EDIT_POST_ADAPTIVE_STREAMING_LABEL": "启用自适应串流",
   "MODAL_EDIT_POST_ADAPTIVE_STREAMING_HINT": "以自适应画质串流此视频。会消耗你的优先分钟。关闭它不会退还这些分钟。",
   "MODAL_EDIT_POST_ADAPTIVE_STREAMING_NO_MINUTES_HINT": "你本月的优先分钟已用完。",
-  "MODAL_EDIT_POST_ADAPTIVE_STREAMING_PROCESSING_HINT": "正在为自适应流媒体处理。这可能需要几分钟。",
+  "MODAL_EDIT_POST_ADAPTIVE_STREAMING_PROCESSING_HINT": "正在为自适应流媒体处理。这可能需要几分钟。 处理期间您的视频已可播放，因此可以放心离开此页面。",
   "COMMON_MODERATE": "审核",
   "POST_MENU_MODERATE": "审核帖子",
   "MODAL_ADD_SOCIALS_ERROR_INVALID_DISCORD": "请输入有效的 Discord 用户 ID 或 https://discord.com/users/ID 链接。",

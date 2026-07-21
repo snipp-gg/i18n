@@ -382,7 +382,7 @@
   "MODAL_EDIT_POST_ADAPTIVE_STREAMING_LABEL": "Увімкнути адаптивний стримінг",
   "MODAL_EDIT_POST_ADAPTIVE_STREAMING_HINT": "Транслюйте це відео в адаптивній якості. Використовує ваші пріоритетні хвилини. Вимкнення не поверне їх.",
   "MODAL_EDIT_POST_ADAPTIVE_STREAMING_NO_MINUTES_HINT": "Цього місяця у вас закінчилися пріоритетні хвилини.",
-  "MODAL_EDIT_POST_ADAPTIVE_STREAMING_PROCESSING_HINT": "Обробка для адаптивного стримінгу. Це може зайняти кілька хвилин.",
+  "MODAL_EDIT_POST_ADAPTIVE_STREAMING_PROCESSING_HINT": "Обробка для адаптивного стримінгу. Це може зайняти кілька хвилин. Тим часом ваше відео вже відтворюється, тож ви можете спокійно залишити цю сторінку.",
   "COMMON_MODERATE": "Модерувати",
   "POST_MENU_MODERATE": "Модерувати допис",
   "MODAL_ADD_SOCIALS_ERROR_INVALID_DISCORD": "Введіть дійсний ID користувача Discord або посилання https://discord.com/users/ID.",

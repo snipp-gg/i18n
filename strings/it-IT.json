@@ -382,7 +382,7 @@
   "MODAL_EDIT_POST_ADAPTIVE_STREAMING_LABEL": "Attiva lo streaming adattivo",
   "MODAL_EDIT_POST_ADAPTIVE_STREAMING_HINT": "Trasmetti questo video in qualità adattiva. Usa i tuoi minuti prioritari. Disattivarlo non li rimborserà.",
   "MODAL_EDIT_POST_ADAPTIVE_STREAMING_NO_MINUTES_HINT": "Hai esaurito i minuti prioritari di questo mese.",
-  "MODAL_EDIT_POST_ADAPTIVE_STREAMING_PROCESSING_HINT": "Elaborazione per lo streaming adattivo. Può richiedere alcuni minuti.",
+  "MODAL_EDIT_POST_ADAPTIVE_STREAMING_PROCESSING_HINT": "Elaborazione per lo streaming adattivo. Può richiedere alcuni minuti. Nel frattempo il tuo video è già riproducibile, quindi puoi lasciare questa pagina senza problemi.",
   "COMMON_MODERATE": "Modera",
   "POST_MENU_MODERATE": "Modera post",
   "MODAL_ADD_SOCIALS_ERROR_INVALID_DISCORD": "Inserisci un ID utente Discord valido o un link https://discord.com/users/ID.",

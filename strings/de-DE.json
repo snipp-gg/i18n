@@ -382,7 +382,7 @@
   "MODAL_EDIT_POST_ADAPTIVE_STREAMING_LABEL": "Adaptives Streaming aktivieren",
   "MODAL_EDIT_POST_ADAPTIVE_STREAMING_HINT": "Streame dieses Video in adaptiver Qualität. Verbraucht deine Prioritätsminuten. Das Deaktivieren erstattet sie nicht zurück.",
   "MODAL_EDIT_POST_ADAPTIVE_STREAMING_NO_MINUTES_HINT": "Du hast diesen Monat keine Prioritätsminuten mehr.",
-  "MODAL_EDIT_POST_ADAPTIVE_STREAMING_PROCESSING_HINT": "Wird für adaptives Streaming verarbeitet. Das kann ein paar Minuten dauern.",
+  "MODAL_EDIT_POST_ADAPTIVE_STREAMING_PROCESSING_HINT": "Wird für adaptives Streaming verarbeitet. Das kann ein paar Minuten dauern. Dein Video ist währenddessen bereits abspielbar, du kannst diese Seite also bedenkenlos verlassen.",
   "COMMON_MODERATE": "Moderieren",
   "POST_MENU_MODERATE": "Beitrag Moderieren",
   "MODAL_ADD_SOCIALS_ERROR_INVALID_DISCORD": "Gib eine gültige Discord-Benutzer-ID oder einen https://discord.com/users/ID-Link ein.",

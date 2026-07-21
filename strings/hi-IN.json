@@ -382,7 +382,7 @@
   "MODAL_EDIT_POST_ADAPTIVE_STREAMING_LABEL": "एडैप्टिव स्ट्रीमिंग चालू करें",
   "MODAL_EDIT_POST_ADAPTIVE_STREAMING_HINT": "इस वीडियो को एडैप्टिव क्वालिटी में स्ट्रीम करें। यह आपके प्रायोरिटी मिनट इस्तेमाल करता है। इसे बंद करने पर वे वापस नहीं मिलेंगे।",
   "MODAL_EDIT_POST_ADAPTIVE_STREAMING_NO_MINUTES_HINT": "इस महीने आपके प्रायोरिटी मिनट खत्म हो गए हैं।",
-  "MODAL_EDIT_POST_ADAPTIVE_STREAMING_PROCESSING_HINT": "एडैप्टिव स्ट्रीमिंग के लिए प्रोसेस हो रहा है। इसमें कुछ मिनट लग सकते हैं।",
+  "MODAL_EDIT_POST_ADAPTIVE_STREAMING_PROCESSING_HINT": "एडैप्टिव स्ट्रीमिंग के लिए प्रोसेस हो रहा है। इसमें कुछ मिनट लग सकते हैं। इस दौरान आपका वीडियो पहले से चल रहा है, इसलिए आप बेझिझक यह पेज छोड़ सकते हैं।",
   "COMMON_MODERATE": "मॉडरेट करें",
   "POST_MENU_MODERATE": "पोस्ट को मॉडरेट करें",
   "MODAL_ADD_SOCIALS_ERROR_INVALID_DISCORD": "एक मान्य Discord User ID या https://discord.com/users/ID लिंक डालें।",

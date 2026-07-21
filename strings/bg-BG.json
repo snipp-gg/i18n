@@ -382,7 +382,7 @@
   "MODAL_EDIT_POST_ADAPTIVE_STREAMING_LABEL": "Активиране на адаптивен стрийминг",
   "MODAL_EDIT_POST_ADAPTIVE_STREAMING_HINT": "Излъчвайте това видео в адаптивно качество. Използва вашите приоритетни минути. Изключването му няма да ги възстанови.",
   "MODAL_EDIT_POST_ADAPTIVE_STREAMING_NO_MINUTES_HINT": "Изчерпахте приоритетните си минути за този месец.",
-  "MODAL_EDIT_POST_ADAPTIVE_STREAMING_PROCESSING_HINT": "Обработва се за адаптивно стрийминг. Това може да отнеме няколко минути.",
+  "MODAL_EDIT_POST_ADAPTIVE_STREAMING_PROCESSING_HINT": "Обработва се за адаптивно стрийминг. Това може да отнеме няколко минути. Междувременно видеото вече се възпроизвежда, така че можете спокойно да напуснете тази страница.",
   "COMMON_MODERATE": "Модериране",
   "POST_MENU_MODERATE": "Модериране на публикация",
   "MODAL_ADD_SOCIALS_ERROR_INVALID_DISCORD": "Въведете валидно Discord потребителско ID или връзка https://discord.com/users/ID.",

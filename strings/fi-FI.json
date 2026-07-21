@@ -382,7 +382,7 @@
   "MODAL_EDIT_POST_ADAPTIVE_STREAMING_LABEL": "Ota mukautuva suoratoisto käyttöön",
   "MODAL_EDIT_POST_ADAPTIVE_STREAMING_HINT": "Suoratoista tämä video mukautuvalla laadulla. Käyttää prioriteettiminuuttejasi. Sen poistaminen käytöstä ei palauta niitä.",
   "MODAL_EDIT_POST_ADAPTIVE_STREAMING_NO_MINUTES_HINT": "Prioriteettiminuuttisi ovat loppu tässä kuussa.",
-  "MODAL_EDIT_POST_ADAPTIVE_STREAMING_PROCESSING_HINT": "Käsitellään mukautuvaa suoratoistoa varten. Tämä voi kestää muutaman minuutin.",
+  "MODAL_EDIT_POST_ADAPTIVE_STREAMING_PROCESSING_HINT": "Käsitellään mukautuvaa suoratoistoa varten. Tämä voi kestää muutaman minuutin. Videosi toistuu jo sillä välin, joten voit poistua tältä sivulta huoletta.",
   "COMMON_MODERATE": "Moderoi",
   "POST_MENU_MODERATE": "Moderoi julkaisua",
   "MODAL_ADD_SOCIALS_ERROR_INVALID_DISCORD": "Syötä kelvollinen Discord-käyttäjätunnus tai https://discord.com/users/ID-linkki.",

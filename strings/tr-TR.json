@@ -382,7 +382,7 @@
   "MODAL_EDIT_POST_ADAPTIVE_STREAMING_LABEL": "Uyarlanabilir Yayını Etkinleştir",
   "MODAL_EDIT_POST_ADAPTIVE_STREAMING_HINT": "Bu videoyu uyarlanabilir kalitede yayınla. Öncelikli dakikalarını kullanır. Kapatmak bunları geri iade etmez.",
   "MODAL_EDIT_POST_ADAPTIVE_STREAMING_NO_MINUTES_HINT": "Bu ay öncelikli dakikan kalmadı.",
-  "MODAL_EDIT_POST_ADAPTIVE_STREAMING_PROCESSING_HINT": "Uyarlanabilir akış için işleniyor. Bu birkaç dakika sürebilir.",
+  "MODAL_EDIT_POST_ADAPTIVE_STREAMING_PROCESSING_HINT": "Uyarlanabilir akış için işleniyor. Bu birkaç dakika sürebilir. Bu sırada videonuz zaten oynatılabiliyor, dolayısıyla bu sayfadan güvenle ayrılabilirsiniz.",
   "COMMON_MODERATE": "Denetle",
   "POST_MENU_MODERATE": "Gönderiyi Denetle",
   "MODAL_ADD_SOCIALS_ERROR_INVALID_DISCORD": "Geçerli bir Discord Kullanıcı Kimliği veya https://discord.com/users/ID bağlantısı girin.",

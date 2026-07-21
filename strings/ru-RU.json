@@ -382,7 +382,7 @@
   "MODAL_EDIT_POST_ADAPTIVE_STREAMING_LABEL": "Включить адаптивное потоковое вещание",
   "MODAL_EDIT_POST_ADAPTIVE_STREAMING_HINT": "Транслируйте это видео в адаптивном качестве. Это расходует ваши приоритетные минуты. Отключение их не возвращает.",
   "MODAL_EDIT_POST_ADAPTIVE_STREAMING_NO_MINUTES_HINT": "В этом месяце у вас закончились приоритетные минуты.",
-  "MODAL_EDIT_POST_ADAPTIVE_STREAMING_PROCESSING_HINT": "Обработка для адаптивного стриминга. Это может занять несколько минут.",
+  "MODAL_EDIT_POST_ADAPTIVE_STREAMING_PROCESSING_HINT": "Обработка для адаптивного стриминга. Это может занять несколько минут. Тем временем видео уже воспроизводится, поэтому вы можете спокойно покинуть эту страницу.",
   "COMMON_MODERATE": "Модерировать",
   "POST_MENU_MODERATE": "Модерировать пост",
   "MODAL_ADD_SOCIALS_ERROR_INVALID_DISCORD": "Введите корректный Discord User ID или ссылку https://discord.com/users/ID.",
