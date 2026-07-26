@@ -1901,6 +1901,7 @@
   "TEAMS_JOIN_TOAST_ALREADY_MEMBER": "Već ste član ovog tima.",
   "TEAMS_JOIN_ERROR_INVITE_EXPIRED": "Ova pozivnica nije važeća ili je istekla.",
   "TEAMS_JOIN_ERROR_TEAM_FULL": "Ovaj tim je pun.",
+  "TEAMS_JOIN_ERROR_TEAM_LAPSED": "Pretplata ovog tima je istekla.",
   "TEAMS_JOIN_ERROR_MEMBERSHIP_LIMIT": "Dostigli ste maksimum od {limit} timova.",
   "TEAMS_GALLERY_HEADER": "Galerija tima {team}",
   "TEAMS_GALLERY_MANAGE": "Upravljaj timom",

@@ -1901,6 +1901,7 @@
   "TEAMS_JOIN_TOAST_ALREADY_MEMBER": "Zaten bu ekibin bir üyesisin.",
   "TEAMS_JOIN_ERROR_INVITE_EXPIRED": "Bu davet geçersiz veya süresi dolmuş.",
   "TEAMS_JOIN_ERROR_TEAM_FULL": "Bu ekip dolu.",
+  "TEAMS_JOIN_ERROR_TEAM_LAPSED": "Bu ekibin aboneliği sona erdi.",
   "TEAMS_JOIN_ERROR_MEMBERSHIP_LIMIT": "Maksimum {limit} takım sınırına ulaştın.",
   "TEAMS_GALLERY_HEADER": "{team} galerisi",
   "TEAMS_GALLERY_MANAGE": "Manage team",

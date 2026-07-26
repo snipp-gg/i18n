@@ -1901,6 +1901,7 @@
   "TEAMS_JOIN_TOAST_ALREADY_MEMBER": "すでにこのチームのメンバーです。",
   "TEAMS_JOIN_ERROR_INVITE_EXPIRED": "この招待は無効か、有効期限が切れています。",
   "TEAMS_JOIN_ERROR_TEAM_FULL": "このチームは満員です。",
+  "TEAMS_JOIN_ERROR_TEAM_LAPSED": "このチームのサブスクリプションは終了しています。",
   "TEAMS_JOIN_ERROR_MEMBERSHIP_LIMIT": "チームの上限である{limit}チームに達しました。",
   "TEAMS_GALLERY_HEADER": "{team}のギャラリー",
   "TEAMS_GALLERY_MANAGE": "Manage team",

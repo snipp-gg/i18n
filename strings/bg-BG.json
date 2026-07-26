@@ -1901,6 +1901,7 @@
   "TEAMS_JOIN_TOAST_ALREADY_MEMBER": "Вече сте член на този екип.",
   "TEAMS_JOIN_ERROR_INVITE_EXPIRED": "Тази покана е невалидна или е изтекла.",
   "TEAMS_JOIN_ERROR_TEAM_FULL": "Този екип е пълен.",
+  "TEAMS_JOIN_ERROR_TEAM_LAPSED": "Абонаментът на този екип е изтекъл.",
   "TEAMS_JOIN_ERROR_MEMBERSHIP_LIMIT": "Достигнахте максимума от {limit} отбора.",
   "TEAMS_GALLERY_HEADER": "Галерия на {team}",
   "TEAMS_GALLERY_MANAGE": "Управление на отбора",

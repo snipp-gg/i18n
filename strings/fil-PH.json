@@ -1901,6 +1901,7 @@
   "TEAMS_JOIN_TOAST_ALREADY_MEMBER": "Miyembro ka na ng team na ito.",
   "TEAMS_JOIN_ERROR_INVITE_EXPIRED": "Hindi valid o nag-expire na ang imbitasyong ito.",
   "TEAMS_JOIN_ERROR_TEAM_FULL": "Puno na ang team na ito.",
+  "TEAMS_JOIN_ERROR_TEAM_LAPSED": "Nag-expire na ang subscription ng team na ito.",
   "TEAMS_JOIN_ERROR_MEMBERSHIP_LIMIT": "Naabot mo na ang maximum na {limit} team.",
   "TEAMS_GALLERY_HEADER": "Gallery ng {team}",
   "TEAMS_GALLERY_MANAGE": "Manage team",

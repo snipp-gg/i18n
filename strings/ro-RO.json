@@ -1901,6 +1901,7 @@
   "TEAMS_JOIN_TOAST_ALREADY_MEMBER": "Ești deja membru al acestei echipe.",
   "TEAMS_JOIN_ERROR_INVITE_EXPIRED": "Această invitație este invalidă sau a expirat.",
   "TEAMS_JOIN_ERROR_TEAM_FULL": "Această echipă este plină.",
+  "TEAMS_JOIN_ERROR_TEAM_LAPSED": "Abonamentul acestei echipe a expirat.",
   "TEAMS_JOIN_ERROR_MEMBERSHIP_LIMIT": "Ai atins maximul de {limit} echipe.",
   "TEAMS_GALLERY_HEADER": "Galeria {team}",
   "TEAMS_GALLERY_MANAGE": "Gestionează echipa",

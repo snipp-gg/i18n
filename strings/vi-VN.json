@@ -1901,6 +1901,7 @@
   "TEAMS_JOIN_TOAST_ALREADY_MEMBER": "Bạn đã là thành viên của nhóm này.",
   "TEAMS_JOIN_ERROR_INVITE_EXPIRED": "Lời mời này không hợp lệ hoặc đã hết hạn.",
   "TEAMS_JOIN_ERROR_TEAM_FULL": "Nhóm này đã đầy.",
+  "TEAMS_JOIN_ERROR_TEAM_LAPSED": "Gói đăng ký của nhóm này đã hết hạn.",
   "TEAMS_JOIN_ERROR_MEMBERSHIP_LIMIT": "Bạn đã đạt số nhóm tối đa là {limit}.",
   "TEAMS_GALLERY_HEADER": "Thư viện {team}",
   "TEAMS_GALLERY_MANAGE": "Quản lý nhóm",

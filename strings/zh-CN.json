@@ -1901,6 +1901,7 @@
   "TEAMS_JOIN_TOAST_ALREADY_MEMBER": "你已经是该团队的成员。",
   "TEAMS_JOIN_ERROR_INVITE_EXPIRED": "此邀请无效或已过期。",
   "TEAMS_JOIN_ERROR_TEAM_FULL": "该团队已满员。",
+  "TEAMS_JOIN_ERROR_TEAM_LAPSED": "该团队的订阅已到期。",
   "TEAMS_JOIN_ERROR_MEMBERSHIP_LIMIT": "您已达到 {limit} 支队伍的最大数量。",
   "TEAMS_GALLERY_HEADER": "{team} 画廊",
   "TEAMS_GALLERY_MANAGE": "管理团队",

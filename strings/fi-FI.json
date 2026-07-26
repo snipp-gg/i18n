@@ -1901,6 +1901,7 @@
   "TEAMS_JOIN_TOAST_ALREADY_MEMBER": "Olet jo tämän tiimin jäsen.",
   "TEAMS_JOIN_ERROR_INVITE_EXPIRED": "Tämä kutsu on virheellinen tai vanhentunut.",
   "TEAMS_JOIN_ERROR_TEAM_FULL": "Tämä tiimi on täynnä.",
+  "TEAMS_JOIN_ERROR_TEAM_LAPSED": "Tämän tiimin tilaus on päättynyt.",
   "TEAMS_JOIN_ERROR_MEMBERSHIP_LIMIT": "Olet saavuttanut enimmäismäärän {limit} tiimiä.",
   "TEAMS_GALLERY_HEADER": "Tiimin {team} galleria",
   "TEAMS_GALLERY_MANAGE": "Hallitse tiimiä",

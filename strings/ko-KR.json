@@ -1901,6 +1901,7 @@
   "TEAMS_JOIN_TOAST_ALREADY_MEMBER": "이미 이 팀의 멤버입니다.",
   "TEAMS_JOIN_ERROR_INVITE_EXPIRED": "이 초대는 유효하지 않거나 만료되었습니다.",
   "TEAMS_JOIN_ERROR_TEAM_FULL": "이 팀은 정원이 찼습니다.",
+  "TEAMS_JOIN_ERROR_TEAM_LAPSED": "이 팀의 구독이 만료되었습니다.",
   "TEAMS_JOIN_ERROR_MEMBERSHIP_LIMIT": "최대 {limit}개 팀에 도달했습니다.",
   "TEAMS_GALLERY_HEADER": "{team} 갤러리",
   "TEAMS_GALLERY_MANAGE": "팀 관리",

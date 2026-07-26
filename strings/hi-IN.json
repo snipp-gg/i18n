@@ -1901,6 +1901,7 @@
   "TEAMS_JOIN_TOAST_ALREADY_MEMBER": "आप पहले से ही इस टीम के सदस्य हैं।",
   "TEAMS_JOIN_ERROR_INVITE_EXPIRED": "यह इनवाइट अमान्य है या समाप्त हो चुका है।",
   "TEAMS_JOIN_ERROR_TEAM_FULL": "यह टीम भरी हुई है।",
+  "TEAMS_JOIN_ERROR_TEAM_LAPSED": "इस टीम की सदस्यता समाप्त हो चुकी है।",
   "TEAMS_JOIN_ERROR_MEMBERSHIP_LIMIT": "आप {limit} टीमों की अधिकतम सीमा तक पहुँच चुके हैं।",
   "TEAMS_GALLERY_HEADER": "{team} गैलरी",
   "TEAMS_GALLERY_MANAGE": "टीम मैनेज करें",

@@ -1901,6 +1901,7 @@
   "TEAMS_JOIN_TOAST_ALREADY_MEMBER": "Вы уже состоите в этой команде.",
   "TEAMS_JOIN_ERROR_INVITE_EXPIRED": "Это приглашение недействительно или истекло.",
   "TEAMS_JOIN_ERROR_TEAM_FULL": "Эта команда заполнена.",
+  "TEAMS_JOIN_ERROR_TEAM_LAPSED": "Подписка этой команды закончилась.",
   "TEAMS_JOIN_ERROR_MEMBERSHIP_LIMIT": "Вы достигли максимума в {limit} команд.",
   "TEAMS_GALLERY_HEADER": "Галерея {team}",
   "TEAMS_GALLERY_MANAGE": "Manage team",

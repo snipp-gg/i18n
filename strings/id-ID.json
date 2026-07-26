@@ -1901,6 +1901,7 @@
   "TEAMS_JOIN_TOAST_ALREADY_MEMBER": "Kamu sudah menjadi anggota tim ini.",
   "TEAMS_JOIN_ERROR_INVITE_EXPIRED": "Undangan ini tidak valid atau sudah kedaluwarsa.",
   "TEAMS_JOIN_ERROR_TEAM_FULL": "Tim ini sudah penuh.",
+  "TEAMS_JOIN_ERROR_TEAM_LAPSED": "Langganan tim ini sudah berakhir.",
   "TEAMS_JOIN_ERROR_MEMBERSHIP_LIMIT": "Anda telah mencapai maksimum {limit} tim.",
   "TEAMS_GALLERY_HEADER": "Galeri {team}",
   "TEAMS_GALLERY_MANAGE": "Kelola Tim",

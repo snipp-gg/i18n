@@ -1901,6 +1901,7 @@
   "TEAMS_JOIN_TOAST_ALREADY_MEMBER": "Už jsi členem tohoto týmu.",
   "TEAMS_JOIN_ERROR_INVITE_EXPIRED": "Tato pozvánka je neplatná nebo vypršela.",
   "TEAMS_JOIN_ERROR_TEAM_FULL": "Tento tým je plný.",
+  "TEAMS_JOIN_ERROR_TEAM_LAPSED": "Předplatné tohoto týmu vypršelo.",
   "TEAMS_JOIN_ERROR_MEMBERSHIP_LIMIT": "Dosáhli jste maxima {limit} týmů.",
   "TEAMS_GALLERY_HEADER": "Galerie týmu {team}",
   "TEAMS_GALLERY_MANAGE": "Spravovat tým",

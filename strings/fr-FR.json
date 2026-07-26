@@ -1901,6 +1901,7 @@
   "TEAMS_JOIN_TOAST_ALREADY_MEMBER": "Vous êtes déjà membre de cette équipe.",
   "TEAMS_JOIN_ERROR_INVITE_EXPIRED": "Cette invitation est non valide ou a expiré.",
   "TEAMS_JOIN_ERROR_TEAM_FULL": "Cette équipe est complète.",
+  "TEAMS_JOIN_ERROR_TEAM_LAPSED": "L'abonnement de cette équipe a expiré.",
   "TEAMS_JOIN_ERROR_MEMBERSHIP_LIMIT": "Vous avez atteint le maximum de {limit} équipes.",
   "TEAMS_GALLERY_HEADER": "Galerie de {team}",
   "TEAMS_GALLERY_MANAGE": "Manage team",

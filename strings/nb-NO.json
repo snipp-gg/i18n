@@ -1901,6 +1901,7 @@
   "TEAMS_JOIN_TOAST_ALREADY_MEMBER": "Du er allerede medlem av dette teamet.",
   "TEAMS_JOIN_ERROR_INVITE_EXPIRED": "Denne invitasjonen er ugyldig eller utløpt.",
   "TEAMS_JOIN_ERROR_TEAM_FULL": "Dette teamet er fullt.",
+  "TEAMS_JOIN_ERROR_TEAM_LAPSED": "Abonnementet til dette teamet har utløpt.",
   "TEAMS_JOIN_ERROR_MEMBERSHIP_LIMIT": "Du har nådd maksimum på {limit} team.",
   "TEAMS_GALLERY_HEADER": "{team}-galleri",
   "TEAMS_GALLERY_MANAGE": "Administrer team",

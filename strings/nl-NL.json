@@ -1901,6 +1901,7 @@
   "TEAMS_JOIN_TOAST_ALREADY_MEMBER": "Je bent al lid van dit team.",
   "TEAMS_JOIN_ERROR_INVITE_EXPIRED": "Deze uitnodiging is ongeldig of verlopen.",
   "TEAMS_JOIN_ERROR_TEAM_FULL": "Dit team zit vol.",
+  "TEAMS_JOIN_ERROR_TEAM_LAPSED": "Het abonnement van dit team is verlopen.",
   "TEAMS_JOIN_ERROR_MEMBERSHIP_LIMIT": "Je hebt het maximum van {limit} teams bereikt.",
   "TEAMS_GALLERY_HEADER": "Galerij van {team}",
   "TEAMS_GALLERY_MANAGE": "Team beheren",

@@ -1901,6 +1901,7 @@
   "TEAMS_JOIN_TOAST_ALREADY_MEMBER": "Είστε ήδη μέλος αυτής της ομάδας.",
   "TEAMS_JOIN_ERROR_INVITE_EXPIRED": "Αυτή η πρόσκληση δεν είναι έγκυρη ή έχει λήξει.",
   "TEAMS_JOIN_ERROR_TEAM_FULL": "Αυτή η ομάδα είναι πλήρης.",
+  "TEAMS_JOIN_ERROR_TEAM_LAPSED": "Η συνδρομή αυτής της ομάδας έχει λήξει.",
   "TEAMS_JOIN_ERROR_MEMBERSHIP_LIMIT": "Έχετε φτάσει το μέγιστο των {limit} ομάδων.",
   "TEAMS_GALLERY_HEADER": "Γκαλερί της ομάδας {team}",
   "TEAMS_GALLERY_MANAGE": "Διαχείριση Ομάδας",
