@@ -168,7 +168,6 @@
   "REDEEM_REASON_CODE_EXHAUSTED": "This code has already been fully redeemed.",
   "REDEEM_REASON_ALREADY_REDEEMED": "You've already redeemed this code.",
   "REDEEM_REASON_NOT_ELIGIBLE": "You're not eligible to redeem this gift.",
-  "REDEEM_REASON_SUBSCRIPTION_ACTIVE": "You already have an active subscription. Save this code and redeem it later.",
   "GIFT_PAGE_TITLE": "Claim your gift",
   "GIFT_INVALID_CODE": "This gift code looks invalid.",
   "GIFT_GIFTED_HEADING": "You've been gifted {tier}",
