@@ -168,7 +168,6 @@
   "REDEEM_REASON_CODE_EXHAUSTED": "Bu kod zaten tamamen kullanıldı.",
   "REDEEM_REASON_ALREADY_REDEEMED": "Bu kodu zaten kullandın.",
   "REDEEM_REASON_NOT_ELIGIBLE": "Bu kodu kullanamazsın.",
-  "REDEEM_REASON_SUBSCRIPTION_ACTIVE": "You already have an active subscription. Save this code and redeem it later.",
   "GIFT_PAGE_TITLE": "Hediyeni al",
   "GIFT_INVALID_CODE": "Bu hediye kodu geçersiz görünüyor.",
   "GIFT_GIFTED_HEADING": "Sana {tier} hediye edildi",
