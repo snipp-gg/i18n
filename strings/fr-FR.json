@@ -1161,7 +1161,7 @@
   "SETTINGS_BILLING_RENEWS_ON": "Renouvellement le {date}",
   "SETTINGS_BILLING_ENDS_ON": "Votre abonnement se termine le {date}",
   "SETTINGS_BILLING_TRIAL_ENDS_ON": "L'essai se termine le {date}",
-  "SETTINGS_BILLING_STARTS_ON": "Billing starts {date}",
+  "SETTINGS_BILLING_RESUMES_ON": "Billing resumes on {date}",
   "SETTINGS_BILLING_PAST_DUE": "Paiement en retard. Mettez à jour vos informations de paiement.",
   "SETTINGS_BILLING_FORCED_TIER_HINT": "Cet abonnement vous a été offert par Snipp. Aucun paiement requis.",
   "SETTINGS_BILLING_MEMBER_SINCE": "Abonné depuis le {date}",
