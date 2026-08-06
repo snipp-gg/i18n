@@ -1161,7 +1161,7 @@
   "SETTINGS_BILLING_RENEWS_ON": "Diperpanjang pada {date}",
   "SETTINGS_BILLING_ENDS_ON": "Langganan Anda berakhir pada {date}",
   "SETTINGS_BILLING_TRIAL_ENDS_ON": "Uji coba berakhir {date}",
-  "SETTINGS_BILLING_STARTS_ON": "Penagihan dimulai {date}",
+  "SETTINGS_BILLING_RESUMES_ON": "Penagihan dilanjutkan pada {date}",
   "SETTINGS_BILLING_PAST_DUE": "Pembayaran jatuh tempo. Perbarui info tagihan.",
   "SETTINGS_BILLING_FORCED_TIER_HINT": "Langganan ini diberikan kepada Anda oleh Snipp. Tidak perlu pembayaran.",
   "SETTINGS_BILLING_MEMBER_SINCE": "Berlangganan sejak {date}",

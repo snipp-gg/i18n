@@ -1161,7 +1161,7 @@
   "SETTINGS_BILLING_RENEWS_ON": "Se renueva el {date}",
   "SETTINGS_BILLING_ENDS_ON": "Tu suscripción termina el {date}",
   "SETTINGS_BILLING_TRIAL_ENDS_ON": "La prueba termina el {date}",
-  "SETTINGS_BILLING_STARTS_ON": "La facturación comienza el {date}",
+  "SETTINGS_BILLING_RESUMES_ON": "La facturación se reanuda el {date}",
   "SETTINGS_BILLING_PAST_DUE": "Pago vencido. Actualiza tu información de pago.",
   "SETTINGS_BILLING_FORCED_TIER_HINT": "Esta suscripción te ha sido proporcionada por Snipp. No se requiere pago.",
   "SETTINGS_BILLING_MEMBER_SINCE": "Suscrito desde {date}",

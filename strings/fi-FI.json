@@ -1161,7 +1161,7 @@
   "SETTINGS_BILLING_RENEWS_ON": "Uusiutuu {date}",
   "SETTINGS_BILLING_ENDS_ON": "Tilauksesi päättyy {date}",
   "SETTINGS_BILLING_TRIAL_ENDS_ON": "Kokeilujakso päättyy {date}",
-  "SETTINGS_BILLING_STARTS_ON": "Laskutus alkaa {date}",
+  "SETTINGS_BILLING_RESUMES_ON": "Laskutus jatkuu {date}",
   "SETTINGS_BILLING_PAST_DUE": "Maksu myöhässä. Päivitä laskutustiedot.",
   "SETTINGS_BILLING_FORCED_TIER_HINT": "Snipp on tarjonnut tämän tilauksen sinulle. Maksua ei vaadita.",
   "SETTINGS_BILLING_MEMBER_SINCE": "Tilaaja {date} alkaen",

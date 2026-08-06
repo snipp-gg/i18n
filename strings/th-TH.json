@@ -1161,7 +1161,7 @@
   "SETTINGS_BILLING_RENEWS_ON": "ต่ออายุในวันที่ {date}",
   "SETTINGS_BILLING_ENDS_ON": "การสมัครสมาชิกของคุณจะสิ้นสุดในวันที่ {date}",
   "SETTINGS_BILLING_TRIAL_ENDS_ON": "ทดลองใช้สิ้นสุด {date}",
-  "SETTINGS_BILLING_STARTS_ON": "เริ่มเรียกเก็บเงินในวันที่ {date}",
+  "SETTINGS_BILLING_RESUMES_ON": "กลับมาเรียกเก็บเงินอีกครั้งในวันที่ {date}",
   "SETTINGS_BILLING_PAST_DUE": "การชำระเงินเลยกำหนด อัปเดตข้อมูลการเรียกเก็บเงิน",
   "SETTINGS_BILLING_FORCED_TIER_HINT": "การสมัครสมาชิกนี้ได้รับจาก Snipp ไม่ต้องชำระเงิน",
   "SETTINGS_BILLING_MEMBER_SINCE": "สมัครสมาชิกตั้งแต่ {date}",

@@ -1161,7 +1161,7 @@
   "SETTINGS_BILLING_RENEWS_ON": "Se reînnoiește pe {date}",
   "SETTINGS_BILLING_ENDS_ON": "Abonamentul tău se încheie pe {date}",
   "SETTINGS_BILLING_TRIAL_ENDS_ON": "Perioada de probă se încheie pe {date}",
-  "SETTINGS_BILLING_STARTS_ON": "Facturarea începe pe {date}",
+  "SETTINGS_BILLING_RESUMES_ON": "Facturarea se reia pe {date}",
   "SETTINGS_BILLING_PAST_DUE": "Plată restantă. Actualizează datele de facturare.",
   "SETTINGS_BILLING_FORCED_TIER_HINT": "Acest abonament ți-a fost oferit de Snipp. Nu este necesară nicio plată.",
   "SETTINGS_BILLING_MEMBER_SINCE": "Abonat din {date}",

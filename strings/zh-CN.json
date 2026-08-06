@@ -1161,7 +1161,7 @@
   "SETTINGS_BILLING_RENEWS_ON": "续订 {date}",
   "SETTINGS_BILLING_ENDS_ON": "您的订阅将于 {date} 结束",
   "SETTINGS_BILLING_TRIAL_ENDS_ON": "试用期将于 {date} 结束",
-  "SETTINGS_BILLING_STARTS_ON": "计费将于 {date} 开始",
+  "SETTINGS_BILLING_RESUMES_ON": "计费将于 {date} 恢复",
   "SETTINGS_BILLING_PAST_DUE": "付款已逾期。请更新账单信息。",
   "SETTINGS_BILLING_FORCED_TIER_HINT": "此订阅由 Snipp 提供给您。无需付款。",
   "SETTINGS_BILLING_MEMBER_SINCE": "订阅自 {date} 起",

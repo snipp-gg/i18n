@@ -1161,7 +1161,7 @@
   "SETTINGS_BILLING_RENEWS_ON": "Gia hạn vào {date}",
   "SETTINGS_BILLING_ENDS_ON": "Đăng ký của bạn kết thúc vào {date}",
   "SETTINGS_BILLING_TRIAL_ENDS_ON": "Dùng thử kết thúc {date}",
-  "SETTINGS_BILLING_STARTS_ON": "Thanh toán bắt đầu vào {date}",
+  "SETTINGS_BILLING_RESUMES_ON": "Thanh toán tiếp tục vào {date}",
   "SETTINGS_BILLING_PAST_DUE": "Thanh toán quá hạn. Hãy cập nhật thông tin thanh toán.",
   "SETTINGS_BILLING_FORCED_TIER_HINT": "Đăng ký này được Snipp cung cấp cho bạn. Không cần thanh toán.",
   "SETTINGS_BILLING_MEMBER_SINCE": "Đăng ký từ {date}",

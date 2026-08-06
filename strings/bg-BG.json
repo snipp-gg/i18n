@@ -1161,7 +1161,7 @@
   "SETTINGS_BILLING_RENEWS_ON": "Подновява се на {date}",
   "SETTINGS_BILLING_ENDS_ON": "Абонаментът ви приключва на {date}",
   "SETTINGS_BILLING_TRIAL_ENDS_ON": "Пробният период приключва на {date}",
-  "SETTINGS_BILLING_STARTS_ON": "Таксуването започва на {date}",
+  "SETTINGS_BILLING_RESUMES_ON": "Таксуването се възобновява на {date}",
   "SETTINGS_BILLING_PAST_DUE": "Просрочено плащане. Актуализирайте данните за плащане.",
   "SETTINGS_BILLING_FORCED_TIER_HINT": "Този абонамент ви е предоставен от Snipp. Не се изисква плащане.",
   "SETTINGS_BILLING_MEMBER_SINCE": "Абониран от {date}",

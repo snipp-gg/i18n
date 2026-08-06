@@ -1161,7 +1161,7 @@
   "SETTINGS_BILLING_RENEWS_ON": "{date} को नवीनीकृत होगा",
   "SETTINGS_BILLING_ENDS_ON": "आपका सब्सक्रिप्शन {date} को समाप्त हो जाएगा",
   "SETTINGS_BILLING_TRIAL_ENDS_ON": "ट्रायल {date} को समाप्त होगा",
-  "SETTINGS_BILLING_STARTS_ON": "बिलिंग {date} को शुरू होगी",
+  "SETTINGS_BILLING_RESUMES_ON": "बिलिंग {date} को फिर से शुरू होगी",
   "SETTINGS_BILLING_PAST_DUE": "भुगतान बकाया है। बिलिंग जानकारी अपडेट करें।",
   "SETTINGS_BILLING_FORCED_TIER_HINT": "यह सब्सक्रिप्शन आपको Snipp द्वारा प्रदान किया गया है। किसी भुगतान की आवश्यकता नहीं है।",
   "SETTINGS_BILLING_MEMBER_SINCE": "{date} से सदस्यता ली गई",

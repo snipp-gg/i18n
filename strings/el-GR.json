@@ -1161,7 +1161,7 @@
   "SETTINGS_BILLING_RENEWS_ON": "Ανανεώνεται στις {date}",
   "SETTINGS_BILLING_ENDS_ON": "Η συνδρομή σας λήγει στις {date}",
   "SETTINGS_BILLING_TRIAL_ENDS_ON": "Η δοκιμή λήγει στις {date}",
-  "SETTINGS_BILLING_STARTS_ON": "Η χρέωση ξεκινά στις {date}",
+  "SETTINGS_BILLING_RESUMES_ON": "Η χρέωση ξαναρχίζει στις {date}",
   "SETTINGS_BILLING_PAST_DUE": "Εκπρόθεσμη πληρωμή. Ενημερώστε τα στοιχεία χρέωσης.",
   "SETTINGS_BILLING_FORCED_TIER_HINT": "Αυτή η συνδρομή σάς έχει παραχωρηθεί από το Snipp. Δεν απαιτείται πληρωμή.",
   "SETTINGS_BILLING_MEMBER_SINCE": "Συνδρομητής από {date}",

@@ -1161,7 +1161,7 @@
   "SETTINGS_BILLING_RENEWS_ON": "Obnavlja se {date}",
   "SETTINGS_BILLING_ENDS_ON": "Vaša pretplata se završava {date}",
   "SETTINGS_BILLING_TRIAL_ENDS_ON": "Probni period se završava {date}",
-  "SETTINGS_BILLING_STARTS_ON": "Naplata počinje {date}",
+  "SETTINGS_BILLING_RESUMES_ON": "Naplata se nastavlja {date}",
   "SETTINGS_BILLING_PAST_DUE": "Plaćanje je u kašnjenju. Ažurirajte podatke o naplati.",
   "SETTINGS_BILLING_FORCED_TIER_HINT": "Ovu pretplatu vam je obezbedio Snipp. Plaćanje nije potrebno.",
   "SETTINGS_BILLING_MEMBER_SINCE": "Pretplaćeni od {date}",

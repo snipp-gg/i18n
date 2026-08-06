@@ -1161,7 +1161,7 @@
   "SETTINGS_BILLING_RENEWS_ON": "Продлевается {date}",
   "SETTINGS_BILLING_ENDS_ON": "Ваша подписка заканчивается {date}",
   "SETTINGS_BILLING_TRIAL_ENDS_ON": "Пробный период заканчивается {date}",
-  "SETTINGS_BILLING_STARTS_ON": "Оплата начинается {date}",
+  "SETTINGS_BILLING_RESUMES_ON": "Оплата возобновляется {date}",
   "SETTINGS_BILLING_PAST_DUE": "Оплата просрочена. Обновите платёжные данные.",
   "SETTINGS_BILLING_FORCED_TIER_HINT": "Эта подписка предоставлена вам от Snipp. Оплата не требуется.",
   "SETTINGS_BILLING_MEMBER_SINCE": "Подписан с {date}",

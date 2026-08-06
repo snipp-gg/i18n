@@ -1161,7 +1161,7 @@
   "SETTINGS_BILLING_RENEWS_ON": "Obnoví sa {date}",
   "SETTINGS_BILLING_ENDS_ON": "Tvoje predplatné končí {date}",
   "SETTINGS_BILLING_TRIAL_ENDS_ON": "Skúšobná verzia končí {date}",
-  "SETTINGS_BILLING_STARTS_ON": "Fakturácia začína {date}",
+  "SETTINGS_BILLING_RESUMES_ON": "Fakturácia sa obnoví {date}",
   "SETTINGS_BILLING_PAST_DUE": "Platba po splatnosti. Aktualizuj fakturačné údaje.",
   "SETTINGS_BILLING_FORCED_TIER_HINT": "Toto predplatné ti poskytol Snipp. Platba nie je potrebná.",
   "SETTINGS_BILLING_MEMBER_SINCE": "Predplatné od {date}",

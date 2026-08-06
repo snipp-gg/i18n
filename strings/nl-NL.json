@@ -1161,7 +1161,7 @@
   "SETTINGS_BILLING_RENEWS_ON": "Verlengt op {date}",
   "SETTINGS_BILLING_ENDS_ON": "Je abonnement eindigt op {date}",
   "SETTINGS_BILLING_TRIAL_ENDS_ON": "Proefperiode eindigt {date}",
-  "SETTINGS_BILLING_STARTS_ON": "Facturatie begint op {date}",
+  "SETTINGS_BILLING_RESUMES_ON": "Facturatie wordt hervat op {date}",
   "SETTINGS_BILLING_PAST_DUE": "Betaling achterstallig. Werk je facturatiegegevens bij.",
   "SETTINGS_BILLING_FORCED_TIER_HINT": "Dit abonnement is je door Snipp verstrekt. Geen betaling vereist.",
   "SETTINGS_BILLING_MEMBER_SINCE": "Geabonneerd sinds {date}",
