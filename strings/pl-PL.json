@@ -1161,7 +1161,7 @@
   "SETTINGS_BILLING_RENEWS_ON": "Odnawia się {date}",
   "SETTINGS_BILLING_ENDS_ON": "Twoja subskrypcja kończy się {date}",
   "SETTINGS_BILLING_TRIAL_ENDS_ON": "Okres próbny kończy się {date}",
-  "SETTINGS_BILLING_STARTS_ON": "Billing starts {date}",
+  "SETTINGS_BILLING_RESUMES_ON": "Billing resumes on {date}",
   "SETTINGS_BILLING_PAST_DUE": "Płatność zaległa. Zaktualizuj dane rozliczeniowe.",
   "SETTINGS_BILLING_FORCED_TIER_HINT": "Ta subskrypcja została Ci udostępniona przez Snipp. Płatność nie jest wymagana.",
   "SETTINGS_BILLING_MEMBER_SINCE": "Subskrybent od {date}",
