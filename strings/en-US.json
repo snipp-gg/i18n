@@ -1161,7 +1161,7 @@
   "SETTINGS_BILLING_RENEWS_ON": "Renews on {date}",
   "SETTINGS_BILLING_ENDS_ON": "Your subscription ends on {date}",
   "SETTINGS_BILLING_TRIAL_ENDS_ON": "Trial ends {date}",
-  "SETTINGS_BILLING_STARTS_ON": "Billing starts {date}",
+  "SETTINGS_BILLING_RESUMES_ON": "Billing resumes on {date}",
   "SETTINGS_BILLING_PAST_DUE": "Payment past due. Update billing info.",
   "SETTINGS_BILLING_FORCED_TIER_HINT": "This subscription has been provided to you by Snipp. No payment required.",
   "SETTINGS_BILLING_MEMBER_SINCE": "Subscribed since {date}",
