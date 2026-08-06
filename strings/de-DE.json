@@ -168,7 +168,6 @@
   "REDEEM_REASON_CODE_EXHAUSTED": "Dieser Code wurde bereits vollständig eingelöst.",
   "REDEEM_REASON_ALREADY_REDEEMED": "Du hast diesen Code bereits eingelöst.",
   "REDEEM_REASON_NOT_ELIGIBLE": "Du kannst diesen Code nicht einlösen.",
-  "REDEEM_REASON_SUBSCRIPTION_ACTIVE": "You already have an active subscription. Save this code and redeem it later.",
   "GIFT_PAGE_TITLE": "Geschenk einlösen",
   "GIFT_INVALID_CODE": "Dieser Geschenkcode sieht ungültig aus.",
   "GIFT_GIFTED_HEADING": "Du hast {tier} geschenkt bekommen",
