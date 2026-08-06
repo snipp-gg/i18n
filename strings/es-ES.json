@@ -168,7 +168,6 @@
   "REDEEM_REASON_CODE_EXHAUSTED": "Este código ya ha sido canjeado por completo.",
   "REDEEM_REASON_ALREADY_REDEEMED": "Ya has canjeado este código.",
   "REDEEM_REASON_NOT_ELIGIBLE": "No puedes canjear este código.",
-  "REDEEM_REASON_SUBSCRIPTION_ACTIVE": "You already have an active subscription. Save this code and redeem it later.",
   "GIFT_PAGE_TITLE": "Reclama tu regalo",
   "GIFT_INVALID_CODE": "Este código de regalo parece no ser válido.",
   "GIFT_GIFTED_HEADING": "Te han regalado {tier}",
