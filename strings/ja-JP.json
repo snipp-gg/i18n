@@ -168,7 +168,6 @@
   "REDEEM_REASON_CODE_EXHAUSTED": "このコードはすでに使い切られています。",
   "REDEEM_REASON_ALREADY_REDEEMED": "このコードはすでに使用済みです。",
   "REDEEM_REASON_NOT_ELIGIBLE": "このコードを使用する資格がありません。",
-  "REDEEM_REASON_SUBSCRIPTION_ACTIVE": "You already have an active subscription. Save this code and redeem it later.",
   "GIFT_PAGE_TITLE": "ギフトを受け取る",
   "GIFT_INVALID_CODE": "このギフトコードは無効のようです。",
   "GIFT_GIFTED_HEADING": "{tier} がギフトされました",
