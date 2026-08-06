@@ -168,7 +168,6 @@
   "REDEEM_REASON_CODE_EXHAUSTED": "Ten kod został już w pełni wykorzystany.",
   "REDEEM_REASON_ALREADY_REDEEMED": "Już wykorzystałeś ten kod.",
   "REDEEM_REASON_NOT_ELIGIBLE": "Nie możesz wykorzystać tego kodu.",
-  "REDEEM_REASON_SUBSCRIPTION_ACTIVE": "You already have an active subscription. Save this code and redeem it later.",
   "GIFT_PAGE_TITLE": "Odbierz swój prezent",
   "GIFT_INVALID_CODE": "Ten kod podarunkowy wygląda na nieprawidłowy.",
   "GIFT_GIFTED_HEADING": "Otrzymałeś prezent {tier}",
