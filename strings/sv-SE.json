@@ -168,7 +168,6 @@
   "REDEEM_REASON_CODE_EXHAUSTED": "Den här koden har redan lösts in helt.",
   "REDEEM_REASON_ALREADY_REDEEMED": "Du har redan löst in den här koden.",
   "REDEEM_REASON_NOT_ELIGIBLE": "Du kan inte lösa in den här koden.",
-  "REDEEM_REASON_SUBSCRIPTION_ACTIVE": "Du har redan en aktiv prenumeration. Spara den här koden och lös in den senare.",
   "GIFT_PAGE_TITLE": "Hämta din present",
   "GIFT_INVALID_CODE": "Den här presentkoden ser ogiltig ut.",
   "GIFT_GIFTED_HEADING": "Du har fått {tier} i present",

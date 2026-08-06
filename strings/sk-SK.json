@@ -168,7 +168,6 @@
   "REDEEM_REASON_CODE_EXHAUSTED": "Tento kód už bol plne uplatnený.",
   "REDEEM_REASON_ALREADY_REDEEMED": "Tento kód si už uplatnil.",
   "REDEEM_REASON_NOT_ELIGIBLE": "Nemáš nárok na uplatnenie tohto darčeka.",
-  "REDEEM_REASON_SUBSCRIPTION_ACTIVE": "Už máš aktívne predplatné. Uschovaj si tento kód a uplatni ho neskôr.",
   "GIFT_PAGE_TITLE": "Vyzdvihni si darček",
   "GIFT_INVALID_CODE": "Tento darčekový kód vyzerá neplatne.",
   "GIFT_GIFTED_HEADING": "Dostal si darček {tier}",

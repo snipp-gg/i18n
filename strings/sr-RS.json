@@ -168,7 +168,6 @@
   "REDEEM_REASON_CODE_EXHAUSTED": "Ovaj kod je već u potpunosti iskorišćen.",
   "REDEEM_REASON_ALREADY_REDEEMED": "Već ste iskoristili ovaj kod.",
   "REDEEM_REASON_NOT_ELIGIBLE": "Nemate pravo da iskoristite ovaj poklon.",
-  "REDEEM_REASON_SUBSCRIPTION_ACTIVE": "Već imate aktivnu pretplatu. Sačuvajte ovaj kod i iskoristite ga kasnije.",
   "GIFT_PAGE_TITLE": "Preuzmi svoj poklon",
   "GIFT_INVALID_CODE": "Ovaj poklon kod izgleda nevažeće.",
   "GIFT_GIFTED_HEADING": "Dobili ste {tier} na poklon",

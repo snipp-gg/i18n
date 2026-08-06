@@ -168,7 +168,6 @@
   "REDEEM_REASON_CODE_EXHAUSTED": "Deze code is al volledig ingewisseld.",
   "REDEEM_REASON_ALREADY_REDEEMED": "Je hebt deze code al ingewisseld.",
   "REDEEM_REASON_NOT_ELIGIBLE": "Je komt niet in aanmerking om dit cadeau in te wisselen.",
-  "REDEEM_REASON_SUBSCRIPTION_ACTIVE": "Je hebt al een actief abonnement. Bewaar deze code en wissel hem later in.",
   "GIFT_PAGE_TITLE": "Claim je cadeau",
   "GIFT_INVALID_CODE": "Deze cadeaucode lijkt ongeldig.",
   "GIFT_GIFTED_HEADING": "Je hebt {tier} cadeau gekregen",

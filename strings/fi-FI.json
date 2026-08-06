@@ -168,7 +168,6 @@
   "REDEEM_REASON_CODE_EXHAUSTED": "Tämä koodi on jo lunastettu kokonaan.",
   "REDEEM_REASON_ALREADY_REDEEMED": "Olet jo lunastanut tämän koodin.",
   "REDEEM_REASON_NOT_ELIGIBLE": "Et ole oikeutettu lunastamaan tätä lahjaa.",
-  "REDEEM_REASON_SUBSCRIPTION_ACTIVE": "Sinulla on jo aktiivinen tilaus. Säilytä tämä koodi ja lunasta se myöhemmin.",
   "GIFT_PAGE_TITLE": "Lunasta lahjasi",
   "GIFT_INVALID_CODE": "Tämä lahjakoodi näyttää virheelliseltä.",
   "GIFT_GIFTED_HEADING": "Olet saanut lahjaksi {tier}",

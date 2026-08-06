@@ -168,7 +168,6 @@
   "REDEEM_REASON_CODE_EXHAUSTED": "Este código já foi totalmente resgatado.",
   "REDEEM_REASON_ALREADY_REDEEMED": "Já resgatou este código.",
   "REDEEM_REASON_NOT_ELIGIBLE": "Não é elegível para resgatar esta oferta.",
-  "REDEEM_REASON_SUBSCRIPTION_ACTIVE": "Já tem uma subscrição ativa. Guarde este código e resgate-o mais tarde.",
   "GIFT_PAGE_TITLE": "Reclamar a sua oferta",
   "GIFT_INVALID_CODE": "Este código de oferta parece inválido.",
   "GIFT_GIFTED_HEADING": "Recebeu {tier} como oferta",

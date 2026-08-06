@@ -168,7 +168,6 @@
   "REDEEM_REASON_CODE_EXHAUSTED": "Este código já foi totalmente resgatado.",
   "REDEEM_REASON_ALREADY_REDEEMED": "Você já resgatou este código.",
   "REDEEM_REASON_NOT_ELIGIBLE": "Você não pode resgatar este código.",
-  "REDEEM_REASON_SUBSCRIPTION_ACTIVE": "Você já tem uma assinatura ativa. Guarde este código e resgate-o mais tarde.",
   "GIFT_PAGE_TITLE": "Resgate seu presente",
   "GIFT_INVALID_CODE": "Este código de presente parece inválido.",
   "GIFT_GIFTED_HEADING": "Você ganhou {tier} de presente",

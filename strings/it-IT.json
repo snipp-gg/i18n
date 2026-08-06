@@ -168,7 +168,6 @@
   "REDEEM_REASON_CODE_EXHAUSTED": "Questo codice è già stato completamente riscattato.",
   "REDEEM_REASON_ALREADY_REDEEMED": "Hai già riscattato questo codice.",
   "REDEEM_REASON_NOT_ELIGIBLE": "Non sei idoneo a riscattare questo regalo.",
-  "REDEEM_REASON_SUBSCRIPTION_ACTIVE": "Hai già un abbonamento attivo. Conserva questo codice e riscattalo più tardi.",
   "GIFT_PAGE_TITLE": "Richiedi il tuo regalo",
   "GIFT_INVALID_CODE": "Questo codice regalo sembra non valido.",
   "GIFT_GIFTED_HEADING": "Hai ricevuto in regalo {tier}",

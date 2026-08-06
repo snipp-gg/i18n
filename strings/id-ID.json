@@ -168,7 +168,6 @@
   "REDEEM_REASON_CODE_EXHAUSTED": "Kode ini telah sepenuhnya ditukarkan.",
   "REDEEM_REASON_ALREADY_REDEEMED": "Anda sudah menukarkan kode ini.",
   "REDEEM_REASON_NOT_ELIGIBLE": "Anda tidak memenuhi syarat untuk menukarkan hadiah ini.",
-  "REDEEM_REASON_SUBSCRIPTION_ACTIVE": "Anda sudah memiliki langganan aktif. Simpan kode ini dan tukarkan nanti.",
   "GIFT_PAGE_TITLE": "Klaim hadiah Anda",
   "GIFT_INVALID_CODE": "Kode hadiah ini tampaknya tidak valid.",
   "GIFT_GIFTED_HEADING": "Anda telah dihadiahi {tier}",

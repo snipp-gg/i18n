@@ -168,7 +168,6 @@
   "REDEEM_REASON_CODE_EXHAUSTED": "Ganap nang na-redeem ang code na ito.",
   "REDEEM_REASON_ALREADY_REDEEMED": "Na-redeem mo na ang code na ito.",
   "REDEEM_REASON_NOT_ELIGIBLE": "Hindi ka eligible na i-redeem ang gift na ito.",
-  "REDEEM_REASON_SUBSCRIPTION_ACTIVE": "May aktibo ka nang subscription. I-save ang code na ito at i-redeem ito mamaya.",
   "GIFT_PAGE_TITLE": "I-claim ang iyong gift",
   "GIFT_INVALID_CODE": "Mukhang hindi balido ang gift code na ito.",
   "GIFT_GIFTED_HEADING": "Binigyan ka ng {tier}",

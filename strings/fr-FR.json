@@ -168,7 +168,6 @@
   "REDEEM_REASON_CODE_EXHAUSTED": "Ce code a déjà été entièrement utilisé.",
   "REDEEM_REASON_ALREADY_REDEEMED": "Vous avez déjà utilisé ce code.",
   "REDEEM_REASON_NOT_ELIGIBLE": "Vous ne pouvez pas utiliser ce code.",
-  "REDEEM_REASON_SUBSCRIPTION_ACTIVE": "Vous avez déjà un abonnement actif. Conservez ce code et utilisez-le plus tard.",
   "GIFT_PAGE_TITLE": "Réclamez votre cadeau",
   "GIFT_INVALID_CODE": "Ce code cadeau semble invalide.",
   "GIFT_GIFTED_HEADING": "On vous a offert {tier}",

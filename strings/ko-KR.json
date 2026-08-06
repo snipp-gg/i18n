@@ -168,7 +168,6 @@
   "REDEEM_REASON_CODE_EXHAUSTED": "이 코드는 이미 모두 사용되었습니다.",
   "REDEEM_REASON_ALREADY_REDEEMED": "이미 등록한 코드입니다.",
   "REDEEM_REASON_NOT_ELIGIBLE": "이 선물을 등록할 자격이 없습니다.",
-  "REDEEM_REASON_SUBSCRIPTION_ACTIVE": "이미 활성화된 구독이 있습니다. 이 코드를 보관했다가 나중에 등록하세요.",
   "GIFT_PAGE_TITLE": "선물 받기",
   "GIFT_INVALID_CODE": "이 기프트 코드는 유효하지 않은 것 같습니다.",
   "GIFT_GIFTED_HEADING": "{tier}를 선물받았습니다",

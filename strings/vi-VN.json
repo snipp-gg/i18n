@@ -168,7 +168,6 @@
   "REDEEM_REASON_CODE_EXHAUSTED": "Mã này đã được đổi hết lượt.",
   "REDEEM_REASON_ALREADY_REDEEMED": "Bạn đã đổi mã này rồi.",
   "REDEEM_REASON_NOT_ELIGIBLE": "Bạn không đủ điều kiện để đổi quà này.",
-  "REDEEM_REASON_SUBSCRIPTION_ACTIVE": "Bạn đã có đăng ký đang hoạt động. Hãy lưu mã này và đổi sau.",
   "GIFT_PAGE_TITLE": "Nhận quà của bạn",
   "GIFT_INVALID_CODE": "Mã quà tặng này có vẻ không hợp lệ.",
   "GIFT_GIFTED_HEADING": "Bạn được tặng {tier}",

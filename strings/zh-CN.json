@@ -168,7 +168,6 @@
   "REDEEM_REASON_CODE_EXHAUSTED": "此兑换码已被完全兑换。",
   "REDEEM_REASON_ALREADY_REDEEMED": "您已经兑换了此代码。",
   "REDEEM_REASON_NOT_ELIGIBLE": "您不符合兑换此代码的条件。",
-  "REDEEM_REASON_SUBSCRIPTION_ACTIVE": "您已有有效的订阅。请保存此代码，稍后再兑换。",
   "GIFT_PAGE_TITLE": "索取你的礼物",
   "GIFT_INVALID_CODE": "礼品码无效。",
   "GIFT_GIFTED_HEADING": "您以获得 {tier} 级奖励",

@@ -168,7 +168,6 @@
   "REDEEM_REASON_CODE_EXHAUSTED": "Αυτός ο κωδικός έχει ήδη εξαργυρωθεί πλήρως.",
   "REDEEM_REASON_ALREADY_REDEEMED": "Έχετε ήδη εξαργυρώσει αυτόν τον κωδικό.",
   "REDEEM_REASON_NOT_ELIGIBLE": "Δεν πληροίτε τις προϋποθέσεις για να εξαργυρώσετε αυτό το δώρο.",
-  "REDEEM_REASON_SUBSCRIPTION_ACTIVE": "Έχετε ήδη ενεργή συνδρομή. Φυλάξτε αυτόν τον κωδικό και εξαργυρώστε τον αργότερα.",
   "GIFT_PAGE_TITLE": "Διεκδικήστε το δώρο σας",
   "GIFT_INVALID_CODE": "Αυτός ο κωδικός δώρου φαίνεται μη έγκυρος.",
   "GIFT_GIFTED_HEADING": "Σας χαρίστηκε {tier}",

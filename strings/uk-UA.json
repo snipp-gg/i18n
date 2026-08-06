@@ -168,7 +168,6 @@
   "REDEEM_REASON_CODE_EXHAUSTED": "Цей код уже повністю активовано.",
   "REDEEM_REASON_ALREADY_REDEEMED": "Ви вже активували цей код.",
   "REDEEM_REASON_NOT_ELIGIBLE": "Ви не можете активувати цей код.",
-  "REDEEM_REASON_SUBSCRIPTION_ACTIVE": "У вас уже є активна підписка. Збережіть цей код і активуйте його пізніше.",
   "GIFT_PAGE_TITLE": "Отримайте свій подарунок",
   "GIFT_INVALID_CODE": "Цей подарунковий код виглядає недійсним.",
   "GIFT_GIFTED_HEADING": "Вам подарували {tier}",

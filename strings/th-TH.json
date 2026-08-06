@@ -168,7 +168,6 @@
   "REDEEM_REASON_CODE_EXHAUSTED": "รหัสนี้ถูกใช้ครบจำนวนแล้ว",
   "REDEEM_REASON_ALREADY_REDEEMED": "คุณได้แลกรหัสนี้ไปแล้ว",
   "REDEEM_REASON_NOT_ELIGIBLE": "คุณไม่มีสิทธิ์แลกของขวัญนี้",
-  "REDEEM_REASON_SUBSCRIPTION_ACTIVE": "คุณมีการสมัครสมาชิกที่ใช้งานอยู่แล้ว เก็บรหัสนี้ไว้และแลกในภายหลัง",
   "GIFT_PAGE_TITLE": "รับของขวัญของคุณ",
   "GIFT_INVALID_CODE": "รหัสของขวัญนี้ดูไม่ถูกต้อง",
   "GIFT_GIFTED_HEADING": "คุณได้รับของขวัญ {tier}",

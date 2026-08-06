@@ -168,7 +168,6 @@
   "REDEEM_REASON_CODE_EXHAUSTED": "Denne koden er allerede fullt innløst.",
   "REDEEM_REASON_ALREADY_REDEEMED": "Du har allerede løst inn denne koden.",
   "REDEEM_REASON_NOT_ELIGIBLE": "Du er ikke kvalifisert til å løse inn denne gaven.",
-  "REDEEM_REASON_SUBSCRIPTION_ACTIVE": "Du har allerede et aktivt abonnement. Ta vare på denne koden og løs den inn senere.",
   "GIFT_PAGE_TITLE": "Hent gaven din",
   "GIFT_INVALID_CODE": "Denne gavekoden ser ugyldig ut.",
   "GIFT_GIFTED_HEADING": "Du har fått {tier} i gave",
