@@ -1725,7 +1725,7 @@
   "SUPPORT_WEEKLY_LIMITS_WHAT_COUNTS_HEADING": "Ce qui est comptabilisé dans votre quota",
   "SUPPORT_WEEKLY_LIMITS_WHAT_COUNTS_ITEM_ALL_SOURCES": "Chaque envoi réussi est comptabilisé : site web, API, ShareX et XerahS. Les posts publics, non répertoriés et privés comptent tous de la même manière.",
   "SUPPORT_WEEKLY_LIMITS_WHAT_COUNTS_ITEM_ALBUMS": "Les albums comptent comme la somme de leurs fichiers. Un album de 5 fichiers de 200 MB chacun utilise 1 GB de quota.",
-  "SUPPORT_WEEKLY_LIMITS_WHAT_COUNTS_ITEM_FAILED_UPLOADS": "Les envois échoués ou rejetés (limités en débit, signalés comme virus, modérés) ne consomment pas de quota.",
+  "SUPPORT_WEEKLY_LIMITS_WHAT_COUNTS_ITEM_FAILED_UPLOADS": "Uploads that fail before they finish, such as a rate-limited or interrupted request, do not consume quota. Once an upload is stored the bytes are spent, even if the post is later moderated.",
   "SUPPORT_WEEKLY_LIMITS_WHAT_COUNTS_ITEM_DELETION_NO_REFUND": "Deleting a post does not refund its quota. Bytes only come back at your weekly reset, never by deleting.",
   "SUPPORT_WEEKLY_LIMITS_HITTING_LIMIT_HEADING": "Atteindre la limite",
   "SUPPORT_WEEKLY_LIMITS_HITTING_LIMIT_ITEM_ERROR": "When you're out of quota, new uploads return a \"Weekly usage limit exceeded\" error with the timestamp of your next reset.",
