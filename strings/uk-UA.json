@@ -1725,7 +1725,7 @@
   "SUPPORT_WEEKLY_LIMITS_WHAT_COUNTS_HEADING": "Що зараховується до вашої квоти",
   "SUPPORT_WEEKLY_LIMITS_WHAT_COUNTS_ITEM_ALL_SOURCES": "Зараховується кожне успішне завантаження: вебсайт, API, ShareX та XerahS. Публічні, приховані та приватні дописи зараховуються однаково.",
   "SUPPORT_WEEKLY_LIMITS_WHAT_COUNTS_ITEM_ALBUMS": "Альбоми зараховуються як сума їхніх файлів. Альбом з 5 файлів по 200 МБ кожен використовує 1 ГБ квоти.",
-  "SUPPORT_WEEKLY_LIMITS_WHAT_COUNTS_ITEM_FAILED_UPLOADS": "Невдалі або відхилені завантаження (з перевищенням ліміту, позначені як вірус, модеровані) не споживають квоту.",
+  "SUPPORT_WEEKLY_LIMITS_WHAT_COUNTS_ITEM_FAILED_UPLOADS": "Uploads that fail before they finish, such as a rate-limited or interrupted request, do not consume quota. Once an upload is stored the bytes are spent, even if the post is later moderated.",
   "SUPPORT_WEEKLY_LIMITS_WHAT_COUNTS_ITEM_DELETION_NO_REFUND": "Deleting a post does not refund its quota. Bytes only come back at your weekly reset, never by deleting.",
   "SUPPORT_WEEKLY_LIMITS_HITTING_LIMIT_HEADING": "Досягнення ліміту",
   "SUPPORT_WEEKLY_LIMITS_HITTING_LIMIT_ITEM_ERROR": "When you're out of quota, new uploads return a \"Weekly usage limit exceeded\" error with the timestamp of your next reset.",
