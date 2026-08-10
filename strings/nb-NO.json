@@ -1725,7 +1725,7 @@
   "SUPPORT_WEEKLY_LIMITS_WHAT_COUNTS_HEADING": "Hva som teller mot kvoten din",
   "SUPPORT_WEEKLY_LIMITS_WHAT_COUNTS_ITEM_ALL_SOURCES": "Hver vellykkede opplasting teller: nettsted, API, ShareX og XerahS. Offentlige, uoppførte og private innlegg teller alle likt.",
   "SUPPORT_WEEKLY_LIMITS_WHAT_COUNTS_ITEM_ALBUMS": "Album teller som summen av filene sine. Et album med 5 filer på 200 MB hver bruker 1 GB av kvoten.",
-  "SUPPORT_WEEKLY_LIMITS_WHAT_COUNTS_ITEM_FAILED_UPLOADS": "Mislykkede eller avviste opplastinger (hastighetsbegrenset, virusmerket, moderert) bruker ikke kvote.",
+  "SUPPORT_WEEKLY_LIMITS_WHAT_COUNTS_ITEM_FAILED_UPLOADS": "Opplastinger som mislykkes før de fullføres, for eksempel en hastighetsbegrenset eller avbrutt forespørsel, bruker ikke kvote. Når en opplasting er lagret, er bytene brukt, selv om innlegget senere blir moderert.",
   "SUPPORT_WEEKLY_LIMITS_WHAT_COUNTS_ITEM_DELETION_NO_REFUND": "Å slette et innlegg refunderer ikke kvoten. Byte kommer bare tilbake ved den ukentlige tilbakestillingen din, aldri ved sletting.",
   "SUPPORT_WEEKLY_LIMITS_HITTING_LIMIT_HEADING": "Å nå grensen",
   "SUPPORT_WEEKLY_LIMITS_HITTING_LIMIT_ITEM_ERROR": "Når du er tom for kvote, returnerer nye opplastinger en «Ukentlig forbruksgrense overskredet»-feil med tidsstempelet for neste tilbakestilling.",

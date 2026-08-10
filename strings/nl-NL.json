@@ -1725,7 +1725,7 @@
   "SUPPORT_WEEKLY_LIMITS_WHAT_COUNTS_HEADING": "Wat meetelt voor je quotum",
   "SUPPORT_WEEKLY_LIMITS_WHAT_COUNTS_ITEM_ALL_SOURCES": "Elke geslaagde upload telt mee: website, API, ShareX en XerahS. Openbare, verborgen en privéposts tellen allemaal even zwaar.",
   "SUPPORT_WEEKLY_LIMITS_WHAT_COUNTS_ITEM_ALBUMS": "Albums tellen als de som van hun bestanden. Een album van 5 bestanden van elk 200 MB gebruikt 1 GB quotum.",
-  "SUPPORT_WEEKLY_LIMITS_WHAT_COUNTS_ITEM_FAILED_UPLOADS": "Mislukte of afgewezen uploads (rate-limited, gemarkeerd als virus, gemodereerd) verbruiken geen quotum.",
+  "SUPPORT_WEEKLY_LIMITS_WHAT_COUNTS_ITEM_FAILED_UPLOADS": "Uploads die mislukken voordat ze klaar zijn, zoals een rate-limited of onderbroken verzoek, verbruiken geen quotum. Zodra een upload is opgeslagen, zijn de bytes verbruikt, ook als de post later wordt gemodereerd.",
   "SUPPORT_WEEKLY_LIMITS_WHAT_COUNTS_ITEM_DELETION_NO_REFUND": "Het verwijderen van een post geeft het quotum niet terug. Bytes komen alleen terug bij je wekelijkse reset, nooit door verwijderen.",
   "SUPPORT_WEEKLY_LIMITS_HITTING_LIMIT_HEADING": "De limiet bereiken",
   "SUPPORT_WEEKLY_LIMITS_HITTING_LIMIT_ITEM_ERROR": "Wanneer je quotum op is, geven nieuwe uploads een foutmelding \"Wekelijkse verbruikslimiet overschreden\" met het tijdstip van je volgende reset.",

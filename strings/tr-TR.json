@@ -1725,7 +1725,7 @@
   "SUPPORT_WEEKLY_LIMITS_WHAT_COUNTS_HEADING": "Kotanıza Neler Dahildir",
   "SUPPORT_WEEKLY_LIMITS_WHAT_COUNTS_ITEM_ALL_SOURCES": "Her başarılı yükleme sayılır: web sitesi, API, ShareX ve XerahS. Herkese açık, listelenmemiş ve özel gönderilerin hepsi aynı şekilde sayılır.",
   "SUPPORT_WEEKLY_LIMITS_WHAT_COUNTS_ITEM_ALBUMS": "Albümler, dosyalarının toplamı olarak sayılır. Her biri 200 MB olan 5 dosyalık bir albüm 1 GB kota kullanır.",
-  "SUPPORT_WEEKLY_LIMITS_WHAT_COUNTS_ITEM_FAILED_UPLOADS": "Başarısız veya reddedilen yüklemeler (hız sınırlı, virüs işaretli, denetlenmiş) kota tüketmez.",
+  "SUPPORT_WEEKLY_LIMITS_WHAT_COUNTS_ITEM_FAILED_UPLOADS": "Tamamlanmadan başarısız olan yüklemeler, örneğin hız sınırına takılan veya kesintiye uğrayan bir istek, kota tüketmez. Bir yükleme depolandığında, gönderi daha sonra denetlense bile baytlar harcanmış sayılır.",
   "SUPPORT_WEEKLY_LIMITS_WHAT_COUNTS_ITEM_DELETION_NO_REFUND": "Bir gönderiyi silmek kotasını iade etmez. Baytlar yalnızca haftalık sıfırlamanızda geri gelir, silmeyle asla gelmez.",
   "SUPPORT_WEEKLY_LIMITS_HITTING_LIMIT_HEADING": "Sınıra Ulaşmak",
   "SUPPORT_WEEKLY_LIMITS_HITTING_LIMIT_ITEM_ERROR": "Kotanız bittiğinde, yeni yüklemeler bir sonraki sıfırlamanızın zaman damgasıyla birlikte \"Haftalık kullanım sınırı aşıldı\" hatası döndürür.",

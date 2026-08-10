@@ -1725,7 +1725,7 @@
   "SUPPORT_WEEKLY_LIMITS_WHAT_COUNTS_HEADING": "आपके कोटा में क्या गिना जाता है",
   "SUPPORT_WEEKLY_LIMITS_WHAT_COUNTS_ITEM_ALL_SOURCES": "हर सफल अपलोड गिना जाता है: वेबसाइट, API, ShareX और XerahS। पब्लिक, अनलिस्टेड और प्राइवेट पोस्ट सभी एक जैसी गिनी जाती हैं।",
   "SUPPORT_WEEKLY_LIMITS_WHAT_COUNTS_ITEM_ALBUMS": "एल्बम अपनी फ़ाइलों के योग के रूप में गिने जाते हैं। 200 MB की 5 फ़ाइलों वाला एक एल्बम 1 GB कोटा इस्तेमाल करता है।",
-  "SUPPORT_WEEKLY_LIMITS_WHAT_COUNTS_ITEM_FAILED_UPLOADS": "विफल या अस्वीकृत अपलोड (रेट-लिमिटेड, वायरस-फ़्लैग किए गए, मॉडरेटेड) कोटा इस्तेमाल नहीं करते।",
+  "SUPPORT_WEEKLY_LIMITS_WHAT_COUNTS_ITEM_FAILED_UPLOADS": "जो अपलोड पूरे होने से पहले विफल हो जाते हैं, जैसे रेट-लिमिटेड या बीच में रुकी हुई रिक्वेस्ट, वे कोटा इस्तेमाल नहीं करते। एक बार अपलोड स्टोर हो जाने पर बाइट्स खर्च हो जाते हैं, भले ही पोस्ट बाद में मॉडरेट की जाए।",
   "SUPPORT_WEEKLY_LIMITS_WHAT_COUNTS_ITEM_DELETION_NO_REFUND": "किसी पोस्ट को हटाने से उसका कोटा वापस नहीं मिलता। बाइट्स सिर्फ़ आपके साप्ताहिक रीसेट पर वापस आते हैं, हटाने से कभी नहीं।",
   "SUPPORT_WEEKLY_LIMITS_HITTING_LIMIT_HEADING": "लिमिट तक पहुँचना",
   "SUPPORT_WEEKLY_LIMITS_HITTING_LIMIT_ITEM_ERROR": "जब आपका कोटा ख़त्म हो जाता है, तो नए अपलोड एक \"Weekly usage limit exceeded\" एरर लौटाते हैं, साथ में आपके अगले रीसेट का समय भी।",

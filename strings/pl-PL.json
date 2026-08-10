@@ -1725,7 +1725,7 @@
   "SUPPORT_WEEKLY_LIMITS_WHAT_COUNTS_HEADING": "Co Wlicza Się do Twojego Limitu",
   "SUPPORT_WEEKLY_LIMITS_WHAT_COUNTS_ITEM_ALL_SOURCES": "Liczy się każde udane przesłanie: strona internetowa, API, ShareX i XerahS. Posty publiczne, niepubliczne i prywatne liczą się tak samo.",
   "SUPPORT_WEEKLY_LIMITS_WHAT_COUNTS_ITEM_ALBUMS": "Albumy liczą się jako suma ich plików. Album z 5 plikami po 200 MB każdy zużywa 1 GB limitu.",
-  "SUPPORT_WEEKLY_LIMITS_WHAT_COUNTS_ITEM_FAILED_UPLOADS": "Nieudane lub odrzucone przesłania (ograniczone limitem, oznaczone jako wirus, moderowane) nie zużywają limitu.",
+  "SUPPORT_WEEKLY_LIMITS_WHAT_COUNTS_ITEM_FAILED_UPLOADS": "Przesłania, które nie powiodą się przed ukończeniem, na przykład żądanie ograniczone limitem zapytań lub przerwane, nie zużywają limitu. Gdy przesłanie zostanie zapisane, bajty są zużyte, nawet jeśli post zostanie później zmoderowany.",
   "SUPPORT_WEEKLY_LIMITS_WHAT_COUNTS_ITEM_DELETION_NO_REFUND": "Usunięcie posta nie zwraca jego limitu. Bajty wracają tylko przy Twoim tygodniowym resecie, nigdy przez usunięcie.",
   "SUPPORT_WEEKLY_LIMITS_HITTING_LIMIT_HEADING": "Osiągnięcie Limitu",
   "SUPPORT_WEEKLY_LIMITS_HITTING_LIMIT_ITEM_ERROR": "Gdy wyczerpiesz limit, nowe przesłania zwracają błąd „Przekroczono tygodniowy limit użycia” wraz ze znacznikiem czasu Twojego następnego resetu.",

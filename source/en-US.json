@@ -1725,7 +1725,7 @@
   "SUPPORT_WEEKLY_LIMITS_WHAT_COUNTS_HEADING": "What Counts Toward Your Quota",
   "SUPPORT_WEEKLY_LIMITS_WHAT_COUNTS_ITEM_ALL_SOURCES": "Every successful upload counts: website, API, ShareX, and XerahS. Public, unlisted, and private posts all count the same.",
   "SUPPORT_WEEKLY_LIMITS_WHAT_COUNTS_ITEM_ALBUMS": "Albums count as the sum of their files. A 5-file album of 200 MB each uses 1 GB of quota.",
-  "SUPPORT_WEEKLY_LIMITS_WHAT_COUNTS_ITEM_FAILED_UPLOADS": "Failed or rejected uploads (rate-limited, virus-flagged, moderated) do not consume quota.",
+  "SUPPORT_WEEKLY_LIMITS_WHAT_COUNTS_ITEM_FAILED_UPLOADS": "Uploads that fail before they finish, such as a rate-limited or interrupted request, do not consume quota. Once an upload is stored the bytes are spent, even if the post is later moderated.",
   "SUPPORT_WEEKLY_LIMITS_WHAT_COUNTS_ITEM_DELETION_NO_REFUND": "Deleting a post does not refund its quota. Bytes only come back at your weekly reset, never by deleting.",
   "SUPPORT_WEEKLY_LIMITS_HITTING_LIMIT_HEADING": "Hitting the Limit",
   "SUPPORT_WEEKLY_LIMITS_HITTING_LIMIT_ITEM_ERROR": "When you're out of quota, new uploads return a \"Weekly usage limit exceeded\" error with the timestamp of your next reset.",

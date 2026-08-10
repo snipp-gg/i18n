@@ -1725,7 +1725,7 @@
   "SUPPORT_WEEKLY_LIMITS_WHAT_COUNTS_HEADING": "Điều gì tính vào hạn mức của bạn",
   "SUPPORT_WEEKLY_LIMITS_WHAT_COUNTS_ITEM_ALL_SOURCES": "Mọi lần tải lên thành công đều được tính: trang web, API, ShareX và XerahS. Các bài đăng công khai, không công khai và riêng tư đều tính như nhau.",
   "SUPPORT_WEEKLY_LIMITS_WHAT_COUNTS_ITEM_ALBUMS": "Album được tính là tổng các tệp của nó. Một album 5 tệp, mỗi tệp 200 MB dùng 1 GB hạn mức.",
-  "SUPPORT_WEEKLY_LIMITS_WHAT_COUNTS_ITEM_FAILED_UPLOADS": "Các lần tải lên thất bại hoặc bị từ chối (bị giới hạn tần suất, bị gắn cờ virus, bị kiểm duyệt) không tiêu tốn hạn mức.",
+  "SUPPORT_WEEKLY_LIMITS_WHAT_COUNTS_ITEM_FAILED_UPLOADS": "Các lần tải lên thất bại trước khi hoàn tất, chẳng hạn yêu cầu bị giới hạn tần suất hoặc bị gián đoạn, không tiêu tốn hạn mức. Một khi bản tải lên đã được lưu trữ, số byte đó đã được dùng, kể cả khi bài đăng sau đó bị kiểm duyệt.",
   "SUPPORT_WEEKLY_LIMITS_WHAT_COUNTS_ITEM_DELETION_NO_REFUND": "Xóa một bài đăng không hoàn lại hạn mức của nó. Byte chỉ quay lại vào lần đặt lại hằng tuần của bạn, không bao giờ do xóa.",
   "SUPPORT_WEEKLY_LIMITS_HITTING_LIMIT_HEADING": "Khi chạm giới hạn",
   "SUPPORT_WEEKLY_LIMITS_HITTING_LIMIT_ITEM_ERROR": "Khi bạn hết hạn mức, các lần tải lên mới trả về lỗi \"Đã vượt giới hạn sử dụng hàng tuần\" kèm dấu thời gian của lần đặt lại tiếp theo.",

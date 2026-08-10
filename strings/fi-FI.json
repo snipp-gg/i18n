@@ -1725,7 +1725,7 @@
   "SUPPORT_WEEKLY_LIMITS_WHAT_COUNTS_HEADING": "Mitä lasketaan kiintiöösi",
   "SUPPORT_WEEKLY_LIMITS_WHAT_COUNTS_ITEM_ALL_SOURCES": "Jokainen onnistunut lataus lasketaan: verkkosivusto, API, ShareX ja XerahS. Julkiset, listaamattomat ja yksityiset julkaisut lasketaan kaikki samalla tavalla.",
   "SUPPORT_WEEKLY_LIMITS_WHAT_COUNTS_ITEM_ALBUMS": "Albumit lasketaan niiden tiedostojen summana. 5 tiedoston albumi, joista jokainen on 200 MB, käyttää 1 GB kiintiötä.",
-  "SUPPORT_WEEKLY_LIMITS_WHAT_COUNTS_ITEM_FAILED_UPLOADS": "Epäonnistuneet tai hylätyt lataukset (pyyntörajoitetut, virusmerkityt, moderoidut) eivät kuluta kiintiötä.",
+  "SUPPORT_WEEKLY_LIMITS_WHAT_COUNTS_ITEM_FAILED_UPLOADS": "Lataukset, jotka epäonnistuvat ennen valmistumista, kuten pyyntörajoitettu tai keskeytynyt pyyntö, eivät kuluta kiintiötä. Kun lataus on tallennettu, tavut on käytetty, vaikka julkaisu myöhemmin moderoitaisiin.",
   "SUPPORT_WEEKLY_LIMITS_WHAT_COUNTS_ITEM_DELETION_NO_REFUND": "Julkaisun poistaminen ei hyvitä sen kiintiötä. Tavut palautuvat vain viikoittaisessa nollauksessa, ei koskaan poistamalla.",
   "SUPPORT_WEEKLY_LIMITS_HITTING_LIMIT_HEADING": "Rajan saavuttaminen",
   "SUPPORT_WEEKLY_LIMITS_HITTING_LIMIT_ITEM_ERROR": "Kun kiintiösi on lopussa, uudet lataukset palauttavat ”Viikoittainen käyttöraja ylitetty” -virheen seuraavan nollauksesi aikaleimalla.",

@@ -1725,7 +1725,7 @@
   "SUPPORT_WEEKLY_LIMITS_WHAT_COUNTS_HEADING": "Što se ubraja u tvoju kvotu",
   "SUPPORT_WEEKLY_LIMITS_WHAT_COUNTS_ITEM_ALL_SOURCES": "Svaki uspješan prijenos se ubraja: web-stranica, API, ShareX i XerahS. Javne, neuvrštene i privatne objave sve se računaju jednako.",
   "SUPPORT_WEEKLY_LIMITS_WHAT_COUNTS_ITEM_ALBUMS": "Albumi se računaju kao zbroj svojih datoteka. Album od 5 datoteka po 200 MB koristi 1 GB kvote.",
-  "SUPPORT_WEEKLY_LIMITS_WHAT_COUNTS_ITEM_FAILED_UPLOADS": "Neuspjeli ili odbijeni prijenosi (ograničeni brojem zahtjeva, označeni kao virus, moderirani) ne troše kvotu.",
+  "SUPPORT_WEEKLY_LIMITS_WHAT_COUNTS_ITEM_FAILED_UPLOADS": "Prijenosi koji ne uspiju prije dovršetka, primjerice zbog ograničenja broja zahtjeva ili prekinutog zahtjeva, ne troše kvotu. Nakon što je prijenos pohranjen, bajtovi su potrošeni, čak i ako objava kasnije bude moderirana.",
   "SUPPORT_WEEKLY_LIMITS_WHAT_COUNTS_ITEM_DELETION_NO_REFUND": "Brisanje objave ne vraća njezinu kvotu. Bajtovi se vraćaju samo pri tvom tjednom ponovnom postavljanju, nikada brisanjem.",
   "SUPPORT_WEEKLY_LIMITS_HITTING_LIMIT_HEADING": "Dosezanje ograničenja",
   "SUPPORT_WEEKLY_LIMITS_HITTING_LIMIT_ITEM_ERROR": "Kad ostaneš bez kvote, novi prijenosi vraćaju pogrešku „Premašeno tjedno ograničenje potrošnje” s vremenskom oznakom tvog sljedećeg ponovnog postavljanja.",

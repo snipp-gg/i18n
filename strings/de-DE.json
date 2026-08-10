@@ -1725,7 +1725,7 @@
   "SUPPORT_WEEKLY_LIMITS_WHAT_COUNTS_HEADING": "Was auf Dein Kontingent Angerechnet Wird",
   "SUPPORT_WEEKLY_LIMITS_WHAT_COUNTS_ITEM_ALL_SOURCES": "Jeder erfolgreiche Upload zählt: Website, API, ShareX und XerahS. Öffentliche, nicht gelistete und private Beiträge zählen alle gleich.",
   "SUPPORT_WEEKLY_LIMITS_WHAT_COUNTS_ITEM_ALBUMS": "Alben zählen als die Summe ihrer Dateien. Ein Album mit 5 Dateien zu je 200 MB verbraucht 1 GB Kontingent.",
-  "SUPPORT_WEEKLY_LIMITS_WHAT_COUNTS_ITEM_FAILED_UPLOADS": "Fehlgeschlagene oder abgelehnte Uploads (ratenbegrenzt, als Virus markiert, moderiert) verbrauchen kein Kontingent.",
+  "SUPPORT_WEEKLY_LIMITS_WHAT_COUNTS_ITEM_FAILED_UPLOADS": "Uploads, die vor dem Abschluss fehlschlagen, etwa eine ratenbegrenzte oder unterbrochene Anfrage, verbrauchen kein Kontingent. Sobald ein Upload gespeichert ist, sind die Bytes verbraucht, auch wenn der Beitrag später moderiert wird.",
   "SUPPORT_WEEKLY_LIMITS_WHAT_COUNTS_ITEM_DELETION_NO_REFUND": "Das Löschen eines Beitrags erstattet sein Kontingent nicht zurück. Bytes kommen nur beim wöchentlichen Reset zurück, niemals durch Löschen.",
   "SUPPORT_WEEKLY_LIMITS_HITTING_LIMIT_HEADING": "Das Limit Erreichen",
   "SUPPORT_WEEKLY_LIMITS_HITTING_LIMIT_ITEM_ERROR": "Wenn dein Kontingent aufgebraucht ist, geben neue Uploads den Fehler „Wöchentliches Nutzungslimit überschritten“ zurück, zusammen mit dem Zeitstempel deines nächsten Resets.",

@@ -1725,7 +1725,7 @@
   "SUPPORT_WEEKLY_LIMITS_WHAT_COUNTS_HEADING": "Ce qui est comptabilisé dans votre quota",
   "SUPPORT_WEEKLY_LIMITS_WHAT_COUNTS_ITEM_ALL_SOURCES": "Chaque envoi réussi est comptabilisé : site web, API, ShareX et XerahS. Les posts publics, non répertoriés et privés comptent tous de la même manière.",
   "SUPPORT_WEEKLY_LIMITS_WHAT_COUNTS_ITEM_ALBUMS": "Les albums comptent comme la somme de leurs fichiers. Un album de 5 fichiers de 200 MB chacun utilise 1 GB de quota.",
-  "SUPPORT_WEEKLY_LIMITS_WHAT_COUNTS_ITEM_FAILED_UPLOADS": "Les envois échoués ou rejetés (limités en débit, signalés comme virus, modérés) ne consomment pas de quota.",
+  "SUPPORT_WEEKLY_LIMITS_WHAT_COUNTS_ITEM_FAILED_UPLOADS": "Les envois qui échouent avant d'aboutir, comme une requête limitée en débit ou interrompue, ne consomment pas de quota. Une fois un envoi stocké, les octets sont dépensés, même si le post est modéré par la suite.",
   "SUPPORT_WEEKLY_LIMITS_WHAT_COUNTS_ITEM_DELETION_NO_REFUND": "Supprimer un post ne rembourse pas son quota. Les octets ne reviennent qu'à votre réinitialisation hebdomadaire, jamais par suppression.",
   "SUPPORT_WEEKLY_LIMITS_HITTING_LIMIT_HEADING": "Atteindre la limite",
   "SUPPORT_WEEKLY_LIMITS_HITTING_LIMIT_ITEM_ERROR": "Lorsque votre quota est épuisé, les nouveaux envois renvoient une erreur « Limite d'utilisation hebdomadaire dépassée » avec l'horodatage de votre prochaine réinitialisation.",

@@ -1725,7 +1725,7 @@
   "SUPPORT_WEEKLY_LIMITS_WHAT_COUNTS_HEADING": "Cosa conta per la tua quota",
   "SUPPORT_WEEKLY_LIMITS_WHAT_COUNTS_ITEM_ALL_SOURCES": "Ogni caricamento riuscito conta: sito web, API, ShareX e XerahS. I post pubblici, non in elenco e privati contano tutti allo stesso modo.",
   "SUPPORT_WEEKLY_LIMITS_WHAT_COUNTS_ITEM_ALBUMS": "Gli album contano come la somma dei loro file. Un album di 5 file da 200 MB ciascuno usa 1 GB di quota.",
-  "SUPPORT_WEEKLY_LIMITS_WHAT_COUNTS_ITEM_FAILED_UPLOADS": "I caricamenti non riusciti o rifiutati (rate-limited, segnalati come virus, moderati) non consumano quota.",
+  "SUPPORT_WEEKLY_LIMITS_WHAT_COUNTS_ITEM_FAILED_UPLOADS": "I caricamenti che falliscono prima di completarsi, come una richiesta rate-limited o interrotta, non consumano quota. Una volta che un caricamento è stato archiviato, i byte sono spesi, anche se il post viene moderato in seguito.",
   "SUPPORT_WEEKLY_LIMITS_WHAT_COUNTS_ITEM_DELETION_NO_REFUND": "Eliminare un post non rimborsa la sua quota. I byte tornano solo al tuo azzeramento settimanale, mai con l'eliminazione.",
   "SUPPORT_WEEKLY_LIMITS_HITTING_LIMIT_HEADING": "Raggiungere il limite",
   "SUPPORT_WEEKLY_LIMITS_HITTING_LIMIT_ITEM_ERROR": "Quando sei a corto di quota, i nuovi caricamenti restituiscono un errore \"Limite di utilizzo settimanale superato\" con l'orario del tuo prossimo azzeramento.",

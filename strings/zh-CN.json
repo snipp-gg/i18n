@@ -1725,7 +1725,7 @@
   "SUPPORT_WEEKLY_LIMITS_WHAT_COUNTS_HEADING": "哪些因素计入你的配额",
   "SUPPORT_WEEKLY_LIMITS_WHAT_COUNTS_ITEM_ALL_SOURCES": "每次成功上传都算数：网站，API，ShareX 和 XerahS。公开帖子，非公开帖子和私密帖子都同等重要。",
   "SUPPORT_WEEKLY_LIMITS_WHAT_COUNTS_ITEM_ALBUMS": "专辑的容量占用以其所有文件的总和为准。例如，一张包含 5 个文件，每个文件 200 MB 的专辑将占用 1 GB 的配额。",
-  "SUPPORT_WEEKLY_LIMITS_WHAT_COUNTS_ITEM_FAILED_UPLOADS": "上传失败或被拒绝（限速，病毒标记，审核）不会占用配额。",
+  "SUPPORT_WEEKLY_LIMITS_WHAT_COUNTS_ITEM_FAILED_UPLOADS": "在完成前失败的上传（例如被限速或中断的请求）不会占用配额。上传一旦存储完成，字节即已消耗，即使帖子之后被审核也不会返还。",
   "SUPPORT_WEEKLY_LIMITS_WHAT_COUNTS_ITEM_DELETION_NO_REFUND": "删除帖子并不会释放其配额。字节只会在你的每周重置时回来，删除不会释放。",
   "SUPPORT_WEEKLY_LIMITS_HITTING_LIMIT_HEADING": "达到极限",
   "SUPPORT_WEEKLY_LIMITS_HITTING_LIMIT_ITEM_ERROR": "当您超出配额时，新的上传操作会返回 \"每周使用限制已超出\" 错误，并附带您下次重置的时间戳。",

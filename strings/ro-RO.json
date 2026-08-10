@@ -1725,7 +1725,7 @@
   "SUPPORT_WEEKLY_LIMITS_WHAT_COUNTS_HEADING": "Ce contează pentru cota ta",
   "SUPPORT_WEEKLY_LIMITS_WHAT_COUNTS_ITEM_ALL_SOURCES": "Fiecare încărcare reușită contează: site, API, ShareX și XerahS. Postările publice, nelistate și private contează la fel.",
   "SUPPORT_WEEKLY_LIMITS_WHAT_COUNTS_ITEM_ALBUMS": "Albumele contează ca suma fișierelor lor. Un album de 5 fișiere de 200 MB fiecare folosește 1 GB din cotă.",
-  "SUPPORT_WEEKLY_LIMITS_WHAT_COUNTS_ITEM_FAILED_UPLOADS": "Încărcările eșuate sau respinse (limitate de rată, marcate ca virus, moderate) nu consumă cotă.",
+  "SUPPORT_WEEKLY_LIMITS_WHAT_COUNTS_ITEM_FAILED_UPLOADS": "Încărcările care eșuează înainte de a se finaliza, cum ar fi o cerere limitată de rată sau întreruptă, nu consumă cotă. Odată ce o încărcare este stocată, octeții sunt cheltuiți, chiar dacă postarea este moderată ulterior.",
   "SUPPORT_WEEKLY_LIMITS_WHAT_COUNTS_ITEM_DELETION_NO_REFUND": "Ștergerea unei postări nu îți rambursează cota. Octeții revin doar la resetarea ta săptămânală, niciodată prin ștergere.",
   "SUPPORT_WEEKLY_LIMITS_HITTING_LIMIT_HEADING": "Când atingi limita",
   "SUPPORT_WEEKLY_LIMITS_HITTING_LIMIT_ITEM_ERROR": "Când rămâi fără cotă, încărcările noi returnează o eroare „Limită de utilizare săptămânală depășită” cu marcajul temporal al următoarei tale resetări.",

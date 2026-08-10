@@ -1725,7 +1725,7 @@
   "SUPPORT_WEEKLY_LIMITS_WHAT_COUNTS_HEADING": "Apa yang Dihitung untuk Kuota Anda",
   "SUPPORT_WEEKLY_LIMITS_WHAT_COUNTS_ITEM_ALL_SOURCES": "Setiap unggahan yang berhasil dihitung: situs web, API, ShareX, dan XerahS. Postingan publik, tidak terdaftar, dan pribadi semuanya dihitung sama.",
   "SUPPORT_WEEKLY_LIMITS_WHAT_COUNTS_ITEM_ALBUMS": "Album dihitung sebagai jumlah filenya. Album 5 file masing-masing 200 MB menggunakan 1 GB kuota.",
-  "SUPPORT_WEEKLY_LIMITS_WHAT_COUNTS_ITEM_FAILED_UPLOADS": "Unggahan yang gagal atau ditolak (terbatas laju, ditandai virus, dimoderasi) tidak menghabiskan kuota.",
+  "SUPPORT_WEEKLY_LIMITS_WHAT_COUNTS_ITEM_FAILED_UPLOADS": "Unggahan yang gagal sebelum selesai, misalnya permintaan yang terbatas laju atau terputus, tidak menghabiskan kuota. Setelah unggahan tersimpan, byte sudah terpakai, bahkan jika postingan kemudian dimoderasi.",
   "SUPPORT_WEEKLY_LIMITS_WHAT_COUNTS_ITEM_DELETION_NO_REFUND": "Menghapus postingan tidak mengembalikan kuotanya. Byte hanya kembali pada reset mingguan Anda, tidak pernah dengan penghapusan.",
   "SUPPORT_WEEKLY_LIMITS_HITTING_LIMIT_HEADING": "Mencapai Batas",
   "SUPPORT_WEEKLY_LIMITS_HITTING_LIMIT_ITEM_ERROR": "Saat kuota Anda habis, unggahan baru mengembalikan kesalahan \"Batas penggunaan mingguan terlampaui\" dengan stempel waktu reset Anda berikutnya.",

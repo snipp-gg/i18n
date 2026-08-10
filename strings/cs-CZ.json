@@ -1725,7 +1725,7 @@
   "SUPPORT_WEEKLY_LIMITS_WHAT_COUNTS_HEADING": "Co se započítává do vašeho limitu",
   "SUPPORT_WEEKLY_LIMITS_WHAT_COUNTS_ITEM_ALL_SOURCES": "Každé úspěšné nahrání se počítá: web, API, ShareX i XerahS. Veřejné, neuvedené i soukromé příspěvky se počítají stejně.",
   "SUPPORT_WEEKLY_LIMITS_WHAT_COUNTS_ITEM_ALBUMS": "Alba se počítají jako součet svých souborů. Album 5 souborů po 200 MB využije 1 GB limitu.",
-  "SUPPORT_WEEKLY_LIMITS_WHAT_COUNTS_ITEM_FAILED_UPLOADS": "Neúspěšná nebo odmítnutá nahrání (omezená limitem, označená jako virus, moderovaná) limit nespotřebují.",
+  "SUPPORT_WEEKLY_LIMITS_WHAT_COUNTS_ITEM_FAILED_UPLOADS": "Nahrání, která selžou před dokončením, například požadavek omezený limitem nebo přerušený, limit nespotřebují. Jakmile je nahrání uloženo, bajty jsou spotřebovány, i když je příspěvek později moderován.",
   "SUPPORT_WEEKLY_LIMITS_WHAT_COUNTS_ITEM_DELETION_NO_REFUND": "Smazání příspěvku nevrací jeho limit. Bajty se vracejí pouze při týdenním resetu, nikdy smazáním.",
   "SUPPORT_WEEKLY_LIMITS_HITTING_LIMIT_HEADING": "Dosažení limitu",
   "SUPPORT_WEEKLY_LIMITS_HITTING_LIMIT_ITEM_ERROR": "Když vám dojde limit, nová nahrání vrátí chybu „Týdenní limit využití překročen“ s časovým razítkem vašeho dalšího resetu.",

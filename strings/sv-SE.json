@@ -1725,7 +1725,7 @@
   "SUPPORT_WEEKLY_LIMITS_WHAT_COUNTS_HEADING": "Vad som räknas mot din kvot",
   "SUPPORT_WEEKLY_LIMITS_WHAT_COUNTS_ITEM_ALL_SOURCES": "Varje lyckad uppladdning räknas: webbplats, API, ShareX och XerahS. Offentliga, olistade och privata inlägg räknas alla lika.",
   "SUPPORT_WEEKLY_LIMITS_WHAT_COUNTS_ITEM_ALBUMS": "Album räknas som summan av sina filer. Ett album med 5 filer på 200 MB vardera använder 1 GB av kvoten.",
-  "SUPPORT_WEEKLY_LIMITS_WHAT_COUNTS_ITEM_FAILED_UPLOADS": "Misslyckade eller avvisade uppladdningar (hastighetsbegränsade, virusflaggade, modererade) förbrukar ingen kvot.",
+  "SUPPORT_WEEKLY_LIMITS_WHAT_COUNTS_ITEM_FAILED_UPLOADS": "Uppladdningar som misslyckas innan de är klara, till exempel en hastighetsbegränsad eller avbruten begäran, förbrukar ingen kvot. När en uppladdning väl är lagrad är bytena förbrukade, även om inlägget senare modereras.",
   "SUPPORT_WEEKLY_LIMITS_WHAT_COUNTS_ITEM_DELETION_NO_REFUND": "Att radera ett inlägg återbetalar inte dess kvot. Byte kommer bara tillbaka vid din veckovisa återställning, aldrig genom radering.",
   "SUPPORT_WEEKLY_LIMITS_HITTING_LIMIT_HEADING": "Att nå gränsen",
   "SUPPORT_WEEKLY_LIMITS_HITTING_LIMIT_ITEM_ERROR": "När du har slut på kvot returnerar nya uppladdningar felet \"Veckoanvändningsgränsen överskriden\" med tidsstämpeln för din nästa återställning.",

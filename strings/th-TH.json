@@ -1725,7 +1725,7 @@
   "SUPPORT_WEEKLY_LIMITS_WHAT_COUNTS_HEADING": "อะไรนับรวมในโควต้าของคุณ",
   "SUPPORT_WEEKLY_LIMITS_WHAT_COUNTS_ITEM_ALL_SOURCES": "การอัปโหลดที่สำเร็จทุกครั้งนับ: เว็บไซต์, API, ShareX และ XerahS โพสต์สาธารณะ ไม่อยู่ในรายการ และส่วนตัวนับเหมือนกันหมด",
   "SUPPORT_WEEKLY_LIMITS_WHAT_COUNTS_ITEM_ALBUMS": "อัลบั้มนับเป็นผลรวมของไฟล์ อัลบั้ม 5 ไฟล์ละ 200 MB ใช้โควต้า 1 GB",
-  "SUPPORT_WEEKLY_LIMITS_WHAT_COUNTS_ITEM_FAILED_UPLOADS": "การอัปโหลดที่ล้มเหลวหรือถูกปฏิเสธ (rate-limited, virus-flagged, ถูกจัดการ) ไม่ใช้โควต้า",
+  "SUPPORT_WEEKLY_LIMITS_WHAT_COUNTS_ITEM_FAILED_UPLOADS": "การอัปโหลดที่ล้มเหลวก่อนจะเสร็จสิ้น เช่น คำขอที่ถูกจำกัดอัตรา (rate-limited) หรือถูกขัดจังหวะ จะไม่ใช้โควต้า เมื่ออัปโหลดถูกจัดเก็บแล้ว ไบต์จะถือว่าถูกใช้ไปแล้ว แม้ว่าโพสต์จะถูกจัดการในภายหลังก็ตาม",
   "SUPPORT_WEEKLY_LIMITS_WHAT_COUNTS_ITEM_DELETION_NO_REFUND": "การลบโพสต์ไม่คืนโควตา ไบต์จะกลับคืนมาเฉพาะตอนรีเซ็ตรายสัปดาห์ของคุณเท่านั้น ไม่ใช่จากการลบ",
   "SUPPORT_WEEKLY_LIMITS_HITTING_LIMIT_HEADING": "เมื่อถึงขีดจำกัด",
   "SUPPORT_WEEKLY_LIMITS_HITTING_LIMIT_ITEM_ERROR": "เมื่อคุณหมดโควตา การอัปโหลดใหม่จะคืนค่าข้อผิดพลาด \"Weekly usage limit exceeded\" พร้อมการประทับเวลาของการรีเซ็ตครั้งถัดไปของคุณ",

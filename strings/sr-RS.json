@@ -1725,7 +1725,7 @@
   "SUPPORT_WEEKLY_LIMITS_WHAT_COUNTS_HEADING": "Šta se računa u vašu kvotu",
   "SUPPORT_WEEKLY_LIMITS_WHAT_COUNTS_ITEM_ALL_SOURCES": "Svako uspešno otpremanje se računa: sajt, API, ShareX i XerahS. Javne, nelistirane i privatne objave se računaju jednako.",
   "SUPPORT_WEEKLY_LIMITS_WHAT_COUNTS_ITEM_ALBUMS": "Albumi se računaju kao zbir svojih fajlova. Album od 5 fajlova po 200 MB koristi 1 GB kvote.",
-  "SUPPORT_WEEKLY_LIMITS_WHAT_COUNTS_ITEM_FAILED_UPLOADS": "Neuspela ili odbijena otpremanja (ograničena brojem zahteva, označena kao virus, moderirana) ne troše kvotu.",
+  "SUPPORT_WEEKLY_LIMITS_WHAT_COUNTS_ITEM_FAILED_UPLOADS": "Otpremanja koja ne uspeju pre završetka, na primer zbog ograničenja broja zahteva ili prekinutog zahteva, ne troše kvotu. Kada je otpremanje jednom sačuvano, bajtovi su potrošeni, čak i ako objava kasnije bude moderirana.",
   "SUPPORT_WEEKLY_LIMITS_WHAT_COUNTS_ITEM_DELETION_NO_REFUND": "Brisanje objave ne vraća njenu kvotu. Bajtovi se vraćaju samo pri vašem nedeljnom resetovanju, nikada brisanjem.",
   "SUPPORT_WEEKLY_LIMITS_HITTING_LIMIT_HEADING": "Dostizanje limita",
   "SUPPORT_WEEKLY_LIMITS_HITTING_LIMIT_ITEM_ERROR": "Kada vam ponestane kvote, nova otpremanja vraćaju grešku „Nedeljno ograničenje iskorišćenosti prekoračeno“ uz vremensku oznaku vašeg sledećeg resetovanja.",

@@ -1725,7 +1725,7 @@
   "SUPPORT_WEEKLY_LIMITS_WHAT_COUNTS_HEADING": "クォータに加算されるもの",
   "SUPPORT_WEEKLY_LIMITS_WHAT_COUNTS_ITEM_ALL_SOURCES": "成功したすべてのアップロードが加算されます：ウェブサイト、API、ShareX、XerahS。公開、限定公開、非公開の投稿はすべて同じように加算されます。",
   "SUPPORT_WEEKLY_LIMITS_WHAT_COUNTS_ITEM_ALBUMS": "アルバムはその中のファイルの合計として加算されます。各200 MBの5ファイルアルバムは1 GBのクォータを使用します。",
-  "SUPPORT_WEEKLY_LIMITS_WHAT_COUNTS_ITEM_FAILED_UPLOADS": "失敗または拒否されたアップロード（レート制限、ウイルス検出、モデレーション）はクォータを消費しません。",
+  "SUPPORT_WEEKLY_LIMITS_WHAT_COUNTS_ITEM_FAILED_UPLOADS": "完了前に失敗したアップロード（レート制限や中断されたリクエストなど）はクォータを消費しません。アップロードが保存された時点でバイト数は消費され、その後投稿がモデレーションの対象になっても返還されません。",
   "SUPPORT_WEEKLY_LIMITS_WHAT_COUNTS_ITEM_DELETION_NO_REFUND": "投稿を削除してもクォータは返還されません。バイト数が戻るのは毎週のリセット時だけで、削除では戻りません。",
   "SUPPORT_WEEKLY_LIMITS_HITTING_LIMIT_HEADING": "制限に達したとき",
   "SUPPORT_WEEKLY_LIMITS_HITTING_LIMIT_ITEM_ERROR": "クォータを使い切ると、新しいアップロードは「週間使用量の上限を超えました」というエラーを返し、次のリセットのタイムスタンプが表示されます。",

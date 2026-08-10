@@ -1725,7 +1725,7 @@
   "SUPPORT_WEEKLY_LIMITS_WHAT_COUNTS_HEADING": "무엇이 할당량에 집계되나요",
   "SUPPORT_WEEKLY_LIMITS_WHAT_COUNTS_ITEM_ALL_SOURCES": "성공한 모든 업로드가 집계됩니다: 웹사이트, API, ShareX, XerahS. 공개, 링크 공개, 비공개 게시물이 모두 동일하게 집계됩니다.",
   "SUPPORT_WEEKLY_LIMITS_WHAT_COUNTS_ITEM_ALBUMS": "앨범은 파일들의 합으로 집계됩니다. 각 200MB짜리 파일 5개로 된 앨범은 할당량 1GB를 사용합니다.",
-  "SUPPORT_WEEKLY_LIMITS_WHAT_COUNTS_ITEM_FAILED_UPLOADS": "실패하거나 거부된 업로드(요청 제한, 바이러스 표시, 검열)는 할당량을 소비하지 않습니다.",
+  "SUPPORT_WEEKLY_LIMITS_WHAT_COUNTS_ITEM_FAILED_UPLOADS": "완료 전에 실패한 업로드(요청 제한이나 중단된 요청 등)는 할당량을 소비하지 않습니다. 업로드가 저장된 시점에 바이트는 이미 사용된 것이며, 이후 게시물이 검열되더라도 환원되지 않습니다.",
   "SUPPORT_WEEKLY_LIMITS_WHAT_COUNTS_ITEM_DELETION_NO_REFUND": "게시물을 삭제해도 할당량은 환원되지 않습니다. 바이트는 주간 초기화 시점에만 돌아오며, 삭제로는 돌아오지 않습니다.",
   "SUPPORT_WEEKLY_LIMITS_HITTING_LIMIT_HEADING": "한도에 도달했을 때",
   "SUPPORT_WEEKLY_LIMITS_HITTING_LIMIT_ITEM_ERROR": "할당량이 소진되면, 새 업로드는 다음 초기화 시각과 함께 \"주간 사용 한도 초과\" 오류를 반환합니다.",

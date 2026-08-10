@@ -1725,7 +1725,7 @@
   "SUPPORT_WEEKLY_LIMITS_WHAT_COUNTS_HEADING": "Čo sa započítava do tvojho limitu",
   "SUPPORT_WEEKLY_LIMITS_WHAT_COUNTS_ITEM_ALL_SOURCES": "Započítava sa každé úspešné nahratie: web, API, ShareX a XerahS. Verejné, neuvedené aj súkromné príspevky sa započítavajú rovnako.",
   "SUPPORT_WEEKLY_LIMITS_WHAT_COUNTS_ITEM_ALBUMS": "Albumy sa započítavajú ako súčet ich súborov. Album s 5 súbormi po 200 MB využije 1 GB limitu.",
-  "SUPPORT_WEEKLY_LIMITS_WHAT_COUNTS_ITEM_FAILED_UPLOADS": "Neúspešné alebo zamietnuté nahratia (obmedzené limitom, označené ako vírus, moderované) limit nespotrebúvajú.",
+  "SUPPORT_WEEKLY_LIMITS_WHAT_COUNTS_ITEM_FAILED_UPLOADS": "Nahratia, ktoré zlyhajú pred dokončením, napríklad požiadavka obmedzená limitom alebo prerušená, limit nespotrebujú. Len čo je nahratie uložené, bajty sú spotrebované, aj keď je príspevok neskôr moderovaný.",
   "SUPPORT_WEEKLY_LIMITS_WHAT_COUNTS_ITEM_DELETION_NO_REFUND": "Odstránenie príspevku jeho limit nevracia. Bajty sa vracajú len pri tvojom týždennom resete, nikdy odstránením.",
   "SUPPORT_WEEKLY_LIMITS_HITTING_LIMIT_HEADING": "Dosiahnutie limitu",
   "SUPPORT_WEEKLY_LIMITS_HITTING_LIMIT_ITEM_ERROR": "Keď máš vyčerpaný limit, nové nahratia vrátia chybu „Prekročený týždenný limit využitia“ s časovou značkou tvojho ďalšieho resetu.",
