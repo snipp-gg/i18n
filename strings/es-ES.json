@@ -1725,7 +1725,7 @@
   "SUPPORT_WEEKLY_LIMITS_WHAT_COUNTS_HEADING": "Qué Cuenta para Tu Cuota",
   "SUPPORT_WEEKLY_LIMITS_WHAT_COUNTS_ITEM_ALL_SOURCES": "Cada subida exitosa cuenta: sitio web, API, ShareX y XerahS. Las publicaciones públicas, no listadas y privadas cuentan por igual.",
   "SUPPORT_WEEKLY_LIMITS_WHAT_COUNTS_ITEM_ALBUMS": "Los álbumes cuentan como la suma de sus archivos. Un álbum de 5 archivos de 200 MB cada uno usa 1 GB de cuota.",
-  "SUPPORT_WEEKLY_LIMITS_WHAT_COUNTS_ITEM_FAILED_UPLOADS": "Las subidas fallidas o rechazadas (limitadas por tasa, marcadas como virus, moderadas) no consumen cuota.",
+  "SUPPORT_WEEKLY_LIMITS_WHAT_COUNTS_ITEM_FAILED_UPLOADS": "Uploads that fail before they finish, such as a rate-limited or interrupted request, do not consume quota. Once an upload is stored the bytes are spent, even if the post is later moderated.",
   "SUPPORT_WEEKLY_LIMITS_WHAT_COUNTS_ITEM_DELETION_NO_REFUND": "Deleting a post does not refund its quota. Bytes only come back at your weekly reset, never by deleting.",
   "SUPPORT_WEEKLY_LIMITS_HITTING_LIMIT_HEADING": "Alcanzar el Límite",
   "SUPPORT_WEEKLY_LIMITS_HITTING_LIMIT_ITEM_ERROR": "When you're out of quota, new uploads return a \"Weekly usage limit exceeded\" error with the timestamp of your next reset.",
