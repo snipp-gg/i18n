@@ -408,7 +408,7 @@
   "MODAL_ADD_SOCIALS_MANAGE_HEADING": "Manage {platform} link",
   "MODAL_ADD_SOCIALS_ADD_BUTTON": "Добавить",
   "COMMON_POST_MODERATED": "Пост модерирован",
-  "COMMON_USER_SUSPENDED": "Account suspended",
+  "COMMON_USER_SUSPENDED": "Учётная запись заблокирована",
   "MODAL_THANK_YOU_REPORT_HEADING": "Спасибо за жалобу!",
   "MODAL_THANK_YOU_MODERATED_BODY": "Пост был модерирован и больше не виден другим пользователям. Спасибо!",
   "MODAL_THANK_YOU_SUSPENDED_BODY": "Пользователь был заблокирован, и его профиль больше не виден другим. Спасибо!",
