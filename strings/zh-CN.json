@@ -508,7 +508,7 @@
   "LEGAL_PRIVACY_UPLOADS_STORAGE_VIDEO": "视频上传还可能通过 {stream} 进行处理和分发，以实现自适应串流播放。原始文件的副本仍保留在我们的主存储中，并且适用相同的加密和访问控制。",
   "LEGAL_PRIVACY_UPLOADS_STORAGE_P2": "您可以随时删除您的上传文件。当您删除文件时，它会立即从我们的存储系统和 CDN 缓存中移除。删除后出现的任何剩余副本都是由于您自己的设备或浏览器缓存造成的，我们无法控制。",
   "LEGAL_PRIVACY_CONTENT_RESPONSIBILITY_HEADING": "内容责任",
-  "LEGAL_PRIVACY_CONTENT_RESPONSIBILITY_BODY": "Snipp.gg 不会使用第三方审核工具扫描或分析您的上传内容。您对分享的内容负全部责任。如果内容违法,侵犯知识产权或对他人造成风险，一经举报或根据法律要求，我们将予以删除，具体操作符合我们的服务条款。我们将按照适用法律对有效的版权侵权通知进行响应。请联系 {email}。",
+  "LEGAL_PRIVACY_CONTENT_RESPONSIBILITY_BODY": "上传的媒体和文本会由自动安全分类系统进行检查，内容在被举报后也可能受到审查。您对分享的内容负全部责任。如果内容违法,侵犯知识产权或对他人造成风险，一经举报或根据法律要求，我们将予以删除，具体操作符合我们的服务条款。我们将按照适用法律对有效的版权侵权通知进行响应。请联系 {email}。",
   "LEGAL_PRIVACY_HOW_WE_USE_HEADING": "我们如何使用您的的信息",
   "LEGAL_PRIVACY_HOW_WE_USE_ITEM_PROVIDE": "提供，维护和改进平台及其功能。",
   "LEGAL_PRIVACY_HOW_WE_USE_ITEM_AUTHENTICATE": "验证用户（例如，通过电子邮件魔法链接或已连接的账户）并管理账户和订阅。",
