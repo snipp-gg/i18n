@@ -408,7 +408,7 @@
   "MODAL_ADD_SOCIALS_MANAGE_HEADING": "Manage {platform} link",
   "MODAL_ADD_SOCIALS_ADD_BUTTON": "Додати",
   "COMMON_POST_MODERATED": "Допис модеровано",
-  "COMMON_USER_SUSPENDED": "Account suspended",
+  "COMMON_USER_SUSPENDED": "Акаунт призупинено",
   "MODAL_THANK_YOU_REPORT_HEADING": "Дякуємо за скаргу!",
   "MODAL_THANK_YOU_MODERATED_BODY": "Допис було модеровано, і він більше не видимий для інших. Дякуємо!",
   "MODAL_THANK_YOU_SUSPENDED_BODY": "Користувача було призупинено, і його профіль більше не видимий для інших. Дякуємо!",
