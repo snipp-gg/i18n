@@ -408,7 +408,7 @@
   "MODAL_ADD_SOCIALS_MANAGE_HEADING": "Manage {platform} link",
   "MODAL_ADD_SOCIALS_ADD_BUTTON": "追加",
   "COMMON_POST_MODERATED": "投稿はモデレートされました",
-  "COMMON_USER_SUSPENDED": "Account suspended",
+  "COMMON_USER_SUSPENDED": "アカウント停止",
   "MODAL_THANK_YOU_REPORT_HEADING": "報告いただきありがとうございます！",
   "MODAL_THANK_YOU_MODERATED_BODY": "この投稿はモデレートされ、他のユーザーには表示されなくなりました。ご協力ありがとうございます！",
   "MODAL_THANK_YOU_SUSPENDED_BODY": "このユーザーは停止され、プロフィールは他のユーザーには表示されなくなりました。ご協力ありがとうございます！",
