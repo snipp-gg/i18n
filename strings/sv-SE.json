@@ -408,7 +408,7 @@
   "MODAL_ADD_SOCIALS_MANAGE_HEADING": "Manage {platform} link",
   "MODAL_ADD_SOCIALS_ADD_BUTTON": "Lägg till",
   "COMMON_POST_MODERATED": "Inlägg modererat",
-  "COMMON_USER_SUSPENDED": "Account suspended",
+  "COMMON_USER_SUSPENDED": "Konto avstängt",
   "MODAL_THANK_YOU_REPORT_HEADING": "Tack för att du rapporterade!",
   "MODAL_THANK_YOU_MODERATED_BODY": "Inlägget har modererats och är inte längre synligt för andra. Tack!",
   "MODAL_THANK_YOU_SUSPENDED_BODY": "Användaren har stängts av och dess profil är inte längre synlig för andra. Tack!",
