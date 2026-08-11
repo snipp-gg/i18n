@@ -408,7 +408,7 @@
   "MODAL_ADD_SOCIALS_MANAGE_HEADING": "Manage {platform} link",
   "MODAL_ADD_SOCIALS_ADD_BUTTON": "Ajouter",
   "COMMON_POST_MODERATED": "Post modéré",
-  "COMMON_USER_SUSPENDED": "Account suspended",
+  "COMMON_USER_SUSPENDED": "Compte suspendu",
   "MODAL_THANK_YOU_REPORT_HEADING": "Merci pour votre signalement !",
   "MODAL_THANK_YOU_MODERATED_BODY": "Le post a été modéré et n'est plus visible par les autres. Merci !",
   "MODAL_THANK_YOU_SUSPENDED_BODY": "L'utilisateur a été suspendu et son profil n'est plus visible par les autres. Merci !",
