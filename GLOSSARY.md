@@ -4,7 +4,7 @@ How the product's own nouns are already rendered in each shipped locale. Generat
 
 **Use it as binding.** A new string that contains one of these terms uses the rendering here, not a fresh synonym. If a term genuinely needs to change, change it in every locale file and regenerate this table in the same pass; never let a new key introduce a second spelling.
 
-Terms with no row here (product names like Snipp, Snipp+, Enterprise, and file formats) stay in English in every locale.
+Terms with no row here (product names like Snipp, Snipp+, Ultra, and file formats) stay in English in every locale.
 
 Source of truth is `Website/utils/i18n/strings/<locale>.json`; `i18n/strings/` mirrors it. Regenerate rather than hand-edit.
 
