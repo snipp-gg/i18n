@@ -1155,7 +1155,7 @@
   "SETTINGS_BILLING_PRIORITY_MINUTES_EXCEEDED": "Lumampas sa priority minutes",
   "COMMON_LEARN_MORE": "Matuto pa",
   "SETTINGS_BILLING_UPGRADE_HINT": "Mag-upgrade para sa mas malaking limit",
-  "SETTINGS_BILLING_SUBSCRIBED_TO_PLAN": "Naka-subscribe sa {plan}",
+  "SETTINGS_BILLING_SUBSCRIBED_TO_PLAN_PREFIX": "Naka-subscribe sa ",
   "SETTINGS_BILLING_MANAGE_PLAN_HINT": "Pamahalaan ang iyong plan, payment method, at invoices.",
   "COMMON_MANAGE": "Pamahalaan",
   "SETTINGS_BILLING_UNLOCK_PLUS_HEADING": "I-unlock ang higit pa gamit ang Snipp+",

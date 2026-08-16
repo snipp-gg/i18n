@@ -1155,7 +1155,7 @@
   "SETTINGS_BILLING_PRIORITY_MINUTES_EXCEEDED": "Minute prioritare depășite",
   "COMMON_LEARN_MORE": "Află mai multe",
   "SETTINGS_BILLING_UPGRADE_HINT": "Fă upgrade pentru limite mai mari",
-  "SETTINGS_BILLING_SUBSCRIBED_TO_PLAN": "Abonat la {plan}",
+  "SETTINGS_BILLING_SUBSCRIBED_TO_PLAN_PREFIX": "Abonat la ",
   "SETTINGS_BILLING_MANAGE_PLAN_HINT": "Gestionează-ți planul, metoda de plată și facturile.",
   "COMMON_MANAGE": "Gestionează",
   "SETTINGS_BILLING_UNLOCK_PLUS_HEADING": "Deblochează mai mult cu Snipp+",

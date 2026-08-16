@@ -1155,7 +1155,7 @@
   "SETTINGS_BILLING_PRIORITY_MINUTES_EXCEEDED": "Đã vượt số phút ưu tiên",
   "COMMON_LEARN_MORE": "Tìm hiểu thêm",
   "SETTINGS_BILLING_UPGRADE_HINT": "Nâng cấp để tăng giới hạn",
-  "SETTINGS_BILLING_SUBSCRIBED_TO_PLAN": "Đã đăng ký {plan}",
+  "SETTINGS_BILLING_SUBSCRIBED_TO_PLAN_PREFIX": "Đã đăng ký ",
   "SETTINGS_BILLING_MANAGE_PLAN_HINT": "Quản lý gói, phương thức thanh toán và hóa đơn của bạn.",
   "COMMON_MANAGE": "Quản lý",
   "SETTINGS_BILLING_UNLOCK_PLUS_HEADING": "Mở khóa thêm với Snipp+",

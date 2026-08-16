@@ -1155,7 +1155,7 @@
   "SETTINGS_BILLING_PRIORITY_MINUTES_EXCEEDED": "Prioriteettiminuutit ylitetty",
   "COMMON_LEARN_MORE": "Lue lisää",
   "SETTINGS_BILLING_UPGRADE_HINT": "Päivitä saadaksesi suuremmat rajat",
-  "SETTINGS_BILLING_SUBSCRIBED_TO_PLAN": "Tilattu: {plan}",
+  "SETTINGS_BILLING_SUBSCRIBED_TO_PLAN_PREFIX": "Tilattu: ",
   "SETTINGS_BILLING_MANAGE_PLAN_HINT": "Hallitse tilaustasi, maksutapaasi ja laskujasi.",
   "COMMON_MANAGE": "Hallitse",
   "SETTINGS_BILLING_UNLOCK_PLUS_HEADING": "Avaa enemmän Snipp+:lla",

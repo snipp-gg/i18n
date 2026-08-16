@@ -1155,7 +1155,7 @@
   "SETTINGS_BILLING_PRIORITY_MINUTES_EXCEEDED": "Приоритетните минути са надхвърлени",
   "COMMON_LEARN_MORE": "Научете повече",
   "SETTINGS_BILLING_UPGRADE_HINT": "Надстройте за увеличени лимити",
-  "SETTINGS_BILLING_SUBSCRIBED_TO_PLAN": "Абониран за {plan}",
+  "SETTINGS_BILLING_SUBSCRIBED_TO_PLAN_PREFIX": "Абониран за ",
   "SETTINGS_BILLING_MANAGE_PLAN_HINT": "Управлявайте плана, метода си за плащане и фактурите.",
   "COMMON_MANAGE": "Управление",
   "SETTINGS_BILLING_UNLOCK_PLUS_HEADING": "Отключете повече със Snipp+",

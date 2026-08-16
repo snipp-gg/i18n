@@ -1155,7 +1155,7 @@
   "SETTINGS_BILLING_PRIORITY_MINUTES_EXCEEDED": "Υπέρβαση λεπτών προτεραιότητας",
   "COMMON_LEARN_MORE": "Μάθετε περισσότερα",
   "SETTINGS_BILLING_UPGRADE_HINT": "Αναβαθμίστε για αυξημένα όρια",
-  "SETTINGS_BILLING_SUBSCRIBED_TO_PLAN": "Συνδρομητής σε {plan}",
+  "SETTINGS_BILLING_SUBSCRIBED_TO_PLAN_PREFIX": "Συνδρομητής σε ",
   "SETTINGS_BILLING_MANAGE_PLAN_HINT": "Διαχειριστείτε το πρόγραμμα, τη μέθοδο πληρωμής και τα τιμολόγιά σας.",
   "COMMON_MANAGE": "Διαχείριση",
   "SETTINGS_BILLING_UNLOCK_PLUS_HEADING": "Ξεκλειδώστε περισσότερα με το Snipp+",

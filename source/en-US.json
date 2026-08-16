@@ -1155,7 +1155,7 @@
   "SETTINGS_BILLING_PRIORITY_MINUTES_EXCEEDED": "Priority minutes exceeded",
   "COMMON_LEARN_MORE": "Learn more",
   "SETTINGS_BILLING_UPGRADE_HINT": "Upgrade for increased limits",
-  "SETTINGS_BILLING_SUBSCRIBED_TO_PLAN": "Subscribed to {plan}",
+  "SETTINGS_BILLING_SUBSCRIBED_TO_PLAN_PREFIX": "Subscribed to ",
   "SETTINGS_BILLING_MANAGE_PLAN_HINT": "Manage your plan, payment method and invoices.",
   "COMMON_MANAGE": "Manage",
   "SETTINGS_BILLING_UNLOCK_PLUS_HEADING": "Unlock more with Snipp+",

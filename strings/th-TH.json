@@ -1155,7 +1155,7 @@
   "SETTINGS_BILLING_PRIORITY_MINUTES_EXCEEDED": "เกินจำนวนนาทีลำดับความสำคัญ",
   "COMMON_LEARN_MORE": "ดูเพิ่มเติม",
   "SETTINGS_BILLING_UPGRADE_HINT": "อัปเกรดเพื่อเพิ่มขีดจำกัด",
-  "SETTINGS_BILLING_SUBSCRIBED_TO_PLAN": "สมัครสมาชิก {plan} แล้ว",
+  "SETTINGS_BILLING_SUBSCRIBED_TO_PLAN_PREFIX": "เป็นสมาชิก ",
   "SETTINGS_BILLING_MANAGE_PLAN_HINT": "จัดการแผน วิธีการชำระเงิน และใบแจ้งหนี้ของคุณ",
   "COMMON_MANAGE": "จัดการ",
   "SETTINGS_BILLING_UNLOCK_PLUS_HEADING": "ปลดล็อกเพิ่มเติมด้วย Snipp+",

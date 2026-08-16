@@ -1155,7 +1155,7 @@
   "SETTINGS_BILLING_PRIORITY_MINUTES_EXCEEDED": "Prioriteitsminuten overschreden",
   "COMMON_LEARN_MORE": "Meer info",
   "SETTINGS_BILLING_UPGRADE_HINT": "Upgrade voor hogere limieten",
-  "SETTINGS_BILLING_SUBSCRIBED_TO_PLAN": "Geabonneerd op {plan}",
+  "SETTINGS_BILLING_SUBSCRIBED_TO_PLAN_PREFIX": "Geabonneerd op ",
   "SETTINGS_BILLING_MANAGE_PLAN_HINT": "Beheer je abonnement, betaalmethode en facturen.",
   "COMMON_MANAGE": "Beheren",
   "SETTINGS_BILLING_UNLOCK_PLUS_HEADING": "Ontgrendel meer met Snipp+",

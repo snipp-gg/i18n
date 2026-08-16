@@ -1155,7 +1155,7 @@
   "SETTINGS_BILLING_PRIORITY_MINUTES_EXCEEDED": "Prioritní minuty překročeny",
   "COMMON_LEARN_MORE": "Zjistit více",
   "SETTINGS_BILLING_UPGRADE_HINT": "Vylepšete pro vyšší limity",
-  "SETTINGS_BILLING_SUBSCRIBED_TO_PLAN": "Předplaceno {plan}",
+  "SETTINGS_BILLING_SUBSCRIBED_TO_PLAN_PREFIX": "Předplaceno ",
   "SETTINGS_BILLING_MANAGE_PLAN_HINT": "Spravujte svůj plán, platební metodu a faktury.",
   "COMMON_MANAGE": "Spravovat",
   "SETTINGS_BILLING_UNLOCK_PLUS_HEADING": "Odemkněte více se Snipp+",

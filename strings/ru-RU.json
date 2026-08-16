@@ -1155,7 +1155,7 @@
   "SETTINGS_BILLING_PRIORITY_MINUTES_EXCEEDED": "Лимит приоритетных минут превышен",
   "COMMON_LEARN_MORE": "Подробнее",
   "SETTINGS_BILLING_UPGRADE_HINT": "Улучшите тариф для увеличения лимитов",
-  "SETTINGS_BILLING_SUBSCRIBED_TO_PLAN": "Подписка на {plan}",
+  "SETTINGS_BILLING_SUBSCRIBED_TO_PLAN_PREFIX": "Подписка на ",
   "SETTINGS_BILLING_MANAGE_PLAN_HINT": "Управляйте своим тарифом, способом оплаты и счетами.",
   "COMMON_MANAGE": "Управлять",
   "SETTINGS_BILLING_UNLOCK_PLUS_HEADING": "Откройте больше с Snipp+",

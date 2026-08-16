@@ -1155,7 +1155,7 @@
   "SETTINGS_BILLING_PRIORITY_MINUTES_EXCEEDED": "Ліміт пріоритетних хвилин перевищено",
   "COMMON_LEARN_MORE": "Дізнатися більше",
   "SETTINGS_BILLING_UPGRADE_HINT": "Перейдіть на платний план для збільшених лімітів",
-  "SETTINGS_BILLING_SUBSCRIBED_TO_PLAN": "Підписано на {plan}",
+  "SETTINGS_BILLING_SUBSCRIBED_TO_PLAN_PREFIX": "Підписано на ",
   "SETTINGS_BILLING_MANAGE_PLAN_HINT": "Керуйте своїм планом, способом оплати та рахунками.",
   "COMMON_MANAGE": "Керувати",
   "SETTINGS_BILLING_UNLOCK_PLUS_HEADING": "Розблокуйте більше зі Snipp+",

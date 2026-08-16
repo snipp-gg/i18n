@@ -1155,7 +1155,7 @@
   "SETTINGS_BILLING_PRIORITY_MINUTES_EXCEEDED": "Prioritné minúty prekročené",
   "COMMON_LEARN_MORE": "Zistiť viac",
   "SETTINGS_BILLING_UPGRADE_HINT": "Inovuj pre vyššie limity",
-  "SETTINGS_BILLING_SUBSCRIBED_TO_PLAN": "Predplatné na {plan}",
+  "SETTINGS_BILLING_SUBSCRIBED_TO_PLAN_PREFIX": "Predplatné na ",
   "SETTINGS_BILLING_MANAGE_PLAN_HINT": "Spravuj svoj plán, platobnú metódu a faktúry.",
   "COMMON_MANAGE": "Spravovať",
   "SETTINGS_BILLING_UNLOCK_PLUS_HEADING": "Odomkni viac so Snipp+",

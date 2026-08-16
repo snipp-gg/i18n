@@ -1155,7 +1155,7 @@
   "SETTINGS_BILLING_PRIORITY_MINUTES_EXCEEDED": "Öncelikli dakikalar aşıldı",
   "COMMON_LEARN_MORE": "Daha fazla bilgi",
   "SETTINGS_BILLING_UPGRADE_HINT": "Daha yüksek sınırlar için yükseltin",
-  "SETTINGS_BILLING_SUBSCRIBED_TO_PLAN": "{plan} aboneliğiniz var",
+  "SETTINGS_BILLING_SUBSCRIBED_TO_PLAN_PREFIX": "Aboneliğiniz: ",
   "SETTINGS_BILLING_MANAGE_PLAN_HINT": "Planınızı, ödeme yönteminizi ve faturalarınızı yönetin.",
   "COMMON_MANAGE": "Yönet",
   "SETTINGS_BILLING_UNLOCK_PLUS_HEADING": "Snipp+ ile daha fazlasının kilidini açın",

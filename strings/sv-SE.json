@@ -1155,7 +1155,7 @@
   "SETTINGS_BILLING_PRIORITY_MINUTES_EXCEEDED": "Prioritetsminuter överskridna",
   "COMMON_LEARN_MORE": "Läs mer",
   "SETTINGS_BILLING_UPGRADE_HINT": "Uppgradera för högre gränser",
-  "SETTINGS_BILLING_SUBSCRIBED_TO_PLAN": "Prenumererar på {plan}",
+  "SETTINGS_BILLING_SUBSCRIBED_TO_PLAN_PREFIX": "Prenumererar på ",
   "SETTINGS_BILLING_MANAGE_PLAN_HINT": "Hantera din plan, betalningsmetod och fakturor.",
   "COMMON_MANAGE": "Hantera",
   "SETTINGS_BILLING_UNLOCK_PLUS_HEADING": "Lås upp mer med Snipp+",

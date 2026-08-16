@@ -1155,7 +1155,7 @@
   "SETTINGS_BILLING_PRIORITY_MINUTES_EXCEEDED": "우선 스트리밍 시간 초과",
   "COMMON_LEARN_MORE": "자세히 보기",
   "SETTINGS_BILLING_UPGRADE_HINT": "업그레이드하고 한도를 늘리세요",
-  "SETTINGS_BILLING_SUBSCRIBED_TO_PLAN": "{plan} 구독 중",
+  "SETTINGS_BILLING_SUBSCRIBED_TO_PLAN_PREFIX": "구독 중인 요금제: ",
   "SETTINGS_BILLING_MANAGE_PLAN_HINT": "요금제, 결제 수단, 청구서를 관리하세요.",
   "COMMON_MANAGE": "관리",
   "SETTINGS_BILLING_UNLOCK_PLUS_HEADING": "Snipp+로 더 많은 것을 잠금 해제하세요",

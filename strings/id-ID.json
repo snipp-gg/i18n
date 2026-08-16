@@ -1155,7 +1155,7 @@
   "SETTINGS_BILLING_PRIORITY_MINUTES_EXCEEDED": "Menit prioritas terlampaui",
   "COMMON_LEARN_MORE": "Pelajari lebih lanjut",
   "SETTINGS_BILLING_UPGRADE_HINT": "Tingkatkan untuk batas yang lebih besar",
-  "SETTINGS_BILLING_SUBSCRIBED_TO_PLAN": "Berlangganan {plan}",
+  "SETTINGS_BILLING_SUBSCRIBED_TO_PLAN_PREFIX": "Berlangganan ",
   "SETTINGS_BILLING_MANAGE_PLAN_HINT": "Kelola paket, metode pembayaran, dan faktur Anda.",
   "COMMON_MANAGE": "Kelola",
   "SETTINGS_BILLING_UNLOCK_PLUS_HEADING": "Buka lebih banyak dengan Snipp+",

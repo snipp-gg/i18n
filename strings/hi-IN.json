@@ -1155,7 +1155,7 @@
   "SETTINGS_BILLING_PRIORITY_MINUTES_EXCEEDED": "प्राथमिकता मिनट सीमा पार हो गई",
   "COMMON_LEARN_MORE": "और जानें",
   "SETTINGS_BILLING_UPGRADE_HINT": "अधिक सीमाओं के लिए अपग्रेड करें",
-  "SETTINGS_BILLING_SUBSCRIBED_TO_PLAN": "{plan} की सदस्यता ली गई",
+  "SETTINGS_BILLING_SUBSCRIBED_TO_PLAN_PREFIX": "आपकी सदस्यता: ",
   "SETTINGS_BILLING_MANAGE_PLAN_HINT": "अपना प्लान, भुगतान का तरीका और इनवॉइस मैनेज करें।",
   "COMMON_MANAGE": "मैनेज करें",
   "SETTINGS_BILLING_UNLOCK_PLUS_HEADING": "Snipp+ के साथ और भी बहुत कुछ अनलॉक करें",
