@@ -1200,6 +1200,7 @@
   "SETTINGS_BILLING_RESUMES_ON": "Thanh toán tiếp tục vào {date}",
   "SETTINGS_BILLING_PAST_DUE": "Thanh toán quá hạn. Hãy cập nhật thông tin thanh toán.",
   "SETTINGS_BILLING_FORCED_TIER_HINT": "Đăng ký này được Snipp cung cấp cho bạn. Không cần thanh toán.",
+  "SETTINGS_BILLING_GIFTED_TIER_HINT": "Đăng ký này đến từ một quà tặng mà bạn đã đổi. Không cần thanh toán.",
   "SETTINGS_BILLING_CREDIT_HEADING": "Gói đã lưu",
   "SETTINGS_BILLING_CREDIT_HINT": "Quà tặng bạn đã nhận khi đang dùng gói cao hơn. Mỗi quà sẽ bắt đầu khi gói hiện tại của bạn kết thúc.",
   "SETTINGS_BILLING_CREDIT_APPLIES_ON": "Bắt đầu vào {date}",

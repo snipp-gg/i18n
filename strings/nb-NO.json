@@ -1200,6 +1200,7 @@
   "SETTINGS_BILLING_RESUMES_ON": "Faktureringen gjenopptas {date}",
   "SETTINGS_BILLING_PAST_DUE": "Betaling forfalt. Oppdater faktureringsinformasjon.",
   "SETTINGS_BILLING_FORCED_TIER_HINT": "Dette abonnementet er gitt deg av Snipp. Ingen betaling kreves.",
+  "SETTINGS_BILLING_GIFTED_TIER_HINT": "Dette abonnementet kommer fra en gave du har løst inn. Ingen betaling kreves.",
   "SETTINGS_BILLING_CREDIT_HEADING": "Abonnementskreditt",
   "SETTINGS_BILLING_CREDIT_HINT": "Gaver du har tatt imot mens du hadde en høyere plan. Hver av dem starter når den nåværende planen din slutter.",
   "SETTINGS_BILLING_CREDIT_APPLIES_ON": "Starter {date}",

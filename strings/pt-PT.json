@@ -1200,6 +1200,7 @@
   "SETTINGS_BILLING_RESUMES_ON": "A faturação recomeça em {date}",
   "SETTINGS_BILLING_PAST_DUE": "Pagamento em atraso. Atualize as informações de faturação.",
   "SETTINGS_BILLING_FORCED_TIER_HINT": "Esta subscrição foi-lhe fornecida pelo Snipp. Sem pagamento necessário.",
+  "SETTINGS_BILLING_GIFTED_TIER_HINT": "Esta subscrição veio de uma oferta que resgatou. Sem pagamento necessário.",
   "SETTINGS_BILLING_CREDIT_HEADING": "Crédito de subscrição",
   "SETTINGS_BILLING_CREDIT_HINT": "Ofertas aceites enquanto estava num plano superior. Cada uma começa quando o seu plano atual terminar.",
   "SETTINGS_BILLING_CREDIT_APPLIES_ON": "Começa em {date}",

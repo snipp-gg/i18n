@@ -1200,6 +1200,7 @@
   "SETTINGS_BILLING_RESUMES_ON": "Оплата возобновляется {date}",
   "SETTINGS_BILLING_PAST_DUE": "Оплата просрочена. Обновите платёжные данные.",
   "SETTINGS_BILLING_FORCED_TIER_HINT": "Эта подписка предоставлена вам от Snipp. Оплата не требуется.",
+  "SETTINGS_BILLING_GIFTED_TIER_HINT": "Эта подписка получена из подарка, который вы активировали. Оплата не требуется.",
   "SETTINGS_BILLING_CREDIT_HEADING": "Резерв подписки",
   "SETTINGS_BILLING_CREDIT_HINT": "Подарки, принятые, пока у вас был более высокий тариф. Каждый начнёт действовать, когда закончится ваш текущий тариф.",
   "SETTINGS_BILLING_CREDIT_APPLIES_ON": "Начнёт действовать {date}",

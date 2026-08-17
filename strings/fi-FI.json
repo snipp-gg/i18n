@@ -1200,6 +1200,7 @@
   "SETTINGS_BILLING_RESUMES_ON": "Laskutus jatkuu {date}",
   "SETTINGS_BILLING_PAST_DUE": "Maksu myöhässä. Päivitä laskutustiedot.",
   "SETTINGS_BILLING_FORCED_TIER_HINT": "Snipp on tarjonnut tämän tilauksen sinulle. Maksua ei vaadita.",
+  "SETTINGS_BILLING_GIFTED_TIER_HINT": "Tämä tilaus on peräisin lunastamastasi lahjasta. Maksua ei vaadita.",
   "SETTINGS_BILLING_CREDIT_HEADING": "Tilaushyvitys",
   "SETTINGS_BILLING_CREDIT_HINT": "Lahjat, jotka hyväksyit, kun sinulla oli korkeamman tason tilaus. Jokainen alkaa, kun nykyinen tilauksesi päättyy.",
   "SETTINGS_BILLING_CREDIT_APPLIES_ON": "Alkaa {date}",

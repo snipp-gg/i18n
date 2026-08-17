@@ -1200,6 +1200,7 @@
   "SETTINGS_BILLING_RESUMES_ON": "{date} に請求再開",
   "SETTINGS_BILLING_PAST_DUE": "支払いが遅延しています。支払い情報を更新してください。",
   "SETTINGS_BILLING_FORCED_TIER_HINT": "このサブスクリプションは Snipp から提供されています。お支払いは不要です。",
+  "SETTINGS_BILLING_GIFTED_TIER_HINT": "このサブスクリプションは引き換えたギフトによるものです。お支払いは不要です。",
   "SETTINGS_BILLING_CREDIT_HEADING": "サブスクリプションクレジット",
   "SETTINGS_BILLING_CREDIT_HINT": "上位のプランをご利用中に受け取ったギフトです。それぞれ現在のプランが終了した時点で開始されます。",
   "SETTINGS_BILLING_CREDIT_APPLIES_ON": "{date} に開始",
