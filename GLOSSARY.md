@@ -440,3 +440,40 @@ Source of truth is `Website/utils/i18n/strings/<locale>.json`; `i18n/strings/` m
 | uk-UA | Тижневий ліміт |
 | vi-VN | Giới hạn hàng tuần |
 | zh-CN | 每周限制 |
+
+
+## Subscription Credit
+
+`SETTINGS_BILLING_CREDIT_HEADING` = "Subscription credit"
+
+| Locale | Value |
+| --- | --- |
+| bg-BG | Абонаментен кредит |
+| cs-CZ | Kredit na předplatné |
+| de-DE | Abo-Guthaben |
+| el-GR | Πίστωση συνδρομής |
+| es-ES | Crédito de suscripción |
+| fi-FI | Tilaushyvitys |
+| fil-PH | Kredito sa subscription |
+| fr-FR | Crédit d'abonnement |
+| hi-IN | सब्सक्रिप्शन क्रेडिट |
+| hr-HR | Pretplatnički kredit |
+| id-ID | Kredit langganan |
+| it-IT | Credito abbonamento |
+| ja-JP | サブスクリプションクレジット |
+| ko-KR | 구독 크레딧 |
+| nb-NO | Abonnementskreditt |
+| nl-NL | Abonnementstegoed |
+| pl-PL | Kredyt subskrypcyjny |
+| pt-BR | Crédito de assinatura |
+| pt-PT | Crédito de subscrição |
+| ro-RO | Credit de abonament |
+| ru-RU | Резерв подписки |
+| sk-SK | Kredit predplatného |
+| sr-RS | Kredit pretplate |
+| sv-SE | Tillgodohavande |
+| th-TH | เครดิตการสมัครสมาชิก |
+| tr-TR | Abonelik kredisi |
+| uk-UA | Резерв підписки |
+| vi-VN | Gói đã lưu |
+| zh-CN | 待生效的订阅 |
