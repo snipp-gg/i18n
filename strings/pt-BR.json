@@ -1200,6 +1200,7 @@
   "SETTINGS_BILLING_RESUMES_ON": "Billing resumes on {date}",
   "SETTINGS_BILLING_PAST_DUE": "Pagamento atrasado. Atualize seus dados de cobrança.",
   "SETTINGS_BILLING_FORCED_TIER_HINT": "Esta assinatura foi fornecida a você pelo Snipp. Não é necessário pagamento.",
+  "SETTINGS_BILLING_GIFTED_TIER_HINT": "This subscription came from a gift you redeemed. No payment required.",
   "SETTINGS_BILLING_CREDIT_HEADING": "Subscription credit",
   "SETTINGS_BILLING_CREDIT_HINT": "Gifts accepted while you were on a higher plan. Each one starts when your current plan ends.",
   "SETTINGS_BILLING_CREDIT_APPLIES_ON": "Starts on {date}",
