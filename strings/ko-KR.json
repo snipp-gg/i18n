@@ -1201,7 +1201,6 @@
   "SETTINGS_BILLING_PAST_DUE": "결제가 연체되었습니다. 결제 정보를 업데이트하세요.",
   "SETTINGS_BILLING_FORCED_TIER_HINT": "이 구독은 Snipp에서 제공한 것입니다. 결제가 필요하지 않습니다.",
   "SETTINGS_BILLING_GIFTED_TIER_HINT": "이 구독은 등록한 선물로 제공된 것입니다. 결제가 필요하지 않습니다.",
-  "SETTINGS_BILLING_GIFT_HINT": "누군가에게 구독 선물하기",
   "SETTINGS_BILLING_CREDIT_HEADING": "구독 크레딧",
   "SETTINGS_BILLING_CREDIT_HINT": "지금까지 받은 선물입니다. 각 선물은 현재 요금제가 종료되면 시작됩니다.",
   "SETTINGS_BILLING_CREDIT_APPLIES_ON": "{date}에 시작",

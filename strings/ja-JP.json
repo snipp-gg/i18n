@@ -1201,7 +1201,6 @@
   "SETTINGS_BILLING_PAST_DUE": "支払いが遅延しています。支払い情報を更新してください。",
   "SETTINGS_BILLING_FORCED_TIER_HINT": "このサブスクリプションは Snipp から提供されています。お支払いは不要です。",
   "SETTINGS_BILLING_GIFTED_TIER_HINT": "このサブスクリプションは引き換えたギフトによるものです。お支払いは不要です。",
-  "SETTINGS_BILLING_GIFT_HINT": "サブスクリプションを誰かに贈る",
   "SETTINGS_BILLING_CREDIT_HEADING": "サブスクリプションクレジット",
   "SETTINGS_BILLING_CREDIT_HINT": "これまでに受け取ったギフトです。それぞれ現在のプランが終了した時点で開始されます。",
   "SETTINGS_BILLING_CREDIT_APPLIES_ON": "{date} に開始",

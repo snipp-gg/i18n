@@ -1201,7 +1201,6 @@
   "SETTINGS_BILLING_PAST_DUE": "Zahlung überfällig. Zahlungsdaten aktualisieren.",
   "SETTINGS_BILLING_FORCED_TIER_HINT": "Dieses Abonnement wurde dir von Snipp zur Verfügung gestellt. Keine Zahlung erforderlich.",
   "SETTINGS_BILLING_GIFTED_TIER_HINT": "Dieses Abonnement stammt aus einem Geschenk, das du eingelöst hast. Keine Zahlung erforderlich.",
-  "SETTINGS_BILLING_GIFT_HINT": "Verschenke ein Abo an jemanden",
   "SETTINGS_BILLING_CREDIT_HEADING": "Abo-Guthaben",
   "SETTINGS_BILLING_CREDIT_HINT": "Geschenke, die du angenommen hast. Jedes startet, sobald dein aktueller Tarif endet.",
   "SETTINGS_BILLING_CREDIT_APPLIES_ON": "Startet am {date}",

@@ -1201,7 +1201,6 @@
   "SETTINGS_BILLING_PAST_DUE": "भुगतान बकाया है। बिलिंग जानकारी अपडेट करें।",
   "SETTINGS_BILLING_FORCED_TIER_HINT": "यह सब्सक्रिप्शन आपको Snipp द्वारा प्रदान किया गया है। किसी भुगतान की आवश्यकता नहीं है।",
   "SETTINGS_BILLING_GIFTED_TIER_HINT": "यह सब्सक्रिप्शन आपके द्वारा रिडीम किए गए गिफ़्ट से मिला है। किसी भुगतान की आवश्यकता नहीं है।",
-  "SETTINGS_BILLING_GIFT_HINT": "किसी को सब्सक्रिप्शन गिफ़्ट करें",
   "SETTINGS_BILLING_CREDIT_HEADING": "सब्सक्रिप्शन क्रेडिट",
   "SETTINGS_BILLING_CREDIT_HINT": "वे गिफ्ट जो आपने स्वीकार किए हैं। हर एक आपके मौजूदा प्लान के समाप्त होने पर शुरू होगा।",
   "SETTINGS_BILLING_CREDIT_APPLIES_ON": "{date} से शुरू होगा",

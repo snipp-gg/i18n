@@ -1201,7 +1201,6 @@
   "SETTINGS_BILLING_PAST_DUE": "Betalning försenad. Uppdatera dina betalningsuppgifter.",
   "SETTINGS_BILLING_FORCED_TIER_HINT": "Denna prenumeration har tillhandahållits dig av Snipp. Ingen betalning krävs.",
   "SETTINGS_BILLING_GIFTED_TIER_HINT": "Denna prenumeration kommer från en present du har löst in. Ingen betalning krävs.",
-  "SETTINGS_BILLING_GIFT_HINT": "Ge bort en prenumeration till någon",
   "SETTINGS_BILLING_CREDIT_HEADING": "Tillgodohavande",
   "SETTINGS_BILLING_CREDIT_HINT": "Presenter som du tagit emot. Var och en börjar när din nuvarande plan upphör.",
   "SETTINGS_BILLING_CREDIT_APPLIES_ON": "Börjar den {date}",

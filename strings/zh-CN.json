@@ -1201,7 +1201,6 @@
   "SETTINGS_BILLING_PAST_DUE": "付款已逾期。请更新账单信息。",
   "SETTINGS_BILLING_FORCED_TIER_HINT": "此订阅由 Snipp 提供给您。无需付款。",
   "SETTINGS_BILLING_GIFTED_TIER_HINT": "此订阅来自您兑换的礼品。无需付款。",
-  "SETTINGS_BILLING_GIFT_HINT": "赠送订阅给他人",
   "SETTINGS_BILLING_CREDIT_HEADING": "待生效的订阅",
   "SETTINGS_BILLING_CREDIT_HINT": "您已接受的礼物。每份礼物将在当前计划结束后开始生效。",
   "SETTINGS_BILLING_CREDIT_APPLIES_ON": "将于 {date} 开始生效",

@@ -1201,7 +1201,6 @@
   "SETTINGS_BILLING_PAST_DUE": "Betaling achterstallig. Werk je facturatiegegevens bij.",
   "SETTINGS_BILLING_FORCED_TIER_HINT": "Dit abonnement is je door Snipp verstrekt. Geen betaling vereist.",
   "SETTINGS_BILLING_GIFTED_TIER_HINT": "Dit abonnement komt van een cadeau dat je hebt ingewisseld. Geen betaling vereist.",
-  "SETTINGS_BILLING_GIFT_HINT": "Geef iemand een abonnement cadeau",
   "SETTINGS_BILLING_CREDIT_HEADING": "Abonnementstegoed",
   "SETTINGS_BILLING_CREDIT_HINT": "Cadeaus die je hebt geaccepteerd. Elk cadeau gaat in wanneer je huidige abonnement eindigt.",
   "SETTINGS_BILLING_CREDIT_APPLIES_ON": "Gaat in op {date}",

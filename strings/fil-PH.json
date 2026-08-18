@@ -1201,7 +1201,6 @@
   "SETTINGS_BILLING_PAST_DUE": "Lampas na sa due ang payment. I-update ang billing info.",
   "SETTINGS_BILLING_FORCED_TIER_HINT": "Ibinigay sa iyo ang subscription na ito ng Snipp. Walang bayad na kinakailangan.",
   "SETTINGS_BILLING_GIFTED_TIER_HINT": "Galing ang subscription na ito sa regalong na-redeem mo. Walang bayad na kinakailangan.",
-  "SETTINGS_BILLING_GIFT_HINT": "Mag-regalo ng subscription sa iba",
   "SETTINGS_BILLING_CREDIT_HEADING": "Kredito sa subscription",
   "SETTINGS_BILLING_CREDIT_HINT": "Mga gift na tinanggap mo. Magsisimula ang bawat isa kapag natapos ang kasalukuyang plan mo.",
   "SETTINGS_BILLING_CREDIT_APPLIES_ON": "Magsisimula sa {date}",

@@ -1201,7 +1201,6 @@
   "SETTINGS_BILLING_PAST_DUE": "Pagamento em atraso. Atualize as informações de faturação.",
   "SETTINGS_BILLING_FORCED_TIER_HINT": "Esta subscrição foi-lhe fornecida pelo Snipp. Sem pagamento necessário.",
   "SETTINGS_BILLING_GIFTED_TIER_HINT": "Esta subscrição veio de uma oferta que resgatou. Sem pagamento necessário.",
-  "SETTINGS_BILLING_GIFT_HINT": "Ofereça uma subscrição a alguém",
   "SETTINGS_BILLING_CREDIT_HEADING": "Crédito de subscrição",
   "SETTINGS_BILLING_CREDIT_HINT": "Ofertas que aceitou. Cada uma começa quando o seu plano atual terminar.",
   "SETTINGS_BILLING_CREDIT_APPLIES_ON": "Começa em {date}",

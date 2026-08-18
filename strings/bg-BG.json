@@ -1201,7 +1201,6 @@
   "SETTINGS_BILLING_PAST_DUE": "Просрочено плащане. Актуализирайте данните за плащане.",
   "SETTINGS_BILLING_FORCED_TIER_HINT": "Този абонамент ви е предоставен от Snipp. Не се изисква плащане.",
   "SETTINGS_BILLING_GIFTED_TIER_HINT": "Този абонамент идва от подарък, който сте активирали. Не се изисква плащане.",
-  "SETTINGS_BILLING_GIFT_HINT": "Подарете абонамент на някого",
   "SETTINGS_BILLING_CREDIT_HEADING": "Абонаментен кредит",
   "SETTINGS_BILLING_CREDIT_HINT": "Подаръци, които сте приели. Всеки от тях започва, когато текущият ви план приключи.",
   "SETTINGS_BILLING_CREDIT_APPLIES_ON": "Започва на {date}",

@@ -1201,7 +1201,6 @@
   "SETTINGS_BILLING_PAST_DUE": "Pagamento scaduto. Aggiorna i dati di fatturazione.",
   "SETTINGS_BILLING_FORCED_TIER_HINT": "Questo abbonamento ti è stato fornito da Snipp. Nessun pagamento richiesto.",
   "SETTINGS_BILLING_GIFTED_TIER_HINT": "Questo abbonamento proviene da un regalo che hai riscattato. Nessun pagamento richiesto.",
-  "SETTINGS_BILLING_GIFT_HINT": "Regala un abbonamento a qualcuno",
   "SETTINGS_BILLING_CREDIT_HEADING": "Credito abbonamento",
   "SETTINGS_BILLING_CREDIT_HINT": "Regali che hai accettato. Ognuno inizia quando termina il tuo piano attuale.",
   "SETTINGS_BILLING_CREDIT_APPLIES_ON": "Inizia il {date}",

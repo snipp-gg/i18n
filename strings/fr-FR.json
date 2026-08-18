@@ -1201,7 +1201,6 @@
   "SETTINGS_BILLING_PAST_DUE": "Paiement en retard. Mettez à jour vos informations de paiement.",
   "SETTINGS_BILLING_FORCED_TIER_HINT": "Cet abonnement vous a été offert par Snipp. Aucun paiement requis.",
   "SETTINGS_BILLING_GIFTED_TIER_HINT": "Cet abonnement provient d'un cadeau que vous avez utilisé. Aucun paiement requis.",
-  "SETTINGS_BILLING_GIFT_HINT": "Offrez un abonnement à quelqu'un",
   "SETTINGS_BILLING_CREDIT_HEADING": "Crédit d'abonnement",
   "SETTINGS_BILLING_CREDIT_HINT": "Cadeaux que vous avez acceptés. Chacun commencera à la fin de votre forfait actuel.",
   "SETTINGS_BILLING_CREDIT_APPLIES_ON": "Commence le {date}",

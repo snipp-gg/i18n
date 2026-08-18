@@ -1201,7 +1201,6 @@
   "SETTINGS_BILLING_PAST_DUE": "Plaćanje je u kašnjenju. Ažurirajte podatke o naplati.",
   "SETTINGS_BILLING_FORCED_TIER_HINT": "Ovu pretplatu vam je obezbedio Snipp. Plaćanje nije potrebno.",
   "SETTINGS_BILLING_GIFTED_TIER_HINT": "Ova pretplata potiče od poklona koji ste iskoristili. Plaćanje nije potrebno.",
-  "SETTINGS_BILLING_GIFT_HINT": "Poklonite pretplatu nekome",
   "SETTINGS_BILLING_CREDIT_HEADING": "Kredit pretplate",
   "SETTINGS_BILLING_CREDIT_HINT": "Pokloni koje ste prihvatili. Svaki počinje kada se završi vaš trenutni plan.",
   "SETTINGS_BILLING_CREDIT_APPLIES_ON": "Počinje {date}",
