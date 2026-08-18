@@ -345,7 +345,7 @@
   "MODAL_EMBED_BUILDER_ERROR_INVALID_HEX": "Unesi valjanu heksadecimalnu boju (npr. #FF5733).",
   "MODAL_EMBED_BUILDER_TOAST_SAVED": "Postavke ugradnje spremljene!",
   "MODAL_EMBED_BUILDER_TOAST_SAVE_FAILED": "Spremanje postavki ugradnje nije uspjelo.",
-  "MODAL_EMBED_BUILDER_HEADING": "Graditelj ugradnji",
+  "MODAL_EMBED_BUILDER_HEADING": "Prilagođene ugradnje",
   "MODAL_EMBED_BUILDER_DESC": "Prilagodi kako se tvoje podijeljene objave prikazuju pri slanju (Discord, X, Reddit itd.).",
   "MODAL_EMBED_BUILDER_ENABLE_LABEL": "Omogući prilagođene ugradnje",
   "MODAL_EMBED_BUILDER_SMALL_TEXT_LABEL": "Sitni tekst",

@@ -345,7 +345,7 @@
   "MODAL_EMBED_BUILDER_ERROR_INVALID_HEX": "Lütfen geçerli bir hex renk kodu girin (ör. #FF5733).",
   "MODAL_EMBED_BUILDER_TOAST_SAVED": "Embed ayarları kaydedildi!",
   "MODAL_EMBED_BUILDER_TOAST_SAVE_FAILED": "Embed ayarları kaydedilemedi.",
-  "MODAL_EMBED_BUILDER_HEADING": "Embed Oluşturucu",
+  "MODAL_EMBED_BUILDER_HEADING": "Özel Embedler",
   "MODAL_EMBED_BUILDER_DESC": "Paylaştığınız gönderilerin gönderildiğinde nasıl göründüğünü özelleştirin (Discord, X, Reddit vb.).",
   "MODAL_EMBED_BUILDER_ENABLE_LABEL": "Özel Embed'leri Etkinleştir",
   "MODAL_EMBED_BUILDER_SMALL_TEXT_LABEL": "Küçük Metin",

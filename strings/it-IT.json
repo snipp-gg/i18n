@@ -345,7 +345,7 @@
   "MODAL_EMBED_BUILDER_ERROR_INVALID_HEX": "Inserisci un colore esadecimale valido (es. #FF5733).",
   "MODAL_EMBED_BUILDER_TOAST_SAVED": "Impostazioni embed salvate!",
   "MODAL_EMBED_BUILDER_TOAST_SAVE_FAILED": "Impossibile salvare le impostazioni embed.",
-  "MODAL_EMBED_BUILDER_HEADING": "Editor embed",
+  "MODAL_EMBED_BUILDER_HEADING": "Embed personalizzati",
   "MODAL_EMBED_BUILDER_DESC": "Personalizza l'aspetto dei tuoi post condivisi quando vengono inviati (Discord, X, Reddit, ecc).",
   "MODAL_EMBED_BUILDER_ENABLE_LABEL": "Abilita embed personalizzati",
   "MODAL_EMBED_BUILDER_SMALL_TEXT_LABEL": "Testo piccolo",

@@ -345,7 +345,7 @@
   "MODAL_EMBED_BUILDER_ERROR_INVALID_HEX": "Introduce un color hexadecimal válido (p. ej. #FF5733).",
   "MODAL_EMBED_BUILDER_TOAST_SAVED": "¡Ajustes de incrustación guardados!",
   "MODAL_EMBED_BUILDER_TOAST_SAVE_FAILED": "No se pudieron guardar los ajustes de incrustación.",
-  "MODAL_EMBED_BUILDER_HEADING": "Creador de Incrustaciones",
+  "MODAL_EMBED_BUILDER_HEADING": "Inserciones Personalizadas",
   "MODAL_EMBED_BUILDER_DESC": "Personaliza cómo aparecen tus publicaciones compartidas al enviarlas (Discord, X, Reddit, etc.).",
   "MODAL_EMBED_BUILDER_ENABLE_LABEL": "Activar Incrustaciones Personalizadas",
   "MODAL_EMBED_BUILDER_SMALL_TEXT_LABEL": "Texto Pequeño",

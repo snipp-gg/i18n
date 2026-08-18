@@ -345,7 +345,7 @@
   "MODAL_EMBED_BUILDER_ERROR_INVALID_HEX": "Ange en giltig hexfärg (t.ex. #FF5733).",
   "MODAL_EMBED_BUILDER_TOAST_SAVED": "Inbäddningsinställningar sparade!",
   "MODAL_EMBED_BUILDER_TOAST_SAVE_FAILED": "Kunde inte spara inbäddningsinställningar.",
-  "MODAL_EMBED_BUILDER_HEADING": "Inbäddningsbyggare",
+  "MODAL_EMBED_BUILDER_HEADING": "Anpassade inbäddningar",
   "MODAL_EMBED_BUILDER_DESC": "Anpassa hur dina delade inlägg visas när de skickas (Discord, X, Reddit osv.).",
   "MODAL_EMBED_BUILDER_ENABLE_LABEL": "Aktivera anpassade inbäddningar",
   "MODAL_EMBED_BUILDER_SMALL_TEXT_LABEL": "Liten text",

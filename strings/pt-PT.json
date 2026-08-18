@@ -345,7 +345,7 @@
   "MODAL_EMBED_BUILDER_ERROR_INVALID_HEX": "Por favor introduza uma cor hexadecimal válida (ex.: #FF5733).",
   "MODAL_EMBED_BUILDER_TOAST_SAVED": "Definições de embed guardadas!",
   "MODAL_EMBED_BUILDER_TOAST_SAVE_FAILED": "Falha ao guardar definições de embed.",
-  "MODAL_EMBED_BUILDER_HEADING": "Criador de Embeds",
+  "MODAL_EMBED_BUILDER_HEADING": "Embeds Personalizados",
   "MODAL_EMBED_BUILDER_DESC": "Personalize como as suas publicações partilhadas aparecem quando enviadas (Discord, X, Reddit, etc.).",
   "MODAL_EMBED_BUILDER_ENABLE_LABEL": "Ativar Embeds Personalizados",
   "MODAL_EMBED_BUILDER_SMALL_TEXT_LABEL": "Texto Pequeno",

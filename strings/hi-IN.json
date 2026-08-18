@@ -345,7 +345,7 @@
   "MODAL_EMBED_BUILDER_ERROR_INVALID_HEX": "कृपया एक मान्य hex कलर डालें (जैसे #FF5733)।",
   "MODAL_EMBED_BUILDER_TOAST_SAVED": "एम्बेड सेटिंग्स सेव हो गईं!",
   "MODAL_EMBED_BUILDER_TOAST_SAVE_FAILED": "एम्बेड सेटिंग्स सेव करने में विफल रहे।",
-  "MODAL_EMBED_BUILDER_HEADING": "एम्बेड बिल्डर",
+  "MODAL_EMBED_BUILDER_HEADING": "कस्टम एम्बेड्स",
   "MODAL_EMBED_BUILDER_DESC": "अपनी शेयर की गई पोस्ट भेजे जाने पर कैसी दिखें, यह कस्टमाइज़ करें (Discord, X, Reddit, वगैरह)।",
   "MODAL_EMBED_BUILDER_ENABLE_LABEL": "कस्टम एम्बेड चालू करें",
   "MODAL_EMBED_BUILDER_SMALL_TEXT_LABEL": "छोटा टेक्स्ट",

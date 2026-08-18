@@ -345,7 +345,7 @@
   "MODAL_EMBED_BUILDER_ERROR_INVALID_HEX": "Masukkan warna hex yang valid (mis. #FF5733).",
   "MODAL_EMBED_BUILDER_TOAST_SAVED": "Pengaturan embed disimpan!",
   "MODAL_EMBED_BUILDER_TOAST_SAVE_FAILED": "Gagal menyimpan pengaturan embed.",
-  "MODAL_EMBED_BUILDER_HEADING": "Pembuat Embed",
+  "MODAL_EMBED_BUILDER_HEADING": "Embed Kustom",
   "MODAL_EMBED_BUILDER_DESC": "Sesuaikan tampilan postingan yang Anda bagikan saat dikirim (Discord, X, Reddit, dll).",
   "MODAL_EMBED_BUILDER_ENABLE_LABEL": "Aktifkan Embed Kustom",
   "MODAL_EMBED_BUILDER_SMALL_TEXT_LABEL": "Teks Kecil",

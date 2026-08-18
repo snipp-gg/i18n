@@ -345,7 +345,7 @@
   "MODAL_EMBED_BUILDER_ERROR_INVALID_HEX": "Syötä kelvollinen heksaväri (esim. #FF5733).",
   "MODAL_EMBED_BUILDER_TOAST_SAVED": "Upotusasetukset tallennettu!",
   "MODAL_EMBED_BUILDER_TOAST_SAVE_FAILED": "Upotusasetusten tallennus epäonnistui.",
-  "MODAL_EMBED_BUILDER_HEADING": "Upotuksen rakentaja",
+  "MODAL_EMBED_BUILDER_HEADING": "Mukautetut upotukset",
   "MODAL_EMBED_BUILDER_DESC": "Mukauta, miltä jaetut julkaisusi näyttävät, kun niitä lähetetään (Discord, X, Reddit jne.).",
   "MODAL_EMBED_BUILDER_ENABLE_LABEL": "Ota mukautetut upotukset käyttöön",
   "MODAL_EMBED_BUILDER_SMALL_TEXT_LABEL": "Pieni teksti",

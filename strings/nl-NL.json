@@ -345,7 +345,7 @@
   "MODAL_EMBED_BUILDER_ERROR_INVALID_HEX": "Voer een geldige hexkleur in (bijv. #FF5733).",
   "MODAL_EMBED_BUILDER_TOAST_SAVED": "Embed-instellingen opgeslagen!",
   "MODAL_EMBED_BUILDER_TOAST_SAVE_FAILED": "Embed-instellingen opslaan mislukt.",
-  "MODAL_EMBED_BUILDER_HEADING": "Embed Builder",
+  "MODAL_EMBED_BUILDER_HEADING": "Aangepaste embeds",
   "MODAL_EMBED_BUILDER_DESC": "Bepaal hoe je gedeelde posts eruitzien wanneer ze verstuurd worden (Discord, X, Reddit, enz.).",
   "MODAL_EMBED_BUILDER_ENABLE_LABEL": "Aangepaste embeds inschakelen",
   "MODAL_EMBED_BUILDER_SMALL_TEXT_LABEL": "Kleine tekst",

@@ -345,7 +345,7 @@
   "MODAL_EMBED_BUILDER_ERROR_INVALID_HEX": "Maglagay ng valid na hex color (hal. #FF5733).",
   "MODAL_EMBED_BUILDER_TOAST_SAVED": "Na-save ang embed settings!",
   "MODAL_EMBED_BUILDER_TOAST_SAVE_FAILED": "Hindi na-save ang embed settings.",
-  "MODAL_EMBED_BUILDER_HEADING": "Embed Builder",
+  "MODAL_EMBED_BUILDER_HEADING": "Mga Custom na Embed",
   "MODAL_EMBED_BUILDER_DESC": "I-customize kung paano lumalabas ang iyong mga shared post kapag ipinadala (Discord, X, Reddit, atbp).",
   "MODAL_EMBED_BUILDER_ENABLE_LABEL": "I-enable ang Custom Embeds",
   "MODAL_EMBED_BUILDER_SMALL_TEXT_LABEL": "Maliit na Teksto",

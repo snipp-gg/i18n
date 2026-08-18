@@ -345,7 +345,7 @@
   "MODAL_EMBED_BUILDER_ERROR_INVALID_HEX": "Unesite važeću heks boju (npr. #FF5733).",
   "MODAL_EMBED_BUILDER_TOAST_SAVED": "Podešavanja prikaza sačuvana!",
   "MODAL_EMBED_BUILDER_TOAST_SAVE_FAILED": "Neuspešno čuvanje podešavanja prikaza.",
-  "MODAL_EMBED_BUILDER_HEADING": "Kreator prikaza",
+  "MODAL_EMBED_BUILDER_HEADING": "Prilagođeni prikazi",
   "MODAL_EMBED_BUILDER_DESC": "Prilagodite kako se vaše deljene objave pojavljuju kada se pošalju (Discord, X, Reddit, itd.).",
   "MODAL_EMBED_BUILDER_ENABLE_LABEL": "Omogući prilagođene prikaze",
   "MODAL_EMBED_BUILDER_SMALL_TEXT_LABEL": "Sitan tekst",

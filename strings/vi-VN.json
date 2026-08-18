@@ -345,7 +345,7 @@
   "MODAL_EMBED_BUILDER_ERROR_INVALID_HEX": "Vui lòng nhập mã màu hex hợp lệ (ví dụ #FF5733).",
   "MODAL_EMBED_BUILDER_TOAST_SAVED": "Đã lưu cài đặt nhúng!",
   "MODAL_EMBED_BUILDER_TOAST_SAVE_FAILED": "Không thể lưu cài đặt nhúng.",
-  "MODAL_EMBED_BUILDER_HEADING": "Trình tạo nhúng",
+  "MODAL_EMBED_BUILDER_HEADING": "Nhúng tùy chỉnh",
   "MODAL_EMBED_BUILDER_DESC": "Tùy chỉnh cách bài đăng được chia sẻ của bạn hiển thị khi gửi đi (Discord, X, Reddit, v.v.).",
   "MODAL_EMBED_BUILDER_ENABLE_LABEL": "Bật nhúng tùy chỉnh",
   "MODAL_EMBED_BUILDER_SMALL_TEXT_LABEL": "Văn bản nhỏ",

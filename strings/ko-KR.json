@@ -345,7 +345,7 @@
   "MODAL_EMBED_BUILDER_ERROR_INVALID_HEX": "유효한 16진수 색상 코드를 입력하세요 (예: #FF5733).",
   "MODAL_EMBED_BUILDER_TOAST_SAVED": "임베드 설정이 저장되었습니다!",
   "MODAL_EMBED_BUILDER_TOAST_SAVE_FAILED": "임베드 설정을 저장하지 못했습니다.",
-  "MODAL_EMBED_BUILDER_HEADING": "임베드 빌더",
+  "MODAL_EMBED_BUILDER_HEADING": "맞춤 임베드",
   "MODAL_EMBED_BUILDER_DESC": "공유한 게시물이 다른 곳(Discord, X, Reddit 등)에 전송될 때 어떻게 보일지 맞춤 설정하세요.",
   "MODAL_EMBED_BUILDER_ENABLE_LABEL": "맞춤 임베드 사용",
   "MODAL_EMBED_BUILDER_SMALL_TEXT_LABEL": "작은 텍스트",

@@ -345,7 +345,7 @@
   "MODAL_EMBED_BUILDER_ERROR_INVALID_HEX": "Wprowadź prawidłowy kolor heksadecymalny (np. #FF5733).",
   "MODAL_EMBED_BUILDER_TOAST_SAVED": "Zapisano ustawienia osadzania!",
   "MODAL_EMBED_BUILDER_TOAST_SAVE_FAILED": "Nie udało się zapisać ustawień osadzania.",
-  "MODAL_EMBED_BUILDER_HEADING": "Kreator Osadzania",
+  "MODAL_EMBED_BUILDER_HEADING": "Niestandardowe Osadzanie",
   "MODAL_EMBED_BUILDER_DESC": "Dostosuj wygląd udostępnianych postów po wysłaniu (Discord, X, Reddit itp.).",
   "MODAL_EMBED_BUILDER_ENABLE_LABEL": "Włącz Niestandardowe Osadzanie",
   "MODAL_EMBED_BUILDER_SMALL_TEXT_LABEL": "Mały Tekst",

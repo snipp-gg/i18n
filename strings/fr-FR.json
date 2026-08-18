@@ -345,7 +345,7 @@
   "MODAL_EMBED_BUILDER_ERROR_INVALID_HEX": "Veuillez saisir une couleur hexadécimale valide (par ex. #FF5733).",
   "MODAL_EMBED_BUILDER_TOAST_SAVED": "Paramètres d'intégration enregistrés !",
   "MODAL_EMBED_BUILDER_TOAST_SAVE_FAILED": "Échec de l'enregistrement des paramètres d'intégration.",
-  "MODAL_EMBED_BUILDER_HEADING": "Créateur d'intégration",
+  "MODAL_EMBED_BUILDER_HEADING": "Intégrations personnalisées",
   "MODAL_EMBED_BUILDER_DESC": "Personnalisez l'apparence de vos posts partagés lorsqu'ils sont envoyés (Discord, X, Reddit, etc.).",
   "MODAL_EMBED_BUILDER_ENABLE_LABEL": "Activer les intégrations personnalisées",
   "MODAL_EMBED_BUILDER_SMALL_TEXT_LABEL": "Petit texte",

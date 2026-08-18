@@ -345,7 +345,7 @@
   "MODAL_EMBED_BUILDER_ERROR_INVALID_HEX": "Моля, въведете валиден шестнадесетичен цвят (напр. #FF5733).",
   "MODAL_EMBED_BUILDER_TOAST_SAVED": "Настройките за вграждане са запазени!",
   "MODAL_EMBED_BUILDER_TOAST_SAVE_FAILED": "Неуспешно запазване на настройките за вграждане.",
-  "MODAL_EMBED_BUILDER_HEADING": "Конструктор на вграждане",
+  "MODAL_EMBED_BUILDER_HEADING": "Персонализирани вграждания",
   "MODAL_EMBED_BUILDER_DESC": "Персонализирайте как изглеждат споделените ви публикации, когато се изпращат (Discord, X, Reddit и др.).",
   "MODAL_EMBED_BUILDER_ENABLE_LABEL": "Активиране на персонализирани вграждания",
   "MODAL_EMBED_BUILDER_SMALL_TEXT_LABEL": "Малък текст",

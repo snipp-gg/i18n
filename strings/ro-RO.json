@@ -345,7 +345,7 @@
   "MODAL_EMBED_BUILDER_ERROR_INVALID_HEX": "Te rugăm să introduci o culoare hex validă (de ex. #FF5733).",
   "MODAL_EMBED_BUILDER_TOAST_SAVED": "Setări de încorporare salvate!",
   "MODAL_EMBED_BUILDER_TOAST_SAVE_FAILED": "Nu s-au putut salva setările de încorporare.",
-  "MODAL_EMBED_BUILDER_HEADING": "Constructor de încorporări",
+  "MODAL_EMBED_BUILDER_HEADING": "Încorporări personalizate",
   "MODAL_EMBED_BUILDER_DESC": "Personalizează cum apar postările distribuite când sunt trimise (Discord, X, Reddit etc.).",
   "MODAL_EMBED_BUILDER_ENABLE_LABEL": "Activează încorporările personalizate",
   "MODAL_EMBED_BUILDER_SMALL_TEXT_LABEL": "Text mic",

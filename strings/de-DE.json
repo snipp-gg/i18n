@@ -345,7 +345,7 @@
   "MODAL_EMBED_BUILDER_ERROR_INVALID_HEX": "Bitte gib eine gültige Hex-Farbe ein (z. B. #FF5733).",
   "MODAL_EMBED_BUILDER_TOAST_SAVED": "Embed-Einstellungen gespeichert!",
   "MODAL_EMBED_BUILDER_TOAST_SAVE_FAILED": "Embed-Einstellungen konnten nicht gespeichert werden.",
-  "MODAL_EMBED_BUILDER_HEADING": "Embed-Builder",
+  "MODAL_EMBED_BUILDER_HEADING": "Eigene Einbettungen",
   "MODAL_EMBED_BUILDER_DESC": "Passe an, wie deine geteilten Beiträge beim Versenden aussehen (Discord, X, Reddit usw.).",
   "MODAL_EMBED_BUILDER_ENABLE_LABEL": "Benutzerdefinierte Embeds Aktivieren",
   "MODAL_EMBED_BUILDER_SMALL_TEXT_LABEL": "Kleiner Text",

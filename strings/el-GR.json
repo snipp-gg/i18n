@@ -345,7 +345,7 @@
   "MODAL_EMBED_BUILDER_ERROR_INVALID_HEX": "Εισάγετε έγκυρο χρώμα hex (π.χ. #FF5733).",
   "MODAL_EMBED_BUILDER_TOAST_SAVED": "Οι ρυθμίσεις ενσωμάτωσης αποθηκεύτηκαν!",
   "MODAL_EMBED_BUILDER_TOAST_SAVE_FAILED": "Αποτυχία αποθήκευσης ρυθμίσεων ενσωμάτωσης.",
-  "MODAL_EMBED_BUILDER_HEADING": "Δημιουργός Ενσωμάτωσης",
+  "MODAL_EMBED_BUILDER_HEADING": "Προσαρμοσμένες Ενσωματώσεις",
   "MODAL_EMBED_BUILDER_DESC": "Προσαρμόστε την εμφάνιση των κοινοποιημένων αναρτήσεών σας (Discord, X, Reddit κ.λπ.).",
   "MODAL_EMBED_BUILDER_ENABLE_LABEL": "Ενεργοποίηση Προσαρμοσμένων Ενσωματώσεων",
   "MODAL_EMBED_BUILDER_SMALL_TEXT_LABEL": "Μικρό Κείμενο",

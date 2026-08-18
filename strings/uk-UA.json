@@ -345,7 +345,7 @@
   "MODAL_EMBED_BUILDER_ERROR_INVALID_HEX": "Будь ласка, введіть дійсний шістнадцятковий колір (напр. #FF5733).",
   "MODAL_EMBED_BUILDER_TOAST_SAVED": "Налаштування вбудовування збережено!",
   "MODAL_EMBED_BUILDER_TOAST_SAVE_FAILED": "Не вдалося зберегти налаштування вбудовування.",
-  "MODAL_EMBED_BUILDER_HEADING": "Конструктор вбудовування",
+  "MODAL_EMBED_BUILDER_HEADING": "Власне вбудовування",
   "MODAL_EMBED_BUILDER_DESC": "Налаштуйте, як виглядають ваші дописи, коли ними діляться (Discord, X, Reddit тощо).",
   "MODAL_EMBED_BUILDER_ENABLE_LABEL": "Увімкнути власні вбудовування",
   "MODAL_EMBED_BUILDER_SMALL_TEXT_LABEL": "Дрібний текст",

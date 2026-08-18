@@ -345,7 +345,7 @@
   "MODAL_EMBED_BUILDER_ERROR_INVALID_HEX": "Skriv inn en gyldig heksadesimalfarge (f.eks. #FF5733).",
   "MODAL_EMBED_BUILDER_TOAST_SAVED": "Innebyggingsinnstillinger lagret!",
   "MODAL_EMBED_BUILDER_TOAST_SAVE_FAILED": "Kunne ikke lagre innebyggingsinnstillinger.",
-  "MODAL_EMBED_BUILDER_HEADING": "Innebyggingsbygger",
+  "MODAL_EMBED_BUILDER_HEADING": "Egendefinerte innebygginger",
   "MODAL_EMBED_BUILDER_DESC": "Tilpass hvordan de delte innleggene dine vises når de sendes (Discord, X, Reddit, osv.).",
   "MODAL_EMBED_BUILDER_ENABLE_LABEL": "Aktiver egendefinerte innebygginger",
   "MODAL_EMBED_BUILDER_SMALL_TEXT_LABEL": "Liten tekst",

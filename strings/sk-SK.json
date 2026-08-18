@@ -345,7 +345,7 @@
   "MODAL_EMBED_BUILDER_ERROR_INVALID_HEX": "Zadaj platnú hex farbu (napr. #FF5733).",
   "MODAL_EMBED_BUILDER_TOAST_SAVED": "Nastavenia vloženia uložené!",
   "MODAL_EMBED_BUILDER_TOAST_SAVE_FAILED": "Nepodarilo sa uložiť nastavenia vloženia.",
-  "MODAL_EMBED_BUILDER_HEADING": "Tvorca vloženia",
+  "MODAL_EMBED_BUILDER_HEADING": "Vlastné vloženia",
   "MODAL_EMBED_BUILDER_DESC": "Prispôsob si, ako sa tvoje zdieľané príspevky zobrazujú pri odoslaní (Discord, X, Reddit atď.).",
   "MODAL_EMBED_BUILDER_ENABLE_LABEL": "Povoliť vlastné vloženia",
   "MODAL_EMBED_BUILDER_SMALL_TEXT_LABEL": "Malý text",

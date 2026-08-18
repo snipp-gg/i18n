@@ -345,7 +345,7 @@
   "MODAL_EMBED_BUILDER_ERROR_INVALID_HEX": "Введите корректный шестнадцатеричный цвет (например, #FF5733).",
   "MODAL_EMBED_BUILDER_TOAST_SAVED": "Настройки встраивания сохранены!",
   "MODAL_EMBED_BUILDER_TOAST_SAVE_FAILED": "Не удалось сохранить настройки встраивания.",
-  "MODAL_EMBED_BUILDER_HEADING": "Конструктор встраивания",
+  "MODAL_EMBED_BUILDER_HEADING": "Пользовательское встраивание",
   "MODAL_EMBED_BUILDER_DESC": "Настройте, как ваши посты выглядят при отправке (Discord, X, Reddit и т. д.).",
   "MODAL_EMBED_BUILDER_ENABLE_LABEL": "Включить пользовательские встраивания",
   "MODAL_EMBED_BUILDER_SMALL_TEXT_LABEL": "Мелкий текст",

@@ -345,7 +345,7 @@
   "MODAL_EMBED_BUILDER_ERROR_INVALID_HEX": "有効な16進数カラーコードを入力してください（例：#FF5733）。",
   "MODAL_EMBED_BUILDER_TOAST_SAVED": "埋め込み設定を保存しました！",
   "MODAL_EMBED_BUILDER_TOAST_SAVE_FAILED": "埋め込み設定の保存に失敗しました。",
-  "MODAL_EMBED_BUILDER_HEADING": "埋め込みビルダー",
+  "MODAL_EMBED_BUILDER_HEADING": "カスタム埋め込み",
   "MODAL_EMBED_BUILDER_DESC": "共有した投稿が送信時（Discord、X、Redditなど）にどう表示されるかをカスタマイズします。",
   "MODAL_EMBED_BUILDER_ENABLE_LABEL": "カスタム埋め込みを有効にする",
   "MODAL_EMBED_BUILDER_SMALL_TEXT_LABEL": "小さいテキスト",
