@@ -1202,7 +1202,7 @@
   "SETTINGS_BILLING_FORCED_TIER_HINT": "Αυτή η συνδρομή σάς έχει παραχωρηθεί από το Snipp. Δεν απαιτείται πληρωμή.",
   "SETTINGS_BILLING_GIFTED_TIER_HINT": "Αυτή η συνδρομή προέρχεται από ένα δώρο που εξαργυρώσατε. Δεν απαιτείται πληρωμή.",
   "SETTINGS_BILLING_CREDIT_HEADING": "Πίστωση συνδρομής",
-  "SETTINGS_BILLING_CREDIT_HINT": "Δώρα που αποδεχτήκατε ενώ είχατε υψηλότερο πρόγραμμα. Το καθένα ξεκινά όταν λήξει το τρέχον πρόγραμμά σας.",
+  "SETTINGS_BILLING_CREDIT_HINT": "Δώρα που έχετε αποδεχτεί. Το καθένα ξεκινά όταν λήξει το τρέχον πρόγραμμά σας.",
   "SETTINGS_BILLING_CREDIT_APPLIES_ON": "Ξεκινά στις {date}",
   "SETTINGS_BILLING_CREDIT_APPLIES_UNKNOWN": "Ξεκινά όταν λήξει το τρέχον πρόγραμμά σας",
   "SETTINGS_BILLING_MEMBER_SINCE": "Συνδρομητής από {date}",

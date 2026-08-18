@@ -1202,7 +1202,7 @@
   "SETTINGS_BILLING_FORCED_TIER_HINT": "การสมัครสมาชิกนี้ได้รับจาก Snipp ไม่ต้องชำระเงิน",
   "SETTINGS_BILLING_GIFTED_TIER_HINT": "การสมัครสมาชิกนี้มาจากของขวัญที่คุณแลกรับ ไม่ต้องชำระเงิน",
   "SETTINGS_BILLING_CREDIT_HEADING": "เครดิตการสมัครสมาชิก",
-  "SETTINGS_BILLING_CREDIT_HINT": "ของขวัญที่รับไว้ขณะที่คุณใช้แผนที่สูงกว่า แต่ละรายการจะเริ่มเมื่อแผนปัจจุบันของคุณสิ้นสุด",
+  "SETTINGS_BILLING_CREDIT_HINT": "ของขวัญที่คุณรับไว้ แต่ละรายการจะเริ่มเมื่อแผนปัจจุบันของคุณสิ้นสุด",
   "SETTINGS_BILLING_CREDIT_APPLIES_ON": "เริ่มในวันที่ {date}",
   "SETTINGS_BILLING_CREDIT_APPLIES_UNKNOWN": "เริ่มเมื่อแผนปัจจุบันของคุณสิ้นสุด",
   "SETTINGS_BILLING_MEMBER_SINCE": "สมัครสมาชิกตั้งแต่ {date}",

@@ -1202,7 +1202,7 @@
   "SETTINGS_BILLING_FORCED_TIER_HINT": "Toto predplatné ti poskytol Snipp. Platba nie je potrebná.",
   "SETTINGS_BILLING_GIFTED_TIER_HINT": "Toto predplatné pochádza z darčeka, ktorý si uplatnil. Platba nie je potrebná.",
   "SETTINGS_BILLING_CREDIT_HEADING": "Kredit predplatného",
-  "SETTINGS_BILLING_CREDIT_HINT": "Darčeky prijaté, keď si mal vyšší plán. Každý začne platiť, keď skončí tvoj aktuálny plán.",
+  "SETTINGS_BILLING_CREDIT_HINT": "Darčeky, ktoré si prijal. Každý začne platiť, keď skončí tvoj aktuálny plán.",
   "SETTINGS_BILLING_CREDIT_APPLIES_ON": "Začne platiť {date}",
   "SETTINGS_BILLING_CREDIT_APPLIES_UNKNOWN": "Začne platiť, keď skončí tvoj aktuálny plán",
   "SETTINGS_BILLING_MEMBER_SINCE": "Predplatné od {date}",

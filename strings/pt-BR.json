@@ -1202,7 +1202,7 @@
   "SETTINGS_BILLING_FORCED_TIER_HINT": "Esta assinatura foi fornecida a você pelo Snipp. Não é necessário pagamento.",
   "SETTINGS_BILLING_GIFTED_TIER_HINT": "Esta assinatura veio de um presente que você resgatou. Não é necessário pagamento.",
   "SETTINGS_BILLING_CREDIT_HEADING": "Crédito de assinatura",
-  "SETTINGS_BILLING_CREDIT_HINT": "Presentes aceitos enquanto você estava em um plano superior. Cada um começa quando seu plano atual termina.",
+  "SETTINGS_BILLING_CREDIT_HINT": "Presentes que você aceitou. Cada um começa quando seu plano atual termina.",
   "SETTINGS_BILLING_CREDIT_APPLIES_ON": "Começa em {date}",
   "SETTINGS_BILLING_CREDIT_APPLIES_UNKNOWN": "Começa quando seu plano atual termina",
   "SETTINGS_BILLING_MEMBER_SINCE": "Assinante desde {date}",

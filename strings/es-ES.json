@@ -1202,7 +1202,7 @@
   "SETTINGS_BILLING_FORCED_TIER_HINT": "Esta suscripción te ha sido proporcionada por Snipp. No se requiere pago.",
   "SETTINGS_BILLING_GIFTED_TIER_HINT": "Esta suscripción proviene de un regalo que canjeaste. No se requiere pago.",
   "SETTINGS_BILLING_CREDIT_HEADING": "Crédito de suscripción",
-  "SETTINGS_BILLING_CREDIT_HINT": "Regalos aceptados mientras tenías un plan superior. Cada uno empezará cuando termine tu plan actual.",
+  "SETTINGS_BILLING_CREDIT_HINT": "Regalos que has aceptado. Cada uno empezará cuando termine tu plan actual.",
   "SETTINGS_BILLING_CREDIT_APPLIES_ON": "Empieza el {date}",
   "SETTINGS_BILLING_CREDIT_APPLIES_UNKNOWN": "Empieza cuando termine tu plan actual",
   "SETTINGS_BILLING_MEMBER_SINCE": "Suscrito desde {date}",

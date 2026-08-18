@@ -1202,7 +1202,7 @@
   "SETTINGS_BILLING_FORCED_TIER_HINT": "Ta subskrypcja została Ci udostępniona przez Snipp. Płatność nie jest wymagana.",
   "SETTINGS_BILLING_GIFTED_TIER_HINT": "Ta subskrypcja pochodzi z prezentu, który zrealizowałeś. Płatność nie jest wymagana.",
   "SETTINGS_BILLING_CREDIT_HEADING": "Kredyt subskrypcyjny",
-  "SETTINGS_BILLING_CREDIT_HINT": "Prezenty przyjęte, gdy miałeś wyższy plan. Każdy z nich zaczyna się, gdy skończy się Twój obecny plan.",
+  "SETTINGS_BILLING_CREDIT_HINT": "Prezenty, które przyjąłeś. Każdy z nich zaczyna się, gdy skończy się Twój obecny plan.",
   "SETTINGS_BILLING_CREDIT_APPLIES_ON": "Zaczyna się {date}",
   "SETTINGS_BILLING_CREDIT_APPLIES_UNKNOWN": "Zaczyna się, gdy skończy się Twój obecny plan",
   "SETTINGS_BILLING_MEMBER_SINCE": "Subskrybent od {date}",

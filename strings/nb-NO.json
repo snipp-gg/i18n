@@ -1202,7 +1202,7 @@
   "SETTINGS_BILLING_FORCED_TIER_HINT": "Dette abonnementet er gitt deg av Snipp. Ingen betaling kreves.",
   "SETTINGS_BILLING_GIFTED_TIER_HINT": "Dette abonnementet kommer fra en gave du har løst inn. Ingen betaling kreves.",
   "SETTINGS_BILLING_CREDIT_HEADING": "Abonnementskreditt",
-  "SETTINGS_BILLING_CREDIT_HINT": "Gaver du har tatt imot mens du hadde en høyere plan. Hver av dem starter når den nåværende planen din slutter.",
+  "SETTINGS_BILLING_CREDIT_HINT": "Gaver du har tatt imot. Hver av dem starter når den nåværende planen din slutter.",
   "SETTINGS_BILLING_CREDIT_APPLIES_ON": "Starter {date}",
   "SETTINGS_BILLING_CREDIT_APPLIES_UNKNOWN": "Starter når den nåværende planen din slutter",
   "SETTINGS_BILLING_MEMBER_SINCE": "Abonnent siden {date}",

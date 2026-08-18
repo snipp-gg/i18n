@@ -1202,7 +1202,7 @@
   "SETTINGS_BILLING_FORCED_TIER_HINT": "Ovu pretplatu vam je obezbedio Snipp. Plaćanje nije potrebno.",
   "SETTINGS_BILLING_GIFTED_TIER_HINT": "Ova pretplata potiče od poklona koji ste iskoristili. Plaćanje nije potrebno.",
   "SETTINGS_BILLING_CREDIT_HEADING": "Kredit pretplate",
-  "SETTINGS_BILLING_CREDIT_HINT": "Pokloni prihvaćeni dok ste bili na višem planu. Svaki počinje kada se završi vaš trenutni plan.",
+  "SETTINGS_BILLING_CREDIT_HINT": "Pokloni koje ste prihvatili. Svaki počinje kada se završi vaš trenutni plan.",
   "SETTINGS_BILLING_CREDIT_APPLIES_ON": "Počinje {date}",
   "SETTINGS_BILLING_CREDIT_APPLIES_UNKNOWN": "Počinje kada se završi vaš trenutni plan",
   "SETTINGS_BILLING_MEMBER_SINCE": "Pretplaćeni od {date}",

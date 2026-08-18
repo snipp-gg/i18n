@@ -1202,7 +1202,7 @@
   "SETTINGS_BILLING_FORCED_TIER_HINT": "Denna prenumeration har tillhandahållits dig av Snipp. Ingen betalning krävs.",
   "SETTINGS_BILLING_GIFTED_TIER_HINT": "Denna prenumeration kommer från en present du har löst in. Ingen betalning krävs.",
   "SETTINGS_BILLING_CREDIT_HEADING": "Tillgodohavande",
-  "SETTINGS_BILLING_CREDIT_HINT": "Presenter som du tagit emot medan du hade en högre plan. Var och en börjar när din nuvarande plan upphör.",
+  "SETTINGS_BILLING_CREDIT_HINT": "Presenter som du tagit emot. Var och en börjar när din nuvarande plan upphör.",
   "SETTINGS_BILLING_CREDIT_APPLIES_ON": "Börjar den {date}",
   "SETTINGS_BILLING_CREDIT_APPLIES_UNKNOWN": "Börjar när din nuvarande plan upphör",
   "SETTINGS_BILLING_MEMBER_SINCE": "Prenumerant sedan {date}",

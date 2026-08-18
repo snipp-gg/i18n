@@ -444,7 +444,7 @@ Source of truth is `Website/utils/i18n/strings/<locale>.json`; `i18n/strings/` m
 
 ## Subscription Credit
 
-`SETTINGS_BILLING_CREDIT_HEADING` = "Subscription credit"
+`SETTINGS_BILLING_CREDIT_HEADING` = "Subscription Credit"
 
 | Locale | Value |
 | --- | --- |

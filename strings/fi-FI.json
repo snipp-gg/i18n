@@ -1202,7 +1202,7 @@
   "SETTINGS_BILLING_FORCED_TIER_HINT": "Snipp on tarjonnut tämän tilauksen sinulle. Maksua ei vaadita.",
   "SETTINGS_BILLING_GIFTED_TIER_HINT": "Tämä tilaus on peräisin lunastamastasi lahjasta. Maksua ei vaadita.",
   "SETTINGS_BILLING_CREDIT_HEADING": "Tilaushyvitys",
-  "SETTINGS_BILLING_CREDIT_HINT": "Lahjat, jotka hyväksyit, kun sinulla oli korkeamman tason tilaus. Jokainen alkaa, kun nykyinen tilauksesi päättyy.",
+  "SETTINGS_BILLING_CREDIT_HINT": "Lahjat, jotka olet hyväksynyt. Jokainen alkaa, kun nykyinen tilauksesi päättyy.",
   "SETTINGS_BILLING_CREDIT_APPLIES_ON": "Alkaa {date}",
   "SETTINGS_BILLING_CREDIT_APPLIES_UNKNOWN": "Alkaa, kun nykyinen tilauksesi päättyy",
   "SETTINGS_BILLING_MEMBER_SINCE": "Tilaaja {date} alkaen",

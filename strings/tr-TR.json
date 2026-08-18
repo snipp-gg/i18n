@@ -1202,7 +1202,7 @@
   "SETTINGS_BILLING_FORCED_TIER_HINT": "Bu abonelik size Snipp tarafından sağlanmıştır. Ödeme gerekmez.",
   "SETTINGS_BILLING_GIFTED_TIER_HINT": "Bu abonelik, kullandığınız bir hediyeden gelmektedir. Ödeme gerekmez.",
   "SETTINGS_BILLING_CREDIT_HEADING": "Abonelik kredisi",
-  "SETTINGS_BILLING_CREDIT_HINT": "Daha yüksek bir plandayken kabul ettiğiniz hediyeler. Her biri mevcut planınız sona erdiğinde başlar.",
+  "SETTINGS_BILLING_CREDIT_HINT": "Kabul ettiğiniz hediyeler. Her biri mevcut planınız sona erdiğinde başlar.",
   "SETTINGS_BILLING_CREDIT_APPLIES_ON": "{date} tarihinde başlar",
   "SETTINGS_BILLING_CREDIT_APPLIES_UNKNOWN": "Mevcut planınız sona erdiğinde başlar",
   "SETTINGS_BILLING_MEMBER_SINCE": "{date} tarihinden beri abone",

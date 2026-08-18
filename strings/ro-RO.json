@@ -1202,7 +1202,7 @@
   "SETTINGS_BILLING_FORCED_TIER_HINT": "Acest abonament ți-a fost oferit de Snipp. Nu este necesară nicio plată.",
   "SETTINGS_BILLING_GIFTED_TIER_HINT": "Acest abonament provine dintr-un cadou pe care l-ai revendicat. Nu este necesară nicio plată.",
   "SETTINGS_BILLING_CREDIT_HEADING": "Credit de abonament",
-  "SETTINGS_BILLING_CREDIT_HINT": "Cadouri acceptate cât timp aveai un plan superior. Fiecare începe când planul tău actual se încheie.",
+  "SETTINGS_BILLING_CREDIT_HINT": "Cadouri pe care le-ai acceptat. Fiecare începe când planul tău actual se încheie.",
   "SETTINGS_BILLING_CREDIT_APPLIES_ON": "Începe pe {date}",
   "SETTINGS_BILLING_CREDIT_APPLIES_UNKNOWN": "Începe când planul tău actual se încheie",
   "SETTINGS_BILLING_MEMBER_SINCE": "Abonat din {date}",

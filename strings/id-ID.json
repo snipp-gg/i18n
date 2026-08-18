@@ -1202,7 +1202,7 @@
   "SETTINGS_BILLING_FORCED_TIER_HINT": "Langganan ini diberikan kepada Anda oleh Snipp. Tidak perlu pembayaran.",
   "SETTINGS_BILLING_GIFTED_TIER_HINT": "Langganan ini berasal dari hadiah yang Anda tukarkan. Tidak perlu pembayaran.",
   "SETTINGS_BILLING_CREDIT_HEADING": "Kredit langganan",
-  "SETTINGS_BILLING_CREDIT_HINT": "Hadiah yang diterima saat Anda menggunakan paket yang lebih tinggi. Masing-masing dimulai ketika paket Anda saat ini berakhir.",
+  "SETTINGS_BILLING_CREDIT_HINT": "Hadiah yang telah Anda terima. Masing-masing dimulai ketika paket Anda saat ini berakhir.",
   "SETTINGS_BILLING_CREDIT_APPLIES_ON": "Dimulai pada {date}",
   "SETTINGS_BILLING_CREDIT_APPLIES_UNKNOWN": "Dimulai ketika paket Anda saat ini berakhir",
   "SETTINGS_BILLING_MEMBER_SINCE": "Berlangganan sejak {date}",

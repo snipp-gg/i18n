@@ -1202,7 +1202,7 @@
   "SETTINGS_BILLING_FORCED_TIER_HINT": "이 구독은 Snipp에서 제공한 것입니다. 결제가 필요하지 않습니다.",
   "SETTINGS_BILLING_GIFTED_TIER_HINT": "이 구독은 등록한 선물로 제공된 것입니다. 결제가 필요하지 않습니다.",
   "SETTINGS_BILLING_CREDIT_HEADING": "구독 크레딧",
-  "SETTINGS_BILLING_CREDIT_HINT": "더 높은 요금제를 사용하는 동안 받은 선물입니다. 각 선물은 현재 요금제가 종료되면 시작됩니다.",
+  "SETTINGS_BILLING_CREDIT_HINT": "지금까지 받은 선물입니다. 각 선물은 현재 요금제가 종료되면 시작됩니다.",
   "SETTINGS_BILLING_CREDIT_APPLIES_ON": "{date}에 시작",
   "SETTINGS_BILLING_CREDIT_APPLIES_UNKNOWN": "현재 요금제가 종료되면 시작",
   "SETTINGS_BILLING_MEMBER_SINCE": "{date}부터 구독 중",

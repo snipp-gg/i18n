@@ -1202,7 +1202,7 @@
   "SETTINGS_BILLING_FORCED_TIER_HINT": "Dit abonnement is je door Snipp verstrekt. Geen betaling vereist.",
   "SETTINGS_BILLING_GIFTED_TIER_HINT": "Dit abonnement komt van een cadeau dat je hebt ingewisseld. Geen betaling vereist.",
   "SETTINGS_BILLING_CREDIT_HEADING": "Abonnementstegoed",
-  "SETTINGS_BILLING_CREDIT_HINT": "Cadeaus die je hebt geaccepteerd terwijl je een hoger abonnement had. Elk cadeau gaat in wanneer je huidige abonnement eindigt.",
+  "SETTINGS_BILLING_CREDIT_HINT": "Cadeaus die je hebt geaccepteerd. Elk cadeau gaat in wanneer je huidige abonnement eindigt.",
   "SETTINGS_BILLING_CREDIT_APPLIES_ON": "Gaat in op {date}",
   "SETTINGS_BILLING_CREDIT_APPLIES_UNKNOWN": "Gaat in wanneer je huidige abonnement eindigt",
   "SETTINGS_BILLING_MEMBER_SINCE": "Geabonneerd sinds {date}",

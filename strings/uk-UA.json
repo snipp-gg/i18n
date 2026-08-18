@@ -1202,7 +1202,7 @@
   "SETTINGS_BILLING_FORCED_TIER_HINT": "Цю підписку вам надано від Snipp. Оплата не потрібна.",
   "SETTINGS_BILLING_GIFTED_TIER_HINT": "Ця підписка походить із подарунка, який ви активували. Оплата не потрібна.",
   "SETTINGS_BILLING_CREDIT_HEADING": "Резерв підписки",
-  "SETTINGS_BILLING_CREDIT_HINT": "Подарунки, прийняті, поки у вас був вищий план. Кожен почне діяти, коли закінчиться ваш поточний план.",
+  "SETTINGS_BILLING_CREDIT_HINT": "Подарунки, які ви прийняли. Кожен почне діяти, коли закінчиться ваш поточний план.",
   "SETTINGS_BILLING_CREDIT_APPLIES_ON": "Почне діяти {date}",
   "SETTINGS_BILLING_CREDIT_APPLIES_UNKNOWN": "Почне діяти, коли закінчиться ваш поточний план",
   "SETTINGS_BILLING_MEMBER_SINCE": "Підписник з {date}",
