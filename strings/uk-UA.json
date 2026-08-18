@@ -1384,7 +1384,6 @@
   "SETTINGS_PROFILE_CONFIRM_DELETE_UPLOADS_SINGULAR": "Це остаточно видалить усі ваші завантажені файли та дописи ({count} файл). Ваш акаунт залишиться активним. Цю дію не можна скасувати.",
   "SETTINGS_PLUS_ALREADY_SUBSCRIBED_HEADING": "You're already subscribed to ",
   "COMMON_EXCLAMATION": "!",
-  "COMMON_PERIOD": ".",
   "SETTINGS_PLUS_SUBSCRIBE_HEADING": "Subscribe to ",
   "SETTINGS_PLUS_SUBSCRIBE_BODY": "Share larger files, gain early access to upcoming features, and so much more.",
   "SETTINGS_PLUS_LIMIT_FREE_LABEL": "Безкоштовний ліміт завантаження:",
