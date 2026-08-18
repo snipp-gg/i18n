@@ -1384,7 +1384,6 @@
   "SETTINGS_PROFILE_CONFIRM_DELETE_UPLOADS_SINGULAR": "Isto eliminará permanentemente todos os seus ficheiros e publicações carregados ({count} ficheiro). A sua conta ficará ativa. Esta ação não pode ser desfeita.",
   "SETTINGS_PLUS_ALREADY_SUBSCRIBED_HEADING": "Já está subscrito no ",
   "COMMON_EXCLAMATION": "!",
-  "COMMON_PERIOD": ".",
   "SETTINGS_PLUS_SUBSCRIBE_HEADING": "Subscrever ",
   "SETTINGS_PLUS_SUBSCRIBE_BODY": "Partilhe ficheiros maiores, obtenha acesso antecipado a próximas funcionalidades e muito mais.",
   "SETTINGS_PLUS_LIMIT_FREE_LABEL": "Limite Gratuito de Carregamento:",

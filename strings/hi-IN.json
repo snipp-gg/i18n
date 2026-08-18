@@ -1384,7 +1384,6 @@
   "SETTINGS_PROFILE_CONFIRM_DELETE_UPLOADS_SINGULAR": "इससे आपकी सभी अपलोड की गई फ़ाइलें और पोस्ट ({count} फ़ाइल) स्थायी रूप से डिलीट हो जाएंगी। आपका अकाउंट सक्रिय रहेगा। यह कार्रवाई वापस नहीं ली जा सकती।",
   "SETTINGS_PLUS_ALREADY_SUBSCRIBED_HEADING": "आप पहले से ही सब्सक्राइब हैं ",
   "COMMON_EXCLAMATION": "!",
-  "COMMON_PERIOD": "।",
   "SETTINGS_PLUS_SUBSCRIBE_HEADING": "सब्सक्राइब करें ",
   "SETTINGS_PLUS_SUBSCRIBE_BODY": "बड़ी फ़ाइलें शेयर करें, आने वाले फ़ीचर्स तक जल्दी पहुंच पाएं, और भी बहुत कुछ।",
   "SETTINGS_PLUS_LIMIT_FREE_LABEL": "फ़्री अपलोड लिमिट:",

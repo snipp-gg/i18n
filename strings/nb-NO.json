@@ -1384,7 +1384,6 @@
   "SETTINGS_PROFILE_CONFIRM_DELETE_UPLOADS_SINGULAR": "Dette vil permanent slette alle dine opplastede filer og innlegg ({count} fil). Kontoen din vil forbli aktiv. Denne handlingen kan ikke angres.",
   "SETTINGS_PLUS_ALREADY_SUBSCRIBED_HEADING": "Du abonnerer allerede på ",
   "COMMON_EXCLAMATION": "!",
-  "COMMON_PERIOD": ".",
   "SETTINGS_PLUS_SUBSCRIBE_HEADING": "Abonner på ",
   "SETTINGS_PLUS_SUBSCRIBE_BODY": "Del større filer, få tidlig tilgang til kommende funksjoner, og så mye mer.",
   "SETTINGS_PLUS_LIMIT_FREE_LABEL": "Gratis opplastingsgrense:",

@@ -1384,7 +1384,6 @@
   "SETTINGS_PROFILE_CONFIRM_DELETE_UPLOADS_SINGULAR": "Cela supprimera définitivement tous vos fichiers et posts envoyés ({count} fichier). Votre compte restera actif. Cette action est irréversible.",
   "SETTINGS_PLUS_ALREADY_SUBSCRIBED_HEADING": "Vous êtes déjà abonné à ",
   "COMMON_EXCLAMATION": "!",
-  "COMMON_PERIOD": ".",
   "SETTINGS_PLUS_SUBSCRIBE_HEADING": "Abonnez-vous à ",
   "SETTINGS_PLUS_SUBSCRIBE_BODY": "Partagez des fichiers plus volumineux, accédez en avant-première aux prochaines fonctionnalités et bien plus encore.",
   "SETTINGS_PLUS_LIMIT_FREE_LABEL": "Limite d'envoi gratuite :",

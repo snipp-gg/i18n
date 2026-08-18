@@ -1384,7 +1384,6 @@
   "SETTINGS_PROFILE_CONFIRM_DELETE_UPLOADS_SINGULAR": "这将永久删除您上传的所有文件和帖子 ({count} 文件)。 您的账户将保持有效。 此操作无法撤销。",
   "SETTINGS_PLUS_ALREADY_SUBSCRIBED_HEADING": "您已订阅 ",
   "COMMON_EXCLAMATION": "!",
-  "COMMON_PERIOD": "。",
   "SETTINGS_PLUS_SUBSCRIBE_HEADING": "订阅 ",
   "SETTINGS_PLUS_SUBSCRIBE_BODY": "分享更大的文件，提前体验即将推出的功能等等。",
   "SETTINGS_PLUS_LIMIT_FREE_LABEL": "免费上传限制",

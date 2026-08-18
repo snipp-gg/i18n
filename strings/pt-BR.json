@@ -1384,7 +1384,6 @@
   "SETTINGS_PROFILE_CONFIRM_DELETE_UPLOADS_SINGULAR": "Isso excluirá permanentemente todos os seus arquivos enviados e publicações ({count} arquivo). Sua conta permanecerá ativa. Esta ação não pode ser desfeita.",
   "SETTINGS_PLUS_ALREADY_SUBSCRIBED_HEADING": "Você já assina o ",
   "COMMON_EXCLAMATION": "!",
-  "COMMON_PERIOD": ".",
   "SETTINGS_PLUS_SUBSCRIBE_HEADING": "Assine o ",
   "SETTINGS_PLUS_SUBSCRIBE_BODY": "Compartilhe arquivos maiores, tenha acesso antecipado a recursos futuros e muito mais.",
   "SETTINGS_PLUS_LIMIT_FREE_LABEL": "Limite de upload gratuito:",

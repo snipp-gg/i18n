@@ -1384,7 +1384,6 @@
   "SETTINGS_PROFILE_CONFIRM_DELETE_UPLOADS_SINGULAR": "Spowoduje to trwałe usunięcie wszystkich przesłanych plików i postów ({count} plik). Twoje konto pozostanie aktywne. Tej akcji nie można cofnąć.",
   "SETTINGS_PLUS_ALREADY_SUBSCRIBED_HEADING": "Masz już subskrypcję ",
   "COMMON_EXCLAMATION": "!",
-  "COMMON_PERIOD": ".",
   "SETTINGS_PLUS_SUBSCRIBE_HEADING": "Subskrybuj ",
   "SETTINGS_PLUS_SUBSCRIBE_BODY": "Udostępniaj większe pliki, uzyskaj wczesny dostęp do nadchodzących funkcji i wiele więcej.",
   "SETTINGS_PLUS_LIMIT_FREE_LABEL": "Limit przesyłania w wersji darmowej:",

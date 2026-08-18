@@ -1384,7 +1384,6 @@
   "SETTINGS_PROFILE_CONFIRM_DELETE_UPLOADS_SINGULAR": "Tämä poistaa pysyvästi kaikki lataamasi tiedostot ja julkaisut ({count} tiedosto). Tilisi pysyy aktiivisena. Tätä toimintoa ei voi peruuttaa.",
   "SETTINGS_PLUS_ALREADY_SUBSCRIBED_HEADING": "Olet jo tilannut ",
   "COMMON_EXCLAMATION": "!",
-  "COMMON_PERIOD": ".",
   "SETTINGS_PLUS_SUBSCRIBE_HEADING": "Tilaa ",
   "SETTINGS_PLUS_SUBSCRIBE_BODY": "Jaa suurempia tiedostoja, saa varhainen pääsy tuleviin ominaisuuksiin ja paljon muuta.",
   "SETTINGS_PLUS_LIMIT_FREE_LABEL": "Ilmainen latausraja:",

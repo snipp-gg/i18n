@@ -1384,7 +1384,6 @@
   "SETTINGS_PROFILE_CONFIRM_DELETE_UPLOADS_SINGULAR": "Αυτό θα διαγράψει μόνιμα όλα τα ανεβασμένα αρχεία και αναρτήσεις σας ({count} αρχείο). Ο λογαριασμός σας θα παραμείνει ενεργός. Αυτή η ενέργεια δεν μπορεί να αναιρεθεί.",
   "SETTINGS_PLUS_ALREADY_SUBSCRIBED_HEADING": "Είστε ήδη συνδρομητής στο ",
   "COMMON_EXCLAMATION": "!",
-  "COMMON_PERIOD": ".",
   "SETTINGS_PLUS_SUBSCRIBE_HEADING": "Εγγραφείτε στο ",
   "SETTINGS_PLUS_SUBSCRIBE_BODY": "για να κοινοποιείτε μεγαλύτερα αρχεία, να έχετε πρώιμη πρόσβαση σε επερχόμενες λειτουργίες και πολλά άλλα.",
   "SETTINGS_PLUS_LIMIT_FREE_LABEL": "Δωρεάν Όριο Ανεβάσματος:",

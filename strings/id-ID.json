@@ -1384,7 +1384,6 @@
   "SETTINGS_PROFILE_CONFIRM_DELETE_UPLOADS_SINGULAR": "Ini akan menghapus semua file dan postingan yang Anda unggah secara permanen ({count} file). Akun Anda akan tetap aktif. Tindakan ini tidak dapat dibatalkan.",
   "SETTINGS_PLUS_ALREADY_SUBSCRIBED_HEADING": "Anda sudah berlangganan ",
   "COMMON_EXCLAMATION": "!",
-  "COMMON_PERIOD": ".",
   "SETTINGS_PLUS_SUBSCRIBE_HEADING": "Berlangganan ",
   "SETTINGS_PLUS_SUBSCRIBE_BODY": "Bagikan file yang lebih besar, dapatkan akses awal ke fitur mendatang, dan masih banyak lagi.",
   "SETTINGS_PLUS_LIMIT_FREE_LABEL": "Batas Unggah Gratis:",

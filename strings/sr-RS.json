@@ -1384,7 +1384,6 @@
   "SETTINGS_PROFILE_CONFIRM_DELETE_UPLOADS_SINGULAR": "Ovo će trajno obrisati sve vaše otpremljene fajlove i objave ({count} fajl). Vaš nalog će ostati aktivan. Ova radnja se ne može poništiti.",
   "SETTINGS_PLUS_ALREADY_SUBSCRIBED_HEADING": "Već ste pretplaćeni na ",
   "COMMON_EXCLAMATION": "!",
-  "COMMON_PERIOD": ".",
   "SETTINGS_PLUS_SUBSCRIBE_HEADING": "Pretplati se na ",
   "SETTINGS_PLUS_SUBSCRIBE_BODY": "Delite veće fajlove, dobijte rani pristup nadolazećim funkcijama i još mnogo toga.",
   "SETTINGS_PLUS_LIMIT_FREE_LABEL": "Besplatno ograničenje otpremanja:",

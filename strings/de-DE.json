@@ -1384,7 +1384,6 @@
   "SETTINGS_PROFILE_CONFIRM_DELETE_UPLOADS_SINGULAR": "Dadurch werden alle deine hochgeladenen Dateien und Beiträge dauerhaft gelöscht ({count} Datei). Dein Konto bleibt aktiv. Diese Aktion kann nicht rückgängig gemacht werden.",
   "SETTINGS_PLUS_ALREADY_SUBSCRIBED_HEADING": "Du hast bereits ein Abonnement von ",
   "COMMON_EXCLAMATION": "!",
-  "COMMON_PERIOD": ".",
   "SETTINGS_PLUS_SUBSCRIBE_HEADING": "Abonniere ",
   "SETTINGS_PLUS_SUBSCRIBE_BODY": "Teile größere Dateien, erhalte frühzeitigen Zugang zu kommenden Funktionen und vieles mehr.",
   "SETTINGS_PLUS_LIMIT_FREE_LABEL": "Upload-Limit (kostenlos):",

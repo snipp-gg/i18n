@@ -1384,7 +1384,6 @@
   "SETTINGS_PROFILE_CONFIRM_DELETE_UPLOADS_SINGULAR": "Týmto natrvalo odstrániš všetky svoje nahrané súbory a príspevky ({count} súbor). Tvoj účet zostane aktívny. Túto akciu nie je možné vrátiť späť.",
   "SETTINGS_PLUS_ALREADY_SUBSCRIBED_HEADING": "Už máš predplatné ",
   "COMMON_EXCLAMATION": "!",
-  "COMMON_PERIOD": ".",
   "SETTINGS_PLUS_SUBSCRIBE_HEADING": "Predplať si ",
   "SETTINGS_PLUS_SUBSCRIBE_BODY": "Zdieľaj väčšie súbory, získaj skorý prístup k pripravovaným funkciám a oveľa viac.",
   "SETTINGS_PLUS_LIMIT_FREE_LABEL": "Bezplatný limit nahrávania:",

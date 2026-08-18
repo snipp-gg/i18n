@@ -1384,7 +1384,6 @@
   "SETTINGS_PROFILE_CONFIRM_DELETE_UPLOADS_SINGULAR": "Detta raderar permanent alla dina uppladdade filer och inlägg ({count} fil). Ditt konto förblir aktivt. Den här åtgärden kan inte ångras.",
   "SETTINGS_PLUS_ALREADY_SUBSCRIBED_HEADING": "Du prenumererar redan på ",
   "COMMON_EXCLAMATION": "!",
-  "COMMON_PERIOD": ".",
   "SETTINGS_PLUS_SUBSCRIBE_HEADING": "Prenumerera på ",
   "SETTINGS_PLUS_SUBSCRIBE_BODY": "Dela större filer, få tidig åtkomst till kommande funktioner och så mycket mer.",
   "SETTINGS_PLUS_LIMIT_FREE_LABEL": "Gratis uppladdningsgräns:",

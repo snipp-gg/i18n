@@ -1384,7 +1384,6 @@
   "SETTINGS_PROFILE_CONFIRM_DELETE_UPLOADS_SINGULAR": "Acest lucru va șterge definitiv toate fișierele și postările tale încărcate ({count} fișier). Contul tău va rămâne activ. Această acțiune nu poate fi anulată.",
   "SETTINGS_PLUS_ALREADY_SUBSCRIBED_HEADING": "Ești deja abonat la ",
   "COMMON_EXCLAMATION": "!",
-  "COMMON_PERIOD": ".",
   "SETTINGS_PLUS_SUBSCRIBE_HEADING": "Abonează-te la ",
   "SETTINGS_PLUS_SUBSCRIBE_BODY": "Distribuie fișiere mai mari, obține acces timpuriu la funcții viitoare și multe altele.",
   "SETTINGS_PLUS_LIMIT_FREE_LABEL": "Limită de încărcare gratuită:",

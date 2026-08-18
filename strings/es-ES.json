@@ -1384,7 +1384,6 @@
   "SETTINGS_PROFILE_CONFIRM_DELETE_UPLOADS_SINGULAR": "Esto eliminará permanentemente todos tus archivos subidos y publicaciones ({count} archivo). Tu cuenta permanecerá activa. Esta acción no se puede deshacer.",
   "SETTINGS_PLUS_ALREADY_SUBSCRIBED_HEADING": "Ya estás suscrito a ",
   "COMMON_EXCLAMATION": "!",
-  "COMMON_PERIOD": ".",
   "SETTINGS_PLUS_SUBSCRIBE_HEADING": "Suscríbete a ",
   "SETTINGS_PLUS_SUBSCRIBE_BODY": "Comparte archivos más grandes, obtén acceso anticipado a próximas funciones y mucho más.",
   "SETTINGS_PLUS_LIMIT_FREE_LABEL": "Límite de subida gratuito:",

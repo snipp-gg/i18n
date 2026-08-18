@@ -1384,7 +1384,6 @@
   "SETTINGS_PROFILE_CONFIRM_DELETE_UPLOADS_SINGULAR": "この操作により、アップロードしたすべてのファイルと投稿（{count}件のファイル）が完全に削除されます。アカウントは有効なままです。この操作は取り消せません。",
   "SETTINGS_PLUS_ALREADY_SUBSCRIBED_HEADING": "すでに登録済みです： ",
   "COMMON_EXCLAMATION": "！",
-  "COMMON_PERIOD": "。",
   "SETTINGS_PLUS_SUBSCRIBE_HEADING": "登録する： ",
   "SETTINGS_PLUS_SUBSCRIBE_BODY": "より大きなファイルを共有でき、今後の機能に早期アクセスでき、さらに多くの特典が得られます。",
   "SETTINGS_PLUS_LIMIT_FREE_LABEL": "無料アップロード上限：",

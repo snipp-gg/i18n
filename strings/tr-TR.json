@@ -1384,7 +1384,6 @@
   "SETTINGS_PROFILE_CONFIRM_DELETE_UPLOADS_SINGULAR": "Bu işlem, yüklediğiniz tüm dosyaları ve gönderileri kalıcı olarak silecektir ({count} dosya). Hesabınız aktif kalacaktır. Bu işlem geri alınamaz.",
   "SETTINGS_PLUS_ALREADY_SUBSCRIBED_HEADING": "Zaten şuna abonesiniz: ",
   "COMMON_EXCLAMATION": "!",
-  "COMMON_PERIOD": ".",
   "SETTINGS_PLUS_SUBSCRIBE_HEADING": "Abone ol: ",
   "SETTINGS_PLUS_SUBSCRIBE_BODY": "Daha büyük dosyalar paylaşın, yaklaşan özelliklere erken erişim kazanın ve çok daha fazlası.",
   "SETTINGS_PLUS_LIMIT_FREE_LABEL": "Ücretsiz Yükleme Sınırı:",

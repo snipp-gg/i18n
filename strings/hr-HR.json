@@ -1384,7 +1384,6 @@
   "SETTINGS_PROFILE_CONFIRM_DELETE_UPLOADS_SINGULAR": "Time će se trajno izbrisati sve tvoje prenesene datoteke i objave ({count} datoteku). Tvoj će račun ostati aktivan. Ova se radnja ne može poništiti.",
   "SETTINGS_PLUS_ALREADY_SUBSCRIBED_HEADING": "Već si pretplaćen na ",
   "COMMON_EXCLAMATION": "!",
-  "COMMON_PERIOD": ".",
   "SETTINGS_PLUS_SUBSCRIBE_HEADING": "Pretplati se na ",
   "SETTINGS_PLUS_SUBSCRIBE_BODY": "Dijeli veće datoteke, ostvari rani pristup nadolazećim značajkama i još mnogo toga.",
   "SETTINGS_PLUS_LIMIT_FREE_LABEL": "Besplatno ograničenje prijenosa:",

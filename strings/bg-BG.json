@@ -1384,7 +1384,6 @@
   "SETTINGS_PROFILE_CONFIRM_DELETE_UPLOADS_SINGULAR": "Това ще изтрие завинаги всички качени файлове и публикации ({count} файл). Акаунтът ви ще остане активен. Това действие е необратимо.",
   "SETTINGS_PLUS_ALREADY_SUBSCRIBED_HEADING": "Вече сте абонирани за ",
   "COMMON_EXCLAMATION": "!",
-  "COMMON_PERIOD": ".",
   "SETTINGS_PLUS_SUBSCRIBE_HEADING": "Абонирайте се за ",
   "SETTINGS_PLUS_SUBSCRIBE_BODY": "Споделяйте по-големи файлове, получете ранен достъп до предстоящи функции и още много.",
   "SETTINGS_PLUS_LIMIT_FREE_LABEL": "Безплатен лимит за качване:",
