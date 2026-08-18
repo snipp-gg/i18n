@@ -1342,6 +1342,8 @@
   "SETTINGS_LINKED_ACCOUNTS_STATUS_NOT_CONNECTED": "कनेक्टेड नहीं",
   "SETTINGS_LINKED_ACCOUNTS_CONNECT_BUTTON": "कनेक्ट करें",
   "SETTINGS_LINKED_ACCOUNTS_DISCONNECT_BUTTON": "डिस्कनेक्ट करें",
+  "SETTINGS_LINKED_ACCOUNTS_DISCONNECT_TITLE": "{provider} डिस्कनेक्ट करें",
+  "SETTINGS_LINKED_ACCOUNTS_CONFIRM_DISCONNECT": "अब आप {provider} से साइन इन नहीं कर पाएँगे। आप इसे कभी भी दोबारा लिंक कर सकते हैं।",
   "SETTINGS_LINKED_ACCOUNTS_TOAST_CONNECTED": "{provider} कनेक्ट हो गया!",
   "SETTINGS_LINKED_ACCOUNTS_TOAST_DISCONNECTED": "{provider} डिस्कनेक्ट हो गया।",
   "SETTINGS_LINKED_ACCOUNTS_ERROR_ALREADY_LINKED": "वह अकाउंट पहले से किसी दूसरे Snipp उपयोगकर्ता से लिंक है।",

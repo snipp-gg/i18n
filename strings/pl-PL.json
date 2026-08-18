@@ -1342,6 +1342,8 @@
   "SETTINGS_LINKED_ACCOUNTS_STATUS_NOT_CONNECTED": "Nie połączono",
   "SETTINGS_LINKED_ACCOUNTS_CONNECT_BUTTON": "Połącz",
   "SETTINGS_LINKED_ACCOUNTS_DISCONNECT_BUTTON": "Rozłącz",
+  "SETTINGS_LINKED_ACCOUNTS_DISCONNECT_TITLE": "Rozłącz {provider}",
+  "SETTINGS_LINKED_ACCOUNTS_CONFIRM_DISCONNECT": "Nie będziesz już móc logować się przez {provider}. W każdej chwili możesz połączyć je ponownie.",
   "SETTINGS_LINKED_ACCOUNTS_TOAST_CONNECTED": "Połączono z {provider}!",
   "SETTINGS_LINKED_ACCOUNTS_TOAST_DISCONNECTED": "Rozłączono z {provider}.",
   "SETTINGS_LINKED_ACCOUNTS_ERROR_ALREADY_LINKED": "To konto jest już połączone z innym użytkownikiem Snipp.",

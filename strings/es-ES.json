@@ -1342,6 +1342,8 @@
   "SETTINGS_LINKED_ACCOUNTS_STATUS_NOT_CONNECTED": "No conectado",
   "SETTINGS_LINKED_ACCOUNTS_CONNECT_BUTTON": "Conectar",
   "SETTINGS_LINKED_ACCOUNTS_DISCONNECT_BUTTON": "Desconectar",
+  "SETTINGS_LINKED_ACCOUNTS_DISCONNECT_TITLE": "Desconectar {provider}",
+  "SETTINGS_LINKED_ACCOUNTS_CONFIRM_DISCONNECT": "Ya no podrás iniciar sesión con {provider}. Puedes volver a vincularlo cuando quieras.",
   "SETTINGS_LINKED_ACCOUNTS_TOAST_CONNECTED": "¡{provider} conectado!",
   "SETTINGS_LINKED_ACCOUNTS_TOAST_DISCONNECTED": "{provider} desconectado.",
   "SETTINGS_LINKED_ACCOUNTS_ERROR_ALREADY_LINKED": "Esa cuenta ya está vinculada a otro usuario de Snipp.",

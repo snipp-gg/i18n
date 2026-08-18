@@ -1342,6 +1342,8 @@
   "SETTINGS_LINKED_ACCOUNTS_STATUS_NOT_CONNECTED": "Chưa kết nối",
   "SETTINGS_LINKED_ACCOUNTS_CONNECT_BUTTON": "Kết nối",
   "SETTINGS_LINKED_ACCOUNTS_DISCONNECT_BUTTON": "Ngắt kết nối",
+  "SETTINGS_LINKED_ACCOUNTS_DISCONNECT_TITLE": "Ngắt kết nối {provider}",
+  "SETTINGS_LINKED_ACCOUNTS_CONFIRM_DISCONNECT": "Bạn sẽ không thể đăng nhập bằng {provider} nữa. Bạn có thể liên kết lại bất cứ lúc nào.",
   "SETTINGS_LINKED_ACCOUNTS_TOAST_CONNECTED": "Đã kết nối {provider}!",
   "SETTINGS_LINKED_ACCOUNTS_TOAST_DISCONNECTED": "Đã ngắt kết nối {provider}.",
   "SETTINGS_LINKED_ACCOUNTS_ERROR_ALREADY_LINKED": "Tài khoản đó đã được liên kết với một người dùng Snipp khác.",

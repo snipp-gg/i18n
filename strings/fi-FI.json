@@ -1342,6 +1342,8 @@
   "SETTINGS_LINKED_ACCOUNTS_STATUS_NOT_CONNECTED": "Ei yhdistetty",
   "SETTINGS_LINKED_ACCOUNTS_CONNECT_BUTTON": "Yhdistä",
   "SETTINGS_LINKED_ACCOUNTS_DISCONNECT_BUTTON": "Katkaise yhteys",
+  "SETTINGS_LINKED_ACCOUNTS_DISCONNECT_TITLE": "Katkaise yhteys palveluun {provider}",
+  "SETTINGS_LINKED_ACCOUNTS_CONFIRM_DISCONNECT": "Et voi enää kirjautua {provider}-tilillä. Voit yhdistää sen uudelleen milloin tahansa.",
   "SETTINGS_LINKED_ACCOUNTS_TOAST_CONNECTED": "{provider} yhdistetty!",
   "SETTINGS_LINKED_ACCOUNTS_TOAST_DISCONNECTED": "{provider} yhteys katkaistu.",
   "SETTINGS_LINKED_ACCOUNTS_ERROR_ALREADY_LINKED": "Tämä tili on jo liitetty toiseen Snipp-käyttäjään.",

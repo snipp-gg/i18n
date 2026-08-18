@@ -1342,6 +1342,8 @@
   "SETTINGS_LINKED_ACCOUNTS_STATUS_NOT_CONNECTED": "Hindi nakakonekta",
   "SETTINGS_LINKED_ACCOUNTS_CONNECT_BUTTON": "Ikonekta",
   "SETTINGS_LINKED_ACCOUNTS_DISCONNECT_BUTTON": "Idiskonekta",
+  "SETTINGS_LINKED_ACCOUNTS_DISCONNECT_TITLE": "Idiskonekta ang {provider}",
+  "SETTINGS_LINKED_ACCOUNTS_CONFIRM_DISCONNECT": "Hindi ka na makakapag-sign in gamit ang {provider}. Maaari mo itong i-link muli anumang oras.",
   "SETTINGS_LINKED_ACCOUNTS_TOAST_CONNECTED": "Nakakonekta na ang {provider}!",
   "SETTINGS_LINKED_ACCOUNTS_TOAST_DISCONNECTED": "Naidiskonekta na ang {provider}.",
   "SETTINGS_LINKED_ACCOUNTS_ERROR_ALREADY_LINKED": "Naka-link na ang account na iyon sa ibang Snipp user.",

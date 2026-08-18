@@ -1342,6 +1342,8 @@
   "SETTINGS_LINKED_ACCOUNTS_STATUS_NOT_CONNECTED": "Nepropojeno",
   "SETTINGS_LINKED_ACCOUNTS_CONNECT_BUTTON": "Propojit",
   "SETTINGS_LINKED_ACCOUNTS_DISCONNECT_BUTTON": "Odpojit",
+  "SETTINGS_LINKED_ACCOUNTS_DISCONNECT_TITLE": "Odpojit {provider}",
+  "SETTINGS_LINKED_ACCOUNTS_CONFIRM_DISCONNECT": "Už se nebudete moct přihlašovat pomocí {provider}. Kdykoli jej můžete znovu propojit.",
   "SETTINGS_LINKED_ACCOUNTS_TOAST_CONNECTED": "{provider} propojen!",
   "SETTINGS_LINKED_ACCOUNTS_TOAST_DISCONNECTED": "{provider} odpojen.",
   "SETTINGS_LINKED_ACCOUNTS_ERROR_ALREADY_LINKED": "Tento účet je již propojen s jiným uživatelem Snipp.",

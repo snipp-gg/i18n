@@ -1342,6 +1342,8 @@
   "SETTINGS_LINKED_ACCOUNTS_STATUS_NOT_CONNECTED": "Tidak terhubung",
   "SETTINGS_LINKED_ACCOUNTS_CONNECT_BUTTON": "Hubungkan",
   "SETTINGS_LINKED_ACCOUNTS_DISCONNECT_BUTTON": "Putuskan",
+  "SETTINGS_LINKED_ACCOUNTS_DISCONNECT_TITLE": "Putuskan {provider}",
+  "SETTINGS_LINKED_ACCOUNTS_CONFIRM_DISCONNECT": "Anda tidak akan bisa lagi masuk dengan {provider}. Anda dapat menautkannya kembali kapan saja.",
   "SETTINGS_LINKED_ACCOUNTS_TOAST_CONNECTED": "{provider} terhubung!",
   "SETTINGS_LINKED_ACCOUNTS_TOAST_DISCONNECTED": "{provider} terputus.",
   "SETTINGS_LINKED_ACCOUNTS_ERROR_ALREADY_LINKED": "Akun tersebut sudah ditautkan ke pengguna Snipp lain.",

@@ -1342,6 +1342,8 @@
   "SETTINGS_LINKED_ACCOUNTS_STATUS_NOT_CONNECTED": "Ikke tilkoblet",
   "SETTINGS_LINKED_ACCOUNTS_CONNECT_BUTTON": "Koble til",
   "SETTINGS_LINKED_ACCOUNTS_DISCONNECT_BUTTON": "Koble fra",
+  "SETTINGS_LINKED_ACCOUNTS_DISCONNECT_TITLE": "Koble fra {provider}",
+  "SETTINGS_LINKED_ACCOUNTS_CONFIRM_DISCONNECT": "Du vil ikke lenger kunne logge inn med {provider}. Du kan koble til igjen når som helst.",
   "SETTINGS_LINKED_ACCOUNTS_TOAST_CONNECTED": "{provider} tilkoblet!",
   "SETTINGS_LINKED_ACCOUNTS_TOAST_DISCONNECTED": "{provider} frakoblet.",
   "SETTINGS_LINKED_ACCOUNTS_ERROR_ALREADY_LINKED": "Den kontoen er allerede knyttet til en annen Snipp-bruker.",

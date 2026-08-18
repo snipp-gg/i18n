@@ -1342,6 +1342,8 @@
   "SETTINGS_LINKED_ACCOUNTS_STATUS_NOT_CONNECTED": "Inte ansluten",
   "SETTINGS_LINKED_ACCOUNTS_CONNECT_BUTTON": "Anslut",
   "SETTINGS_LINKED_ACCOUNTS_DISCONNECT_BUTTON": "Koppla från",
+  "SETTINGS_LINKED_ACCOUNTS_DISCONNECT_TITLE": "Koppla från {provider}",
+  "SETTINGS_LINKED_ACCOUNTS_CONFIRM_DISCONNECT": "Du kommer inte längre att kunna logga in med {provider}. Du kan länka det igen när som helst.",
   "SETTINGS_LINKED_ACCOUNTS_TOAST_CONNECTED": "{provider} ansluten!",
   "SETTINGS_LINKED_ACCOUNTS_TOAST_DISCONNECTED": "{provider} frånkopplad.",
   "SETTINGS_LINKED_ACCOUNTS_ERROR_ALREADY_LINKED": "Det kontot är redan länkat till en annan Snipp-användare.",

@@ -1342,6 +1342,8 @@
   "SETTINGS_LINKED_ACCOUNTS_STATUS_NOT_CONNECTED": "Nije povezano",
   "SETTINGS_LINKED_ACCOUNTS_CONNECT_BUTTON": "Poveži",
   "SETTINGS_LINKED_ACCOUNTS_DISCONNECT_BUTTON": "Prekini vezu",
+  "SETTINGS_LINKED_ACCOUNTS_DISCONNECT_TITLE": "Prekini vezu s {provider}",
+  "SETTINGS_LINKED_ACCOUNTS_CONFIRM_DISCONNECT": "Više se nećeš moći prijavljivati putem {provider}. Možeš ga ponovno povezati bilo kada.",
   "SETTINGS_LINKED_ACCOUNTS_TOAST_CONNECTED": "{provider} povezan!",
   "SETTINGS_LINKED_ACCOUNTS_TOAST_DISCONNECTED": "{provider} odvojen.",
   "SETTINGS_LINKED_ACCOUNTS_ERROR_ALREADY_LINKED": "Taj je račun već povezan s drugim Snipp korisnikom.",

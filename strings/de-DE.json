@@ -1342,6 +1342,8 @@
   "SETTINGS_LINKED_ACCOUNTS_STATUS_NOT_CONNECTED": "Nicht verbunden",
   "SETTINGS_LINKED_ACCOUNTS_CONNECT_BUTTON": "Verbinden",
   "SETTINGS_LINKED_ACCOUNTS_DISCONNECT_BUTTON": "Trennen",
+  "SETTINGS_LINKED_ACCOUNTS_DISCONNECT_TITLE": "{provider} trennen",
+  "SETTINGS_LINKED_ACCOUNTS_CONFIRM_DISCONNECT": "Du kannst dich nicht mehr mit {provider} anmelden. Du kannst es jederzeit wieder verknüpfen.",
   "SETTINGS_LINKED_ACCOUNTS_TOAST_CONNECTED": "{provider} verbunden!",
   "SETTINGS_LINKED_ACCOUNTS_TOAST_DISCONNECTED": "{provider} getrennt.",
   "SETTINGS_LINKED_ACCOUNTS_ERROR_ALREADY_LINKED": "Dieses Konto ist bereits mit einem anderen Snipp-Nutzer verknüpft.",

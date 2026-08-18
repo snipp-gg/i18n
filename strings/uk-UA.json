@@ -1342,6 +1342,8 @@
   "SETTINGS_LINKED_ACCOUNTS_STATUS_NOT_CONNECTED": "Не підключено",
   "SETTINGS_LINKED_ACCOUNTS_CONNECT_BUTTON": "Підключити",
   "SETTINGS_LINKED_ACCOUNTS_DISCONNECT_BUTTON": "Відключити",
+  "SETTINGS_LINKED_ACCOUNTS_DISCONNECT_TITLE": "Відключити {provider}",
+  "SETTINGS_LINKED_ACCOUNTS_CONFIRM_DISCONNECT": "Ви більше не зможете входити через {provider}. Ви можете будь-коли прив'язати його знову.",
   "SETTINGS_LINKED_ACCOUNTS_TOAST_CONNECTED": "{provider} підключено!",
   "SETTINGS_LINKED_ACCOUNTS_TOAST_DISCONNECTED": "{provider} відключено.",
   "SETTINGS_LINKED_ACCOUNTS_ERROR_ALREADY_LINKED": "Цей акаунт уже прив'язаний до іншого користувача Snipp.",

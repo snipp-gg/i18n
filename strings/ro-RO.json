@@ -1342,6 +1342,8 @@
   "SETTINGS_LINKED_ACCOUNTS_STATUS_NOT_CONNECTED": "Neconectat",
   "SETTINGS_LINKED_ACCOUNTS_CONNECT_BUTTON": "Conectează",
   "SETTINGS_LINKED_ACCOUNTS_DISCONNECT_BUTTON": "Deconectează",
+  "SETTINGS_LINKED_ACCOUNTS_DISCONNECT_TITLE": "Deconectează {provider}",
+  "SETTINGS_LINKED_ACCOUNTS_CONFIRM_DISCONNECT": "Nu te vei mai putea autentifica cu {provider}. Îl poți conecta din nou oricând.",
   "SETTINGS_LINKED_ACCOUNTS_TOAST_CONNECTED": "{provider} a fost conectat!",
   "SETTINGS_LINKED_ACCOUNTS_TOAST_DISCONNECTED": "{provider} a fost deconectat.",
   "SETTINGS_LINKED_ACCOUNTS_ERROR_ALREADY_LINKED": "Acel cont este deja asociat cu un alt utilizator Snipp.",

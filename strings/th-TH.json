@@ -1342,6 +1342,8 @@
   "SETTINGS_LINKED_ACCOUNTS_STATUS_NOT_CONNECTED": "ยังไม่ได้เชื่อมต่อ",
   "SETTINGS_LINKED_ACCOUNTS_CONNECT_BUTTON": "เชื่อมต่อ",
   "SETTINGS_LINKED_ACCOUNTS_DISCONNECT_BUTTON": "ยกเลิกการเชื่อมต่อ",
+  "SETTINGS_LINKED_ACCOUNTS_DISCONNECT_TITLE": "ยกเลิกการเชื่อมต่อ {provider}",
+  "SETTINGS_LINKED_ACCOUNTS_CONFIRM_DISCONNECT": "คุณจะไม่สามารถเข้าสู่ระบบด้วย {provider} ได้อีกต่อไป คุณสามารถเชื่อมต่ออีกครั้งได้ทุกเมื่อ",
   "SETTINGS_LINKED_ACCOUNTS_TOAST_CONNECTED": "เชื่อมต่อ {provider} แล้ว!",
   "SETTINGS_LINKED_ACCOUNTS_TOAST_DISCONNECTED": "ยกเลิกการเชื่อมต่อ {provider} แล้ว",
   "SETTINGS_LINKED_ACCOUNTS_ERROR_ALREADY_LINKED": "บัญชีนั้นถูกเชื่อมต่อกับผู้ใช้ Snipp รายอื่นแล้ว",

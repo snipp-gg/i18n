@@ -1342,6 +1342,8 @@
   "SETTINGS_LINKED_ACCOUNTS_STATUS_NOT_CONNECTED": "Bağlı değil",
   "SETTINGS_LINKED_ACCOUNTS_CONNECT_BUTTON": "Bağla",
   "SETTINGS_LINKED_ACCOUNTS_DISCONNECT_BUTTON": "Bağlantıyı kes",
+  "SETTINGS_LINKED_ACCOUNTS_DISCONNECT_TITLE": "{provider} bağlantısını kes",
+  "SETTINGS_LINKED_ACCOUNTS_CONFIRM_DISCONNECT": "Artık {provider} ile giriş yapamayacaksınız. İstediğiniz zaman yeniden bağlayabilirsiniz.",
   "SETTINGS_LINKED_ACCOUNTS_TOAST_CONNECTED": "{provider} bağlandı!",
   "SETTINGS_LINKED_ACCOUNTS_TOAST_DISCONNECTED": "{provider} bağlantısı kesildi.",
   "SETTINGS_LINKED_ACCOUNTS_ERROR_ALREADY_LINKED": "Bu hesap zaten başka bir Snipp kullanıcısına bağlı.",

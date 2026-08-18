@@ -1342,6 +1342,8 @@
   "SETTINGS_LINKED_ACCOUNTS_STATUS_NOT_CONNECTED": "Niet verbonden",
   "SETTINGS_LINKED_ACCOUNTS_CONNECT_BUTTON": "Verbinden",
   "SETTINGS_LINKED_ACCOUNTS_DISCONNECT_BUTTON": "Verbinding verbreken",
+  "SETTINGS_LINKED_ACCOUNTS_DISCONNECT_TITLE": "Verbinding met {provider} verbreken",
+  "SETTINGS_LINKED_ACCOUNTS_CONFIRM_DISCONNECT": "Je kunt niet meer inloggen met {provider}. Je kunt het op elk moment opnieuw koppelen.",
   "SETTINGS_LINKED_ACCOUNTS_TOAST_CONNECTED": "{provider} verbonden!",
   "SETTINGS_LINKED_ACCOUNTS_TOAST_DISCONNECTED": "{provider} losgekoppeld.",
   "SETTINGS_LINKED_ACCOUNTS_ERROR_ALREADY_LINKED": "Dat account is al gekoppeld aan een andere Snipp-gebruiker.",

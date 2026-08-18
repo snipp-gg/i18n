@@ -1342,6 +1342,8 @@
   "SETTINGS_LINKED_ACCOUNTS_STATUS_NOT_CONNECTED": "Μη συνδεδεμένο",
   "SETTINGS_LINKED_ACCOUNTS_CONNECT_BUTTON": "Σύνδεση",
   "SETTINGS_LINKED_ACCOUNTS_DISCONNECT_BUTTON": "Αποσύνδεση",
+  "SETTINGS_LINKED_ACCOUNTS_DISCONNECT_TITLE": "Αποσύνδεση του {provider}",
+  "SETTINGS_LINKED_ACCOUNTS_CONFIRM_DISCONNECT": "Δεν θα μπορείτε πλέον να συνδέεστε με το {provider}. Μπορείτε να το συνδέσετε ξανά όποτε θέλετε.",
   "SETTINGS_LINKED_ACCOUNTS_TOAST_CONNECTED": "Το {provider} συνδέθηκε!",
   "SETTINGS_LINKED_ACCOUNTS_TOAST_DISCONNECTED": "Το {provider} αποσυνδέθηκε.",
   "SETTINGS_LINKED_ACCOUNTS_ERROR_ALREADY_LINKED": "Αυτός ο λογαριασμός είναι ήδη συνδεδεμένος με άλλον χρήστη Snipp.",
