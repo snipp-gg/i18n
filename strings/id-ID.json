@@ -2113,6 +2113,8 @@
   "COMMON_DOWNLOAD": "Unduh",
   "CONVERT_DROP_HEADING": "Jatuhkan atau telusuri file untuk dikonversi",
   "CONVERT_DROP_HINT": "Gambar dan video, hingga {limit}",
+  "CONVERT_DROP_READY": "File Anda siap dikonversi!",
+  "CONVERT_DROP_READY_CONVERTED": "File Anda berhasil dikonversi!",
   "CONVERT_READY_HINT": "Tersimpan di perangkat Anda. Unggah untuk mendapatkan tautan.",
   "CONVERT_UPLOADED_HEADING": "Terunggah!",
   "CONVERT_TOAST_CONVERTING": "Mengonversi...",

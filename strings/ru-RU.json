@@ -2113,6 +2113,8 @@
   "COMMON_DOWNLOAD": "Скачать",
   "CONVERT_DROP_HEADING": "Перетащите или выберите файл для преобразования",
   "CONVERT_DROP_HINT": "Изображения и видео, до {limit}",
+  "CONVERT_DROP_READY": "Ваш файл готов к преобразованию!",
+  "CONVERT_DROP_READY_CONVERTED": "Ваш файл преобразован!",
   "CONVERT_READY_HINT": "Сохранено на вашем устройстве. Загрузите файл, чтобы получить ссылку.",
   "CONVERT_UPLOADED_HEADING": "Загружено!",
   "CONVERT_TOAST_CONVERTING": "Преобразование...",

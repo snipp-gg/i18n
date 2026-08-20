@@ -2113,6 +2113,8 @@
   "COMMON_DOWNLOAD": "Preuzmi",
   "CONVERT_DROP_HEADING": "Otpustite ili pregledajte fajl za konvertovanje",
   "CONVERT_DROP_HINT": "Slike i video, do {limit}",
+  "CONVERT_DROP_READY": "Vaš fajl je spreman za konvertovanje!",
+  "CONVERT_DROP_READY_CONVERTED": "Vaš fajl je konvertovan!",
   "CONVERT_READY_HINT": "Sačuvano na vašem uređaju. Otpremite ga za link.",
   "CONVERT_UPLOADED_HEADING": "Otpremljeno!",
   "CONVERT_TOAST_CONVERTING": "Konvertovanje...",

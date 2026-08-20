@@ -2113,6 +2113,8 @@
   "COMMON_DOWNLOAD": "Stáhnout",
   "CONVERT_DROP_HEADING": "Přetáhněte nebo vyberte soubor k převodu",
   "CONVERT_DROP_HINT": "Obrázky a videa, do {limit}",
+  "CONVERT_DROP_READY": "Váš soubor je připraven k převedení!",
+  "CONVERT_DROP_READY_CONVERTED": "Váš soubor byl převeden!",
   "CONVERT_READY_HINT": "Uloženo do vašeho zařízení. Nahrajte ho a získáte odkaz.",
   "CONVERT_UPLOADED_HEADING": "Nahráno!",
   "CONVERT_TOAST_CONVERTING": "Převádění...",
