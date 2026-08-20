@@ -2115,7 +2115,6 @@
   "CONVERT_DROP_READY": "Το αρχείο σας είναι έτοιμο για μετατροπή!",
   "CONVERT_SUCCESS_HEADING": "Η μετατροπή ολοκληρώθηκε!",
   "CONVERT_READY_HINT": "Αποθηκεύτηκε στη συσκευή σας. Ανεβάστε το για να λάβετε σύνδεσμο.",
-  "CONVERT_TOAST_CONVERTING": "Μετατροπή...",
   "CONVERT_TOAST_READY": "Το αρχείο μετατράπηκε!",
   "CONVERT_TOAST_FAILED": "Αποτυχία μετατροπής του αρχείου.",
   "CONVERT_TOAST_UPLOAD_FAILED": "Αποτυχία ανεβάσματος του αρχείου.",

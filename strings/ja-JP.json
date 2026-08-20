@@ -2115,7 +2115,6 @@
   "CONVERT_DROP_READY": "ファイルが変換の準備完了です。",
   "CONVERT_SUCCESS_HEADING": "変換完了！",
   "CONVERT_READY_HINT": "デバイスに保存しました。アップロードするとリンクを取得できます。",
-  "CONVERT_TOAST_CONVERTING": "変換中...",
   "CONVERT_TOAST_READY": "ファイルを変換しました！",
   "CONVERT_TOAST_FAILED": "ファイルの変換に失敗しました。",
   "CONVERT_TOAST_UPLOAD_FAILED": "ファイルのアップロードに失敗しました。",

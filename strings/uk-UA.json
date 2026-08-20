@@ -2115,7 +2115,6 @@
   "CONVERT_DROP_READY": "Ваш файл готовий до перетворення!",
   "CONVERT_SUCCESS_HEADING": "Перетворення завершено!",
   "CONVERT_READY_HINT": "Збережено на вашому пристрої. Завантажте файл, щоб отримати посилання.",
-  "CONVERT_TOAST_CONVERTING": "Перетворення...",
   "CONVERT_TOAST_READY": "Файл перетворено!",
   "CONVERT_TOAST_FAILED": "Не вдалося перетворити файл.",
   "CONVERT_TOAST_UPLOAD_FAILED": "Не вдалося завантажити файл.",

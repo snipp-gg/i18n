@@ -2115,7 +2115,6 @@
   "CONVERT_DROP_READY": "파일이 변환할 준비가 되었습니다!",
   "CONVERT_SUCCESS_HEADING": "변환 완료!",
   "CONVERT_READY_HINT": "기기에 저장되었습니다. 업로드하면 링크를 받을 수 있습니다.",
-  "CONVERT_TOAST_CONVERTING": "변환 중...",
   "CONVERT_TOAST_READY": "파일이 변환되었습니다!",
   "CONVERT_TOAST_FAILED": "파일을 변환하지 못했습니다.",
   "CONVERT_TOAST_UPLOAD_FAILED": "파일을 업로드하지 못했습니다.",

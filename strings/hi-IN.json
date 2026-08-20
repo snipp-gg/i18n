@@ -2115,7 +2115,6 @@
   "CONVERT_DROP_READY": "आपकी फ़ाइल कन्वर्ट के लिए तैयार है!",
   "CONVERT_SUCCESS_HEADING": "कन्वर्ट सफल!",
   "CONVERT_READY_HINT": "आपके डिवाइस में सेव हो गई। लिंक के लिए इसे अपलोड करें।",
-  "CONVERT_TOAST_CONVERTING": "कन्वर्ट हो रहा है...",
   "CONVERT_TOAST_READY": "फ़ाइल कन्वर्ट हो गई!",
   "CONVERT_TOAST_FAILED": "फ़ाइल कन्वर्ट करने में विफल।",
   "CONVERT_TOAST_UPLOAD_FAILED": "फ़ाइल अपलोड करने में विफल।",

@@ -2115,7 +2115,6 @@
   "CONVERT_DROP_READY": "Handa nang i-convert ang iyong file!",
   "CONVERT_SUCCESS_HEADING": "Matagumpay ang pag-convert!",
   "CONVERT_READY_HINT": "Na-save sa iyong device. I-upload ito para sa link.",
-  "CONVERT_TOAST_CONVERTING": "Kino-convert...",
   "CONVERT_TOAST_READY": "Na-convert na ang file!",
   "CONVERT_TOAST_FAILED": "Hindi na-convert ang file.",
   "CONVERT_TOAST_UPLOAD_FAILED": "Hindi na-upload ang file.",

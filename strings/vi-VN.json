@@ -2115,7 +2115,6 @@
   "CONVERT_DROP_READY": "Tệp của bạn đã sẵn sàng chuyển đổi!",
   "CONVERT_SUCCESS_HEADING": "Chuyển đổi thành công!",
   "CONVERT_READY_HINT": "Đã lưu vào thiết bị của bạn. Tải lên để nhận liên kết.",
-  "CONVERT_TOAST_CONVERTING": "Đang chuyển đổi...",
   "CONVERT_TOAST_READY": "Đã chuyển đổi tệp!",
   "CONVERT_TOAST_FAILED": "Không thể chuyển đổi tệp này.",
   "CONVERT_TOAST_UPLOAD_FAILED": "Không thể tải lên tệp này.",

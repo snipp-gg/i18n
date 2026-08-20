@@ -2115,7 +2115,6 @@
   "CONVERT_DROP_READY": "Seu arquivo está pronto para conversão!",
   "CONVERT_SUCCESS_HEADING": "Conversão concluída!",
   "CONVERT_READY_HINT": "Salvo no seu dispositivo. Envie o arquivo para obter um link.",
-  "CONVERT_TOAST_CONVERTING": "Convertendo...",
   "CONVERT_TOAST_READY": "Arquivo convertido!",
   "CONVERT_TOAST_FAILED": "Falha ao converter o arquivo.",
   "CONVERT_TOAST_UPLOAD_FAILED": "Falha ao enviar o arquivo.",

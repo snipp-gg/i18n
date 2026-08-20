@@ -2115,7 +2115,6 @@
   "CONVERT_DROP_READY": "Din fil är redo att konverteras!",
   "CONVERT_SUCCESS_HEADING": "Konvertering lyckades!",
   "CONVERT_READY_HINT": "Sparat på din enhet. Ladda upp filen för att få en länk.",
-  "CONVERT_TOAST_CONVERTING": "Konverterar...",
   "CONVERT_TOAST_READY": "Filen har konverterats!",
   "CONVERT_TOAST_FAILED": "Kunde inte konvertera filen.",
   "CONVERT_TOAST_UPLOAD_FAILED": "Kunde inte ladda upp filen.",

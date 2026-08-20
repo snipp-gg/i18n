@@ -2115,7 +2115,6 @@
   "CONVERT_DROP_READY": "Vaš fajl je spreman za konvertovanje!",
   "CONVERT_SUCCESS_HEADING": "Konvertovanje je uspešno!",
   "CONVERT_READY_HINT": "Sačuvano na vašem uređaju. Otpremite ga za link.",
-  "CONVERT_TOAST_CONVERTING": "Konvertovanje...",
   "CONVERT_TOAST_READY": "Fajl je konvertovan!",
   "CONVERT_TOAST_FAILED": "Neuspešno konvertovanje fajla.",
   "CONVERT_TOAST_UPLOAD_FAILED": "Neuspešno otpremanje fajla.",

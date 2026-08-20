@@ -2115,7 +2115,6 @@
   "CONVERT_DROP_READY": "Dosyanız dönüştürülmeye hazır!",
   "CONVERT_SUCCESS_HEADING": "Dönüştürme başarılı!",
   "CONVERT_READY_HINT": "Cihazınıza kaydedildi. Bağlantı için dosyayı yükleyin.",
-  "CONVERT_TOAST_CONVERTING": "Dönüştürülüyor...",
   "CONVERT_TOAST_READY": "Dosya dönüştürüldü!",
   "CONVERT_TOAST_FAILED": "Dosya dönüştürülemedi.",
   "CONVERT_TOAST_UPLOAD_FAILED": "Dosya yüklenemedi.",

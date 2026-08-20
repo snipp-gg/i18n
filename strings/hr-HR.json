@@ -2115,7 +2115,6 @@
   "CONVERT_DROP_READY": "Tvoja je datoteka spremna za pretvorbu!",
   "CONVERT_SUCCESS_HEADING": "Pretvorba je uspješna!",
   "CONVERT_READY_HINT": "Spremljeno na tvoj uređaj. Prenesi datoteku za link.",
-  "CONVERT_TOAST_CONVERTING": "Pretvaranje...",
   "CONVERT_TOAST_READY": "Datoteka je pretvorena!",
   "CONVERT_TOAST_FAILED": "Pretvaranje datoteke nije uspjelo.",
   "CONVERT_TOAST_UPLOAD_FAILED": "Prijenos datoteke nije uspio.",

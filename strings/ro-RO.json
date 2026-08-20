@@ -2115,7 +2115,6 @@
   "CONVERT_DROP_READY": "Fișierul tău este gata de conversie!",
   "CONVERT_SUCCESS_HEADING": "Conversie reușită!",
   "CONVERT_READY_HINT": "Salvat pe dispozitivul tău. Încarcă-l pentru un link.",
-  "CONVERT_TOAST_CONVERTING": "Se convertește...",
   "CONVERT_TOAST_READY": "Fișier convertit!",
   "CONVERT_TOAST_FAILED": "Nu s-a putut converti fișierul.",
   "CONVERT_TOAST_UPLOAD_FAILED": "Nu s-a putut încărca fișierul.",

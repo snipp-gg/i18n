@@ -2115,7 +2115,6 @@
   "CONVERT_DROP_READY": "Tiedostosi on valmis muunnettavaksi!",
   "CONVERT_SUCCESS_HEADING": "Muunnos onnistui!",
   "CONVERT_READY_HINT": "Tallennettu laitteellesi. Lataa se saadaksesi linkin.",
-  "CONVERT_TOAST_CONVERTING": "Muunnetaan...",
   "CONVERT_TOAST_READY": "Tiedosto muunnettu!",
   "CONVERT_TOAST_FAILED": "Tiedoston muuntaminen epäonnistui.",
   "CONVERT_TOAST_UPLOAD_FAILED": "Tiedoston lataus epäonnistui.",
