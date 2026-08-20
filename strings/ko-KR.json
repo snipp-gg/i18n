@@ -2108,5 +2108,17 @@
   "SETTINGS_NOTIFICATIONS_EMAIL_LOCKED_LABEL": "보안 및 계정 이메일",
   "SETTINGS_NOTIFICATIONS_EMAIL_LOCKED_HINT": "로그인 링크, 이메일 변경, 검열, 정지 관련 메일은 항상 발송됩니다.",
   "SETTINGS_NOTIFICATIONS_TOAST_SAVED": "알림 환경설정이 저장되었습니다!",
-  "SETTINGS_NOTIFICATIONS_ERROR_SAVE": "환경설정을 저장하지 못했습니다."
+  "SETTINGS_NOTIFICATIONS_ERROR_SAVE": "환경설정을 저장하지 못했습니다.",
+  "COMMON_CONVERT": "변환",
+  "COMMON_DOWNLOAD": "다운로드",
+  "CONVERT_DROP_HEADING": "파일을 드롭하거나 찾아보기로 변환",
+  "CONVERT_DROP_HINT": "이미지 및 동영상, 최대 {limit}",
+  "CONVERT_READY_HINT": "기기에 저장되었습니다. 업로드하면 공유 링크를 받을 수 있습니다.",
+  "CONVERT_UPLOADED_HEADING": "업로드 완료!",
+  "CONVERT_TOAST_CONVERTING": "변환 중...",
+  "CONVERT_TOAST_READY": "파일이 변환되었습니다!",
+  "CONVERT_TOAST_FAILED": "파일을 변환하지 못했습니다.",
+  "CONVERT_TOAST_UPLOAD_FAILED": "파일을 업로드하지 못했습니다.",
+  "CONVERT_ERROR_UNSUPPORTED": "이 파일은 변환할 수 없습니다.",
+  "CONVERT_ERROR_TOO_LARGE": "파일이 {limit} 변환 한도를 초과했습니다."
 }

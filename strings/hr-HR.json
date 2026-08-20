@@ -2108,5 +2108,17 @@
   "SETTINGS_NOTIFICATIONS_EMAIL_LOCKED_LABEL": "E-poruke o sigurnosti i računu",
   "SETTINGS_NOTIFICATIONS_EMAIL_LOCKED_HINT": "Poveznice za prijavu, promjene e-adrese, moderiranje i suspenzije uvijek se šalju.",
   "SETTINGS_NOTIFICATIONS_TOAST_SAVED": "Postavke obavijesti spremljene!",
-  "SETTINGS_NOTIFICATIONS_ERROR_SAVE": "Spremanje postavki nije uspjelo."
+  "SETTINGS_NOTIFICATIONS_ERROR_SAVE": "Spremanje postavki nije uspjelo.",
+  "COMMON_CONVERT": "Pretvori",
+  "COMMON_DOWNLOAD": "Preuzmi",
+  "CONVERT_DROP_HEADING": "Ispustite ili pregledajte datoteku za pretvaranje",
+  "CONVERT_DROP_HINT": "Slike i videozapisi, do {limit}",
+  "CONVERT_READY_HINT": "Spremljeno na tvoj uređaj. Prenesi datoteku za link za dijeljenje.",
+  "CONVERT_UPLOADED_HEADING": "Preneseno!",
+  "CONVERT_TOAST_CONVERTING": "Pretvaranje...",
+  "CONVERT_TOAST_READY": "Datoteka je pretvorena!",
+  "CONVERT_TOAST_FAILED": "Pretvaranje datoteke nije uspjelo.",
+  "CONVERT_TOAST_UPLOAD_FAILED": "Prijenos datoteke nije uspio.",
+  "CONVERT_ERROR_UNSUPPORTED": "Ta se datoteka ne može pretvoriti.",
+  "CONVERT_ERROR_TOO_LARGE": "Datoteka premašuje ograničenje za pretvaranje od {limit}."
 }

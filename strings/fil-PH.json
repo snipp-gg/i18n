@@ -2108,5 +2108,17 @@
   "SETTINGS_NOTIFICATIONS_EMAIL_LOCKED_LABEL": "Mga email sa seguridad at account",
   "SETTINGS_NOTIFICATIONS_EMAIL_LOCKED_HINT": "Palaging ipinapadala ang mga login link, pagbabago ng email, moderation, at suspension.",
   "SETTINGS_NOTIFICATIONS_TOAST_SAVED": "Na-save ang mga kagustuhan sa notification!",
-  "SETTINGS_NOTIFICATIONS_ERROR_SAVE": "Hindi na-save ang mga kagustuhan."
+  "SETTINGS_NOTIFICATIONS_ERROR_SAVE": "Hindi na-save ang mga kagustuhan.",
+  "COMMON_CONVERT": "I-convert",
+  "COMMON_DOWNLOAD": "I-download",
+  "CONVERT_DROP_HEADING": "Mag-drop o mag-browse ng file para i-convert",
+  "CONVERT_DROP_HINT": "Mga larawan at video, hanggang {limit}",
+  "CONVERT_READY_HINT": "Na-save sa iyong device. I-upload ito para sa shareable na link.",
+  "CONVERT_UPLOADED_HEADING": "Na-upload na!",
+  "CONVERT_TOAST_CONVERTING": "Kino-convert...",
+  "CONVERT_TOAST_READY": "Na-convert na ang file!",
+  "CONVERT_TOAST_FAILED": "Hindi na-convert ang file.",
+  "CONVERT_TOAST_UPLOAD_FAILED": "Hindi na-upload ang file.",
+  "CONVERT_ERROR_UNSUPPORTED": "Hindi ma-convert ang file na iyan.",
+  "CONVERT_ERROR_TOO_LARGE": "Lampas ang file sa {limit} na limitasyon sa pag-convert."
 }

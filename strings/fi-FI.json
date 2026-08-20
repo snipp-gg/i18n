@@ -2108,5 +2108,17 @@
   "SETTINGS_NOTIFICATIONS_EMAIL_LOCKED_LABEL": "Tietoturva- ja tilisähköpostit",
   "SETTINGS_NOTIFICATIONS_EMAIL_LOCKED_HINT": "Kirjautumislinkit, sähköpostin muutokset, moderointi ja jäädytykset lähetetään aina.",
   "SETTINGS_NOTIFICATIONS_TOAST_SAVED": "Ilmoitusasetukset tallennettu!",
-  "SETTINGS_NOTIFICATIONS_ERROR_SAVE": "Asetusten tallennus epäonnistui."
+  "SETTINGS_NOTIFICATIONS_ERROR_SAVE": "Asetusten tallennus epäonnistui.",
+  "COMMON_CONVERT": "Muunna",
+  "COMMON_DOWNLOAD": "Tallenna",
+  "CONVERT_DROP_HEADING": "Pudota tai selaa tiedostoa muuntaaksesi",
+  "CONVERT_DROP_HINT": "Kuvia ja videoita, enintään {limit}",
+  "CONVERT_READY_HINT": "Tallennettu laitteellesi. Lataa se saadaksesi jaettavan linkin.",
+  "CONVERT_UPLOADED_HEADING": "Lähetetty!",
+  "CONVERT_TOAST_CONVERTING": "Muunnetaan...",
+  "CONVERT_TOAST_READY": "Tiedosto muunnettu!",
+  "CONVERT_TOAST_FAILED": "Tiedoston muuntaminen epäonnistui.",
+  "CONVERT_TOAST_UPLOAD_FAILED": "Tiedoston lataus epäonnistui.",
+  "CONVERT_ERROR_UNSUPPORTED": "Tätä tiedostoa ei voi muuntaa.",
+  "CONVERT_ERROR_TOO_LARGE": "Tiedosto ylittää muunnosrajan {limit}."
 }

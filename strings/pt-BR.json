@@ -2108,5 +2108,17 @@
   "SETTINGS_NOTIFICATIONS_EMAIL_LOCKED_LABEL": "E-mails de segurança e conta",
   "SETTINGS_NOTIFICATIONS_EMAIL_LOCKED_HINT": "Links de login, alterações de e-mail, moderação e suspensões são sempre enviados.",
   "SETTINGS_NOTIFICATIONS_TOAST_SAVED": "Preferências de notificação salvas!",
-  "SETTINGS_NOTIFICATIONS_ERROR_SAVE": "Falha ao salvar as preferências."
+  "SETTINGS_NOTIFICATIONS_ERROR_SAVE": "Falha ao salvar as preferências.",
+  "COMMON_CONVERT": "Converter",
+  "COMMON_DOWNLOAD": "Baixar",
+  "CONVERT_DROP_HEADING": "Solte ou procure um arquivo para converter",
+  "CONVERT_DROP_HINT": "Imagens e vídeos, até {limit}",
+  "CONVERT_READY_HINT": "Salvo no seu dispositivo. Envie o arquivo para obter um link para compartilhar.",
+  "CONVERT_UPLOADED_HEADING": "Enviado!",
+  "CONVERT_TOAST_CONVERTING": "Convertendo...",
+  "CONVERT_TOAST_READY": "Arquivo convertido!",
+  "CONVERT_TOAST_FAILED": "Falha ao converter o arquivo.",
+  "CONVERT_TOAST_UPLOAD_FAILED": "Falha ao enviar o arquivo.",
+  "CONVERT_ERROR_UNSUPPORTED": "Esse arquivo não pode ser convertido.",
+  "CONVERT_ERROR_TOO_LARGE": "O arquivo excede o limite de conversão de {limit}."
 }

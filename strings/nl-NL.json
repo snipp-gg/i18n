@@ -2108,5 +2108,17 @@
   "SETTINGS_NOTIFICATIONS_EMAIL_LOCKED_LABEL": "Beveiligings- en account-e-mails",
   "SETTINGS_NOTIFICATIONS_EMAIL_LOCKED_HINT": "Inloglinks, e-mailwijzigingen, moderatie en schorsingen worden altijd verzonden.",
   "SETTINGS_NOTIFICATIONS_TOAST_SAVED": "Meldingsvoorkeuren opgeslagen!",
-  "SETTINGS_NOTIFICATIONS_ERROR_SAVE": "Voorkeuren opslaan mislukt."
+  "SETTINGS_NOTIFICATIONS_ERROR_SAVE": "Voorkeuren opslaan mislukt.",
+  "COMMON_CONVERT": "Converteren",
+  "COMMON_DOWNLOAD": "Downloaden",
+  "CONVERT_DROP_HEADING": "Sleep of blader door een bestand om te converteren",
+  "CONVERT_DROP_HINT": "Afbeeldingen en video's, tot {limit}",
+  "CONVERT_READY_HINT": "Opgeslagen op je apparaat. Upload het voor een deelbare link.",
+  "CONVERT_UPLOADED_HEADING": "Geüpload!",
+  "CONVERT_TOAST_CONVERTING": "Converteren...",
+  "CONVERT_TOAST_READY": "Bestand geconverteerd!",
+  "CONVERT_TOAST_FAILED": "Bestand converteren mislukt.",
+  "CONVERT_TOAST_UPLOAD_FAILED": "Bestand uploaden mislukt.",
+  "CONVERT_ERROR_UNSUPPORTED": "Dat bestand kan niet worden geconverteerd.",
+  "CONVERT_ERROR_TOO_LARGE": "Bestand is groter dan de conversielimiet van {limit}."
 }

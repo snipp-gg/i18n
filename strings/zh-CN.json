@@ -2108,5 +2108,17 @@
   "SETTINGS_NOTIFICATIONS_EMAIL_LOCKED_LABEL": "安全与账户邮件",
   "SETTINGS_NOTIFICATIONS_EMAIL_LOCKED_HINT": "登录链接、邮箱变更、审核和封禁邮件始终会发送。",
   "SETTINGS_NOTIFICATIONS_TOAST_SAVED": "通知偏好设置已保存！",
-  "SETTINGS_NOTIFICATIONS_ERROR_SAVE": "无法保存偏好设置。"
+  "SETTINGS_NOTIFICATIONS_ERROR_SAVE": "无法保存偏好设置。",
+  "COMMON_CONVERT": "转换",
+  "COMMON_DOWNLOAD": "下载",
+  "CONVERT_DROP_HEADING": "拖放或浏览文件以转换",
+  "CONVERT_DROP_HINT": "图片和视频，最大 {limit}",
+  "CONVERT_READY_HINT": "已保存到你的设备。上传后即可获得可分享的链接。",
+  "CONVERT_UPLOADED_HEADING": "上传成功！",
+  "CONVERT_TOAST_CONVERTING": "正在转换...",
+  "CONVERT_TOAST_READY": "文件转换成功！",
+  "CONVERT_TOAST_FAILED": "转换此文件失败。",
+  "CONVERT_TOAST_UPLOAD_FAILED": "上传此文件失败。",
+  "CONVERT_ERROR_UNSUPPORTED": "该文件无法转换。",
+  "CONVERT_ERROR_TOO_LARGE": "文件超过 {limit} 的转换上限。"
 }

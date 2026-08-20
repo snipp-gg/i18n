@@ -2108,5 +2108,17 @@
   "SETTINGS_NOTIFICATIONS_EMAIL_LOCKED_LABEL": "セキュリティとアカウントのメール",
   "SETTINGS_NOTIFICATIONS_EMAIL_LOCKED_HINT": "ログインリンク、メールアドレスの変更、モデレーション、停止に関するメールは常に送信されます。",
   "SETTINGS_NOTIFICATIONS_TOAST_SAVED": "通知設定を保存しました！",
-  "SETTINGS_NOTIFICATIONS_ERROR_SAVE": "設定の保存に失敗しました。"
+  "SETTINGS_NOTIFICATIONS_ERROR_SAVE": "設定の保存に失敗しました。",
+  "COMMON_CONVERT": "変換",
+  "COMMON_DOWNLOAD": "ダウンロード",
+  "CONVERT_DROP_HEADING": "ファイルをドロップまたは参照して変換",
+  "CONVERT_DROP_HINT": "画像と動画、最大{limit}",
+  "CONVERT_READY_HINT": "デバイスに保存しました。アップロードすると共有リンクを取得できます。",
+  "CONVERT_UPLOADED_HEADING": "アップロード完了！",
+  "CONVERT_TOAST_CONVERTING": "変換中...",
+  "CONVERT_TOAST_READY": "ファイルを変換しました！",
+  "CONVERT_TOAST_FAILED": "ファイルの変換に失敗しました。",
+  "CONVERT_TOAST_UPLOAD_FAILED": "ファイルのアップロードに失敗しました。",
+  "CONVERT_ERROR_UNSUPPORTED": "このファイルは変換できません。",
+  "CONVERT_ERROR_TOO_LARGE": "ファイルが変換上限の{limit}を超えています。"
 }

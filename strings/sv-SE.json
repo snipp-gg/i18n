@@ -2108,5 +2108,17 @@
   "SETTINGS_NOTIFICATIONS_EMAIL_LOCKED_LABEL": "E-post om säkerhet och konto",
   "SETTINGS_NOTIFICATIONS_EMAIL_LOCKED_HINT": "Inloggningslänkar, e-poständringar, moderering och avstängningar skickas alltid.",
   "SETTINGS_NOTIFICATIONS_TOAST_SAVED": "Aviseringsinställningar sparade!",
-  "SETTINGS_NOTIFICATIONS_ERROR_SAVE": "Kunde inte spara inställningarna."
+  "SETTINGS_NOTIFICATIONS_ERROR_SAVE": "Kunde inte spara inställningarna.",
+  "COMMON_CONVERT": "Konvertera",
+  "COMMON_DOWNLOAD": "Ladda ner",
+  "CONVERT_DROP_HEADING": "Släpp en fil eller bläddra för att konvertera",
+  "CONVERT_DROP_HINT": "Bilder och videor, upp till {limit}",
+  "CONVERT_READY_HINT": "Sparat på din enhet. Ladda upp filen för att få en delbar länk.",
+  "CONVERT_UPLOADED_HEADING": "Uppladdat!",
+  "CONVERT_TOAST_CONVERTING": "Konverterar...",
+  "CONVERT_TOAST_READY": "Filen har konverterats!",
+  "CONVERT_TOAST_FAILED": "Kunde inte konvertera filen.",
+  "CONVERT_TOAST_UPLOAD_FAILED": "Kunde inte ladda upp filen.",
+  "CONVERT_ERROR_UNSUPPORTED": "Den filen kan inte konverteras.",
+  "CONVERT_ERROR_TOO_LARGE": "Filen är över konverteringsgränsen på {limit}."
 }

@@ -2108,5 +2108,17 @@
   "SETTINGS_NOTIFICATIONS_EMAIL_LOCKED_LABEL": "Email ασφαλείας και λογαριασμού",
   "SETTINGS_NOTIFICATIONS_EMAIL_LOCKED_HINT": "Οι σύνδεσμοι σύνδεσης, οι αλλαγές email, ο συντονισμός και οι αναστολές αποστέλλονται πάντα.",
   "SETTINGS_NOTIFICATIONS_TOAST_SAVED": "Οι προτιμήσεις ειδοποιήσεων αποθηκεύτηκαν!",
-  "SETTINGS_NOTIFICATIONS_ERROR_SAVE": "Αποτυχία αποθήκευσης προτιμήσεων."
+  "SETTINGS_NOTIFICATIONS_ERROR_SAVE": "Αποτυχία αποθήκευσης προτιμήσεων.",
+  "COMMON_CONVERT": "Μετατροπή",
+  "COMMON_DOWNLOAD": "Λήψη",
+  "CONVERT_DROP_HEADING": "Αποθέστε ή περιηγηθείτε σε αρχείο για μετατροπή",
+  "CONVERT_DROP_HINT": "Εικόνες και βίντεο, έως {limit}",
+  "CONVERT_READY_HINT": "Αποθηκεύτηκε στη συσκευή σας. Ανεβάστε το για να λάβετε σύνδεσμο κοινοποίησης.",
+  "CONVERT_UPLOADED_HEADING": "Ανέβηκε!",
+  "CONVERT_TOAST_CONVERTING": "Μετατροπή...",
+  "CONVERT_TOAST_READY": "Το αρχείο μετατράπηκε!",
+  "CONVERT_TOAST_FAILED": "Αποτυχία μετατροπής του αρχείου.",
+  "CONVERT_TOAST_UPLOAD_FAILED": "Αποτυχία ανεβάσματος του αρχείου.",
+  "CONVERT_ERROR_UNSUPPORTED": "Αυτό το αρχείο δεν μπορεί να μετατραπεί.",
+  "CONVERT_ERROR_TOO_LARGE": "Το αρχείο ξεπερνά το όριο μετατροπής των {limit}."
 }

@@ -2108,5 +2108,17 @@
   "SETTINGS_NOTIFICATIONS_EMAIL_LOCKED_LABEL": "सुरक्षा और अकाउंट के ईमेल",
   "SETTINGS_NOTIFICATIONS_EMAIL_LOCKED_HINT": "लॉगिन लिंक, ईमेल बदलाव, मॉडरेशन और सस्पेंशन हमेशा भेजे जाते हैं।",
   "SETTINGS_NOTIFICATIONS_TOAST_SAVED": "नोटिफ़िकेशन प्राथमिकताएँ सहेजी गईं!",
-  "SETTINGS_NOTIFICATIONS_ERROR_SAVE": "प्राथमिकताएँ सहेजी नहीं जा सकीं।"
+  "SETTINGS_NOTIFICATIONS_ERROR_SAVE": "प्राथमिकताएँ सहेजी नहीं जा सकीं।",
+  "COMMON_CONVERT": "कन्वर्ट",
+  "COMMON_DOWNLOAD": "डाउनलोड करें",
+  "CONVERT_DROP_HEADING": "कन्वर्ट करने के लिए फ़ाइल छोड़ें या ब्राउज़ करें",
+  "CONVERT_DROP_HINT": "इमेज और वीडियो, {limit} तक",
+  "CONVERT_READY_HINT": "आपके डिवाइस में सेव हो गई। शेयर करने लायक लिंक के लिए इसे अपलोड करें।",
+  "CONVERT_UPLOADED_HEADING": "अपलोड हो गया!",
+  "CONVERT_TOAST_CONVERTING": "कन्वर्ट हो रहा है...",
+  "CONVERT_TOAST_READY": "फ़ाइल कन्वर्ट हो गई!",
+  "CONVERT_TOAST_FAILED": "फ़ाइल कन्वर्ट करने में विफल।",
+  "CONVERT_TOAST_UPLOAD_FAILED": "फ़ाइल अपलोड करने में विफल।",
+  "CONVERT_ERROR_UNSUPPORTED": "यह फ़ाइल कन्वर्ट नहीं की जा सकती।",
+  "CONVERT_ERROR_TOO_LARGE": "फ़ाइल {limit} की कन्वर्ट सीमा से बड़ी है।"
 }

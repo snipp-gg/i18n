@@ -2108,5 +2108,17 @@
   "SETTINGS_NOTIFICATIONS_EMAIL_LOCKED_LABEL": "Письма о безопасности и аккаунте",
   "SETTINGS_NOTIFICATIONS_EMAIL_LOCKED_HINT": "Ссылки для входа, смена почты, модерация и блокировки отправляются всегда.",
   "SETTINGS_NOTIFICATIONS_TOAST_SAVED": "Настройки уведомлений сохранены!",
-  "SETTINGS_NOTIFICATIONS_ERROR_SAVE": "Не удалось сохранить настройки."
+  "SETTINGS_NOTIFICATIONS_ERROR_SAVE": "Не удалось сохранить настройки.",
+  "COMMON_CONVERT": "Преобразовать",
+  "COMMON_DOWNLOAD": "Скачать",
+  "CONVERT_DROP_HEADING": "Перетащите или выберите файл для преобразования",
+  "CONVERT_DROP_HINT": "Изображения и видео, до {limit}",
+  "CONVERT_READY_HINT": "Сохранено на вашем устройстве. Загрузите файл, чтобы получить ссылку для обмена.",
+  "CONVERT_UPLOADED_HEADING": "Загружено!",
+  "CONVERT_TOAST_CONVERTING": "Преобразование...",
+  "CONVERT_TOAST_READY": "Файл преобразован!",
+  "CONVERT_TOAST_FAILED": "Не удалось преобразовать файл.",
+  "CONVERT_TOAST_UPLOAD_FAILED": "Не удалось загрузить файл.",
+  "CONVERT_ERROR_UNSUPPORTED": "Этот файл невозможно преобразовать.",
+  "CONVERT_ERROR_TOO_LARGE": "Файл превышает лимит преобразования {limit}."
 }

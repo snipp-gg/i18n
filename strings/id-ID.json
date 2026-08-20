@@ -2108,5 +2108,17 @@
   "SETTINGS_NOTIFICATIONS_EMAIL_LOCKED_LABEL": "Email keamanan dan akun",
   "SETTINGS_NOTIFICATIONS_EMAIL_LOCKED_HINT": "Tautan masuk, perubahan email, moderasi, dan penangguhan selalu dikirim.",
   "SETTINGS_NOTIFICATIONS_TOAST_SAVED": "Preferensi notifikasi disimpan!",
-  "SETTINGS_NOTIFICATIONS_ERROR_SAVE": "Gagal menyimpan preferensi."
+  "SETTINGS_NOTIFICATIONS_ERROR_SAVE": "Gagal menyimpan preferensi.",
+  "COMMON_CONVERT": "Konversi",
+  "COMMON_DOWNLOAD": "Unduh",
+  "CONVERT_DROP_HEADING": "Jatuhkan atau telusuri file untuk dikonversi",
+  "CONVERT_DROP_HINT": "Gambar dan video, hingga {limit}",
+  "CONVERT_READY_HINT": "Tersimpan di perangkat Anda. Unggah untuk mendapatkan tautan yang bisa dibagikan.",
+  "CONVERT_UPLOADED_HEADING": "Terunggah!",
+  "CONVERT_TOAST_CONVERTING": "Mengonversi...",
+  "CONVERT_TOAST_READY": "File berhasil dikonversi!",
+  "CONVERT_TOAST_FAILED": "Gagal mengonversi file.",
+  "CONVERT_TOAST_UPLOAD_FAILED": "Gagal mengunggah file.",
+  "CONVERT_ERROR_UNSUPPORTED": "File tersebut tidak dapat dikonversi.",
+  "CONVERT_ERROR_TOO_LARGE": "File melebihi batas konversi {limit}."
 }

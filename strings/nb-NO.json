@@ -2108,5 +2108,17 @@
   "SETTINGS_NOTIFICATIONS_EMAIL_LOCKED_LABEL": "Sikkerhets- og konto-e-poster",
   "SETTINGS_NOTIFICATIONS_EMAIL_LOCKED_HINT": "Innloggingslenker, e-postendringer, moderering og suspensjoner sendes alltid.",
   "SETTINGS_NOTIFICATIONS_TOAST_SAVED": "Varselinnstillingene er lagret!",
-  "SETTINGS_NOTIFICATIONS_ERROR_SAVE": "Kunne ikke lagre innstillingene."
+  "SETTINGS_NOTIFICATIONS_ERROR_SAVE": "Kunne ikke lagre innstillingene.",
+  "COMMON_CONVERT": "Konverter",
+  "COMMON_DOWNLOAD": "Last ned",
+  "CONVERT_DROP_HEADING": "Slipp eller bla gjennom en fil for å konvertere",
+  "CONVERT_DROP_HINT": "Bilder og videoer, opptil {limit}",
+  "CONVERT_READY_HINT": "Lagret på enheten din. Last den opp for å få en delbar lenke.",
+  "CONVERT_UPLOADED_HEADING": "Lastet opp!",
+  "CONVERT_TOAST_CONVERTING": "Konverterer...",
+  "CONVERT_TOAST_READY": "Filen er konvertert!",
+  "CONVERT_TOAST_FAILED": "Kunne ikke konvertere filen.",
+  "CONVERT_TOAST_UPLOAD_FAILED": "Kunne ikke laste opp filen.",
+  "CONVERT_ERROR_UNSUPPORTED": "Den filen kan ikke konverteres.",
+  "CONVERT_ERROR_TOO_LARGE": "Filen er over konverteringsgrensen på {limit}."
 }

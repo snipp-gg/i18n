@@ -2108,5 +2108,17 @@
   "SETTINGS_NOTIFICATIONS_EMAIL_LOCKED_LABEL": "Imejlovi o bezbednosti i nalogu",
   "SETTINGS_NOTIFICATIONS_EMAIL_LOCKED_HINT": "Linkovi za prijavu, promene imejla, moderacija i suspenzije se uvek šalju.",
   "SETTINGS_NOTIFICATIONS_TOAST_SAVED": "Postavke obaveštenja sačuvane!",
-  "SETTINGS_NOTIFICATIONS_ERROR_SAVE": "Neuspešno čuvanje postavki."
+  "SETTINGS_NOTIFICATIONS_ERROR_SAVE": "Neuspešno čuvanje postavki.",
+  "COMMON_CONVERT": "Konvertuj",
+  "COMMON_DOWNLOAD": "Preuzmi",
+  "CONVERT_DROP_HEADING": "Otpustite ili pregledajte fajl za konvertovanje",
+  "CONVERT_DROP_HINT": "Slike i video, do {limit}",
+  "CONVERT_READY_HINT": "Sačuvano na vašem uređaju. Otpremite ga za link za deljenje.",
+  "CONVERT_UPLOADED_HEADING": "Otpremljeno!",
+  "CONVERT_TOAST_CONVERTING": "Konvertovanje...",
+  "CONVERT_TOAST_READY": "Fajl je konvertovan!",
+  "CONVERT_TOAST_FAILED": "Neuspešno konvertovanje fajla.",
+  "CONVERT_TOAST_UPLOAD_FAILED": "Neuspešno otpremanje fajla.",
+  "CONVERT_ERROR_UNSUPPORTED": "Taj fajl ne može da se konvertuje.",
+  "CONVERT_ERROR_TOO_LARGE": "Fajl premašuje limit za konvertovanje od {limit}."
 }

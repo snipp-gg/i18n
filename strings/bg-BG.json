@@ -2108,5 +2108,17 @@
   "SETTINGS_NOTIFICATIONS_EMAIL_LOCKED_LABEL": "Имейли за сигурност и акаунт",
   "SETTINGS_NOTIFICATIONS_EMAIL_LOCKED_HINT": "Връзките за вход, промените на имейла, модерирането и спиранията на акаунти се изпращат винаги.",
   "SETTINGS_NOTIFICATIONS_TOAST_SAVED": "Предпочитанията за известия са запазени!",
-  "SETTINGS_NOTIFICATIONS_ERROR_SAVE": "Неуспешно запазване на предпочитанията."
+  "SETTINGS_NOTIFICATIONS_ERROR_SAVE": "Неуспешно запазване на предпочитанията.",
+  "COMMON_CONVERT": "Преобразуване",
+  "COMMON_DOWNLOAD": "Изтегли",
+  "CONVERT_DROP_HEADING": "Пуснете или прегледайте файл за преобразуване",
+  "CONVERT_DROP_HINT": "Изображения и видео, до {limit}",
+  "CONVERT_READY_HINT": "Записано на устройството ви. Качете го, за да получите линк за споделяне.",
+  "CONVERT_UPLOADED_HEADING": "Качено!",
+  "CONVERT_TOAST_CONVERTING": "Преобразуване...",
+  "CONVERT_TOAST_READY": "Файлът е преобразуван!",
+  "CONVERT_TOAST_FAILED": "Неуспешно преобразуване на файла.",
+  "CONVERT_TOAST_UPLOAD_FAILED": "Неуспешно качване на файла.",
+  "CONVERT_ERROR_UNSUPPORTED": "Този файл не може да бъде преобразуван.",
+  "CONVERT_ERROR_TOO_LARGE": "Файлът е над лимита от {limit} за преобразуване."
 }

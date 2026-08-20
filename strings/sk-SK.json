@@ -2108,5 +2108,17 @@
   "SETTINGS_NOTIFICATIONS_EMAIL_LOCKED_LABEL": "E-maily o bezpečnosti a účte",
   "SETTINGS_NOTIFICATIONS_EMAIL_LOCKED_HINT": "Prihlasovacie odkazy, zmeny e-mailu, moderovanie a pozastavenia posielame vždy.",
   "SETTINGS_NOTIFICATIONS_TOAST_SAVED": "Predvoľby upozornení uložené!",
-  "SETTINGS_NOTIFICATIONS_ERROR_SAVE": "Nepodarilo sa uložiť predvoľby."
+  "SETTINGS_NOTIFICATIONS_ERROR_SAVE": "Nepodarilo sa uložiť predvoľby.",
+  "COMMON_CONVERT": "Konvertovať",
+  "COMMON_DOWNLOAD": "Stiahnuť",
+  "CONVERT_DROP_HEADING": "Presuňte alebo prehľadávajte súbor na konverziu",
+  "CONVERT_DROP_HINT": "Obrázky a videá, do {limit}",
+  "CONVERT_READY_HINT": "Uložené do tvojho zariadenia. Nahraj ho a získaš odkaz na zdieľanie.",
+  "CONVERT_UPLOADED_HEADING": "Nahrané!",
+  "CONVERT_TOAST_CONVERTING": "Konvertuje sa...",
+  "CONVERT_TOAST_READY": "Súbor bol skonvertovaný!",
+  "CONVERT_TOAST_FAILED": "Nepodarilo sa skonvertovať súbor.",
+  "CONVERT_TOAST_UPLOAD_FAILED": "Nepodarilo sa nahrať súbor.",
+  "CONVERT_ERROR_UNSUPPORTED": "Tento súbor sa nedá skonvertovať.",
+  "CONVERT_ERROR_TOO_LARGE": "Súbor prekračuje limit {limit} na konverziu."
 }

@@ -2108,5 +2108,17 @@
   "SETTINGS_NOTIFICATIONS_EMAIL_LOCKED_LABEL": "อีเมลความปลอดภัยและบัญชี",
   "SETTINGS_NOTIFICATIONS_EMAIL_LOCKED_HINT": "ลิงก์เข้าสู่ระบบ การเปลี่ยนอีเมล การกลั่นกรอง และการระงับบัญชีจะถูกส่งเสมอ",
   "SETTINGS_NOTIFICATIONS_TOAST_SAVED": "บันทึกการตั้งค่าการแจ้งเตือนแล้ว!",
-  "SETTINGS_NOTIFICATIONS_ERROR_SAVE": "ไม่สามารถบันทึกค่ากำหนดได้"
+  "SETTINGS_NOTIFICATIONS_ERROR_SAVE": "ไม่สามารถบันทึกค่ากำหนดได้",
+  "COMMON_CONVERT": "แปลง",
+  "COMMON_DOWNLOAD": "ดาวน์โหลด",
+  "CONVERT_DROP_HEADING": "วางหรือเรียกดูไฟล์เพื่อแปลง",
+  "CONVERT_DROP_HINT": "รูปภาพและวิดีโอ สูงสุด {limit}",
+  "CONVERT_READY_HINT": "บันทึกลงอุปกรณ์ของคุณแล้ว อัปโหลดเพื่อรับลิงก์สำหรับแชร์",
+  "CONVERT_UPLOADED_HEADING": "อัปโหลดแล้ว!",
+  "CONVERT_TOAST_CONVERTING": "กำลังแปลง...",
+  "CONVERT_TOAST_READY": "แปลงไฟล์แล้ว!",
+  "CONVERT_TOAST_FAILED": "ไม่สามารถแปลงไฟล์นี้ได้",
+  "CONVERT_TOAST_UPLOAD_FAILED": "ไม่สามารถอัปโหลดไฟล์นี้ได้",
+  "CONVERT_ERROR_UNSUPPORTED": "ไฟล์นั้นไม่สามารถแปลงได้",
+  "CONVERT_ERROR_TOO_LARGE": "ไฟล์เกินขีดจำกัดการแปลง {limit}"
 }

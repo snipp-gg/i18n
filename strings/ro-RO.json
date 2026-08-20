@@ -2108,5 +2108,17 @@
   "SETTINGS_NOTIFICATIONS_EMAIL_LOCKED_LABEL": "E-mailuri de securitate și cont",
   "SETTINGS_NOTIFICATIONS_EMAIL_LOCKED_HINT": "Linkurile de conectare, schimbările de e-mail, moderarea și suspendările sunt trimise întotdeauna.",
   "SETTINGS_NOTIFICATIONS_TOAST_SAVED": "Preferințele de notificare au fost salvate!",
-  "SETTINGS_NOTIFICATIONS_ERROR_SAVE": "Nu s-au putut salva preferințele."
+  "SETTINGS_NOTIFICATIONS_ERROR_SAVE": "Nu s-au putut salva preferințele.",
+  "COMMON_CONVERT": "Convertește",
+  "COMMON_DOWNLOAD": "Descarcă",
+  "CONVERT_DROP_HEADING": "Plasați sau răsfoiți un fișier pentru conversie",
+  "CONVERT_DROP_HINT": "Imagini și videoclipuri, până la {limit}",
+  "CONVERT_READY_HINT": "Salvat pe dispozitivul tău. Încarcă-l pentru un link de partajat.",
+  "CONVERT_UPLOADED_HEADING": "Încărcat!",
+  "CONVERT_TOAST_CONVERTING": "Se convertește...",
+  "CONVERT_TOAST_READY": "Fișier convertit!",
+  "CONVERT_TOAST_FAILED": "Nu s-a putut converti fișierul.",
+  "CONVERT_TOAST_UPLOAD_FAILED": "Nu s-a putut încărca fișierul.",
+  "CONVERT_ERROR_UNSUPPORTED": "Acest fișier nu poate fi convertit.",
+  "CONVERT_ERROR_TOO_LARGE": "Fișierul depășește limita de conversie de {limit}."
 }

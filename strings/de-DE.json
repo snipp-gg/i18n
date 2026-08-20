@@ -2108,5 +2108,17 @@
   "SETTINGS_NOTIFICATIONS_EMAIL_LOCKED_LABEL": "Sicherheits- und Konto-E-Mails",
   "SETTINGS_NOTIFICATIONS_EMAIL_LOCKED_HINT": "Login-Links, E-Mail-Änderungen, Moderation und Sperrungen werden immer gesendet.",
   "SETTINGS_NOTIFICATIONS_TOAST_SAVED": "Benachrichtigungseinstellungen gespeichert!",
-  "SETTINGS_NOTIFICATIONS_ERROR_SAVE": "Einstellungen konnten nicht gespeichert werden."
+  "SETTINGS_NOTIFICATIONS_ERROR_SAVE": "Einstellungen konnten nicht gespeichert werden.",
+  "COMMON_CONVERT": "Umwandeln",
+  "COMMON_DOWNLOAD": "Herunterladen",
+  "CONVERT_DROP_HEADING": "Datei ablegen oder zum Umwandeln durchsuchen",
+  "CONVERT_DROP_HINT": "Bilder und Videos, bis zu {limit}",
+  "CONVERT_READY_HINT": "Auf deinem Gerät gespeichert. Lade die Datei hoch, um einen teilbaren Link zu erhalten.",
+  "CONVERT_UPLOADED_HEADING": "Hochgeladen!",
+  "CONVERT_TOAST_CONVERTING": "Wird umgewandelt...",
+  "CONVERT_TOAST_READY": "Datei umgewandelt!",
+  "CONVERT_TOAST_FAILED": "Datei konnte nicht umgewandelt werden.",
+  "CONVERT_TOAST_UPLOAD_FAILED": "Datei konnte nicht hochgeladen werden.",
+  "CONVERT_ERROR_UNSUPPORTED": "Diese Datei kann nicht umgewandelt werden.",
+  "CONVERT_ERROR_TOO_LARGE": "Die Datei liegt über dem Umwandlungslimit von {limit}."
 }

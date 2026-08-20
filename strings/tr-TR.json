@@ -2108,5 +2108,17 @@
   "SETTINGS_NOTIFICATIONS_EMAIL_LOCKED_LABEL": "Güvenlik ve hesap e-postaları",
   "SETTINGS_NOTIFICATIONS_EMAIL_LOCKED_HINT": "Giriş bağlantıları, e-posta değişiklikleri, denetim ve askıya almalar her zaman gönderilir.",
   "SETTINGS_NOTIFICATIONS_TOAST_SAVED": "Bildirim tercihleri kaydedildi!",
-  "SETTINGS_NOTIFICATIONS_ERROR_SAVE": "Tercihler kaydedilemedi."
+  "SETTINGS_NOTIFICATIONS_ERROR_SAVE": "Tercihler kaydedilemedi.",
+  "COMMON_CONVERT": "Dönüştür",
+  "COMMON_DOWNLOAD": "İndir",
+  "CONVERT_DROP_HEADING": "Dönüştürmek için bir dosya bırakın veya göz atın",
+  "CONVERT_DROP_HINT": "Görseller ve videolar, en fazla {limit}",
+  "CONVERT_READY_HINT": "Cihazınıza kaydedildi. Paylaşılabilir bir bağlantı için dosyayı yükleyin.",
+  "CONVERT_UPLOADED_HEADING": "Yüklendi!",
+  "CONVERT_TOAST_CONVERTING": "Dönüştürülüyor...",
+  "CONVERT_TOAST_READY": "Dosya dönüştürüldü!",
+  "CONVERT_TOAST_FAILED": "Dosya dönüştürülemedi.",
+  "CONVERT_TOAST_UPLOAD_FAILED": "Dosya yüklenemedi.",
+  "CONVERT_ERROR_UNSUPPORTED": "Bu dosya dönüştürülemez.",
+  "CONVERT_ERROR_TOO_LARGE": "Dosya, {limit} dönüştürme sınırının üzerinde."
 }

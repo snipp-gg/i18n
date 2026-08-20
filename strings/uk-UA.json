@@ -2108,5 +2108,17 @@
   "SETTINGS_NOTIFICATIONS_EMAIL_LOCKED_LABEL": "Листи про безпеку й обліковий запис",
   "SETTINGS_NOTIFICATIONS_EMAIL_LOCKED_HINT": "Посилання для входу, зміни електронної пошти, модерація та блокування надсилаються завжди.",
   "SETTINGS_NOTIFICATIONS_TOAST_SAVED": "Налаштування сповіщень збережено!",
-  "SETTINGS_NOTIFICATIONS_ERROR_SAVE": "Не вдалося зберегти налаштування."
+  "SETTINGS_NOTIFICATIONS_ERROR_SAVE": "Не вдалося зберегти налаштування.",
+  "COMMON_CONVERT": "Перетворити",
+  "COMMON_DOWNLOAD": "Зберегти",
+  "CONVERT_DROP_HEADING": "Перетягніть або виберіть файл для перетворення",
+  "CONVERT_DROP_HINT": "Зображення та відео, до {limit}",
+  "CONVERT_READY_HINT": "Збережено на вашому пристрої. Завантажте файл, щоб отримати посилання для обміну.",
+  "CONVERT_UPLOADED_HEADING": "Завантажено!",
+  "CONVERT_TOAST_CONVERTING": "Перетворення...",
+  "CONVERT_TOAST_READY": "Файл перетворено!",
+  "CONVERT_TOAST_FAILED": "Не вдалося перетворити файл.",
+  "CONVERT_TOAST_UPLOAD_FAILED": "Не вдалося завантажити файл.",
+  "CONVERT_ERROR_UNSUPPORTED": "Цей файл неможливо перетворити.",
+  "CONVERT_ERROR_TOO_LARGE": "Файл перевищує ліміт перетворення {limit}."
 }
