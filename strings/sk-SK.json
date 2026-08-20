@@ -1862,7 +1862,6 @@
   "UPLOAD_STATUS_CANCEL_BUTTON": "Zrušiť nahrávanie",
   "UPLOAD_STATUS_PROGRESS_FILES": "Nahraných {done} z {total} súborov",
   "UPLOAD_STATUS_PROGRESS_FILE": "Nahraný {done} z {total} súboru",
-  "UPLOAD_STATUS_UPLOAD_MORE_BUTTON": "Nahrať viac",
   "UPLOAD_DROP_HINT_COUNT": "Obrázky alebo videá, až {count} súborov",
   "UPLOAD_DROP_HINT_COUNT_LIMIT": "Obrázky alebo videá, až {count} súborov, každý {limit}",
   "UPLOAD_DROP_READY_FILES": "{count} súborov pripravených na nahratie!",

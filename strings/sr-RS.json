@@ -1862,7 +1862,6 @@
   "UPLOAD_STATUS_CANCEL_BUTTON": "Otkaži otpremanje",
   "UPLOAD_STATUS_PROGRESS_FILES": "{done} od {total} fajlova otpremljeno",
   "UPLOAD_STATUS_PROGRESS_FILE": "{done} od {total} fajla otpremljeno",
-  "UPLOAD_STATUS_UPLOAD_MORE_BUTTON": "Otpremi još",
   "UPLOAD_DROP_HINT_COUNT": "Slike ili video, do {count} fajlova",
   "UPLOAD_DROP_HINT_COUNT_LIMIT": "Slike ili video, do {count} fajlova, {limit} po fajlu",
   "UPLOAD_DROP_READY_FILES": "{count} fajlova spremno za otpremanje!",

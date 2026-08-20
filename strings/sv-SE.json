@@ -1862,7 +1862,6 @@
   "UPLOAD_STATUS_CANCEL_BUTTON": "Avbryt uppladdning",
   "UPLOAD_STATUS_PROGRESS_FILES": "{done} av {total} filer uppladdade",
   "UPLOAD_STATUS_PROGRESS_FILE": "{done} av {total} fil uppladdad",
-  "UPLOAD_STATUS_UPLOAD_MORE_BUTTON": "Ladda upp mer",
   "UPLOAD_DROP_HINT_COUNT": "Bilder eller videor, upp till {count} filer",
   "UPLOAD_DROP_HINT_COUNT_LIMIT": "Bilder eller videor, upp till {count} filer, {limit} vardera",
   "UPLOAD_DROP_READY_FILES": "{count} filer redo att laddas upp!",

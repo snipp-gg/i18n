@@ -1862,7 +1862,6 @@
   "UPLOAD_STATUS_CANCEL_BUTTON": "ยกเลิกการอัปโหลด",
   "UPLOAD_STATUS_PROGRESS_FILES": "อัปโหลด {done} จาก {total} ไฟล์แล้ว",
   "UPLOAD_STATUS_PROGRESS_FILE": "อัปโหลด {done} จาก {total} ไฟล์แล้ว",
-  "UPLOAD_STATUS_UPLOAD_MORE_BUTTON": "อัปโหลดเพิ่ม",
   "UPLOAD_DROP_HINT_COUNT": "รูปภาพหรือวิดีโอ สูงสุด {count} ไฟล์",
   "UPLOAD_DROP_HINT_COUNT_LIMIT": "รูปภาพหรือวิดีโอ สูงสุด {count} ไฟล์ {limit} ต่อไฟล์",
   "UPLOAD_DROP_READY_FILES": "{count} ไฟล์พร้อมอัปโหลดแล้ว!",

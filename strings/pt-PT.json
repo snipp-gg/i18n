@@ -1862,7 +1862,6 @@
   "UPLOAD_STATUS_CANCEL_BUTTON": "Cancelar Carregamento",
   "UPLOAD_STATUS_PROGRESS_FILES": "{done} de {total} ficheiros carregados",
   "UPLOAD_STATUS_PROGRESS_FILE": "{done} de {total} ficheiro carregado",
-  "UPLOAD_STATUS_UPLOAD_MORE_BUTTON": "Carregar mais",
   "UPLOAD_DROP_HINT_COUNT": "Imagens ou vídeos, até {count} ficheiros",
   "UPLOAD_DROP_HINT_COUNT_LIMIT": "Imagens ou vídeos, até {count} ficheiros, {limit} cada",
   "UPLOAD_DROP_READY_FILES": "{count} ficheiros prontos para carregar!",

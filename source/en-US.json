@@ -1862,7 +1862,6 @@
   "UPLOAD_STATUS_CANCEL_BUTTON": "Cancel Upload",
   "UPLOAD_STATUS_PROGRESS_FILES": "{done} of {total} files uploaded",
   "UPLOAD_STATUS_PROGRESS_FILE": "{done} of {total} file uploaded",
-  "UPLOAD_STATUS_UPLOAD_MORE_BUTTON": "Upload more",
   "UPLOAD_DROP_HINT_COUNT": "Images or videos, up to {count} files",
   "UPLOAD_DROP_HINT_COUNT_LIMIT": "Images or videos, up to {count} files, {limit} each",
   "UPLOAD_DROP_READY_FILES": "{count} files ready to upload!",

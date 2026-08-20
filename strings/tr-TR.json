@@ -1862,7 +1862,6 @@
   "UPLOAD_STATUS_CANCEL_BUTTON": "Yüklemeyi İptal Et",
   "UPLOAD_STATUS_PROGRESS_FILES": "{total} dosyadan {done} tanesi yüklendi",
   "UPLOAD_STATUS_PROGRESS_FILE": "{total} dosyadan {done} tanesi yüklendi",
-  "UPLOAD_STATUS_UPLOAD_MORE_BUTTON": "Daha fazla yükle",
   "UPLOAD_DROP_HINT_COUNT": "Görseller veya videolar, {count} dosyaya kadar",
   "UPLOAD_DROP_HINT_COUNT_LIMIT": "Görseller veya videolar, {count} dosyaya kadar, her biri {limit}",
   "UPLOAD_DROP_READY_FILES": "{count} dosya yüklenmeye hazır!",

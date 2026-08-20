@@ -1862,7 +1862,6 @@
   "UPLOAD_STATUS_CANCEL_BUTTON": "अपलोड रद्द करें",
   "UPLOAD_STATUS_PROGRESS_FILES": "{total} में से {done} फ़ाइलें अपलोड हुईं",
   "UPLOAD_STATUS_PROGRESS_FILE": "{total} में से {done} फ़ाइल अपलोड हुई",
-  "UPLOAD_STATUS_UPLOAD_MORE_BUTTON": "और अपलोड करें",
   "UPLOAD_DROP_HINT_COUNT": "इमेज या वीडियो, {count} फ़ाइलों तक",
   "UPLOAD_DROP_HINT_COUNT_LIMIT": "इमेज या वीडियो, {count} फ़ाइलों तक, हर एक {limit}",
   "UPLOAD_DROP_READY_FILES": "{count} फ़ाइलें अपलोड के लिए तैयार हैं!",

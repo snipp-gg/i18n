@@ -1862,7 +1862,6 @@
   "UPLOAD_STATUS_CANCEL_BUTTON": "Отменить загрузку",
   "UPLOAD_STATUS_PROGRESS_FILES": "Загружено {done} из {total} файлов",
   "UPLOAD_STATUS_PROGRESS_FILE": "Загружен {done} из {total} файла",
-  "UPLOAD_STATUS_UPLOAD_MORE_BUTTON": "Загрузить ещё",
   "UPLOAD_DROP_HINT_COUNT": "Изображения или видео, до {count} файлов",
   "UPLOAD_DROP_HINT_COUNT_LIMIT": "Изображения или видео, до {count} файлов, по {limit} каждый",
   "UPLOAD_DROP_READY_FILES": "{count} файлов готовы к загрузке!",

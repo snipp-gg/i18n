@@ -1862,7 +1862,6 @@
   "UPLOAD_STATUS_CANCEL_BUTTON": "업로드 취소",
   "UPLOAD_STATUS_PROGRESS_FILES": "{total}개 중 {done}개 파일 업로드됨",
   "UPLOAD_STATUS_PROGRESS_FILE": "{total}개 중 {done}개 파일 업로드됨",
-  "UPLOAD_STATUS_UPLOAD_MORE_BUTTON": "더 업로드하기",
   "UPLOAD_DROP_HINT_COUNT": "이미지 또는 동영상, 최대 {count}개 파일",
   "UPLOAD_DROP_HINT_COUNT_LIMIT": "이미지 또는 동영상, 최대 {count}개 파일, 각 {limit}",
   "UPLOAD_DROP_READY_FILES": "파일 {count}개 업로드 준비 완료!",

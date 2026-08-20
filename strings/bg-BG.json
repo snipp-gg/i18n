@@ -1862,7 +1862,6 @@
   "UPLOAD_STATUS_CANCEL_BUTTON": "Отмяна на качването",
   "UPLOAD_STATUS_PROGRESS_FILES": "{done} от {total} файла качени",
   "UPLOAD_STATUS_PROGRESS_FILE": "{done} от {total} файл качен",
-  "UPLOAD_STATUS_UPLOAD_MORE_BUTTON": "Качете още",
   "UPLOAD_DROP_HINT_COUNT": "Изображения или видео, до {count} файла",
   "UPLOAD_DROP_HINT_COUNT_LIMIT": "Изображения или видео, до {count} файла, по {limit} всеки",
   "UPLOAD_DROP_READY_FILES": "{count} файла, готови за качване!",

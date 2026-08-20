@@ -1862,7 +1862,6 @@
   "UPLOAD_STATUS_CANCEL_BUTTON": "Peruuta lataus",
   "UPLOAD_STATUS_PROGRESS_FILES": "{done} / {total} tiedostoa ladattu",
   "UPLOAD_STATUS_PROGRESS_FILE": "{done} / {total} tiedosto ladattu",
-  "UPLOAD_STATUS_UPLOAD_MORE_BUTTON": "Lataa lisää",
   "UPLOAD_DROP_HINT_COUNT": "Kuvia tai videoita, enintään {count} tiedostoa",
   "UPLOAD_DROP_HINT_COUNT_LIMIT": "Kuvia tai videoita, enintään {count} tiedostoa, {limit} kukin",
   "UPLOAD_DROP_READY_FILES": "{count} tiedostoa valmiina ladattavaksi!",

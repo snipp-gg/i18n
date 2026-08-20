@@ -1862,7 +1862,6 @@
   "UPLOAD_STATUS_CANCEL_BUTTON": "Hủy tải lên",
   "UPLOAD_STATUS_PROGRESS_FILES": "Đã tải lên {done} trên {total} tệp",
   "UPLOAD_STATUS_PROGRESS_FILE": "Đã tải lên {done} trên {total} tệp",
-  "UPLOAD_STATUS_UPLOAD_MORE_BUTTON": "Tải lên thêm",
   "UPLOAD_DROP_HINT_COUNT": "Hình ảnh hoặc video, tối đa {count} tệp",
   "UPLOAD_DROP_HINT_COUNT_LIMIT": "Hình ảnh hoặc video, tối đa {count} tệp, mỗi tệp {limit}",
   "UPLOAD_DROP_READY_FILES": "{count} tệp sẵn sàng tải lên!",

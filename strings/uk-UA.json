@@ -1862,7 +1862,6 @@
   "UPLOAD_STATUS_CANCEL_BUTTON": "Скасувати завантаження",
   "UPLOAD_STATUS_PROGRESS_FILES": "{done} з {total} файлів завантажено",
   "UPLOAD_STATUS_PROGRESS_FILE": "{done} з {total} файлу завантажено",
-  "UPLOAD_STATUS_UPLOAD_MORE_BUTTON": "Завантажити ще",
   "UPLOAD_DROP_HINT_COUNT": "Зображення або відео, до {count} файлів",
   "UPLOAD_DROP_HINT_COUNT_LIMIT": "Зображення або відео, до {count} файлів, по {limit} кожен",
   "UPLOAD_DROP_READY_FILES": "{count} файлів готові до завантаження!",

@@ -1862,7 +1862,6 @@
   "UPLOAD_STATUS_CANCEL_BUTTON": "Otkaži prijenos",
   "UPLOAD_STATUS_PROGRESS_FILES": "Preneseno {done} od {total} datoteka",
   "UPLOAD_STATUS_PROGRESS_FILE": "Preneseno {done} od {total} datoteke",
-  "UPLOAD_STATUS_UPLOAD_MORE_BUTTON": "Prenesi još",
   "UPLOAD_DROP_HINT_COUNT": "Slike ili videozapisi, do {count} datoteka",
   "UPLOAD_DROP_HINT_COUNT_LIMIT": "Slike ili videozapisi, do {count} datoteka, {limit} po datoteci",
   "UPLOAD_DROP_READY_FILES": "{count} datoteka spremno za prijenos!",

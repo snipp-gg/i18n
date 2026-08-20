@@ -1862,7 +1862,6 @@
   "UPLOAD_STATUS_CANCEL_BUTTON": "Batalkan Unggahan",
   "UPLOAD_STATUS_PROGRESS_FILES": "{done} dari {total} file terunggah",
   "UPLOAD_STATUS_PROGRESS_FILE": "{done} dari {total} file terunggah",
-  "UPLOAD_STATUS_UPLOAD_MORE_BUTTON": "Unggah lagi",
   "UPLOAD_DROP_HINT_COUNT": "Gambar atau video, hingga {count} file",
   "UPLOAD_DROP_HINT_COUNT_LIMIT": "Gambar atau video, hingga {count} file, masing-masing {limit}",
   "UPLOAD_DROP_READY_FILES": "{count} file siap diunggah!",

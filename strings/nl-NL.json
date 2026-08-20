@@ -1862,7 +1862,6 @@
   "UPLOAD_STATUS_CANCEL_BUTTON": "Upload annuleren",
   "UPLOAD_STATUS_PROGRESS_FILES": "{done} van {total} bestanden geüpload",
   "UPLOAD_STATUS_PROGRESS_FILE": "{done} van {total} bestand geüpload",
-  "UPLOAD_STATUS_UPLOAD_MORE_BUTTON": "Meer uploaden",
   "UPLOAD_DROP_HINT_COUNT": "Afbeeldingen of video's, tot {count} bestanden",
   "UPLOAD_DROP_HINT_COUNT_LIMIT": "Afbeeldingen of video's, tot {count} bestanden, {limit} elk",
   "UPLOAD_DROP_READY_FILES": "{count} bestanden klaar om te uploaden!",

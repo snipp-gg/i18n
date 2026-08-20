@@ -1862,7 +1862,6 @@
   "UPLOAD_STATUS_CANCEL_BUTTON": "Anuluj Przesyłanie",
   "UPLOAD_STATUS_PROGRESS_FILES": "Przesłano {done} z {total} plików",
   "UPLOAD_STATUS_PROGRESS_FILE": "Przesłano {done} z {total} pliku",
-  "UPLOAD_STATUS_UPLOAD_MORE_BUTTON": "Prześlij więcej",
   "UPLOAD_DROP_HINT_COUNT": "Obrazy lub filmy, do {count} plików",
   "UPLOAD_DROP_HINT_COUNT_LIMIT": "Obrazy lub filmy, do {count} plików, po {limit} każdy",
   "UPLOAD_DROP_READY_FILES": "{count} plików gotowych do przesłania!",

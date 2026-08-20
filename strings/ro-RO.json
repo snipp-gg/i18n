@@ -1862,7 +1862,6 @@
   "UPLOAD_STATUS_CANCEL_BUTTON": "Anulează încărcarea",
   "UPLOAD_STATUS_PROGRESS_FILES": "{done} din {total} fișiere încărcate",
   "UPLOAD_STATUS_PROGRESS_FILE": "{done} din {total} fișier încărcat",
-  "UPLOAD_STATUS_UPLOAD_MORE_BUTTON": "Încarcă mai multe",
   "UPLOAD_DROP_HINT_COUNT": "Imagini sau videoclipuri, până la {count} fișiere",
   "UPLOAD_DROP_HINT_COUNT_LIMIT": "Imagini sau videoclipuri, până la {count} fișiere, {limit} fiecare",
   "UPLOAD_DROP_READY_FILES": "{count} fișiere gata de încărcare!",

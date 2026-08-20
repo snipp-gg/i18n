@@ -1862,7 +1862,6 @@
   "UPLOAD_STATUS_CANCEL_BUTTON": "Kanselahin ang Upload",
   "UPLOAD_STATUS_PROGRESS_FILES": "{done} ng {total} files na-upload",
   "UPLOAD_STATUS_PROGRESS_FILE": "{done} ng {total} file na-upload",
-  "UPLOAD_STATUS_UPLOAD_MORE_BUTTON": "Mag-upload pa",
   "UPLOAD_DROP_HINT_COUNT": "Mga larawan o video, hanggang {count} files",
   "UPLOAD_DROP_HINT_COUNT_LIMIT": "Mga larawan o video, hanggang {count} files, {limit} bawat isa",
   "UPLOAD_DROP_READY_FILES": "{count} files handang i-upload!",

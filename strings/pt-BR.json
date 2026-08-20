@@ -1862,7 +1862,6 @@
   "UPLOAD_STATUS_CANCEL_BUTTON": "Cancelar Envio",
   "UPLOAD_STATUS_PROGRESS_FILES": "{done} de {total} arquivos enviados",
   "UPLOAD_STATUS_PROGRESS_FILE": "{done} de {total} arquivo enviado",
-  "UPLOAD_STATUS_UPLOAD_MORE_BUTTON": "Enviar mais",
   "UPLOAD_DROP_HINT_COUNT": "Imagens ou vídeos, até {count} arquivos",
   "UPLOAD_DROP_HINT_COUNT_LIMIT": "Imagens ou vídeos, até {count} arquivos, {limit} cada",
   "UPLOAD_DROP_READY_FILES": "{count} arquivos prontos para envio!",

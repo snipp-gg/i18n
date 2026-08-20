@@ -1862,7 +1862,6 @@
   "UPLOAD_STATUS_CANCEL_BUTTON": "取消上传",
   "UPLOAD_STATUS_PROGRESS_FILES": "{done} 的 {total} 文件上传",
   "UPLOAD_STATUS_PROGRESS_FILE": "{done} 的 {total} 文件上传",
-  "UPLOAD_STATUS_UPLOAD_MORE_BUTTON": "上传更多",
   "UPLOAD_DROP_HINT_COUNT": "图片或视频，最多 {count} 个文件",
   "UPLOAD_DROP_HINT_COUNT_LIMIT": "图片或视频，最多 {count} 个文件，每个文件限制 {limit} 个。",
   "UPLOAD_DROP_READY_FILES": "准备上传的文件数为 {count} 个！",

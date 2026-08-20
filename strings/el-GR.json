@@ -1862,7 +1862,6 @@
   "UPLOAD_STATUS_CANCEL_BUTTON": "Ακύρωση Upload",
   "UPLOAD_STATUS_PROGRESS_FILES": "{done} από {total} αρχεία ανέβηκαν",
   "UPLOAD_STATUS_PROGRESS_FILE": "{done} από {total} αρχείο ανέβηκε",
-  "UPLOAD_STATUS_UPLOAD_MORE_BUTTON": "Ανεβάστε περισσότερα",
   "UPLOAD_DROP_HINT_COUNT": "Εικόνες ή βίντεο, έως {count} αρχεία",
   "UPLOAD_DROP_HINT_COUNT_LIMIT": "Εικόνες ή βίντεο, έως {count} αρχεία, {limit} το καθένα",
   "UPLOAD_DROP_READY_FILES": "{count} αρχεία έτοιμα για upload!",

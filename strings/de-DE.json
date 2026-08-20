@@ -1862,7 +1862,6 @@
   "UPLOAD_STATUS_CANCEL_BUTTON": "Upload Abbrechen",
   "UPLOAD_STATUS_PROGRESS_FILES": "{done} von {total} Dateien hochgeladen",
   "UPLOAD_STATUS_PROGRESS_FILE": "{done} von {total} Datei hochgeladen",
-  "UPLOAD_STATUS_UPLOAD_MORE_BUTTON": "Mehr hochladen",
   "UPLOAD_DROP_HINT_COUNT": "Bilder oder Videos, bis zu {count} Dateien",
   "UPLOAD_DROP_HINT_COUNT_LIMIT": "Bilder oder Videos, bis zu {count} Dateien, je {limit}",
   "UPLOAD_DROP_READY_FILES": "{count} Dateien zum Hochladen bereit!",

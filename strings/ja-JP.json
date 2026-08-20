@@ -1862,7 +1862,6 @@
   "UPLOAD_STATUS_CANCEL_BUTTON": "アップロードをキャンセル",
   "UPLOAD_STATUS_PROGRESS_FILES": "{total}件中{done}件のファイルをアップロード済み",
   "UPLOAD_STATUS_PROGRESS_FILE": "{total}件中{done}件のファイルをアップロード済み",
-  "UPLOAD_STATUS_UPLOAD_MORE_BUTTON": "さらにアップロード",
   "UPLOAD_DROP_HINT_COUNT": "画像または動画、最大{count}件のファイル",
   "UPLOAD_DROP_HINT_COUNT_LIMIT": "画像または動画、最大{count}件のファイル、各{limit}",
   "UPLOAD_DROP_READY_FILES": "{count}件のファイルがアップロードの準備完了です。",

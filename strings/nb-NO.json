@@ -1862,7 +1862,6 @@
   "UPLOAD_STATUS_CANCEL_BUTTON": "Avbryt opplasting",
   "UPLOAD_STATUS_PROGRESS_FILES": "{done} av {total} filer lastet opp",
   "UPLOAD_STATUS_PROGRESS_FILE": "{done} av {total} fil lastet opp",
-  "UPLOAD_STATUS_UPLOAD_MORE_BUTTON": "Last opp mer",
   "UPLOAD_DROP_HINT_COUNT": "Bilder eller videoer, opptil {count} filer",
   "UPLOAD_DROP_HINT_COUNT_LIMIT": "Bilder eller videoer, opptil {count} filer, {limit} hver",
   "UPLOAD_DROP_READY_FILES": "{count} filer klare til opplasting!",
