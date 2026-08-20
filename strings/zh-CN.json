@@ -2113,7 +2113,7 @@
   "COMMON_DOWNLOAD": "下载",
   "CONVERT_DROP_HEADING": "拖放或浏览文件以转换",
   "CONVERT_DROP_HINT": "图片和视频，最大 {limit}",
-  "CONVERT_READY_HINT": "已保存到你的设备。上传后即可获得可分享的链接。",
+  "CONVERT_READY_HINT": "已保存到你的设备。上传后即可获得链接。",
   "CONVERT_UPLOADED_HEADING": "上传成功！",
   "CONVERT_TOAST_CONVERTING": "正在转换...",
   "CONVERT_TOAST_READY": "文件转换成功！",

@@ -2113,7 +2113,7 @@
   "COMMON_DOWNLOAD": "Ladda ner",
   "CONVERT_DROP_HEADING": "Släpp en fil eller bläddra för att konvertera",
   "CONVERT_DROP_HINT": "Bilder och videor, upp till {limit}",
-  "CONVERT_READY_HINT": "Sparat på din enhet. Ladda upp filen för att få en delbar länk.",
+  "CONVERT_READY_HINT": "Sparat på din enhet. Ladda upp filen för att få en länk.",
   "CONVERT_UPLOADED_HEADING": "Uppladdat!",
   "CONVERT_TOAST_CONVERTING": "Konverterar...",
   "CONVERT_TOAST_READY": "Filen har konverterats!",

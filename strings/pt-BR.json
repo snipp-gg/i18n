@@ -2113,7 +2113,7 @@
   "COMMON_DOWNLOAD": "Baixar",
   "CONVERT_DROP_HEADING": "Solte ou procure um arquivo para converter",
   "CONVERT_DROP_HINT": "Imagens e vídeos, até {limit}",
-  "CONVERT_READY_HINT": "Salvo no seu dispositivo. Envie o arquivo para obter um link para compartilhar.",
+  "CONVERT_READY_HINT": "Salvo no seu dispositivo. Envie o arquivo para obter um link.",
   "CONVERT_UPLOADED_HEADING": "Enviado!",
   "CONVERT_TOAST_CONVERTING": "Convertendo...",
   "CONVERT_TOAST_READY": "Arquivo convertido!",

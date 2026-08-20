@@ -2113,7 +2113,7 @@
   "COMMON_DOWNLOAD": "Herunterladen",
   "CONVERT_DROP_HEADING": "Datei ablegen oder zum Umwandeln durchsuchen",
   "CONVERT_DROP_HINT": "Bilder und Videos, bis zu {limit}",
-  "CONVERT_READY_HINT": "Auf deinem Gerät gespeichert. Lade die Datei hoch, um einen teilbaren Link zu erhalten.",
+  "CONVERT_READY_HINT": "Auf deinem Gerät gespeichert. Lade die Datei für einen Link hoch.",
   "CONVERT_UPLOADED_HEADING": "Hochgeladen!",
   "CONVERT_TOAST_CONVERTING": "Wird umgewandelt...",
   "CONVERT_TOAST_READY": "Datei umgewandelt!",

@@ -2113,7 +2113,7 @@
   "COMMON_DOWNLOAD": "İndir",
   "CONVERT_DROP_HEADING": "Dönüştürmek için bir dosya bırakın veya göz atın",
   "CONVERT_DROP_HINT": "Görseller ve videolar, en fazla {limit}",
-  "CONVERT_READY_HINT": "Cihazınıza kaydedildi. Paylaşılabilir bir bağlantı için dosyayı yükleyin.",
+  "CONVERT_READY_HINT": "Cihazınıza kaydedildi. Bağlantı için dosyayı yükleyin.",
   "CONVERT_UPLOADED_HEADING": "Yüklendi!",
   "CONVERT_TOAST_CONVERTING": "Dönüştürülüyor...",
   "CONVERT_TOAST_READY": "Dosya dönüştürüldü!",

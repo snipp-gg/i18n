@@ -2113,7 +2113,7 @@
   "COMMON_DOWNLOAD": "डाउनलोड करें",
   "CONVERT_DROP_HEADING": "कन्वर्ट करने के लिए फ़ाइल छोड़ें या ब्राउज़ करें",
   "CONVERT_DROP_HINT": "इमेज और वीडियो, {limit} तक",
-  "CONVERT_READY_HINT": "आपके डिवाइस में सेव हो गई। शेयर करने लायक लिंक के लिए इसे अपलोड करें।",
+  "CONVERT_READY_HINT": "आपके डिवाइस में सेव हो गई। लिंक के लिए इसे अपलोड करें।",
   "CONVERT_UPLOADED_HEADING": "अपलोड हो गया!",
   "CONVERT_TOAST_CONVERTING": "कन्वर्ट हो रहा है...",
   "CONVERT_TOAST_READY": "फ़ाइल कन्वर्ट हो गई!",

@@ -2113,7 +2113,7 @@
   "COMMON_DOWNLOAD": "Descarcă",
   "CONVERT_DROP_HEADING": "Plasați sau răsfoiți un fișier pentru conversie",
   "CONVERT_DROP_HINT": "Imagini și videoclipuri, până la {limit}",
-  "CONVERT_READY_HINT": "Salvat pe dispozitivul tău. Încarcă-l pentru un link de partajat.",
+  "CONVERT_READY_HINT": "Salvat pe dispozitivul tău. Încarcă-l pentru un link.",
   "CONVERT_UPLOADED_HEADING": "Încărcat!",
   "CONVERT_TOAST_CONVERTING": "Se convertește...",
   "CONVERT_TOAST_READY": "Fișier convertit!",

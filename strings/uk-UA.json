@@ -2113,7 +2113,7 @@
   "COMMON_DOWNLOAD": "Зберегти",
   "CONVERT_DROP_HEADING": "Перетягніть або виберіть файл для перетворення",
   "CONVERT_DROP_HINT": "Зображення та відео, до {limit}",
-  "CONVERT_READY_HINT": "Збережено на вашому пристрої. Завантажте файл, щоб отримати посилання для обміну.",
+  "CONVERT_READY_HINT": "Збережено на вашому пристрої. Завантажте файл, щоб отримати посилання.",
   "CONVERT_UPLOADED_HEADING": "Завантажено!",
   "CONVERT_TOAST_CONVERTING": "Перетворення...",
   "CONVERT_TOAST_READY": "Файл перетворено!",

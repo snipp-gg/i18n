@@ -2113,7 +2113,7 @@
   "COMMON_DOWNLOAD": "Preuzmi",
   "CONVERT_DROP_HEADING": "Ispustite ili pregledajte datoteku za pretvaranje",
   "CONVERT_DROP_HINT": "Slike i videozapisi, do {limit}",
-  "CONVERT_READY_HINT": "Spremljeno na tvoj uređaj. Prenesi datoteku za link za dijeljenje.",
+  "CONVERT_READY_HINT": "Spremljeno na tvoj uređaj. Prenesi datoteku za link.",
   "CONVERT_UPLOADED_HEADING": "Preneseno!",
   "CONVERT_TOAST_CONVERTING": "Pretvaranje...",
   "CONVERT_TOAST_READY": "Datoteka je pretvorena!",

@@ -2113,7 +2113,7 @@
   "COMMON_DOWNLOAD": "Λήψη",
   "CONVERT_DROP_HEADING": "Αποθέστε ή περιηγηθείτε σε αρχείο για μετατροπή",
   "CONVERT_DROP_HINT": "Εικόνες και βίντεο, έως {limit}",
-  "CONVERT_READY_HINT": "Αποθηκεύτηκε στη συσκευή σας. Ανεβάστε το για να λάβετε σύνδεσμο κοινοποίησης.",
+  "CONVERT_READY_HINT": "Αποθηκεύτηκε στη συσκευή σας. Ανεβάστε το για να λάβετε σύνδεσμο.",
   "CONVERT_UPLOADED_HEADING": "Ανέβηκε!",
   "CONVERT_TOAST_CONVERTING": "Μετατροπή...",
   "CONVERT_TOAST_READY": "Το αρχείο μετατράπηκε!",

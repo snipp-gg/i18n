@@ -2113,7 +2113,7 @@
   "COMMON_DOWNLOAD": "I-download",
   "CONVERT_DROP_HEADING": "Mag-drop o mag-browse ng file para i-convert",
   "CONVERT_DROP_HINT": "Mga larawan at video, hanggang {limit}",
-  "CONVERT_READY_HINT": "Na-save sa iyong device. I-upload ito para sa shareable na link.",
+  "CONVERT_READY_HINT": "Na-save sa iyong device. I-upload ito para sa link.",
   "CONVERT_UPLOADED_HEADING": "Na-upload na!",
   "CONVERT_TOAST_CONVERTING": "Kino-convert...",
   "CONVERT_TOAST_READY": "Na-convert na ang file!",

@@ -2113,7 +2113,7 @@
   "COMMON_DOWNLOAD": "ダウンロード",
   "CONVERT_DROP_HEADING": "ファイルをドロップまたは参照して変換",
   "CONVERT_DROP_HINT": "画像と動画、最大{limit}",
-  "CONVERT_READY_HINT": "デバイスに保存しました。アップロードすると共有リンクを取得できます。",
+  "CONVERT_READY_HINT": "デバイスに保存しました。アップロードするとリンクを取得できます。",
   "CONVERT_UPLOADED_HEADING": "アップロード完了！",
   "CONVERT_TOAST_CONVERTING": "変換中...",
   "CONVERT_TOAST_READY": "ファイルを変換しました！",

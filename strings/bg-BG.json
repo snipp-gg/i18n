@@ -2113,7 +2113,7 @@
   "COMMON_DOWNLOAD": "Изтегли",
   "CONVERT_DROP_HEADING": "Пуснете или прегледайте файл за преобразуване",
   "CONVERT_DROP_HINT": "Изображения и видео, до {limit}",
-  "CONVERT_READY_HINT": "Записано на устройството ви. Качете го, за да получите линк за споделяне.",
+  "CONVERT_READY_HINT": "Записано на устройството ви. Качете го, за да получите линк.",
   "CONVERT_UPLOADED_HEADING": "Качено!",
   "CONVERT_TOAST_CONVERTING": "Преобразуване...",
   "CONVERT_TOAST_READY": "Файлът е преобразуван!",

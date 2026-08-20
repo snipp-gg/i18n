@@ -2113,7 +2113,7 @@
   "COMMON_DOWNLOAD": "Tallenna",
   "CONVERT_DROP_HEADING": "Pudota tai selaa tiedostoa muuntaaksesi",
   "CONVERT_DROP_HINT": "Kuvia ja videoita, enintään {limit}",
-  "CONVERT_READY_HINT": "Tallennettu laitteellesi. Lataa se saadaksesi jaettavan linkin.",
+  "CONVERT_READY_HINT": "Tallennettu laitteellesi. Lataa se saadaksesi linkin.",
   "CONVERT_UPLOADED_HEADING": "Lähetetty!",
   "CONVERT_TOAST_CONVERTING": "Muunnetaan...",
   "CONVERT_TOAST_READY": "Tiedosto muunnettu!",

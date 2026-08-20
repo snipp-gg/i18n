@@ -2113,7 +2113,7 @@
   "COMMON_DOWNLOAD": "Downloaden",
   "CONVERT_DROP_HEADING": "Sleep of blader door een bestand om te converteren",
   "CONVERT_DROP_HINT": "Afbeeldingen en video's, tot {limit}",
-  "CONVERT_READY_HINT": "Opgeslagen op je apparaat. Upload het voor een deelbare link.",
+  "CONVERT_READY_HINT": "Opgeslagen op je apparaat. Upload het voor een link.",
   "CONVERT_UPLOADED_HEADING": "Geüpload!",
   "CONVERT_TOAST_CONVERTING": "Converteren...",
   "CONVERT_TOAST_READY": "Bestand geconverteerd!",
