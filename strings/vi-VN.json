@@ -2117,6 +2117,8 @@
   "CONVERT_TOAST_READY": "Đã chuyển đổi tệp!",
   "CONVERT_TOAST_FAILED": "Không thể chuyển đổi tệp này.",
   "CONVERT_TOAST_UPLOAD_FAILED": "Không thể tải lên tệp này.",
+  "CONVERT_TOAST_CANCELED": "Đã hủy chuyển đổi!",
+  "CONVERT_TOAST_UPLOAD_CANCELED": "Đã hủy tải lên!",
   "CONVERT_ERROR_UNSUPPORTED": "Không thể chuyển đổi tệp đó.",
   "CONVERT_ERROR_TOO_LARGE": "Tệp vượt quá giới hạn chuyển đổi {limit}."
 }

@@ -2117,6 +2117,8 @@
   "CONVERT_TOAST_READY": "File berhasil dikonversi!",
   "CONVERT_TOAST_FAILED": "Gagal mengonversi file.",
   "CONVERT_TOAST_UPLOAD_FAILED": "Gagal mengunggah file.",
+  "CONVERT_TOAST_CANCELED": "Konversi dibatalkan!",
+  "CONVERT_TOAST_UPLOAD_CANCELED": "Unggahan dibatalkan!",
   "CONVERT_ERROR_UNSUPPORTED": "File tersebut tidak dapat dikonversi.",
   "CONVERT_ERROR_TOO_LARGE": "File melebihi batas konversi {limit}."
 }

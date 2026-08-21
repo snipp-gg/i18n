@@ -2117,6 +2117,8 @@
   "CONVERT_TOAST_READY": "파일이 변환되었습니다!",
   "CONVERT_TOAST_FAILED": "파일을 변환하지 못했습니다.",
   "CONVERT_TOAST_UPLOAD_FAILED": "파일을 업로드하지 못했습니다.",
+  "CONVERT_TOAST_CANCELED": "변환이 취소되었습니다!",
+  "CONVERT_TOAST_UPLOAD_CANCELED": "업로드가 취소되었습니다!",
   "CONVERT_ERROR_UNSUPPORTED": "이 파일은 변환할 수 없습니다.",
   "CONVERT_ERROR_TOO_LARGE": "파일이 {limit} 변환 한도를 초과했습니다."
 }

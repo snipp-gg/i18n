@@ -2117,6 +2117,8 @@
   "CONVERT_TOAST_READY": "फ़ाइल कन्वर्ट हो गई!",
   "CONVERT_TOAST_FAILED": "फ़ाइल कन्वर्ट करने में विफल।",
   "CONVERT_TOAST_UPLOAD_FAILED": "फ़ाइल अपलोड करने में विफल।",
+  "CONVERT_TOAST_CANCELED": "कन्वर्ट रद्द किया गया!",
+  "CONVERT_TOAST_UPLOAD_CANCELED": "अपलोड रद्द किया गया!",
   "CONVERT_ERROR_UNSUPPORTED": "यह फ़ाइल कन्वर्ट नहीं की जा सकती।",
   "CONVERT_ERROR_TOO_LARGE": "फ़ाइल {limit} की कन्वर्ट सीमा से बड़ी है।"
 }

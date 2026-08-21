@@ -2117,6 +2117,8 @@
   "CONVERT_TOAST_READY": "Fișier convertit!",
   "CONVERT_TOAST_FAILED": "Nu s-a putut converti fișierul.",
   "CONVERT_TOAST_UPLOAD_FAILED": "Nu s-a putut încărca fișierul.",
+  "CONVERT_TOAST_CANCELED": "Conversie anulată!",
+  "CONVERT_TOAST_UPLOAD_CANCELED": "Încărcare anulată!",
   "CONVERT_ERROR_UNSUPPORTED": "Acest fișier nu poate fi convertit.",
   "CONVERT_ERROR_TOO_LARGE": "Fișierul depășește limita de conversie de {limit}."
 }

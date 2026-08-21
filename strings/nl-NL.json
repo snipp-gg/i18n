@@ -2117,6 +2117,8 @@
   "CONVERT_TOAST_READY": "Bestand geconverteerd!",
   "CONVERT_TOAST_FAILED": "Bestand converteren mislukt.",
   "CONVERT_TOAST_UPLOAD_FAILED": "Bestand uploaden mislukt.",
+  "CONVERT_TOAST_CANCELED": "Converteren geannuleerd!",
+  "CONVERT_TOAST_UPLOAD_CANCELED": "Upload geannuleerd!",
   "CONVERT_ERROR_UNSUPPORTED": "Dat bestand kan niet worden geconverteerd.",
   "CONVERT_ERROR_TOO_LARGE": "Bestand is groter dan de conversielimiet van {limit}."
 }

@@ -2117,6 +2117,8 @@
   "CONVERT_TOAST_READY": "Súbor bol skonvertovaný!",
   "CONVERT_TOAST_FAILED": "Nepodarilo sa skonvertovať súbor.",
   "CONVERT_TOAST_UPLOAD_FAILED": "Nepodarilo sa nahrať súbor.",
+  "CONVERT_TOAST_CANCELED": "Konverzia zrušená!",
+  "CONVERT_TOAST_UPLOAD_CANCELED": "Nahrávanie zrušené!",
   "CONVERT_ERROR_UNSUPPORTED": "Tento súbor sa nedá skonvertovať.",
   "CONVERT_ERROR_TOO_LARGE": "Súbor prekračuje limit {limit} na konverziu."
 }

@@ -2117,6 +2117,8 @@
   "CONVERT_TOAST_READY": "Na-convert na ang file!",
   "CONVERT_TOAST_FAILED": "Hindi na-convert ang file.",
   "CONVERT_TOAST_UPLOAD_FAILED": "Hindi na-upload ang file.",
+  "CONVERT_TOAST_CANCELED": "Kinansela ang pag-convert!",
+  "CONVERT_TOAST_UPLOAD_CANCELED": "Kinansela ang upload!",
   "CONVERT_ERROR_UNSUPPORTED": "Hindi ma-convert ang file na iyan.",
   "CONVERT_ERROR_TOO_LARGE": "Lampas ang file sa {limit} na limitasyon sa pag-convert."
 }

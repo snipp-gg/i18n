@@ -2117,6 +2117,8 @@
   "CONVERT_TOAST_READY": "Tiedosto muunnettu!",
   "CONVERT_TOAST_FAILED": "Tiedoston muuntaminen epäonnistui.",
   "CONVERT_TOAST_UPLOAD_FAILED": "Tiedoston lataus epäonnistui.",
+  "CONVERT_TOAST_CANCELED": "Muunnos peruutettu!",
+  "CONVERT_TOAST_UPLOAD_CANCELED": "Lataus peruutettu!",
   "CONVERT_ERROR_UNSUPPORTED": "Tätä tiedostoa ei voi muuntaa.",
   "CONVERT_ERROR_TOO_LARGE": "Tiedosto ylittää muunnosrajan {limit}."
 }

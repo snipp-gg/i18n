@@ -2117,6 +2117,8 @@
   "CONVERT_TOAST_READY": "Dosya dönüştürüldü!",
   "CONVERT_TOAST_FAILED": "Dosya dönüştürülemedi.",
   "CONVERT_TOAST_UPLOAD_FAILED": "Dosya yüklenemedi.",
+  "CONVERT_TOAST_CANCELED": "Dönüştürme iptal edildi!",
+  "CONVERT_TOAST_UPLOAD_CANCELED": "Yükleme iptal edildi!",
   "CONVERT_ERROR_UNSUPPORTED": "Bu dosya dönüştürülemez.",
   "CONVERT_ERROR_TOO_LARGE": "Dosya, {limit} dönüştürme sınırının üzerinde."
 }

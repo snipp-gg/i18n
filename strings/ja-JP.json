@@ -2117,6 +2117,8 @@
   "CONVERT_TOAST_READY": "ファイルを変換しました！",
   "CONVERT_TOAST_FAILED": "ファイルの変換に失敗しました。",
   "CONVERT_TOAST_UPLOAD_FAILED": "ファイルのアップロードに失敗しました。",
+  "CONVERT_TOAST_CANCELED": "変換をキャンセルしました。",
+  "CONVERT_TOAST_UPLOAD_CANCELED": "アップロードをキャンセルしました。",
   "CONVERT_ERROR_UNSUPPORTED": "このファイルは変換できません。",
   "CONVERT_ERROR_TOO_LARGE": "ファイルが変換上限の{limit}を超えています。"
 }

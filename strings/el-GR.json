@@ -2117,6 +2117,8 @@
   "CONVERT_TOAST_READY": "Το αρχείο μετατράπηκε!",
   "CONVERT_TOAST_FAILED": "Αποτυχία μετατροπής του αρχείου.",
   "CONVERT_TOAST_UPLOAD_FAILED": "Αποτυχία ανεβάσματος του αρχείου.",
+  "CONVERT_TOAST_CANCELED": "Η μετατροπή ακυρώθηκε!",
+  "CONVERT_TOAST_UPLOAD_CANCELED": "Το upload ακυρώθηκε!",
   "CONVERT_ERROR_UNSUPPORTED": "Αυτό το αρχείο δεν μπορεί να μετατραπεί.",
   "CONVERT_ERROR_TOO_LARGE": "Το αρχείο ξεπερνά το όριο μετατροπής των {limit}."
 }

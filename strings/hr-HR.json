@@ -2117,6 +2117,8 @@
   "CONVERT_TOAST_READY": "Datoteka je pretvorena!",
   "CONVERT_TOAST_FAILED": "Pretvaranje datoteke nije uspjelo.",
   "CONVERT_TOAST_UPLOAD_FAILED": "Prijenos datoteke nije uspio.",
+  "CONVERT_TOAST_CANCELED": "Pretvorba otkazana!",
+  "CONVERT_TOAST_UPLOAD_CANCELED": "Prijenos otkazan!",
   "CONVERT_ERROR_UNSUPPORTED": "Ta se datoteka ne može pretvoriti.",
   "CONVERT_ERROR_TOO_LARGE": "Datoteka premašuje ograničenje za pretvaranje od {limit}."
 }

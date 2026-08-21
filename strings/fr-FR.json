@@ -2117,6 +2117,8 @@
   "CONVERT_TOAST_READY": "Fichier converti !",
   "CONVERT_TOAST_FAILED": "Échec de la conversion du fichier.",
   "CONVERT_TOAST_UPLOAD_FAILED": "Échec de l'envoi du fichier.",
+  "CONVERT_TOAST_CANCELED": "Conversion annulée !",
+  "CONVERT_TOAST_UPLOAD_CANCELED": "Envoi annulé !",
   "CONVERT_ERROR_UNSUPPORTED": "Ce fichier ne peut pas être converti.",
   "CONVERT_ERROR_TOO_LARGE": "Le fichier dépasse la limite de conversion de {limit}."
 }

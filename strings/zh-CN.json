@@ -2117,6 +2117,8 @@
   "CONVERT_TOAST_READY": "文件转换成功！",
   "CONVERT_TOAST_FAILED": "转换此文件失败。",
   "CONVERT_TOAST_UPLOAD_FAILED": "上传此文件失败。",
+  "CONVERT_TOAST_CANCELED": "转换已取消！",
+  "CONVERT_TOAST_UPLOAD_CANCELED": "上传已取消！",
   "CONVERT_ERROR_UNSUPPORTED": "该文件无法转换。",
   "CONVERT_ERROR_TOO_LARGE": "文件超过 {limit} 的转换上限。"
 }

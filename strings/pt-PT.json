@@ -2117,6 +2117,8 @@
   "CONVERT_TOAST_READY": "Ficheiro convertido!",
   "CONVERT_TOAST_FAILED": "Falha ao converter o ficheiro.",
   "CONVERT_TOAST_UPLOAD_FAILED": "Falha ao carregar o ficheiro.",
+  "CONVERT_TOAST_CANCELED": "Conversão cancelada!",
+  "CONVERT_TOAST_UPLOAD_CANCELED": "Carregamento cancelado!",
   "CONVERT_ERROR_UNSUPPORTED": "Esse ficheiro não pode ser convertido.",
   "CONVERT_ERROR_TOO_LARGE": "O ficheiro excede o limite de conversão de {limit}."
 }

@@ -2117,6 +2117,8 @@
   "CONVERT_TOAST_READY": "Filen har konverterats!",
   "CONVERT_TOAST_FAILED": "Kunde inte konvertera filen.",
   "CONVERT_TOAST_UPLOAD_FAILED": "Kunde inte ladda upp filen.",
+  "CONVERT_TOAST_CANCELED": "Konverteringen avbruten!",
+  "CONVERT_TOAST_UPLOAD_CANCELED": "Uppladdningen avbruten!",
   "CONVERT_ERROR_UNSUPPORTED": "Den filen kan inte konverteras.",
   "CONVERT_ERROR_TOO_LARGE": "Filen är över konverteringsgränsen på {limit}."
 }

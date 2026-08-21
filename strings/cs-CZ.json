@@ -2117,6 +2117,8 @@
   "CONVERT_TOAST_READY": "Soubor byl převeden!",
   "CONVERT_TOAST_FAILED": "Nepodařilo se převést soubor.",
   "CONVERT_TOAST_UPLOAD_FAILED": "Nepodařilo se nahrát soubor.",
+  "CONVERT_TOAST_CANCELED": "Převod zrušen!",
+  "CONVERT_TOAST_UPLOAD_CANCELED": "Nahrávání zrušeno!",
   "CONVERT_ERROR_UNSUPPORTED": "Tento soubor nelze převést.",
   "CONVERT_ERROR_TOO_LARGE": "Soubor překračuje limit {limit} pro převod."
 }
