@@ -2111,7 +2111,6 @@
   "COMMON_CONVERT": "Μετατροπή",
   "COMMON_DOWNLOAD": "Λήψη",
   "CONVERT_DROP_HEADING": "Αποθέστε ή περιηγηθείτε σε αρχείο για μετατροπή",
-  "CONVERT_DROP_HINT": "Μόνο εικόνες και βίντεο",
   "CONVERT_DROP_HINT_LIMIT": "Μόνο εικόνες και βίντεο, έως {limit}",
   "CONVERT_DROP_READY": "Το αρχείο σας είναι έτοιμο για μετατροπή!",
   "CONVERT_SUCCESS_HEADING": "Η μετατροπή ολοκληρώθηκε!",

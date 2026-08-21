@@ -2111,7 +2111,6 @@
   "COMMON_CONVERT": "转换",
   "COMMON_DOWNLOAD": "下载",
   "CONVERT_DROP_HEADING": "拖放或浏览文件以转换",
-  "CONVERT_DROP_HINT": "仅限图片和视频",
   "CONVERT_DROP_HINT_LIMIT": "仅限图片和视频，最大 {limit}",
   "CONVERT_DROP_READY": "您的文件已准备好转换！",
   "CONVERT_SUCCESS_HEADING": "转换成功！",

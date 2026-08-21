@@ -2111,7 +2111,6 @@
   "COMMON_CONVERT": "Convert",
   "COMMON_DOWNLOAD": "Download",
   "CONVERT_DROP_HEADING": "Drop a file or browse to convert",
-  "CONVERT_DROP_HINT": "Images and videos only",
   "CONVERT_DROP_HINT_LIMIT": "Images and videos only, up to {limit}",
   "CONVERT_DROP_READY": "Your file is ready to convert!",
   "CONVERT_SUCCESS_HEADING": "Conversion successful!",

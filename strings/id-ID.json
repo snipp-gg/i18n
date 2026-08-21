@@ -2111,7 +2111,6 @@
   "COMMON_CONVERT": "Konversi",
   "COMMON_DOWNLOAD": "Unduh",
   "CONVERT_DROP_HEADING": "Jatuhkan atau telusuri file untuk dikonversi",
-  "CONVERT_DROP_HINT": "Hanya gambar dan video",
   "CONVERT_DROP_HINT_LIMIT": "Hanya gambar dan video, hingga {limit}",
   "CONVERT_DROP_READY": "File Anda siap dikonversi!",
   "CONVERT_SUCCESS_HEADING": "Konversi berhasil!",

@@ -2111,7 +2111,6 @@
   "COMMON_CONVERT": "Pretvori",
   "COMMON_DOWNLOAD": "Preuzmi",
   "CONVERT_DROP_HEADING": "Ispustite ili pregledajte datoteku za pretvaranje",
-  "CONVERT_DROP_HINT": "Samo slike i videozapisi",
   "CONVERT_DROP_HINT_LIMIT": "Samo slike i videozapisi, do {limit}",
   "CONVERT_DROP_READY": "Tvoja je datoteka spremna za pretvorbu!",
   "CONVERT_SUCCESS_HEADING": "Pretvorba je uspješna!",

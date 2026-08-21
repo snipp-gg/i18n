@@ -2111,7 +2111,6 @@
   "COMMON_CONVERT": "Dönüştür",
   "COMMON_DOWNLOAD": "İndir",
   "CONVERT_DROP_HEADING": "Dönüştürmek için bir dosya bırakın veya göz atın",
-  "CONVERT_DROP_HINT": "Yalnızca görseller ve videolar",
   "CONVERT_DROP_HINT_LIMIT": "Yalnızca görseller ve videolar, en fazla {limit}",
   "CONVERT_DROP_READY": "Dosyanız dönüştürülmeye hazır!",
   "CONVERT_SUCCESS_HEADING": "Dönüştürme başarılı!",

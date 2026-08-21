@@ -2111,7 +2111,6 @@
   "COMMON_CONVERT": "Konvertera",
   "COMMON_DOWNLOAD": "Ladda ner",
   "CONVERT_DROP_HEADING": "Släpp en fil eller bläddra för att konvertera",
-  "CONVERT_DROP_HINT": "Endast bilder och videor",
   "CONVERT_DROP_HINT_LIMIT": "Endast bilder och videor, upp till {limit}",
   "CONVERT_DROP_READY": "Din fil är redo att konverteras!",
   "CONVERT_SUCCESS_HEADING": "Konvertering lyckades!",
