@@ -2111,6 +2111,7 @@
   "COMMON_CONVERT": "Преобразуване",
   "COMMON_DOWNLOAD": "Изтегли",
   "CONVERT_DROP_HEADING": "Пуснете или прегледайте файл за преобразуване",
+  "CONVERT_DROP_HINT": "Само изображения и видео",
   "CONVERT_DROP_HINT_LIMIT": "Само изображения и видео, до {limit}",
   "CONVERT_DROP_READY": "Файлът ви е готов за преобразуване!",
   "CONVERT_SUCCESS_HEADING": "Преобразуването е успешно!",

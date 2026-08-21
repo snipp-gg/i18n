@@ -2111,6 +2111,7 @@
   "COMMON_CONVERT": "I-convert",
   "COMMON_DOWNLOAD": "I-download",
   "CONVERT_DROP_HEADING": "Mag-drop o mag-browse ng file para i-convert",
+  "CONVERT_DROP_HINT": "Mga larawan at video lamang",
   "CONVERT_DROP_HINT_LIMIT": "Mga larawan at video lamang, hanggang {limit}",
   "CONVERT_DROP_READY": "Handa nang i-convert ang iyong file!",
   "CONVERT_SUCCESS_HEADING": "Matagumpay ang pag-convert!",

@@ -2111,6 +2111,7 @@
   "COMMON_CONVERT": "변환",
   "COMMON_DOWNLOAD": "다운로드",
   "CONVERT_DROP_HEADING": "파일을 드롭하거나 찾아보기로 변환",
+  "CONVERT_DROP_HINT": "이미지 및 동영상만",
   "CONVERT_DROP_HINT_LIMIT": "이미지 및 동영상만, 최대 {limit}",
   "CONVERT_DROP_READY": "파일이 변환할 준비가 되었습니다!",
   "CONVERT_SUCCESS_HEADING": "변환 완료!",

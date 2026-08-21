@@ -2111,6 +2111,7 @@
   "COMMON_CONVERT": "Chuyển đổi",
   "COMMON_DOWNLOAD": "Tải xuống",
   "CONVERT_DROP_HEADING": "Thả hoặc duyệt tệp để chuyển đổi",
+  "CONVERT_DROP_HINT": "Chỉ hình ảnh và video",
   "CONVERT_DROP_HINT_LIMIT": "Chỉ hình ảnh và video, tối đa {limit}",
   "CONVERT_DROP_READY": "Tệp của bạn đã sẵn sàng chuyển đổi!",
   "CONVERT_SUCCESS_HEADING": "Chuyển đổi thành công!",

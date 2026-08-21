@@ -2111,6 +2111,7 @@
   "COMMON_CONVERT": "Converteren",
   "COMMON_DOWNLOAD": "Downloaden",
   "CONVERT_DROP_HEADING": "Sleep of blader door een bestand om te converteren",
+  "CONVERT_DROP_HINT": "Alleen afbeeldingen en video's",
   "CONVERT_DROP_HINT_LIMIT": "Alleen afbeeldingen en video's, tot {limit}",
   "CONVERT_DROP_READY": "Je bestand is klaar om te converteren!",
   "CONVERT_SUCCESS_HEADING": "Converteren gelukt!",

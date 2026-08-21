@@ -2111,6 +2111,7 @@
   "COMMON_CONVERT": "Muunna",
   "COMMON_DOWNLOAD": "Tallenna",
   "CONVERT_DROP_HEADING": "Pudota tai selaa tiedostoa muuntaaksesi",
+  "CONVERT_DROP_HINT": "Vain kuvia ja videoita",
   "CONVERT_DROP_HINT_LIMIT": "Vain kuvia ja videoita, enintään {limit}",
   "CONVERT_DROP_READY": "Tiedostosi on valmis muunnettavaksi!",
   "CONVERT_SUCCESS_HEADING": "Muunnos onnistui!",

@@ -2111,6 +2111,7 @@
   "COMMON_CONVERT": "Konvertuj",
   "COMMON_DOWNLOAD": "Preuzmi",
   "CONVERT_DROP_HEADING": "Otpustite ili pregledajte fajl za konvertovanje",
+  "CONVERT_DROP_HINT": "Samo slike i video",
   "CONVERT_DROP_HINT_LIMIT": "Samo slike i video, do {limit}",
   "CONVERT_DROP_READY": "Vaš fajl je spreman za konvertovanje!",
   "CONVERT_SUCCESS_HEADING": "Konvertovanje je uspešno!",
