@@ -607,7 +607,7 @@
   "LOGIN_ERROR_GENERIC": "Щось пішло не так. Спробуйте ще раз.",
   "LOGIN_ERROR_DISCORD_NO_ACCOUNT": "З цим Discord не пов'язано жодного акаунта Snipp. Зареєструйтеся за допомогою електронної пошти, щоб створити акаунт.",
   "LOGIN_ERROR_DISCORD_ALREADY_MIGRATED": "Ваш акаунт уже перенесено. Будь ласка, увійдіть за допомогою магічних посилань.",
-  "LOGIN_ERROR_DISCORD_EMAIL_MISSING": "Для перенесення нам потрібна ваша електронна адреса Discord, будь ласка, спробуйте ще раз. Якщо проблема не зникає, зверніться до підтримки.",
+  "LOGIN_ERROR_DISCORD_EMAIL_MISSING": "We need a verified email from your Discord account to sign in. Verify it on Discord and try again.",
   "LOGIN_ERROR_DISCORD_EMAIL_IN_USE": "Ця електронна адреса Discord уже використовується іншим акаунтом. Скористайтеся магічним посиланням того акаунта або спробуйте інший акаунт Discord.",
   "LOGIN_ERROR_DISCORD_FAILED": "Не вдалося увійти через Discord. Спробуйте ще раз.",
   "LOGIN_ERROR_DISCORD_MIGRATION_UNAVAILABLE": "Перенесення з Discord наразі недоступне.",
