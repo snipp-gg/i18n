@@ -607,7 +607,7 @@
   "LOGIN_ERROR_GENERIC": "Bir şeyler ters gitti. Lütfen tekrar deneyin.",
   "LOGIN_ERROR_DISCORD_NO_ACCOUNT": "Bu Discord'a bağlı bir Snipp hesabı yok. Hesap oluşturmak için e-postanızla kaydolun.",
   "LOGIN_ERROR_DISCORD_ALREADY_MIGRATED": "Hesabınız zaten taşındı. Lütfen sihirli bağlantıları kullanarak giriş yapın.",
-  "LOGIN_ERROR_DISCORD_EMAIL_MISSING": "Taşıma için Discord e-postanıza ihtiyacımız var, lütfen tekrar deneyin. Bu sorun devam ederse, lütfen destek ekibiyle iletişime geçin.",
+  "LOGIN_ERROR_DISCORD_EMAIL_MISSING": "We need a verified email from your Discord account to sign in. Verify it on Discord and try again.",
   "LOGIN_ERROR_DISCORD_EMAIL_IN_USE": "Bu Discord e-postası zaten başka bir hesap tarafından kullanılıyor. O hesabın sihirli bağlantısını kullanın veya farklı bir Discord hesabı deneyin.",
   "LOGIN_ERROR_DISCORD_FAILED": "Discord girişi başarısız oldu. Lütfen tekrar deneyin.",
   "LOGIN_ERROR_DISCORD_MIGRATION_UNAVAILABLE": "Discord taşıması şu anda kullanılamıyor.",
