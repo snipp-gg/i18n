@@ -607,7 +607,7 @@
   "LOGIN_ERROR_GENERIC": "Ceva n-a mers bine. Te rugăm să încerci din nou.",
   "LOGIN_ERROR_DISCORD_NO_ACCOUNT": "Niciun cont Snipp nu este asociat cu acest Discord. Înregistrează-te cu e-mailul tău pentru a crea un cont.",
   "LOGIN_ERROR_DISCORD_ALREADY_MIGRATED": "Contul tău a fost deja migrat. Te rugăm să te conectezi folosind linkuri magice.",
-  "LOGIN_ERROR_DISCORD_EMAIL_MISSING": "Avem nevoie de e-mailul tău de Discord pentru migrare, te rugăm să încerci din nou. Dacă problema persistă, te rugăm să contactezi asistența.",
+  "LOGIN_ERROR_DISCORD_EMAIL_MISSING": "Avem nevoie de un e-mail verificat din contul tău de Discord pentru a te conecta. Verifică-l în Discord și încearcă din nou.",
   "LOGIN_ERROR_DISCORD_EMAIL_IN_USE": "Acest e-mail de Discord este deja folosit de un alt cont. Folosește linkul magic al acelui cont sau încearcă un alt cont Discord.",
   "LOGIN_ERROR_DISCORD_FAILED": "Conectarea cu Discord a eșuat. Te rugăm să încerci din nou.",
   "LOGIN_ERROR_DISCORD_MIGRATION_UNAVAILABLE": "Migrarea Discord este momentan indisponibilă.",

@@ -607,7 +607,7 @@
   "LOGIN_ERROR_GENERIC": "Đã xảy ra lỗi. Vui lòng thử lại.",
   "LOGIN_ERROR_DISCORD_NO_ACCOUNT": "Không có tài khoản Snipp nào được liên kết với Discord này. Hãy đăng ký bằng email của bạn để tạo tài khoản.",
   "LOGIN_ERROR_DISCORD_ALREADY_MIGRATED": "Tài khoản của bạn đã được chuyển đổi. Vui lòng đăng nhập bằng magic link.",
-  "LOGIN_ERROR_DISCORD_EMAIL_MISSING": "Chúng tôi cần email Discord của bạn để chuyển đổi, vui lòng thử lại. Nếu sự cố vẫn tiếp diễn, vui lòng liên hệ hỗ trợ.",
+  "LOGIN_ERROR_DISCORD_EMAIL_MISSING": "Chúng tôi cần một email đã xác minh từ tài khoản Discord của bạn để đăng nhập. Hãy xác minh email trên Discord rồi thử lại.",
   "LOGIN_ERROR_DISCORD_EMAIL_IN_USE": "Email Discord này đã được một tài khoản khác sử dụng. Hãy dùng magic link của tài khoản đó hoặc thử một tài khoản Discord khác.",
   "LOGIN_ERROR_DISCORD_FAILED": "Đăng nhập Discord thất bại. Vui lòng thử lại.",
   "LOGIN_ERROR_DISCORD_MIGRATION_UNAVAILABLE": "Việc chuyển đổi Discord hiện không khả dụng.",

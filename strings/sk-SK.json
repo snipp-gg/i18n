@@ -607,7 +607,7 @@
   "LOGIN_ERROR_GENERIC": "Niečo sa pokazilo. Skús to znova.",
   "LOGIN_ERROR_DISCORD_NO_ACCOUNT": "K tomuto Discordu nie je prepojený žiadny účet Snipp. Zaregistruj sa cez e-mail a vytvor si účet.",
   "LOGIN_ERROR_DISCORD_ALREADY_MIGRATED": "Tvoj účet už bol migrovaný. Prihlás sa pomocou magických odkazov.",
-  "LOGIN_ERROR_DISCORD_EMAIL_MISSING": "Na migráciu potrebujeme tvoj e-mail z Discordu, skús to znova. Ak problém pretrváva, kontaktuj podporu.",
+  "LOGIN_ERROR_DISCORD_EMAIL_MISSING": "Na prihlásenie potrebujeme overený e-mail z tvojho účtu Discord. Over si ho na Discorde a skús to znova.",
   "LOGIN_ERROR_DISCORD_EMAIL_IN_USE": "Tento e-mail z Discordu už používa iný účet. Použi magický odkaz daného účtu alebo skús iný Discord účet.",
   "LOGIN_ERROR_DISCORD_FAILED": "Prihlásenie cez Discord zlyhalo. Skús to znova.",
   "LOGIN_ERROR_DISCORD_MIGRATION_UNAVAILABLE": "Migrácia cez Discord je momentálne nedostupná.",

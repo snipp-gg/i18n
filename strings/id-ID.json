@@ -607,7 +607,7 @@
   "LOGIN_ERROR_GENERIC": "Terjadi kesalahan. Silakan coba lagi.",
   "LOGIN_ERROR_DISCORD_NO_ACCOUNT": "Tidak ada akun Snipp yang tertaut ke Discord ini. Daftar dengan email Anda untuk membuat akun.",
   "LOGIN_ERROR_DISCORD_ALREADY_MIGRATED": "Akun Anda sudah dimigrasikan. Silakan masuk menggunakan magic link.",
-  "LOGIN_ERROR_DISCORD_EMAIL_MISSING": "Kami membutuhkan email Discord Anda untuk migrasi, silakan coba lagi. Jika masalah ini berlanjut, hubungi bantuan.",
+  "LOGIN_ERROR_DISCORD_EMAIL_MISSING": "Kami membutuhkan email terverifikasi dari akun Discord Anda untuk masuk. Verifikasi email tersebut di Discord lalu coba lagi.",
   "LOGIN_ERROR_DISCORD_EMAIL_IN_USE": "Email Discord ini sudah digunakan oleh akun lain. Gunakan magic link akun tersebut atau coba akun Discord yang berbeda.",
   "LOGIN_ERROR_DISCORD_FAILED": "Login Discord gagal. Silakan coba lagi.",
   "LOGIN_ERROR_DISCORD_MIGRATION_UNAVAILABLE": "Migrasi Discord saat ini tidak tersedia.",

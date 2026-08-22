@@ -607,7 +607,7 @@
   "LOGIN_ERROR_GENERIC": "Något gick fel. Försök igen.",
   "LOGIN_ERROR_DISCORD_NO_ACCOUNT": "Inget Snipp-konto är kopplat till den här Discord. Registrera dig med din e-post för att skapa ett konto.",
   "LOGIN_ERROR_DISCORD_ALREADY_MIGRATED": "Ditt konto har redan migrerats. Logga in med magiska länkar.",
-  "LOGIN_ERROR_DISCORD_EMAIL_MISSING": "Vi behöver din Discord-e-post för att migrera, försök igen. Om problemet kvarstår, kontakta supporten.",
+  "LOGIN_ERROR_DISCORD_EMAIL_MISSING": "Vi behöver en verifierad e-postadress från ditt Discord-konto för att logga in. Verifiera den på Discord och försök igen.",
   "LOGIN_ERROR_DISCORD_EMAIL_IN_USE": "Den här Discord-e-posten används redan av ett annat konto. Använd det kontots magiska länk eller prova ett annat Discord-konto.",
   "LOGIN_ERROR_DISCORD_FAILED": "Discord-inloggningen misslyckades. Försök igen.",
   "LOGIN_ERROR_DISCORD_MIGRATION_UNAVAILABLE": "Discord-migrering är för närvarande otillgänglig.",

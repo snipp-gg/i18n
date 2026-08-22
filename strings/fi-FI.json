@@ -607,7 +607,7 @@
   "LOGIN_ERROR_GENERIC": "Jotain meni pieleen. Yritä uudelleen.",
   "LOGIN_ERROR_DISCORD_NO_ACCOUNT": "Tähän Discordiin ei ole liitetty Snipp-tiliä. Rekisteröidy sähköpostillasi luodaksesi tilin.",
   "LOGIN_ERROR_DISCORD_ALREADY_MIGRATED": "Tilisi on jo siirretty. Kirjaudu sisään taikalinkeillä.",
-  "LOGIN_ERROR_DISCORD_EMAIL_MISSING": "Tarvitsemme Discord-sähköpostisi siirtoa varten, yritä uudelleen. Jos ongelma jatkuu, ota yhteyttä tukeen.",
+  "LOGIN_ERROR_DISCORD_EMAIL_MISSING": "Tarvitsemme vahvistetun sähköpostin Discord-tililtäsi kirjautumista varten. Vahvista se Discordissa ja yritä uudelleen.",
   "LOGIN_ERROR_DISCORD_EMAIL_IN_USE": "Tämä Discord-sähköposti on jo toisen tilin käytössä. Käytä kyseisen tilin taikalinkkiä tai kokeile toista Discord-tiliä.",
   "LOGIN_ERROR_DISCORD_FAILED": "Discord-kirjautuminen epäonnistui. Yritä uudelleen.",
   "LOGIN_ERROR_DISCORD_MIGRATION_UNAVAILABLE": "Discord-siirto ei ole tällä hetkellä käytettävissä.",

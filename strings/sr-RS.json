@@ -607,7 +607,7 @@
   "LOGIN_ERROR_GENERIC": "Nešto je pošlo naopako. Pokušajte ponovo.",
   "LOGIN_ERROR_DISCORD_NO_ACCOUNT": "Nijedan Snipp nalog nije povezan sa ovim Discord-om. Registrujte se sa svojim imejlom da biste kreirali nalog.",
   "LOGIN_ERROR_DISCORD_ALREADY_MIGRATED": "Vaš nalog je već migriran. Prijavite se korišćenjem magičnih linkova.",
-  "LOGIN_ERROR_DISCORD_EMAIL_MISSING": "Potreban nam je vaš Discord imejl za migraciju, pokušajte ponovo. Ako se problem nastavi, kontaktirajte podršku.",
+  "LOGIN_ERROR_DISCORD_EMAIL_MISSING": "Potreban nam je verifikovan imejl sa vašeg Discord naloga da biste se prijavili. Verifikujte ga na Discord-u i pokušajte ponovo.",
   "LOGIN_ERROR_DISCORD_EMAIL_IN_USE": "Ovaj Discord imejl već koristi drugi nalog. Koristite magični link tog naloga ili pokušajte sa drugim Discord nalogom.",
   "LOGIN_ERROR_DISCORD_FAILED": "Prijava preko Discord-a nije uspela. Pokušajte ponovo.",
   "LOGIN_ERROR_DISCORD_MIGRATION_UNAVAILABLE": "Discord migracija trenutno nije dostupna.",

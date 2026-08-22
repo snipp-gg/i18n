@@ -607,7 +607,7 @@
   "LOGIN_ERROR_GENERIC": "कुछ गड़बड़ हो गई। कृपया दोबारा कोशिश करें।",
   "LOGIN_ERROR_DISCORD_NO_ACCOUNT": "इस Discord से कोई Snipp अकाउंट लिंक नहीं है। अकाउंट बनाने के लिए अपने ईमेल से साइन अप करें।",
   "LOGIN_ERROR_DISCORD_ALREADY_MIGRATED": "आपका अकाउंट पहले ही माइग्रेट हो चुका है। कृपया मैजिक लिंक का उपयोग करके लॉग इन करें।",
-  "LOGIN_ERROR_DISCORD_EMAIL_MISSING": "माइग्रेट करने के लिए हमें आपका Discord ईमेल चाहिए, कृपया दोबारा कोशिश करें। अगर यह समस्या बनी रहती है, तो कृपया सपोर्ट से संपर्क करें।",
+  "LOGIN_ERROR_DISCORD_EMAIL_MISSING": "साइन इन करने के लिए हमें आपके Discord अकाउंट से एक सत्यापित ईमेल चाहिए। Discord पर इसे सत्यापित करें और दोबारा कोशिश करें।",
   "LOGIN_ERROR_DISCORD_EMAIL_IN_USE": "यह Discord ईमेल पहले से किसी दूसरे अकाउंट द्वारा इस्तेमाल किया जा रहा है। उस अकाउंट के मैजिक लिंक का उपयोग करें या कोई दूसरा Discord अकाउंट आज़माएँ।",
   "LOGIN_ERROR_DISCORD_FAILED": "Discord लॉगिन विफल रहा। कृपया दोबारा कोशिश करें।",
   "LOGIN_ERROR_DISCORD_MIGRATION_UNAVAILABLE": "Discord माइग्रेशन फ़िलहाल उपलब्ध नहीं है।",

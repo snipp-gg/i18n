@@ -607,7 +607,7 @@
   "LOGIN_ERROR_GENERIC": "Κάτι πήγε στραβά. Παρακαλούμε δοκιμάστε ξανά.",
   "LOGIN_ERROR_DISCORD_NO_ACCOUNT": "Δεν υπάρχει λογαριασμός Snipp συνδεδεμένος με αυτό το Discord. Εγγραφείτε με το email σας για να δημιουργήσετε λογαριασμό.",
   "LOGIN_ERROR_DISCORD_ALREADY_MIGRATED": "Ο λογαριασμός σας έχει ήδη μεταφερθεί. Παρακαλούμε συνδεθείτε χρησιμοποιώντας magic links.",
-  "LOGIN_ERROR_DISCORD_EMAIL_MISSING": "Χρειαζόμαστε το email Discord σας για τη μεταφορά, παρακαλούμε δοκιμάστε ξανά. Αν το πρόβλημα επιμένει, επικοινωνήστε με την υποστήριξη.",
+  "LOGIN_ERROR_DISCORD_EMAIL_MISSING": "Χρειαζόμαστε ένα επαληθευμένο email από τον λογαριασμό σας Discord για να συνδεθείτε. Επαληθεύστε το στο Discord και δοκιμάστε ξανά.",
   "LOGIN_ERROR_DISCORD_EMAIL_IN_USE": "Αυτό το email Discord χρησιμοποιείται ήδη από άλλον λογαριασμό. Χρησιμοποιήστε το magic link αυτού του λογαριασμού ή δοκιμάστε διαφορετικό λογαριασμό Discord.",
   "LOGIN_ERROR_DISCORD_FAILED": "Αποτυχία σύνδεσης Discord. Παρακαλούμε δοκιμάστε ξανά.",
   "LOGIN_ERROR_DISCORD_MIGRATION_UNAVAILABLE": "Η μεταφορά Discord δεν είναι διαθέσιμη αυτή τη στιγμή.",

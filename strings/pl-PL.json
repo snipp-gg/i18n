@@ -607,7 +607,7 @@
   "LOGIN_ERROR_GENERIC": "Coś poszło nie tak. Spróbuj ponownie.",
   "LOGIN_ERROR_DISCORD_NO_ACCOUNT": "Z tym kontem Discord nie jest powiązane żadne konto Snipp. Zarejestruj się e-mailem, aby utworzyć konto.",
   "LOGIN_ERROR_DISCORD_ALREADY_MIGRATED": "Twoje konto zostało już przeniesione. Zaloguj się za pomocą magicznego linku.",
-  "LOGIN_ERROR_DISCORD_EMAIL_MISSING": "Do przeniesienia konta potrzebujemy Twojego e-maila z Discorda. Spróbuj ponownie. Jeśli problem nie ustąpi, skontaktuj się z pomocą techniczną.",
+  "LOGIN_ERROR_DISCORD_EMAIL_MISSING": "Do zalogowania potrzebujemy zweryfikowanego adresu e-mail z Twojego konta Discord. Zweryfikuj go w Discordzie i spróbuj ponownie.",
   "LOGIN_ERROR_DISCORD_EMAIL_IN_USE": "Ten e-mail z Discorda jest już używany przez inne konto. Skorzystaj z magicznego linku tamtego konta lub użyj innego konta Discord.",
   "LOGIN_ERROR_DISCORD_FAILED": "Logowanie przez Discord nie powiodło się. Spróbuj ponownie.",
   "LOGIN_ERROR_DISCORD_MIGRATION_UNAVAILABLE": "Przenoszenie konta przez Discord jest obecnie niedostępne.",

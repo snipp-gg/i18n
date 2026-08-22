@@ -607,7 +607,7 @@
   "LOGIN_ERROR_GENERIC": "出了点问题。请重试。",
   "LOGIN_ERROR_DISCORD_NO_ACCOUNT": "没有与该 Discord 关联的 Snipp 账户。请使用您的邮箱注册以创建账户。",
   "LOGIN_ERROR_DISCORD_ALREADY_MIGRATED": "您的账户已被迁移。请使用魔法链接登录。",
-  "LOGIN_ERROR_DISCORD_EMAIL_MISSING": "我们需要您的 Discord 邮箱来迁移账户，请重试。如果此问题持续存在，请联系支持团队。",
+  "LOGIN_ERROR_DISCORD_EMAIL_MISSING": "我们需要您 Discord 账户中已验证的邮箱才能登录。请在 Discord 上验证邮箱后重试。",
   "LOGIN_ERROR_DISCORD_EMAIL_IN_USE": "此 Discord 邮箱已被另一个账户使用。请使用该账户的魔法链接或尝试不同的 Discord 账户。",
   "LOGIN_ERROR_DISCORD_FAILED": "Discord 登录失败。请重试。",
   "LOGIN_ERROR_DISCORD_MIGRATION_UNAVAILABLE": "Discord 迁移目前不可用。",

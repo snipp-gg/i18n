@@ -607,7 +607,7 @@
   "LOGIN_ERROR_GENERIC": "Нещо се обърка. Моля, опитайте отново.",
   "LOGIN_ERROR_DISCORD_NO_ACCOUNT": "Няма Snipp акаунт, свързан с този Discord. Регистрирайте се с имейла си, за да създадете акаунт.",
   "LOGIN_ERROR_DISCORD_ALREADY_MIGRATED": "Акаунтът ви вече е мигриран. Моля, влезте чрез магически връзки.",
-  "LOGIN_ERROR_DISCORD_EMAIL_MISSING": "Нуждаем се от имейла ви в Discord, за да мигрираме, моля, опитайте отново. Ако проблемът продължава, свържете се с поддръжката.",
+  "LOGIN_ERROR_DISCORD_EMAIL_MISSING": "Нуждаем се от потвърден имейл от вашия Discord акаунт, за да влезете. Потвърдете го в Discord и опитайте отново.",
   "LOGIN_ERROR_DISCORD_EMAIL_IN_USE": "Този имейл в Discord вече се използва от друг акаунт. Използвайте магическата връзка на този акаунт или опитайте друг Discord акаунт.",
   "LOGIN_ERROR_DISCORD_FAILED": "Входът чрез Discord е неуспешен. Моля, опитайте отново.",
   "LOGIN_ERROR_DISCORD_MIGRATION_UNAVAILABLE": "Миграцията чрез Discord в момента не е налична.",

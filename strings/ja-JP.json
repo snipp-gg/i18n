@@ -607,7 +607,7 @@
   "LOGIN_ERROR_GENERIC": "問題が発生しました。もう一度お試しください。",
   "LOGIN_ERROR_DISCORD_NO_ACCOUNT": "この Discord にリンクされた Snipp アカウントはありません。メールアドレスでサインアップしてアカウントを作成してください。",
   "LOGIN_ERROR_DISCORD_ALREADY_MIGRATED": "お客様のアカウントはすでに移行済みです。マジックリンクを使用してログインしてください。",
-  "LOGIN_ERROR_DISCORD_EMAIL_MISSING": "移行には Discord のメールアドレスが必要です。もう一度お試しください。この問題が解決しない場合は、サポートにお問い合わせください。",
+  "LOGIN_ERROR_DISCORD_EMAIL_MISSING": "サインインには Discord アカウントの確認済みメールアドレスが必要です。Discord でメールアドレスを確認してから、もう一度お試しください。",
   "LOGIN_ERROR_DISCORD_EMAIL_IN_USE": "この Discord のメールアドレスはすでに別のアカウントで使用されています。そのアカウントのマジックリンクを使用するか、別の Discord アカウントをお試しください。",
   "LOGIN_ERROR_DISCORD_FAILED": "Discord ログインに失敗しました。もう一度お試しください。",
   "LOGIN_ERROR_DISCORD_MIGRATION_UNAVAILABLE": "Discord 移行は現在ご利用いただけません。",

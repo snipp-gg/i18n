@@ -607,7 +607,7 @@
   "LOGIN_ERROR_GENERIC": "Er ging iets mis. Probeer het opnieuw.",
   "LOGIN_ERROR_DISCORD_NO_ACCOUNT": "Er is geen Snipp-account gekoppeld aan deze Discord. Meld je aan met je e-mail om een account aan te maken.",
   "LOGIN_ERROR_DISCORD_ALREADY_MIGRATED": "Je account is al gemigreerd. Log in met magic links.",
-  "LOGIN_ERROR_DISCORD_EMAIL_MISSING": "We hebben je Discord-e-mail nodig om te migreren, probeer het opnieuw. Als dit probleem aanhoudt, neem dan contact op met support.",
+  "LOGIN_ERROR_DISCORD_EMAIL_MISSING": "We hebben een geverifieerd e-mailadres van je Discord-account nodig om in te loggen. Verifieer het op Discord en probeer het opnieuw.",
   "LOGIN_ERROR_DISCORD_EMAIL_IN_USE": "Deze Discord-e-mail wordt al gebruikt door een ander account. Gebruik de magic link van dat account of probeer een ander Discord-account.",
   "LOGIN_ERROR_DISCORD_FAILED": "Discord-login mislukt. Probeer het opnieuw.",
   "LOGIN_ERROR_DISCORD_MIGRATION_UNAVAILABLE": "Discord-migratie is momenteel niet beschikbaar.",

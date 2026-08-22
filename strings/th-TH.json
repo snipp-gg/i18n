@@ -607,7 +607,7 @@
   "LOGIN_ERROR_GENERIC": "มีบางอย่างผิดพลาด กรุณาลองอีกครั้ง",
   "LOGIN_ERROR_DISCORD_NO_ACCOUNT": "ไม่มีบัญชี Snipp ที่เชื่อมโยงกับ Discord นี้ สมัครด้วยอีเมลของคุณเพื่อสร้างบัญชี",
   "LOGIN_ERROR_DISCORD_ALREADY_MIGRATED": "บัญชีของคุณถูกย้ายแล้ว กรุณาเข้าสู่ระบบโดยใช้ลิงก์เวทย์มนตร์",
-  "LOGIN_ERROR_DISCORD_EMAIL_MISSING": "เราต้องการอีเมล Discord ของคุณเพื่อย้าย กรุณาลองอีกครั้ง หากปัญหายังคงอยู่ กรุณาติดต่อฝ่ายสนับสนุน",
+  "LOGIN_ERROR_DISCORD_EMAIL_MISSING": "เราต้องการอีเมลที่ยืนยันแล้วจากบัญชี Discord ของคุณเพื่อเข้าสู่ระบบ กรุณายืนยันอีเมลใน Discord แล้วลองอีกครั้ง",
   "LOGIN_ERROR_DISCORD_EMAIL_IN_USE": "อีเมล Discord นี้ถูกใช้โดยบัญชีอื่นแล้ว ใช้ลิงก์เวทย์มนตร์ของบัญชีนั้นหรือลองบัญชี Discord อื่น",
   "LOGIN_ERROR_DISCORD_FAILED": "การเข้าสู่ระบบ Discord ล้มเหลว กรุณาลองอีกครั้ง",
   "LOGIN_ERROR_DISCORD_MIGRATION_UNAVAILABLE": "การย้าย Discord ไม่พร้อมใช้งานในขณะนี้",

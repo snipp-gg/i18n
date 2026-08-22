@@ -607,7 +607,7 @@
   "LOGIN_ERROR_GENERIC": "May nangyaring mali. Subukan ulit.",
   "LOGIN_ERROR_DISCORD_NO_ACCOUNT": "Walang Snipp account na nakaugnay sa Discord na ito. Mag-sign up gamit ang iyong email para gumawa ng account.",
   "LOGIN_ERROR_DISCORD_ALREADY_MIGRATED": "Na-migrate na ang iyong account. Mag-log in gamit ang magic link.",
-  "LOGIN_ERROR_DISCORD_EMAIL_MISSING": "Kailangan namin ng iyong Discord email para mag-migrate, subukan ulit. Kung magpapatuloy ang isyung ito, makipag-ugnayan sa support.",
+  "LOGIN_ERROR_DISCORD_EMAIL_MISSING": "Kailangan namin ng verified na email mula sa iyong Discord account para mag-sign in. I-verify ito sa Discord at subukan ulit.",
   "LOGIN_ERROR_DISCORD_EMAIL_IN_USE": "Ang Discord email na ito ay ginagamit na ng ibang account. Gamitin ang magic link ng account na iyon o subukan ang ibang Discord account.",
   "LOGIN_ERROR_DISCORD_FAILED": "Nabigo ang Discord login. Subukan ulit.",
   "LOGIN_ERROR_DISCORD_MIGRATION_UNAVAILABLE": "Hindi available ngayon ang Discord migration.",
