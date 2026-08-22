@@ -607,7 +607,7 @@
   "LOGIN_ERROR_GENERIC": "Etwas ist schiefgelaufen. Bitte versuche es erneut.",
   "LOGIN_ERROR_DISCORD_NO_ACCOUNT": "Mit diesem Discord ist kein Snipp-Konto verknüpft. Registriere dich mit deiner E-Mail, um ein Konto zu erstellen.",
   "LOGIN_ERROR_DISCORD_ALREADY_MIGRATED": "Dein Konto wurde bereits migriert. Bitte melde dich mit einem Magic Link an.",
-  "LOGIN_ERROR_DISCORD_EMAIL_MISSING": "Wir brauchen deine Discord-E-Mail für die Migration, bitte versuche es erneut. Falls das Problem weiterhin besteht, wende dich an den Support.",
+  "LOGIN_ERROR_DISCORD_EMAIL_MISSING": "We need a verified email from your Discord account to sign in. Verify it on Discord and try again.",
   "LOGIN_ERROR_DISCORD_EMAIL_IN_USE": "Diese Discord-E-Mail wird bereits von einem anderen Konto verwendet. Nutze den Magic Link dieses Kontos oder ein anderes Discord-Konto.",
   "LOGIN_ERROR_DISCORD_FAILED": "Discord-Anmeldung fehlgeschlagen. Bitte versuche es erneut.",
   "LOGIN_ERROR_DISCORD_MIGRATION_UNAVAILABLE": "Die Discord-Migration ist derzeit nicht verfügbar.",
