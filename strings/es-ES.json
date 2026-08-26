@@ -2158,5 +2158,6 @@
   "REMOVE_EXIF_CTA_BODY": "Every image uploaded to Snipp is stripped the same way, automatically, before it is ever stored.",
   "REMOVE_EXIF_CTA_PRIVACY_LINK": "How Snipp protects your files",
   "LEGAL_PRIVACY_UPLOADS_STORAGE_METADATA": "Metadata is removed from images before they are stored. Snipp strips EXIF, XMP and comparable blocks out of PNG, JPEG, WebP and GIF uploads by default, which removes GPS coordinates, camera make and model, lens and exposure settings, and capture timestamps. Orientation is the one value kept, so photos still display the right way up. You can turn this off under Include Metadata in your preferences, in which case uploads are stored with the metadata you sent.",
-  "REMOVE_EXIF_RESULT_VIDEO_BODY": "Metadata stripped and the file rebuilt as MP4. The video and audio streams are copied across untouched, never re-encoded."
+  "REMOVE_EXIF_RESULT_VIDEO_BODY": "Metadata stripped and the file rebuilt as MP4. The video and audio streams are copied across untouched, never re-encoded.",
+  "REMOVE_EXIF_DROP_OVERLAY": "Drop your file here to clean!"
 }
