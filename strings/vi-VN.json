@@ -2158,5 +2158,6 @@
   "REMOVE_EXIF_CTA_BODY": "Mọi hình ảnh tải lên Snipp đều được làm sạch theo cùng cách, tự động, trước cả khi được lưu trữ.",
   "REMOVE_EXIF_CTA_PRIVACY_LINK": "Cách Snipp bảo vệ tệp của bạn",
   "LEGAL_PRIVACY_UPLOADS_STORAGE_METADATA": "Siêu dữ liệu được xóa khỏi hình ảnh trước khi lưu trữ. Theo mặc định, Snipp loại bỏ EXIF, XMP và các khối tương tự khỏi các tệp PNG, JPEG, WebP và GIF được tải lên, qua đó xóa tọa độ GPS, hãng và mẫu máy ảnh, cài đặt ống kính và phơi sáng, cùng dấu thời gian chụp. Hướng ảnh là giá trị duy nhất được giữ lại, để ảnh vẫn hiển thị đúng chiều. Bạn có thể tắt tính năng này trong mục Bao gồm siêu dữ liệu ở phần tùy chọn của mình; trong trường hợp đó, các tệp tải lên được lưu trữ cùng siêu dữ liệu bạn đã gửi.",
-  "REMOVE_EXIF_RESULT_VIDEO_BODY": "Đã xóa siêu dữ liệu và dựng lại tệp dưới dạng MP4. Các luồng video và âm thanh được sao chép nguyên vẹn, không bao giờ bị mã hóa lại."
+  "REMOVE_EXIF_RESULT_VIDEO_BODY": "Đã xóa siêu dữ liệu và dựng lại tệp dưới dạng MP4. Các luồng video và âm thanh được sao chép nguyên vẹn, không bao giờ bị mã hóa lại.",
+  "REMOVE_EXIF_DROP_OVERLAY": "Thả tệp của bạn vào đây để làm sạch!"
 }

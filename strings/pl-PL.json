@@ -2158,5 +2158,6 @@
   "REMOVE_EXIF_CTA_BODY": "Każdy obraz przesłany na Snipp jest czyszczony w ten sam sposób, automatycznie, zanim w ogóle zostanie zapisany.",
   "REMOVE_EXIF_CTA_PRIVACY_LINK": "Jak Snipp chroni Twoje pliki",
   "LEGAL_PRIVACY_UPLOADS_STORAGE_METADATA": "Metadane są usuwane z obrazów przed ich zapisaniem. Snipp domyślnie usuwa EXIF, XMP i porównywalne bloki z przesyłanych plików PNG, JPEG, WebP i GIF, co obejmuje usunięcie współrzędnych GPS, marki i modelu aparatu, ustawień obiektywu i ekspozycji oraz znaczników czasu wykonania zdjęcia. Jedyną zachowywaną wartością jest orientacja, dzięki czemu zdjęcia nadal wyświetlają się we właściwym ułożeniu. Możesz to wyłączyć za pomocą opcji Zachowaj Metadane w swoich preferencjach; w takim przypadku przesyłane pliki są zapisywane wraz z wysłanymi przez Ciebie metadanymi.",
-  "REMOVE_EXIF_RESULT_VIDEO_BODY": "Metadane usunięte, a plik przebudowany jako MP4. Strumienie wideo i audio są kopiowane w nienaruszonej postaci, nigdy nie są ponownie kodowane."
+  "REMOVE_EXIF_RESULT_VIDEO_BODY": "Metadane usunięte, a plik przebudowany jako MP4. Strumienie wideo i audio są kopiowane w nienaruszonej postaci, nigdy nie są ponownie kodowane.",
+  "REMOVE_EXIF_DROP_OVERLAY": "Upuść plik tutaj, aby go wyczyścić!"
 }

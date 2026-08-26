@@ -2158,5 +2158,6 @@
   "REMOVE_EXIF_CTA_BODY": "Elke afbeelding die naar Snipp wordt geüpload, wordt op dezelfde manier opgeschoond, automatisch, nog voordat die wordt opgeslagen.",
   "REMOVE_EXIF_CTA_PRIVACY_LINK": "Hoe Snipp je bestanden beschermt",
   "LEGAL_PRIVACY_UPLOADS_STORAGE_METADATA": "Metadata wordt uit afbeeldingen verwijderd voordat ze worden opgeslagen. Snipp verwijdert standaard EXIF, XMP en vergelijkbare blokken uit PNG-, JPEG-, WebP- en GIF-uploads; daarmee verdwijnen GPS-coördinaten, merk en model van de camera, lens- en belichtingsinstellingen en tijdstempels van de opname. De oriëntatie is de enige waarde die behouden blijft, zodat foto's nog steeds in de juiste stand worden weergegeven. Je kunt dit uitschakelen via Metadata meenemen in je voorkeuren; in dat geval worden uploads opgeslagen met de metadata die je hebt meegestuurd.",
-  "REMOVE_EXIF_RESULT_VIDEO_BODY": "Metadata verwijderd en het bestand opnieuw opgebouwd als MP4. De video- en audiostreams worden onaangetast overgenomen, nooit opnieuw gecodeerd."
+  "REMOVE_EXIF_RESULT_VIDEO_BODY": "Metadata verwijderd en het bestand opnieuw opgebouwd als MP4. De video- en audiostreams worden onaangetast overgenomen, nooit opnieuw gecodeerd.",
+  "REMOVE_EXIF_DROP_OVERLAY": "Sleep je bestand hierheen om op te schonen!"
 }

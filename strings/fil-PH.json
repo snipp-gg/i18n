@@ -2158,5 +2158,6 @@
   "REMOVE_EXIF_CTA_BODY": "Bawat larawang ina-upload sa Snipp ay nililinis sa parehong paraan, awtomatiko, bago pa man ito maimbak.",
   "REMOVE_EXIF_CTA_PRIVACY_LINK": "Paano pinoprotektahan ng Snipp ang iyong mga file",
   "LEGAL_PRIVACY_UPLOADS_STORAGE_METADATA": "Inaalis ang metadata mula sa mga larawan bago ang mga ito iimbak. Bilang default, inaalis ng Snipp ang EXIF, XMP at mga katulad na block mula sa mga PNG, JPEG, WebP at GIF na upload, na nag-aalis ng GPS coordinates, gawa at modelo ng camera, mga setting ng lens at exposure, at mga timestamp ng pagkuha. Ang orientation lamang ang halagang pinapanatili, para maipakita pa rin nang tama ang mga larawan. Maaari mo itong i-off sa ilalim ng Isama ang Metadata sa iyong mga preference; sa ganoong kaso, iniimbak ang mga upload kasama ang metadata na ipinadala mo.",
-  "REMOVE_EXIF_RESULT_VIDEO_BODY": "Naalis na ang metadata at muling binuo ang file bilang MP4. Ang mga video at audio stream ay kinopya nang hindi ginagalaw, hindi kailanman muling ine-encode."
+  "REMOVE_EXIF_RESULT_VIDEO_BODY": "Naalis na ang metadata at muling binuo ang file bilang MP4. Ang mga video at audio stream ay kinopya nang hindi ginagalaw, hindi kailanman muling ine-encode.",
+  "REMOVE_EXIF_DROP_OVERLAY": "I-drop ang iyong file dito para i-clean!"
 }

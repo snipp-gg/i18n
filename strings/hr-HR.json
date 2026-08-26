@@ -2158,5 +2158,6 @@
   "REMOVE_EXIF_CTA_BODY": "Svaka slika prenesena na Snipp čisti se na isti način, automatski, prije nego što se uopće spremi.",
   "REMOVE_EXIF_CTA_PRIVACY_LINK": "Kako Snipp štiti tvoje datoteke",
   "LEGAL_PRIVACY_UPLOADS_STORAGE_METADATA": "Metapodaci se uklanjaju iz slika prije njihove pohrane. Snipp prema zadanim postavkama uklanja EXIF, XMP i usporedive blokove iz prenesenih PNG, JPEG, WebP i GIF datoteka, čime se uklanjaju GPS koordinate, marka i model fotoaparata, postavke objektiva i ekspozicije te vremenske oznake snimanja. Orijentacija je jedina vrijednost koja se zadržava, kako bi se fotografije i dalje prikazivale ispravno okrenute. To možeš isključiti pod Uključi metapodatke u svojim postavkama; u tom se slučaju prijenosi pohranjuju s metapodacima koje pošalješ.",
-  "REMOVE_EXIF_RESULT_VIDEO_BODY": "Metapodaci su uklonjeni, a datoteka je ponovno izgrađena kao MP4. Video i audio streamovi kopiraju se netaknuti, nikad se ponovno ne kodiraju."
+  "REMOVE_EXIF_RESULT_VIDEO_BODY": "Metapodaci su uklonjeni, a datoteka je ponovno izgrađena kao MP4. Video i audio streamovi kopiraju se netaknuti, nikad se ponovno ne kodiraju.",
+  "REMOVE_EXIF_DROP_OVERLAY": "Ispusti datoteku ovdje za čišćenje!"
 }

@@ -2158,5 +2158,6 @@
   "REMOVE_EXIF_CTA_BODY": "Chaque image envoyée sur Snipp est nettoyée de la même façon, automatiquement, avant même d'être stockée.",
   "REMOVE_EXIF_CTA_PRIVACY_LINK": "Comment Snipp protège vos fichiers",
   "LEGAL_PRIVACY_UPLOADS_STORAGE_METADATA": "Les métadonnées sont supprimées des images avant leur stockage. Par défaut, Snipp retire les blocs EXIF, XMP et autres blocs comparables des envois PNG, JPEG, WebP et GIF, ce qui supprime les coordonnées GPS, la marque et le modèle de l'appareil photo, les réglages d'objectif et d'exposition, ainsi que les horodatages de prise de vue. L'orientation est la seule valeur conservée, afin que les photos s'affichent toujours dans le bon sens. Vous pouvez désactiver ce comportement via Conserver les métadonnées dans vos préférences, auquel cas les envois sont stockés avec les métadonnées que vous avez transmises.",
-  "REMOVE_EXIF_RESULT_VIDEO_BODY": "Métadonnées supprimées et fichier reconstruit en MP4. Les flux vidéo et audio sont copiés tels quels, jamais réencodés."
+  "REMOVE_EXIF_RESULT_VIDEO_BODY": "Métadonnées supprimées et fichier reconstruit en MP4. Les flux vidéo et audio sont copiés tels quels, jamais réencodés.",
+  "REMOVE_EXIF_DROP_OVERLAY": "Déposez votre fichier ici pour le nettoyer !"
 }

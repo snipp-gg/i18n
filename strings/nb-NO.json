@@ -2158,5 +2158,6 @@
   "REMOVE_EXIF_CTA_BODY": "Hvert bilde som lastes opp til Snipp renses på samme måte, automatisk, før det i det hele tatt lagres.",
   "REMOVE_EXIF_CTA_PRIVACY_LINK": "Slik beskytter Snipp filene dine",
   "LEGAL_PRIVACY_UPLOADS_STORAGE_METADATA": "Metadata fjernes fra bilder før de lagres. Som standard fjerner Snipp EXIF, XMP og sammenlignbare blokker fra PNG-, JPEG-, WebP- og GIF-opplastinger, noe som fjerner GPS-koordinater, kameraets merke og modell, objektiv- og eksponeringsinnstillinger samt tidsstempler for opptak. Orienteringen er den eneste verdien som beholdes, slik at bilder fortsatt vises riktig vei. Du kan slå dette av under Inkluder metadata i innstillingene dine; i så fall lagres opplastinger med metadataene du sendte.",
-  "REMOVE_EXIF_RESULT_VIDEO_BODY": "Metadataene er fjernet og filen bygget opp igjen som MP4. Video- og lydstrømmene kopieres over urørt, aldri kodet på nytt."
+  "REMOVE_EXIF_RESULT_VIDEO_BODY": "Metadataene er fjernet og filen bygget opp igjen som MP4. Video- og lydstrømmene kopieres over urørt, aldri kodet på nytt.",
+  "REMOVE_EXIF_DROP_OVERLAY": "Slipp filen din her for å rense!"
 }

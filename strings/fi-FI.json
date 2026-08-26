@@ -2158,5 +2158,6 @@
   "REMOVE_EXIF_CTA_BODY": "Jokainen Snippiin ladattu kuva puhdistetaan samalla tavalla, automaattisesti, ennen kuin sitä edes tallennetaan.",
   "REMOVE_EXIF_CTA_PRIVACY_LINK": "Näin Snipp suojaa tiedostosi",
   "LEGAL_PRIVACY_UPLOADS_STORAGE_METADATA": "Metatiedot poistetaan kuvista ennen niiden tallentamista. Snipp poistaa oletusarvoisesti EXIF-, XMP- ja vastaavat lohkot PNG-, JPEG-, WebP- ja GIF-latauksista, jolloin poistuvat GPS-koordinaatit, kameran merkki ja malli, objektiivi- ja valotusasetukset sekä kuvanottohetken aikaleimat. Ainoa säilytettävä arvo on kuvan suunta, jotta valokuvat näkyvät edelleen oikein päin. Voit poistaa tämän käytöstä kohdasta Sisällytä metatiedot asetuksissasi; siinä tapauksessa lataukset tallennetaan lähettämiesi metatietojen kanssa.",
-  "REMOVE_EXIF_RESULT_VIDEO_BODY": "Metatiedot poistettu ja tiedosto koottu uudelleen MP4-muotoon. Video- ja äänivirrat kopioidaan koskemattomina, eikä niitä koskaan koodata uudelleen."
+  "REMOVE_EXIF_RESULT_VIDEO_BODY": "Metatiedot poistettu ja tiedosto koottu uudelleen MP4-muotoon. Video- ja äänivirrat kopioidaan koskemattomina, eikä niitä koskaan koodata uudelleen.",
+  "REMOVE_EXIF_DROP_OVERLAY": "Pudota tiedostosi tähän puhdistaaksesi!"
 }

@@ -2158,5 +2158,6 @@
   "REMOVE_EXIF_CTA_BODY": "Setiap gambar yang diunggah ke Snipp dibersihkan dengan cara yang sama, otomatis, bahkan sebelum disimpan.",
   "REMOVE_EXIF_CTA_PRIVACY_LINK": "Cara Snipp melindungi file Anda",
   "LEGAL_PRIVACY_UPLOADS_STORAGE_METADATA": "Metadata dihapus dari gambar sebelum disimpan. Secara default, Snipp menghapus EXIF, XMP, dan blok serupa dari unggahan PNG, JPEG, WebP, dan GIF, yang menghilangkan koordinat GPS, merek dan model kamera, pengaturan lensa dan pencahayaan, serta stempel waktu pengambilan gambar. Orientasi adalah satu-satunya nilai yang dipertahankan, agar foto tetap ditampilkan dengan arah yang benar. Anda dapat menonaktifkannya melalui Sertakan Metadata di preferensi Anda; dalam hal itu, unggahan disimpan bersama metadata yang Anda kirim.",
-  "REMOVE_EXIF_RESULT_VIDEO_BODY": "Metadata dihapus dan file dibangun ulang sebagai MP4. Stream video dan audio disalin tanpa disentuh, tidak pernah dienkode ulang."
+  "REMOVE_EXIF_RESULT_VIDEO_BODY": "Metadata dihapus dan file dibangun ulang sebagai MP4. Stream video dan audio disalin tanpa disentuh, tidak pernah dienkode ulang.",
+  "REMOVE_EXIF_DROP_OVERLAY": "Jatuhkan file Anda di sini untuk membersihkan!"
 }

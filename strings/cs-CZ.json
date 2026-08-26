@@ -2158,5 +2158,6 @@
   "REMOVE_EXIF_CTA_BODY": "Každý obrázek nahraný na Snipp se stejným způsobem vyčistí automaticky, ještě než se vůbec uloží.",
   "REMOVE_EXIF_CTA_PRIVACY_LINK": "Jak Snipp chrání vaše soubory",
   "LEGAL_PRIVACY_UPLOADS_STORAGE_METADATA": "Metadata jsou z obrázků odstraněna před jejich uložením. Snipp ve výchozím nastavení odstraňuje EXIF, XMP a srovnatelné bloky z nahraných souborů PNG, JPEG, WebP a GIF, čímž se odstraní GPS souřadnice, značka a model fotoaparátu, nastavení objektivu a expozice a časová razítka pořízení snímku. Jedinou zachovanou hodnotou je orientace, takže se fotografie nadále zobrazují správně otočené. Můžete to vypnout pomocí volby Zahrnout metadata ve svých předvolbách; v takovém případě se nahrané soubory ukládají s metadaty, která jste odeslali.",
-  "REMOVE_EXIF_RESULT_VIDEO_BODY": "Metadata odstraněna a soubor znovu sestaven jako MP4. Video i zvukové stopy se kopírují nedotčené, nikdy se znovu nekódují."
+  "REMOVE_EXIF_RESULT_VIDEO_BODY": "Metadata odstraněna a soubor znovu sestaven jako MP4. Video i zvukové stopy se kopírují nedotčené, nikdy se znovu nekódují.",
+  "REMOVE_EXIF_DROP_OVERLAY": "Sem přetáhněte soubor k vyčištění!"
 }

@@ -2158,5 +2158,6 @@
   "REMOVE_EXIF_CTA_BODY": "Snipp'e yüklenen her görsel, daha depolanmadan önce aynı şekilde otomatik olarak temizlenir.",
   "REMOVE_EXIF_CTA_PRIVACY_LINK": "Snipp dosyalarınızı nasıl koruyor",
   "LEGAL_PRIVACY_UPLOADS_STORAGE_METADATA": "Meta veriler, görseller saklanmadan önce kaldırılır. Snipp, varsayılan olarak PNG, JPEG, WebP ve GIF yüklemelerinden EXIF, XMP ve benzeri blokları ayıklar; bu işlem GPS koordinatlarını, kameranın marka ve modelini, lens ve pozlama ayarlarını ve çekim zaman damgalarını kaldırır. Korunan tek değer yön bilgisidir; böylece fotoğraflar doğru yönde görüntülenmeye devam eder. Bunu tercihlerinizdeki Meta Verileri Koru seçeneğinden kapatabilirsiniz; bu durumda yüklemeler gönderdiğiniz meta verilerle birlikte saklanır.",
-  "REMOVE_EXIF_RESULT_VIDEO_BODY": "Meta veriler kaldırıldı ve dosya MP4 olarak yeniden oluşturuldu. Video ve ses akışları hiç dokunulmadan kopyalanır, asla yeniden kodlanmaz."
+  "REMOVE_EXIF_RESULT_VIDEO_BODY": "Meta veriler kaldırıldı ve dosya MP4 olarak yeniden oluşturuldu. Video ve ses akışları hiç dokunulmadan kopyalanır, asla yeniden kodlanmaz.",
+  "REMOVE_EXIF_DROP_OVERLAY": "Temizlemek için dosyanızı buraya bırakın!"
 }

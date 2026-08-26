@@ -117,8 +117,8 @@
   "COMMON_GET_STARTED": "开始使用",
   "COMMON_REFRESH": "刷新",
   "GALLERY_REFRESHING": "正在刷新...",
-  "UPLOAD_DROP_FILE": "将文件拖放到则会立即可上传!",
-  "UPLOAD_DROP_FILES": "将文件拖放到则会立即可上传!",
+  "UPLOAD_DROP_FILE": "将文件拖放到此处即可上传！",
+  "UPLOAD_DROP_FILES": "将文件拖放到此处即可上传！",
   "UPLOAD_PROGRESS_FILES": "正在上传 {count} 文件... ({percent}%)",
   "UPLOAD_PROGRESS_FILE": "正在上传您的文件... ({percent}%)",
   "UPLOAD_TIME_LEFT": "剩余",
@@ -2158,5 +2158,6 @@
   "REMOVE_EXIF_CTA_BODY": "每张上传到 Snipp 的图片都会在存储之前以同样的方式自动清除元数据。",
   "REMOVE_EXIF_CTA_PRIVACY_LINK": "Snipp 如何保护您的文件",
   "LEGAL_PRIVACY_UPLOADS_STORAGE_METADATA": "图片在存储之前会被移除元数据。默认情况下，Snipp 会从 PNG、JPEG、WebP 和 GIF 上传中去除 EXIF、XMP 及类似的数据块，从而移除 GPS 坐标、相机品牌和型号、镜头和曝光设置以及拍摄时间戳。唯一保留的值是方向信息，以便照片仍能以正确的方向显示。您可以在偏好设置中的保留元数据处关闭此功能；在这种情况下，上传文件将连同您发送的元数据一并存储。",
-  "REMOVE_EXIF_RESULT_VIDEO_BODY": "元数据已清除，文件已重建为 MP4。视频和音频流原样复制，绝不重新编码。"
+  "REMOVE_EXIF_RESULT_VIDEO_BODY": "元数据已清除，文件已重建为 MP4。视频和音频流原样复制，绝不重新编码。",
+  "REMOVE_EXIF_DROP_OVERLAY": "将文件拖放到此处即可清除！"
 }
