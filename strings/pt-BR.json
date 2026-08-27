@@ -1451,8 +1451,8 @@
   "SUPPORT_LINK_ACCOUNT_SETTINGS": "configurações da conta",
   "SUPPORT_ACCOUNT_ISSUES_DELETION_ITEM_PERMANENT": "Esta ação é permanente e não pode ser desfeita.",
   "SUPPORT_ACCOUNT_ISSUES_DELETION_ITEM_WHAT_REMOVED": "Deleting your account will remove your profile, uploaded files, and any associated data. Active PLUS subscriptions will be canceled automatically.",
-  "SUPPORT_ACCOUNT_ISSUES_SUSPENDED_P1_BEFORE_LINK": "As contas podem ser suspensas por violar nossos",
-  "SUPPORT_ACCOUNT_ISSUES_DELETION_P1_BEFORE_LINK": "Se você quiser excluir sua conta, pode fazer isso nas suas",
+  "SUPPORT_ACCOUNT_ISSUES_SUSPENDED_P1_BEFORE_LINK": "Accounts may be suspended for violating our ",
+  "SUPPORT_ACCOUNT_ISSUES_DELETION_P1_BEFORE_LINK": "If you'd like to delete your account, you can do so from your ",
   "SUPPORT_ACCOUNT_ISSUES_CTA_HEADING": "Ainda precisa de ajuda?",
   "SUPPORT_ACCOUNT_ISSUES_CTA_BODY": "Se você estiver enfrentando um problema que não é abordado aqui, envie-nos um e-mail e faremos o possível para resolvê-lo rapidamente.",
   "SUPPORT_MORE_ARTICLES": "Mais artigos",
@@ -2122,5 +2122,8 @@
   "CONVERT_TOAST_UPLOAD_CANCELED": "Upload canceled!",
   "CONVERT_ERROR_UNSUPPORTED": "That file cannot be converted.",
   "CONVERT_ERROR_TOO_LARGE": "File is over the {limit} convert limit.",
-  "LEGAL_PRIVACY_UPLOADS_STORAGE_METADATA": "Metadata is removed from images before they are stored. Snipp strips EXIF, XMP and comparable blocks out of PNG, JPEG, WebP and GIF uploads by default, which removes GPS coordinates, camera make and model, lens and exposure settings, and capture timestamps. Orientation is the one value kept, so photos still display the right way up. You can turn this off under Include Metadata in your preferences, in which case uploads are stored with the metadata you sent."
+  "LEGAL_PRIVACY_UPLOADS_STORAGE_METADATA": "Metadata is removed from images before they are stored. Snipp strips EXIF, XMP and comparable blocks out of PNG, JPEG, WebP and GIF uploads by default, which removes GPS coordinates, camera make and model, lens and exposure settings, and capture timestamps. Orientation is the one value kept, so photos still display the right way up. You can turn this off under Include Metadata in your preferences, in which case uploads are stored with the metadata you sent.",
+  "SUPPORT_ACCOUNT_ISSUES_SUSPENDED_P1_BETWEEN_LINKS": " or ",
+  "SUPPORT_ACCOUNT_ISSUES_SUSPENDED_P1_AFTER_LINK": ". ",
+  "SUPPORT_ACCOUNT_ISSUES_DELETION_P1_AFTER_LINK": ". "
 }
