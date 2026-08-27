@@ -132,6 +132,7 @@
   "UPLOAD_ERROR_FILES_RETRY": "Hindi na-upload ang mga file. Subukan ulit.",
   "GALLERY_PAGINATION_PAGE_OF": "Pahina {current} ng {total}",
   "GALLERY_SELECT_ALL": "Piliin lahat",
+  "GALLERY_SELECT": "Piliin",
   "GALLERY_SELECTED_COUNT": "{count} ang napili",
   "GALLERY_COPY_LINK": "Kopyahin ang link",
   "GALLERY_COPY_LINKS": "Kopyahin ang mga link",

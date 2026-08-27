@@ -132,6 +132,7 @@
   "UPLOAD_ERROR_FILES_RETRY": "파일들을 업로드하지 못했습니다. 다시 시도해 주세요.",
   "GALLERY_PAGINATION_PAGE_OF": "{total}페이지 중 {current}페이지",
   "GALLERY_SELECT_ALL": "전체 선택",
+  "GALLERY_SELECT": "선택",
   "GALLERY_SELECTED_COUNT": "{count}개 선택됨",
   "GALLERY_COPY_LINK": "링크 복사",
   "GALLERY_COPY_LINKS": "링크 복사",

@@ -132,6 +132,7 @@
   "UPLOAD_ERROR_FILES_RETRY": "Gagal mengunggah file. Silakan coba lagi.",
   "GALLERY_PAGINATION_PAGE_OF": "Halaman {current} dari {total}",
   "GALLERY_SELECT_ALL": "Pilih semua",
+  "GALLERY_SELECT": "Pilih",
   "GALLERY_SELECTED_COUNT": "{count} dipilih",
   "GALLERY_COPY_LINK": "Salin tautan",
   "GALLERY_COPY_LINKS": "Salin tautan",

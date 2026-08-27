@@ -132,6 +132,7 @@
   "UPLOAD_ERROR_FILES_RETRY": "Не удалось загрузить файлы. Попробуйте ещё раз.",
   "GALLERY_PAGINATION_PAGE_OF": "Страница {current} из {total}",
   "GALLERY_SELECT_ALL": "Выбрать все",
+  "GALLERY_SELECT": "Выбрать",
   "GALLERY_SELECTED_COUNT": "Выбрано: {count}",
   "GALLERY_COPY_LINK": "Копировать ссылку",
   "GALLERY_COPY_LINKS": "Копировать ссылки",

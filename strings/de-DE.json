@@ -132,6 +132,7 @@
   "UPLOAD_ERROR_FILES_RETRY": "Dateien konnten nicht hochgeladen werden. Bitte versuche es erneut.",
   "GALLERY_PAGINATION_PAGE_OF": "Seite {current} von {total}",
   "GALLERY_SELECT_ALL": "Alle auswählen",
+  "GALLERY_SELECT": "Auswählen",
   "GALLERY_SELECTED_COUNT": "{count} ausgewählt",
   "GALLERY_COPY_LINK": "Link kopieren",
   "GALLERY_COPY_LINKS": "Links kopieren",

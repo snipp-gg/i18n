@@ -132,6 +132,7 @@
   "UPLOAD_ERROR_FILES_RETRY": "Dosyalar yüklenemedi. Lütfen tekrar deneyin.",
   "GALLERY_PAGINATION_PAGE_OF": "Sayfa {current} / {total}",
   "GALLERY_SELECT_ALL": "Tümünü seç",
+  "GALLERY_SELECT": "Seç",
   "GALLERY_SELECTED_COUNT": "{count} seçildi",
   "GALLERY_COPY_LINK": "Bağlantıyı kopyala",
   "GALLERY_COPY_LINKS": "Bağlantıları kopyala",

@@ -132,6 +132,7 @@
   "UPLOAD_ERROR_FILES_RETRY": "Prijenos datoteka nije uspio. Pokušaj ponovno.",
   "GALLERY_PAGINATION_PAGE_OF": "Stranica {current} od {total}",
   "GALLERY_SELECT_ALL": "Odaberi sve",
+  "GALLERY_SELECT": "Odaberi",
   "GALLERY_SELECTED_COUNT": "Odabrano: {count}",
   "GALLERY_COPY_LINK": "Kopiraj poveznicu",
   "GALLERY_COPY_LINKS": "Kopiraj poveznice",

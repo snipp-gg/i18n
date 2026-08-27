@@ -132,6 +132,7 @@
   "UPLOAD_ERROR_FILES_RETRY": "Tiedostojen lataus epäonnistui. Yritä uudelleen.",
   "GALLERY_PAGINATION_PAGE_OF": "Sivu {current} / {total}",
   "GALLERY_SELECT_ALL": "Valitse kaikki",
+  "GALLERY_SELECT": "Valitse",
   "GALLERY_SELECTED_COUNT": "{count} valittu",
   "GALLERY_COPY_LINK": "Kopioi linkki",
   "GALLERY_COPY_LINKS": "Kopioi linkit",

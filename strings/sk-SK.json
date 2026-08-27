@@ -132,6 +132,7 @@
   "UPLOAD_ERROR_FILES_RETRY": "Nepodarilo sa nahrať súbory. Skús to znova.",
   "GALLERY_PAGINATION_PAGE_OF": "Strana {current} z {total}",
   "GALLERY_SELECT_ALL": "Vybrať všetko",
+  "GALLERY_SELECT": "Vybrať",
   "GALLERY_SELECTED_COUNT": "Vybraté: {count}",
   "GALLERY_COPY_LINK": "Kopírovať odkaz",
   "GALLERY_COPY_LINKS": "Kopírovať odkazy",

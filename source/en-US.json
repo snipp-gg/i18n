@@ -132,6 +132,7 @@
   "UPLOAD_ERROR_FILES_RETRY": "Failed to upload files. Please try again.",
   "GALLERY_PAGINATION_PAGE_OF": "Page {current} of {total}",
   "GALLERY_SELECT_ALL": "Select all",
+  "GALLERY_SELECT": "Select",
   "GALLERY_SELECTED_COUNT": "{count} selected",
   "GALLERY_COPY_LINK": "Copy link",
   "GALLERY_COPY_LINKS": "Copy links",

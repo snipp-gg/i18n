@@ -132,6 +132,7 @@
   "UPLOAD_ERROR_FILES_RETRY": "No se pudieron subir los archivos. Inténtalo de nuevo.",
   "GALLERY_PAGINATION_PAGE_OF": "Página {current} de {total}",
   "GALLERY_SELECT_ALL": "Seleccionar todo",
+  "GALLERY_SELECT": "Seleccionar",
   "GALLERY_SELECTED_COUNT": "{count} seleccionados",
   "GALLERY_COPY_LINK": "Copiar enlace",
   "GALLERY_COPY_LINKS": "Copiar enlaces",

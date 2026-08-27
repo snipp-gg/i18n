@@ -132,6 +132,7 @@
   "UPLOAD_ERROR_FILES_RETRY": "Kunne ikke laste opp filene. Prøv igjen.",
   "GALLERY_PAGINATION_PAGE_OF": "Side {current} av {total}",
   "GALLERY_SELECT_ALL": "Velg alle",
+  "GALLERY_SELECT": "Velg",
   "GALLERY_SELECTED_COUNT": "{count} valgt",
   "GALLERY_COPY_LINK": "Kopier lenke",
   "GALLERY_COPY_LINKS": "Kopier lenker",

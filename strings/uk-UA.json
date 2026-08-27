@@ -132,6 +132,7 @@
   "UPLOAD_ERROR_FILES_RETRY": "Не вдалося завантажити файли. Спробуйте ще раз.",
   "GALLERY_PAGINATION_PAGE_OF": "Сторінка {current} з {total}",
   "GALLERY_SELECT_ALL": "Вибрати все",
+  "GALLERY_SELECT": "Вибрати",
   "GALLERY_SELECTED_COUNT": "Вибрано: {count}",
   "GALLERY_COPY_LINK": "Копіювати посилання",
   "GALLERY_COPY_LINKS": "Копіювати посилання",

@@ -132,6 +132,7 @@
   "UPLOAD_ERROR_FILES_RETRY": "Kunde inte ladda upp filerna. Försök igen.",
   "GALLERY_PAGINATION_PAGE_OF": "Sida {current} av {total}",
   "GALLERY_SELECT_ALL": "Välj alla",
+  "GALLERY_SELECT": "Välj",
   "GALLERY_SELECTED_COUNT": "{count} valda",
   "GALLERY_COPY_LINK": "Kopiera länk",
   "GALLERY_COPY_LINKS": "Kopiera länkar",

@@ -132,6 +132,7 @@
   "UPLOAD_ERROR_FILES_RETRY": "Không thể tải lên các tệp. Vui lòng thử lại.",
   "GALLERY_PAGINATION_PAGE_OF": "Trang {current} / {total}",
   "GALLERY_SELECT_ALL": "Chọn tất cả",
+  "GALLERY_SELECT": "Chọn",
   "GALLERY_SELECTED_COUNT": "Đã chọn {count}",
   "GALLERY_COPY_LINK": "Sao chép liên kết",
   "GALLERY_COPY_LINKS": "Sao chép liên kết",

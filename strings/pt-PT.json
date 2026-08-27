@@ -132,6 +132,7 @@
   "UPLOAD_ERROR_FILES_RETRY": "Falha ao carregar ficheiros. Por favor tente novamente.",
   "GALLERY_PAGINATION_PAGE_OF": "Página {current} de {total}",
   "GALLERY_SELECT_ALL": "Selecionar tudo",
+  "GALLERY_SELECT": "Selecionar",
   "GALLERY_SELECTED_COUNT": "{count} selecionados",
   "GALLERY_COPY_LINK": "Copiar link",
   "GALLERY_COPY_LINKS": "Copiar links",

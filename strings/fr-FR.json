@@ -132,6 +132,7 @@
   "UPLOAD_ERROR_FILES_RETRY": "Échec de l'envoi des fichiers. Veuillez réessayer.",
   "GALLERY_PAGINATION_PAGE_OF": "Page {current} sur {total}",
   "GALLERY_SELECT_ALL": "Tout sélectionner",
+  "GALLERY_SELECT": "Sélectionner",
   "GALLERY_SELECTED_COUNT": "{count} sélectionnés",
   "GALLERY_COPY_LINK": "Copier le lien",
   "GALLERY_COPY_LINKS": "Copier les liens",

@@ -132,6 +132,7 @@
   "UPLOAD_ERROR_FILES_RETRY": "Αποτυχία ανεβάσματος αρχείων. Παρακαλούμε δοκιμάστε ξανά.",
   "GALLERY_PAGINATION_PAGE_OF": "Σελίδα {current} από {total}",
   "GALLERY_SELECT_ALL": "Επιλογή όλων",
+  "GALLERY_SELECT": "Επιλογή",
   "GALLERY_SELECTED_COUNT": "{count} επιλεγμένα",
   "GALLERY_COPY_LINK": "Αντιγραφή συνδέσμου",
   "GALLERY_COPY_LINKS": "Αντιγραφή συνδέσμων",

@@ -132,6 +132,7 @@
   "UPLOAD_ERROR_FILES_RETRY": "Неуспешно качване на файловете. Моля, опитайте отново.",
   "GALLERY_PAGINATION_PAGE_OF": "Страница {current} от {total}",
   "GALLERY_SELECT_ALL": "Избери всички",
+  "GALLERY_SELECT": "Избери",
   "GALLERY_SELECTED_COUNT": "{count} избрани",
   "GALLERY_COPY_LINK": "Копиране на връзката",
   "GALLERY_COPY_LINKS": "Копиране на връзките",

@@ -132,6 +132,7 @@
   "UPLOAD_ERROR_FILES_RETRY": "Bestanden uploaden mislukt. Probeer het opnieuw.",
   "GALLERY_PAGINATION_PAGE_OF": "Pagina {current} van {total}",
   "GALLERY_SELECT_ALL": "Alles selecteren",
+  "GALLERY_SELECT": "Selecteren",
   "GALLERY_SELECTED_COUNT": "{count} geselecteerd",
   "GALLERY_COPY_LINK": "Link kopiëren",
   "GALLERY_COPY_LINKS": "Links kopiëren",

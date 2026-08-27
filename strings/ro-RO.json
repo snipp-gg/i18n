@@ -132,6 +132,7 @@
   "UPLOAD_ERROR_FILES_RETRY": "Nu s-au putut încărca fișierele. Te rugăm să încerci din nou.",
   "GALLERY_PAGINATION_PAGE_OF": "Pagina {current} din {total}",
   "GALLERY_SELECT_ALL": "Selectează tot",
+  "GALLERY_SELECT": "Selectează",
   "GALLERY_SELECTED_COUNT": "{count} selectate",
   "GALLERY_COPY_LINK": "Copiază linkul",
   "GALLERY_COPY_LINKS": "Copiază linkurile",
