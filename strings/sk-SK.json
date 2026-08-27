@@ -1451,8 +1451,8 @@
   "SUPPORT_LINK_ACCOUNT_SETTINGS": "nastavenia účtu",
   "SUPPORT_ACCOUNT_ISSUES_DELETION_ITEM_PERMANENT": "Táto akcia je trvalá a nie je možné ju vrátiť späť.",
   "SUPPORT_ACCOUNT_ISSUES_DELETION_ITEM_WHAT_REMOVED": "Odstránením účtu sa odstráni tvoj profil, nahrané súbory a všetky súvisiace údaje. Aktívne predplatné PLUS sa automaticky zruší.",
-  "SUPPORT_ACCOUNT_ISSUES_SUSPENDED_P1_BEFORE_LINK": "Účty môžu byť pozastavené za porušenie našich ",
-  "SUPPORT_ACCOUNT_ISSUES_DELETION_P1_BEFORE_LINK": "Ak chceš odstrániť svoj účet, môžeš tak urobiť vo svojich ",
+  "SUPPORT_ACCOUNT_ISSUES_SUSPENDED_P1_BEFORE_LINK": "Účet ti môže byť pozastavený, ak porušíš naše ",
+  "SUPPORT_ACCOUNT_ISSUES_DELETION_P1_BEFORE_LINK": "Ak chceš odstrániť svoj účet, môžeš tak urobiť v sekcii ",
   "SUPPORT_ACCOUNT_ISSUES_CTA_HEADING": "Stále potrebuješ pomoc?",
   "SUPPORT_ACCOUNT_ISSUES_CTA_BODY": "Ak máš problém, ktorý tu nie je pokrytý, napíš nám e-mail a urobíme maximum, aby sme ho rýchlo vyriešili.",
   "SUPPORT_MORE_ARTICLES": "Ďalšie články",
@@ -2123,7 +2123,7 @@
   "CONVERT_ERROR_UNSUPPORTED": "Tento súbor sa nedá skonvertovať.",
   "CONVERT_ERROR_TOO_LARGE": "Súbor prekračuje limit {limit} na konverziu.",
   "LEGAL_PRIVACY_UPLOADS_STORAGE_METADATA": "Metadáta sa z obrázkov odstraňujú pred ich uložením. Snipp v predvolenom nastavení odstraňuje EXIF, XMP a porovnateľné bloky z nahraných súborov PNG, JPEG, WebP a GIF, čím sa odstránia GPS súradnice, značka a model fotoaparátu, nastavenia objektívu a expozície a časové značky vytvorenia záberu. Jedinou zachovanou hodnotou je orientácia, takže sa fotografie naďalej zobrazujú správne otočené. Môžeš to vypnúť cez Zahrnúť metadáta vo svojich predvoľbách; v takom prípade sa nahrané súbory ukladajú s metadátami, ktoré odošleš.",
-  "SUPPORT_ACCOUNT_ISSUES_SUSPENDED_P1_BETWEEN_LINKS": " alebo ",
+  "SUPPORT_ACCOUNT_ISSUES_SUSPENDED_P1_BETWEEN_LINKS": " alebo pravidlá opísané v ",
   "SUPPORT_ACCOUNT_ISSUES_SUSPENDED_P1_AFTER_LINK": ". ",
   "SUPPORT_ACCOUNT_ISSUES_DELETION_P1_AFTER_LINK": ". "
 }

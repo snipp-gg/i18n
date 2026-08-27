@@ -1451,7 +1451,7 @@
   "SUPPORT_LINK_ACCOUNT_SETTINGS": "podešavanja naloga",
   "SUPPORT_ACCOUNT_ISSUES_DELETION_ITEM_PERMANENT": "Ova radnja je trajna i ne može se poništiti.",
   "SUPPORT_ACCOUNT_ISSUES_DELETION_ITEM_WHAT_REMOVED": "Brisanje vašeg naloga uklanja vaš profil, otpremljene fajlove i sve povezane podatke. Aktivne PLUS pretplate biće automatski otkazane.",
-  "SUPPORT_ACCOUNT_ISSUES_SUSPENDED_P1_BEFORE_LINK": "Nalozi mogu biti suspendovani zbog kršenja naših ",
+  "SUPPORT_ACCOUNT_ISSUES_SUSPENDED_P1_BEFORE_LINK": "Nalog može biti suspendovan ako se prekrše naši ",
   "SUPPORT_ACCOUNT_ISSUES_DELETION_P1_BEFORE_LINK": "Ako želite da obrišete svoj nalog, to možete učiniti iz svojih ",
   "SUPPORT_ACCOUNT_ISSUES_CTA_HEADING": "Još uvek vam treba pomoć?",
   "SUPPORT_ACCOUNT_ISSUES_CTA_BODY": "Ako imate problem koji ovde nije obrađen, pošaljite nam imejl i potrudićemo se da ga brzo rešimo.",
@@ -2123,7 +2123,7 @@
   "CONVERT_ERROR_UNSUPPORTED": "Taj fajl ne može da se konvertuje.",
   "CONVERT_ERROR_TOO_LARGE": "Fajl premašuje limit za konvertovanje od {limit}.",
   "LEGAL_PRIVACY_UPLOADS_STORAGE_METADATA": "Metapodaci se uklanjaju iz slika pre nego što se one uskladište. Snipp podrazumevano uklanja EXIF, XMP i uporedive blokove iz otpremljenih PNG, JPEG, WebP i GIF fajlova, čime se uklanjaju GPS koordinate, marka i model kamere, podešavanja objektiva i ekspozicije, kao i vremenske oznake snimanja. Orijentacija je jedina vrednost koja se zadržava, kako bi se fotografije i dalje prikazivale pravilno okrenute. To možete isključiti pod Uključi metapodatke u svojim podešavanjima; u tom slučaju se otpremanja čuvaju sa metapodacima koje ste poslali.",
-  "SUPPORT_ACCOUNT_ISSUES_SUSPENDED_P1_BETWEEN_LINKS": " ili ",
+  "SUPPORT_ACCOUNT_ISSUES_SUSPENDED_P1_BETWEEN_LINKS": " ili pravila opisana u ",
   "SUPPORT_ACCOUNT_ISSUES_SUSPENDED_P1_AFTER_LINK": ". ",
   "SUPPORT_ACCOUNT_ISSUES_DELETION_P1_AFTER_LINK": ". "
 }

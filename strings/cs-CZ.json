@@ -1451,7 +1451,7 @@
   "SUPPORT_LINK_ACCOUNT_SETTINGS": "nastavení účtu",
   "SUPPORT_ACCOUNT_ISSUES_DELETION_ITEM_PERMANENT": "Tato akce je trvalá a nelze ji vrátit zpět.",
   "SUPPORT_ACCOUNT_ISSUES_DELETION_ITEM_WHAT_REMOVED": "Smazáním účtu odstraníte svůj profil, nahrané soubory a veškerá související data. Aktivní předplatná PLUS budou automaticky zrušena.",
-  "SUPPORT_ACCOUNT_ISSUES_SUSPENDED_P1_BEFORE_LINK": "Účty mohou být pozastaveny za porušení našich ",
+  "SUPPORT_ACCOUNT_ISSUES_SUSPENDED_P1_BEFORE_LINK": "Účet vám může být pozastaven, pokud porušíte naše ",
   "SUPPORT_ACCOUNT_ISSUES_DELETION_P1_BEFORE_LINK": "Pokud chcete smazat svůj účet, můžete tak učinit ve svém ",
   "SUPPORT_ACCOUNT_ISSUES_CTA_HEADING": "Stále potřebujete pomoc?",
   "SUPPORT_ACCOUNT_ISSUES_CTA_BODY": "Pokud se potýkáte s problémem, který zde není uveden, napište nám e-mail a my uděláme maximum, abychom jej rychle vyřešili.",
@@ -2123,7 +2123,7 @@
   "CONVERT_ERROR_UNSUPPORTED": "Tento soubor nelze převést.",
   "CONVERT_ERROR_TOO_LARGE": "Soubor překračuje limit {limit} pro převod.",
   "LEGAL_PRIVACY_UPLOADS_STORAGE_METADATA": "Metadata jsou z obrázků odstraněna před jejich uložením. Snipp ve výchozím nastavení odstraňuje EXIF, XMP a srovnatelné bloky z nahraných souborů PNG, JPEG, WebP a GIF, čímž se odstraní GPS souřadnice, značka a model fotoaparátu, nastavení objektivu a expozice a časová razítka pořízení snímku. Jedinou zachovanou hodnotou je orientace, takže se fotografie nadále zobrazují správně otočené. Můžete to vypnout pomocí volby Zahrnout metadata ve svých předvolbách; v takovém případě se nahrané soubory ukládají s metadaty, která jste odeslali.",
-  "SUPPORT_ACCOUNT_ISSUES_SUSPENDED_P1_BETWEEN_LINKS": " nebo ",
+  "SUPPORT_ACCOUNT_ISSUES_SUSPENDED_P1_BETWEEN_LINKS": " nebo pravidla popsaná v ",
   "SUPPORT_ACCOUNT_ISSUES_SUSPENDED_P1_AFTER_LINK": ". ",
   "SUPPORT_ACCOUNT_ISSUES_DELETION_P1_AFTER_LINK": ". "
 }

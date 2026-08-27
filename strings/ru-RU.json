@@ -1451,8 +1451,8 @@
   "SUPPORT_LINK_ACCOUNT_SETTINGS": "настроек учётной записи",
   "SUPPORT_ACCOUNT_ISSUES_DELETION_ITEM_PERMANENT": "Это действие необратимо и не может быть отменено.",
   "SUPPORT_ACCOUNT_ISSUES_DELETION_ITEM_WHAT_REMOVED": "Удаление вашей учётной записи приведёт к удалению вашего профиля, загруженных файлов и любых связанных данных. Активные подписки PLUS будут отменены автоматически.",
-  "SUPPORT_ACCOUNT_ISSUES_SUSPENDED_P1_BEFORE_LINK": "Учётные записи могут быть заблокированы за нарушение наших ",
-  "SUPPORT_ACCOUNT_ISSUES_DELETION_P1_BEFORE_LINK": "Если вы хотите удалить свою учётную запись, вы можете сделать это в ",
+  "SUPPORT_ACCOUNT_ISSUES_SUSPENDED_P1_BEFORE_LINK": "Ваша учётная запись может быть заблокирована, если вы нарушите наши ",
+  "SUPPORT_ACCOUNT_ISSUES_DELETION_P1_BEFORE_LINK": "Если вы хотите удалить свою учётную запись, вы можете сделать это в разделе ",
   "SUPPORT_ACCOUNT_ISSUES_CTA_HEADING": "Всё ещё нужна помощь?",
   "SUPPORT_ACCOUNT_ISSUES_CTA_BODY": "Если вы столкнулись с проблемой, которая здесь не описана, отправьте нам письмо, и мы сделаем всё возможное, чтобы быстро её решить.",
   "SUPPORT_MORE_ARTICLES": "Больше статей",
@@ -2123,7 +2123,7 @@
   "CONVERT_ERROR_UNSUPPORTED": "Этот файл невозможно преобразовать.",
   "CONVERT_ERROR_TOO_LARGE": "Файл превышает лимит преобразования {limit}.",
   "LEGAL_PRIVACY_UPLOADS_STORAGE_METADATA": "Метаданные удаляются из изображений до их сохранения. По умолчанию Snipp удаляет EXIF, XMP и аналогичные блоки из загрузок PNG, JPEG, WebP и GIF, что убирает GPS-координаты, марку и модель камеры, настройки объектива и экспозиции, а также метки времени съёмки. Единственное сохраняемое значение — ориентация, благодаря чему фотографии по-прежнему отображаются в правильном положении. Вы можете отключить это с помощью параметра Сохранять метаданные в своих настройках; в этом случае загрузки сохраняются с метаданными, которые вы отправили.",
-  "SUPPORT_ACCOUNT_ISSUES_SUSPENDED_P1_BETWEEN_LINKS": " или ",
+  "SUPPORT_ACCOUNT_ISSUES_SUSPENDED_P1_BETWEEN_LINKS": " или правила, описанные в ",
   "SUPPORT_ACCOUNT_ISSUES_SUSPENDED_P1_AFTER_LINK": ". ",
   "SUPPORT_ACCOUNT_ISSUES_DELETION_P1_AFTER_LINK": ". "
 }

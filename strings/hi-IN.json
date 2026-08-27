@@ -1451,7 +1451,7 @@
   "SUPPORT_LINK_ACCOUNT_SETTINGS": "अकाउंट सेटिंग्स",
   "SUPPORT_ACCOUNT_ISSUES_DELETION_ITEM_PERMANENT": "यह कार्रवाई स्थायी है और वापस नहीं ली जा सकती।",
   "SUPPORT_ACCOUNT_ISSUES_DELETION_ITEM_WHAT_REMOVED": "अपना अकाउंट डिलीट करने से आपकी प्रोफ़ाइल, अपलोड की गई फ़ाइलें और जुड़ा कोई भी डेटा हट जाएगा। सक्रिय PLUS सब्सक्रिप्शन अपने आप रद्द हो जाएंगे।",
-  "SUPPORT_ACCOUNT_ISSUES_SUSPENDED_P1_BEFORE_LINK": "हमारी नीतियों के उल्लंघन पर अकाउंट सस्पेंड किए जा सकते हैं ",
+  "SUPPORT_ACCOUNT_ISSUES_SUSPENDED_P1_BEFORE_LINK": "अगर आप हमारी ",
   "SUPPORT_ACCOUNT_ISSUES_DELETION_P1_BEFORE_LINK": "अगर आप अपना अकाउंट डिलीट करना चाहते हैं, तो आप ऐसा अपनी ",
   "SUPPORT_ACCOUNT_ISSUES_CTA_HEADING": "अभी भी मदद चाहिए?",
   "SUPPORT_ACCOUNT_ISSUES_CTA_BODY": "अगर आप ऐसी किसी समस्या का सामना कर रहे हैं जो यहां कवर नहीं है, तो हमें ईमेल भेजें और हम इसे जल्द से जल्द हल करने की पूरी कोशिश करेंगे।",
@@ -2124,6 +2124,6 @@
   "CONVERT_ERROR_TOO_LARGE": "फ़ाइल {limit} की कन्वर्ट सीमा से बड़ी है।",
   "LEGAL_PRIVACY_UPLOADS_STORAGE_METADATA": "स्टोर किए जाने से पहले इमेज से मेटाडेटा हटा दिया जाता है। Snipp डिफ़ॉल्ट रूप से PNG, JPEG, WebP और GIF अपलोड से EXIF, XMP और इसी तरह के ब्लॉक हटाता है, जिससे GPS निर्देशांक, कैमरे का ब्रांड और मॉडल, लेंस और एक्सपोज़र की सेटिंग्स, और कैप्चर के टाइमस्टैम्प हट जाते हैं। सिर्फ़ ओरिएंटेशन ही ऐसा मान है जो रखा जाता है, ताकि फ़ोटो सही दिशा में ही दिखें। आप इसे अपनी प्राथमिकताओं में मेटाडेटा शामिल करें के तहत बंद कर सकते हैं; ऐसी स्थिति में अपलोड आपके भेजे गए मेटाडेटा के साथ स्टोर किए जाते हैं।",
   "SUPPORT_ACCOUNT_ISSUES_SUSPENDED_P1_BETWEEN_LINKS": " या ",
-  "SUPPORT_ACCOUNT_ISSUES_SUSPENDED_P1_AFTER_LINK": "। ",
+  "SUPPORT_ACCOUNT_ISSUES_SUSPENDED_P1_AFTER_LINK": " तोड़ते हैं, तो आपका अकाउंट सस्पेंड किया जा सकता है। ",
   "SUPPORT_ACCOUNT_ISSUES_DELETION_P1_AFTER_LINK": " से कर सकते हैं। "
 }

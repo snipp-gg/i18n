@@ -223,7 +223,7 @@ Source of truth is `Website/utils/i18n/strings/<locale>.json`; `i18n/strings/` m
 | tr-TR | görüntüleme |
 | uk-UA | переглядів |
 | vi-VN | lượt xem |
-| zh-CN | 翻阅 |
+| zh-CN | 次浏览 |
 
 ## Public
 
@@ -371,75 +371,75 @@ Source of truth is `Website/utils/i18n/strings/<locale>.json`; `i18n/strings/` m
 
 ## Priority Minutes
 
-`SETTINGS_BILLING_PRIORITY_MINUTES_LABEL` = "Priority Minutes"
+`SETTINGS_BILLING_PRIORITY_MINUTES_LABEL` = "Monthly Priority Minutes"
 
 | Locale | Value |
 | --- | --- |
-| bg-BG | Приоритетни минути |
-| cs-CZ | Prioritní minuty |
-| de-DE | Prioritätsminuten |
-| el-GR | Λεπτά προτεραιότητας |
-| es-ES | Minutos prioritarios |
-| fi-FI | Prioriteettiminuutit |
+| bg-BG | Месечни приоритетни минути |
+| cs-CZ | Měsíční prioritní minuty |
+| de-DE | Monatliche Prioritätsminuten |
+| el-GR | Μηνιαία λεπτά προτεραιότητας |
+| es-ES | Minutos prioritarios mensuales |
+| fi-FI | Kuukauden prioriteettiminuutit |
 | fil-PH | Priority Minutes |
-| fr-FR | Minutes prioritaires |
-| hi-IN | प्राथमिकता मिनट |
-| hr-HR | Prioritetne minute |
-| id-ID | Menit Prioritas |
-| it-IT | Minuti prioritari |
-| ja-JP | 優先ストリーミング時間 |
-| ko-KR | 우선 스트리밍 시간 |
-| nb-NO | Prioritetsminutter |
-| nl-NL | Prioriteitsminuten |
-| pl-PL | Minuty priorytetowe |
-| pt-BR | Minutos prioritários |
-| pt-PT | Minutos prioritários |
-| ro-RO | Minute prioritare |
-| ru-RU | Приоритетные минуты |
-| sk-SK | Prioritné minúty |
-| sr-RS | Prioritetni minuti |
-| sv-SE | Prioritetsminuter |
-| th-TH | นาทีลำดับความสำคัญ |
-| tr-TR | Öncelikli dakikalar |
-| uk-UA | Пріоритетні хвилини |
-| vi-VN | Phút ưu tiên |
-| zh-CN | 优先分钟数 |
+| fr-FR | Minutes prioritaires mensuelles |
+| hi-IN | मासिक प्राथमिकता मिनट |
+| hr-HR | Mjesečne prioritetne minute |
+| id-ID | Menit Prioritas Bulanan |
+| it-IT | Minuti prioritari mensili |
+| ja-JP | 月間優先ストリーミング時間 |
+| ko-KR | 월간 우선 스트리밍 시간 |
+| nb-NO | Månedlige prioritetsminutter |
+| nl-NL | Maandelijkse prioriteitsminuten |
+| pl-PL | Miesięczne minuty priorytetowe |
+| pt-BR | Minutos prioritários mensais |
+| pt-PT | Minutos prioritários mensais |
+| ro-RO | Minute prioritare lunare |
+| ru-RU | Приоритетные минуты за месяц |
+| sk-SK | Mesačné prioritné minúty |
+| sr-RS | Mesečni prioritetni minuti |
+| sv-SE | Månatliga prioritetsminuter |
+| th-TH | นาทีลำดับความสำคัญรายเดือน |
+| tr-TR | Aylık öncelikli dakikalar |
+| uk-UA | Пріоритетні хвилини за місяць |
+| vi-VN | Phút ưu tiên hàng tháng |
+| zh-CN | 每月优先分钟数 |
 
 ## Weekly Limit
 
-`SETTINGS_BILLING_WEEKLY_LIMIT_LABEL` = "Weekly Limit"
+`SETTINGS_BILLING_WEEKLY_LIMIT_LABEL` = "Weekly Uploads"
 
 | Locale | Value |
 | --- | --- |
-| bg-BG | Седмичен лимит |
-| cs-CZ | Týdenní limit |
-| de-DE | Wöchentliches Limit |
-| el-GR | Εβδομαδιαίο Όριο |
-| es-ES | Límite Semanal |
-| fi-FI | Viikkoraja |
+| bg-BG | Седмични качвания |
+| cs-CZ | Týdenní nahrávání |
+| de-DE | Wöchentliche Uploads |
+| el-GR | Εβδομαδιαίες Μεταφορτώσεις |
+| es-ES | Subidas Semanales |
+| fi-FI | Viikoittaiset lataukset |
 | fil-PH | Lingguhang Limitasyon |
-| fr-FR | Limite hebdomadaire |
-| hi-IN | साप्ताहिक सीमा |
-| hr-HR | Tjedno ograničenje |
-| id-ID | Batas Mingguan |
-| it-IT | Limite settimanale |
-| ja-JP | 週間制限 |
-| ko-KR | 주간 한도 |
-| nb-NO | Ukentlig grense |
-| nl-NL | Wekelijkse limiet |
-| pl-PL | Limit Tygodniowy |
-| pt-BR | Limite Semanal |
-| pt-PT | Limite Semanal |
-| ro-RO | Limită săptămânală |
-| ru-RU | Недельный лимит |
-| sk-SK | Týždenný limit |
-| sr-RS | Nedeljni limit |
-| sv-SE | Veckogräns |
-| th-TH | ขีดจำกัดรายสัปดาห์ |
-| tr-TR | Haftalık Sınır |
-| uk-UA | Тижневий ліміт |
-| vi-VN | Giới hạn hàng tuần |
-| zh-CN | 每周限制 |
+| fr-FR | Téléversements hebdomadaires |
+| hi-IN | साप्ताहिक अपलोड |
+| hr-HR | Tjedni prijenosi |
+| id-ID | Unggahan Mingguan |
+| it-IT | Caricamenti settimanali |
+| ja-JP | 週間アップロード |
+| ko-KR | 주간 업로드 |
+| nb-NO | Ukentlige opplastinger |
+| nl-NL | Wekelijkse uploads |
+| pl-PL | Przesyłanie Tygodniowe |
+| pt-BR | Envios Semanais |
+| pt-PT | Carregamentos Semanais |
+| ro-RO | Încărcări săptămânale |
+| ru-RU | Загрузки за неделю |
+| sk-SK | Týždenné nahrávanie |
+| sr-RS | Nedeljna otpremanja |
+| sv-SE | Veckouppladdningar |
+| th-TH | การอัปโหลดรายสัปดาห์ |
+| tr-TR | Haftalık Yüklemeler |
+| uk-UA | Завантаження за тиждень |
+| vi-VN | Lượt tải lên hàng tuần |
+| zh-CN | 每周上传量 |
 
 
 ## Subscription Credit
