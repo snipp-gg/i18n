@@ -86,6 +86,8 @@
   "GALLERY_SORT_LARGEST": "サイズの大きい順",
   "GALLERY_SORT_SMALLEST": "サイズの小さい順",
   "GALLERY_SORT_LABEL": "並び替え",
+  "GALLERY_DATE_TODAY": "Today",
+  "GALLERY_DATE_YESTERDAY": "Yesterday",
   "ERROR_CSRF_TOKEN": "CSRFトークンの取得に失敗しました。",
   "UPLOAD_ERROR_NO_FILES_SELECTED": "アップロードするファイルを選択してください。",
   "UPLOAD_ERROR_FILE_MISSING": "ファイルのアップロードに失敗しました。削除または移動された可能性があります。",
