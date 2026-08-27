@@ -1451,8 +1451,8 @@
   "SUPPORT_LINK_ACCOUNT_SETTINGS": "paramètres du compte",
   "SUPPORT_ACCOUNT_ISSUES_DELETION_ITEM_PERMANENT": "Cette action est permanente et irréversible.",
   "SUPPORT_ACCOUNT_ISSUES_DELETION_ITEM_WHAT_REMOVED": "La suppression de votre compte retirera votre profil, vos fichiers envoyés et toutes les données associées. Les abonnements PLUS actifs seront annulés automatiquement.",
-  "SUPPORT_ACCOUNT_ISSUES_SUSPENDED_P1_BEFORE_LINK": "Les comptes peuvent être suspendus pour violation de nos",
-  "SUPPORT_ACCOUNT_ISSUES_DELETION_P1_BEFORE_LINK": "Si vous souhaitez supprimer votre compte, vous pouvez le faire depuis vos",
+  "SUPPORT_ACCOUNT_ISSUES_SUSPENDED_P1_BEFORE_LINK": "Les comptes peuvent être suspendus pour violation de nos ",
+  "SUPPORT_ACCOUNT_ISSUES_DELETION_P1_BEFORE_LINK": "Si vous souhaitez supprimer votre compte, vous pouvez le faire depuis vos ",
   "SUPPORT_ACCOUNT_ISSUES_CTA_HEADING": "Besoin d'aide supplémentaire ?",
   "SUPPORT_ACCOUNT_ISSUES_CTA_BODY": "Si vous rencontrez un problème qui n'est pas traité ici, envoyez-nous un e-mail et nous ferons de notre mieux pour le résoudre rapidement.",
   "SUPPORT_MORE_ARTICLES": "Plus d'articles",
@@ -2122,5 +2122,8 @@
   "CONVERT_TOAST_UPLOAD_CANCELED": "Envoi annulé !",
   "CONVERT_ERROR_UNSUPPORTED": "Ce fichier ne peut pas être converti.",
   "CONVERT_ERROR_TOO_LARGE": "Le fichier dépasse la limite de conversion de {limit}.",
-  "LEGAL_PRIVACY_UPLOADS_STORAGE_METADATA": "Les métadonnées sont supprimées des images avant leur stockage. Par défaut, Snipp retire les blocs EXIF, XMP et autres blocs comparables des envois PNG, JPEG, WebP et GIF, ce qui supprime les coordonnées GPS, la marque et le modèle de l'appareil photo, les réglages d'objectif et d'exposition, ainsi que les horodatages de prise de vue. L'orientation est la seule valeur conservée, afin que les photos s'affichent toujours dans le bon sens. Vous pouvez désactiver ce comportement via Conserver les métadonnées dans vos préférences, auquel cas les envois sont stockés avec les métadonnées que vous avez transmises."
+  "LEGAL_PRIVACY_UPLOADS_STORAGE_METADATA": "Les métadonnées sont supprimées des images avant leur stockage. Par défaut, Snipp retire les blocs EXIF, XMP et autres blocs comparables des envois PNG, JPEG, WebP et GIF, ce qui supprime les coordonnées GPS, la marque et le modèle de l'appareil photo, les réglages d'objectif et d'exposition, ainsi que les horodatages de prise de vue. L'orientation est la seule valeur conservée, afin que les photos s'affichent toujours dans le bon sens. Vous pouvez désactiver ce comportement via Conserver les métadonnées dans vos préférences, auquel cas les envois sont stockés avec les métadonnées que vous avez transmises.",
+  "SUPPORT_ACCOUNT_ISSUES_SUSPENDED_P1_BETWEEN_LINKS": " ou de notre ",
+  "SUPPORT_ACCOUNT_ISSUES_SUSPENDED_P1_AFTER_LINK": ". ",
+  "SUPPORT_ACCOUNT_ISSUES_DELETION_P1_AFTER_LINK": ". "
 }

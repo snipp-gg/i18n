@@ -1451,8 +1451,8 @@
   "SUPPORT_LINK_ACCOUNT_SETTINGS": "hesap ayarları",
   "SUPPORT_ACCOUNT_ISSUES_DELETION_ITEM_PERMANENT": "Bu işlem kalıcıdır ve geri alınamaz.",
   "SUPPORT_ACCOUNT_ISSUES_DELETION_ITEM_WHAT_REMOVED": "Hesabınızı silmek profilinizi, yüklediğiniz dosyaları ve ilişkili tüm verileri kaldıracaktır. Aktif PLUS abonelikleri otomatik olarak iptal edilecektir.",
-  "SUPPORT_ACCOUNT_ISSUES_SUSPENDED_P1_BEFORE_LINK": "Hesaplar, şunları ihlal ettiği için askıya alınabilir:",
-  "SUPPORT_ACCOUNT_ISSUES_DELETION_P1_BEFORE_LINK": "Hesabınızı silmek isterseniz, bunu şuradan yapabilirsiniz:",
+  "SUPPORT_ACCOUNT_ISSUES_SUSPENDED_P1_BEFORE_LINK": "Hesaplar, şunları ihlal ettiği için askıya alınabilir: ",
+  "SUPPORT_ACCOUNT_ISSUES_DELETION_P1_BEFORE_LINK": "Hesabınızı silmek isterseniz, bunu şuradan yapabilirsiniz: ",
   "SUPPORT_ACCOUNT_ISSUES_CTA_HEADING": "Hâlâ yardıma mı ihtiyacınız var?",
   "SUPPORT_ACCOUNT_ISSUES_CTA_BODY": "Burada ele alınmayan bir sorun yaşıyorsanız, bize bir e-posta gönderin; sorunu hızlıca çözmek için elimizden geleni yapacağız.",
   "SUPPORT_MORE_ARTICLES": "Daha fazla makale",
@@ -2122,5 +2122,8 @@
   "CONVERT_TOAST_UPLOAD_CANCELED": "Yükleme iptal edildi!",
   "CONVERT_ERROR_UNSUPPORTED": "Bu dosya dönüştürülemez.",
   "CONVERT_ERROR_TOO_LARGE": "Dosya, {limit} dönüştürme sınırının üzerinde.",
-  "LEGAL_PRIVACY_UPLOADS_STORAGE_METADATA": "Meta veriler, görseller saklanmadan önce kaldırılır. Snipp, varsayılan olarak PNG, JPEG, WebP ve GIF yüklemelerinden EXIF, XMP ve benzeri blokları ayıklar; bu işlem GPS koordinatlarını, kameranın marka ve modelini, lens ve pozlama ayarlarını ve çekim zaman damgalarını kaldırır. Korunan tek değer yön bilgisidir; böylece fotoğraflar doğru yönde görüntülenmeye devam eder. Bunu tercihlerinizdeki Meta Verileri Koru seçeneğinden kapatabilirsiniz; bu durumda yüklemeler gönderdiğiniz meta verilerle birlikte saklanır."
+  "LEGAL_PRIVACY_UPLOADS_STORAGE_METADATA": "Meta veriler, görseller saklanmadan önce kaldırılır. Snipp, varsayılan olarak PNG, JPEG, WebP ve GIF yüklemelerinden EXIF, XMP ve benzeri blokları ayıklar; bu işlem GPS koordinatlarını, kameranın marka ve modelini, lens ve pozlama ayarlarını ve çekim zaman damgalarını kaldırır. Korunan tek değer yön bilgisidir; böylece fotoğraflar doğru yönde görüntülenmeye devam eder. Bunu tercihlerinizdeki Meta Verileri Koru seçeneğinden kapatabilirsiniz; bu durumda yüklemeler gönderdiğiniz meta verilerle birlikte saklanır.",
+  "SUPPORT_ACCOUNT_ISSUES_SUSPENDED_P1_BETWEEN_LINKS": " veya ",
+  "SUPPORT_ACCOUNT_ISSUES_SUSPENDED_P1_AFTER_LINK": ". ",
+  "SUPPORT_ACCOUNT_ISSUES_DELETION_P1_AFTER_LINK": ". "
 }

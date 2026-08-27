@@ -1451,8 +1451,8 @@
   "SUPPORT_LINK_ACCOUNT_SETTINGS": "Kontoeinstellungen",
   "SUPPORT_ACCOUNT_ISSUES_DELETION_ITEM_PERMANENT": "Diese Aktion ist dauerhaft und kann nicht rückgängig gemacht werden.",
   "SUPPORT_ACCOUNT_ISSUES_DELETION_ITEM_WHAT_REMOVED": "Beim Löschen deines Kontos werden dein Profil, hochgeladene Dateien und alle zugehörigen Daten entfernt. Aktive PLUS-Abonnements werden automatisch gekündigt.",
-  "SUPPORT_ACCOUNT_ISSUES_SUSPENDED_P1_BEFORE_LINK": "Konten können wegen Verstößen gegen unsere",
-  "SUPPORT_ACCOUNT_ISSUES_DELETION_P1_BEFORE_LINK": "Wenn du dein Konto löschen möchtest, kannst du das in deinen",
+  "SUPPORT_ACCOUNT_ISSUES_SUSPENDED_P1_BEFORE_LINK": "Konten können wegen Verstößen gegen unsere ",
+  "SUPPORT_ACCOUNT_ISSUES_DELETION_P1_BEFORE_LINK": "Wenn du dein Konto löschen möchtest, kannst du das in deinen ",
   "SUPPORT_ACCOUNT_ISSUES_CTA_HEADING": "Brauchst du noch Hilfe?",
   "SUPPORT_ACCOUNT_ISSUES_CTA_BODY": "Falls du ein Problem hast, das hier nicht behandelt wird, schreib uns eine E-Mail und wir tun unser Bestes, es schnell zu lösen.",
   "SUPPORT_MORE_ARTICLES": "Weitere Artikel",
@@ -2122,5 +2122,8 @@
   "CONVERT_TOAST_UPLOAD_CANCELED": "Upload abgebrochen!",
   "CONVERT_ERROR_UNSUPPORTED": "Diese Datei kann nicht umgewandelt werden.",
   "CONVERT_ERROR_TOO_LARGE": "Die Datei liegt über dem Umwandlungslimit von {limit}.",
-  "LEGAL_PRIVACY_UPLOADS_STORAGE_METADATA": "Metadaten werden aus Bildern entfernt, bevor diese gespeichert werden. Snipp entfernt standardmäßig EXIF, XMP und vergleichbare Blöcke aus PNG-, JPEG-, WebP- und GIF-Uploads; dadurch werden GPS-Koordinaten, Marke und Modell der Kamera, Objektiv- und Belichtungseinstellungen sowie Aufnahmezeitstempel entfernt. Die Ausrichtung ist der einzige Wert, der erhalten bleibt, damit Fotos weiterhin richtig herum angezeigt werden. Sie können dies unter Metadaten beibehalten in Ihren Einstellungen deaktivieren; in diesem Fall werden Uploads mit den von Ihnen übermittelten Metadaten gespeichert."
+  "LEGAL_PRIVACY_UPLOADS_STORAGE_METADATA": "Metadaten werden aus Bildern entfernt, bevor diese gespeichert werden. Snipp entfernt standardmäßig EXIF, XMP und vergleichbare Blöcke aus PNG-, JPEG-, WebP- und GIF-Uploads; dadurch werden GPS-Koordinaten, Marke und Modell der Kamera, Objektiv- und Belichtungseinstellungen sowie Aufnahmezeitstempel entfernt. Die Ausrichtung ist der einzige Wert, der erhalten bleibt, damit Fotos weiterhin richtig herum angezeigt werden. Sie können dies unter Metadaten beibehalten in Ihren Einstellungen deaktivieren; in diesem Fall werden Uploads mit den von Ihnen übermittelten Metadaten gespeichert.",
+  "SUPPORT_ACCOUNT_ISSUES_SUSPENDED_P1_BETWEEN_LINKS": " oder ",
+  "SUPPORT_ACCOUNT_ISSUES_SUSPENDED_P1_AFTER_LINK": " gesperrt werden. ",
+  "SUPPORT_ACCOUNT_ISSUES_DELETION_P1_AFTER_LINK": " tun. "
 }

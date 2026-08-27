@@ -1451,8 +1451,8 @@
   "SUPPORT_LINK_ACCOUNT_SETTINGS": "kontoinnstillinger",
   "SUPPORT_ACCOUNT_ISSUES_DELETION_ITEM_PERMANENT": "Denne handlingen er permanent og kan ikke angres.",
   "SUPPORT_ACCOUNT_ISSUES_DELETION_ITEM_WHAT_REMOVED": "Å slette kontoen din vil fjerne profilen din, opplastede filer og alle tilknyttede data. Aktive PLUS-abonnementer vil bli kansellert automatisk.",
-  "SUPPORT_ACCOUNT_ISSUES_SUSPENDED_P1_BEFORE_LINK": "Kontoer kan bli suspendert for brudd på våre",
-  "SUPPORT_ACCOUNT_ISSUES_DELETION_P1_BEFORE_LINK": "Hvis du vil slette kontoen din, kan du gjøre det fra dine",
+  "SUPPORT_ACCOUNT_ISSUES_SUSPENDED_P1_BEFORE_LINK": "Kontoer kan bli suspendert for brudd på våre ",
+  "SUPPORT_ACCOUNT_ISSUES_DELETION_P1_BEFORE_LINK": "Hvis du vil slette kontoen din, kan du gjøre det fra dine ",
   "SUPPORT_ACCOUNT_ISSUES_CTA_HEADING": "Trenger du fortsatt hjelp?",
   "SUPPORT_ACCOUNT_ISSUES_CTA_BODY": "Hvis du opplever et problem som ikke dekkes her, send oss en e-post, så gjør vi vårt beste for å løse det raskt.",
   "SUPPORT_MORE_ARTICLES": "Flere artikler",
@@ -2122,5 +2122,8 @@
   "CONVERT_TOAST_UPLOAD_CANCELED": "Opplasting avbrutt!",
   "CONVERT_ERROR_UNSUPPORTED": "Den filen kan ikke konverteres.",
   "CONVERT_ERROR_TOO_LARGE": "Filen er over konverteringsgrensen på {limit}.",
-  "LEGAL_PRIVACY_UPLOADS_STORAGE_METADATA": "Metadata fjernes fra bilder før de lagres. Som standard fjerner Snipp EXIF, XMP og sammenlignbare blokker fra PNG-, JPEG-, WebP- og GIF-opplastinger, noe som fjerner GPS-koordinater, kameraets merke og modell, objektiv- og eksponeringsinnstillinger samt tidsstempler for opptak. Orienteringen er den eneste verdien som beholdes, slik at bilder fortsatt vises riktig vei. Du kan slå dette av under Inkluder metadata i innstillingene dine; i så fall lagres opplastinger med metadataene du sendte."
+  "LEGAL_PRIVACY_UPLOADS_STORAGE_METADATA": "Metadata fjernes fra bilder før de lagres. Som standard fjerner Snipp EXIF, XMP og sammenlignbare blokker fra PNG-, JPEG-, WebP- og GIF-opplastinger, noe som fjerner GPS-koordinater, kameraets merke og modell, objektiv- og eksponeringsinnstillinger samt tidsstempler for opptak. Orienteringen er den eneste verdien som beholdes, slik at bilder fortsatt vises riktig vei. Du kan slå dette av under Inkluder metadata i innstillingene dine; i så fall lagres opplastinger med metadataene du sendte.",
+  "SUPPORT_ACCOUNT_ISSUES_SUSPENDED_P1_BETWEEN_LINKS": " eller vår ",
+  "SUPPORT_ACCOUNT_ISSUES_SUSPENDED_P1_AFTER_LINK": ". ",
+  "SUPPORT_ACCOUNT_ISSUES_DELETION_P1_AFTER_LINK": ". "
 }

@@ -1451,8 +1451,8 @@
   "SUPPORT_LINK_ACCOUNT_SETTINGS": "ajustes de cuenta",
   "SUPPORT_ACCOUNT_ISSUES_DELETION_ITEM_PERMANENT": "Esta acción es permanente y no se puede deshacer.",
   "SUPPORT_ACCOUNT_ISSUES_DELETION_ITEM_WHAT_REMOVED": "Eliminar tu cuenta borrará tu perfil, los archivos subidos y todos los datos asociados. Las suscripciones PLUS activas se cancelarán automáticamente.",
-  "SUPPORT_ACCOUNT_ISSUES_SUSPENDED_P1_BEFORE_LINK": "Las cuentas pueden ser suspendidas por infringir nuestros",
-  "SUPPORT_ACCOUNT_ISSUES_DELETION_P1_BEFORE_LINK": "Si quieres eliminar tu cuenta, puedes hacerlo desde tus",
+  "SUPPORT_ACCOUNT_ISSUES_SUSPENDED_P1_BEFORE_LINK": "Las cuentas pueden ser suspendidas por infringir nuestros ",
+  "SUPPORT_ACCOUNT_ISSUES_DELETION_P1_BEFORE_LINK": "Si quieres eliminar tu cuenta, puedes hacerlo desde tus ",
   "SUPPORT_ACCOUNT_ISSUES_CTA_HEADING": "¿Aún necesitas ayuda?",
   "SUPPORT_ACCOUNT_ISSUES_CTA_BODY": "Si tienes un problema que no se trata aquí, envíanos un correo electrónico y haremos todo lo posible por resolverlo rápidamente.",
   "SUPPORT_MORE_ARTICLES": "Más artículos",
@@ -2122,5 +2122,8 @@
   "CONVERT_TOAST_UPLOAD_CANCELED": "¡Subida cancelada!",
   "CONVERT_ERROR_UNSUPPORTED": "Ese archivo no se puede convertir.",
   "CONVERT_ERROR_TOO_LARGE": "El archivo supera el límite de conversión de {limit}.",
-  "LEGAL_PRIVACY_UPLOADS_STORAGE_METADATA": "Los metadatos se eliminan de las imágenes antes de almacenarlas. De forma predeterminada, Snipp elimina los bloques EXIF, XMP y otros comparables de las subidas PNG, JPEG, WebP y GIF, lo que suprime las coordenadas GPS, la marca y el modelo de la cámara, los ajustes de objetivo y exposición, y las marcas de tiempo de captura. La orientación es el único valor que se conserva, para que las fotos sigan mostrándose con la orientación correcta. Puede desactivarlo en Conservar Metadatos dentro de sus preferencias, en cuyo caso las subidas se almacenan con los metadatos que usted envió."
+  "LEGAL_PRIVACY_UPLOADS_STORAGE_METADATA": "Los metadatos se eliminan de las imágenes antes de almacenarlas. De forma predeterminada, Snipp elimina los bloques EXIF, XMP y otros comparables de las subidas PNG, JPEG, WebP y GIF, lo que suprime las coordenadas GPS, la marca y el modelo de la cámara, los ajustes de objetivo y exposición, y las marcas de tiempo de captura. La orientación es el único valor que se conserva, para que las fotos sigan mostrándose con la orientación correcta. Puede desactivarlo en Conservar Metadatos dentro de sus preferencias, en cuyo caso las subidas se almacenan con los metadatos que usted envió.",
+  "SUPPORT_ACCOUNT_ISSUES_SUSPENDED_P1_BETWEEN_LINKS": " o nuestra ",
+  "SUPPORT_ACCOUNT_ISSUES_SUSPENDED_P1_AFTER_LINK": ". ",
+  "SUPPORT_ACCOUNT_ISSUES_DELETION_P1_AFTER_LINK": ". "
 }

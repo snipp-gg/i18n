@@ -1451,8 +1451,8 @@
   "SUPPORT_LINK_ACCOUNT_SETTINGS": "cài đặt tài khoản",
   "SUPPORT_ACCOUNT_ISSUES_DELETION_ITEM_PERMANENT": "Hành động này là vĩnh viễn và không thể hoàn tác.",
   "SUPPORT_ACCOUNT_ISSUES_DELETION_ITEM_WHAT_REMOVED": "Xóa tài khoản sẽ gỡ bỏ hồ sơ, tệp đã tải lên và mọi dữ liệu liên quan của bạn. Các đăng ký PLUS đang hoạt động sẽ tự động bị hủy.",
-  "SUPPORT_ACCOUNT_ISSUES_SUSPENDED_P1_BEFORE_LINK": "Tài khoản có thể bị đình chỉ vì vi phạm",
-  "SUPPORT_ACCOUNT_ISSUES_DELETION_P1_BEFORE_LINK": "Nếu bạn muốn xóa tài khoản, bạn có thể làm vậy từ",
+  "SUPPORT_ACCOUNT_ISSUES_SUSPENDED_P1_BEFORE_LINK": "Tài khoản có thể bị đình chỉ vì vi phạm ",
+  "SUPPORT_ACCOUNT_ISSUES_DELETION_P1_BEFORE_LINK": "Nếu bạn muốn xóa tài khoản, bạn có thể làm vậy từ ",
   "SUPPORT_ACCOUNT_ISSUES_CTA_HEADING": "Vẫn cần trợ giúp?",
   "SUPPORT_ACCOUNT_ISSUES_CTA_BODY": "Nếu bạn đang gặp vấn đề chưa được đề cập ở đây, hãy gửi email cho chúng tôi và chúng tôi sẽ cố gắng giải quyết nhanh nhất có thể.",
   "SUPPORT_MORE_ARTICLES": "Thêm bài viết",
@@ -2122,5 +2122,8 @@
   "CONVERT_TOAST_UPLOAD_CANCELED": "Đã hủy tải lên!",
   "CONVERT_ERROR_UNSUPPORTED": "Không thể chuyển đổi tệp đó.",
   "CONVERT_ERROR_TOO_LARGE": "Tệp vượt quá giới hạn chuyển đổi {limit}.",
-  "LEGAL_PRIVACY_UPLOADS_STORAGE_METADATA": "Siêu dữ liệu được xóa khỏi hình ảnh trước khi lưu trữ. Theo mặc định, Snipp loại bỏ EXIF, XMP và các khối tương tự khỏi các tệp PNG, JPEG, WebP và GIF được tải lên, qua đó xóa tọa độ GPS, hãng và mẫu máy ảnh, cài đặt ống kính và phơi sáng, cùng dấu thời gian chụp. Hướng ảnh là giá trị duy nhất được giữ lại, để ảnh vẫn hiển thị đúng chiều. Bạn có thể tắt tính năng này trong mục Bao gồm siêu dữ liệu ở phần tùy chọn của mình; trong trường hợp đó, các tệp tải lên được lưu trữ cùng siêu dữ liệu bạn đã gửi."
+  "LEGAL_PRIVACY_UPLOADS_STORAGE_METADATA": "Siêu dữ liệu được xóa khỏi hình ảnh trước khi lưu trữ. Theo mặc định, Snipp loại bỏ EXIF, XMP và các khối tương tự khỏi các tệp PNG, JPEG, WebP và GIF được tải lên, qua đó xóa tọa độ GPS, hãng và mẫu máy ảnh, cài đặt ống kính và phơi sáng, cùng dấu thời gian chụp. Hướng ảnh là giá trị duy nhất được giữ lại, để ảnh vẫn hiển thị đúng chiều. Bạn có thể tắt tính năng này trong mục Bao gồm siêu dữ liệu ở phần tùy chọn của mình; trong trường hợp đó, các tệp tải lên được lưu trữ cùng siêu dữ liệu bạn đã gửi.",
+  "SUPPORT_ACCOUNT_ISSUES_SUSPENDED_P1_BETWEEN_LINKS": " hoặc ",
+  "SUPPORT_ACCOUNT_ISSUES_SUSPENDED_P1_AFTER_LINK": ". ",
+  "SUPPORT_ACCOUNT_ISSUES_DELETION_P1_AFTER_LINK": ". "
 }

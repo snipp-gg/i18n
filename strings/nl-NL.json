@@ -1451,8 +1451,8 @@
   "SUPPORT_LINK_ACCOUNT_SETTINGS": "accountinstellingen",
   "SUPPORT_ACCOUNT_ISSUES_DELETION_ITEM_PERMANENT": "Deze actie is permanent en kan niet ongedaan worden gemaakt.",
   "SUPPORT_ACCOUNT_ISSUES_DELETION_ITEM_WHAT_REMOVED": "Het verwijderen van je account verwijdert je profiel, geüploade bestanden en alle bijbehorende gegevens. Actieve PLUS-abonnementen worden automatisch opgezegd.",
-  "SUPPORT_ACCOUNT_ISSUES_SUSPENDED_P1_BEFORE_LINK": "Accounts kunnen worden geschorst wegens het schenden van onze",
-  "SUPPORT_ACCOUNT_ISSUES_DELETION_P1_BEFORE_LINK": "Wil je je account verwijderen? Dat kan vanuit je",
+  "SUPPORT_ACCOUNT_ISSUES_SUSPENDED_P1_BEFORE_LINK": "Accounts kunnen worden geschorst wegens het schenden van onze ",
+  "SUPPORT_ACCOUNT_ISSUES_DELETION_P1_BEFORE_LINK": "Wil je je account verwijderen? Dat kan vanuit je ",
   "SUPPORT_ACCOUNT_ISSUES_CTA_HEADING": "Heb je nog hulp nodig?",
   "SUPPORT_ACCOUNT_ISSUES_CTA_BODY": "Heb je een probleem dat hier niet wordt behandeld? Stuur ons een e-mail en we doen ons best om het snel op te lossen.",
   "SUPPORT_MORE_ARTICLES": "Meer artikelen",
@@ -2122,5 +2122,8 @@
   "CONVERT_TOAST_UPLOAD_CANCELED": "Upload geannuleerd!",
   "CONVERT_ERROR_UNSUPPORTED": "Dat bestand kan niet worden geconverteerd.",
   "CONVERT_ERROR_TOO_LARGE": "Bestand is groter dan de conversielimiet van {limit}.",
-  "LEGAL_PRIVACY_UPLOADS_STORAGE_METADATA": "Metadata wordt uit afbeeldingen verwijderd voordat ze worden opgeslagen. Snipp verwijdert standaard EXIF, XMP en vergelijkbare blokken uit PNG-, JPEG-, WebP- en GIF-uploads; daarmee verdwijnen GPS-coördinaten, merk en model van de camera, lens- en belichtingsinstellingen en tijdstempels van de opname. De oriëntatie is de enige waarde die behouden blijft, zodat foto's nog steeds in de juiste stand worden weergegeven. Je kunt dit uitschakelen via Metadata meenemen in je voorkeuren; in dat geval worden uploads opgeslagen met de metadata die je hebt meegestuurd."
+  "LEGAL_PRIVACY_UPLOADS_STORAGE_METADATA": "Metadata wordt uit afbeeldingen verwijderd voordat ze worden opgeslagen. Snipp verwijdert standaard EXIF, XMP en vergelijkbare blokken uit PNG-, JPEG-, WebP- en GIF-uploads; daarmee verdwijnen GPS-coördinaten, merk en model van de camera, lens- en belichtingsinstellingen en tijdstempels van de opname. De oriëntatie is de enige waarde die behouden blijft, zodat foto's nog steeds in de juiste stand worden weergegeven. Je kunt dit uitschakelen via Metadata meenemen in je voorkeuren; in dat geval worden uploads opgeslagen met de metadata die je hebt meegestuurd.",
+  "SUPPORT_ACCOUNT_ISSUES_SUSPENDED_P1_BETWEEN_LINKS": " of ons ",
+  "SUPPORT_ACCOUNT_ISSUES_SUSPENDED_P1_AFTER_LINK": ". ",
+  "SUPPORT_ACCOUNT_ISSUES_DELETION_P1_AFTER_LINK": ". "
 }

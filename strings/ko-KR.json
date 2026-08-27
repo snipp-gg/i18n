@@ -1451,8 +1451,8 @@
   "SUPPORT_LINK_ACCOUNT_SETTINGS": "계정 설정",
   "SUPPORT_ACCOUNT_ISSUES_DELETION_ITEM_PERMANENT": "이 작업은 영구적이며 되돌릴 수 없습니다.",
   "SUPPORT_ACCOUNT_ISSUES_DELETION_ITEM_WHAT_REMOVED": "계정을 삭제하면 프로필, 업로드한 파일, 관련 데이터가 모두 제거됩니다. 활성 PLUS 구독은 자동으로 취소됩니다.",
-  "SUPPORT_ACCOUNT_ISSUES_SUSPENDED_P1_BEFORE_LINK": "계정은 다음 위반으로 정지될 수 있습니다:",
-  "SUPPORT_ACCOUNT_ISSUES_DELETION_P1_BEFORE_LINK": "계정을 삭제하려면 다음에서 할 수 있습니다:",
+  "SUPPORT_ACCOUNT_ISSUES_SUSPENDED_P1_BEFORE_LINK": "계정은 다음 위반으로 정지될 수 있습니다: ",
+  "SUPPORT_ACCOUNT_ISSUES_DELETION_P1_BEFORE_LINK": "계정을 삭제하려면 다음에서 할 수 있습니다: ",
   "SUPPORT_ACCOUNT_ISSUES_CTA_HEADING": "여전히 도움이 필요한가요?",
   "SUPPORT_ACCOUNT_ISSUES_CTA_BODY": "여기서 다루지 않은 문제를 겪고 있다면 이메일을 보내 주세요. 최대한 빨리 해결해 드리겠습니다.",
   "SUPPORT_MORE_ARTICLES": "더 많은 글",
@@ -2122,5 +2122,8 @@
   "CONVERT_TOAST_UPLOAD_CANCELED": "업로드가 취소되었습니다!",
   "CONVERT_ERROR_UNSUPPORTED": "이 파일은 변환할 수 없습니다.",
   "CONVERT_ERROR_TOO_LARGE": "파일이 {limit} 변환 한도를 초과했습니다.",
-  "LEGAL_PRIVACY_UPLOADS_STORAGE_METADATA": "이미지는 저장되기 전에 메타데이터가 제거됩니다. Snipp은 기본적으로 PNG, JPEG, WebP, GIF 업로드에서 EXIF, XMP 및 이에 준하는 블록을 제거하며, 이를 통해 GPS 좌표, 카메라 제조사와 모델, 렌즈 및 노출 설정, 촬영 타임스탬프가 삭제됩니다. 유지되는 값은 방향 정보 하나뿐이며, 덕분에 사진은 계속 올바른 방향으로 표시됩니다. 환경설정의 메타데이터 포함에서 이 기능을 끌 수 있으며, 그 경우 업로드는 귀하가 보낸 메타데이터와 함께 저장됩니다."
+  "LEGAL_PRIVACY_UPLOADS_STORAGE_METADATA": "이미지는 저장되기 전에 메타데이터가 제거됩니다. Snipp은 기본적으로 PNG, JPEG, WebP, GIF 업로드에서 EXIF, XMP 및 이에 준하는 블록을 제거하며, 이를 통해 GPS 좌표, 카메라 제조사와 모델, 렌즈 및 노출 설정, 촬영 타임스탬프가 삭제됩니다. 유지되는 값은 방향 정보 하나뿐이며, 덕분에 사진은 계속 올바른 방향으로 표시됩니다. 환경설정의 메타데이터 포함에서 이 기능을 끌 수 있으며, 그 경우 업로드는 귀하가 보낸 메타데이터와 함께 저장됩니다.",
+  "SUPPORT_ACCOUNT_ISSUES_SUSPENDED_P1_BETWEEN_LINKS": " 또는 ",
+  "SUPPORT_ACCOUNT_ISSUES_SUSPENDED_P1_AFTER_LINK": ". ",
+  "SUPPORT_ACCOUNT_ISSUES_DELETION_P1_AFTER_LINK": ". "
 }

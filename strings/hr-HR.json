@@ -1451,8 +1451,8 @@
   "SUPPORT_LINK_ACCOUNT_SETTINGS": "postavke računa",
   "SUPPORT_ACCOUNT_ISSUES_DELETION_ITEM_PERMANENT": "Ova je radnja trajna i ne može se poništiti.",
   "SUPPORT_ACCOUNT_ISSUES_DELETION_ITEM_WHAT_REMOVED": "Brisanje računa uklonit će tvoj profil, prenesene datoteke i sve povezane podatke. Aktivne PLUS pretplate automatski se otkazuju.",
-  "SUPPORT_ACCOUNT_ISSUES_SUSPENDED_P1_BEFORE_LINK": "Računi mogu biti suspendirani zbog kršenja naših",
-  "SUPPORT_ACCOUNT_ISSUES_DELETION_P1_BEFORE_LINK": "Ako želiš izbrisati svoj račun, to možeš učiniti u svojim",
+  "SUPPORT_ACCOUNT_ISSUES_SUSPENDED_P1_BEFORE_LINK": "Računi mogu biti suspendirani zbog kršenja naših ",
+  "SUPPORT_ACCOUNT_ISSUES_DELETION_P1_BEFORE_LINK": "Ako želiš izbrisati svoj račun, to možeš učiniti u svojim ",
   "SUPPORT_ACCOUNT_ISSUES_CTA_HEADING": "Još trebaš pomoć?",
   "SUPPORT_ACCOUNT_ISSUES_CTA_BODY": "Ako imaš problem koji ovdje nije obrađen, pošalji nam e-poštu i učinit ćemo sve da ga brzo riješimo.",
   "SUPPORT_MORE_ARTICLES": "Više članaka",
@@ -2122,5 +2122,8 @@
   "CONVERT_TOAST_UPLOAD_CANCELED": "Prijenos otkazan!",
   "CONVERT_ERROR_UNSUPPORTED": "Ta se datoteka ne može pretvoriti.",
   "CONVERT_ERROR_TOO_LARGE": "Datoteka premašuje ograničenje za pretvaranje od {limit}.",
-  "LEGAL_PRIVACY_UPLOADS_STORAGE_METADATA": "Metapodaci se uklanjaju iz slika prije njihove pohrane. Snipp prema zadanim postavkama uklanja EXIF, XMP i usporedive blokove iz prenesenih PNG, JPEG, WebP i GIF datoteka, čime se uklanjaju GPS koordinate, marka i model fotoaparata, postavke objektiva i ekspozicije te vremenske oznake snimanja. Orijentacija je jedina vrijednost koja se zadržava, kako bi se fotografije i dalje prikazivale ispravno okrenute. To možeš isključiti pod Uključi metapodatke u svojim postavkama; u tom se slučaju prijenosi pohranjuju s metapodacima koje pošalješ."
+  "LEGAL_PRIVACY_UPLOADS_STORAGE_METADATA": "Metapodaci se uklanjaju iz slika prije njihove pohrane. Snipp prema zadanim postavkama uklanja EXIF, XMP i usporedive blokove iz prenesenih PNG, JPEG, WebP i GIF datoteka, čime se uklanjaju GPS koordinate, marka i model fotoaparata, postavke objektiva i ekspozicije te vremenske oznake snimanja. Orijentacija je jedina vrijednost koja se zadržava, kako bi se fotografije i dalje prikazivale ispravno okrenute. To možeš isključiti pod Uključi metapodatke u svojim postavkama; u tom se slučaju prijenosi pohranjuju s metapodacima koje pošalješ.",
+  "SUPPORT_ACCOUNT_ISSUES_SUSPENDED_P1_BETWEEN_LINKS": " ili ",
+  "SUPPORT_ACCOUNT_ISSUES_SUSPENDED_P1_AFTER_LINK": ". ",
+  "SUPPORT_ACCOUNT_ISSUES_DELETION_P1_AFTER_LINK": ". "
 }

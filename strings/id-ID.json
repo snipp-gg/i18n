@@ -1451,8 +1451,8 @@
   "SUPPORT_LINK_ACCOUNT_SETTINGS": "pengaturan akun",
   "SUPPORT_ACCOUNT_ISSUES_DELETION_ITEM_PERMANENT": "Tindakan ini permanen dan tidak dapat dibatalkan.",
   "SUPPORT_ACCOUNT_ISSUES_DELETION_ITEM_WHAT_REMOVED": "Menghapus akun Anda akan menghapus profil, file yang diunggah, dan data terkait apa pun. Langganan PLUS yang aktif akan dibatalkan secara otomatis.",
-  "SUPPORT_ACCOUNT_ISSUES_SUSPENDED_P1_BEFORE_LINK": "Akun dapat ditangguhkan karena melanggar",
-  "SUPPORT_ACCOUNT_ISSUES_DELETION_P1_BEFORE_LINK": "Jika Anda ingin menghapus akun, Anda dapat melakukannya dari",
+  "SUPPORT_ACCOUNT_ISSUES_SUSPENDED_P1_BEFORE_LINK": "Akun dapat ditangguhkan karena melanggar ",
+  "SUPPORT_ACCOUNT_ISSUES_DELETION_P1_BEFORE_LINK": "Jika Anda ingin menghapus akun, Anda dapat melakukannya dari ",
   "SUPPORT_ACCOUNT_ISSUES_CTA_HEADING": "Masih butuh bantuan?",
   "SUPPORT_ACCOUNT_ISSUES_CTA_BODY": "Jika Anda mengalami masalah yang tidak tercakup di sini, kirim email kepada kami dan kami akan berusaha sebaik mungkin menyelesaikannya dengan cepat.",
   "SUPPORT_MORE_ARTICLES": "Artikel lainnya",
@@ -2122,5 +2122,8 @@
   "CONVERT_TOAST_UPLOAD_CANCELED": "Unggahan dibatalkan!",
   "CONVERT_ERROR_UNSUPPORTED": "File tersebut tidak dapat dikonversi.",
   "CONVERT_ERROR_TOO_LARGE": "File melebihi batas konversi {limit}.",
-  "LEGAL_PRIVACY_UPLOADS_STORAGE_METADATA": "Metadata dihapus dari gambar sebelum disimpan. Secara default, Snipp menghapus EXIF, XMP, dan blok serupa dari unggahan PNG, JPEG, WebP, dan GIF, yang menghilangkan koordinat GPS, merek dan model kamera, pengaturan lensa dan pencahayaan, serta stempel waktu pengambilan gambar. Orientasi adalah satu-satunya nilai yang dipertahankan, agar foto tetap ditampilkan dengan arah yang benar. Anda dapat menonaktifkannya melalui Sertakan Metadata di preferensi Anda; dalam hal itu, unggahan disimpan bersama metadata yang Anda kirim."
+  "LEGAL_PRIVACY_UPLOADS_STORAGE_METADATA": "Metadata dihapus dari gambar sebelum disimpan. Secara default, Snipp menghapus EXIF, XMP, dan blok serupa dari unggahan PNG, JPEG, WebP, dan GIF, yang menghilangkan koordinat GPS, merek dan model kamera, pengaturan lensa dan pencahayaan, serta stempel waktu pengambilan gambar. Orientasi adalah satu-satunya nilai yang dipertahankan, agar foto tetap ditampilkan dengan arah yang benar. Anda dapat menonaktifkannya melalui Sertakan Metadata di preferensi Anda; dalam hal itu, unggahan disimpan bersama metadata yang Anda kirim.",
+  "SUPPORT_ACCOUNT_ISSUES_SUSPENDED_P1_BETWEEN_LINKS": " atau ",
+  "SUPPORT_ACCOUNT_ISSUES_SUSPENDED_P1_AFTER_LINK": ". ",
+  "SUPPORT_ACCOUNT_ISSUES_DELETION_P1_AFTER_LINK": ". "
 }

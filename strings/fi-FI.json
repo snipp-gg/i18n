@@ -1451,8 +1451,8 @@
   "SUPPORT_LINK_ACCOUNT_SETTINGS": "tiliasetukset",
   "SUPPORT_ACCOUNT_ISSUES_DELETION_ITEM_PERMANENT": "Tämä toiminto on pysyvä, eikä sitä voi peruuttaa.",
   "SUPPORT_ACCOUNT_ISSUES_DELETION_ITEM_WHAT_REMOVED": "Tilisi poistaminen poistaa profiilisi, lataamasi tiedostot ja kaikki niihin liittyvät tiedot. Aktiiviset PLUS-tilaukset perutaan automaattisesti.",
-  "SUPPORT_ACCOUNT_ISSUES_SUSPENDED_P1_BEFORE_LINK": "Tilit voidaan jäädyttää, jos rikotaan",
-  "SUPPORT_ACCOUNT_ISSUES_DELETION_P1_BEFORE_LINK": "Jos haluat poistaa tilisi, voit tehdä sen kohdasta",
+  "SUPPORT_ACCOUNT_ISSUES_SUSPENDED_P1_BEFORE_LINK": "Tilit voidaan jäädyttää, jos rikotaan ",
+  "SUPPORT_ACCOUNT_ISSUES_DELETION_P1_BEFORE_LINK": "Jos haluat poistaa tilisi, voit tehdä sen kohdasta ",
   "SUPPORT_ACCOUNT_ISSUES_CTA_HEADING": "Tarvitsetko vielä apua?",
   "SUPPORT_ACCOUNT_ISSUES_CTA_BODY": "Jos sinulla on ongelma, jota ei käsitellä täällä, lähetä meille sähköpostia, niin teemme parhaamme ratkaistaksemme sen nopeasti.",
   "SUPPORT_MORE_ARTICLES": "Lisää artikkeleita",
@@ -2122,5 +2122,8 @@
   "CONVERT_TOAST_UPLOAD_CANCELED": "Lataus peruutettu!",
   "CONVERT_ERROR_UNSUPPORTED": "Tätä tiedostoa ei voi muuntaa.",
   "CONVERT_ERROR_TOO_LARGE": "Tiedosto ylittää muunnosrajan {limit}.",
-  "LEGAL_PRIVACY_UPLOADS_STORAGE_METADATA": "Metatiedot poistetaan kuvista ennen niiden tallentamista. Snipp poistaa oletusarvoisesti EXIF-, XMP- ja vastaavat lohkot PNG-, JPEG-, WebP- ja GIF-latauksista, jolloin poistuvat GPS-koordinaatit, kameran merkki ja malli, objektiivi- ja valotusasetukset sekä kuvanottohetken aikaleimat. Ainoa säilytettävä arvo on kuvan suunta, jotta valokuvat näkyvät edelleen oikein päin. Voit poistaa tämän käytöstä kohdasta Sisällytä metatiedot asetuksissasi; siinä tapauksessa lataukset tallennetaan lähettämiesi metatietojen kanssa."
+  "LEGAL_PRIVACY_UPLOADS_STORAGE_METADATA": "Metatiedot poistetaan kuvista ennen niiden tallentamista. Snipp poistaa oletusarvoisesti EXIF-, XMP- ja vastaavat lohkot PNG-, JPEG-, WebP- ja GIF-latauksista, jolloin poistuvat GPS-koordinaatit, kameran merkki ja malli, objektiivi- ja valotusasetukset sekä kuvanottohetken aikaleimat. Ainoa säilytettävä arvo on kuvan suunta, jotta valokuvat näkyvät edelleen oikein päin. Voit poistaa tämän käytöstä kohdasta Sisällytä metatiedot asetuksissasi; siinä tapauksessa lataukset tallennetaan lähettämiesi metatietojen kanssa.",
+  "SUPPORT_ACCOUNT_ISSUES_SUSPENDED_P1_BETWEEN_LINKS": " tai ",
+  "SUPPORT_ACCOUNT_ISSUES_SUSPENDED_P1_AFTER_LINK": ". ",
+  "SUPPORT_ACCOUNT_ISSUES_DELETION_P1_AFTER_LINK": ". "
 }

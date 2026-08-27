@@ -1451,8 +1451,8 @@
   "SUPPORT_LINK_ACCOUNT_SETTINGS": "kontoinställningar",
   "SUPPORT_ACCOUNT_ISSUES_DELETION_ITEM_PERMANENT": "Den här åtgärden är permanent och kan inte ångras.",
   "SUPPORT_ACCOUNT_ISSUES_DELETION_ITEM_WHAT_REMOVED": "Att radera ditt konto tar bort din profil, dina uppladdade filer och all tillhörande data. Aktiva PLUS-prenumerationer avslutas automatiskt.",
-  "SUPPORT_ACCOUNT_ISSUES_SUSPENDED_P1_BEFORE_LINK": "Konton kan stängas av för att ha brutit mot våra",
-  "SUPPORT_ACCOUNT_ISSUES_DELETION_P1_BEFORE_LINK": "Om du vill radera ditt konto kan du göra det från dina",
+  "SUPPORT_ACCOUNT_ISSUES_SUSPENDED_P1_BEFORE_LINK": "Konton kan stängas av för att ha brutit mot våra ",
+  "SUPPORT_ACCOUNT_ISSUES_DELETION_P1_BEFORE_LINK": "Om du vill radera ditt konto kan du göra det från dina ",
   "SUPPORT_ACCOUNT_ISSUES_CTA_HEADING": "Behöver du fortfarande hjälp?",
   "SUPPORT_ACCOUNT_ISSUES_CTA_BODY": "Om du upplever ett problem som inte tas upp här, skicka oss ett e-postmeddelande så gör vi vårt bästa för att lösa det snabbt.",
   "SUPPORT_MORE_ARTICLES": "Fler artiklar",
@@ -2122,5 +2122,8 @@
   "CONVERT_TOAST_UPLOAD_CANCELED": "Uppladdningen avbruten!",
   "CONVERT_ERROR_UNSUPPORTED": "Den filen kan inte konverteras.",
   "CONVERT_ERROR_TOO_LARGE": "Filen är över konverteringsgränsen på {limit}.",
-  "LEGAL_PRIVACY_UPLOADS_STORAGE_METADATA": "Metadata tas bort från bilder innan de lagras. Som standard rensar Snipp bort EXIF, XMP och jämförbara block ur PNG-, JPEG-, WebP- och GIF-uppladdningar, vilket tar bort GPS-koordinater, kamerans märke och modell, objektiv- och exponeringsinställningar samt tidsstämplar för när bilden togs. Orienteringen är det enda värde som behålls, så att foton fortfarande visas åt rätt håll. Du kan stänga av detta under Behåll metadata i dina inställningar; i så fall lagras uppladdningar med de metadata du skickade."
+  "LEGAL_PRIVACY_UPLOADS_STORAGE_METADATA": "Metadata tas bort från bilder innan de lagras. Som standard rensar Snipp bort EXIF, XMP och jämförbara block ur PNG-, JPEG-, WebP- och GIF-uppladdningar, vilket tar bort GPS-koordinater, kamerans märke och modell, objektiv- och exponeringsinställningar samt tidsstämplar för när bilden togs. Orienteringen är det enda värde som behålls, så att foton fortfarande visas åt rätt håll. Du kan stänga av detta under Behåll metadata i dina inställningar; i så fall lagras uppladdningar med de metadata du skickade.",
+  "SUPPORT_ACCOUNT_ISSUES_SUSPENDED_P1_BETWEEN_LINKS": " eller vår ",
+  "SUPPORT_ACCOUNT_ISSUES_SUSPENDED_P1_AFTER_LINK": ". ",
+  "SUPPORT_ACCOUNT_ISSUES_DELETION_P1_AFTER_LINK": ". "
 }

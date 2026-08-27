@@ -1451,8 +1451,8 @@
   "SUPPORT_LINK_ACCOUNT_SETTINGS": "mga setting ng account",
   "SUPPORT_ACCOUNT_ISSUES_DELETION_ITEM_PERMANENT": "Permanente ang aksyong ito at hindi na maibabalik.",
   "SUPPORT_ACCOUNT_ISSUES_DELETION_ITEM_WHAT_REMOVED": "Ang pagtanggal ng iyong account ay mag-aalis ng iyong profile, na-upload na files, at anumang kaugnay na data. Ang aktibong PLUS subscription ay awtomatikong kakanselahin.",
-  "SUPPORT_ACCOUNT_ISSUES_SUSPENDED_P1_BEFORE_LINK": "Ang mga account ay maaaring suspendihin para sa paglabag sa aming",
-  "SUPPORT_ACCOUNT_ISSUES_DELETION_P1_BEFORE_LINK": "Kung gusto mong tanggalin ang iyong account, maaari mong gawin ito mula sa iyong",
+  "SUPPORT_ACCOUNT_ISSUES_SUSPENDED_P1_BEFORE_LINK": "Ang mga account ay maaaring suspendihin para sa paglabag sa aming ",
+  "SUPPORT_ACCOUNT_ISSUES_DELETION_P1_BEFORE_LINK": "Kung gusto mong tanggalin ang iyong account, maaari mong gawin ito mula sa iyong ",
   "SUPPORT_ACCOUNT_ISSUES_CTA_HEADING": "Kailangan pa ng tulong?",
   "SUPPORT_ACCOUNT_ISSUES_CTA_BODY": "Kung may nararanasan kang isyu na hindi sakop dito, magpadala sa amin ng email at gagawin namin ang aming makakaya para malutas ito nang mabilis.",
   "SUPPORT_MORE_ARTICLES": "Higit pang mga artikulo",
@@ -2122,5 +2122,8 @@
   "CONVERT_TOAST_UPLOAD_CANCELED": "Kinansela ang upload!",
   "CONVERT_ERROR_UNSUPPORTED": "Hindi ma-convert ang file na iyan.",
   "CONVERT_ERROR_TOO_LARGE": "Lampas ang file sa {limit} na limitasyon sa pag-convert.",
-  "LEGAL_PRIVACY_UPLOADS_STORAGE_METADATA": "Inaalis ang metadata mula sa mga larawan bago ang mga ito iimbak. Bilang default, inaalis ng Snipp ang EXIF, XMP at mga katulad na block mula sa mga PNG, JPEG, WebP at GIF na upload, na nag-aalis ng GPS coordinates, gawa at modelo ng camera, mga setting ng lens at exposure, at mga timestamp ng pagkuha. Ang orientation lamang ang halagang pinapanatili, para maipakita pa rin nang tama ang mga larawan. Maaari mo itong i-off sa ilalim ng Isama ang Metadata sa iyong mga preference; sa ganoong kaso, iniimbak ang mga upload kasama ang metadata na ipinadala mo."
+  "LEGAL_PRIVACY_UPLOADS_STORAGE_METADATA": "Inaalis ang metadata mula sa mga larawan bago ang mga ito iimbak. Bilang default, inaalis ng Snipp ang EXIF, XMP at mga katulad na block mula sa mga PNG, JPEG, WebP at GIF na upload, na nag-aalis ng GPS coordinates, gawa at modelo ng camera, mga setting ng lens at exposure, at mga timestamp ng pagkuha. Ang orientation lamang ang halagang pinapanatili, para maipakita pa rin nang tama ang mga larawan. Maaari mo itong i-off sa ilalim ng Isama ang Metadata sa iyong mga preference; sa ganoong kaso, iniimbak ang mga upload kasama ang metadata na ipinadala mo.",
+  "SUPPORT_ACCOUNT_ISSUES_SUSPENDED_P1_BETWEEN_LINKS": " o ",
+  "SUPPORT_ACCOUNT_ISSUES_SUSPENDED_P1_AFTER_LINK": ". ",
+  "SUPPORT_ACCOUNT_ISSUES_DELETION_P1_AFTER_LINK": ". "
 }
