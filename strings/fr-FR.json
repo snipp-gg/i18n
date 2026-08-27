@@ -86,6 +86,8 @@
   "GALLERY_SORT_LARGEST": "Plus volumineux",
   "GALLERY_SORT_SMALLEST": "Moins volumineux",
   "GALLERY_SORT_LABEL": "Trier",
+  "GALLERY_DATE_TODAY": "Today",
+  "GALLERY_DATE_YESTERDAY": "Yesterday",
   "ERROR_CSRF_TOKEN": "Échec de l'obtention du jeton CSRF.",
   "UPLOAD_ERROR_NO_FILES_SELECTED": "Veuillez sélectionner le ou les fichiers à envoyer.",
   "UPLOAD_ERROR_FILE_MISSING": "Échec de l'envoi de votre fichier. Il a peut-être été supprimé ou déplacé.",
