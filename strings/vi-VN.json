@@ -86,6 +86,8 @@
   "GALLERY_SORT_LARGEST": "Lớn nhất",
   "GALLERY_SORT_SMALLEST": "Nhỏ nhất",
   "GALLERY_SORT_LABEL": "Sắp xếp",
+  "GALLERY_DATE_TODAY": "Hôm nay",
+  "GALLERY_DATE_YESTERDAY": "Hôm qua",
   "ERROR_CSRF_TOKEN": "Không lấy được mã CSRF.",
   "UPLOAD_ERROR_NO_FILES_SELECTED": "Vui lòng chọn tệp để tải lên.",
   "UPLOAD_ERROR_FILE_MISSING": "Không thể tải lên tệp của bạn. Tệp có thể đã bị xóa hoặc di chuyển.",

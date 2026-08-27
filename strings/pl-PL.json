@@ -86,6 +86,8 @@
   "GALLERY_SORT_LARGEST": "Największe",
   "GALLERY_SORT_SMALLEST": "Najmniejsze",
   "GALLERY_SORT_LABEL": "Sortuj",
+  "GALLERY_DATE_TODAY": "Dziś",
+  "GALLERY_DATE_YESTERDAY": "Wczoraj",
   "ERROR_CSRF_TOKEN": "Nie udało się uzyskać tokenu CSRF.",
   "UPLOAD_ERROR_NO_FILES_SELECTED": "Wybierz plik(i) do przesłania.",
   "UPLOAD_ERROR_FILE_MISSING": "Nie udało się przesłać pliku. Mógł zostać usunięty lub przeniesiony.",

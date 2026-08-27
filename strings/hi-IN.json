@@ -86,6 +86,8 @@
   "GALLERY_SORT_LARGEST": "सबसे बड़े",
   "GALLERY_SORT_SMALLEST": "सबसे छोटे",
   "GALLERY_SORT_LABEL": "क्रमबद्ध करें",
+  "GALLERY_DATE_TODAY": "आज",
+  "GALLERY_DATE_YESTERDAY": "कल",
   "ERROR_CSRF_TOKEN": "CSRF टोकन प्राप्त करने में विफल।",
   "UPLOAD_ERROR_NO_FILES_SELECTED": "कृपया अपलोड करने के लिए फ़ाइल चुनें।",
   "UPLOAD_ERROR_FILE_MISSING": "आपकी फ़ाइल अपलोड करने में विफल। हो सकता है इसे हटा दिया गया हो या कहीं ले जाया गया हो।",

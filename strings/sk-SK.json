@@ -86,6 +86,8 @@
   "GALLERY_SORT_LARGEST": "Najväčšie",
   "GALLERY_SORT_SMALLEST": "Najmenšie",
   "GALLERY_SORT_LABEL": "Zoradiť",
+  "GALLERY_DATE_TODAY": "Dnes",
+  "GALLERY_DATE_YESTERDAY": "Včera",
   "ERROR_CSRF_TOKEN": "Nepodarilo sa získať CSRF token.",
   "UPLOAD_ERROR_NO_FILES_SELECTED": "Vyber súbor(y) na nahratie.",
   "UPLOAD_ERROR_FILE_MISSING": "Nepodarilo sa nahrať súbor. Mohol byť odstránený alebo presunutý.",

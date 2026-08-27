@@ -86,6 +86,8 @@
   "GALLERY_SORT_LARGEST": "Største",
   "GALLERY_SORT_SMALLEST": "Minste",
   "GALLERY_SORT_LABEL": "Sorter",
+  "GALLERY_DATE_TODAY": "I dag",
+  "GALLERY_DATE_YESTERDAY": "I går",
   "ERROR_CSRF_TOKEN": "Kunne ikke hente CSRF-token.",
   "UPLOAD_ERROR_NO_FILES_SELECTED": "Velg fil(er) som skal lastes opp.",
   "UPLOAD_ERROR_FILE_MISSING": "Kunne ikke laste opp filen din. Den kan ha blitt slettet eller flyttet.",

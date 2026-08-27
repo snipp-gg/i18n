@@ -86,6 +86,8 @@
   "GALLERY_SORT_LARGEST": "Pinakamalaki",
   "GALLERY_SORT_SMALLEST": "Pinakamaliit",
   "GALLERY_SORT_LABEL": "I-sort",
+  "GALLERY_DATE_TODAY": "Ngayon",
+  "GALLERY_DATE_YESTERDAY": "Kahapon",
   "ERROR_CSRF_TOKEN": "Hindi nakuha ang CSRF token.",
   "UPLOAD_ERROR_NO_FILES_SELECTED": "Pumili ng (mga) file na ia-upload.",
   "UPLOAD_ERROR_FILE_MISSING": "Hindi na-upload ang iyong file. Maaaring natanggal o nailipat na ito.",

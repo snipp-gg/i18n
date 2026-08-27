@@ -86,6 +86,8 @@
   "GALLERY_SORT_LARGEST": "En Büyük",
   "GALLERY_SORT_SMALLEST": "En Küçük",
   "GALLERY_SORT_LABEL": "Sırala",
+  "GALLERY_DATE_TODAY": "Bugün",
+  "GALLERY_DATE_YESTERDAY": "Dün",
   "ERROR_CSRF_TOKEN": "CSRF belirteci alınamadı.",
   "UPLOAD_ERROR_NO_FILES_SELECTED": "Lütfen yüklemek için dosya seçin.",
   "UPLOAD_ERROR_FILE_MISSING": "Dosyanız yüklenemedi. Silinmiş veya taşınmış olabilir.",

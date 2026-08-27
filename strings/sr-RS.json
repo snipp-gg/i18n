@@ -86,6 +86,8 @@
   "GALLERY_SORT_LARGEST": "Najveće",
   "GALLERY_SORT_SMALLEST": "Najmanje",
   "GALLERY_SORT_LABEL": "Sortiraj",
+  "GALLERY_DATE_TODAY": "Danas",
+  "GALLERY_DATE_YESTERDAY": "Juče",
   "ERROR_CSRF_TOKEN": "Neuspešno dobijanje CSRF tokena.",
   "UPLOAD_ERROR_NO_FILES_SELECTED": "Izaberite fajl(ove) za otpremanje.",
   "UPLOAD_ERROR_FILE_MISSING": "Neuspešno otpremanje fajla. Možda je obrisan ili premešten.",

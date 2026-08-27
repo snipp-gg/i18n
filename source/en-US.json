@@ -86,6 +86,8 @@
   "GALLERY_SORT_LARGEST": "Largest",
   "GALLERY_SORT_SMALLEST": "Smallest",
   "GALLERY_SORT_LABEL": "Sort",
+  "GALLERY_DATE_TODAY": "Today",
+  "GALLERY_DATE_YESTERDAY": "Yesterday",
   "ERROR_CSRF_TOKEN": "Failed to get CSRF token.",
   "UPLOAD_ERROR_NO_FILES_SELECTED": "Please select file(s) to upload.",
   "UPLOAD_ERROR_FILE_MISSING": "Failed to upload your file. It may have been deleted or moved.",

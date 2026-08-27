@@ -86,6 +86,8 @@
   "GALLERY_SORT_LARGEST": "Най-големи",
   "GALLERY_SORT_SMALLEST": "Най-малки",
   "GALLERY_SORT_LABEL": "Сортиране",
+  "GALLERY_DATE_TODAY": "Днес",
+  "GALLERY_DATE_YESTERDAY": "Вчера",
   "ERROR_CSRF_TOKEN": "Неуспешно получаване на CSRF токен.",
   "UPLOAD_ERROR_NO_FILES_SELECTED": "Моля, изберете файл(ове) за качване.",
   "UPLOAD_ERROR_FILE_MISSING": "Неуспешно качване на файла. Възможно е да е изтрит или преместен.",

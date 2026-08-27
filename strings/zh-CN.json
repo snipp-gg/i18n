@@ -86,6 +86,8 @@
   "GALLERY_SORT_LARGEST": "最大",
   "GALLERY_SORT_SMALLEST": "最小",
   "GALLERY_SORT_LABEL": "排序方式",
+  "GALLERY_DATE_TODAY": "今天",
+  "GALLERY_DATE_YESTERDAY": "昨天",
   "ERROR_CSRF_TOKEN": "获取CSRF令牌失败。",
   "UPLOAD_ERROR_NO_FILES_SELECTED": "请选择要上传的文件。",
   "UPLOAD_ERROR_FILE_MISSING": "上传文件失败。该文件可能已被删除或移动。",

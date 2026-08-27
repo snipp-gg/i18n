@@ -86,6 +86,8 @@
   "GALLERY_SORT_LARGEST": "Maiores",
   "GALLERY_SORT_SMALLEST": "Menores",
   "GALLERY_SORT_LABEL": "Ordenar",
+  "GALLERY_DATE_TODAY": "Hoje",
+  "GALLERY_DATE_YESTERDAY": "Ontem",
   "ERROR_CSRF_TOKEN": "Falha ao obter o token CSRF.",
   "UPLOAD_ERROR_NO_FILES_SELECTED": "Selecione o(s) arquivo(s) para enviar.",
   "UPLOAD_ERROR_FILE_MISSING": "Falha ao enviar seu arquivo. Ele pode ter sido excluído ou movido.",

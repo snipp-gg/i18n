@@ -86,6 +86,8 @@
   "GALLERY_SORT_LARGEST": "Più grandi",
   "GALLERY_SORT_SMALLEST": "Più piccoli",
   "GALLERY_SORT_LABEL": "Ordina",
+  "GALLERY_DATE_TODAY": "Oggi",
+  "GALLERY_DATE_YESTERDAY": "Ieri",
   "ERROR_CSRF_TOKEN": "Impossibile ottenere il token CSRF.",
   "UPLOAD_ERROR_NO_FILES_SELECTED": "Seleziona uno o più file da caricare.",
   "UPLOAD_ERROR_FILE_MISSING": "Impossibile caricare il file. Potrebbe essere stato eliminato o spostato.",

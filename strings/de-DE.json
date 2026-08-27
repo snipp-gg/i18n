@@ -86,6 +86,8 @@
   "GALLERY_SORT_LARGEST": "Größte",
   "GALLERY_SORT_SMALLEST": "Kleinste",
   "GALLERY_SORT_LABEL": "Sortieren",
+  "GALLERY_DATE_TODAY": "Heute",
+  "GALLERY_DATE_YESTERDAY": "Gestern",
   "ERROR_CSRF_TOKEN": "CSRF-Token konnte nicht abgerufen werden.",
   "UPLOAD_ERROR_NO_FILES_SELECTED": "Bitte wähle Datei(en) zum Hochladen aus.",
   "UPLOAD_ERROR_FILE_MISSING": "Deine Datei konnte nicht hochgeladen werden. Sie wurde möglicherweise gelöscht oder verschoben.",

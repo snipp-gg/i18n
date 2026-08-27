@@ -86,6 +86,8 @@
   "GALLERY_SORT_LARGEST": "Cele mai mari",
   "GALLERY_SORT_SMALLEST": "Cele mai mici",
   "GALLERY_SORT_LABEL": "Sortează",
+  "GALLERY_DATE_TODAY": "Astăzi",
+  "GALLERY_DATE_YESTERDAY": "Ieri",
   "ERROR_CSRF_TOKEN": "Nu s-a putut obține tokenul CSRF.",
   "UPLOAD_ERROR_NO_FILES_SELECTED": "Te rugăm să selectezi fișiere pentru încărcare.",
   "UPLOAD_ERROR_FILE_MISSING": "Nu s-a putut încărca fișierul. Este posibil să fi fost șters sau mutat.",

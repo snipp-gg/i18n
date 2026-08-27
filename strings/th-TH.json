@@ -86,6 +86,8 @@
   "GALLERY_SORT_LARGEST": "ใหญ่ที่สุด",
   "GALLERY_SORT_SMALLEST": "เล็กที่สุด",
   "GALLERY_SORT_LABEL": "เรียงลำดับ",
+  "GALLERY_DATE_TODAY": "วันนี้",
+  "GALLERY_DATE_YESTERDAY": "เมื่อวาน",
   "ERROR_CSRF_TOKEN": "ไม่สามารถรับโทเค็น CSRF",
   "UPLOAD_ERROR_NO_FILES_SELECTED": "กรุณาเลือกไฟล์เพื่ออัปโหลด",
   "UPLOAD_ERROR_FILE_MISSING": "ไม่สามารถอัปโหลดไฟล์ของคุณได้ ไฟล์อาจถูกลบหรือย้าย",

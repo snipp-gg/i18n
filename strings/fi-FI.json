@@ -86,6 +86,8 @@
   "GALLERY_SORT_LARGEST": "Suurin",
   "GALLERY_SORT_SMALLEST": "Pienin",
   "GALLERY_SORT_LABEL": "Lajittele",
+  "GALLERY_DATE_TODAY": "Tänään",
+  "GALLERY_DATE_YESTERDAY": "Eilen",
   "ERROR_CSRF_TOKEN": "CSRF-tunnuksen haku epäonnistui.",
   "UPLOAD_ERROR_NO_FILES_SELECTED": "Valitse ladattavat tiedostot.",
   "UPLOAD_ERROR_FILE_MISSING": "Tiedoston lataus epäonnistui. Se on saatettu poistaa tai siirtää.",

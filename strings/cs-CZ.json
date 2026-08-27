@@ -86,6 +86,8 @@
   "GALLERY_SORT_LARGEST": "Největší",
   "GALLERY_SORT_SMALLEST": "Nejmenší",
   "GALLERY_SORT_LABEL": "Řadit",
+  "GALLERY_DATE_TODAY": "Dnes",
+  "GALLERY_DATE_YESTERDAY": "Včera",
   "ERROR_CSRF_TOKEN": "Nepodařilo se získat CSRF token.",
   "UPLOAD_ERROR_NO_FILES_SELECTED": "Vyberte soubor(y) k nahrání.",
   "UPLOAD_ERROR_FILE_MISSING": "Nepodařilo se nahrát váš soubor. Možná byl smazán nebo přesunut.",

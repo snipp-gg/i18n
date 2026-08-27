@@ -86,6 +86,8 @@
   "GALLERY_SORT_LARGEST": "Störst",
   "GALLERY_SORT_SMALLEST": "Minst",
   "GALLERY_SORT_LABEL": "Sortera",
+  "GALLERY_DATE_TODAY": "Idag",
+  "GALLERY_DATE_YESTERDAY": "Igår",
   "ERROR_CSRF_TOKEN": "Kunde inte hämta CSRF-token.",
   "UPLOAD_ERROR_NO_FILES_SELECTED": "Välj fil(er) att ladda upp.",
   "UPLOAD_ERROR_FILE_MISSING": "Kunde inte ladda upp din fil. Den kan ha raderats eller flyttats.",
