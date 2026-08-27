@@ -132,6 +132,7 @@
   "UPLOAD_ERROR_FILES_RETRY": "ファイルのアップロードに失敗しました。もう一度お試しください。",
   "GALLERY_PAGINATION_PAGE_OF": "{total} ページ中 {current} ページ",
   "GALLERY_SELECT_ALL": "Select all",
+  "GALLERY_SELECT": "Select",
   "GALLERY_SELECTED_COUNT": "{count} selected",
   "GALLERY_COPY_LINK": "Copy link",
   "GALLERY_COPY_LINKS": "Copy links",
