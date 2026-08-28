@@ -126,6 +126,8 @@
   "UPLOAD_ERROR_FILES_RETRY": "파일들을 업로드하지 못했습니다. 다시 시도해 주세요.",
   "GALLERY_SELECT_ALL": "전체 선택",
   "GALLERY_SELECT": "선택",
+  "GALLERY_SEARCH_PLACEHOLDER": "갤러리 검색",
+  "GALLERY_SEARCH_NO_RESULTS": "검색과 일치하는 업로드가 없습니다.",
   "GALLERY_SELECTED_COUNT": "{count}개 선택됨",
   "GALLERY_COPY_LINK": "링크 복사",
   "GALLERY_COPY_LINKS": "링크 복사",

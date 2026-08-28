@@ -126,6 +126,8 @@
   "UPLOAD_ERROR_FILES_RETRY": "Nu s-au putut încărca fișierele. Te rugăm să încerci din nou.",
   "GALLERY_SELECT_ALL": "Selectează tot",
   "GALLERY_SELECT": "Selectează",
+  "GALLERY_SEARCH_PLACEHOLDER": "Caută în galeria ta",
+  "GALLERY_SEARCH_NO_RESULTS": "Nicio încărcare nu corespunde căutării tale.",
   "GALLERY_SELECTED_COUNT": "{count} selectate",
   "GALLERY_COPY_LINK": "Copiază linkul",
   "GALLERY_COPY_LINKS": "Copiază linkurile",

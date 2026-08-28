@@ -126,6 +126,8 @@
   "UPLOAD_ERROR_FILES_RETRY": "Неуспешно качване на файловете. Моля, опитайте отново.",
   "GALLERY_SELECT_ALL": "Избери всички",
   "GALLERY_SELECT": "Избери",
+  "GALLERY_SEARCH_PLACEHOLDER": "Търсете в галерията си",
+  "GALLERY_SEARCH_NO_RESULTS": "Няма качвания, съвпадащи с търсенето ви.",
   "GALLERY_SELECTED_COUNT": "{count} избрани",
   "GALLERY_COPY_LINK": "Копиране на връзката",
   "GALLERY_COPY_LINKS": "Копиране на връзките",

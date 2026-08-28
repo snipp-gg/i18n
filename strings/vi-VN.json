@@ -126,6 +126,8 @@
   "UPLOAD_ERROR_FILES_RETRY": "Không thể tải lên các tệp. Vui lòng thử lại.",
   "GALLERY_SELECT_ALL": "Chọn tất cả",
   "GALLERY_SELECT": "Chọn",
+  "GALLERY_SEARCH_PLACEHOLDER": "Tìm kiếm trong thư viện của bạn",
+  "GALLERY_SEARCH_NO_RESULTS": "Không có nội dung tải lên nào khớp với tìm kiếm của bạn.",
   "GALLERY_SELECTED_COUNT": "Đã chọn {count}",
   "GALLERY_COPY_LINK": "Sao chép liên kết",
   "GALLERY_COPY_LINKS": "Sao chép liên kết",

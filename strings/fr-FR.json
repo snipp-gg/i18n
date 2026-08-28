@@ -126,6 +126,8 @@
   "UPLOAD_ERROR_FILES_RETRY": "Échec de l'envoi des fichiers. Veuillez réessayer.",
   "GALLERY_SELECT_ALL": "Tout sélectionner",
   "GALLERY_SELECT": "Sélectionner",
+  "GALLERY_SEARCH_PLACEHOLDER": "Rechercher dans votre galerie",
+  "GALLERY_SEARCH_NO_RESULTS": "Aucun envoi ne correspond à votre recherche.",
   "GALLERY_SELECTED_COUNT": "{count} sélectionnés",
   "GALLERY_COPY_LINK": "Copier le lien",
   "GALLERY_COPY_LINKS": "Copier les liens",

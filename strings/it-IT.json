@@ -126,6 +126,8 @@
   "UPLOAD_ERROR_FILES_RETRY": "Impossibile caricare i file. Riprova.",
   "GALLERY_SELECT_ALL": "Seleziona tutto",
   "GALLERY_SELECT": "Seleziona",
+  "GALLERY_SEARCH_PLACEHOLDER": "Cerca nella tua galleria",
+  "GALLERY_SEARCH_NO_RESULTS": "Nessun caricamento corrisponde alla tua ricerca.",
   "GALLERY_SELECTED_COUNT": "{count} selezionati",
   "GALLERY_COPY_LINK": "Copia link",
   "GALLERY_COPY_LINKS": "Copia link",

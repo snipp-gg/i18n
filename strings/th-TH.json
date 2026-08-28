@@ -126,6 +126,8 @@
   "UPLOAD_ERROR_FILES_RETRY": "ไม่สามารถอัปโหลดไฟล์ได้ กรุณาลองอีกครั้ง",
   "GALLERY_SELECT_ALL": "เลือกทั้งหมด",
   "GALLERY_SELECT": "เลือก",
+  "GALLERY_SEARCH_PLACEHOLDER": "ค้นหาในแกลเลอรีของคุณ",
+  "GALLERY_SEARCH_NO_RESULTS": "ไม่มีการอัปโหลดที่ตรงกับการค้นหาของคุณ",
   "GALLERY_SELECTED_COUNT": "เลือกแล้ว {count} รายการ",
   "GALLERY_COPY_LINK": "คัดลอกลิงก์",
   "GALLERY_COPY_LINKS": "คัดลอกลิงก์",

@@ -126,6 +126,8 @@
   "UPLOAD_ERROR_FILES_RETRY": "Falha ao carregar ficheiros. Por favor tente novamente.",
   "GALLERY_SELECT_ALL": "Selecionar tudo",
   "GALLERY_SELECT": "Selecionar",
+  "GALLERY_SEARCH_PLACEHOLDER": "Pesquise na sua galeria",
+  "GALLERY_SEARCH_NO_RESULTS": "Nenhum carregamento corresponde à sua pesquisa.",
   "GALLERY_SELECTED_COUNT": "{count} selecionados",
   "GALLERY_COPY_LINK": "Copiar link",
   "GALLERY_COPY_LINKS": "Copiar links",

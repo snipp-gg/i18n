@@ -126,6 +126,8 @@
   "UPLOAD_ERROR_FILES_RETRY": "上传文件失败。请重试。",
   "GALLERY_SELECT_ALL": "全选",
   "GALLERY_SELECT": "选择",
+  "GALLERY_SEARCH_PLACEHOLDER": "搜索您的画廊",
+  "GALLERY_SEARCH_NO_RESULTS": "没有与您的搜索匹配的上传内容。",
   "GALLERY_SELECTED_COUNT": "已选择 {count} 项",
   "GALLERY_COPY_LINK": "复制链接",
   "GALLERY_COPY_LINKS": "复制链接",

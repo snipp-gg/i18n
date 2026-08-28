@@ -126,6 +126,8 @@
   "UPLOAD_ERROR_FILES_RETRY": "Kunde inte ladda upp filerna. Försök igen.",
   "GALLERY_SELECT_ALL": "Välj alla",
   "GALLERY_SELECT": "Välj",
+  "GALLERY_SEARCH_PLACEHOLDER": "Sök i ditt galleri",
+  "GALLERY_SEARCH_NO_RESULTS": "Inga uppladdningar matchar din sökning.",
   "GALLERY_SELECTED_COUNT": "{count} valda",
   "GALLERY_COPY_LINK": "Kopiera länk",
   "GALLERY_COPY_LINKS": "Kopiera länkar",

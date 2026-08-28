@@ -126,6 +126,8 @@
   "UPLOAD_ERROR_FILES_RETRY": "Αποτυχία ανεβάσματος αρχείων. Παρακαλούμε δοκιμάστε ξανά.",
   "GALLERY_SELECT_ALL": "Επιλογή όλων",
   "GALLERY_SELECT": "Επιλογή",
+  "GALLERY_SEARCH_PLACEHOLDER": "Αναζήτηση στη γκαλερί σας",
+  "GALLERY_SEARCH_NO_RESULTS": "Κανένα ανέβασμα δεν ταιριάζει με την αναζήτησή σας.",
   "GALLERY_SELECTED_COUNT": "{count} επιλεγμένα",
   "GALLERY_COPY_LINK": "Αντιγραφή συνδέσμου",
   "GALLERY_COPY_LINKS": "Αντιγραφή συνδέσμων",

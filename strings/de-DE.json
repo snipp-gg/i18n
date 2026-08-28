@@ -126,6 +126,8 @@
   "UPLOAD_ERROR_FILES_RETRY": "Dateien konnten nicht hochgeladen werden. Bitte versuche es erneut.",
   "GALLERY_SELECT_ALL": "Alle auswählen",
   "GALLERY_SELECT": "Auswählen",
+  "GALLERY_SEARCH_PLACEHOLDER": "Deine Galerie durchsuchen",
+  "GALLERY_SEARCH_NO_RESULTS": "Keine Uploads entsprechen deiner Suche.",
   "GALLERY_SELECTED_COUNT": "{count} ausgewählt",
   "GALLERY_COPY_LINK": "Link kopieren",
   "GALLERY_COPY_LINKS": "Links kopieren",
