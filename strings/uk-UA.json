@@ -126,7 +126,7 @@
   "UPLOAD_ERROR_FILES_RETRY": "Не вдалося завантажити файли. Спробуйте ще раз.",
   "GALLERY_SELECT_ALL": "Select all",
   "GALLERY_SELECT": "Select",
-  "GALLERY_SEARCH_PLACEHOLDER": "Search your gallery",
+  "GALLERY_SEARCH_PLACEHOLDER": "Search",
   "GALLERY_SEARCH_NO_RESULTS": "No uploads match your search.",
   "GALLERY_SELECTED_COUNT": "{count} selected",
   "GALLERY_COPY_LINK": "Copy link",
