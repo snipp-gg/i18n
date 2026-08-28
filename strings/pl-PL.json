@@ -126,7 +126,7 @@
   "UPLOAD_ERROR_FILES_RETRY": "Nie udało się przesłać plików. Spróbuj ponownie.",
   "GALLERY_SELECT_ALL": "Zaznacz wszystko",
   "GALLERY_SELECT": "Zaznacz",
-  "GALLERY_SEARCH_PLACEHOLDER": "Szukaj w swojej galerii",
+  "GALLERY_SEARCH_PLACEHOLDER": "Szukaj",
   "GALLERY_SEARCH_NO_RESULTS": "Żadne przesłane pliki nie pasują do Twojego wyszukiwania.",
   "GALLERY_SELECTED_COUNT": "Wybrano: {count}",
   "GALLERY_COPY_LINK": "Kopiuj link",

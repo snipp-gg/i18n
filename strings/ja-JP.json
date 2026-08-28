@@ -126,7 +126,7 @@
   "UPLOAD_ERROR_FILES_RETRY": "ファイルのアップロードに失敗しました。もう一度お試しください。",
   "GALLERY_SELECT_ALL": "すべて選択",
   "GALLERY_SELECT": "選択",
-  "GALLERY_SEARCH_PLACEHOLDER": "ギャラリーを検索",
+  "GALLERY_SEARCH_PLACEHOLDER": "検索",
   "GALLERY_SEARCH_NO_RESULTS": "検索に一致するアップロードはありません。",
   "GALLERY_SELECTED_COUNT": "{count} 件選択中",
   "GALLERY_COPY_LINK": "リンクをコピー",

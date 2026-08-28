@@ -126,7 +126,7 @@
   "UPLOAD_ERROR_FILES_RETRY": "फ़ाइलें अपलोड करने में विफल। कृपया फिर से कोशिश करें।",
   "GALLERY_SELECT_ALL": "सभी चुनें",
   "GALLERY_SELECT": "चुनें",
-  "GALLERY_SEARCH_PLACEHOLDER": "अपनी गैलरी में खोजें",
+  "GALLERY_SEARCH_PLACEHOLDER": "खोजें",
   "GALLERY_SEARCH_NO_RESULTS": "आपकी खोज से मेल खाने वाला कोई अपलोड नहीं है।",
   "GALLERY_SELECTED_COUNT": "{count} चुने गए",
   "GALLERY_COPY_LINK": "लिंक कॉपी करें",

@@ -126,7 +126,7 @@
   "UPLOAD_ERROR_FILES_RETRY": "Neuspešno otpremanje fajlova. Pokušajte ponovo.",
   "GALLERY_SELECT_ALL": "Izaberi sve",
   "GALLERY_SELECT": "Izaberi",
-  "GALLERY_SEARCH_PLACEHOLDER": "Pretražite svoju galeriju",
+  "GALLERY_SEARCH_PLACEHOLDER": "Pretraga",
   "GALLERY_SEARCH_NO_RESULTS": "Nijedno otpremanje ne odgovara vašoj pretrazi.",
   "GALLERY_SELECTED_COUNT": "Izabrano: {count}",
   "GALLERY_COPY_LINK": "Kopiraj link",

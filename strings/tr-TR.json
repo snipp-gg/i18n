@@ -126,7 +126,7 @@
   "UPLOAD_ERROR_FILES_RETRY": "Dosyalar yüklenemedi. Lütfen tekrar deneyin.",
   "GALLERY_SELECT_ALL": "Tümünü seç",
   "GALLERY_SELECT": "Seç",
-  "GALLERY_SEARCH_PLACEHOLDER": "Galerinizde arayın",
+  "GALLERY_SEARCH_PLACEHOLDER": "Ara",
   "GALLERY_SEARCH_NO_RESULTS": "Aramanızla eşleşen yükleme yok.",
   "GALLERY_SELECTED_COUNT": "{count} seçildi",
   "GALLERY_COPY_LINK": "Bağlantıyı kopyala",

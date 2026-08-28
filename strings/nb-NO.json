@@ -126,7 +126,7 @@
   "UPLOAD_ERROR_FILES_RETRY": "Kunne ikke laste opp filene. Prøv igjen.",
   "GALLERY_SELECT_ALL": "Velg alle",
   "GALLERY_SELECT": "Velg",
-  "GALLERY_SEARCH_PLACEHOLDER": "Søk i galleriet ditt",
+  "GALLERY_SEARCH_PLACEHOLDER": "Søk",
   "GALLERY_SEARCH_NO_RESULTS": "Ingen opplastinger samsvarer med søket ditt.",
   "GALLERY_SELECTED_COUNT": "{count} valgt",
   "GALLERY_COPY_LINK": "Kopier lenke",

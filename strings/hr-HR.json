@@ -126,7 +126,7 @@
   "UPLOAD_ERROR_FILES_RETRY": "Prijenos datoteka nije uspio. Pokušaj ponovno.",
   "GALLERY_SELECT_ALL": "Odaberi sve",
   "GALLERY_SELECT": "Odaberi",
-  "GALLERY_SEARCH_PLACEHOLDER": "Pretraži svoju galeriju",
+  "GALLERY_SEARCH_PLACEHOLDER": "Pretraži",
   "GALLERY_SEARCH_NO_RESULTS": "Nijedan prijenos ne odgovara tvojoj pretrazi.",
   "GALLERY_SELECTED_COUNT": "Odabrano: {count}",
   "GALLERY_COPY_LINK": "Kopiraj poveznicu",

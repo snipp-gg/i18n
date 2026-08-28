@@ -126,7 +126,7 @@
   "UPLOAD_ERROR_FILES_RETRY": "Nepodařilo se nahrát soubory. Zkuste to prosím znovu.",
   "GALLERY_SELECT_ALL": "Vybrat vše",
   "GALLERY_SELECT": "Vybrat",
-  "GALLERY_SEARCH_PLACEHOLDER": "Hledat ve vaší galerii",
+  "GALLERY_SEARCH_PLACEHOLDER": "Hledat",
   "GALLERY_SEARCH_NO_RESULTS": "Vašemu hledání neodpovídají žádné nahrané soubory.",
   "GALLERY_SELECTED_COUNT": "Vybráno: {count}",
   "GALLERY_COPY_LINK": "Kopírovat odkaz",

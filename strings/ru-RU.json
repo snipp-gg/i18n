@@ -126,7 +126,7 @@
   "UPLOAD_ERROR_FILES_RETRY": "Не удалось загрузить файлы. Попробуйте ещё раз.",
   "GALLERY_SELECT_ALL": "Выбрать все",
   "GALLERY_SELECT": "Выбрать",
-  "GALLERY_SEARCH_PLACEHOLDER": "Поиск по вашей галерее",
+  "GALLERY_SEARCH_PLACEHOLDER": "Поиск",
   "GALLERY_SEARCH_NO_RESULTS": "Нет загрузок, соответствующих вашему запросу.",
   "GALLERY_SELECTED_COUNT": "Выбрано: {count}",
   "GALLERY_COPY_LINK": "Копировать ссылку",
