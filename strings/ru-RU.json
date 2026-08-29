@@ -1902,7 +1902,6 @@
   "SETTINGS_TEAMS_KEY_HEADING": "Ключ доступа команды",
   "SETTINGS_TEAMS_KEY_DESCRIPTION": "Любой, у кого есть этот ключ, может загружать в галерею команды. Как владелец команды, только вы можете повторно создать или удалить его.",
   "SETTINGS_TEAMS_GENERATE_KEY": "Создать ключ доступа",
-  "SETTINGS_TEAMS_DOWNLOAD_CONFIG": "Конфигурация",
   "SETTINGS_TEAMS_KEY_REGENERATE_TITLE": "Создать новый ключ команды",
   "SETTINGS_TEAMS_KEY_DELETE_TITLE": "Удалить ключ команды",
   "SETTINGS_TEAMS_CONFIRM_KEY_REGENERATE": "Старый ключ немедленно перестанет работать. Всем, кто его использует, понадобится новый ключ.",

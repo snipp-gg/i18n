@@ -1902,7 +1902,6 @@
   "SETTINGS_TEAMS_KEY_HEADING": "टीम एक्सेस की",
   "SETTINGS_TEAMS_KEY_DESCRIPTION": "इस की वाला कोई भी व्यक्ति टीम गैलरी में अपलोड कर सकता है। टीम मालिक के रूप में, सिर्फ़ आप ही इसे फिर से जेनरेट या डिलीट कर सकते हैं।",
   "SETTINGS_TEAMS_GENERATE_KEY": "एक्सेस की बनाएँ",
-  "SETTINGS_TEAMS_DOWNLOAD_CONFIG": "कॉन्फ़िग",
   "SETTINGS_TEAMS_KEY_REGENERATE_TITLE": "टीम की फिर से जेनरेट करें",
   "SETTINGS_TEAMS_KEY_DELETE_TITLE": "टीम की डिलीट करें",
   "SETTINGS_TEAMS_CONFIRM_KEY_REGENERATE": "पुरानी की तुरंत काम करना बंद कर देगी। इसे इस्तेमाल करने वाले किसी भी व्यक्ति को नई की की ज़रूरत होगी।",

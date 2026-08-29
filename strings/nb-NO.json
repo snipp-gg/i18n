@@ -1902,7 +1902,6 @@
   "SETTINGS_TEAMS_KEY_HEADING": "Teamtilgangsnøkkel",
   "SETTINGS_TEAMS_KEY_DESCRIPTION": "Alle med denne nøkkelen kan laste opp til teamgalleriet. Som teameier er det bare du som kan regenerere eller slette den.",
   "SETTINGS_TEAMS_GENERATE_KEY": "Opprett tilgangsnøkkel",
-  "SETTINGS_TEAMS_DOWNLOAD_CONFIG": "Konfigurasjon",
   "SETTINGS_TEAMS_KEY_REGENERATE_TITLE": "Regenerer teamnøkkel",
   "SETTINGS_TEAMS_KEY_DELETE_TITLE": "Slett teamnøkkel",
   "SETTINGS_TEAMS_CONFIRM_KEY_REGENERATE": "Den gamle nøkkelen vil slutte å fungere umiddelbart. Alle som bruker den vil trenge den nye nøkkelen.",

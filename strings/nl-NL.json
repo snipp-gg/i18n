@@ -1902,7 +1902,6 @@
   "SETTINGS_TEAMS_KEY_HEADING": "Teamtoegangssleutel",
   "SETTINGS_TEAMS_KEY_DESCRIPTION": "Iedereen met deze sleutel kan uploaden naar de teamgalerij. Als teameigenaar kun alleen jij hem opnieuw genereren of verwijderen.",
   "SETTINGS_TEAMS_GENERATE_KEY": "Toegangssleutel aanmaken",
-  "SETTINGS_TEAMS_DOWNLOAD_CONFIG": "Config",
   "SETTINGS_TEAMS_KEY_REGENERATE_TITLE": "Teamsleutel opnieuw genereren",
   "SETTINGS_TEAMS_KEY_DELETE_TITLE": "Teamsleutel verwijderen",
   "SETTINGS_TEAMS_CONFIRM_KEY_REGENERATE": "De oude sleutel stopt direct met werken. Iedereen die hem gebruikt heeft de nieuwe sleutel nodig.",

@@ -1902,7 +1902,6 @@
   "SETTINGS_TEAMS_KEY_HEADING": "Kunci Akses Tim",
   "SETTINGS_TEAMS_KEY_DESCRIPTION": "Siapa pun dengan kunci ini dapat mengunggah ke galeri tim. Sebagai pemilik tim, hanya Anda yang dapat membuat ulang atau menghapusnya.",
   "SETTINGS_TEAMS_GENERATE_KEY": "Buat Kunci Akses",
-  "SETTINGS_TEAMS_DOWNLOAD_CONFIG": "Konfigurasi",
   "SETTINGS_TEAMS_KEY_REGENERATE_TITLE": "Buat ulang kunci tim",
   "SETTINGS_TEAMS_KEY_DELETE_TITLE": "Hapus kunci tim",
   "SETTINGS_TEAMS_CONFIRM_KEY_REGENERATE": "Kunci lama akan langsung berhenti berfungsi. Siapa pun yang menggunakannya membutuhkan kunci baru.",

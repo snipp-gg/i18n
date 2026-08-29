@@ -1902,7 +1902,6 @@
   "SETTINGS_TEAMS_KEY_HEADING": "团队访问密钥",
   "SETTINGS_TEAMS_KEY_DESCRIPTION": "任何拥有此密钥的人都可以上传到团队图库。但只有作为团队所有者的您才能重新生成或删除此密钥。",
   "SETTINGS_TEAMS_GENERATE_KEY": "创建访问密钥",
-  "SETTINGS_TEAMS_DOWNLOAD_CONFIG": "配置",
   "SETTINGS_TEAMS_KEY_REGENERATE_TITLE": "重新生成团队密钥",
   "SETTINGS_TEAMS_KEY_DELETE_TITLE": "删除团队密钥",
   "SETTINGS_TEAMS_CONFIRM_KEY_REGENERATE": "旧密钥将立即失效。任何使用它的人都需要新密钥。",

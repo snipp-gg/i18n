@@ -1902,7 +1902,6 @@
   "SETTINGS_TEAMS_KEY_HEADING": "Clé d'accès de l'équipe",
   "SETTINGS_TEAMS_KEY_DESCRIPTION": "Toute personne disposant de cette clé peut publier dans la galerie de l'équipe. En tant que propriétaire de l'équipe, vous seul pouvez la régénérer ou la supprimer.",
   "SETTINGS_TEAMS_GENERATE_KEY": "Créer une clé d'accès",
-  "SETTINGS_TEAMS_DOWNLOAD_CONFIG": "Config",
   "SETTINGS_TEAMS_KEY_REGENERATE_TITLE": "Régénérer la clé de l'équipe",
   "SETTINGS_TEAMS_KEY_DELETE_TITLE": "Supprimer la clé de l'équipe",
   "SETTINGS_TEAMS_CONFIRM_KEY_REGENERATE": "L'ancienne clé cessera de fonctionner immédiatement. Toute personne l'utilisant aura besoin de la nouvelle clé.",

@@ -1902,7 +1902,6 @@
   "SETTINGS_TEAMS_KEY_HEADING": "คีย์การเข้าถึงทีม",
   "SETTINGS_TEAMS_KEY_DESCRIPTION": "ทุกคนที่มีคีย์นี้สามารถอัปโหลดไปยังแกลเลอรีทีมได้ ในฐานะเจ้าของทีม มีเพียงคุณเท่านั้นที่สามารถสร้างใหม่หรือลบได้",
   "SETTINGS_TEAMS_GENERATE_KEY": "สร้างคีย์การเข้าถึง",
-  "SETTINGS_TEAMS_DOWNLOAD_CONFIG": "การกำหนดค่า",
   "SETTINGS_TEAMS_KEY_REGENERATE_TITLE": "สร้างคีย์ทีมใหม่",
   "SETTINGS_TEAMS_KEY_DELETE_TITLE": "ลบคีย์ทีม",
   "SETTINGS_TEAMS_CONFIRM_KEY_REGENERATE": "คีย์เก่าจะหยุดทำงานทันที ทุกคนที่ใช้คีย์นั้นจะต้องใช้คีย์ใหม่",

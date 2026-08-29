@@ -1902,7 +1902,6 @@
   "SETTINGS_TEAMS_KEY_HEADING": "Ключ за достъп на отбора",
   "SETTINGS_TEAMS_KEY_DESCRIPTION": "Всеки с този ключ може да качва в галерията на отбора. Като собственик на отбора, само вие можете да го генерирате повторно или изтриете.",
   "SETTINGS_TEAMS_GENERATE_KEY": "Създаване на ключ за достъп",
-  "SETTINGS_TEAMS_DOWNLOAD_CONFIG": "Конфигурация",
   "SETTINGS_TEAMS_KEY_REGENERATE_TITLE": "Повторно генериране на ключ на отбора",
   "SETTINGS_TEAMS_KEY_DELETE_TITLE": "Изтриване на ключ на отбора",
   "SETTINGS_TEAMS_CONFIRM_KEY_REGENERATE": "Старият ключ ще спре да работи незабавно. Всеки, който го използва, ще се нуждае от новия ключ.",

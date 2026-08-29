@@ -1902,7 +1902,6 @@
   "SETTINGS_TEAMS_KEY_HEADING": "Cheia de acces a echipei",
   "SETTINGS_TEAMS_KEY_DESCRIPTION": "Oricine are această cheie poate încărca în galeria echipei. Ca proprietar al echipei, doar tu o poți regenera sau șterge.",
   "SETTINGS_TEAMS_GENERATE_KEY": "Creează cheie de acces",
-  "SETTINGS_TEAMS_DOWNLOAD_CONFIG": "Configurare",
   "SETTINGS_TEAMS_KEY_REGENERATE_TITLE": "Regenerează cheia echipei",
   "SETTINGS_TEAMS_KEY_DELETE_TITLE": "Șterge cheia echipei",
   "SETTINGS_TEAMS_CONFIRM_KEY_REGENERATE": "Cheia veche va înceta imediat să funcționeze. Oricine o folosește va avea nevoie de cheia nouă.",

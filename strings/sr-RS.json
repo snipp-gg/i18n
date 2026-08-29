@@ -1902,7 +1902,6 @@
   "SETTINGS_TEAMS_KEY_HEADING": "Pristupni ključ tima",
   "SETTINGS_TEAMS_KEY_DESCRIPTION": "Svako sa ovim ključem može otpremati u timsku galeriju. Kao vlasnik tima, samo vi ga možete regenerisati ili obrisati.",
   "SETTINGS_TEAMS_GENERATE_KEY": "Kreiraj pristupni ključ",
-  "SETTINGS_TEAMS_DOWNLOAD_CONFIG": "Konfiguracija",
   "SETTINGS_TEAMS_KEY_REGENERATE_TITLE": "Regeneriši timski ključ",
   "SETTINGS_TEAMS_KEY_DELETE_TITLE": "Obriši timski ključ",
   "SETTINGS_TEAMS_CONFIRM_KEY_REGENERATE": "Stari ključ će odmah prestati da radi. Svako ko ga koristi će morati novi ključ.",

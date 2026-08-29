@@ -1902,7 +1902,6 @@
   "SETTINGS_TEAMS_KEY_HEADING": "Klucz dostępu zespołu",
   "SETTINGS_TEAMS_KEY_DESCRIPTION": "Każdy, kto ma ten klucz, może przesyłać do galerii zespołu. Jako właściciel zespołu tylko ty możesz go ponownie wygenerować lub usunąć.",
   "SETTINGS_TEAMS_GENERATE_KEY": "Utwórz klucz dostępu",
-  "SETTINGS_TEAMS_DOWNLOAD_CONFIG": "Konfiguracja",
   "SETTINGS_TEAMS_KEY_REGENERATE_TITLE": "Wygeneruj ponownie klucz zespołu",
   "SETTINGS_TEAMS_KEY_DELETE_TITLE": "Usuń klucz zespołu",
   "SETTINGS_TEAMS_CONFIRM_KEY_REGENERATE": "Stary klucz natychmiast przestanie działać. Każdy, kto go używa, będzie potrzebował nowego klucza.",

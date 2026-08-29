@@ -1902,7 +1902,6 @@
   "SETTINGS_TEAMS_KEY_HEADING": "Teamets åtkomstnyckel",
   "SETTINGS_TEAMS_KEY_DESCRIPTION": "Alla med denna nyckel kan ladda upp till teamets galleri. Som teamägare kan endast du återskapa eller radera den.",
   "SETTINGS_TEAMS_GENERATE_KEY": "Skapa åtkomstnyckel",
-  "SETTINGS_TEAMS_DOWNLOAD_CONFIG": "Konfiguration",
   "SETTINGS_TEAMS_KEY_REGENERATE_TITLE": "Återskapa teamnyckel",
   "SETTINGS_TEAMS_KEY_DELETE_TITLE": "Radera teamnyckel",
   "SETTINGS_TEAMS_CONFIRM_KEY_REGENERATE": "Den gamla nyckeln slutar fungera omedelbart. Alla som använder den behöver den nya nyckeln.",

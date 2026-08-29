@@ -1902,7 +1902,6 @@
   "SETTINGS_TEAMS_KEY_HEADING": "Tiimin käyttöavain",
   "SETTINGS_TEAMS_KEY_DESCRIPTION": "Kuka tahansa, jolla on tämä avain, voi ladata tiimigalleriaan. Tiimin omistajana vain sinä voit luoda sen uudelleen tai poistaa sen.",
   "SETTINGS_TEAMS_GENERATE_KEY": "Luo käyttöavain",
-  "SETTINGS_TEAMS_DOWNLOAD_CONFIG": "Määritys",
   "SETTINGS_TEAMS_KEY_REGENERATE_TITLE": "Luo tiimin avain uudelleen",
   "SETTINGS_TEAMS_KEY_DELETE_TITLE": "Poista tiimin avain",
   "SETTINGS_TEAMS_CONFIRM_KEY_REGENERATE": "Vanha avain lakkaa toimimasta välittömästi. Kaikki sitä käyttävät tarvitsevat uuden avaimen.",

@@ -1902,7 +1902,6 @@
   "SETTINGS_TEAMS_KEY_HEADING": "Access Key ng Team",
   "SETTINGS_TEAMS_KEY_DESCRIPTION": "Sinumang may key na ito ay maaaring mag-upload sa team gallery. Bilang may-ari ng team, ikaw lang ang makakapag-regenerate o magbubura nito.",
   "SETTINGS_TEAMS_GENERATE_KEY": "Gumawa ng Access Key",
-  "SETTINGS_TEAMS_DOWNLOAD_CONFIG": "Config",
   "SETTINGS_TEAMS_KEY_REGENERATE_TITLE": "I-regenerate ang key ng team",
   "SETTINGS_TEAMS_KEY_DELETE_TITLE": "Burahin ang key ng team",
   "SETTINGS_TEAMS_CONFIRM_KEY_REGENERATE": "Hihinto agad sa paggana ang lumang key. Kakailanganin ng bagong key ng sinumang gumagamit nito.",

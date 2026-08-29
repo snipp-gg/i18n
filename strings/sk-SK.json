@@ -1902,7 +1902,6 @@
   "SETTINGS_TEAMS_KEY_HEADING": "Prístupový kľúč tímu",
   "SETTINGS_TEAMS_KEY_DESCRIPTION": "Ktokoľvek s týmto kľúčom môže nahrávať do tímovej galérie. Ako vlastník tímu ho môžeš znova vygenerovať alebo odstrániť len ty.",
   "SETTINGS_TEAMS_GENERATE_KEY": "Vytvoriť prístupový kľúč",
-  "SETTINGS_TEAMS_DOWNLOAD_CONFIG": "Konfigurácia",
   "SETTINGS_TEAMS_KEY_REGENERATE_TITLE": "Vygenerovať tímový kľúč znova",
   "SETTINGS_TEAMS_KEY_DELETE_TITLE": "Odstrániť tímový kľúč",
   "SETTINGS_TEAMS_CONFIRM_KEY_REGENERATE": "Starý kľúč okamžite prestane fungovať. Každý, kto ho používa, bude potrebovať nový kľúč.",

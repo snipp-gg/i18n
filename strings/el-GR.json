@@ -1902,7 +1902,6 @@
   "SETTINGS_TEAMS_KEY_HEADING": "Κλειδί Πρόσβασης Ομάδας",
   "SETTINGS_TEAMS_KEY_DESCRIPTION": "Όποιος έχει αυτό το κλειδί μπορεί να ανεβάζει στη γκαλερί της ομάδας. Ως ιδιοκτήτης της ομάδας, μόνο εσείς μπορείτε να το αναδημιουργήσετε ή να το διαγράψετε.",
   "SETTINGS_TEAMS_GENERATE_KEY": "Δημιουργία Κλειδιού Πρόσβασης",
-  "SETTINGS_TEAMS_DOWNLOAD_CONFIG": "Ρύθμιση",
   "SETTINGS_TEAMS_KEY_REGENERATE_TITLE": "Αναδημιουργία κλειδιού ομάδας",
   "SETTINGS_TEAMS_KEY_DELETE_TITLE": "Διαγραφή κλειδιού ομάδας",
   "SETTINGS_TEAMS_CONFIRM_KEY_REGENERATE": "Το παλιό κλειδί θα σταματήσει να λειτουργεί αμέσως. Όποιος το χρησιμοποιεί θα χρειαστεί το νέο κλειδί.",

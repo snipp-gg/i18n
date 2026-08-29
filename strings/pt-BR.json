@@ -1902,7 +1902,6 @@
   "SETTINGS_TEAMS_KEY_HEADING": "Chave de acesso da equipe",
   "SETTINGS_TEAMS_KEY_DESCRIPTION": "Qualquer pessoa com esta chave pode enviar para a galeria da equipe. Como proprietário da equipe, só você pode regenerá-la ou excluí-la.",
   "SETTINGS_TEAMS_GENERATE_KEY": "Criar chave de acesso",
-  "SETTINGS_TEAMS_DOWNLOAD_CONFIG": "Config",
   "SETTINGS_TEAMS_KEY_REGENERATE_TITLE": "Regenerar chave da equipe",
   "SETTINGS_TEAMS_KEY_DELETE_TITLE": "Excluir chave da equipe",
   "SETTINGS_TEAMS_CONFIRM_KEY_REGENERATE": "A chave antiga deixará de funcionar imediatamente. Quem a usa precisará da nova chave.",

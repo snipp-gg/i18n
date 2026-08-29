@@ -1902,7 +1902,6 @@
   "SETTINGS_TEAMS_KEY_HEADING": "Team-Zugriffsschlüssel",
   "SETTINGS_TEAMS_KEY_DESCRIPTION": "Jeder mit diesem Schlüssel kann in die Teamgalerie hochladen. Als Teaminhaber kannst nur du ihn neu generieren oder löschen.",
   "SETTINGS_TEAMS_GENERATE_KEY": "Zugriffsschlüssel erstellen",
-  "SETTINGS_TEAMS_DOWNLOAD_CONFIG": "Config",
   "SETTINGS_TEAMS_KEY_REGENERATE_TITLE": "Teamschlüssel neu generieren",
   "SETTINGS_TEAMS_KEY_DELETE_TITLE": "Teamschlüssel löschen",
   "SETTINGS_TEAMS_CONFIRM_KEY_REGENERATE": "Der alte Schlüssel funktioniert sofort nicht mehr. Jeder, der ihn nutzt, braucht den neuen Schlüssel.",

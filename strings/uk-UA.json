@@ -1902,7 +1902,6 @@
   "SETTINGS_TEAMS_KEY_HEADING": "Ключ доступу команди",
   "SETTINGS_TEAMS_KEY_DESCRIPTION": "Будь-хто з цим ключем може завантажувати до галереї команди. Як власник команди, лише ви можете створити його заново або видалити.",
   "SETTINGS_TEAMS_GENERATE_KEY": "Створити ключ доступу",
-  "SETTINGS_TEAMS_DOWNLOAD_CONFIG": "Конфіг",
   "SETTINGS_TEAMS_KEY_REGENERATE_TITLE": "Створити новий ключ команди",
   "SETTINGS_TEAMS_KEY_DELETE_TITLE": "Видалити ключ команди",
   "SETTINGS_TEAMS_CONFIRM_KEY_REGENERATE": "Старий ключ негайно перестане працювати. Усім, хто його використовує, знадобиться новий ключ.",

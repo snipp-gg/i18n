@@ -1902,7 +1902,6 @@
   "SETTINGS_TEAMS_KEY_HEADING": "Khóa truy cập nhóm",
   "SETTINGS_TEAMS_KEY_DESCRIPTION": "Bất kỳ ai có khóa này đều có thể tải lên thư viện nhóm. Là chủ sở hữu nhóm, chỉ bạn mới có thể tạo lại hoặc xóa nó.",
   "SETTINGS_TEAMS_GENERATE_KEY": "Tạo khóa truy cập",
-  "SETTINGS_TEAMS_DOWNLOAD_CONFIG": "Cấu hình",
   "SETTINGS_TEAMS_KEY_REGENERATE_TITLE": "Tạo lại khóa nhóm",
   "SETTINGS_TEAMS_KEY_DELETE_TITLE": "Xóa khóa nhóm",
   "SETTINGS_TEAMS_CONFIRM_KEY_REGENERATE": "Khóa cũ sẽ ngừng hoạt động ngay lập tức. Bất kỳ ai đang dùng nó sẽ cần khóa mới.",

@@ -1902,7 +1902,6 @@
   "SETTINGS_TEAMS_KEY_HEADING": "Takım erişim anahtarı",
   "SETTINGS_TEAMS_KEY_DESCRIPTION": "Bu anahtara sahip herkes takım galerisine yükleme yapabilir. Takım sahibi olarak yalnızca sen onu yeniden oluşturabilir veya silebilirsin.",
   "SETTINGS_TEAMS_GENERATE_KEY": "Erişim anahtarı oluştur",
-  "SETTINGS_TEAMS_DOWNLOAD_CONFIG": "Yapılandırma",
   "SETTINGS_TEAMS_KEY_REGENERATE_TITLE": "Takım anahtarını yeniden oluştur",
   "SETTINGS_TEAMS_KEY_DELETE_TITLE": "Takım anahtarını sil",
   "SETTINGS_TEAMS_CONFIRM_KEY_REGENERATE": "Eski anahtar hemen çalışmayı durduracak. Onu kullanan herkesin yeni anahtara ihtiyacı olacak.",

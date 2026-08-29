@@ -1902,7 +1902,6 @@
   "SETTINGS_TEAMS_KEY_HEADING": "チームアクセスキー",
   "SETTINGS_TEAMS_KEY_DESCRIPTION": "このキーを持っている人は誰でもチームギャラリーにアップロードできます。チームオーナーであるあなただけが、再生成または削除できます。",
   "SETTINGS_TEAMS_GENERATE_KEY": "アクセスキーを作成",
-  "SETTINGS_TEAMS_DOWNLOAD_CONFIG": "Config",
   "SETTINGS_TEAMS_KEY_REGENERATE_TITLE": "チームキーを再生成",
   "SETTINGS_TEAMS_KEY_DELETE_TITLE": "チームキーを削除",
   "SETTINGS_TEAMS_CONFIRM_KEY_REGENERATE": "古いキーは直ちに使用できなくなります。それを使用している人は新しいキーが必要になります。",

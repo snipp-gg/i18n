@@ -1902,7 +1902,6 @@
   "SETTINGS_TEAMS_KEY_HEADING": "Clave de acceso del equipo",
   "SETTINGS_TEAMS_KEY_DESCRIPTION": "Cualquiera con esta clave puede subir a la galería del equipo. Como propietario del equipo, solo tú puedes regenerarla o eliminarla.",
   "SETTINGS_TEAMS_GENERATE_KEY": "Crear clave de acceso",
-  "SETTINGS_TEAMS_DOWNLOAD_CONFIG": "Configuración",
   "SETTINGS_TEAMS_KEY_REGENERATE_TITLE": "Regenerar clave del equipo",
   "SETTINGS_TEAMS_KEY_DELETE_TITLE": "Eliminar clave del equipo",
   "SETTINGS_TEAMS_CONFIRM_KEY_REGENERATE": "La clave antigua dejará de funcionar de inmediato. Quien la use necesitará la nueva clave.",
