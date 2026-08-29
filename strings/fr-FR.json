@@ -1902,7 +1902,6 @@
   "SETTINGS_TEAMS_KEY_HEADING": "Team Access Key",
   "SETTINGS_TEAMS_KEY_DESCRIPTION": "Anyone with this key can upload to the team gallery. As the team owner, only you can regenerate or delete it.",
   "SETTINGS_TEAMS_GENERATE_KEY": "Create Access Key",
-  "SETTINGS_TEAMS_DOWNLOAD_CONFIG": "Config",
   "SETTINGS_TEAMS_KEY_REGENERATE_TITLE": "Regenerate team key",
   "SETTINGS_TEAMS_KEY_DELETE_TITLE": "Delete team key",
   "SETTINGS_TEAMS_CONFIRM_KEY_REGENERATE": "The old key will stop working immediately. Anyone using it will need the new key.",
