@@ -1363,6 +1363,7 @@
   "SETTINGS_LINKED_ACCOUNTS_ERROR_GENERIC": "Nešto je pošlo po zlu. Pokušaj ponovno.",
   "SETTINGS_ACCOUNT_PROTECTION_LABEL": "Napredna zaštita računa",
   "SETTINGS_ACCOUNT_PROTECTION_HINT": "Koristi magične poveznice umjesto kodova od 6 znakova radi sprječavanja napada grubom silom.",
+  "SETTINGS_ACCOUNT_PROTECTION_STAFF_HINT": "Koristi magične poveznice umjesto kodova od 6 znakova radi sprječavanja napada grubom silom. Uvijek uključena za račune osoblja.",
   "SETTINGS_ACCOUNT_PROTECTION_TOAST_ENABLED": "Napredna zaštita računa uključena.",
   "SETTINGS_ACCOUNT_PROTECTION_TOAST_DISABLED": "Napredna zaštita računa isključena.",
   "SETTINGS_SESSIONS_HEADING": "Uređaji",

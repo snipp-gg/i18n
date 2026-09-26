@@ -1363,6 +1363,7 @@
   "SETTINGS_LINKED_ACCOUNTS_ERROR_GENERIC": "Algo salió mal. Inténtalo de nuevo.",
   "SETTINGS_ACCOUNT_PROTECTION_LABEL": "Protección Avanzada de Cuenta",
   "SETTINGS_ACCOUNT_PROTECTION_HINT": "Usa enlaces mágicos en lugar de códigos de 6 caracteres para evitar ataques de fuerza bruta.",
+  "SETTINGS_ACCOUNT_PROTECTION_STAFF_HINT": "Usa enlaces mágicos en lugar de códigos de 6 caracteres para evitar ataques de fuerza bruta. Siempre activada para las cuentas del equipo.",
   "SETTINGS_ACCOUNT_PROTECTION_TOAST_ENABLED": "Protección Avanzada de Cuenta activada.",
   "SETTINGS_ACCOUNT_PROTECTION_TOAST_DISABLED": "Protección Avanzada de Cuenta desactivada.",
   "SETTINGS_SESSIONS_HEADING": "Dispositivos",
