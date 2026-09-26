@@ -1363,6 +1363,7 @@
   "SETTINGS_LINKED_ACCOUNTS_ERROR_GENERIC": "Etwas ist schiefgelaufen. Bitte versuche es erneut.",
   "SETTINGS_ACCOUNT_PROTECTION_LABEL": "Erweiterter Kontoschutz",
   "SETTINGS_ACCOUNT_PROTECTION_HINT": "Verwendet Magic Links statt 6-stelliger Codes, um Brute-Force-Angriffe zu verhindern.",
+  "SETTINGS_ACCOUNT_PROTECTION_REQUIRED_HINT": "Verwendet Magic Links statt 6-stelliger Codes, um Brute-Force-Angriffe zu verhindern. Er ist für dein Konto erforderlich und kann nicht deaktiviert werden.",
   "SETTINGS_ACCOUNT_PROTECTION_TOAST_ENABLED": "Erweiterter Kontoschutz aktiviert.",
   "SETTINGS_ACCOUNT_PROTECTION_TOAST_DISABLED": "Erweiterter Kontoschutz deaktiviert.",
   "SETTINGS_SESSIONS_HEADING": "Geräte",

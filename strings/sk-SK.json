@@ -1363,6 +1363,7 @@
   "SETTINGS_LINKED_ACCOUNTS_ERROR_GENERIC": "Niečo sa pokazilo. Skús to znova.",
   "SETTINGS_ACCOUNT_PROTECTION_LABEL": "Pokročilá ochrana účtu",
   "SETTINGS_ACCOUNT_PROTECTION_HINT": "Používa magické odkazy namiesto 6-znakových kódov na ochranu pred útokmi hrubou silou.",
+  "SETTINGS_ACCOUNT_PROTECTION_REQUIRED_HINT": "Používa magické odkazy namiesto 6-znakových kódov na ochranu pred útokmi hrubou silou. Pre tvoj účet je povinná a nedá sa vypnúť.",
   "SETTINGS_ACCOUNT_PROTECTION_TOAST_ENABLED": "Pokročilá ochrana účtu zapnutá.",
   "SETTINGS_ACCOUNT_PROTECTION_TOAST_DISABLED": "Pokročilá ochrana účtu vypnutá.",
   "SETTINGS_SESSIONS_HEADING": "Zariadenia",

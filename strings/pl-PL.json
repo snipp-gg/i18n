@@ -1363,6 +1363,7 @@
   "SETTINGS_LINKED_ACCOUNTS_ERROR_GENERIC": "Coś poszło nie tak. Spróbuj ponownie.",
   "SETTINGS_ACCOUNT_PROTECTION_LABEL": "Zaawansowana Ochrona Konta",
   "SETTINGS_ACCOUNT_PROTECTION_HINT": "Używa magicznych linków zamiast 6-znakowych kodów, aby zapobiegać atakom siłowym.",
+  "SETTINGS_ACCOUNT_PROTECTION_REQUIRED_HINT": "Używa magicznych linków zamiast 6-znakowych kodów, aby zapobiegać atakom siłowym. Jest wymagana dla Twojego konta i nie można jej wyłączyć.",
   "SETTINGS_ACCOUNT_PROTECTION_TOAST_ENABLED": "Zaawansowana Ochrona Konta włączona.",
   "SETTINGS_ACCOUNT_PROTECTION_TOAST_DISABLED": "Zaawansowana Ochrona Konta wyłączona.",
   "SETTINGS_SESSIONS_HEADING": "Urządzenia",

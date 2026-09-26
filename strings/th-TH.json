@@ -1363,6 +1363,7 @@
   "SETTINGS_LINKED_ACCOUNTS_ERROR_GENERIC": "เกิดข้อผิดพลาด กรุณาลองอีกครั้ง",
   "SETTINGS_ACCOUNT_PROTECTION_LABEL": "การป้องกันบัญชีขั้นสูง",
   "SETTINGS_ACCOUNT_PROTECTION_HINT": "ใช้ลิงก์เวทย์มนตร์แทนรหัส 6 อักขระเพื่อป้องกันการโจมตีแบบ brute force",
+  "SETTINGS_ACCOUNT_PROTECTION_REQUIRED_HINT": "ใช้ลิงก์เวทย์มนตร์แทนรหัส 6 อักขระเพื่อป้องกันการโจมตีแบบ brute force จำเป็นสำหรับบัญชีของคุณและไม่สามารถปิดได้",
   "SETTINGS_ACCOUNT_PROTECTION_TOAST_ENABLED": "เปิดการป้องกันบัญชีขั้นสูงแล้ว",
   "SETTINGS_ACCOUNT_PROTECTION_TOAST_DISABLED": "ปิดการป้องกันบัญชีขั้นสูงแล้ว",
   "SETTINGS_SESSIONS_HEADING": "อุปกรณ์",

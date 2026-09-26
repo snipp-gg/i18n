@@ -1363,6 +1363,7 @@
   "SETTINGS_LINKED_ACCOUNTS_ERROR_GENERIC": "Ceva n-a mers bine. Te rugăm să încerci din nou.",
   "SETTINGS_ACCOUNT_PROTECTION_LABEL": "Protecție avansată a contului",
   "SETTINGS_ACCOUNT_PROTECTION_HINT": "Folosește linkuri magice în loc de coduri de 6 caractere pentru a preveni atacurile prin forță brută.",
+  "SETTINGS_ACCOUNT_PROTECTION_REQUIRED_HINT": "Folosește linkuri magice în loc de coduri de 6 caractere pentru a preveni atacurile prin forță brută. Este obligatorie pentru contul tău și nu poate fi dezactivată.",
   "SETTINGS_ACCOUNT_PROTECTION_TOAST_ENABLED": "Protecție avansată a contului activată.",
   "SETTINGS_ACCOUNT_PROTECTION_TOAST_DISABLED": "Protecție avansată a contului dezactivată.",
   "SETTINGS_SESSIONS_HEADING": "Dispozitive",

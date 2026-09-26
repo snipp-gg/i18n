@@ -1363,6 +1363,7 @@
   "SETTINGS_LINKED_ACCOUNTS_ERROR_GENERIC": "Что-то пошло не так. Попробуйте ещё раз.",
   "SETTINGS_ACCOUNT_PROTECTION_LABEL": "Расширенная защита аккаунта",
   "SETTINGS_ACCOUNT_PROTECTION_HINT": "Использует волшебные ссылки вместо кодов из 6 символов для защиты от атак перебором.",
+  "SETTINGS_ACCOUNT_PROTECTION_REQUIRED_HINT": "Использует волшебные ссылки вместо кодов из 6 символов для защиты от атак перебором. Она обязательна для вашего аккаунта, и её нельзя выключить.",
   "SETTINGS_ACCOUNT_PROTECTION_TOAST_ENABLED": "Расширенная защита аккаунта включена.",
   "SETTINGS_ACCOUNT_PROTECTION_TOAST_DISABLED": "Расширенная защита аккаунта выключена.",
   "SETTINGS_SESSIONS_HEADING": "Устройства",

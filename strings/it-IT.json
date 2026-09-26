@@ -1363,6 +1363,7 @@
   "SETTINGS_LINKED_ACCOUNTS_ERROR_GENERIC": "Qualcosa è andato storto. Riprova.",
   "SETTINGS_ACCOUNT_PROTECTION_LABEL": "Protezione avanzata dell'account",
   "SETTINGS_ACCOUNT_PROTECTION_HINT": "Usa i magic link al posto dei codici di 6 caratteri per prevenire attacchi brute force.",
+  "SETTINGS_ACCOUNT_PROTECTION_REQUIRED_HINT": "Usa i magic link al posto dei codici di 6 caratteri per prevenire attacchi brute force. È obbligatoria per il tuo account e non può essere disattivata.",
   "SETTINGS_ACCOUNT_PROTECTION_TOAST_ENABLED": "Protezione avanzata dell'account attivata.",
   "SETTINGS_ACCOUNT_PROTECTION_TOAST_DISABLED": "Protezione avanzata dell'account disattivata.",
   "SETTINGS_SESSIONS_HEADING": "Dispositivi",
