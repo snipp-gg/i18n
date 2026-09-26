@@ -2004,8 +2004,6 @@
   "SETTINGS_TEAMS_NAME_LABEL": "टीम का नाम",
   "SETTINGS_TEAMS_DANGER_HEADING": "डेंजर ज़ोन",
   "SETTINGS_TEAMS_OWNER_TOOLTIP": "टीम ओनर",
-  "SETTINGS_TEAMS_LIST_COUNT_SINGULAR": "आप अभी {count} टीम में हैं।",
-  "SETTINGS_TEAMS_LIST_COUNT_PLURAL": "आप अभी {count} टीमों में हैं।",
   "SETTINGS_TEAMS_MEMBER_COUNT_SINGULAR": "{count} मेंबर",
   "SETTINGS_TEAMS_MEMBER_COUNT_PLURAL": "{count} मेंबर",
   "SETTINGS_TEAMS_GALLERY_HEADING": "टीम गैलरी",

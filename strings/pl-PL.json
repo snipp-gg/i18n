@@ -2004,8 +2004,6 @@
   "SETTINGS_TEAMS_NAME_LABEL": "Nazwa zespołu",
   "SETTINGS_TEAMS_DANGER_HEADING": "Strefa zagrożenia",
   "SETTINGS_TEAMS_OWNER_TOOLTIP": "Właściciel zespołu",
-  "SETTINGS_TEAMS_LIST_COUNT_SINGULAR": "Obecnie należysz do {count} zespołu.",
-  "SETTINGS_TEAMS_LIST_COUNT_PLURAL": "Obecnie należysz do {count} zespołów.",
   "SETTINGS_TEAMS_MEMBER_COUNT_SINGULAR": "{count} członek",
   "SETTINGS_TEAMS_MEMBER_COUNT_PLURAL": "{count} członków",
   "SETTINGS_TEAMS_GALLERY_HEADING": "Galeria zespołu",

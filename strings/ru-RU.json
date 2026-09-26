@@ -2004,8 +2004,6 @@
   "SETTINGS_TEAMS_NAME_LABEL": "Название команды",
   "SETTINGS_TEAMS_DANGER_HEADING": "Опасная зона",
   "SETTINGS_TEAMS_OWNER_TOOLTIP": "Владелец команды",
-  "SETTINGS_TEAMS_LIST_COUNT_SINGULAR": "Сейчас вы состоите в {count} команде.",
-  "SETTINGS_TEAMS_LIST_COUNT_PLURAL": "Сейчас вы состоите в {count} командах.",
   "SETTINGS_TEAMS_MEMBER_COUNT_SINGULAR": "{count} участник",
   "SETTINGS_TEAMS_MEMBER_COUNT_PLURAL": "{count} участников",
   "SETTINGS_TEAMS_GALLERY_HEADING": "Галерея команды",

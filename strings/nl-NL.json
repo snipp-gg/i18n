@@ -2004,8 +2004,6 @@
   "SETTINGS_TEAMS_NAME_LABEL": "Teamnaam",
   "SETTINGS_TEAMS_DANGER_HEADING": "Gevarenzone",
   "SETTINGS_TEAMS_OWNER_TOOLTIP": "Teameigenaar",
-  "SETTINGS_TEAMS_LIST_COUNT_SINGULAR": "Je zit momenteel in {count} team.",
-  "SETTINGS_TEAMS_LIST_COUNT_PLURAL": "Je zit momenteel in {count} teams.",
   "SETTINGS_TEAMS_MEMBER_COUNT_SINGULAR": "{count} lid",
   "SETTINGS_TEAMS_MEMBER_COUNT_PLURAL": "{count} leden",
   "SETTINGS_TEAMS_GALLERY_HEADING": "Teamgalerij",

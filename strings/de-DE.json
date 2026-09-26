@@ -2004,8 +2004,6 @@
   "SETTINGS_TEAMS_NAME_LABEL": "Teamname",
   "SETTINGS_TEAMS_DANGER_HEADING": "Gefahrenzone",
   "SETTINGS_TEAMS_OWNER_TOOLTIP": "Teaminhaber",
-  "SETTINGS_TEAMS_LIST_COUNT_SINGULAR": "Du bist derzeit in {count} Team.",
-  "SETTINGS_TEAMS_LIST_COUNT_PLURAL": "Du bist derzeit in {count} Teams.",
   "SETTINGS_TEAMS_MEMBER_COUNT_SINGULAR": "{count} Mitglied",
   "SETTINGS_TEAMS_MEMBER_COUNT_PLURAL": "{count} Mitglieder",
   "SETTINGS_TEAMS_GALLERY_HEADING": "Teamgalerie",

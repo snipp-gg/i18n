@@ -2004,8 +2004,6 @@
   "SETTINGS_TEAMS_NAME_LABEL": "Nama Tim",
   "SETTINGS_TEAMS_DANGER_HEADING": "Zona bahaya",
   "SETTINGS_TEAMS_OWNER_TOOLTIP": "Pemilik Tim",
-  "SETTINGS_TEAMS_LIST_COUNT_SINGULAR": "Anda saat ini berada di {count} tim.",
-  "SETTINGS_TEAMS_LIST_COUNT_PLURAL": "Anda saat ini berada di {count} tim.",
   "SETTINGS_TEAMS_MEMBER_COUNT_SINGULAR": "{count} anggota",
   "SETTINGS_TEAMS_MEMBER_COUNT_PLURAL": "{count} anggota",
   "SETTINGS_TEAMS_GALLERY_HEADING": "Galeri Tim",

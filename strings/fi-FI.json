@@ -2004,8 +2004,6 @@
   "SETTINGS_TEAMS_NAME_LABEL": "Tiimin nimi",
   "SETTINGS_TEAMS_DANGER_HEADING": "Vaaravyöhyke",
   "SETTINGS_TEAMS_OWNER_TOOLTIP": "Tiimin omistaja",
-  "SETTINGS_TEAMS_LIST_COUNT_SINGULAR": "Olet tällä hetkellä {count} tiimissä.",
-  "SETTINGS_TEAMS_LIST_COUNT_PLURAL": "Olet tällä hetkellä {count} tiimissä.",
   "SETTINGS_TEAMS_MEMBER_COUNT_SINGULAR": "{count} jäsen",
   "SETTINGS_TEAMS_MEMBER_COUNT_PLURAL": "{count} jäsentä",
   "SETTINGS_TEAMS_GALLERY_HEADING": "Tiimigalleria",

@@ -2004,8 +2004,6 @@
   "SETTINGS_TEAMS_NAME_LABEL": "Názov tímu",
   "SETTINGS_TEAMS_DANGER_HEADING": "Nebezpečná zóna",
   "SETTINGS_TEAMS_OWNER_TOOLTIP": "Vlastník tímu",
-  "SETTINGS_TEAMS_LIST_COUNT_SINGULAR": "Momentálne si v {count} tíme.",
-  "SETTINGS_TEAMS_LIST_COUNT_PLURAL": "Momentálne si v {count} tímoch.",
   "SETTINGS_TEAMS_MEMBER_COUNT_SINGULAR": "{count} člen",
   "SETTINGS_TEAMS_MEMBER_COUNT_PLURAL": "{count} členov",
   "SETTINGS_TEAMS_GALLERY_HEADING": "Tímová galéria",

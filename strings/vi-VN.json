@@ -2004,8 +2004,6 @@
   "SETTINGS_TEAMS_NAME_LABEL": "Tên nhóm",
   "SETTINGS_TEAMS_DANGER_HEADING": "Vùng nguy hiểm",
   "SETTINGS_TEAMS_OWNER_TOOLTIP": "Chủ sở hữu nhóm",
-  "SETTINGS_TEAMS_LIST_COUNT_SINGULAR": "Bạn hiện đang ở trong {count} nhóm.",
-  "SETTINGS_TEAMS_LIST_COUNT_PLURAL": "Bạn hiện đang ở trong {count} nhóm.",
   "SETTINGS_TEAMS_MEMBER_COUNT_SINGULAR": "{count} thành viên",
   "SETTINGS_TEAMS_MEMBER_COUNT_PLURAL": "{count} thành viên",
   "SETTINGS_TEAMS_GALLERY_HEADING": "Thư viện nhóm",

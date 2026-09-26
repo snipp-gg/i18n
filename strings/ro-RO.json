@@ -2004,8 +2004,6 @@
   "SETTINGS_TEAMS_NAME_LABEL": "Numele echipei",
   "SETTINGS_TEAMS_DANGER_HEADING": "Zonă periculoasă",
   "SETTINGS_TEAMS_OWNER_TOOLTIP": "Proprietarul echipei",
-  "SETTINGS_TEAMS_LIST_COUNT_SINGULAR": "În prezent ești în {count} echipă.",
-  "SETTINGS_TEAMS_LIST_COUNT_PLURAL": "În prezent ești în {count} echipe.",
   "SETTINGS_TEAMS_MEMBER_COUNT_SINGULAR": "{count} membru",
   "SETTINGS_TEAMS_MEMBER_COUNT_PLURAL": "{count} membri",
   "SETTINGS_TEAMS_GALLERY_HEADING": "Galeria echipei",

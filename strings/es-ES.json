@@ -2004,8 +2004,6 @@
   "SETTINGS_TEAMS_NAME_LABEL": "Nombre del equipo",
   "SETTINGS_TEAMS_DANGER_HEADING": "Zona de peligro",
   "SETTINGS_TEAMS_OWNER_TOOLTIP": "Propietario del equipo",
-  "SETTINGS_TEAMS_LIST_COUNT_SINGULAR": "Actualmente estás en {count} equipo.",
-  "SETTINGS_TEAMS_LIST_COUNT_PLURAL": "Actualmente estás en {count} equipos.",
   "SETTINGS_TEAMS_MEMBER_COUNT_SINGULAR": "{count} miembro",
   "SETTINGS_TEAMS_MEMBER_COUNT_PLURAL": "{count} miembros",
   "SETTINGS_TEAMS_GALLERY_HEADING": "Galería del equipo",

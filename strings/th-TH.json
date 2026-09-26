@@ -2004,8 +2004,6 @@
   "SETTINGS_TEAMS_NAME_LABEL": "ชื่อทีม",
   "SETTINGS_TEAMS_DANGER_HEADING": "โซนอันตราย",
   "SETTINGS_TEAMS_OWNER_TOOLTIP": "เจ้าของทีม",
-  "SETTINGS_TEAMS_LIST_COUNT_SINGULAR": "ปัจจุบันคุณอยู่ใน {count} ทีม",
-  "SETTINGS_TEAMS_LIST_COUNT_PLURAL": "ปัจจุบันคุณอยู่ใน {count} ทีม",
   "SETTINGS_TEAMS_MEMBER_COUNT_SINGULAR": "{count} สมาชิก",
   "SETTINGS_TEAMS_MEMBER_COUNT_PLURAL": "{count} สมาชิก",
   "SETTINGS_TEAMS_GALLERY_HEADING": "แกลเลอรีทีม",

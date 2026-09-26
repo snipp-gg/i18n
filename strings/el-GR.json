@@ -2004,8 +2004,6 @@
   "SETTINGS_TEAMS_NAME_LABEL": "Όνομα Ομάδας",
   "SETTINGS_TEAMS_DANGER_HEADING": "Ζώνη κινδύνου",
   "SETTINGS_TEAMS_OWNER_TOOLTIP": "Ιδιοκτήτης Ομάδας",
-  "SETTINGS_TEAMS_LIST_COUNT_SINGULAR": "Αυτή τη στιγμή είστε σε {count} ομάδα.",
-  "SETTINGS_TEAMS_LIST_COUNT_PLURAL": "Αυτή τη στιγμή είστε σε {count} ομάδες.",
   "SETTINGS_TEAMS_MEMBER_COUNT_SINGULAR": "{count} μέλος",
   "SETTINGS_TEAMS_MEMBER_COUNT_PLURAL": "{count} μέλη",
   "SETTINGS_TEAMS_GALLERY_HEADING": "Γκαλερί Ομάδας",

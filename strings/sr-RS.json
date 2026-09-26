@@ -2004,8 +2004,6 @@
   "SETTINGS_TEAMS_NAME_LABEL": "Ime tima",
   "SETTINGS_TEAMS_DANGER_HEADING": "Opasna zona",
   "SETTINGS_TEAMS_OWNER_TOOLTIP": "Vlasnik tima",
-  "SETTINGS_TEAMS_LIST_COUNT_SINGULAR": "Trenutno ste u {count} timu.",
-  "SETTINGS_TEAMS_LIST_COUNT_PLURAL": "Trenutno ste u {count} timova.",
   "SETTINGS_TEAMS_MEMBER_COUNT_SINGULAR": "{count} član",
   "SETTINGS_TEAMS_MEMBER_COUNT_PLURAL": "{count} članova",
   "SETTINGS_TEAMS_GALLERY_HEADING": "Galerija tima",

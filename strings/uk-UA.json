@@ -2004,8 +2004,6 @@
   "SETTINGS_TEAMS_NAME_LABEL": "Назва команди",
   "SETTINGS_TEAMS_DANGER_HEADING": "Небезпечна зона",
   "SETTINGS_TEAMS_OWNER_TOOLTIP": "Власник команди",
-  "SETTINGS_TEAMS_LIST_COUNT_SINGULAR": "Наразі ви входите до {count} команди.",
-  "SETTINGS_TEAMS_LIST_COUNT_PLURAL": "Наразі ви входите до {count} команд.",
   "SETTINGS_TEAMS_MEMBER_COUNT_SINGULAR": "{count} учасник",
   "SETTINGS_TEAMS_MEMBER_COUNT_PLURAL": "{count} учасників",
   "SETTINGS_TEAMS_GALLERY_HEADING": "Галерея команди",

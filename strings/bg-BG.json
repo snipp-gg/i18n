@@ -2004,8 +2004,6 @@
   "SETTINGS_TEAMS_NAME_LABEL": "Име на отбора",
   "SETTINGS_TEAMS_DANGER_HEADING": "Опасна зона",
   "SETTINGS_TEAMS_OWNER_TOOLTIP": "Собственик на отбора",
-  "SETTINGS_TEAMS_LIST_COUNT_SINGULAR": "В момента сте в {count} отбор.",
-  "SETTINGS_TEAMS_LIST_COUNT_PLURAL": "В момента сте в {count} отбора.",
   "SETTINGS_TEAMS_MEMBER_COUNT_SINGULAR": "{count} член",
   "SETTINGS_TEAMS_MEMBER_COUNT_PLURAL": "{count} членове",
   "SETTINGS_TEAMS_GALLERY_HEADING": "Галерия на отбора",

@@ -2004,8 +2004,6 @@
   "SETTINGS_TEAMS_NAME_LABEL": "Takım adı",
   "SETTINGS_TEAMS_DANGER_HEADING": "Tehlikeli bölge",
   "SETTINGS_TEAMS_OWNER_TOOLTIP": "Takım sahibi",
-  "SETTINGS_TEAMS_LIST_COUNT_SINGULAR": "Şu anda {count} takımdasın.",
-  "SETTINGS_TEAMS_LIST_COUNT_PLURAL": "Şu anda {count} takımdasın.",
   "SETTINGS_TEAMS_MEMBER_COUNT_SINGULAR": "{count} üye",
   "SETTINGS_TEAMS_MEMBER_COUNT_PLURAL": "{count} üye",
   "SETTINGS_TEAMS_GALLERY_HEADING": "Takım galerisi",
