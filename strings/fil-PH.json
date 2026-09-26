@@ -1362,7 +1362,7 @@
   "SETTINGS_LINKED_ACCOUNTS_ERROR_ALREADY_LINKED": "Naka-link na ang account na iyon sa ibang Snipp user.",
   "SETTINGS_LINKED_ACCOUNTS_ERROR_GENERIC": "May nangyaring mali. Subukan ulit.",
   "SETTINGS_ACCOUNT_PROTECTION_LABEL": "Advanced na Proteksyon ng Account",
-  "SETTINGS_ACCOUNT_PROTECTION_HINT": "Ang pag-sign in gamit ang email ay dapat gumamit ng link na ipinapadala namin sa iyo, hindi ng code. Gumagamit ng code ang Snipp app sa pag-sign in, kaya i-off muna ito bago mag-sign in sa bagong telepono.",
+  "SETTINGS_ACCOUNT_PROTECTION_HINT": "Gumagamit ng mga magic link sa halip na 6-character na code para maiwasan ang mga brute-force attack. Gumagamit ng code ang Snipp app sa pag-sign in, kaya i-off muna ito bago mag-sign in sa bagong telepono.",
   "SETTINGS_ACCOUNT_PROTECTION_TOAST_ENABLED": "Naka-enable ang Advanced na Proteksyon ng Account.",
   "SETTINGS_ACCOUNT_PROTECTION_TOAST_DISABLED": "Naka-disable ang Advanced na Proteksyon ng Account.",
   "SETTINGS_SESSIONS_HEADING": "Mga device",

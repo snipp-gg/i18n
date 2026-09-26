@@ -1362,7 +1362,7 @@
   "SETTINGS_LINKED_ACCOUNTS_ERROR_ALREADY_LINKED": "Tài khoản đó đã được liên kết với một người dùng Snipp khác.",
   "SETTINGS_LINKED_ACCOUNTS_ERROR_GENERIC": "Đã xảy ra lỗi. Vui lòng thử lại.",
   "SETTINGS_ACCOUNT_PROTECTION_LABEL": "Bảo vệ tài khoản nâng cao",
-  "SETTINGS_ACCOUNT_PROTECTION_HINT": "Đăng nhập bằng email phải dùng liên kết chúng tôi gửi cho bạn, không dùng mã. Ứng dụng Snipp đăng nhập bằng mã, nên hãy tắt tính năng này trước khi đăng nhập trên điện thoại mới.",
+  "SETTINGS_ACCOUNT_PROTECTION_HINT": "Dùng magic link thay cho mã 6 ký tự để ngăn các cuộc tấn công brute force. Ứng dụng Snipp đăng nhập bằng mã, nên hãy tắt tính năng này trước khi đăng nhập trên điện thoại mới.",
   "SETTINGS_ACCOUNT_PROTECTION_TOAST_ENABLED": "Đã bật Bảo vệ tài khoản nâng cao.",
   "SETTINGS_ACCOUNT_PROTECTION_TOAST_DISABLED": "Đã tắt Bảo vệ tài khoản nâng cao.",
   "SETTINGS_SESSIONS_HEADING": "Thiết bị",

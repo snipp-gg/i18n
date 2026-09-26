@@ -1362,7 +1362,7 @@
   "SETTINGS_LINKED_ACCOUNTS_ERROR_ALREADY_LINKED": "वह अकाउंट पहले से किसी दूसरे Snipp उपयोगकर्ता से लिंक है।",
   "SETTINGS_LINKED_ACCOUNTS_ERROR_GENERIC": "कुछ गड़बड़ हो गई। कृपया दोबारा कोशिश करें।",
   "SETTINGS_ACCOUNT_PROTECTION_LABEL": "उन्नत अकाउंट सुरक्षा",
-  "SETTINGS_ACCOUNT_PROTECTION_HINT": "ईमेल से साइन इन करने के लिए हमारे भेजे गए लिंक का इस्तेमाल करना होगा, कोड का नहीं। Snipp ऐप कोड से साइन इन करता है, इसलिए नए फ़ोन पर साइन इन करने से पहले इसे बंद कर दें।",
+  "SETTINGS_ACCOUNT_PROTECTION_HINT": "ब्रूट फोर्स हमलों को रोकने के लिए 6 अक्षरों वाले कोड की जगह मैजिक लिंक का इस्तेमाल करता है। Snipp ऐप कोड से साइन इन करता है, इसलिए नए फ़ोन पर साइन इन करने से पहले इसे बंद कर दें।",
   "SETTINGS_ACCOUNT_PROTECTION_TOAST_ENABLED": "उन्नत अकाउंट सुरक्षा चालू हो गई।",
   "SETTINGS_ACCOUNT_PROTECTION_TOAST_DISABLED": "उन्नत अकाउंट सुरक्षा बंद हो गई।",
   "SETTINGS_SESSIONS_HEADING": "डिवाइस",

@@ -1362,7 +1362,7 @@
   "SETTINGS_LINKED_ACCOUNTS_ERROR_ALREADY_LINKED": "Tento účet je už prepojený s iným používateľom Snipp.",
   "SETTINGS_LINKED_ACCOUNTS_ERROR_GENERIC": "Niečo sa pokazilo. Skús to znova.",
   "SETTINGS_ACCOUNT_PROTECTION_LABEL": "Pokročilá ochrana účtu",
-  "SETTINGS_ACCOUNT_PROTECTION_HINT": "Prihlásenie e-mailom musí prebehnúť cez odkaz, ktorý ti pošleme, nie pomocou kódu. Aplikácia Snipp sa prihlasuje kódom, preto to pred prihlásením na novom telefóne vypni.",
+  "SETTINGS_ACCOUNT_PROTECTION_HINT": "Používa magické odkazy namiesto 6-znakových kódov na ochranu pred útokmi hrubou silou. Aplikácia Snipp sa prihlasuje kódom, preto to pred prihlásením na novom telefóne vypni.",
   "SETTINGS_ACCOUNT_PROTECTION_TOAST_ENABLED": "Pokročilá ochrana účtu zapnutá.",
   "SETTINGS_ACCOUNT_PROTECTION_TOAST_DISABLED": "Pokročilá ochrana účtu vypnutá.",
   "SETTINGS_SESSIONS_HEADING": "Zariadenia",

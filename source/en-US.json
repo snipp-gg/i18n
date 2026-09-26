@@ -1362,7 +1362,7 @@
   "SETTINGS_LINKED_ACCOUNTS_ERROR_ALREADY_LINKED": "That account is already linked to another Snipp user.",
   "SETTINGS_LINKED_ACCOUNTS_ERROR_GENERIC": "Something went wrong. Please try again.",
   "SETTINGS_ACCOUNT_PROTECTION_LABEL": "Advanced Account Protection",
-  "SETTINGS_ACCOUNT_PROTECTION_HINT": "Email sign-ins must use the link we send you, not the code. The Snipp app signs in with a code, so turn this off before signing in on a new phone.",
+  "SETTINGS_ACCOUNT_PROTECTION_HINT": "Uses magic links instead of 6-character codes to prevent brute-force attacks. The Snipp app signs in with a code, so turn this off before signing in on a new phone.",
   "SETTINGS_ACCOUNT_PROTECTION_TOAST_ENABLED": "Advanced Account Protection turned on.",
   "SETTINGS_ACCOUNT_PROTECTION_TOAST_DISABLED": "Advanced Account Protection turned off.",
   "SETTINGS_SESSIONS_HEADING": "Devices",

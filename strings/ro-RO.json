@@ -1362,7 +1362,7 @@
   "SETTINGS_LINKED_ACCOUNTS_ERROR_ALREADY_LINKED": "Acel cont este deja asociat cu un alt utilizator Snipp.",
   "SETTINGS_LINKED_ACCOUNTS_ERROR_GENERIC": "Ceva n-a mers bine. Te rugăm să încerci din nou.",
   "SETTINGS_ACCOUNT_PROTECTION_LABEL": "Protecție avansată a contului",
-  "SETTINGS_ACCOUNT_PROTECTION_HINT": "Conectările prin e-mail trebuie să folosească linkul pe care ți-l trimitem, nu codul. Aplicația Snipp se conectează cu un cod, așa că dezactivează opțiunea înainte să te conectezi pe un telefon nou.",
+  "SETTINGS_ACCOUNT_PROTECTION_HINT": "Folosește linkuri magice în loc de coduri de 6 caractere pentru a preveni atacurile prin forță brută. Aplicația Snipp se conectează cu un cod, așa că dezactivează opțiunea înainte să te conectezi pe un telefon nou.",
   "SETTINGS_ACCOUNT_PROTECTION_TOAST_ENABLED": "Protecție avansată a contului activată.",
   "SETTINGS_ACCOUNT_PROTECTION_TOAST_DISABLED": "Protecție avansată a contului dezactivată.",
   "SETTINGS_SESSIONS_HEADING": "Dispozitive",

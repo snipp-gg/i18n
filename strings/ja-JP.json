@@ -1362,7 +1362,7 @@
   "SETTINGS_LINKED_ACCOUNTS_ERROR_ALREADY_LINKED": "そのアカウントはすでに別の Snipp ユーザーに連携されています。",
   "SETTINGS_LINKED_ACCOUNTS_ERROR_GENERIC": "問題が発生しました。もう一度お試しください。",
   "SETTINGS_ACCOUNT_PROTECTION_LABEL": "高度なアカウント保護",
-  "SETTINGS_ACCOUNT_PROTECTION_HINT": "メールでのサインインには、お送りするリンクを使う必要があります。コードは使えません。Snippアプリはコードでサインインするため、新しいスマホでサインインする前にオフにしてください。",
+  "SETTINGS_ACCOUNT_PROTECTION_HINT": "ブルートフォース攻撃を防ぐため、6文字のコードの代わりにマジックリンクを使用します。Snippアプリはコードでサインインするため、新しいスマホでサインインする前にオフにしてください。",
   "SETTINGS_ACCOUNT_PROTECTION_TOAST_ENABLED": "高度なアカウント保護を有効にしました。",
   "SETTINGS_ACCOUNT_PROTECTION_TOAST_DISABLED": "高度なアカウント保護を無効にしました。",
   "SETTINGS_SESSIONS_HEADING": "デバイス",
