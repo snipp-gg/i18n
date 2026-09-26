@@ -1371,7 +1371,7 @@
   "SETTINGS_SESSIONS_DEVICE_LABEL": "{os} पर {browser}",
   "SETTINGS_SESSIONS_UNKNOWN_DEVICE": "अज्ञात डिवाइस",
   "SETTINGS_SESSIONS_THIS_DEVICE": "यह डिवाइस",
-  "SETTINGS_SESSIONS_LAST_ACTIVE": "{date} को आख़िरी बार सक्रिय",
+  "SETTINGS_SESSIONS_LAST_ACTIVE": "आख़िरी बार सक्रिय {time}",
   "SETTINGS_SESSIONS_LOG_OUT_TITLE": "{device} को लॉग आउट करें",
   "SETTINGS_SESSIONS_CONFIRM_LOG_OUT": "{device} लॉग आउट हो जाएगा। आप वहाँ कभी भी दोबारा साइन इन कर सकते हैं।",
   "SETTINGS_SESSIONS_LOG_OUT_OTHERS_BUTTON": "अन्य डिवाइस लॉग आउट करें",

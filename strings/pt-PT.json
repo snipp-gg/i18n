@@ -1371,7 +1371,7 @@
   "SETTINGS_SESSIONS_DEVICE_LABEL": "{browser} em {os}",
   "SETTINGS_SESSIONS_UNKNOWN_DEVICE": "Dispositivo desconhecido",
   "SETTINGS_SESSIONS_THIS_DEVICE": "Este dispositivo",
-  "SETTINGS_SESSIONS_LAST_ACTIVE": "Última atividade em {date}",
+  "SETTINGS_SESSIONS_LAST_ACTIVE": "Última atividade {time}",
   "SETTINGS_SESSIONS_LOG_OUT_TITLE": "Terminar sessão em {device}",
   "SETTINGS_SESSIONS_CONFIRM_LOG_OUT": "A sessão em {device} será terminada. Pode voltar a iniciar sessão aí a qualquer momento.",
   "SETTINGS_SESSIONS_LOG_OUT_OTHERS_BUTTON": "Terminar sessão noutros dispositivos",

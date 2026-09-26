@@ -1371,7 +1371,7 @@
   "SETTINGS_SESSIONS_DEVICE_LABEL": "{browser} di {os}",
   "SETTINGS_SESSIONS_UNKNOWN_DEVICE": "Perangkat tidak dikenal",
   "SETTINGS_SESSIONS_THIS_DEVICE": "Perangkat ini",
-  "SETTINGS_SESSIONS_LAST_ACTIVE": "Terakhir aktif {date}",
+  "SETTINGS_SESSIONS_LAST_ACTIVE": "Terakhir aktif {time}",
   "SETTINGS_SESSIONS_LOG_OUT_TITLE": "Keluar dari {device}",
   "SETTINGS_SESSIONS_CONFIRM_LOG_OUT": "{device} akan dikeluarkan. Anda dapat masuk lagi di sana kapan saja.",
   "SETTINGS_SESSIONS_LOG_OUT_OTHERS_BUTTON": "Keluar dari perangkat lain",

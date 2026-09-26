@@ -1371,7 +1371,7 @@
   "SETTINGS_SESSIONS_DEVICE_LABEL": "{browser} on {os}",
   "SETTINGS_SESSIONS_UNKNOWN_DEVICE": "Unknown device",
   "SETTINGS_SESSIONS_THIS_DEVICE": "This device",
-  "SETTINGS_SESSIONS_LAST_ACTIVE": "Last active {date}",
+  "SETTINGS_SESSIONS_LAST_ACTIVE": "Last active {time}",
   "SETTINGS_SESSIONS_LOG_OUT_TITLE": "Log out {device}",
   "SETTINGS_SESSIONS_CONFIRM_LOG_OUT": "{device} will be logged out. You can sign in again there anytime.",
   "SETTINGS_SESSIONS_LOG_OUT_OTHERS_BUTTON": "Log out other devices",

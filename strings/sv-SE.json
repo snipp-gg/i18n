@@ -1371,7 +1371,7 @@
   "SETTINGS_SESSIONS_DEVICE_LABEL": "{browser} på {os}",
   "SETTINGS_SESSIONS_UNKNOWN_DEVICE": "Okänd enhet",
   "SETTINGS_SESSIONS_THIS_DEVICE": "Den här enheten",
-  "SETTINGS_SESSIONS_LAST_ACTIVE": "Senast aktiv {date}",
+  "SETTINGS_SESSIONS_LAST_ACTIVE": "Senast aktiv {time}",
   "SETTINGS_SESSIONS_LOG_OUT_TITLE": "Logga ut {device}",
   "SETTINGS_SESSIONS_CONFIRM_LOG_OUT": "{device} kommer att loggas ut. Du kan logga in igen där när som helst.",
   "SETTINGS_SESSIONS_LOG_OUT_OTHERS_BUTTON": "Logga ut andra enheter",

@@ -1371,7 +1371,7 @@
   "SETTINGS_SESSIONS_DEVICE_LABEL": "{browser} σε {os}",
   "SETTINGS_SESSIONS_UNKNOWN_DEVICE": "Άγνωστη συσκευή",
   "SETTINGS_SESSIONS_THIS_DEVICE": "Αυτή η συσκευή",
-  "SETTINGS_SESSIONS_LAST_ACTIVE": "Τελευταία δραστηριότητα {date}",
+  "SETTINGS_SESSIONS_LAST_ACTIVE": "Τελευταία δραστηριότητα {time}",
   "SETTINGS_SESSIONS_LOG_OUT_TITLE": "Αποσύνδεση του {device}",
   "SETTINGS_SESSIONS_CONFIRM_LOG_OUT": "Η συσκευή {device} θα αποσυνδεθεί. Μπορείτε να συνδεθείτε ξανά εκεί όποτε θέλετε.",
   "SETTINGS_SESSIONS_LOG_OUT_OTHERS_BUTTON": "Αποσύνδεση άλλων συσκευών",

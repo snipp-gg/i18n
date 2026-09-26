@@ -1371,7 +1371,7 @@
   "SETTINGS_SESSIONS_DEVICE_LABEL": "{browser} на {os}",
   "SETTINGS_SESSIONS_UNKNOWN_DEVICE": "Неизвестно устройство",
   "SETTINGS_SESSIONS_THIS_DEVICE": "Това устройство",
-  "SETTINGS_SESSIONS_LAST_ACTIVE": "Последна активност {date}",
+  "SETTINGS_SESSIONS_LAST_ACTIVE": "Последна активност {time}",
   "SETTINGS_SESSIONS_LOG_OUT_TITLE": "Изход от {device}",
   "SETTINGS_SESSIONS_CONFIRM_LOG_OUT": "Ще излезете от {device}. Можете да влезете отново там по всяко време.",
   "SETTINGS_SESSIONS_LOG_OUT_OTHERS_BUTTON": "Изход от другите устройства",

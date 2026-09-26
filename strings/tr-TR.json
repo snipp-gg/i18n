@@ -1371,7 +1371,7 @@
   "SETTINGS_SESSIONS_DEVICE_LABEL": "{os} üzerinde {browser}",
   "SETTINGS_SESSIONS_UNKNOWN_DEVICE": "Bilinmeyen cihaz",
   "SETTINGS_SESSIONS_THIS_DEVICE": "Bu cihaz",
-  "SETTINGS_SESSIONS_LAST_ACTIVE": "Son etkinlik {date}",
+  "SETTINGS_SESSIONS_LAST_ACTIVE": "Son etkinlik {time}",
   "SETTINGS_SESSIONS_LOG_OUT_TITLE": "{device} cihazından çıkış yap",
   "SETTINGS_SESSIONS_CONFIRM_LOG_OUT": "{device} cihazından çıkış yapılacak. İstediğiniz zaman orada yeniden giriş yapabilirsiniz.",
   "SETTINGS_SESSIONS_LOG_OUT_OTHERS_BUTTON": "Diğer cihazlardan çıkış yap",

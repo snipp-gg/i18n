@@ -1371,7 +1371,7 @@
   "SETTINGS_SESSIONS_DEVICE_LABEL": "{browser} na {os}",
   "SETTINGS_SESSIONS_UNKNOWN_DEVICE": "Neznámé zařízení",
   "SETTINGS_SESSIONS_THIS_DEVICE": "Toto zařízení",
-  "SETTINGS_SESSIONS_LAST_ACTIVE": "Naposledy aktivní {date}",
+  "SETTINGS_SESSIONS_LAST_ACTIVE": "Naposledy aktivní {time}",
   "SETTINGS_SESSIONS_LOG_OUT_TITLE": "Odhlásit {device}",
   "SETTINGS_SESSIONS_CONFIRM_LOG_OUT": "Zařízení {device} bude odhlášeno. Kdykoli se tam můžete znovu přihlásit.",
   "SETTINGS_SESSIONS_LOG_OUT_OTHERS_BUTTON": "Odhlásit ostatní zařízení",

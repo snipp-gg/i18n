@@ -1371,7 +1371,7 @@
   "SETTINGS_SESSIONS_DEVICE_LABEL": "{browser} ({os})",
   "SETTINGS_SESSIONS_UNKNOWN_DEVICE": "Tuntematon laite",
   "SETTINGS_SESSIONS_THIS_DEVICE": "Tämä laite",
-  "SETTINGS_SESSIONS_LAST_ACTIVE": "Viimeksi aktiivinen {date}",
+  "SETTINGS_SESSIONS_LAST_ACTIVE": "Viimeksi aktiivinen {time}",
   "SETTINGS_SESSIONS_LOG_OUT_TITLE": "Kirjaa {device} ulos",
   "SETTINGS_SESSIONS_CONFIRM_LOG_OUT": "Laite {device} kirjataan ulos. Voit kirjautua sillä uudelleen milloin tahansa.",
   "SETTINGS_SESSIONS_LOG_OUT_OTHERS_BUTTON": "Kirjaa muut laitteet ulos",

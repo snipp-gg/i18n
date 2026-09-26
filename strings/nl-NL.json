@@ -1371,7 +1371,7 @@
   "SETTINGS_SESSIONS_DEVICE_LABEL": "{browser} op {os}",
   "SETTINGS_SESSIONS_UNKNOWN_DEVICE": "Onbekend apparaat",
   "SETTINGS_SESSIONS_THIS_DEVICE": "Dit apparaat",
-  "SETTINGS_SESSIONS_LAST_ACTIVE": "Laatst actief {date}",
+  "SETTINGS_SESSIONS_LAST_ACTIVE": "Laatst actief {time}",
   "SETTINGS_SESSIONS_LOG_OUT_TITLE": "{device} uitloggen",
   "SETTINGS_SESSIONS_CONFIRM_LOG_OUT": "{device} wordt uitgelogd. Je kunt daar op elk moment opnieuw inloggen.",
   "SETTINGS_SESSIONS_LOG_OUT_OTHERS_BUTTON": "Andere apparaten uitloggen",

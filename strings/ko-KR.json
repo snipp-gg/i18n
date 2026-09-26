@@ -1371,7 +1371,7 @@
   "SETTINGS_SESSIONS_DEVICE_LABEL": "{os}의 {browser}",
   "SETTINGS_SESSIONS_UNKNOWN_DEVICE": "알 수 없는 기기",
   "SETTINGS_SESSIONS_THIS_DEVICE": "이 기기",
-  "SETTINGS_SESSIONS_LAST_ACTIVE": "마지막 활동 {date}",
+  "SETTINGS_SESSIONS_LAST_ACTIVE": "마지막 활동 {time}",
   "SETTINGS_SESSIONS_LOG_OUT_TITLE": "{device} 로그아웃",
   "SETTINGS_SESSIONS_CONFIRM_LOG_OUT": "{device}에서 로그아웃됩니다. 언제든지 다시 로그인할 수 있습니다.",
   "SETTINGS_SESSIONS_LOG_OUT_OTHERS_BUTTON": "다른 기기 로그아웃",

@@ -1371,7 +1371,7 @@
   "SETTINGS_SESSIONS_DEVICE_LABEL": "{browser} auf {os}",
   "SETTINGS_SESSIONS_UNKNOWN_DEVICE": "Unbekanntes Gerät",
   "SETTINGS_SESSIONS_THIS_DEVICE": "Dieses Gerät",
-  "SETTINGS_SESSIONS_LAST_ACTIVE": "Zuletzt aktiv {date}",
+  "SETTINGS_SESSIONS_LAST_ACTIVE": "Zuletzt aktiv {time}",
   "SETTINGS_SESSIONS_LOG_OUT_TITLE": "{device} abmelden",
   "SETTINGS_SESSIONS_CONFIRM_LOG_OUT": "{device} wird abgemeldet. Du kannst dich dort jederzeit wieder anmelden.",
   "SETTINGS_SESSIONS_LOG_OUT_OTHERS_BUTTON": "Andere Geräte abmelden",

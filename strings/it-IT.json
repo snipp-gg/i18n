@@ -1371,7 +1371,7 @@
   "SETTINGS_SESSIONS_DEVICE_LABEL": "{browser} su {os}",
   "SETTINGS_SESSIONS_UNKNOWN_DEVICE": "Dispositivo sconosciuto",
   "SETTINGS_SESSIONS_THIS_DEVICE": "Questo dispositivo",
-  "SETTINGS_SESSIONS_LAST_ACTIVE": "Ultima attività {date}",
+  "SETTINGS_SESSIONS_LAST_ACTIVE": "Ultima attività {time}",
   "SETTINGS_SESSIONS_LOG_OUT_TITLE": "Disconnetti {device}",
   "SETTINGS_SESSIONS_CONFIRM_LOG_OUT": "{device} verrà disconnesso. Potrai accedere di nuovo da lì in qualsiasi momento.",
   "SETTINGS_SESSIONS_LOG_OUT_OTHERS_BUTTON": "Disconnetti gli altri dispositivi",

@@ -1371,7 +1371,7 @@
   "SETTINGS_SESSIONS_DEVICE_LABEL": "{browser} บน {os}",
   "SETTINGS_SESSIONS_UNKNOWN_DEVICE": "อุปกรณ์ที่ไม่รู้จัก",
   "SETTINGS_SESSIONS_THIS_DEVICE": "อุปกรณ์นี้",
-  "SETTINGS_SESSIONS_LAST_ACTIVE": "ใช้งานล่าสุด {date}",
+  "SETTINGS_SESSIONS_LAST_ACTIVE": "ใช้งานล่าสุด {time}",
   "SETTINGS_SESSIONS_LOG_OUT_TITLE": "ออกจากระบบ {device}",
   "SETTINGS_SESSIONS_CONFIRM_LOG_OUT": "{device} จะถูกออกจากระบบ คุณสามารถเข้าสู่ระบบที่นั่นอีกครั้งได้ทุกเมื่อ",
   "SETTINGS_SESSIONS_LOG_OUT_OTHERS_BUTTON": "ออกจากระบบอุปกรณ์อื่น",

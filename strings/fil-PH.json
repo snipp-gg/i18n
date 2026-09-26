@@ -1371,7 +1371,7 @@
   "SETTINGS_SESSIONS_DEVICE_LABEL": "{browser} sa {os}",
   "SETTINGS_SESSIONS_UNKNOWN_DEVICE": "Hindi kilalang device",
   "SETTINGS_SESSIONS_THIS_DEVICE": "Ang device na ito",
-  "SETTINGS_SESSIONS_LAST_ACTIVE": "Huling aktibo {date}",
+  "SETTINGS_SESSIONS_LAST_ACTIVE": "Huling aktibo {time}",
   "SETTINGS_SESSIONS_LOG_OUT_TITLE": "I-log out ang {device}",
   "SETTINGS_SESSIONS_CONFIRM_LOG_OUT": "Ila-log out ang {device}. Maaari kang mag-sign in muli doon anumang oras.",
   "SETTINGS_SESSIONS_LOG_OUT_OTHERS_BUTTON": "I-log out ang ibang device",

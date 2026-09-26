@@ -1371,7 +1371,7 @@
   "SETTINGS_SESSIONS_DEVICE_LABEL": "{browser} pe {os}",
   "SETTINGS_SESSIONS_UNKNOWN_DEVICE": "Dispozitiv necunoscut",
   "SETTINGS_SESSIONS_THIS_DEVICE": "Acest dispozitiv",
-  "SETTINGS_SESSIONS_LAST_ACTIVE": "Ultima activitate {date}",
+  "SETTINGS_SESSIONS_LAST_ACTIVE": "Ultima activitate {time}",
   "SETTINGS_SESSIONS_LOG_OUT_TITLE": "Deconectează {device}",
   "SETTINGS_SESSIONS_CONFIRM_LOG_OUT": "{device} va fi deconectat. Te poți autentifica din nou acolo oricând.",
   "SETTINGS_SESSIONS_LOG_OUT_OTHERS_BUTTON": "Deconectează celelalte dispozitive",

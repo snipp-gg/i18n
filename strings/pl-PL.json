@@ -1371,7 +1371,7 @@
   "SETTINGS_SESSIONS_DEVICE_LABEL": "{browser} na {os}",
   "SETTINGS_SESSIONS_UNKNOWN_DEVICE": "Nieznane urządzenie",
   "SETTINGS_SESSIONS_THIS_DEVICE": "To urządzenie",
-  "SETTINGS_SESSIONS_LAST_ACTIVE": "Ostatnia aktywność {date}",
+  "SETTINGS_SESSIONS_LAST_ACTIVE": "Ostatnia aktywność {time}",
   "SETTINGS_SESSIONS_LOG_OUT_TITLE": "Wyloguj {device}",
   "SETTINGS_SESSIONS_CONFIRM_LOG_OUT": "Urządzenie {device} zostanie wylogowane. W każdej chwili możesz zalogować się na nim ponownie.",
   "SETTINGS_SESSIONS_LOG_OUT_OTHERS_BUTTON": "Wyloguj pozostałe urządzenia",

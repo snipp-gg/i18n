@@ -1371,7 +1371,7 @@
   "SETTINGS_SESSIONS_DEVICE_LABEL": "{os} の {browser}",
   "SETTINGS_SESSIONS_UNKNOWN_DEVICE": "不明なデバイス",
   "SETTINGS_SESSIONS_THIS_DEVICE": "このデバイス",
-  "SETTINGS_SESSIONS_LAST_ACTIVE": "最終アクティブ {date}",
+  "SETTINGS_SESSIONS_LAST_ACTIVE": "最終アクティブ {time}",
   "SETTINGS_SESSIONS_LOG_OUT_TITLE": "{device} をログアウト",
   "SETTINGS_SESSIONS_CONFIRM_LOG_OUT": "{device} がログアウトされます。いつでも再度サインインできます。",
   "SETTINGS_SESSIONS_LOG_OUT_OTHERS_BUTTON": "他のデバイスをログアウト",

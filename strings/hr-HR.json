@@ -1371,7 +1371,7 @@
   "SETTINGS_SESSIONS_DEVICE_LABEL": "{browser} na {os}",
   "SETTINGS_SESSIONS_UNKNOWN_DEVICE": "Nepoznat uređaj",
   "SETTINGS_SESSIONS_THIS_DEVICE": "Ovaj uređaj",
-  "SETTINGS_SESSIONS_LAST_ACTIVE": "Zadnja aktivnost {date}",
+  "SETTINGS_SESSIONS_LAST_ACTIVE": "Zadnja aktivnost {time}",
   "SETTINGS_SESSIONS_LOG_OUT_TITLE": "Odjavi {device}",
   "SETTINGS_SESSIONS_CONFIRM_LOG_OUT": "Uređaj {device} bit će odjavljen. Ondje se možeš ponovno prijaviti bilo kada.",
   "SETTINGS_SESSIONS_LOG_OUT_OTHERS_BUTTON": "Odjavi ostale uređaje",
