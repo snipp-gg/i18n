@@ -2129,6 +2129,8 @@
   "SETTINGS_NOTIFICATIONS_EMAIL_HEADING": "E-pošta",
   "SETTINGS_NOTIFICATIONS_EMAIL_PAYOUTS_LABEL": "E-poruke o isplatama",
   "SETTINGS_NOTIFICATIONS_EMAIL_PAYOUTS_HINT": "Pošalji mi e-poruku o isplatama kreatorima i preporukama.",
+  "SETTINGS_NOTIFICATIONS_EMAIL_SIGN_INS_LABEL": "E-poruke o prijavama",
+  "SETTINGS_NOTIFICATIONS_EMAIL_SIGN_INS_HINT": "Pošalji mi e-poruku svaki put kad se netko prijavi na moj račun.",
   "SETTINGS_NOTIFICATIONS_EMAIL_LOCKED_LABEL": "E-poruke o sigurnosti i računu",
   "SETTINGS_NOTIFICATIONS_EMAIL_LOCKED_HINT": "Poveznice za prijavu, promjene e-adrese, moderiranje i suspenzije uvijek se šalju.",
   "SETTINGS_NOTIFICATIONS_TOAST_SAVED": "Postavke obavijesti spremljene!",

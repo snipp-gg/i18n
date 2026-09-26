@@ -2129,6 +2129,8 @@
   "SETTINGS_NOTIFICATIONS_EMAIL_HEADING": "E-post",
   "SETTINGS_NOTIFICATIONS_EMAIL_PAYOUTS_LABEL": "E-post om utbetalinger",
   "SETTINGS_NOTIFICATIONS_EMAIL_PAYOUTS_HINT": "Send meg e-post om skaperutbetalinger og verving.",
+  "SETTINGS_NOTIFICATIONS_EMAIL_SIGN_INS_LABEL": "E-post om innlogginger",
+  "SETTINGS_NOTIFICATIONS_EMAIL_SIGN_INS_HINT": "Send meg en e-post hver gang noen logger inn på kontoen min.",
   "SETTINGS_NOTIFICATIONS_EMAIL_LOCKED_LABEL": "Sikkerhets- og konto-e-poster",
   "SETTINGS_NOTIFICATIONS_EMAIL_LOCKED_HINT": "Innloggingslenker, e-postendringer, moderering og suspensjoner sendes alltid.",
   "SETTINGS_NOTIFICATIONS_TOAST_SAVED": "Varselinnstillingene er lagret!",

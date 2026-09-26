@@ -2129,6 +2129,8 @@
   "SETTINGS_NOTIFICATIONS_EMAIL_HEADING": "Email",
   "SETTINGS_NOTIFICATIONS_EMAIL_PAYOUTS_LABEL": "Email về thanh toán",
   "SETTINGS_NOTIFICATIONS_EMAIL_PAYOUTS_HINT": "Gửi email cho tôi về các khoản thanh toán cho nhà sáng tạo và giới thiệu.",
+  "SETTINGS_NOTIFICATIONS_EMAIL_SIGN_INS_LABEL": "Email về đăng nhập",
+  "SETTINGS_NOTIFICATIONS_EMAIL_SIGN_INS_HINT": "Gửi email cho tôi mỗi khi có ai đó đăng nhập vào tài khoản của tôi.",
   "SETTINGS_NOTIFICATIONS_EMAIL_LOCKED_LABEL": "Email bảo mật và tài khoản",
   "SETTINGS_NOTIFICATIONS_EMAIL_LOCKED_HINT": "Liên kết đăng nhập, thay đổi email, kiểm duyệt và đình chỉ luôn được gửi.",
   "SETTINGS_NOTIFICATIONS_TOAST_SAVED": "Đã lưu tùy chọn thông báo!",

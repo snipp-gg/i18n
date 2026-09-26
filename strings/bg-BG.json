@@ -2129,6 +2129,8 @@
   "SETTINGS_NOTIFICATIONS_EMAIL_HEADING": "Имейл",
   "SETTINGS_NOTIFICATIONS_EMAIL_PAYOUTS_LABEL": "Имейли за плащания",
   "SETTINGS_NOTIFICATIONS_EMAIL_PAYOUTS_HINT": "Изпращайте ми имейли за плащания към създатели и за препоръки.",
+  "SETTINGS_NOTIFICATIONS_EMAIL_SIGN_INS_LABEL": "Имейли за вход",
+  "SETTINGS_NOTIFICATIONS_EMAIL_SIGN_INS_HINT": "Изпращайте ми имейл всеки път, когато някой влезе в акаунта ми.",
   "SETTINGS_NOTIFICATIONS_EMAIL_LOCKED_LABEL": "Имейли за сигурност и акаунт",
   "SETTINGS_NOTIFICATIONS_EMAIL_LOCKED_HINT": "Връзките за вход, промените на имейла, модерирането и спиранията на акаунти се изпращат винаги.",
   "SETTINGS_NOTIFICATIONS_TOAST_SAVED": "Предпочитанията за известия са запазени!",

@@ -2129,6 +2129,8 @@
   "SETTINGS_NOTIFICATIONS_EMAIL_HEADING": "Email",
   "SETTINGS_NOTIFICATIONS_EMAIL_PAYOUTS_LABEL": "Payout Emails",
   "SETTINGS_NOTIFICATIONS_EMAIL_PAYOUTS_HINT": "Email me about creator payouts and referrals.",
+  "SETTINGS_NOTIFICATIONS_EMAIL_SIGN_INS_LABEL": "Sign-in Emails",
+  "SETTINGS_NOTIFICATIONS_EMAIL_SIGN_INS_HINT": "Email me whenever someone signs in to my account.",
   "SETTINGS_NOTIFICATIONS_EMAIL_LOCKED_LABEL": "Security and Account Emails",
   "SETTINGS_NOTIFICATIONS_EMAIL_LOCKED_HINT": "Login links, email changes, moderation, and suspensions are always sent.",
   "SETTINGS_NOTIFICATIONS_TOAST_SAVED": "Notification preferences saved!",

@@ -2129,6 +2129,8 @@
   "SETTINGS_NOTIFICATIONS_EMAIL_HEADING": "Email",
   "SETTINGS_NOTIFICATIONS_EMAIL_PAYOUTS_LABEL": "Mga email sa payout",
   "SETTINGS_NOTIFICATIONS_EMAIL_PAYOUTS_HINT": "I-email ako tungkol sa mga creator payout at referral.",
+  "SETTINGS_NOTIFICATIONS_EMAIL_SIGN_INS_LABEL": "Mga email sa pag-sign in",
+  "SETTINGS_NOTIFICATIONS_EMAIL_SIGN_INS_HINT": "I-email ako tuwing may mag-sign in sa account ko.",
   "SETTINGS_NOTIFICATIONS_EMAIL_LOCKED_LABEL": "Mga email sa seguridad at account",
   "SETTINGS_NOTIFICATIONS_EMAIL_LOCKED_HINT": "Palaging ipinapadala ang mga login link, pagbabago ng email, moderation, at suspension.",
   "SETTINGS_NOTIFICATIONS_TOAST_SAVED": "Na-save ang mga kagustuhan sa notification!",

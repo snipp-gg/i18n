@@ -2129,6 +2129,8 @@
   "SETTINGS_NOTIFICATIONS_EMAIL_HEADING": "E-mail",
   "SETTINGS_NOTIFICATIONS_EMAIL_PAYOUTS_LABEL": "E-mailuri despre plăți",
   "SETTINGS_NOTIFICATIONS_EMAIL_PAYOUTS_HINT": "Trimite-mi e-mailuri despre plățile către creatori și recomandări.",
+  "SETTINGS_NOTIFICATIONS_EMAIL_SIGN_INS_LABEL": "E-mailuri despre conectări",
+  "SETTINGS_NOTIFICATIONS_EMAIL_SIGN_INS_HINT": "Trimite-mi un e-mail de fiecare dată când cineva se conectează la contul meu.",
   "SETTINGS_NOTIFICATIONS_EMAIL_LOCKED_LABEL": "E-mailuri de securitate și cont",
   "SETTINGS_NOTIFICATIONS_EMAIL_LOCKED_HINT": "Linkurile de conectare, schimbările de e-mail, moderarea și suspendările sunt trimise întotdeauna.",
   "SETTINGS_NOTIFICATIONS_TOAST_SAVED": "Preferințele de notificare au fost salvate!",

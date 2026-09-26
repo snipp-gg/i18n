@@ -2129,6 +2129,8 @@
   "SETTINGS_NOTIFICATIONS_EMAIL_HEADING": "E-mail",
   "SETTINGS_NOTIFICATIONS_EMAIL_PAYOUTS_LABEL": "E-maily o výplatách",
   "SETTINGS_NOTIFICATIONS_EMAIL_PAYOUTS_HINT": "Posílejte mi e-maily o výplatách pro tvůrce a o doporučeních.",
+  "SETTINGS_NOTIFICATIONS_EMAIL_SIGN_INS_LABEL": "E-maily o přihlášení",
+  "SETTINGS_NOTIFICATIONS_EMAIL_SIGN_INS_HINT": "Posílejte mi e-mail pokaždé, když se někdo přihlásí k mému účtu.",
   "SETTINGS_NOTIFICATIONS_EMAIL_LOCKED_LABEL": "E-maily o zabezpečení a účtu",
   "SETTINGS_NOTIFICATIONS_EMAIL_LOCKED_HINT": "Přihlašovací odkazy, změny e-mailu, moderování a pozastavení účtu se posílají vždy.",
   "SETTINGS_NOTIFICATIONS_TOAST_SAVED": "Předvolby oznámení uloženy!",

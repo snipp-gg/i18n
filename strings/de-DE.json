@@ -2129,6 +2129,8 @@
   "SETTINGS_NOTIFICATIONS_EMAIL_HEADING": "E-Mail",
   "SETTINGS_NOTIFICATIONS_EMAIL_PAYOUTS_LABEL": "E-Mails zu Auszahlungen",
   "SETTINGS_NOTIFICATIONS_EMAIL_PAYOUTS_HINT": "Schick mir E-Mails zu Creator-Auszahlungen und Empfehlungen.",
+  "SETTINGS_NOTIFICATIONS_EMAIL_SIGN_INS_LABEL": "E-Mails zu Anmeldungen",
+  "SETTINGS_NOTIFICATIONS_EMAIL_SIGN_INS_HINT": "Schick mir jedes Mal eine E-Mail, wenn sich jemand bei meinem Konto anmeldet.",
   "SETTINGS_NOTIFICATIONS_EMAIL_LOCKED_LABEL": "Sicherheits- und Konto-E-Mails",
   "SETTINGS_NOTIFICATIONS_EMAIL_LOCKED_HINT": "Login-Links, E-Mail-Änderungen, Moderation und Sperrungen werden immer gesendet.",
   "SETTINGS_NOTIFICATIONS_TOAST_SAVED": "Benachrichtigungseinstellungen gespeichert!",

@@ -2129,6 +2129,8 @@
   "SETTINGS_NOTIFICATIONS_EMAIL_HEADING": "Email",
   "SETTINGS_NOTIFICATIONS_EMAIL_PAYOUTS_LABEL": "Email sui pagamenti",
   "SETTINGS_NOTIFICATIONS_EMAIL_PAYOUTS_HINT": "Inviami un'email sui pagamenti ai creator e sugli inviti.",
+  "SETTINGS_NOTIFICATIONS_EMAIL_SIGN_INS_LABEL": "Email sugli accessi",
+  "SETTINGS_NOTIFICATIONS_EMAIL_SIGN_INS_HINT": "Inviami un'email ogni volta che qualcuno accede al mio account.",
   "SETTINGS_NOTIFICATIONS_EMAIL_LOCKED_LABEL": "Email di sicurezza e account",
   "SETTINGS_NOTIFICATIONS_EMAIL_LOCKED_HINT": "I link di accesso, le modifiche dell'email, la moderazione e le sospensioni vengono sempre inviati.",
   "SETTINGS_NOTIFICATIONS_TOAST_SAVED": "Preferenze di notifica salvate!",

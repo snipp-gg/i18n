@@ -2129,6 +2129,8 @@
   "SETTINGS_NOTIFICATIONS_EMAIL_HEADING": "Электронная почта",
   "SETTINGS_NOTIFICATIONS_EMAIL_PAYOUTS_LABEL": "Письма о выплатах",
   "SETTINGS_NOTIFICATIONS_EMAIL_PAYOUTS_HINT": "Присылать письма о выплатах авторам и рефералах.",
+  "SETTINGS_NOTIFICATIONS_EMAIL_SIGN_INS_LABEL": "Письма о входах",
+  "SETTINGS_NOTIFICATIONS_EMAIL_SIGN_INS_HINT": "Присылать письмо каждый раз, когда кто-то входит в мой аккаунт.",
   "SETTINGS_NOTIFICATIONS_EMAIL_LOCKED_LABEL": "Письма о безопасности и аккаунте",
   "SETTINGS_NOTIFICATIONS_EMAIL_LOCKED_HINT": "Ссылки для входа, смена почты, модерация и блокировки отправляются всегда.",
   "SETTINGS_NOTIFICATIONS_TOAST_SAVED": "Настройки уведомлений сохранены!",

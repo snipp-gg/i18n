@@ -2129,6 +2129,8 @@
   "SETTINGS_NOTIFICATIONS_EMAIL_HEADING": "Email",
   "SETTINGS_NOTIFICATIONS_EMAIL_PAYOUTS_LABEL": "Email pembayaran",
   "SETTINGS_NOTIFICATIONS_EMAIL_PAYOUTS_HINT": "Kirimi saya email tentang pembayaran kreator dan referensi.",
+  "SETTINGS_NOTIFICATIONS_EMAIL_SIGN_INS_LABEL": "Email login",
+  "SETTINGS_NOTIFICATIONS_EMAIL_SIGN_INS_HINT": "Kirimi saya email setiap kali seseorang masuk ke akun saya.",
   "SETTINGS_NOTIFICATIONS_EMAIL_LOCKED_LABEL": "Email keamanan dan akun",
   "SETTINGS_NOTIFICATIONS_EMAIL_LOCKED_HINT": "Tautan masuk, perubahan email, moderasi, dan penangguhan selalu dikirim.",
   "SETTINGS_NOTIFICATIONS_TOAST_SAVED": "Preferensi notifikasi disimpan!",

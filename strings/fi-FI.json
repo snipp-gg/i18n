@@ -2129,6 +2129,8 @@
   "SETTINGS_NOTIFICATIONS_EMAIL_HEADING": "Sähköposti",
   "SETTINGS_NOTIFICATIONS_EMAIL_PAYOUTS_LABEL": "Maksusähköpostit",
   "SETTINGS_NOTIFICATIONS_EMAIL_PAYOUTS_HINT": "Lähetä minulle sähköposteja luojien maksuista ja suositteluista.",
+  "SETTINGS_NOTIFICATIONS_EMAIL_SIGN_INS_LABEL": "Kirjautumissähköpostit",
+  "SETTINGS_NOTIFICATIONS_EMAIL_SIGN_INS_HINT": "Lähetä minulle sähköposti aina, kun joku kirjautuu tililleni.",
   "SETTINGS_NOTIFICATIONS_EMAIL_LOCKED_LABEL": "Tietoturva- ja tilisähköpostit",
   "SETTINGS_NOTIFICATIONS_EMAIL_LOCKED_HINT": "Kirjautumislinkit, sähköpostin muutokset, moderointi ja jäädytykset lähetetään aina.",
   "SETTINGS_NOTIFICATIONS_TOAST_SAVED": "Ilmoitusasetukset tallennettu!",

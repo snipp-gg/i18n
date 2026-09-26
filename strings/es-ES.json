@@ -2129,6 +2129,8 @@
   "SETTINGS_NOTIFICATIONS_EMAIL_HEADING": "Correo electrónico",
   "SETTINGS_NOTIFICATIONS_EMAIL_PAYOUTS_LABEL": "Correos de pagos",
   "SETTINGS_NOTIFICATIONS_EMAIL_PAYOUTS_HINT": "Envíame correos sobre los pagos a creadores y las recomendaciones.",
+  "SETTINGS_NOTIFICATIONS_EMAIL_SIGN_INS_LABEL": "Correos de inicio de sesión",
+  "SETTINGS_NOTIFICATIONS_EMAIL_SIGN_INS_HINT": "Envíame un correo cada vez que alguien inicie sesión en mi cuenta.",
   "SETTINGS_NOTIFICATIONS_EMAIL_LOCKED_LABEL": "Correos de seguridad y cuenta",
   "SETTINGS_NOTIFICATIONS_EMAIL_LOCKED_HINT": "Los enlaces de inicio de sesión, los cambios de correo, la moderación y las suspensiones siempre se envían.",
   "SETTINGS_NOTIFICATIONS_TOAST_SAVED": "¡Preferencias de notificaciones guardadas!",

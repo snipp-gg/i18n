@@ -2129,6 +2129,8 @@
   "SETTINGS_NOTIFICATIONS_EMAIL_HEADING": "ईमेल",
   "SETTINGS_NOTIFICATIONS_EMAIL_PAYOUTS_LABEL": "पेआउट के ईमेल",
   "SETTINGS_NOTIFICATIONS_EMAIL_PAYOUTS_HINT": "क्रिएटर पेआउट और रेफ़रल के बारे में मुझे ईमेल करें।",
+  "SETTINGS_NOTIFICATIONS_EMAIL_SIGN_INS_LABEL": "साइन इन के ईमेल",
+  "SETTINGS_NOTIFICATIONS_EMAIL_SIGN_INS_HINT": "जब भी कोई मेरे अकाउंट में साइन इन करे, मुझे ईमेल करें।",
   "SETTINGS_NOTIFICATIONS_EMAIL_LOCKED_LABEL": "सुरक्षा और अकाउंट के ईमेल",
   "SETTINGS_NOTIFICATIONS_EMAIL_LOCKED_HINT": "लॉगिन लिंक, ईमेल बदलाव, मॉडरेशन और सस्पेंशन हमेशा भेजे जाते हैं।",
   "SETTINGS_NOTIFICATIONS_TOAST_SAVED": "नोटिफ़िकेशन प्राथमिकताएँ सहेजी गईं!",

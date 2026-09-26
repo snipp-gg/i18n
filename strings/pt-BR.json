@@ -2129,6 +2129,8 @@
   "SETTINGS_NOTIFICATIONS_EMAIL_HEADING": "E-mail",
   "SETTINGS_NOTIFICATIONS_EMAIL_PAYOUTS_LABEL": "E-mails de pagamento",
   "SETTINGS_NOTIFICATIONS_EMAIL_PAYOUTS_HINT": "Envie-me e-mails sobre pagamentos a criadores e indicações.",
+  "SETTINGS_NOTIFICATIONS_EMAIL_SIGN_INS_LABEL": "E-mails de login",
+  "SETTINGS_NOTIFICATIONS_EMAIL_SIGN_INS_HINT": "Envie-me um e-mail sempre que alguém entrar na minha conta.",
   "SETTINGS_NOTIFICATIONS_EMAIL_LOCKED_LABEL": "E-mails de segurança e conta",
   "SETTINGS_NOTIFICATIONS_EMAIL_LOCKED_HINT": "Links de login, alterações de e-mail, moderação e suspensões são sempre enviados.",
   "SETTINGS_NOTIFICATIONS_TOAST_SAVED": "Preferências de notificação salvas!",

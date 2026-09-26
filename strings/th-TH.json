@@ -2129,6 +2129,8 @@
   "SETTINGS_NOTIFICATIONS_EMAIL_HEADING": "อีเมล",
   "SETTINGS_NOTIFICATIONS_EMAIL_PAYOUTS_LABEL": "อีเมลการจ่ายเงิน",
   "SETTINGS_NOTIFICATIONS_EMAIL_PAYOUTS_HINT": "ส่งอีเมลถึงฉันเกี่ยวกับการจ่ายเงินครีเอเตอร์และการแนะนำ",
+  "SETTINGS_NOTIFICATIONS_EMAIL_SIGN_INS_LABEL": "อีเมลการเข้าสู่ระบบ",
+  "SETTINGS_NOTIFICATIONS_EMAIL_SIGN_INS_HINT": "ส่งอีเมลถึงฉันทุกครั้งที่มีคนเข้าสู่ระบบบัญชีของฉัน",
   "SETTINGS_NOTIFICATIONS_EMAIL_LOCKED_LABEL": "อีเมลความปลอดภัยและบัญชี",
   "SETTINGS_NOTIFICATIONS_EMAIL_LOCKED_HINT": "ลิงก์เข้าสู่ระบบ การเปลี่ยนอีเมล การกลั่นกรอง และการระงับบัญชีจะถูกส่งเสมอ",
   "SETTINGS_NOTIFICATIONS_TOAST_SAVED": "บันทึกการตั้งค่าการแจ้งเตือนแล้ว!",

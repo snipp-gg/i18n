@@ -2129,6 +2129,8 @@
   "SETTINGS_NOTIFICATIONS_EMAIL_HEADING": "E-mail",
   "SETTINGS_NOTIFICATIONS_EMAIL_PAYOUTS_LABEL": "E-maile o wypłatach",
   "SETTINGS_NOTIFICATIONS_EMAIL_PAYOUTS_HINT": "Wysyłaj mi e-maile o wypłatach dla twórców i poleceniach.",
+  "SETTINGS_NOTIFICATIONS_EMAIL_SIGN_INS_LABEL": "E-maile o logowaniach",
+  "SETTINGS_NOTIFICATIONS_EMAIL_SIGN_INS_HINT": "Wysyłaj mi e-mail za każdym razem, gdy ktoś zaloguje się na moje konto.",
   "SETTINGS_NOTIFICATIONS_EMAIL_LOCKED_LABEL": "E-maile dotyczące bezpieczeństwa i konta",
   "SETTINGS_NOTIFICATIONS_EMAIL_LOCKED_HINT": "Linki logowania, zmiany adresu e-mail, moderacja i zawieszenia są zawsze wysyłane.",
   "SETTINGS_NOTIFICATIONS_TOAST_SAVED": "Preferencje powiadomień zapisane!",
