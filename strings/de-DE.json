@@ -1911,7 +1911,7 @@
   "SETTINGS_TEAMS_LIMIT_REACHED_SINGULAR": "Du hast dein Team-Limit erreicht. Wende dich an den Support, um mehr Teams anzufragen.",
   "SETTINGS_TEAMS_LIMIT_REACHED_PLURAL": "Du hast das Maximum von {limit} Teams erreicht. Wende dich an den Support, um mehr Teams anzufragen.",
   "SETTINGS_TEAMS_UPSELL_HEADING": "Teams sind eine Ultra-Funktion",
-  "SETTINGS_TEAMS_UPSELL_DESCRIPTION": "Teams erfordern den Ultra-Plan. Upgrade auf Ultra, um ein Team mit einer geteilten Galerie, Mitgliederzugriff und einem dedizierten Zugriffsschlüssel zu erstellen.",
+  "SETTINGS_TEAMS_UPSELL_DESCRIPTION": "Teams erfordern den Ultra-Plan. Upgrade auf Ultra, um ein Team mit einer geteilten Galerie, Mitgliederzugriff und einem API-Schlüssel zu erstellen.",
   "SETTINGS_TEAMS_BACK": "Zurück zu Teams",
   "SETTINGS_TEAMS_NOT_FOUND": "Dieses Team existiert nicht oder du hast keinen Zugriff mehr darauf.",
   "SETTINGS_TEAMS_DETAIL_SUBHEADING": "Verwalte die Galerie, den Schlüssel und die Mitglieder dieses Teams.",

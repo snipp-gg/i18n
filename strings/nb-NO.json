@@ -1911,7 +1911,7 @@
   "SETTINGS_TEAMS_LIMIT_REACHED_SINGULAR": "Du har nådd teamgrensen din. Kontakt brukerstøtte for å be om flere.",
   "SETTINGS_TEAMS_LIMIT_REACHED_PLURAL": "Du har nådd maksimum på {limit} team. Kontakt brukerstøtte for å be om flere.",
   "SETTINGS_TEAMS_UPSELL_HEADING": "Team er en Ultra-funksjon",
-  "SETTINGS_TEAMS_UPSELL_DESCRIPTION": "Team krever Ultra-planen. Oppgrader for å opprette et team med et delt galleri, medlemstilgang og en dedikert tilgangsnøkkel.",
+  "SETTINGS_TEAMS_UPSELL_DESCRIPTION": "Team krever Ultra-planen. Oppgrader for å opprette et team med et delt galleri, medlemstilgang og en API-nøkkel.",
   "SETTINGS_TEAMS_BACK": "Tilbake til team",
   "SETTINGS_TEAMS_NOT_FOUND": "Dette teamet finnes ikke eller du har ikke lenger tilgang til det.",
   "SETTINGS_TEAMS_DETAIL_SUBHEADING": "Administrer dette teamets galleri, nøkkel og medlemmer.",

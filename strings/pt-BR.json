@@ -1911,7 +1911,7 @@
   "SETTINGS_TEAMS_LIMIT_REACHED_SINGULAR": "Você atingiu seu limite de equipes. Fale com o suporte para solicitar mais.",
   "SETTINGS_TEAMS_LIMIT_REACHED_PLURAL": "Você atingiu o máximo de {limit} equipes. Fale com o suporte para solicitar mais.",
   "SETTINGS_TEAMS_UPSELL_HEADING": "Equipes são um recurso Ultra",
-  "SETTINGS_TEAMS_UPSELL_DESCRIPTION": "As equipes exigem o plano Ultra. Faça upgrade para criar uma equipe com uma galeria compartilhada, acesso de membros e uma chave de acesso dedicada.",
+  "SETTINGS_TEAMS_UPSELL_DESCRIPTION": "As equipes exigem o plano Ultra. Faça upgrade para criar uma equipe com uma galeria compartilhada, acesso de membros e uma chave de API.",
   "SETTINGS_TEAMS_BACK": "Voltar para equipes",
   "SETTINGS_TEAMS_NOT_FOUND": "Esta equipe não existe ou você não tem mais acesso a ela.",
   "SETTINGS_TEAMS_DETAIL_SUBHEADING": "Gerencie a galeria, a chave e os membros desta equipe.",

@@ -1911,7 +1911,7 @@
   "SETTINGS_TEAMS_LIMIT_REACHED_SINGULAR": "आप अपनी टीम की सीमा तक पहुँच चुके हैं। अधिक टीमों का अनुरोध करने के लिए सपोर्ट से संपर्क करें।",
   "SETTINGS_TEAMS_LIMIT_REACHED_PLURAL": "आप {limit} टीमों की अधिकतम सीमा तक पहुँच चुके हैं। अधिक टीमों का अनुरोध करने के लिए सपोर्ट से संपर्क करें।",
   "SETTINGS_TEAMS_UPSELL_HEADING": "टीमें एक Ultra फ़ीचर हैं",
-  "SETTINGS_TEAMS_UPSELL_DESCRIPTION": "टीमों के लिए Ultra प्लान ज़रूरी है। साझा गैलरी, सदस्य एक्सेस और एक समर्पित एक्सेस की वाली टीम बनाने के लिए Ultra में अपग्रेड करें।",
+  "SETTINGS_TEAMS_UPSELL_DESCRIPTION": "टीमों के लिए Ultra प्लान ज़रूरी है। साझा गैलरी, सदस्य एक्सेस और एक API कुंजी वाली टीम बनाने के लिए Ultra में अपग्रेड करें।",
   "SETTINGS_TEAMS_BACK": "टीमों पर वापस जाएँ",
   "SETTINGS_TEAMS_NOT_FOUND": "यह टीम मौजूद नहीं है या अब आपके पास इसका एक्सेस नहीं है।",
   "SETTINGS_TEAMS_DETAIL_SUBHEADING": "इस टीम की गैलरी, की और सदस्यों को मैनेज करें।",

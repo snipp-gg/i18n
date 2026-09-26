@@ -1911,7 +1911,7 @@
   "SETTINGS_TEAMS_LIMIT_REACHED_SINGULAR": "Ai atins limita de echipe. Contactează asistența pentru a solicita mai multe.",
   "SETTINGS_TEAMS_LIMIT_REACHED_PLURAL": "Ai atins numărul maxim de echipe: {limit}. Contactează asistența pentru a solicita mai multe.",
   "SETTINGS_TEAMS_UPSELL_HEADING": "Echipele sunt o funcție Ultra",
-  "SETTINGS_TEAMS_UPSELL_DESCRIPTION": "Echipele necesită planul Ultra. Fă upgrade pentru a crea o echipă cu o galerie partajată, acces pentru membri și o cheie de acces dedicată.",
+  "SETTINGS_TEAMS_UPSELL_DESCRIPTION": "Echipele necesită planul Ultra. Fă upgrade pentru a crea o echipă cu o galerie partajată, acces pentru membri și o cheie API.",
   "SETTINGS_TEAMS_BACK": "Înapoi la echipe",
   "SETTINGS_TEAMS_NOT_FOUND": "Această echipă nu există sau nu mai ai acces la ea.",
   "SETTINGS_TEAMS_DETAIL_SUBHEADING": "Gestionează galeria, cheia și membrii acestei echipe.",

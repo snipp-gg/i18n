@@ -1911,7 +1911,7 @@
   "SETTINGS_TEAMS_LIMIT_REACHED_SINGULAR": "Bạn đã đạt giới hạn nhóm của mình. Liên hệ hỗ trợ để yêu cầu thêm.",
   "SETTINGS_TEAMS_LIMIT_REACHED_PLURAL": "Bạn đã đạt số nhóm tối đa là {limit}. Liên hệ hỗ trợ để yêu cầu thêm.",
   "SETTINGS_TEAMS_UPSELL_HEADING": "Nhóm là một tính năng Ultra",
-  "SETTINGS_TEAMS_UPSELL_DESCRIPTION": "Nhóm yêu cầu gói Ultra. Hãy nâng cấp lên Ultra để tạo nhóm với thư viện dùng chung, quyền truy cập cho thành viên và một khóa truy cập riêng.",
+  "SETTINGS_TEAMS_UPSELL_DESCRIPTION": "Nhóm yêu cầu gói Ultra. Hãy nâng cấp lên Ultra để tạo nhóm với thư viện dùng chung, quyền truy cập cho thành viên và một khóa API.",
   "SETTINGS_TEAMS_BACK": "Quay lại nhóm",
   "SETTINGS_TEAMS_NOT_FOUND": "Nhóm này không tồn tại hoặc bạn không còn quyền truy cập vào nó.",
   "SETTINGS_TEAMS_DETAIL_SUBHEADING": "Quản lý thư viện, khóa và thành viên của nhóm này.",

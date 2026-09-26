@@ -1911,7 +1911,7 @@
   "SETTINGS_TEAMS_LIMIT_REACHED_SINGULAR": "チーム数の上限に達しました。さらに必要な場合は、サポートにお問い合わせください。",
   "SETTINGS_TEAMS_LIMIT_REACHED_PLURAL": "チームの上限である{limit}チームに達しました。さらに必要な場合は、サポートにお問い合わせください。",
   "SETTINGS_TEAMS_UPSELL_HEADING": "チームはUltra機能です",
-  "SETTINGS_TEAMS_UPSELL_DESCRIPTION": "チームはUltraプランが必要です。アップグレードすると、共有ギャラリー、メンバーアクセス、専用アクセスキーを備えたチームを作成できます。",
+  "SETTINGS_TEAMS_UPSELL_DESCRIPTION": "チームはUltraプランが必要です。アップグレードすると、共有ギャラリー、メンバーアクセス、API キーを備えたチームを作成できます。",
   "SETTINGS_TEAMS_BACK": "チームに戻る",
   "SETTINGS_TEAMS_NOT_FOUND": "このチームは存在しないか、アクセス権がなくなりました。",
   "SETTINGS_TEAMS_DETAIL_SUBHEADING": "このチームのギャラリー、キー、メンバーを管理します。",

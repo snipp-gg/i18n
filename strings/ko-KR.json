@@ -1911,7 +1911,7 @@
   "SETTINGS_TEAMS_LIMIT_REACHED_SINGULAR": "팀 한도에 도달했습니다. 더 필요하시면 지원팀에 문의하세요.",
   "SETTINGS_TEAMS_LIMIT_REACHED_PLURAL": "최대 {limit}개 팀에 도달했습니다. 더 필요하시면 지원팀에 문의하세요.",
   "SETTINGS_TEAMS_UPSELL_HEADING": "팀은 Ultra 기능입니다",
-  "SETTINGS_TEAMS_UPSELL_DESCRIPTION": "팀은 Ultra 요금제가 필요합니다. 공유 갤러리, 멤버 접근, 전용 접근 키를 갖춘 팀을 만들려면 업그레이드하세요.",
+  "SETTINGS_TEAMS_UPSELL_DESCRIPTION": "팀은 Ultra 요금제가 필요합니다. 공유 갤러리, 멤버 접근, API 키를 갖춘 팀을 만들려면 업그레이드하세요.",
   "SETTINGS_TEAMS_BACK": "팀으로 돌아가기",
   "SETTINGS_TEAMS_NOT_FOUND": "이 팀은 존재하지 않거나 더 이상 접근 권한이 없습니다.",
   "SETTINGS_TEAMS_DETAIL_SUBHEADING": "이 팀의 갤러리, 키, 멤버를 관리하세요.",

@@ -1911,7 +1911,7 @@
   "SETTINGS_TEAMS_LIMIT_REACHED_SINGULAR": "Ви досягли ліміту команд. Зверніться до підтримки, щоб збільшити ліміт.",
   "SETTINGS_TEAMS_LIMIT_REACHED_PLURAL": "Ви досягли максимальної кількості команд: {limit}. Зверніться до підтримки, щоб збільшити ліміт.",
   "SETTINGS_TEAMS_UPSELL_HEADING": "Команди — це функція Ultra",
-  "SETTINGS_TEAMS_UPSELL_DESCRIPTION": "Команди потребують плану Ultra. Перейдіть на Ultra, щоб створити команду зі спільною галереєю, доступом для учасників і виділеним ключем доступу.",
+  "SETTINGS_TEAMS_UPSELL_DESCRIPTION": "Команди потребують плану Ultra. Перейдіть на Ultra, щоб створити команду зі спільною галереєю, доступом для учасників і ключем API.",
   "SETTINGS_TEAMS_BACK": "Назад до команд",
   "SETTINGS_TEAMS_NOT_FOUND": "Ця команда не існує або ви більше не маєте до неї доступу.",
   "SETTINGS_TEAMS_DETAIL_SUBHEADING": "Керуйте галереєю, ключем та учасниками цієї команди.",

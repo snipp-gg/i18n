@@ -1911,7 +1911,7 @@
   "SETTINGS_TEAMS_LIMIT_REACHED_SINGULAR": "Olet saavuttanut tiimirajasi. Ota yhteyttä tukeen pyytääksesi lisää.",
   "SETTINGS_TEAMS_LIMIT_REACHED_PLURAL": "Olet saavuttanut enimmäismäärän {limit} tiimiä. Ota yhteyttä tukeen pyytääksesi lisää.",
   "SETTINGS_TEAMS_UPSELL_HEADING": "Tiimit ovat Ultra-ominaisuus",
-  "SETTINGS_TEAMS_UPSELL_DESCRIPTION": "Tiimit vaativat Ultra-paketin. Päivitä Ultraan luodaksesi tiimin, jossa on jaettu galleria, jäsenpääsy ja oma käyttöavain.",
+  "SETTINGS_TEAMS_UPSELL_DESCRIPTION": "Tiimit vaativat Ultra-paketin. Päivitä Ultraan luodaksesi tiimin, jossa on jaettu galleria, jäsenpääsy ja API-avain.",
   "SETTINGS_TEAMS_BACK": "Takaisin tiimeihin",
   "SETTINGS_TEAMS_NOT_FOUND": "Tätä tiimiä ei ole olemassa tai sinulla ei enää ole pääsyä siihen.",
   "SETTINGS_TEAMS_DETAIL_SUBHEADING": "Hallitse tämän tiimin galleriaa, avainta ja jäseniä.",
