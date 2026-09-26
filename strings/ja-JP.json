@@ -1360,6 +1360,7 @@
   "SETTINGS_LINKED_ACCOUNTS_ERROR_GENERIC": "問題が発生しました。もう一度お試しください。",
   "SETTINGS_SESSIONS_HEADING": "デバイス",
   "SETTINGS_SESSIONS_HINT": "アカウントにサインインしているデバイスです。心当たりのないものはログアウトしてください。",
+  "SETTINGS_SESSIONS_EMPTY": "一体どうやってここに来たんですか？！？！",
   "SETTINGS_SESSIONS_DEVICE_LABEL": "{os} の {browser}",
   "SETTINGS_SESSIONS_UNKNOWN_DEVICE": "不明なデバイス",
   "SETTINGS_SESSIONS_THIS_DEVICE": "このデバイス",

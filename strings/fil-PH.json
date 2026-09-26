@@ -1360,6 +1360,7 @@
   "SETTINGS_LINKED_ACCOUNTS_ERROR_GENERIC": "May nangyaring mali. Subukan ulit.",
   "SETTINGS_SESSIONS_HEADING": "Mga device",
   "SETTINGS_SESSIONS_HINT": "Mga device na naka-sign in sa iyong account. I-log out ang mga hindi mo kilala.",
+  "SETTINGS_SESSIONS_EMPTY": "Paano ka napunta dito?!?!",
   "SETTINGS_SESSIONS_DEVICE_LABEL": "{browser} sa {os}",
   "SETTINGS_SESSIONS_UNKNOWN_DEVICE": "Hindi kilalang device",
   "SETTINGS_SESSIONS_THIS_DEVICE": "Ang device na ito",

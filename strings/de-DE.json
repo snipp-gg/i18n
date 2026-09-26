@@ -1360,6 +1360,7 @@
   "SETTINGS_LINKED_ACCOUNTS_ERROR_GENERIC": "Etwas ist schiefgelaufen. Bitte versuche es erneut.",
   "SETTINGS_SESSIONS_HEADING": "Geräte",
   "SETTINGS_SESSIONS_HINT": "Geräte, die bei deinem Konto angemeldet sind. Melde alle ab, die du nicht erkennst.",
+  "SETTINGS_SESSIONS_EMPTY": "Wie bist du denn hierher gekommen?!?!",
   "SETTINGS_SESSIONS_DEVICE_LABEL": "{browser} auf {os}",
   "SETTINGS_SESSIONS_UNKNOWN_DEVICE": "Unbekanntes Gerät",
   "SETTINGS_SESSIONS_THIS_DEVICE": "Dieses Gerät",

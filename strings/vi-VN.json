@@ -1360,6 +1360,7 @@
   "SETTINGS_LINKED_ACCOUNTS_ERROR_GENERIC": "Đã xảy ra lỗi. Vui lòng thử lại.",
   "SETTINGS_SESSIONS_HEADING": "Thiết bị",
   "SETTINGS_SESSIONS_HINT": "Các thiết bị đã đăng nhập vào tài khoản của bạn. Hãy đăng xuất những thiết bị bạn không nhận ra.",
+  "SETTINGS_SESSIONS_EMPTY": "Làm sao bạn vào được đây vậy?!?!",
   "SETTINGS_SESSIONS_DEVICE_LABEL": "{browser} trên {os}",
   "SETTINGS_SESSIONS_UNKNOWN_DEVICE": "Thiết bị không xác định",
   "SETTINGS_SESSIONS_THIS_DEVICE": "Thiết bị này",

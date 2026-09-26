@@ -1360,6 +1360,7 @@
   "SETTINGS_LINKED_ACCOUNTS_ERROR_GENERIC": "Jotain meni pieleen. Yritä uudelleen.",
   "SETTINGS_SESSIONS_HEADING": "Laitteet",
   "SETTINGS_SESSIONS_HINT": "Laitteet, joilla on kirjauduttu tilillesi. Kirjaa ulos ne, joita et tunnista.",
+  "SETTINGS_SESSIONS_EMPTY": "Miten ihmeessä päädyit tänne?!?!",
   "SETTINGS_SESSIONS_DEVICE_LABEL": "{browser} ({os})",
   "SETTINGS_SESSIONS_UNKNOWN_DEVICE": "Tuntematon laite",
   "SETTINGS_SESSIONS_THIS_DEVICE": "Tämä laite",

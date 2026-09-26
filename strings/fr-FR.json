@@ -1360,6 +1360,7 @@
   "SETTINGS_LINKED_ACCOUNTS_ERROR_GENERIC": "Une erreur s'est produite. Veuillez réessayer.",
   "SETTINGS_SESSIONS_HEADING": "Appareils",
   "SETTINGS_SESSIONS_HINT": "Appareils connectés à votre compte. Déconnectez ceux que vous ne reconnaissez pas.",
+  "SETTINGS_SESSIONS_EMPTY": "Comment avez-vous atterri ici ?!?!",
   "SETTINGS_SESSIONS_DEVICE_LABEL": "{browser} sur {os}",
   "SETTINGS_SESSIONS_UNKNOWN_DEVICE": "Appareil inconnu",
   "SETTINGS_SESSIONS_THIS_DEVICE": "Cet appareil",

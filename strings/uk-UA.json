@@ -1360,6 +1360,7 @@
   "SETTINGS_LINKED_ACCOUNTS_ERROR_GENERIC": "Щось пішло не так. Спробуйте ще раз.",
   "SETTINGS_SESSIONS_HEADING": "Пристрої",
   "SETTINGS_SESSIONS_HINT": "Пристрої, на яких виконано вхід у ваш акаунт. Вийдіть на тих, які ви не впізнаєте.",
+  "SETTINGS_SESSIONS_EMPTY": "Як ви сюди потрапили?!?!",
   "SETTINGS_SESSIONS_DEVICE_LABEL": "{browser} на {os}",
   "SETTINGS_SESSIONS_UNKNOWN_DEVICE": "Невідомий пристрій",
   "SETTINGS_SESSIONS_THIS_DEVICE": "Цей пристрій",

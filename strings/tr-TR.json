@@ -1360,6 +1360,7 @@
   "SETTINGS_LINKED_ACCOUNTS_ERROR_GENERIC": "Bir şeyler ters gitti. Lütfen tekrar deneyin.",
   "SETTINGS_SESSIONS_HEADING": "Cihazlar",
   "SETTINGS_SESSIONS_HINT": "Hesabınızda oturum açık olan cihazlar. Tanımadıklarınızdan çıkış yapın.",
+  "SETTINGS_SESSIONS_EMPTY": "Buraya nasıl geldiniz?!?!",
   "SETTINGS_SESSIONS_DEVICE_LABEL": "{os} üzerinde {browser}",
   "SETTINGS_SESSIONS_UNKNOWN_DEVICE": "Bilinmeyen cihaz",
   "SETTINGS_SESSIONS_THIS_DEVICE": "Bu cihaz",

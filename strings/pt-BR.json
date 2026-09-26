@@ -1360,6 +1360,7 @@
   "SETTINGS_LINKED_ACCOUNTS_ERROR_GENERIC": "Algo deu errado. Tente novamente.",
   "SETTINGS_SESSIONS_HEADING": "Dispositivos",
   "SETTINGS_SESSIONS_HINT": "Dispositivos conectados à sua conta. Saia dos que você não reconhece.",
+  "SETTINGS_SESSIONS_EMPTY": "Como é que você foi parar aqui?!?!",
   "SETTINGS_SESSIONS_DEVICE_LABEL": "{browser} no {os}",
   "SETTINGS_SESSIONS_UNKNOWN_DEVICE": "Dispositivo desconhecido",
   "SETTINGS_SESSIONS_THIS_DEVICE": "Este dispositivo",

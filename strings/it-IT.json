@@ -1360,6 +1360,7 @@
   "SETTINGS_LINKED_ACCOUNTS_ERROR_GENERIC": "Qualcosa è andato storto. Riprova.",
   "SETTINGS_SESSIONS_HEADING": "Dispositivi",
   "SETTINGS_SESSIONS_HINT": "Dispositivi che hanno effettuato l'accesso al tuo account. Disconnetti quelli che non riconosci.",
+  "SETTINGS_SESSIONS_EMPTY": "Come hai fatto ad arrivare qui?!?!",
   "SETTINGS_SESSIONS_DEVICE_LABEL": "{browser} su {os}",
   "SETTINGS_SESSIONS_UNKNOWN_DEVICE": "Dispositivo sconosciuto",
   "SETTINGS_SESSIONS_THIS_DEVICE": "Questo dispositivo",

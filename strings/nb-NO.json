@@ -1360,6 +1360,7 @@
   "SETTINGS_LINKED_ACCOUNTS_ERROR_GENERIC": "Noe gikk galt. Prøv igjen.",
   "SETTINGS_SESSIONS_HEADING": "Enheter",
   "SETTINGS_SESSIONS_HINT": "Enheter som er logget inn på kontoen din. Logg ut de du ikke kjenner igjen.",
+  "SETTINGS_SESSIONS_EMPTY": "Hvordan havnet du her?!?!",
   "SETTINGS_SESSIONS_DEVICE_LABEL": "{browser} på {os}",
   "SETTINGS_SESSIONS_UNKNOWN_DEVICE": "Ukjent enhet",
   "SETTINGS_SESSIONS_THIS_DEVICE": "Denne enheten",

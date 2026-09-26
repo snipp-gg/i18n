@@ -1360,6 +1360,7 @@
   "SETTINGS_LINKED_ACCOUNTS_ERROR_GENERIC": "Algo correu mal. Por favor tente novamente.",
   "SETTINGS_SESSIONS_HEADING": "Dispositivos",
   "SETTINGS_SESSIONS_HINT": "Dispositivos com sessão iniciada na sua conta. Termine a sessão nos que não reconhece.",
+  "SETTINGS_SESSIONS_EMPTY": "Como é que foi parar aqui?!?!",
   "SETTINGS_SESSIONS_DEVICE_LABEL": "{browser} em {os}",
   "SETTINGS_SESSIONS_UNKNOWN_DEVICE": "Dispositivo desconhecido",
   "SETTINGS_SESSIONS_THIS_DEVICE": "Este dispositivo",

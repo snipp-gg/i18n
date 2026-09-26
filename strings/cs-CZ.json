@@ -1360,6 +1360,7 @@
   "SETTINGS_LINKED_ACCOUNTS_ERROR_GENERIC": "Něco se pokazilo. Zkuste to prosím znovu.",
   "SETTINGS_SESSIONS_HEADING": "Zařízení",
   "SETTINGS_SESSIONS_HINT": "Zařízení přihlášená k vašemu účtu. Odhlaste ta, která nepoznáváte.",
+  "SETTINGS_SESSIONS_EMPTY": "Jak jste se sem dostali?!?!",
   "SETTINGS_SESSIONS_DEVICE_LABEL": "{browser} na {os}",
   "SETTINGS_SESSIONS_UNKNOWN_DEVICE": "Neznámé zařízení",
   "SETTINGS_SESSIONS_THIS_DEVICE": "Toto zařízení",

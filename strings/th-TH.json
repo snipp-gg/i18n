@@ -1360,6 +1360,7 @@
   "SETTINGS_LINKED_ACCOUNTS_ERROR_GENERIC": "เกิดข้อผิดพลาด กรุณาลองอีกครั้ง",
   "SETTINGS_SESSIONS_HEADING": "อุปกรณ์",
   "SETTINGS_SESSIONS_HINT": "อุปกรณ์ที่เข้าสู่ระบบบัญชีของคุณ ออกจากระบบอุปกรณ์ที่คุณไม่รู้จัก",
+  "SETTINGS_SESSIONS_EMPTY": "คุณมาอยู่ตรงนี้ได้ยังไง?!?!",
   "SETTINGS_SESSIONS_DEVICE_LABEL": "{browser} บน {os}",
   "SETTINGS_SESSIONS_UNKNOWN_DEVICE": "อุปกรณ์ที่ไม่รู้จัก",
   "SETTINGS_SESSIONS_THIS_DEVICE": "อุปกรณ์นี้",

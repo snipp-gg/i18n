@@ -1360,6 +1360,7 @@
   "SETTINGS_LINKED_ACCOUNTS_ERROR_GENERIC": "Something went wrong. Please try again.",
   "SETTINGS_SESSIONS_HEADING": "Devices",
   "SETTINGS_SESSIONS_HINT": "Devices signed in to your account. Log out any you don't recognize.",
+  "SETTINGS_SESSIONS_EMPTY": "How did you get here?!?!",
   "SETTINGS_SESSIONS_DEVICE_LABEL": "{browser} on {os}",
   "SETTINGS_SESSIONS_UNKNOWN_DEVICE": "Unknown device",
   "SETTINGS_SESSIONS_THIS_DEVICE": "This device",

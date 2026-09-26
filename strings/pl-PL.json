@@ -1360,6 +1360,7 @@
   "SETTINGS_LINKED_ACCOUNTS_ERROR_GENERIC": "Coś poszło nie tak. Spróbuj ponownie.",
   "SETTINGS_SESSIONS_HEADING": "Urządzenia",
   "SETTINGS_SESSIONS_HINT": "Urządzenia zalogowane na Twoje konto. Wyloguj te, których nie rozpoznajesz.",
+  "SETTINGS_SESSIONS_EMPTY": "Jakim cudem tu jesteś?!?!",
   "SETTINGS_SESSIONS_DEVICE_LABEL": "{browser} na {os}",
   "SETTINGS_SESSIONS_UNKNOWN_DEVICE": "Nieznane urządzenie",
   "SETTINGS_SESSIONS_THIS_DEVICE": "To urządzenie",

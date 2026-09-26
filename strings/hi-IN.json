@@ -1360,6 +1360,7 @@
   "SETTINGS_LINKED_ACCOUNTS_ERROR_GENERIC": "कुछ गड़बड़ हो गई। कृपया दोबारा कोशिश करें।",
   "SETTINGS_SESSIONS_HEADING": "डिवाइस",
   "SETTINGS_SESSIONS_HINT": "आपके अकाउंट में साइन इन किए गए डिवाइस। जिन्हें आप नहीं पहचानते, उन्हें लॉग आउट करें।",
+  "SETTINGS_SESSIONS_EMPTY": "आप यहाँ कैसे पहुँच गए?!?!",
   "SETTINGS_SESSIONS_DEVICE_LABEL": "{os} पर {browser}",
   "SETTINGS_SESSIONS_UNKNOWN_DEVICE": "अज्ञात डिवाइस",
   "SETTINGS_SESSIONS_THIS_DEVICE": "यह डिवाइस",

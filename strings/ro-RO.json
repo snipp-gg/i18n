@@ -1360,6 +1360,7 @@
   "SETTINGS_LINKED_ACCOUNTS_ERROR_GENERIC": "Ceva n-a mers bine. Te rugăm să încerci din nou.",
   "SETTINGS_SESSIONS_HEADING": "Dispozitive",
   "SETTINGS_SESSIONS_HINT": "Dispozitive conectate la contul tău. Deconectează-le pe cele pe care nu le recunoști.",
+  "SETTINGS_SESSIONS_EMPTY": "Cum ai ajuns aici?!?!",
   "SETTINGS_SESSIONS_DEVICE_LABEL": "{browser} pe {os}",
   "SETTINGS_SESSIONS_UNKNOWN_DEVICE": "Dispozitiv necunoscut",
   "SETTINGS_SESSIONS_THIS_DEVICE": "Acest dispozitiv",

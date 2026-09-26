@@ -1360,6 +1360,7 @@
   "SETTINGS_LINKED_ACCOUNTS_ERROR_GENERIC": "Κάτι πήγε στραβά. Παρακαλούμε δοκιμάστε ξανά.",
   "SETTINGS_SESSIONS_HEADING": "Συσκευές",
   "SETTINGS_SESSIONS_HINT": "Συσκευές συνδεδεμένες στον λογαριασμό σας. Αποσυνδέστε όσες δεν αναγνωρίζετε.",
+  "SETTINGS_SESSIONS_EMPTY": "Πώς βρεθήκατε εδώ;!;!",
   "SETTINGS_SESSIONS_DEVICE_LABEL": "{browser} σε {os}",
   "SETTINGS_SESSIONS_UNKNOWN_DEVICE": "Άγνωστη συσκευή",
   "SETTINGS_SESSIONS_THIS_DEVICE": "Αυτή η συσκευή",

@@ -1360,6 +1360,7 @@
   "SETTINGS_LINKED_ACCOUNTS_ERROR_GENERIC": "Нещо се обърка. Моля, опитайте отново.",
   "SETTINGS_SESSIONS_HEADING": "Устройства",
   "SETTINGS_SESSIONS_HINT": "Устройства, влезли във вашия акаунт. Излезте от тези, които не разпознавате.",
+  "SETTINGS_SESSIONS_EMPTY": "Как попаднахте тук?!?!",
   "SETTINGS_SESSIONS_DEVICE_LABEL": "{browser} на {os}",
   "SETTINGS_SESSIONS_UNKNOWN_DEVICE": "Неизвестно устройство",
   "SETTINGS_SESSIONS_THIS_DEVICE": "Това устройство",

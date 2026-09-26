@@ -1360,6 +1360,7 @@
   "SETTINGS_LINKED_ACCOUNTS_ERROR_GENERIC": "Er is iets misgegaan. Probeer het opnieuw.",
   "SETTINGS_SESSIONS_HEADING": "Apparaten",
   "SETTINGS_SESSIONS_HINT": "Apparaten die zijn ingelogd op je account. Log de apparaten uit die je niet herkent.",
+  "SETTINGS_SESSIONS_EMPTY": "Hoe ben jij hier beland?!?!",
   "SETTINGS_SESSIONS_DEVICE_LABEL": "{browser} op {os}",
   "SETTINGS_SESSIONS_UNKNOWN_DEVICE": "Onbekend apparaat",
   "SETTINGS_SESSIONS_THIS_DEVICE": "Dit apparaat",

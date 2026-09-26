@@ -1360,6 +1360,7 @@
   "SETTINGS_LINKED_ACCOUNTS_ERROR_GENERIC": "Что-то пошло не так. Попробуйте ещё раз.",
   "SETTINGS_SESSIONS_HEADING": "Устройства",
   "SETTINGS_SESSIONS_HINT": "Устройства, на которых выполнен вход в вашу учётную запись. Выйдите на тех, которые вы не узнаёте.",
+  "SETTINGS_SESSIONS_EMPTY": "Как вы сюда попали?!?!",
   "SETTINGS_SESSIONS_DEVICE_LABEL": "{browser} на {os}",
   "SETTINGS_SESSIONS_UNKNOWN_DEVICE": "Неизвестное устройство",
   "SETTINGS_SESSIONS_THIS_DEVICE": "Это устройство",

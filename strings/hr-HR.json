@@ -1360,6 +1360,7 @@
   "SETTINGS_LINKED_ACCOUNTS_ERROR_GENERIC": "Nešto je pošlo po zlu. Pokušaj ponovno.",
   "SETTINGS_SESSIONS_HEADING": "Uređaji",
   "SETTINGS_SESSIONS_HINT": "Uređaji prijavljeni na tvoj račun. Odjavi one koje ne prepoznaješ.",
+  "SETTINGS_SESSIONS_EMPTY": "Otkud ti ovdje?!?!",
   "SETTINGS_SESSIONS_DEVICE_LABEL": "{browser} na {os}",
   "SETTINGS_SESSIONS_UNKNOWN_DEVICE": "Nepoznat uređaj",
   "SETTINGS_SESSIONS_THIS_DEVICE": "Ovaj uređaj",
