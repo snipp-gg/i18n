@@ -1363,7 +1363,6 @@
   "SETTINGS_LINKED_ACCOUNTS_ERROR_GENERIC": "Đã xảy ra lỗi. Vui lòng thử lại.",
   "SETTINGS_ACCOUNT_PROTECTION_LABEL": "Bảo vệ tài khoản nâng cao",
   "SETTINGS_ACCOUNT_PROTECTION_HINT": "Dùng magic link thay cho mã 6 ký tự để ngăn các cuộc tấn công brute force.",
-  "SETTINGS_ACCOUNT_PROTECTION_STAFF_HINT": "Dùng magic link thay cho mã 6 ký tự để ngăn các cuộc tấn công brute force. Luôn bật với tài khoản nhân viên.",
   "SETTINGS_ACCOUNT_PROTECTION_TOAST_ENABLED": "Đã bật Bảo vệ tài khoản nâng cao.",
   "SETTINGS_ACCOUNT_PROTECTION_TOAST_DISABLED": "Đã tắt Bảo vệ tài khoản nâng cao.",
   "SETTINGS_SESSIONS_HEADING": "Thiết bị",

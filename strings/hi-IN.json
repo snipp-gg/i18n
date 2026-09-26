@@ -1363,7 +1363,6 @@
   "SETTINGS_LINKED_ACCOUNTS_ERROR_GENERIC": "कुछ गड़बड़ हो गई। कृपया दोबारा कोशिश करें।",
   "SETTINGS_ACCOUNT_PROTECTION_LABEL": "उन्नत अकाउंट सुरक्षा",
   "SETTINGS_ACCOUNT_PROTECTION_HINT": "ब्रूट फोर्स हमलों को रोकने के लिए 6 अक्षरों वाले कोड की जगह मैजिक लिंक का इस्तेमाल करता है।",
-  "SETTINGS_ACCOUNT_PROTECTION_STAFF_HINT": "ब्रूट फोर्स हमलों को रोकने के लिए 6 अक्षरों वाले कोड की जगह मैजिक लिंक का इस्तेमाल करता है। स्टाफ़ अकाउंट के लिए हमेशा चालू रहती है।",
   "SETTINGS_ACCOUNT_PROTECTION_TOAST_ENABLED": "उन्नत अकाउंट सुरक्षा चालू हो गई।",
   "SETTINGS_ACCOUNT_PROTECTION_TOAST_DISABLED": "उन्नत अकाउंट सुरक्षा बंद हो गई।",
   "SETTINGS_SESSIONS_HEADING": "डिवाइस",

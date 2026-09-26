@@ -1363,7 +1363,6 @@
   "SETTINGS_LINKED_ACCOUNTS_ERROR_GENERIC": "Bir şeyler ters gitti. Lütfen tekrar deneyin.",
   "SETTINGS_ACCOUNT_PROTECTION_LABEL": "Gelişmiş Hesap Koruması",
   "SETTINGS_ACCOUNT_PROTECTION_HINT": "Kaba kuvvet saldırılarını önlemek için 6 karakterli kodlar yerine sihirli bağlantılar kullanır.",
-  "SETTINGS_ACCOUNT_PROTECTION_STAFF_HINT": "Kaba kuvvet saldırılarını önlemek için 6 karakterli kodlar yerine sihirli bağlantılar kullanır. Ekip hesaplarında her zaman açıktır.",
   "SETTINGS_ACCOUNT_PROTECTION_TOAST_ENABLED": "Gelişmiş Hesap Koruması etkinleştirildi.",
   "SETTINGS_ACCOUNT_PROTECTION_TOAST_DISABLED": "Gelişmiş Hesap Koruması devre dışı bırakıldı.",
   "SETTINGS_SESSIONS_HEADING": "Cihazlar",

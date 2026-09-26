@@ -1363,7 +1363,6 @@
   "SETTINGS_LINKED_ACCOUNTS_ERROR_GENERIC": "Щось пішло не так. Спробуйте ще раз.",
   "SETTINGS_ACCOUNT_PROTECTION_LABEL": "Розширений захист акаунта",
   "SETTINGS_ACCOUNT_PROTECTION_HINT": "Використовує магічні посилання замість кодів із 6 символів для захисту від брутфорс-атак.",
-  "SETTINGS_ACCOUNT_PROTECTION_STAFF_HINT": "Використовує магічні посилання замість кодів із 6 символів для захисту від брутфорс-атак. Для акаунтів команди завжди увімкнено.",
   "SETTINGS_ACCOUNT_PROTECTION_TOAST_ENABLED": "Розширений захист акаунта увімкнено.",
   "SETTINGS_ACCOUNT_PROTECTION_TOAST_DISABLED": "Розширений захист акаунта вимкнено.",
   "SETTINGS_SESSIONS_HEADING": "Пристрої",

@@ -1363,7 +1363,6 @@
   "SETTINGS_LINKED_ACCOUNTS_ERROR_GENERIC": "Nešto je pošlo naopako. Pokušajte ponovo.",
   "SETTINGS_ACCOUNT_PROTECTION_LABEL": "Napredna zaštita naloga",
   "SETTINGS_ACCOUNT_PROTECTION_HINT": "Koristi magične linkove umesto kodova od 6 znakova radi sprečavanja napada grubom silom.",
-  "SETTINGS_ACCOUNT_PROTECTION_STAFF_HINT": "Koristi magične linkove umesto kodova od 6 znakova radi sprečavanja napada grubom silom. Uvek uključena za naloge osoblja.",
   "SETTINGS_ACCOUNT_PROTECTION_TOAST_ENABLED": "Napredna zaštita naloga uključena.",
   "SETTINGS_ACCOUNT_PROTECTION_TOAST_DISABLED": "Napredna zaštita naloga isključena.",
   "SETTINGS_SESSIONS_HEADING": "Uređaji",

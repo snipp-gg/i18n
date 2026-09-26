@@ -1363,7 +1363,6 @@
   "SETTINGS_LINKED_ACCOUNTS_ERROR_GENERIC": "Noe gikk galt. Prøv igjen.",
   "SETTINGS_ACCOUNT_PROTECTION_LABEL": "Avansert kontobeskyttelse",
   "SETTINGS_ACCOUNT_PROTECTION_HINT": "Bruker magiske lenker i stedet for koder på 6 tegn for å hindre brute force-angrep.",
-  "SETTINGS_ACCOUNT_PROTECTION_STAFF_HINT": "Bruker magiske lenker i stedet for koder på 6 tegn for å hindre brute force-angrep. Alltid på for ansattkontoer.",
   "SETTINGS_ACCOUNT_PROTECTION_TOAST_ENABLED": "Avansert kontobeskyttelse aktivert.",
   "SETTINGS_ACCOUNT_PROTECTION_TOAST_DISABLED": "Avansert kontobeskyttelse deaktivert.",
   "SETTINGS_SESSIONS_HEADING": "Enheter",

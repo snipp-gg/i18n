@@ -1363,7 +1363,6 @@
   "SETTINGS_LINKED_ACCOUNTS_ERROR_GENERIC": "Une erreur s'est produite. Veuillez réessayer.",
   "SETTINGS_ACCOUNT_PROTECTION_LABEL": "Protection avancée du compte",
   "SETTINGS_ACCOUNT_PROTECTION_HINT": "Utilise des liens magiques au lieu de codes à 6 caractères pour empêcher les attaques par force brute.",
-  "SETTINGS_ACCOUNT_PROTECTION_STAFF_HINT": "Utilise des liens magiques au lieu de codes à 6 caractères pour empêcher les attaques par force brute. Toujours activée pour les comptes de l'équipe.",
   "SETTINGS_ACCOUNT_PROTECTION_TOAST_ENABLED": "Protection avancée du compte activée.",
   "SETTINGS_ACCOUNT_PROTECTION_TOAST_DISABLED": "Protection avancée du compte désactivée.",
   "SETTINGS_SESSIONS_HEADING": "Appareils",
