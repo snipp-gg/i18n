@@ -1362,7 +1362,7 @@
   "SETTINGS_LINKED_ACCOUNTS_ERROR_ALREADY_LINKED": "Този акаунт вече е свързан с друг потребител на Snipp.",
   "SETTINGS_LINKED_ACCOUNTS_ERROR_GENERIC": "Нещо се обърка. Моля, опитайте отново.",
   "SETTINGS_ACCOUNT_PROTECTION_LABEL": "Разширена защита на акаунта",
-  "SETTINGS_ACCOUNT_PROTECTION_HINT": "Използва магически връзки вместо кодове от 6 знака, за да предотврати атаки с груба сила. Приложението Snipp влиза с код, затова изключете това, преди да влезете на нов телефон.",
+  "SETTINGS_ACCOUNT_PROTECTION_HINT": "Използва магически връзки вместо кодове от 6 знака, за да предотврати атаки с груба сила.",
   "SETTINGS_ACCOUNT_PROTECTION_TOAST_ENABLED": "Разширената защита на акаунта е включена.",
   "SETTINGS_ACCOUNT_PROTECTION_TOAST_DISABLED": "Разширената защита на акаунта е изключена.",
   "SETTINGS_SESSIONS_HEADING": "Устройства",

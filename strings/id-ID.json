@@ -1362,7 +1362,7 @@
   "SETTINGS_LINKED_ACCOUNTS_ERROR_ALREADY_LINKED": "Akun tersebut sudah ditautkan ke pengguna Snipp lain.",
   "SETTINGS_LINKED_ACCOUNTS_ERROR_GENERIC": "Terjadi kesalahan. Silakan coba lagi.",
   "SETTINGS_ACCOUNT_PROTECTION_LABEL": "Perlindungan Akun Lanjutan",
-  "SETTINGS_ACCOUNT_PROTECTION_HINT": "Menggunakan magic link alih-alih kode 6 karakter untuk mencegah serangan brute force. Aplikasi Snipp login dengan kode, jadi nonaktifkan ini sebelum login di ponsel baru.",
+  "SETTINGS_ACCOUNT_PROTECTION_HINT": "Menggunakan magic link alih-alih kode 6 karakter untuk mencegah serangan brute force.",
   "SETTINGS_ACCOUNT_PROTECTION_TOAST_ENABLED": "Perlindungan Akun Lanjutan diaktifkan.",
   "SETTINGS_ACCOUNT_PROTECTION_TOAST_DISABLED": "Perlindungan Akun Lanjutan dinonaktifkan.",
   "SETTINGS_SESSIONS_HEADING": "Perangkat",

@@ -1362,7 +1362,7 @@
   "SETTINGS_LINKED_ACCOUNTS_ERROR_ALREADY_LINKED": "Det kontot är redan länkat till en annan Snipp-användare.",
   "SETTINGS_LINKED_ACCOUNTS_ERROR_GENERIC": "Något gick fel. Försök igen.",
   "SETTINGS_ACCOUNT_PROTECTION_LABEL": "Avancerat kontoskydd",
-  "SETTINGS_ACCOUNT_PROTECTION_HINT": "Använder magiska länkar i stället för koder med 6 tecken för att förhindra brute force-attacker. Snipp-appen loggar in med en kod, så stäng av det här innan du loggar in på en ny mobil.",
+  "SETTINGS_ACCOUNT_PROTECTION_HINT": "Använder magiska länkar i stället för koder med 6 tecken för att förhindra brute force-attacker.",
   "SETTINGS_ACCOUNT_PROTECTION_TOAST_ENABLED": "Avancerat kontoskydd aktiverat.",
   "SETTINGS_ACCOUNT_PROTECTION_TOAST_DISABLED": "Avancerat kontoskydd inaktiverat.",
   "SETTINGS_SESSIONS_HEADING": "Enheter",

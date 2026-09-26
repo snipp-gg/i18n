@@ -1362,7 +1362,7 @@
   "SETTINGS_LINKED_ACCOUNTS_ERROR_ALREADY_LINKED": "Essa conta já está vinculada a outro usuário do Snipp.",
   "SETTINGS_LINKED_ACCOUNTS_ERROR_GENERIC": "Algo deu errado. Tente novamente.",
   "SETTINGS_ACCOUNT_PROTECTION_LABEL": "Proteção Avançada da Conta",
-  "SETTINGS_ACCOUNT_PROTECTION_HINT": "Usa links mágicos em vez de códigos de 6 caracteres para evitar ataques de força bruta. O aplicativo do Snipp faz login com um código, então desative isso antes de fazer login em um celular novo.",
+  "SETTINGS_ACCOUNT_PROTECTION_HINT": "Usa links mágicos em vez de códigos de 6 caracteres para evitar ataques de força bruta.",
   "SETTINGS_ACCOUNT_PROTECTION_TOAST_ENABLED": "Proteção Avançada da Conta ativada.",
   "SETTINGS_ACCOUNT_PROTECTION_TOAST_DISABLED": "Proteção Avançada da Conta desativada.",
   "SETTINGS_SESSIONS_HEADING": "Dispositivos",

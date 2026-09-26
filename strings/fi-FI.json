@@ -1362,7 +1362,7 @@
   "SETTINGS_LINKED_ACCOUNTS_ERROR_ALREADY_LINKED": "Tämä tili on jo liitetty toiseen Snipp-käyttäjään.",
   "SETTINGS_LINKED_ACCOUNTS_ERROR_GENERIC": "Jotain meni pieleen. Yritä uudelleen.",
   "SETTINGS_ACCOUNT_PROTECTION_LABEL": "Tehostettu tilin suojaus",
-  "SETTINGS_ACCOUNT_PROTECTION_HINT": "Käyttää taikalinkkejä 6-merkkisten koodien sijaan brute force -hyökkäysten estämiseksi. Snipp-sovellus kirjautuu sisään koodilla, joten poista tämä käytöstä ennen kuin kirjaudut uudella puhelimella.",
+  "SETTINGS_ACCOUNT_PROTECTION_HINT": "Käyttää taikalinkkejä 6-merkkisten koodien sijaan brute force -hyökkäysten estämiseksi.",
   "SETTINGS_ACCOUNT_PROTECTION_TOAST_ENABLED": "Tehostettu tilin suojaus käytössä.",
   "SETTINGS_ACCOUNT_PROTECTION_TOAST_DISABLED": "Tehostettu tilin suojaus pois käytöstä.",
   "SETTINGS_SESSIONS_HEADING": "Laitteet",

@@ -1362,7 +1362,7 @@
   "SETTINGS_LINKED_ACCOUNTS_ERROR_ALREADY_LINKED": "Dat account is al gekoppeld aan een andere Snipp-gebruiker.",
   "SETTINGS_LINKED_ACCOUNTS_ERROR_GENERIC": "Er is iets misgegaan. Probeer het opnieuw.",
   "SETTINGS_ACCOUNT_PROTECTION_LABEL": "Geavanceerde accountbeveiliging",
-  "SETTINGS_ACCOUNT_PROTECTION_HINT": "Gebruikt magic links in plaats van codes van 6 tekens om brute-force-aanvallen te voorkomen. De Snipp-app logt in met een code, dus zet dit uit voordat je inlogt op een nieuwe telefoon.",
+  "SETTINGS_ACCOUNT_PROTECTION_HINT": "Gebruikt magic links in plaats van codes van 6 tekens om brute-force-aanvallen te voorkomen.",
   "SETTINGS_ACCOUNT_PROTECTION_TOAST_ENABLED": "Geavanceerde accountbeveiliging ingeschakeld.",
   "SETTINGS_ACCOUNT_PROTECTION_TOAST_DISABLED": "Geavanceerde accountbeveiliging uitgeschakeld.",
   "SETTINGS_SESSIONS_HEADING": "Apparaten",

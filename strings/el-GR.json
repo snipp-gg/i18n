@@ -1362,7 +1362,7 @@
   "SETTINGS_LINKED_ACCOUNTS_ERROR_ALREADY_LINKED": "Αυτός ο λογαριασμός είναι ήδη συνδεδεμένος με άλλον χρήστη Snipp.",
   "SETTINGS_LINKED_ACCOUNTS_ERROR_GENERIC": "Κάτι πήγε στραβά. Παρακαλούμε δοκιμάστε ξανά.",
   "SETTINGS_ACCOUNT_PROTECTION_LABEL": "Προηγμένη Προστασία Λογαριασμού",
-  "SETTINGS_ACCOUNT_PROTECTION_HINT": "Χρησιμοποιεί magic links αντί για κωδικούς 6 χαρακτήρων για την αποτροπή επιθέσεων brute force. Η εφαρμογή Snipp συνδέεται με κωδικό, οπότε απενεργοποιήστε το πριν συνδεθείτε σε νέο κινητό.",
+  "SETTINGS_ACCOUNT_PROTECTION_HINT": "Χρησιμοποιεί magic links αντί για κωδικούς 6 χαρακτήρων για την αποτροπή επιθέσεων brute force.",
   "SETTINGS_ACCOUNT_PROTECTION_TOAST_ENABLED": "Η Προηγμένη Προστασία Λογαριασμού ενεργοποιήθηκε.",
   "SETTINGS_ACCOUNT_PROTECTION_TOAST_DISABLED": "Η Προηγμένη Προστασία Λογαριασμού απενεργοποιήθηκε.",
   "SETTINGS_SESSIONS_HEADING": "Συσκευές",

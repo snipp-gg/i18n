@@ -1362,7 +1362,7 @@
   "SETTINGS_LINKED_ACCOUNTS_ERROR_ALREADY_LINKED": "Dieses Konto ist bereits mit einem anderen Snipp-Nutzer verknüpft.",
   "SETTINGS_LINKED_ACCOUNTS_ERROR_GENERIC": "Etwas ist schiefgelaufen. Bitte versuche es erneut.",
   "SETTINGS_ACCOUNT_PROTECTION_LABEL": "Erweiterter Kontoschutz",
-  "SETTINGS_ACCOUNT_PROTECTION_HINT": "Verwendet Magic Links statt 6-stelliger Codes, um Brute-Force-Angriffe zu verhindern. Die Snipp-App meldet sich mit einem Code an, also schalte das aus, bevor du dich auf einem neuen Handy anmeldest.",
+  "SETTINGS_ACCOUNT_PROTECTION_HINT": "Verwendet Magic Links statt 6-stelliger Codes, um Brute-Force-Angriffe zu verhindern.",
   "SETTINGS_ACCOUNT_PROTECTION_TOAST_ENABLED": "Erweiterter Kontoschutz aktiviert.",
   "SETTINGS_ACCOUNT_PROTECTION_TOAST_DISABLED": "Erweiterter Kontoschutz deaktiviert.",
   "SETTINGS_SESSIONS_HEADING": "Geräte",

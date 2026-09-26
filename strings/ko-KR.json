@@ -1362,7 +1362,7 @@
   "SETTINGS_LINKED_ACCOUNTS_ERROR_ALREADY_LINKED": "이 계정은 이미 다른 Snipp 사용자에 연결되어 있습니다.",
   "SETTINGS_LINKED_ACCOUNTS_ERROR_GENERIC": "문제가 발생했습니다. 다시 시도해 주세요.",
   "SETTINGS_ACCOUNT_PROTECTION_LABEL": "고급 계정 보호",
-  "SETTINGS_ACCOUNT_PROTECTION_HINT": "무차별 대입 공격을 막기 위해 6자리 코드 대신 매직 링크를 사용합니다. Snipp 앱은 코드로 로그인하므로 새 휴대폰에서 로그인하기 전에 이 기능을 꺼 주세요.",
+  "SETTINGS_ACCOUNT_PROTECTION_HINT": "무차별 대입 공격을 막기 위해 6자리 코드 대신 매직 링크를 사용합니다.",
   "SETTINGS_ACCOUNT_PROTECTION_TOAST_ENABLED": "고급 계정 보호가 켜졌습니다.",
   "SETTINGS_ACCOUNT_PROTECTION_TOAST_DISABLED": "고급 계정 보호가 꺼졌습니다.",
   "SETTINGS_SESSIONS_HEADING": "기기",

@@ -1362,7 +1362,7 @@
   "SETTINGS_LINKED_ACCOUNTS_ERROR_ALREADY_LINKED": "该账户已关联到另一个 Snipp 用户。",
   "SETTINGS_LINKED_ACCOUNTS_ERROR_GENERIC": "出了点问题。请重试。",
   "SETTINGS_ACCOUNT_PROTECTION_LABEL": "高级账户保护",
-  "SETTINGS_ACCOUNT_PROTECTION_HINT": "使用魔法链接代替 6 个字符的验证码，以防止暴力破解攻击。Snipp 应用使用验证码登录，因此在新手机上登录前请先关闭此功能。",
+  "SETTINGS_ACCOUNT_PROTECTION_HINT": "使用魔法链接代替 6 个字符的验证码，以防止暴力破解攻击。",
   "SETTINGS_ACCOUNT_PROTECTION_TOAST_ENABLED": "已启用高级账户保护。",
   "SETTINGS_ACCOUNT_PROTECTION_TOAST_DISABLED": "已禁用高级账户保护。",
   "SETTINGS_SESSIONS_HEADING": "设备",
