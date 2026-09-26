@@ -153,7 +153,7 @@
   "FOOTER_COPYRIGHT": "{year} Snipp.gg. All rights reserved.",
   "SETTINGS_NAV_PROFILE_SUBTITLE": "プロフィールを編集",
   "SETTINGS_NAV_ACCOUNT_SUBTITLE": "メール、サインインなど",
-  "SETTINGS_NAV_GROUP_APP": "アプリ",
+  "SETTINGS_NAV_GROUP_GENERAL": "一般",
   "SETTINGS_NAV_GROUP_DEVELOPER": "開発者",
   "SETTINGS_NAV_GROUP_STAFF": "スタッフ専用",
   "COMMON_CONNECTIONS": "連携",

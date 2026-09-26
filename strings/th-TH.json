@@ -153,7 +153,7 @@
   "FOOTER_COPYRIGHT": "{year} Snipp.gg สงวนลิขสิทธิ์",
   "SETTINGS_NAV_PROFILE_SUBTITLE": "แก้ไขโปรไฟล์ของคุณ",
   "SETTINGS_NAV_ACCOUNT_SUBTITLE": "อีเมล การเข้าสู่ระบบ และอื่น ๆ",
-  "SETTINGS_NAV_GROUP_APP": "แอป",
+  "SETTINGS_NAV_GROUP_GENERAL": "ทั่วไป",
   "SETTINGS_NAV_GROUP_DEVELOPER": "นักพัฒนา",
   "SETTINGS_NAV_GROUP_STAFF": "เฉพาะทีมงาน",
   "COMMON_CONNECTIONS": "การเชื่อมต่อ",

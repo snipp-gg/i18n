@@ -153,7 +153,7 @@
   "FOOTER_COPYRIGHT": "{year} Snipp.gg. Todos los derechos reservados.",
   "SETTINGS_NAV_PROFILE_SUBTITLE": "Edita tu perfil",
   "SETTINGS_NAV_ACCOUNT_SUBTITLE": "Correo, inicio de sesión y más",
-  "SETTINGS_NAV_GROUP_APP": "Aplicación",
+  "SETTINGS_NAV_GROUP_GENERAL": "General",
   "SETTINGS_NAV_GROUP_DEVELOPER": "Desarrollador",
   "SETTINGS_NAV_GROUP_STAFF": "Solo para el equipo",
   "COMMON_CONNECTIONS": "Conexiones",
