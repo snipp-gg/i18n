@@ -664,6 +664,7 @@
   "LOGIN_CHECK_EMAIL_SUBHEADING_SUFFIX": " にマジックリンクを送信しました。リンクをクリックしてサインインするか、下記のコードを入力してください。15分で有効期限が切れます。",
   "LOGIN_CHECK_EMAIL_FALLBACK": "お客様のメールアドレス",
   "LOGIN_VERIFY_CODE_BUTTON_LOADING": "確認中...",
+  "LOGIN_CODE_INPUT_LABEL": "サインインコード",
   "LOGIN_USE_DIFFERENT_EMAIL_BUTTON": "別のメールアドレスを使用",
   "LOGIN_DIVIDER_OR": "または",
   "LOGIN_DISCORD_BUTTON_LOADING": "ログイン中...",

@@ -664,6 +664,7 @@
   "LOGIN_CHECK_EMAIL_SUBHEADING_SUFFIX": " gesendet. Klicke auf den Link, um dich anzumelden, oder gib den Code unten ein. Er läuft in 15 Minuten ab.",
   "LOGIN_CHECK_EMAIL_FALLBACK": "deine E-Mail-Adresse",
   "LOGIN_VERIFY_CODE_BUTTON_LOADING": "Wird überprüft...",
+  "LOGIN_CODE_INPUT_LABEL": "Anmeldecode",
   "LOGIN_USE_DIFFERENT_EMAIL_BUTTON": "Andere E-Mail verwenden",
   "LOGIN_DIVIDER_OR": "ODER",
   "LOGIN_DISCORD_BUTTON_LOADING": "Anmeldung läuft...",

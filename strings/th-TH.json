@@ -664,6 +664,7 @@
   "LOGIN_CHECK_EMAIL_SUBHEADING_SUFFIX": " แล้ว คลิกลิงก์เพื่อเข้าสู่ระบบ หรือกรอกรหัสด้านล่าง รหัสจะหมดอายุใน 15 นาที",
   "LOGIN_CHECK_EMAIL_FALLBACK": "อีเมลของคุณ",
   "LOGIN_VERIFY_CODE_BUTTON_LOADING": "กำลังตรวจสอบ...",
+  "LOGIN_CODE_INPUT_LABEL": "รหัสเข้าสู่ระบบ",
   "LOGIN_USE_DIFFERENT_EMAIL_BUTTON": "ใช้อีเมลอื่น",
   "LOGIN_DIVIDER_OR": "หรือ",
   "LOGIN_DISCORD_BUTTON_LOADING": "กำลังเข้าสู่ระบบ...",

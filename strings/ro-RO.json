@@ -664,6 +664,7 @@
   "LOGIN_CHECK_EMAIL_SUBHEADING_SUFFIX": ". Apasă pe link pentru a te conecta sau introdu codul de mai jos. Expiră în 15 minute.",
   "LOGIN_CHECK_EMAIL_FALLBACK": "e-mailul tău",
   "LOGIN_VERIFY_CODE_BUTTON_LOADING": "Se verifică...",
+  "LOGIN_CODE_INPUT_LABEL": "Cod de conectare",
   "LOGIN_USE_DIFFERENT_EMAIL_BUTTON": "Folosește alt e-mail",
   "LOGIN_DIVIDER_OR": "SAU",
   "LOGIN_DISCORD_BUTTON_LOADING": "Se conectează...",

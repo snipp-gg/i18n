@@ -664,6 +664,7 @@
   "LOGIN_CHECK_EMAIL_SUBHEADING_SUFFIX": ". 링크를 클릭해 로그인하거나 아래에 코드를 입력하세요. 15분 후 만료됩니다.",
   "LOGIN_CHECK_EMAIL_FALLBACK": "귀하의 이메일",
   "LOGIN_VERIFY_CODE_BUTTON_LOADING": "확인 중...",
+  "LOGIN_CODE_INPUT_LABEL": "로그인 코드",
   "LOGIN_USE_DIFFERENT_EMAIL_BUTTON": "다른 이메일 사용",
   "LOGIN_DIVIDER_OR": "또는",
   "LOGIN_DISCORD_BUTTON_LOADING": "로그인 중...",

@@ -664,6 +664,7 @@
   "LOGIN_CHECK_EMAIL_SUBHEADING_SUFFIX": ". Klikk på lenken for å logge inn, eller skriv inn koden nedenfor. Den utløper om 15 minutter.",
   "LOGIN_CHECK_EMAIL_FALLBACK": "e-posten din",
   "LOGIN_VERIFY_CODE_BUTTON_LOADING": "Verifiserer...",
+  "LOGIN_CODE_INPUT_LABEL": "Innloggingskode",
   "LOGIN_USE_DIFFERENT_EMAIL_BUTTON": "Bruk en annen e-post",
   "LOGIN_DIVIDER_OR": "ELLER",
   "LOGIN_DISCORD_BUTTON_LOADING": "Logger inn...",

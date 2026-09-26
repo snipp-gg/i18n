@@ -664,6 +664,7 @@
   "LOGIN_CHECK_EMAIL_SUBHEADING_SUFFIX": ". Cliquez sur le lien pour vous connecter, ou saisissez le code ci-dessous. Il expire dans 15 minutes.",
   "LOGIN_CHECK_EMAIL_FALLBACK": "votre adresse e-mail",
   "LOGIN_VERIFY_CODE_BUTTON_LOADING": "Vérification...",
+  "LOGIN_CODE_INPUT_LABEL": "Code de connexion",
   "LOGIN_USE_DIFFERENT_EMAIL_BUTTON": "Utiliser une autre adresse e-mail",
   "LOGIN_DIVIDER_OR": "OU",
   "LOGIN_DISCORD_BUTTON_LOADING": "Connexion...",

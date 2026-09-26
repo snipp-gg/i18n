@@ -664,6 +664,7 @@
   "LOGIN_CHECK_EMAIL_SUBHEADING_SUFFIX": ". Clique no link para entrar ou digite o código abaixo. Ele expira em 15 minutos.",
   "LOGIN_CHECK_EMAIL_FALLBACK": "seu e-mail",
   "LOGIN_VERIFY_CODE_BUTTON_LOADING": "Verificando...",
+  "LOGIN_CODE_INPUT_LABEL": "Código de login",
   "LOGIN_USE_DIFFERENT_EMAIL_BUTTON": "Usar outro e-mail",
   "LOGIN_DIVIDER_OR": "OU",
   "LOGIN_DISCORD_BUTTON_LOADING": "Entrando...",

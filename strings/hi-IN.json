@@ -664,6 +664,7 @@
   "LOGIN_CHECK_EMAIL_SUBHEADING_SUFFIX": " पर। साइन इन करने के लिए लिंक पर क्लिक करें, या नीचे कोड डालें। यह 15 मिनट में समाप्त हो जाता है।",
   "LOGIN_CHECK_EMAIL_FALLBACK": "आपके ईमेल",
   "LOGIN_VERIFY_CODE_BUTTON_LOADING": "सत्यापित कर रहे हैं...",
+  "LOGIN_CODE_INPUT_LABEL": "साइन इन कोड",
   "LOGIN_USE_DIFFERENT_EMAIL_BUTTON": "कोई दूसरा ईमेल इस्तेमाल करें",
   "LOGIN_DIVIDER_OR": "या",
   "LOGIN_DISCORD_BUTTON_LOADING": "लॉग इन कर रहे हैं...",

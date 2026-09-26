@@ -664,6 +664,7 @@
   "LOGIN_CHECK_EMAIL_SUBHEADING_SUFFIX": ". Klicka på länken för att logga in, eller ange koden nedan. Den går ut om 15 minuter.",
   "LOGIN_CHECK_EMAIL_FALLBACK": "din e-post",
   "LOGIN_VERIFY_CODE_BUTTON_LOADING": "Verifierar...",
+  "LOGIN_CODE_INPUT_LABEL": "Inloggningskod",
   "LOGIN_USE_DIFFERENT_EMAIL_BUTTON": "Använd en annan e-post",
   "LOGIN_DIVIDER_OR": "ELLER",
   "LOGIN_DISCORD_BUTTON_LOADING": "Loggar in...",

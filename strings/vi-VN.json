@@ -664,6 +664,7 @@
   "LOGIN_CHECK_EMAIL_SUBHEADING_SUFFIX": ". Nhấp vào liên kết để đăng nhập, hoặc nhập mã bên dưới. Mã sẽ hết hạn sau 15 phút.",
   "LOGIN_CHECK_EMAIL_FALLBACK": "email của bạn",
   "LOGIN_VERIFY_CODE_BUTTON_LOADING": "Đang xác minh...",
+  "LOGIN_CODE_INPUT_LABEL": "Mã đăng nhập",
   "LOGIN_USE_DIFFERENT_EMAIL_BUTTON": "Dùng email khác",
   "LOGIN_DIVIDER_OR": "HOẶC",
   "LOGIN_DISCORD_BUTTON_LOADING": "Đang đăng nhập...",

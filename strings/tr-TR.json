@@ -664,6 +664,7 @@
   "LOGIN_CHECK_EMAIL_SUBHEADING_SUFFIX": " adresine bir sihirli bağlantı gönderdik. Giriş yapmak için bağlantıya tıklayın veya aşağıdaki kodu girin. 15 dakika içinde sona erer.",
   "LOGIN_CHECK_EMAIL_FALLBACK": "e-postanız",
   "LOGIN_VERIFY_CODE_BUTTON_LOADING": "Doğrulanıyor...",
+  "LOGIN_CODE_INPUT_LABEL": "Giriş kodu",
   "LOGIN_USE_DIFFERENT_EMAIL_BUTTON": "Farklı bir e-posta kullan",
   "LOGIN_DIVIDER_OR": "VEYA",
   "LOGIN_DISCORD_BUTTON_LOADING": "Giriş yapılıyor...",

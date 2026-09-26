@@ -664,6 +664,7 @@
   "LOGIN_CHECK_EMAIL_SUBHEADING_SUFFIX": ". Klikni poveznicu za prijavu ili unesi kod ispod. Istječe za 15 minuta.",
   "LOGIN_CHECK_EMAIL_FALLBACK": "tvoju e-poštu",
   "LOGIN_VERIFY_CODE_BUTTON_LOADING": "Provjera...",
+  "LOGIN_CODE_INPUT_LABEL": "Kod za prijavu",
   "LOGIN_USE_DIFFERENT_EMAIL_BUTTON": "Koristi drugu e-poštu",
   "LOGIN_DIVIDER_OR": "ILI",
   "LOGIN_DISCORD_BUTTON_LOADING": "Prijava...",

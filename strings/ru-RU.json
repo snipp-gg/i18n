@@ -664,6 +664,7 @@
   "LOGIN_CHECK_EMAIL_SUBHEADING_SUFFIX": ". Перейдите по ссылке для входа или введите код ниже. Он истекает через 15 минут.",
   "LOGIN_CHECK_EMAIL_FALLBACK": "вашу почту",
   "LOGIN_VERIFY_CODE_BUTTON_LOADING": "Проверка...",
+  "LOGIN_CODE_INPUT_LABEL": "Код для входа",
   "LOGIN_USE_DIFFERENT_EMAIL_BUTTON": "Использовать другую почту",
   "LOGIN_DIVIDER_OR": "ИЛИ",
   "LOGIN_DISCORD_BUTTON_LOADING": "Вход...",

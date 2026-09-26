@@ -664,6 +664,7 @@
   "LOGIN_CHECK_EMAIL_SUBHEADING_SUFFIX": ". Щракнете върху връзката, за да влезете, или въведете кода по-долу. Той изтича след 15 минути.",
   "LOGIN_CHECK_EMAIL_FALLBACK": "имейла ви",
   "LOGIN_VERIFY_CODE_BUTTON_LOADING": "Потвърждаване...",
+  "LOGIN_CODE_INPUT_LABEL": "Код за вход",
   "LOGIN_USE_DIFFERENT_EMAIL_BUTTON": "Използване на друг имейл",
   "LOGIN_DIVIDER_OR": "ИЛИ",
   "LOGIN_DISCORD_BUTTON_LOADING": "Влизане...",

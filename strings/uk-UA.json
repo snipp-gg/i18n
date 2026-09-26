@@ -664,6 +664,7 @@
   "LOGIN_CHECK_EMAIL_SUBHEADING_SUFFIX": ". Натисніть посилання, щоб увійти, або введіть код нижче. Він діє 15 хвилин.",
   "LOGIN_CHECK_EMAIL_FALLBACK": "вашу пошту",
   "LOGIN_VERIFY_CODE_BUTTON_LOADING": "Перевірка...",
+  "LOGIN_CODE_INPUT_LABEL": "Код для входу",
   "LOGIN_USE_DIFFERENT_EMAIL_BUTTON": "Використати іншу електронну адресу",
   "LOGIN_DIVIDER_OR": "АБО",
   "LOGIN_DISCORD_BUTTON_LOADING": "Вхід...",

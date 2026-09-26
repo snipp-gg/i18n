@@ -664,6 +664,7 @@
   "LOGIN_CHECK_EMAIL_SUBHEADING_SUFFIX": ". Klik tautannya untuk masuk, atau masukkan kode di bawah. Kode kedaluwarsa dalam 15 menit.",
   "LOGIN_CHECK_EMAIL_FALLBACK": "email Anda",
   "LOGIN_VERIFY_CODE_BUTTON_LOADING": "Memverifikasi...",
+  "LOGIN_CODE_INPUT_LABEL": "Kode login",
   "LOGIN_USE_DIFFERENT_EMAIL_BUTTON": "Gunakan email lain",
   "LOGIN_DIVIDER_OR": "ATAU",
   "LOGIN_DISCORD_BUTTON_LOADING": "Masuk...",

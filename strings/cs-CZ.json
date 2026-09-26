@@ -664,6 +664,7 @@
   "LOGIN_CHECK_EMAIL_SUBHEADING_SUFFIX": ". Klikněte na odkaz pro přihlášení, nebo zadejte níže uvedený kód. Vyprší za 15 minut.",
   "LOGIN_CHECK_EMAIL_FALLBACK": "váš e-mail",
   "LOGIN_VERIFY_CODE_BUTTON_LOADING": "Ověřování...",
+  "LOGIN_CODE_INPUT_LABEL": "Přihlašovací kód",
   "LOGIN_USE_DIFFERENT_EMAIL_BUTTON": "Použít jiný e-mail",
   "LOGIN_DIVIDER_OR": "NEBO",
   "LOGIN_DISCORD_BUTTON_LOADING": "Přihlašování...",

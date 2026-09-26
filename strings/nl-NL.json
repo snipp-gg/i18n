@@ -664,6 +664,7 @@
   "LOGIN_CHECK_EMAIL_SUBHEADING_SUFFIX": ". Klik op de link om in te loggen, of voer de code hieronder in. Deze verloopt over 15 minuten.",
   "LOGIN_CHECK_EMAIL_FALLBACK": "je e-mail",
   "LOGIN_VERIFY_CODE_BUTTON_LOADING": "Verifiëren...",
+  "LOGIN_CODE_INPUT_LABEL": "Inlogcode",
   "LOGIN_USE_DIFFERENT_EMAIL_BUTTON": "Een ander e-mailadres gebruiken",
   "LOGIN_DIVIDER_OR": "OF",
   "LOGIN_DISCORD_BUTTON_LOADING": "Inloggen...",

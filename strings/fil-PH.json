@@ -664,6 +664,7 @@
   "LOGIN_CHECK_EMAIL_SUBHEADING_SUFFIX": ". I-click ang link para mag-sign in, o ilagay ang code sa baba. Mag-e-expire ito sa loob ng 15 minuto.",
   "LOGIN_CHECK_EMAIL_FALLBACK": "iyong email",
   "LOGIN_VERIFY_CODE_BUTTON_LOADING": "Vinerify...",
+  "LOGIN_CODE_INPUT_LABEL": "Code sa pag-sign in",
   "LOGIN_USE_DIFFERENT_EMAIL_BUTTON": "Gumamit ng ibang email",
   "LOGIN_DIVIDER_OR": "O",
   "LOGIN_DISCORD_BUTTON_LOADING": "Nilo-log in...",
