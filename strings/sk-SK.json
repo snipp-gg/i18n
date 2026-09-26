@@ -1339,7 +1339,7 @@
   "SETTINGS_PROFILE_AVATAR_REMOVE_BUTTON": "Odstrániť avatar",
   "SETTINGS_PROFILE_AVATAR_FORMAT_HINT": "JPG, PNG, GIF alebo WebP. Do 30 MB.",
   "SETTINGS_PROFILE_BANNER_HEADING": "Banner",
-  "SETTINGS_PROFILE_BANNER_EMPTY_HINT": "Žiadny banner nie je nastavený",
+  "SETTINGS_PROFILE_BANNER_DROP_HEADING": "Presuňte alebo prehľadávajte banner na nahranie",
   "SETTINGS_PROFILE_BANNER_CHANGE_BUTTON": "Zmeniť banner",
   "SETTINGS_PROFILE_BANNER_UPLOAD_BUTTON": "Nahrať banner",
   "SETTINGS_PROFILE_BANNER_REMOVE_BUTTON": "Odstrániť banner",

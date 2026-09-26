@@ -1339,7 +1339,7 @@
   "SETTINGS_PROFILE_AVATAR_REMOVE_BUTTON": "Retirer l'avatar",
   "SETTINGS_PROFILE_AVATAR_FORMAT_HINT": "JPG, PNG, GIF ou WebP. Jusqu'à 30 MB.",
   "SETTINGS_PROFILE_BANNER_HEADING": "Bannière",
-  "SETTINGS_PROFILE_BANNER_EMPTY_HINT": "Aucune bannière définie",
+  "SETTINGS_PROFILE_BANNER_DROP_HEADING": "Déposez ou parcourez une bannière à envoyer",
   "SETTINGS_PROFILE_BANNER_CHANGE_BUTTON": "Changer la bannière",
   "SETTINGS_PROFILE_BANNER_UPLOAD_BUTTON": "Envoyer une bannière",
   "SETTINGS_PROFILE_BANNER_REMOVE_BUTTON": "Retirer la bannière",

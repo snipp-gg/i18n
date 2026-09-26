@@ -1339,7 +1339,7 @@
   "SETTINGS_PROFILE_AVATAR_REMOVE_BUTTON": "Видалити аватар",
   "SETTINGS_PROFILE_AVATAR_FORMAT_HINT": "JPG, PNG, GIF або WebP. До 30 МБ.",
   "SETTINGS_PROFILE_BANNER_HEADING": "Банер",
-  "SETTINGS_PROFILE_BANNER_EMPTY_HINT": "Банер не встановлено",
+  "SETTINGS_PROFILE_BANNER_DROP_HEADING": "Перетягніть або виберіть банер для завантаження",
   "SETTINGS_PROFILE_BANNER_CHANGE_BUTTON": "Змінити банер",
   "SETTINGS_PROFILE_BANNER_UPLOAD_BUTTON": "Завантажити банер",
   "SETTINGS_PROFILE_BANNER_REMOVE_BUTTON": "Видалити банер",

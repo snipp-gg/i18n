@@ -1339,7 +1339,7 @@
   "SETTINGS_PROFILE_AVATAR_REMOVE_BUTTON": "Alisin ang Avatar",
   "SETTINGS_PROFILE_AVATAR_FORMAT_HINT": "JPG, PNG, GIF o WebP. Hanggang 30 MB.",
   "SETTINGS_PROFILE_BANNER_HEADING": "Banner",
-  "SETTINGS_PROFILE_BANNER_EMPTY_HINT": "Walang banner na nakatakda",
+  "SETTINGS_PROFILE_BANNER_DROP_HEADING": "Mag-drop o mag-browse ng banner para i-upload",
   "SETTINGS_PROFILE_BANNER_CHANGE_BUTTON": "Palitan ang Banner",
   "SETTINGS_PROFILE_BANNER_UPLOAD_BUTTON": "Mag-upload ng Banner",
   "SETTINGS_PROFILE_BANNER_REMOVE_BUTTON": "Alisin ang Banner",
