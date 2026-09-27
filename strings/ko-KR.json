@@ -17,6 +17,8 @@
   "COMMON_PREFERENCES": "환경설정",
   "COMMON_NOTIFICATIONS": "알림",
   "SETTINGS_PREFS_DESCRIPTION": "언어, 업로드 동작, 효과 및 기타 개인 환경설정.",
+  "SETTINGS_PREFS_GROUP_ACCOUNT": "계정과 동기화됨",
+  "SETTINGS_PREFS_GROUP_DEVICE": "이 기기에서만",
   "SETTINGS_PREFS_EMBED_HEADING": "맞춤 임베드",
   "SETTINGS_PREFS_EMBED_HINT": "플랫폼에서 공유될 때 업로드가 어떻게 보일지 맞춤 설정하세요.",
   "SETTINGS_PREFS_EMBED_CUSTOMIZE_BUTTON": "맞춤 설정",

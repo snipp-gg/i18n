@@ -17,6 +17,8 @@
   "COMMON_PREFERENCES": "Параметры",
   "COMMON_NOTIFICATIONS": "Уведомления",
   "SETTINGS_PREFS_DESCRIPTION": "Язык, поведение при загрузке, эффекты и другие личные настройки.",
+  "SETTINGS_PREFS_GROUP_ACCOUNT": "Синхронизировано с вашим аккаунтом",
+  "SETTINGS_PREFS_GROUP_DEVICE": "Только это устройство",
   "SETTINGS_PREFS_EMBED_HEADING": "Пользовательское встраивание",
   "SETTINGS_PREFS_EMBED_HINT": "Настройте, как ваши загрузки выглядят при отправке на платформах.",
   "SETTINGS_PREFS_EMBED_CUSTOMIZE_BUTTON": "Настроить",

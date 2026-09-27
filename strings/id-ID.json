@@ -17,6 +17,8 @@
   "COMMON_PREFERENCES": "Preferensi",
   "COMMON_NOTIFICATIONS": "Notifikasi",
   "SETTINGS_PREFS_DESCRIPTION": "Bahasa, perilaku unggahan, efek, dan preferensi pribadi lainnya.",
+  "SETTINGS_PREFS_GROUP_ACCOUNT": "Disinkronkan ke akun Anda",
+  "SETTINGS_PREFS_GROUP_DEVICE": "Hanya perangkat ini",
   "SETTINGS_PREFS_EMBED_HEADING": "Embed Kustom",
   "SETTINGS_PREFS_EMBED_HINT": "Sesuaikan tampilan unggahan Anda saat dibagikan di platform.",
   "SETTINGS_PREFS_EMBED_CUSTOMIZE_BUTTON": "Sesuaikan",

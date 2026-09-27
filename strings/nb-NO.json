@@ -17,6 +17,8 @@
   "COMMON_PREFERENCES": "Innstillinger",
   "COMMON_NOTIFICATIONS": "Varsler",
   "SETTINGS_PREFS_DESCRIPTION": "Språk, opplastingsatferd, effekter og andre personlige innstillinger.",
+  "SETTINGS_PREFS_GROUP_ACCOUNT": "Synkronisert med kontoen din",
+  "SETTINGS_PREFS_GROUP_DEVICE": "Kun denne enheten",
   "SETTINGS_PREFS_EMBED_HEADING": "Egendefinert innebygging",
   "SETTINGS_PREFS_EMBED_HINT": "Tilpass hvordan opplastingene dine ser ut når de deles på plattformer.",
   "SETTINGS_PREFS_EMBED_CUSTOMIZE_BUTTON": "Tilpass",

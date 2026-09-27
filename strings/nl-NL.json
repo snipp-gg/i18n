@@ -17,6 +17,8 @@
   "COMMON_PREFERENCES": "Voorkeuren",
   "COMMON_NOTIFICATIONS": "Meldingen",
   "SETTINGS_PREFS_DESCRIPTION": "Taal, uploadgedrag, effecten en andere persoonlijke voorkeuren.",
+  "SETTINGS_PREFS_GROUP_ACCOUNT": "Gesynchroniseerd met je account",
+  "SETTINGS_PREFS_GROUP_DEVICE": "Alleen dit apparaat",
   "SETTINGS_PREFS_EMBED_HEADING": "Aangepaste embed",
   "SETTINGS_PREFS_EMBED_HINT": "Bepaal hoe je uploads eruitzien wanneer ze op platforms worden gedeeld.",
   "SETTINGS_PREFS_EMBED_CUSTOMIZE_BUTTON": "Aanpassen",

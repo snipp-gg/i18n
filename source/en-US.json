@@ -17,6 +17,8 @@
   "COMMON_PREFERENCES": "Preferences",
   "COMMON_NOTIFICATIONS": "Notifications",
   "SETTINGS_PREFS_DESCRIPTION": "Language, upload behavior, effects and other personal preferences.",
+  "SETTINGS_PREFS_GROUP_ACCOUNT": "Synced to your account",
+  "SETTINGS_PREFS_GROUP_DEVICE": "This device only",
   "SETTINGS_PREFS_EMBED_HEADING": "Custom Embed",
   "SETTINGS_PREFS_EMBED_HINT": "Customize how your uploads look when shared on platforms.",
   "SETTINGS_PREFS_EMBED_CUSTOMIZE_BUTTON": "Customize",

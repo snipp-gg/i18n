@@ -17,6 +17,8 @@
   "COMMON_PREFERENCES": "Asetukset",
   "COMMON_NOTIFICATIONS": "Ilmoitukset",
   "SETTINGS_PREFS_DESCRIPTION": "Kieli, latauskäyttäytyminen, tehosteet ja muut henkilökohtaiset asetukset.",
+  "SETTINGS_PREFS_GROUP_ACCOUNT": "Synkronoitu tilillesi",
+  "SETTINGS_PREFS_GROUP_DEVICE": "Vain tämä laite",
   "SETTINGS_PREFS_EMBED_HEADING": "Mukautettu upotus",
   "SETTINGS_PREFS_EMBED_HINT": "Mukauta, miltä latauksesi näyttävät jaettuina alustoilla.",
   "SETTINGS_PREFS_EMBED_CUSTOMIZE_BUTTON": "Mukauta",

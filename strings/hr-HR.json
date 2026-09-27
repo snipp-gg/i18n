@@ -17,6 +17,8 @@
   "COMMON_PREFERENCES": "Postavke",
   "COMMON_NOTIFICATIONS": "Obavijesti",
   "SETTINGS_PREFS_DESCRIPTION": "Jezik, ponašanje pri prijenosu, efekti i druge osobne postavke.",
+  "SETTINGS_PREFS_GROUP_ACCOUNT": "Sinkronizirano s tvojim računom",
+  "SETTINGS_PREFS_GROUP_DEVICE": "Samo ovaj uređaj",
   "SETTINGS_PREFS_EMBED_HEADING": "Prilagođena ugradnja",
   "SETTINGS_PREFS_EMBED_HINT": "Prilagodi kako tvoji prijenosi izgledaju pri dijeljenju na platformama.",
   "SETTINGS_PREFS_EMBED_CUSTOMIZE_BUTTON": "Prilagodi",

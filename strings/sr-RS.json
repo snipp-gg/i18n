@@ -17,6 +17,8 @@
   "COMMON_PREFERENCES": "Postavke",
   "COMMON_NOTIFICATIONS": "Obaveštenja",
   "SETTINGS_PREFS_DESCRIPTION": "Jezik, ponašanje otpremanja, efekti i druge lične postavke.",
+  "SETTINGS_PREFS_GROUP_ACCOUNT": "Sinhronizovano sa vašim nalogom",
+  "SETTINGS_PREFS_GROUP_DEVICE": "Samo ovaj uređaj",
   "SETTINGS_PREFS_EMBED_HEADING": "Prilagođeni prikaz",
   "SETTINGS_PREFS_EMBED_HINT": "Prilagodite kako vaša otpremanja izgledaju kada se podele na platformama.",
   "SETTINGS_PREFS_EMBED_CUSTOMIZE_BUTTON": "Prilagodi",

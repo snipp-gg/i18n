@@ -17,6 +17,8 @@
   "COMMON_PREFERENCES": "Предпочитания",
   "COMMON_NOTIFICATIONS": "Известия",
   "SETTINGS_PREFS_DESCRIPTION": "Език, поведение при качване, ефекти и други лични предпочитания.",
+  "SETTINGS_PREFS_GROUP_ACCOUNT": "Синхронизирано с акаунта ви",
+  "SETTINGS_PREFS_GROUP_DEVICE": "Само това устройство",
   "SETTINGS_PREFS_EMBED_HEADING": "Персонализирано вграждане",
   "SETTINGS_PREFS_EMBED_HINT": "Персонализирайте как изглеждат качванията ви, когато се споделят в платформи.",
   "SETTINGS_PREFS_EMBED_CUSTOMIZE_BUTTON": "Персонализиране",

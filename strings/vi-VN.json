@@ -17,6 +17,8 @@
   "COMMON_PREFERENCES": "Tùy chọn",
   "COMMON_NOTIFICATIONS": "Thông báo",
   "SETTINGS_PREFS_DESCRIPTION": "Ngôn ngữ, hành vi tải lên, hiệu ứng và các tùy chọn cá nhân khác.",
+  "SETTINGS_PREFS_GROUP_ACCOUNT": "Đồng bộ với tài khoản của bạn",
+  "SETTINGS_PREFS_GROUP_DEVICE": "Chỉ thiết bị này",
   "SETTINGS_PREFS_EMBED_HEADING": "Nhúng tùy chỉnh",
   "SETTINGS_PREFS_EMBED_HINT": "Tùy chỉnh cách nội dung tải lên của bạn hiển thị khi được chia sẻ trên các nền tảng.",
   "SETTINGS_PREFS_EMBED_CUSTOMIZE_BUTTON": "Tùy chỉnh",

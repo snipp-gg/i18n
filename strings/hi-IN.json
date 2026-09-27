@@ -17,6 +17,8 @@
   "COMMON_PREFERENCES": "प्राथमिकताएँ",
   "COMMON_NOTIFICATIONS": "नोटिफ़िकेशन",
   "SETTINGS_PREFS_DESCRIPTION": "भाषा, अपलोड व्यवहार, इफ़ेक्ट और अन्य निजी प्राथमिकताएँ।",
+  "SETTINGS_PREFS_GROUP_ACCOUNT": "आपके अकाउंट से सिंक",
+  "SETTINGS_PREFS_GROUP_DEVICE": "केवल यह डिवाइस",
   "SETTINGS_PREFS_EMBED_HEADING": "कस्टम एम्बेड",
   "SETTINGS_PREFS_EMBED_HINT": "प्लेटफ़ॉर्म पर शेयर करने पर आपके अपलोड कैसे दिखें, यह कस्टमाइज़ करें।",
   "SETTINGS_PREFS_EMBED_CUSTOMIZE_BUTTON": "कस्टमाइज़ करें",

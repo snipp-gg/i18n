@@ -17,6 +17,8 @@
   "COMMON_PREFERENCES": "Preferencias",
   "COMMON_NOTIFICATIONS": "Notificaciones",
   "SETTINGS_PREFS_DESCRIPTION": "Idioma, comportamiento de subida, efectos y otras preferencias personales.",
+  "SETTINGS_PREFS_GROUP_ACCOUNT": "Sincronizado con tu cuenta",
+  "SETTINGS_PREFS_GROUP_DEVICE": "Solo este dispositivo",
   "SETTINGS_PREFS_EMBED_HEADING": "Inserción Personalizada",
   "SETTINGS_PREFS_EMBED_HINT": "Personaliza el aspecto de tus subidas cuando se comparten en plataformas.",
   "SETTINGS_PREFS_EMBED_CUSTOMIZE_BUTTON": "Personalizar",
