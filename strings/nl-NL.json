@@ -2153,6 +2153,8 @@
   "NOTIFICATIONS_MENTION": "heeft je vermeld",
   "NOTIFICATIONS_POST_MODERATED": "Je post is verwijderd wegens overtreding van de regels.",
   "NOTIFICATIONS_POST_RESTRICTED": "Je post is beperkt en verschijnt niet meer in Ontdekken.",
+  "NOTIFICATIONS_POST_RESTORED": "Je post is opnieuw beoordeeld en hersteld.",
+  "NOTIFICATIONS_POST_UNRESTRICTED": "De beperking op je post is opgeheven en hij kan weer in Ontdekken verschijnen.",
   "NOTIFICATIONS_REPORT_RECEIVED": "We hebben je rapportage ontvangen.",
   "NOTIFICATIONS_REPORT_RECEIVED_BODY": "Bedankt dat je Snipp veilig houdt. Ons team bekijkt de rapportage en grijpt in als de regels zijn overtreden.",
   "NOTIFICATIONS_MONETIZED": "Je bent gemonetiseerd!",

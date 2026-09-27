@@ -2153,6 +2153,8 @@
   "NOTIFICATIONS_MENTION": "đã nhắc đến bạn",
   "NOTIFICATIONS_POST_MODERATED": "Bài đăng của bạn đã bị gỡ vì vi phạm quy tắc.",
   "NOTIFICATIONS_POST_RESTRICTED": "Bài đăng của bạn đã bị hạn chế và không còn xuất hiện trong Khám phá.",
+  "NOTIFICATIONS_POST_RESTORED": "Bài đăng của bạn đã được xem xét lại và khôi phục.",
+  "NOTIFICATIONS_POST_UNRESTRICTED": "Hạn chế đối với bài đăng của bạn đã được gỡ bỏ và bài đăng có thể xuất hiện lại trong Khám phá.",
   "NOTIFICATIONS_REPORT_RECEIVED": "Chúng tôi đã nhận được báo cáo của bạn.",
   "NOTIFICATIONS_REPORT_RECEIVED_BODY": "Cảm ơn bạn đã giúp giữ cho Snipp an toàn. Đội ngũ của chúng tôi sẽ xem xét và xử lý nếu vi phạm quy tắc.",
   "NOTIFICATIONS_MONETIZED": "Bạn đã được bật kiếm tiền!",

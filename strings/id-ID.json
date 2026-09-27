@@ -2153,6 +2153,8 @@
   "NOTIFICATIONS_MENTION": "menyebut Anda",
   "NOTIFICATIONS_POST_MODERATED": "Postingan Anda dihapus karena melanggar aturan.",
   "NOTIFICATIONS_POST_RESTRICTED": "Postingan Anda dibatasi dan tidak lagi muncul di Discover.",
+  "NOTIFICATIONS_POST_RESTORED": "Postingan Anda telah ditinjau ulang dan dipulihkan.",
+  "NOTIFICATIONS_POST_UNRESTRICTED": "Pembatasan pada postingan Anda telah dicabut dan postingan dapat muncul lagi di Discover.",
   "NOTIFICATIONS_REPORT_RECEIVED": "Kami telah menerima laporan Anda.",
   "NOTIFICATIONS_REPORT_RECEIVED_BODY": "Terima kasih telah membantu menjaga Snipp tetap aman. Tim kami akan memeriksanya dan mengambil tindakan jika melanggar aturan.",
   "NOTIFICATIONS_MONETIZED": "Anda sudah dimonetisasi!",

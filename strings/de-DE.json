@@ -2153,6 +2153,8 @@
   "NOTIFICATIONS_MENTION": "hat dich erwähnt",
   "NOTIFICATIONS_POST_MODERATED": "Dein Beitrag wurde wegen eines Regelverstoßes entfernt.",
   "NOTIFICATIONS_POST_RESTRICTED": "Dein Beitrag wurde eingeschränkt und erscheint nicht mehr auf der Entdecken-Seite.",
+  "NOTIFICATIONS_POST_RESTORED": "Dein Beitrag wurde erneut geprüft und wiederhergestellt.",
+  "NOTIFICATIONS_POST_UNRESTRICTED": "Die Einschränkung deines Beitrags wurde aufgehoben und er kann wieder auf der Entdecken-Seite erscheinen.",
   "NOTIFICATIONS_REPORT_RECEIVED": "Wir haben deine Meldung erhalten.",
   "NOTIFICATIONS_REPORT_RECEIVED_BODY": "Danke, dass du hilfst, Snipp sicher zu halten. Unser Team prüft sie und greift ein, wenn die Regeln verletzt wurden.",
   "NOTIFICATIONS_MONETIZED": "Du bist monetarisiert!",

@@ -2153,6 +2153,8 @@
   "NOTIFICATIONS_MENTION": "mentioned you",
   "NOTIFICATIONS_POST_MODERATED": "Your post was removed for breaking the rules.",
   "NOTIFICATIONS_POST_RESTRICTED": "Your post was restricted and no longer appears in Discover.",
+  "NOTIFICATIONS_POST_RESTORED": "Your post was reviewed again and restored.",
+  "NOTIFICATIONS_POST_UNRESTRICTED": "The restriction on your post was lifted and it can appear in Discover again.",
   "NOTIFICATIONS_REPORT_RECEIVED": "We received your report.",
   "NOTIFICATIONS_REPORT_RECEIVED_BODY": "Thanks for helping keep Snipp safe. Our team will review it and take action if it breaks the rules.",
   "NOTIFICATIONS_MONETIZED": "You're monetized!",

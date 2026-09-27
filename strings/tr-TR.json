@@ -2153,6 +2153,8 @@
   "NOTIFICATIONS_MENTION": "sizden bahsetti",
   "NOTIFICATIONS_POST_MODERATED": "Gönderiniz kuralları ihlal ettiği için kaldırıldı.",
   "NOTIFICATIONS_POST_RESTRICTED": "Gönderiniz kısıtlandı ve artık Keşfet'te görünmüyor.",
+  "NOTIFICATIONS_POST_RESTORED": "Gönderiniz yeniden incelendi ve geri yüklendi.",
+  "NOTIFICATIONS_POST_UNRESTRICTED": "Gönderinizdeki kısıtlama kaldırıldı ve gönderiniz yeniden Keşfet'te görünebilir.",
   "NOTIFICATIONS_REPORT_RECEIVED": "Bildiriminizi aldık.",
   "NOTIFICATIONS_REPORT_RECEIVED_BODY": "Snipp'i güvende tutmaya yardımcı olduğunuz için teşekkürler. Ekibimiz bildirimi inceleyecek ve kuralları ihlal ediyorsa işlem yapacak.",
   "NOTIFICATIONS_MONETIZED": "Gelir paylaşımınız açıldı!",

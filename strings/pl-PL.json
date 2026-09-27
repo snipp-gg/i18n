@@ -2153,6 +2153,8 @@
   "NOTIFICATIONS_MENTION": "wspomniał(a) o Tobie",
   "NOTIFICATIONS_POST_MODERATED": "Twój post został usunięty za złamanie zasad.",
   "NOTIFICATIONS_POST_RESTRICTED": "Twój post został ograniczony i nie pojawia się już na stronie Odkrywaj.",
+  "NOTIFICATIONS_POST_RESTORED": "Twój post został ponownie sprawdzony i przywrócony.",
+  "NOTIFICATIONS_POST_UNRESTRICTED": "Ograniczenie Twojego posta zostało zniesione i może on ponownie pojawiać się na stronie Odkrywaj.",
   "NOTIFICATIONS_REPORT_RECEIVED": "Otrzymaliśmy Twoje zgłoszenie.",
   "NOTIFICATIONS_REPORT_RECEIVED_BODY": "Dziękujemy za pomoc w utrzymaniu Snipp bezpiecznym. Nasz zespół je sprawdzi i zareaguje, jeśli zasady zostały złamane.",
   "NOTIFICATIONS_MONETIZED": "Masz włączoną monetyzację!",

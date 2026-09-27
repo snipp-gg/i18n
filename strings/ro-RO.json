@@ -2153,6 +2153,8 @@
   "NOTIFICATIONS_MENTION": "te-a menționat",
   "NOTIFICATIONS_POST_MODERATED": "Postarea ta a fost eliminată pentru încălcarea regulilor.",
   "NOTIFICATIONS_POST_RESTRICTED": "Postarea ta a fost restricționată și nu mai apare în Descoperă.",
+  "NOTIFICATIONS_POST_RESTORED": "Postarea ta a fost verificată din nou și restaurată.",
+  "NOTIFICATIONS_POST_UNRESTRICTED": "Restricția asupra postării tale a fost ridicată și aceasta poate apărea din nou în Descoperă.",
   "NOTIFICATIONS_REPORT_RECEIVED": "Am primit raportul tău.",
   "NOTIFICATIONS_REPORT_RECEIVED_BODY": "Mulțumim că ne ajuți să menținem Snipp în siguranță. Echipa noastră îl va analiza și va lua măsuri dacă încalcă regulile.",
   "NOTIFICATIONS_MONETIZED": "Ești monetizat!",

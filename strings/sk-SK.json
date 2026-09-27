@@ -2153,6 +2153,8 @@
   "NOTIFICATIONS_MENTION": "spomenul ťa",
   "NOTIFICATIONS_POST_MODERATED": "Tvoj príspevok bol odstránený za porušenie pravidiel.",
   "NOTIFICATIONS_POST_RESTRICTED": "Tvoj príspevok bol obmedzený a už sa nezobrazuje na stránke Objavuj.",
+  "NOTIFICATIONS_POST_RESTORED": "Tvoj príspevok bol znova posúdený a obnovený.",
+  "NOTIFICATIONS_POST_UNRESTRICTED": "Obmedzenie tvojho príspevku bolo zrušené a príspevok sa môže znova zobrazovať na stránke Objavuj.",
   "NOTIFICATIONS_REPORT_RECEIVED": "Prijali sme tvoje hlásenie.",
   "NOTIFICATIONS_REPORT_RECEIVED_BODY": "Ďakujeme, že pomáhaš udržiavať Snipp bezpečným. Náš tím ho posúdi a zasiahne, ak porušuje pravidlá.",
   "NOTIFICATIONS_MONETIZED": "Máš zapnutú monetizáciu!",

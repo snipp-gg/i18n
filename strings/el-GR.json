@@ -2153,6 +2153,8 @@
   "NOTIFICATIONS_MENTION": "σας ανέφερε",
   "NOTIFICATIONS_POST_MODERATED": "Η ανάρτησή σας αφαιρέθηκε επειδή παραβίαζε τους κανόνες.",
   "NOTIFICATIONS_POST_RESTRICTED": "Η ανάρτησή σας περιορίστηκε και δεν εμφανίζεται πλέον στην Εξερεύνηση.",
+  "NOTIFICATIONS_POST_RESTORED": "Η ανάρτησή σας ελέγχθηκε ξανά και αποκαταστάθηκε.",
+  "NOTIFICATIONS_POST_UNRESTRICTED": "Ο περιορισμός στην ανάρτησή σας άρθηκε και μπορεί να εμφανίζεται ξανά στην Εξερεύνηση.",
   "NOTIFICATIONS_REPORT_RECEIVED": "Λάβαμε την αναφορά σας.",
   "NOTIFICATIONS_REPORT_RECEIVED_BODY": "Ευχαριστούμε που βοηθάτε να διατηρηθεί το Snipp ασφαλές. Η ομάδα μας θα την εξετάσει και θα δράσει αν παραβιάζει τους κανόνες.",
   "NOTIFICATIONS_MONETIZED": "Ενεργοποιήθηκαν οι πληρωμές σας!",

@@ -2153,6 +2153,8 @@
   "NOTIFICATIONS_MENTION": "ने आपको मेंशन किया",
   "NOTIFICATIONS_POST_MODERATED": "नियम तोड़ने के कारण आपकी पोस्ट हटा दी गई।",
   "NOTIFICATIONS_POST_RESTRICTED": "आपकी पोस्ट प्रतिबंधित कर दी गई है और अब Discover में नहीं दिखती।",
+  "NOTIFICATIONS_POST_RESTORED": "आपकी पोस्ट की दोबारा समीक्षा की गई और उसे बहाल कर दिया गया।",
+  "NOTIFICATIONS_POST_UNRESTRICTED": "आपकी पोस्ट पर लगा प्रतिबंध हटा दिया गया है और वह अब फिर से Discover में दिख सकती है।",
   "NOTIFICATIONS_REPORT_RECEIVED": "हमें आपकी रिपोर्ट मिल गई।",
   "NOTIFICATIONS_REPORT_RECEIVED_BODY": "Snipp को सुरक्षित बनाए रखने में मदद करने के लिए धन्यवाद। हमारी टीम इसकी समीक्षा करेगी और नियम टूटने पर कार्रवाई करेगी।",
   "NOTIFICATIONS_MONETIZED": "आपका मोनेटाइज़ेशन चालू है!",

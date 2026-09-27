@@ -2153,6 +2153,8 @@
   "NOTIFICATIONS_MENTION": "mencionou você",
   "NOTIFICATIONS_POST_MODERATED": "Sua publicação foi removida por violar as regras.",
   "NOTIFICATIONS_POST_RESTRICTED": "Sua publicação foi restringida e não aparece mais no Descobrir.",
+  "NOTIFICATIONS_POST_RESTORED": "Sua publicação foi revisada novamente e restaurada.",
+  "NOTIFICATIONS_POST_UNRESTRICTED": "A restrição da sua publicação foi removida e ela pode aparecer no Descobrir novamente.",
   "NOTIFICATIONS_REPORT_RECEIVED": "Recebemos sua denúncia.",
   "NOTIFICATIONS_REPORT_RECEIVED_BODY": "Obrigado por ajudar a manter o Snipp seguro. Nossa equipe vai analisar e agir se as regras forem violadas.",
   "NOTIFICATIONS_MONETIZED": "Você está monetizado!",

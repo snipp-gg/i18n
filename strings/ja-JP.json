@@ -2153,6 +2153,8 @@
   "NOTIFICATIONS_MENTION": "さんがあなたをメンションしました",
   "NOTIFICATIONS_POST_MODERATED": "あなたの投稿はルール違反のため削除されました。",
   "NOTIFICATIONS_POST_RESTRICTED": "あなたの投稿は制限され、「見つける」ページに表示されなくなりました。",
+  "NOTIFICATIONS_POST_RESTORED": "あなたの投稿は再審査され、復元されました。",
+  "NOTIFICATIONS_POST_UNRESTRICTED": "あなたの投稿の制限が解除され、「見つける」ページに再び表示できるようになりました。",
   "NOTIFICATIONS_REPORT_RECEIVED": "報告を受け取りました。",
   "NOTIFICATIONS_REPORT_RECEIVED_BODY": "Snippを安全に保つためのご協力ありがとうございます。チームが内容を確認し、ルール違反があれば対応します。",
   "NOTIFICATIONS_MONETIZED": "収益化が有効になりました！",

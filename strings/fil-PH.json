@@ -2153,6 +2153,8 @@
   "NOTIFICATIONS_MENTION": "ay nag-mention sa iyo",
   "NOTIFICATIONS_POST_MODERATED": "Tinanggal ang iyong post dahil sa paglabag sa mga panuntunan.",
   "NOTIFICATIONS_POST_RESTRICTED": "Pinaghigpitan ang iyong post at hindi na ito lumalabas sa Discover.",
+  "NOTIFICATIONS_POST_RESTORED": "Sinuri muli ang iyong post at naibalik na ito.",
+  "NOTIFICATIONS_POST_UNRESTRICTED": "Inalis na ang paghihigpit sa iyong post at maaari na itong lumabas muli sa Discover.",
   "NOTIFICATIONS_REPORT_RECEIVED": "Natanggap namin ang iyong report.",
   "NOTIFICATIONS_REPORT_RECEIVED_BODY": "Salamat sa pagtulong na mapanatiling ligtas ang Snipp. Susuriin ito ng aming team at aaksyunan kung lumalabag sa mga panuntunan.",
   "NOTIFICATIONS_MONETIZED": "Monetized ka na!",

@@ -2153,6 +2153,8 @@
   "NOTIFICATIONS_MENTION": "กล่าวถึงคุณ",
   "NOTIFICATIONS_POST_MODERATED": "โพสต์ของคุณถูกลบเนื่องจากละเมิดกฎ",
   "NOTIFICATIONS_POST_RESTRICTED": "โพสต์ของคุณถูกจำกัดและไม่ปรากฏในหน้าสำรวจอีกต่อไป",
+  "NOTIFICATIONS_POST_RESTORED": "โพสต์ของคุณได้รับการตรวจสอบอีกครั้งและถูกกู้คืนแล้ว",
+  "NOTIFICATIONS_POST_UNRESTRICTED": "การจำกัดโพสต์ของคุณถูกยกเลิกแล้ว และโพสต์สามารถปรากฏในหน้าสำรวจได้อีกครั้ง",
   "NOTIFICATIONS_REPORT_RECEIVED": "เราได้รับรายงานของคุณแล้ว",
   "NOTIFICATIONS_REPORT_RECEIVED_BODY": "ขอบคุณที่ช่วยให้ Snipp ปลอดภัย ทีมของเราจะตรวจสอบและดำเนินการหากละเมิดกฎ",
   "NOTIFICATIONS_MONETIZED": "เปิดการสร้างรายได้แล้ว!",

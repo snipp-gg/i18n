@@ -2153,6 +2153,8 @@
   "NOTIFICATIONS_MENTION": "nevnte deg",
   "NOTIFICATIONS_POST_MODERATED": "Innlegget ditt ble fjernet for regelbrudd.",
   "NOTIFICATIONS_POST_RESTRICTED": "Innlegget ditt ble begrenset og vises ikke lenger i Utforsk.",
+  "NOTIFICATIONS_POST_RESTORED": "Innlegget ditt ble vurdert på nytt og gjenopprettet.",
+  "NOTIFICATIONS_POST_UNRESTRICTED": "Begrensningen på innlegget ditt ble opphevet, og det kan vises i Utforsk igjen.",
   "NOTIFICATIONS_REPORT_RECEIVED": "Vi har mottatt rapporten din.",
   "NOTIFICATIONS_REPORT_RECEIVED_BODY": "Takk for at du hjelper med å holde Snipp trygt. Teamet vårt går gjennom den og griper inn hvis reglene er brutt.",
   "NOTIFICATIONS_MONETIZED": "Du er nå monetisert!",

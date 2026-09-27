@@ -2153,6 +2153,8 @@
   "NOTIFICATIONS_MENTION": "mainitsi sinut",
   "NOTIFICATIONS_POST_MODERATED": "Julkaisusi poistettiin sääntöjen rikkomisen vuoksi.",
   "NOTIFICATIONS_POST_RESTRICTED": "Julkaisuasi rajoitettiin, eikä se enää näy Tutustu-sivulla.",
+  "NOTIFICATIONS_POST_RESTORED": "Julkaisusi tarkistettiin uudelleen ja palautettiin.",
+  "NOTIFICATIONS_POST_UNRESTRICTED": "Julkaisusi rajoitus poistettiin, ja se voi taas näkyä Tutustu-sivulla.",
   "NOTIFICATIONS_REPORT_RECEIVED": "Saimme ilmoituksesi.",
   "NOTIFICATIONS_REPORT_RECEIVED_BODY": "Kiitos, että autat pitämään Snippin turvallisena. Tiimimme käy ilmoituksen läpi ja puuttuu asiaan, jos se rikkoo sääntöjä.",
   "NOTIFICATIONS_MONETIZED": "Ansaitseminen on nyt käytössä!",

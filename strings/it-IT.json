@@ -2153,6 +2153,8 @@
   "NOTIFICATIONS_MENTION": "ti ha menzionato",
   "NOTIFICATIONS_POST_MODERATED": "Il tuo post è stato rimosso per violazione delle regole.",
   "NOTIFICATIONS_POST_RESTRICTED": "Il tuo post è stato limitato e non appare più in Esplora.",
+  "NOTIFICATIONS_POST_RESTORED": "Il tuo post è stato riesaminato e ripristinato.",
+  "NOTIFICATIONS_POST_UNRESTRICTED": "La limitazione sul tuo post è stata rimossa e può apparire di nuovo in Esplora.",
   "NOTIFICATIONS_REPORT_RECEIVED": "Abbiamo ricevuto la tua segnalazione.",
   "NOTIFICATIONS_REPORT_RECEIVED_BODY": "Grazie per aiutarci a mantenere Snipp sicuro. Il nostro team la esaminerà e interverrà se viola le regole.",
   "NOTIFICATIONS_MONETIZED": "Sei monetizzato!",

@@ -2153,6 +2153,8 @@
   "NOTIFICATIONS_MENTION": "님이 회원님을 언급했습니다",
   "NOTIFICATIONS_POST_MODERATED": "규칙 위반으로 회원님의 게시물이 삭제되었습니다.",
   "NOTIFICATIONS_POST_RESTRICTED": "회원님의 게시물이 제한되어 더 이상 둘러보기에 표시되지 않습니다.",
+  "NOTIFICATIONS_POST_RESTORED": "회원님의 게시물이 다시 검토되어 복원되었습니다.",
+  "NOTIFICATIONS_POST_UNRESTRICTED": "회원님의 게시물에 대한 제한이 해제되어 다시 둘러보기에 표시될 수 있습니다.",
   "NOTIFICATIONS_REPORT_RECEIVED": "신고를 접수했습니다.",
   "NOTIFICATIONS_REPORT_RECEIVED_BODY": "Snipp를 안전하게 지키는 데 도움을 주셔서 감사합니다. 저희 팀이 검토한 후 규칙 위반이 확인되면 조치하겠습니다.",
   "NOTIFICATIONS_MONETIZED": "수익 창출이 시작되었습니다!",

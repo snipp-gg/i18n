@@ -2153,6 +2153,8 @@
   "NOTIFICATIONS_MENTION": "згадав(-ла) вас",
   "NOTIFICATIONS_POST_MODERATED": "Ваш допис видалено за порушення правил.",
   "NOTIFICATIONS_POST_RESTRICTED": "Ваш допис обмежено, і він більше не відображається в Огляді.",
+  "NOTIFICATIONS_POST_RESTORED": "Ваш допис повторно перевірено та відновлено.",
+  "NOTIFICATIONS_POST_UNRESTRICTED": "Обмеження з вашого допису знято, і він знову може відображатися в Огляді.",
   "NOTIFICATIONS_REPORT_RECEIVED": "Ми отримали вашу скаргу.",
   "NOTIFICATIONS_REPORT_RECEIVED_BODY": "Дякуємо, що допомагаєте тримати Snipp безпечним. Наша команда розгляне її та вживе заходів, якщо правила порушено.",
   "NOTIFICATIONS_MONETIZED": "Монетизацію ввімкнено!",

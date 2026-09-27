@@ -2153,6 +2153,8 @@
   "NOTIFICATIONS_MENTION": "提到了您",
   "NOTIFICATIONS_POST_MODERATED": "您的帖子因违反规则已被移除。",
   "NOTIFICATIONS_POST_RESTRICTED": "您的帖子已被限制，不再显示在“发现”页面中。",
+  "NOTIFICATIONS_POST_RESTORED": "您的帖子已经过再次审核并恢复。",
+  "NOTIFICATIONS_POST_UNRESTRICTED": "您的帖子的限制已解除，可以再次显示在“发现”页面中。",
   "NOTIFICATIONS_REPORT_RECEIVED": "我们已收到您的举报。",
   "NOTIFICATIONS_REPORT_RECEIVED_BODY": "感谢您帮助保持 Snipp 的安全。我们的团队会进行审核，如违反规则将采取措施。",
   "NOTIFICATIONS_MONETIZED": "已为您开启创作者收益！",

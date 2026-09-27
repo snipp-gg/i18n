@@ -2153,6 +2153,8 @@
   "NOTIFICATIONS_MENTION": "te je spomenuo",
   "NOTIFICATIONS_POST_MODERATED": "Tvoja je objava uklonjena zbog kršenja pravila.",
   "NOTIFICATIONS_POST_RESTRICTED": "Tvoja je objava ograničena i više se ne prikazuje na stranici Otkrij.",
+  "NOTIFICATIONS_POST_RESTORED": "Tvoja je objava ponovno pregledana i vraćena.",
+  "NOTIFICATIONS_POST_UNRESTRICTED": "Ograničenje tvoje objave je uklonjeno i ona se ponovno može prikazivati na stranici Otkrij.",
   "NOTIFICATIONS_REPORT_RECEIVED": "Primili smo tvoju prijavu.",
   "NOTIFICATIONS_REPORT_RECEIVED_BODY": "Hvala što pomažeš održati Snipp sigurnim. Naš tim će je pregledati i reagirati ako krši pravila.",
   "NOTIFICATIONS_MONETIZED": "Monetizacija ti je uključena!",
