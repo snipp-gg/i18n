@@ -1323,6 +1323,7 @@
   "SETTINGS_PROFILE_BANNER_TOAST_UPLOAD_SUCCESS": "Bannern laddades upp!",
   "SETTINGS_PROFILE_BANNER_ERROR_UPLOAD": "Kunde inte ladda upp bannern.",
   "SETTINGS_PROFILE_ERROR_USERNAME_INVALID_CHARS": "Användarnamnet får endast innehålla bokstäver, siffror och understreck.",
+  "SETTINGS_PROFILE_ERROR_USERNAME_TAKEN": "Det användarnamnet är redan upptaget.",
   "SETTINGS_PROFILE_ERROR_EMAIL_INVALID": "Ange en giltig e-postadress.",
   "SETTINGS_PROFILE_TOAST_UPDATE_FAILED": "Kunde inte uppdatera profilen.",
   "SETTINGS_PROFILE_SUSPENDED": "Ditt konto är avstängt, så du kan inte ändra din profil.",

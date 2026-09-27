@@ -1323,6 +1323,7 @@
   "SETTINGS_PROFILE_BANNER_TOAST_UPLOAD_SUCCESS": "Banner lastet opp!",
   "SETTINGS_PROFILE_BANNER_ERROR_UPLOAD": "Kunne ikke laste opp banner.",
   "SETTINGS_PROFILE_ERROR_USERNAME_INVALID_CHARS": "Brukernavn kan bare inneholde bokstaver, tall og understreker.",
+  "SETTINGS_PROFILE_ERROR_USERNAME_TAKEN": "Dette brukernavnet er allerede i bruk.",
   "SETTINGS_PROFILE_ERROR_EMAIL_INVALID": "Skriv inn en gyldig e-postadresse.",
   "SETTINGS_PROFILE_TOAST_UPDATE_FAILED": "Kunne ikke oppdatere profilen.",
   "SETTINGS_PROFILE_SUSPENDED": "Kontoen din er suspendert, så du kan ikke endre profilen din.",

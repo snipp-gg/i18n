@@ -1323,6 +1323,7 @@
   "SETTINGS_PROFILE_BANNER_TOAST_UPLOAD_SUCCESS": "Banner succesvol geüpload!",
   "SETTINGS_PROFILE_BANNER_ERROR_UPLOAD": "Banner uploaden mislukt.",
   "SETTINGS_PROFILE_ERROR_USERNAME_INVALID_CHARS": "Gebruikersnaam mag alleen letters, cijfers en liggende streepjes bevatten.",
+  "SETTINGS_PROFILE_ERROR_USERNAME_TAKEN": "Die gebruikersnaam is al in gebruik.",
   "SETTINGS_PROFILE_ERROR_EMAIL_INVALID": "Voer een geldig e-mailadres in.",
   "SETTINGS_PROFILE_TOAST_UPDATE_FAILED": "Profiel bijwerken mislukt.",
   "SETTINGS_PROFILE_SUSPENDED": "Je account is geschorst, dus je kunt je profiel niet wijzigen.",

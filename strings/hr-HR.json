@@ -1323,6 +1323,7 @@
   "SETTINGS_PROFILE_BANNER_TOAST_UPLOAD_SUCCESS": "Baner uspješno prenesen!",
   "SETTINGS_PROFILE_BANNER_ERROR_UPLOAD": "Prijenos banera nije uspio.",
   "SETTINGS_PROFILE_ERROR_USERNAME_INVALID_CHARS": "Korisničko ime smije sadržavati samo slova, brojeve i podvlake.",
+  "SETTINGS_PROFILE_ERROR_USERNAME_TAKEN": "To korisničko ime je već zauzeto.",
   "SETTINGS_PROFILE_ERROR_EMAIL_INVALID": "Unesi valjanu e-adresu.",
   "SETTINGS_PROFILE_TOAST_UPDATE_FAILED": "Ažuriranje profila nije uspjelo.",
   "SETTINGS_PROFILE_SUSPENDED": "Vaš je račun suspendiran, pa ne možete promijeniti svoj profil.",

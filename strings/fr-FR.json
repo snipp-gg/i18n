@@ -1323,6 +1323,7 @@
   "SETTINGS_PROFILE_BANNER_TOAST_UPLOAD_SUCCESS": "Bannière envoyée avec succès !",
   "SETTINGS_PROFILE_BANNER_ERROR_UPLOAD": "Échec de l'envoi de la bannière.",
   "SETTINGS_PROFILE_ERROR_USERNAME_INVALID_CHARS": "Le nom d'utilisateur ne peut contenir que des lettres, des chiffres et des tirets bas.",
+  "SETTINGS_PROFILE_ERROR_USERNAME_TAKEN": "Ce nom d'utilisateur est déjà pris.",
   "SETTINGS_PROFILE_ERROR_EMAIL_INVALID": "Veuillez saisir une adresse e-mail valide.",
   "SETTINGS_PROFILE_TOAST_UPDATE_FAILED": "Échec de la mise à jour du profil.",
   "SETTINGS_PROFILE_SUSPENDED": "Votre compte est suspendu, vous ne pouvez donc pas modifier votre profil.",

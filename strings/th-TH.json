@@ -1323,6 +1323,7 @@
   "SETTINGS_PROFILE_BANNER_TOAST_UPLOAD_SUCCESS": "อัปโหลดแบนเนอร์สำเร็จ!",
   "SETTINGS_PROFILE_BANNER_ERROR_UPLOAD": "ไม่สามารถอัปโหลดแบนเนอร์ได้",
   "SETTINGS_PROFILE_ERROR_USERNAME_INVALID_CHARS": "ชื่อผู้ใช้สามารถมีตัวอักษร ตัวเลข และเครื่องหมายขีดล่างเท่านั้น",
+  "SETTINGS_PROFILE_ERROR_USERNAME_TAKEN": "ชื่อผู้ใช้นี้ถูกใช้งานแล้ว",
   "SETTINGS_PROFILE_ERROR_EMAIL_INVALID": "กรุณากรอกที่อยู่อีเมลที่ถูกต้อง",
   "SETTINGS_PROFILE_TOAST_UPDATE_FAILED": "ไม่สามารถอัปเดตโปรไฟล์ได้",
   "SETTINGS_PROFILE_SUSPENDED": "บัญชีของคุณถูกระงับ คุณจึงไม่สามารถเปลี่ยนแปลงโปรไฟล์ได้",

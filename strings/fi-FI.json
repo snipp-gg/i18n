@@ -1323,6 +1323,7 @@
   "SETTINGS_PROFILE_BANNER_TOAST_UPLOAD_SUCCESS": "Banneri ladattu onnistuneesti!",
   "SETTINGS_PROFILE_BANNER_ERROR_UPLOAD": "Bannerin lataus epäonnistui.",
   "SETTINGS_PROFILE_ERROR_USERNAME_INVALID_CHARS": "Käyttäjänimi voi sisältää vain kirjaimia, numeroita ja alaviivoja.",
+  "SETTINGS_PROFILE_ERROR_USERNAME_TAKEN": "Tämä käyttäjänimi on jo varattu.",
   "SETTINGS_PROFILE_ERROR_EMAIL_INVALID": "Syötä kelvollinen sähköpostiosoite.",
   "SETTINGS_PROFILE_TOAST_UPDATE_FAILED": "Profiilin päivitys epäonnistui.",
   "SETTINGS_PROFILE_SUSPENDED": "Tilisi on jäädytetty, joten et voi muuttaa profiiliasi.",

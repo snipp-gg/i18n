@@ -1323,6 +1323,7 @@
   "SETTINGS_PROFILE_BANNER_TOAST_UPLOAD_SUCCESS": "Баннер успешно загружен!",
   "SETTINGS_PROFILE_BANNER_ERROR_UPLOAD": "Не удалось загрузить баннер.",
   "SETTINGS_PROFILE_ERROR_USERNAME_INVALID_CHARS": "Имя пользователя может содержать только буквы, цифры и подчёркивания.",
+  "SETTINGS_PROFILE_ERROR_USERNAME_TAKEN": "Это имя пользователя уже занято.",
   "SETTINGS_PROFILE_ERROR_EMAIL_INVALID": "Введите корректный адрес электронной почты.",
   "SETTINGS_PROFILE_TOAST_UPDATE_FAILED": "Не удалось обновить профиль.",
   "SETTINGS_PROFILE_SUSPENDED": "Ваш аккаунт заблокирован, поэтому вы не можете изменить свой профиль.",

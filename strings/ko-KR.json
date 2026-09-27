@@ -1323,6 +1323,7 @@
   "SETTINGS_PROFILE_BANNER_TOAST_UPLOAD_SUCCESS": "배너가 업로드되었습니다!",
   "SETTINGS_PROFILE_BANNER_ERROR_UPLOAD": "배너를 업로드하지 못했습니다.",
   "SETTINGS_PROFILE_ERROR_USERNAME_INVALID_CHARS": "사용자 이름에는 문자, 숫자, 밑줄만 사용할 수 있습니다.",
+  "SETTINGS_PROFILE_ERROR_USERNAME_TAKEN": "이 사용자 이름은 이미 사용 중입니다.",
   "SETTINGS_PROFILE_ERROR_EMAIL_INVALID": "유효한 이메일 주소를 입력하세요.",
   "SETTINGS_PROFILE_TOAST_UPDATE_FAILED": "프로필을 업데이트하지 못했습니다.",
   "SETTINGS_PROFILE_SUSPENDED": "계정이 정지되어 프로필을 변경할 수 없습니다.",

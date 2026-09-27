@@ -1323,6 +1323,7 @@
   "SETTINGS_PROFILE_BANNER_TOAST_UPLOAD_SUCCESS": "Banner úspěšně nahrán!",
   "SETTINGS_PROFILE_BANNER_ERROR_UPLOAD": "Nepodařilo se nahrát banner.",
   "SETTINGS_PROFILE_ERROR_USERNAME_INVALID_CHARS": "Uživatelské jméno může obsahovat pouze písmena, čísla a podtržítka.",
+  "SETTINGS_PROFILE_ERROR_USERNAME_TAKEN": "Toto uživatelské jméno je již obsazené.",
   "SETTINGS_PROFILE_ERROR_EMAIL_INVALID": "Zadejte platnou e-mailovou adresu.",
   "SETTINGS_PROFILE_TOAST_UPDATE_FAILED": "Nepodařilo se aktualizovat profil.",
   "SETTINGS_PROFILE_SUSPENDED": "Váš účet je pozastaven, takže nemůžete změnit svůj profil.",

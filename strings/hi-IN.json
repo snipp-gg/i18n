@@ -1323,6 +1323,7 @@
   "SETTINGS_PROFILE_BANNER_TOAST_UPLOAD_SUCCESS": "बैनर सफलतापूर्वक अपलोड किया गया!",
   "SETTINGS_PROFILE_BANNER_ERROR_UPLOAD": "बैनर अपलोड करने में विफल।",
   "SETTINGS_PROFILE_ERROR_USERNAME_INVALID_CHARS": "उपयोगकर्ता नाम में केवल अक्षर, संख्याएं और अंडरस्कोर हो सकते हैं।",
+  "SETTINGS_PROFILE_ERROR_USERNAME_TAKEN": "यह यूज़रनेम पहले से लिया गया है।",
   "SETTINGS_PROFILE_ERROR_EMAIL_INVALID": "कृपया एक मान्य ईमेल पता दर्ज करें।",
   "SETTINGS_PROFILE_TOAST_UPDATE_FAILED": "प्रोफ़ाइल अपडेट करने में विफल।",
   "SETTINGS_PROFILE_SUSPENDED": "आपका अकाउंट सस्पेंड है, इसलिए आप अपनी प्रोफ़ाइल नहीं बदल सकते।",

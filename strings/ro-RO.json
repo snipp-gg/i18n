@@ -1323,6 +1323,7 @@
   "SETTINGS_PROFILE_BANNER_TOAST_UPLOAD_SUCCESS": "Banner încărcat cu succes!",
   "SETTINGS_PROFILE_BANNER_ERROR_UPLOAD": "Nu s-a putut încărca bannerul.",
   "SETTINGS_PROFILE_ERROR_USERNAME_INVALID_CHARS": "Numele de utilizator poate conține doar litere, cifre și liniuțe de subliniere.",
+  "SETTINGS_PROFILE_ERROR_USERNAME_TAKEN": "Acest nume de utilizator este deja folosit.",
   "SETTINGS_PROFILE_ERROR_EMAIL_INVALID": "Te rugăm să introduci o adresă de e-mail validă.",
   "SETTINGS_PROFILE_TOAST_UPDATE_FAILED": "Nu s-a putut actualiza profilul.",
   "SETTINGS_PROFILE_SUSPENDED": "Contul tău este suspendat, așa că nu poți modifica profilul.",

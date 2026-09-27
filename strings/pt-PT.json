@@ -1323,6 +1323,7 @@
   "SETTINGS_PROFILE_BANNER_TOAST_UPLOAD_SUCCESS": "Banner carregado com sucesso!",
   "SETTINGS_PROFILE_BANNER_ERROR_UPLOAD": "Falha ao carregar banner.",
   "SETTINGS_PROFILE_ERROR_USERNAME_INVALID_CHARS": "O nome de utilizador só pode conter letras, números e underscores.",
+  "SETTINGS_PROFILE_ERROR_USERNAME_TAKEN": "Esse nome de utilizador já está em uso.",
   "SETTINGS_PROFILE_ERROR_EMAIL_INVALID": "Por favor introduza um endereço de e-mail válido.",
   "SETTINGS_PROFILE_TOAST_UPDATE_FAILED": "Falha ao atualizar perfil.",
   "SETTINGS_PROFILE_SUSPENDED": "A sua conta está suspensa, por isso não pode alterar o seu perfil.",

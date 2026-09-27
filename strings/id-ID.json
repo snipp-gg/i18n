@@ -1323,6 +1323,7 @@
   "SETTINGS_PROFILE_BANNER_TOAST_UPLOAD_SUCCESS": "Banner berhasil diunggah!",
   "SETTINGS_PROFILE_BANNER_ERROR_UPLOAD": "Gagal mengunggah banner.",
   "SETTINGS_PROFILE_ERROR_USERNAME_INVALID_CHARS": "Nama pengguna hanya boleh berisi huruf, angka, dan garis bawah.",
+  "SETTINGS_PROFILE_ERROR_USERNAME_TAKEN": "Nama pengguna itu sudah digunakan.",
   "SETTINGS_PROFILE_ERROR_EMAIL_INVALID": "Masukkan alamat email yang valid.",
   "SETTINGS_PROFILE_TOAST_UPDATE_FAILED": "Gagal memperbarui profil.",
   "SETTINGS_PROFILE_SUSPENDED": "Akun Anda ditangguhkan, jadi Anda tidak dapat mengubah profil Anda.",

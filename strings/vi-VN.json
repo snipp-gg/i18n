@@ -1323,6 +1323,7 @@
   "SETTINGS_PROFILE_BANNER_TOAST_UPLOAD_SUCCESS": "Đã tải lên ảnh bìa thành công!",
   "SETTINGS_PROFILE_BANNER_ERROR_UPLOAD": "Không thể tải lên ảnh bìa.",
   "SETTINGS_PROFILE_ERROR_USERNAME_INVALID_CHARS": "Tên người dùng chỉ được chứa chữ cái, số và dấu gạch dưới.",
+  "SETTINGS_PROFILE_ERROR_USERNAME_TAKEN": "Tên người dùng đó đã được sử dụng.",
   "SETTINGS_PROFILE_ERROR_EMAIL_INVALID": "Vui lòng nhập địa chỉ email hợp lệ.",
   "SETTINGS_PROFILE_TOAST_UPDATE_FAILED": "Không thể cập nhật hồ sơ.",
   "SETTINGS_PROFILE_SUSPENDED": "Tài khoản của bạn đã bị đình chỉ, vì vậy bạn không thể thay đổi hồ sơ của mình.",

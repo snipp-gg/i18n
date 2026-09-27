@@ -1323,6 +1323,7 @@
   "SETTINGS_PROFILE_BANNER_TOAST_UPLOAD_SUCCESS": "バナーをアップロードしました。",
   "SETTINGS_PROFILE_BANNER_ERROR_UPLOAD": "バナーのアップロードに失敗しました。",
   "SETTINGS_PROFILE_ERROR_USERNAME_INVALID_CHARS": "ユーザー名には英数字とアンダースコアのみ使用できます。",
+  "SETTINGS_PROFILE_ERROR_USERNAME_TAKEN": "このユーザー名はすでに使用されています。",
   "SETTINGS_PROFILE_ERROR_EMAIL_INVALID": "有効なメールアドレスを入力してください。",
   "SETTINGS_PROFILE_TOAST_UPDATE_FAILED": "プロフィールの更新に失敗しました。",
   "SETTINGS_PROFILE_SUSPENDED": "アカウントが停止されているため、プロフィールを変更できません。",

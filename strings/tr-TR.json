@@ -1323,6 +1323,7 @@
   "SETTINGS_PROFILE_BANNER_TOAST_UPLOAD_SUCCESS": "Afiş başarıyla yüklendi!",
   "SETTINGS_PROFILE_BANNER_ERROR_UPLOAD": "Afiş yüklenemedi.",
   "SETTINGS_PROFILE_ERROR_USERNAME_INVALID_CHARS": "Kullanıcı adı yalnızca harf, sayı ve alt çizgi içerebilir.",
+  "SETTINGS_PROFILE_ERROR_USERNAME_TAKEN": "Bu kullanıcı adı zaten alınmış.",
   "SETTINGS_PROFILE_ERROR_EMAIL_INVALID": "Lütfen geçerli bir e-posta adresi girin.",
   "SETTINGS_PROFILE_TOAST_UPDATE_FAILED": "Profil güncellenemedi.",
   "SETTINGS_PROFILE_SUSPENDED": "Hesabınız askıya alındı, bu yüzden profilinizi değiştiremezsiniz.",

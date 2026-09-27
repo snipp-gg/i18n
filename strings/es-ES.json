@@ -1323,6 +1323,7 @@
   "SETTINGS_PROFILE_BANNER_TOAST_UPLOAD_SUCCESS": "¡Banner subido correctamente!",
   "SETTINGS_PROFILE_BANNER_ERROR_UPLOAD": "No se pudo subir el banner.",
   "SETTINGS_PROFILE_ERROR_USERNAME_INVALID_CHARS": "El nombre de usuario solo puede contener letras, números y guiones bajos.",
+  "SETTINGS_PROFILE_ERROR_USERNAME_TAKEN": "Ese nombre de usuario ya está en uso.",
   "SETTINGS_PROFILE_ERROR_EMAIL_INVALID": "Introduce una dirección de correo electrónico válida.",
   "SETTINGS_PROFILE_TOAST_UPDATE_FAILED": "No se pudo actualizar el perfil.",
   "SETTINGS_PROFILE_SUSPENDED": "Tu cuenta está suspendida, así que no puedes cambiar tu perfil.",

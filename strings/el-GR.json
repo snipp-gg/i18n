@@ -1323,6 +1323,7 @@
   "SETTINGS_PROFILE_BANNER_TOAST_UPLOAD_SUCCESS": "Το banner ανέβηκε επιτυχώς!",
   "SETTINGS_PROFILE_BANNER_ERROR_UPLOAD": "Αποτυχία ανεβάσματος banner.",
   "SETTINGS_PROFILE_ERROR_USERNAME_INVALID_CHARS": "Το όνομα χρήστη μπορεί να περιέχει μόνο γράμματα, αριθμούς και κάτω παύλες.",
+  "SETTINGS_PROFILE_ERROR_USERNAME_TAKEN": "Αυτό το όνομα χρήστη χρησιμοποιείται ήδη.",
   "SETTINGS_PROFILE_ERROR_EMAIL_INVALID": "Εισάγετε έγκυρη διεύθυνση email.",
   "SETTINGS_PROFILE_TOAST_UPDATE_FAILED": "Αποτυχία ενημέρωσης προφίλ.",
   "SETTINGS_PROFILE_SUSPENDED": "Ο λογαριασμός σας έχει ανασταλεί, οπότε δεν μπορείτε να αλλάξετε το προφίλ σας.",

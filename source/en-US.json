@@ -1323,6 +1323,7 @@
   "SETTINGS_PROFILE_BANNER_TOAST_UPLOAD_SUCCESS": "Banner successfully uploaded!",
   "SETTINGS_PROFILE_BANNER_ERROR_UPLOAD": "Failed to upload banner.",
   "SETTINGS_PROFILE_ERROR_USERNAME_INVALID_CHARS": "Username can only contain letters, numbers, and underscores.",
+  "SETTINGS_PROFILE_ERROR_USERNAME_TAKEN": "That username is already taken.",
   "SETTINGS_PROFILE_ERROR_EMAIL_INVALID": "Please enter a valid email address.",
   "SETTINGS_PROFILE_TOAST_UPDATE_FAILED": "Failed to update profile.",
   "SETTINGS_PROFILE_SUSPENDED": "Your account is suspended, so you cannot change your profile.",

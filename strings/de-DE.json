@@ -1323,6 +1323,7 @@
   "SETTINGS_PROFILE_BANNER_TOAST_UPLOAD_SUCCESS": "Banner erfolgreich hochgeladen!",
   "SETTINGS_PROFILE_BANNER_ERROR_UPLOAD": "Banner konnte nicht hochgeladen werden.",
   "SETTINGS_PROFILE_ERROR_USERNAME_INVALID_CHARS": "Der Benutzername darf nur Buchstaben, Zahlen und Unterstriche enthalten.",
+  "SETTINGS_PROFILE_ERROR_USERNAME_TAKEN": "Dieser Benutzername ist bereits vergeben.",
   "SETTINGS_PROFILE_ERROR_EMAIL_INVALID": "Bitte gib eine gültige E-Mail-Adresse ein.",
   "SETTINGS_PROFILE_TOAST_UPDATE_FAILED": "Profil konnte nicht aktualisiert werden.",
   "SETTINGS_PROFILE_SUSPENDED": "Dein Konto ist gesperrt, daher kannst du dein Profil nicht ändern.",

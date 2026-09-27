@@ -1323,6 +1323,7 @@
   "SETTINGS_PROFILE_BANNER_TOAST_UPLOAD_SUCCESS": "Baner został pomyślnie przesłany!",
   "SETTINGS_PROFILE_BANNER_ERROR_UPLOAD": "Nie udało się przesłać banera.",
   "SETTINGS_PROFILE_ERROR_USERNAME_INVALID_CHARS": "Nazwa użytkownika może zawierać tylko litery, cyfry i podkreślenia.",
+  "SETTINGS_PROFILE_ERROR_USERNAME_TAKEN": "Ta nazwa użytkownika jest już zajęta.",
   "SETTINGS_PROFILE_ERROR_EMAIL_INVALID": "Wprowadź prawidłowy adres e-mail.",
   "SETTINGS_PROFILE_TOAST_UPDATE_FAILED": "Nie udało się zaktualizować profilu.",
   "SETTINGS_PROFILE_SUSPENDED": "Twoje konto jest zawieszone, więc nie możesz zmienić swojego profilu.",

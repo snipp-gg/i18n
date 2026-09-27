@@ -1323,6 +1323,7 @@
   "SETTINGS_PROFILE_BANNER_TOAST_UPLOAD_SUCCESS": "Банерът е качен успешно!",
   "SETTINGS_PROFILE_BANNER_ERROR_UPLOAD": "Неуспешно качване на банера.",
   "SETTINGS_PROFILE_ERROR_USERNAME_INVALID_CHARS": "Потребителското име може да съдържа само букви, цифри и долни черти.",
+  "SETTINGS_PROFILE_ERROR_USERNAME_TAKEN": "Това потребителско име вече е заето.",
   "SETTINGS_PROFILE_ERROR_EMAIL_INVALID": "Моля, въведете валиден имейл адрес.",
   "SETTINGS_PROFILE_TOAST_UPDATE_FAILED": "Неуспешно обновяване на профила.",
   "SETTINGS_PROFILE_SUSPENDED": "Акаунтът ви е спрян, така че не можете да промените профила си.",
