@@ -1339,6 +1339,7 @@
   "SETTINGS_PROFILE_AVATAR_REMOVE_BUTTON": "Удалить аватар",
   "SETTINGS_PROFILE_AVATAR_FORMAT_HINT": "JPG, PNG, GIF или WebP. До 30 МБ.",
   "SETTINGS_PROFILE_BANNER_HEADING": "Баннер",
+  "SETTINGS_PROFILE_BANNER_HINT": "Показывается в верхней части вашего профиля и в карточке профиля.",
   "SETTINGS_PROFILE_BANNER_DROP_HEADING": "Перетащите или выберите баннер для загрузки",
   "SETTINGS_PROFILE_BANNER_CHANGE_BUTTON": "Изменить баннер",
   "SETTINGS_PROFILE_BANNER_UPLOAD_BUTTON": "Загрузить баннер",

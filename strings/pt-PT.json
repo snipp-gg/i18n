@@ -1339,6 +1339,7 @@
   "SETTINGS_PROFILE_AVATAR_REMOVE_BUTTON": "Remover Avatar",
   "SETTINGS_PROFILE_AVATAR_FORMAT_HINT": "JPG, PNG, GIF ou WebP. Até 30 MB.",
   "SETTINGS_PROFILE_BANNER_HEADING": "Faixa",
+  "SETTINGS_PROFILE_BANNER_HINT": "Mostrada no topo do seu perfil e no seu cartão de perfil.",
   "SETTINGS_PROFILE_BANNER_DROP_HEADING": "Largue ou procure um banner para carregar",
   "SETTINGS_PROFILE_BANNER_CHANGE_BUTTON": "Alterar Banner",
   "SETTINGS_PROFILE_BANNER_UPLOAD_BUTTON": "Carregar Banner",

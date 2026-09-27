@@ -1339,6 +1339,7 @@
   "SETTINGS_PROFILE_AVATAR_REMOVE_BUTTON": "Avatar verwijderen",
   "SETTINGS_PROFILE_AVATAR_FORMAT_HINT": "JPG, PNG, GIF of WebP. Tot 30 MB.",
   "SETTINGS_PROFILE_BANNER_HEADING": "Banner",
+  "SETTINGS_PROFILE_BANNER_HINT": "Getoond bovenaan je profiel en op je profielkaart.",
   "SETTINGS_PROFILE_BANNER_DROP_HEADING": "Sleep of blader door een banner om te uploaden",
   "SETTINGS_PROFILE_BANNER_CHANGE_BUTTON": "Banner wijzigen",
   "SETTINGS_PROFILE_BANNER_UPLOAD_BUTTON": "Banner uploaden",

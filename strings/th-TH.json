@@ -1339,6 +1339,7 @@
   "SETTINGS_PROFILE_AVATAR_REMOVE_BUTTON": "ลบอวตาร",
   "SETTINGS_PROFILE_AVATAR_FORMAT_HINT": "JPG, PNG, GIF หรือ WebP สูงสุด 30 MB",
   "SETTINGS_PROFILE_BANNER_HEADING": "แบนเนอร์",
+  "SETTINGS_PROFILE_BANNER_HINT": "แสดงที่ด้านบนของโปรไฟล์และบนการ์ดโปรไฟล์ของคุณ",
   "SETTINGS_PROFILE_BANNER_DROP_HEADING": "วางหรือเรียกดูแบนเนอร์เพื่ออัปโหลด",
   "SETTINGS_PROFILE_BANNER_CHANGE_BUTTON": "เปลี่ยนแบนเนอร์",
   "SETTINGS_PROFILE_BANNER_UPLOAD_BUTTON": "อัปโหลดแบนเนอร์",

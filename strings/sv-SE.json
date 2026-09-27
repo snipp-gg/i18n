@@ -1339,6 +1339,7 @@
   "SETTINGS_PROFILE_AVATAR_REMOVE_BUTTON": "Ta bort avatar",
   "SETTINGS_PROFILE_AVATAR_FORMAT_HINT": "JPG, PNG, GIF eller WebP. Upp till 30 MB.",
   "SETTINGS_PROFILE_BANNER_HEADING": "Banderoll",
+  "SETTINGS_PROFILE_BANNER_HINT": "Visas högst upp på din profil och på ditt profilkort.",
   "SETTINGS_PROFILE_BANNER_DROP_HEADING": "Släpp eller bläddra efter en banner att ladda upp",
   "SETTINGS_PROFILE_BANNER_CHANGE_BUTTON": "Byt banner",
   "SETTINGS_PROFILE_BANNER_UPLOAD_BUTTON": "Ladda upp banner",

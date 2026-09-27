@@ -1339,6 +1339,7 @@
   "SETTINGS_PROFILE_AVATAR_REMOVE_BUTTON": "Gỡ ảnh đại diện",
   "SETTINGS_PROFILE_AVATAR_FORMAT_HINT": "JPG, PNG, GIF hoặc WebP. Tối đa 30 MB.",
   "SETTINGS_PROFILE_BANNER_HEADING": "Ảnh bìa",
+  "SETTINGS_PROFILE_BANNER_HINT": "Hiển thị ở đầu hồ sơ và trên thẻ hồ sơ của bạn.",
   "SETTINGS_PROFILE_BANNER_DROP_HEADING": "Thả hoặc duyệt ảnh bìa để tải lên",
   "SETTINGS_PROFILE_BANNER_CHANGE_BUTTON": "Đổi ảnh bìa",
   "SETTINGS_PROFILE_BANNER_UPLOAD_BUTTON": "Tải lên ảnh bìa",

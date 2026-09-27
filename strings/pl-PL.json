@@ -1339,6 +1339,7 @@
   "SETTINGS_PROFILE_AVATAR_REMOVE_BUTTON": "Usuń Awatar",
   "SETTINGS_PROFILE_AVATAR_FORMAT_HINT": "JPG, PNG, GIF lub WebP. Do 30 MB.",
   "SETTINGS_PROFILE_BANNER_HEADING": "Baner",
+  "SETTINGS_PROFILE_BANNER_HINT": "Wyświetlany u góry Twojego profilu i na Twojej karcie profilu.",
   "SETTINGS_PROFILE_BANNER_DROP_HEADING": "Upuść lub przeglądaj baner, aby przesłać",
   "SETTINGS_PROFILE_BANNER_CHANGE_BUTTON": "Zmień Baner",
   "SETTINGS_PROFILE_BANNER_UPLOAD_BUTTON": "Prześlij Baner",

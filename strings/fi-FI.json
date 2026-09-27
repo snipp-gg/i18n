@@ -1339,6 +1339,7 @@
   "SETTINGS_PROFILE_AVATAR_REMOVE_BUTTON": "Poista avatar",
   "SETTINGS_PROFILE_AVATAR_FORMAT_HINT": "JPG, PNG, GIF tai WebP. Enintään 30 MB.",
   "SETTINGS_PROFILE_BANNER_HEADING": "Banneri",
+  "SETTINGS_PROFILE_BANNER_HINT": "Näkyy profiilisi yläosassa ja profiilikortissasi.",
   "SETTINGS_PROFILE_BANNER_DROP_HEADING": "Pudota tai selaa banneria ladataksesi",
   "SETTINGS_PROFILE_BANNER_CHANGE_BUTTON": "Vaihda banneri",
   "SETTINGS_PROFILE_BANNER_UPLOAD_BUTTON": "Lataa banneri",

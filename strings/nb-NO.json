@@ -1339,6 +1339,7 @@
   "SETTINGS_PROFILE_AVATAR_REMOVE_BUTTON": "Fjern avatar",
   "SETTINGS_PROFILE_AVATAR_FORMAT_HINT": "JPG, PNG, GIF eller WebP. Opptil 30 MB.",
   "SETTINGS_PROFILE_BANNER_HEADING": "Banner",
+  "SETTINGS_PROFILE_BANNER_HINT": "Vises øverst på profilen din og på profilkortet ditt.",
   "SETTINGS_PROFILE_BANNER_DROP_HEADING": "Slipp eller bla gjennom et banner for å laste opp",
   "SETTINGS_PROFILE_BANNER_CHANGE_BUTTON": "Endre banner",
   "SETTINGS_PROFILE_BANNER_UPLOAD_BUTTON": "Last opp banner",
