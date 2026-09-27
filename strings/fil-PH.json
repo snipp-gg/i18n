@@ -1158,7 +1158,6 @@
   "USER_PROFILE_BLOCK_CONFIRM_MESSAGE": "Hindi nila makikita ang iyong profile o content, hindi ka nila ma-follow o makakapag-interact sa iyong mga post, at hindi mo rin makikita ang kanila. Maaari mo silang i-unblock anumang oras.",
   "USER_PROFILE_UNBLOCK_CONFIRM_TITLE": "I-unblock si @{username}?",
   "USER_PROFILE_UNBLOCK_CONFIRM_MESSAGE": "Makikita ulit nila ang iyong profile at content, mafo-follow ka, at makakapag-interact muli sa iyong mga post. Maaari mo silang i-block ulit anumang oras.",
-  "USER_PROFILE_ABOUT_HEADING": "Tungkol Sa Akin",
   "USER_PROFILE_POSTS_TAB": "Mga Post",
   "USER_PROFILE_POSTS_EMPTY_HEADING": "Wala pang post dito...",
   "USER_PROFILE_POSTS_EMPTY_MESSAGE": "Wala pang naipost ang user na ito.",

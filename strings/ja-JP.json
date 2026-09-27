@@ -1158,7 +1158,6 @@
   "USER_PROFILE_BLOCK_CONFIRM_MESSAGE": "相手はあなたのプロフィールやコンテンツを見たり、あなたをフォローしたり、あなたの投稿に反応したりできなくなり、あなたも相手のものを見られなくなります。いつでもブロックを解除できます。",
   "USER_PROFILE_UNBLOCK_CONFIRM_TITLE": "@{username} のブロックを解除しますか？",
   "USER_PROFILE_UNBLOCK_CONFIRM_MESSAGE": "相手は再びあなたのプロフィールやコンテンツを見たり、あなたをフォローしたり、あなたの投稿に反応したりできるようになります。いつでも再度ブロックできます。",
-  "USER_PROFILE_ABOUT_HEADING": "自己紹介",
   "USER_PROFILE_POSTS_TAB": "投稿",
   "USER_PROFILE_POSTS_EMPTY_HEADING": "まだ投稿はありません...",
   "USER_PROFILE_POSTS_EMPTY_MESSAGE": "このユーザーはまだ何も投稿していません。",

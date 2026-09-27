@@ -1158,7 +1158,6 @@
   "USER_PROFILE_BLOCK_CONFIRM_MESSAGE": "พวกเขาจะไม่สามารถดูโปรไฟล์หรือเนื้อหาของคุณ ติดตามคุณ หรือมีปฏิสัมพันธ์กับโพสต์ของคุณได้ และคุณก็จะไม่เห็นของพวกเขา คุณสามารถปลดบล็อกได้ทุกเมื่อ",
   "USER_PROFILE_UNBLOCK_CONFIRM_TITLE": "ปลดบล็อก @{username} ไหม?",
   "USER_PROFILE_UNBLOCK_CONFIRM_MESSAGE": "พวกเขาจะสามารถดูโปรไฟล์และเนื้อหาของคุณ ติดตามคุณ และมีปฏิสัมพันธ์กับโพสต์ของคุณได้อีกครั้ง คุณสามารถบล็อกพวกเขาใหม่ได้ทุกเมื่อ",
-  "USER_PROFILE_ABOUT_HEADING": "เกี่ยวกับฉัน",
   "USER_PROFILE_POSTS_TAB": "โพสต์",
   "USER_PROFILE_POSTS_EMPTY_HEADING": "ยังไม่มีโพสต์ที่นี่...",
   "USER_PROFILE_POSTS_EMPTY_MESSAGE": "ผู้ใช้คนนี้ยังไม่ได้โพสต์อะไรเลย",

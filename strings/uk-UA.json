@@ -1158,7 +1158,6 @@
   "USER_PROFILE_BLOCK_CONFIRM_MESSAGE": "Він не зможе бачити ваш профіль і вміст, підписатися на вас чи взаємодіяти з вашими дописами, а ви — його. Ви можете розблокувати його будь-коли.",
   "USER_PROFILE_UNBLOCK_CONFIRM_TITLE": "Розблокувати @{username}?",
   "USER_PROFILE_UNBLOCK_CONFIRM_MESSAGE": "Він знову зможе бачити ваш профіль і вміст, підписатися на вас і взаємодіяти з вашими дописами. Ви можете знову заблокувати його будь-коли.",
-  "USER_PROFILE_ABOUT_HEADING": "Про мене",
   "USER_PROFILE_POSTS_TAB": "Дописи",
   "USER_PROFILE_POSTS_EMPTY_HEADING": "Тут ще немає дописів...",
   "USER_PROFILE_POSTS_EMPTY_MESSAGE": "Цей користувач ще нічого не опублікував.",

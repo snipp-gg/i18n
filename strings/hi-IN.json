@@ -1158,7 +1158,6 @@
   "USER_PROFILE_BLOCK_CONFIRM_MESSAGE": "वे आपकी प्रोफ़ाइल या कंटेंट नहीं देख पाएँगे, आपको फ़ॉलो नहीं कर पाएँगे, या आपकी पोस्ट से इंटरैक्ट नहीं कर पाएँगे, और आपको उनकी पोस्ट नहीं दिखेंगी। आप उन्हें कभी भी अनब्लॉक कर सकते हैं।",
   "USER_PROFILE_UNBLOCK_CONFIRM_TITLE": "@{username} को अनब्लॉक करें?",
   "USER_PROFILE_UNBLOCK_CONFIRM_MESSAGE": "वे फिर से आपकी प्रोफ़ाइल और कंटेंट देख पाएँगे, आपको फ़ॉलो कर पाएँगे, और आपकी पोस्ट से इंटरैक्ट कर पाएँगे। आप उन्हें कभी भी फिर से ब्लॉक कर सकते हैं।",
-  "USER_PROFILE_ABOUT_HEADING": "मेरे बारे में",
   "USER_PROFILE_POSTS_TAB": "पोस्ट",
   "USER_PROFILE_POSTS_EMPTY_HEADING": "अभी यहाँ कोई पोस्ट नहीं...",
   "USER_PROFILE_POSTS_EMPTY_MESSAGE": "इस यूज़र ने अभी तक कुछ भी पोस्ट नहीं किया है।",

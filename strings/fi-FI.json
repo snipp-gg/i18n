@@ -1158,7 +1158,6 @@
   "USER_PROFILE_BLOCK_CONFIRM_MESSAGE": "Hän ei voi katsella profiiliasi tai sisältöäsi, seurata sinua tai olla vuorovaikutuksessa julkaisujesi kanssa, etkä sinä näe hänen. Voit poistaa eston milloin tahansa.",
   "USER_PROFILE_UNBLOCK_CONFIRM_TITLE": "Poistetaanko @{username} eston?",
   "USER_PROFILE_UNBLOCK_CONFIRM_MESSAGE": "Hän voi taas katsella profiiliasi ja sisältöäsi, seurata sinua ja olla vuorovaikutuksessa julkaisujesi kanssa. Voit estää hänet uudelleen milloin tahansa.",
-  "USER_PROFILE_ABOUT_HEADING": "Tietoja minusta",
   "USER_PROFILE_POSTS_TAB": "Julkaisut",
   "USER_PROFILE_POSTS_EMPTY_HEADING": "Ei vielä julkaisuja täällä...",
   "USER_PROFILE_POSTS_EMPTY_MESSAGE": "Tämä käyttäjä ei ole vielä julkaissut mitään.",

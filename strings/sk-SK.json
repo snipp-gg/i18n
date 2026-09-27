@@ -1158,7 +1158,6 @@
   "USER_PROFILE_BLOCK_CONFIRM_MESSAGE": "Nebude môcť zobraziť tvoj profil ani obsah, sledovať ťa ani reagovať na tvoje príspevky a ty neuvidíš ten jeho. Kedykoľvek ho môžeš odblokovať.",
   "USER_PROFILE_UNBLOCK_CONFIRM_TITLE": "Odblokovať @{username}?",
   "USER_PROFILE_UNBLOCK_CONFIRM_MESSAGE": "Bude môcť znova zobraziť tvoj profil aj obsah, sledovať ťa a reagovať na tvoje príspevky. Kedykoľvek ho môžeš znova zablokovať.",
-  "USER_PROFILE_ABOUT_HEADING": "O mne",
   "USER_PROFILE_POSTS_TAB": "Príspevky",
   "USER_PROFILE_POSTS_EMPTY_HEADING": "Zatiaľ tu nie sú žiadne príspevky...",
   "USER_PROFILE_POSTS_EMPTY_MESSAGE": "Tento používateľ zatiaľ nič nezverejnil.",

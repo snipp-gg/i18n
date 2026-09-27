@@ -1158,7 +1158,6 @@
   "USER_PROFILE_BLOCK_CONFIRM_MESSAGE": "对方将无法查看你的个人资料或内容、跟随你或与你的帖子互动，你也无法查看对方的。你可以随时取消屏蔽。",
   "USER_PROFILE_UNBLOCK_CONFIRM_TITLE": "取消屏蔽 @{username}？",
   "USER_PROFILE_UNBLOCK_CONFIRM_MESSAGE": "对方将可以重新查看你的个人资料和内容、跟随你并与你的帖子互动。你可以随时再次屏蔽对方。",
-  "USER_PROFILE_ABOUT_HEADING": "关于我",
   "USER_PROFILE_POSTS_TAB": "帖子",
   "USER_PROFILE_POSTS_EMPTY_HEADING": "这里还没有帖子...",
   "USER_PROFILE_POSTS_EMPTY_MESSAGE": "该用户还没有发布任何内容。",

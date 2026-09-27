@@ -1158,7 +1158,6 @@
   "USER_PROFILE_BLOCK_CONFIRM_MESSAGE": "Ta osoba nie zobaczy Twojego profilu ani treści, nie zaobserwuje Cię ani nie wejdzie w interakcję z Twoimi postami, a Ty nie zobaczysz jej. Możesz ją odblokować w dowolnym momencie.",
   "USER_PROFILE_UNBLOCK_CONFIRM_TITLE": "Odblokować @{username}?",
   "USER_PROFILE_UNBLOCK_CONFIRM_MESSAGE": "Ta osoba znów zobaczy Twój profil i treści, będzie mogła Cię obserwować oraz wchodzić w interakcję z Twoimi postami. Możesz ją ponownie zablokować w dowolnym momencie.",
-  "USER_PROFILE_ABOUT_HEADING": "O Mnie",
   "USER_PROFILE_POSTS_TAB": "Posty",
   "USER_PROFILE_POSTS_EMPTY_HEADING": "Nie ma tu jeszcze postów...",
   "USER_PROFILE_POSTS_EMPTY_MESSAGE": "Ten użytkownik nie opublikował jeszcze niczego.",

@@ -1158,7 +1158,6 @@
   "USER_PROFILE_BLOCK_CONFIRM_MESSAGE": "Non potrà visualizzare il tuo profilo o i tuoi contenuti, seguirti o interagire con i tuoi post, e tu non vedrai i suoi. Puoi sbloccarlo in qualsiasi momento.",
   "USER_PROFILE_UNBLOCK_CONFIRM_TITLE": "Sbloccare @{username}?",
   "USER_PROFILE_UNBLOCK_CONFIRM_MESSAGE": "Potrà di nuovo visualizzare il tuo profilo e i tuoi contenuti, seguirti e interagire con i tuoi post. Puoi bloccarlo di nuovo in qualsiasi momento.",
-  "USER_PROFILE_ABOUT_HEADING": "Chi sono",
   "USER_PROFILE_POSTS_TAB": "Post",
   "USER_PROFILE_POSTS_EMPTY_HEADING": "Ancora nessun post qui...",
   "USER_PROFILE_POSTS_EMPTY_MESSAGE": "Questo utente non ha ancora pubblicato nulla.",

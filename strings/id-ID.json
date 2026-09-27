@@ -1158,7 +1158,6 @@
   "USER_PROFILE_BLOCK_CONFIRM_MESSAGE": "Mereka tidak akan dapat melihat profil atau konten Anda, mengikuti Anda, atau berinteraksi dengan postingan Anda, dan Anda tidak akan melihat milik mereka. Anda dapat membuka blokirnya kapan saja.",
   "USER_PROFILE_UNBLOCK_CONFIRM_TITLE": "Buka blokir @{username}?",
   "USER_PROFILE_UNBLOCK_CONFIRM_MESSAGE": "Mereka akan dapat kembali melihat profil dan konten Anda, mengikuti Anda, serta berinteraksi dengan postingan Anda. Anda dapat memblokirnya lagi kapan saja.",
-  "USER_PROFILE_ABOUT_HEADING": "Tentang Saya",
   "USER_PROFILE_POSTS_TAB": "Postingan",
   "USER_PROFILE_POSTS_EMPTY_HEADING": "Belum ada postingan di sini...",
   "USER_PROFILE_POSTS_EMPTY_MESSAGE": "Pengguna ini belum memposting apa pun.",

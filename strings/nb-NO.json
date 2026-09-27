@@ -1158,7 +1158,6 @@
   "USER_PROFILE_BLOCK_CONFIRM_MESSAGE": "Personen kan ikke se profilen eller innholdet ditt, følge deg eller samhandle med innleggene dine, og du ser ikke deres. Du kan oppheve blokkeringen når som helst.",
   "USER_PROFILE_UNBLOCK_CONFIRM_TITLE": "Oppheve blokkering av @{username}?",
   "USER_PROFILE_UNBLOCK_CONFIRM_MESSAGE": "Personen kan igjen se profilen og innholdet ditt, følge deg og samhandle med innleggene dine. Du kan blokkere personen på nytt når som helst.",
-  "USER_PROFILE_ABOUT_HEADING": "Om meg",
   "USER_PROFILE_POSTS_TAB": "Innlegg",
   "USER_PROFILE_POSTS_EMPTY_HEADING": "Ingen innlegg her ennå...",
   "USER_PROFILE_POSTS_EMPTY_MESSAGE": "Denne brukeren har ikke lagt ut noe ennå.",

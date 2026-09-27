@@ -1158,7 +1158,6 @@
   "USER_PROFILE_BLOCK_CONFIRM_MESSAGE": "Profilinizi veya içeriğinizi göremeyecek, sizi takip edemeyecek ya da gönderilerinizle etkileşime geçemeyecek, siz de onunkini göremeyeceksiniz. İstediğiniz zaman engeli kaldırabilirsiniz.",
   "USER_PROFILE_UNBLOCK_CONFIRM_TITLE": "@{username} kullanıcısının engeli kaldırılsın mı?",
   "USER_PROFILE_UNBLOCK_CONFIRM_MESSAGE": "Profilinizi ve içeriğinizi yeniden görebilecek, sizi takip edebilecek ve gönderilerinizle etkileşime geçebilecek. İstediğiniz zaman onu tekrar engelleyebilirsiniz.",
-  "USER_PROFILE_ABOUT_HEADING": "Hakkımda",
   "USER_PROFILE_POSTS_TAB": "Gönderiler",
   "USER_PROFILE_POSTS_EMPTY_HEADING": "Burada henüz gönderi yok...",
   "USER_PROFILE_POSTS_EMPTY_MESSAGE": "Bu kullanıcı henüz hiçbir şey paylaşmadı.",

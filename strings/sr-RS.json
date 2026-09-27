@@ -1158,7 +1158,6 @@
   "USER_PROFILE_BLOCK_CONFIRM_MESSAGE": "Neće moći da vidi vaš profil ni sadržaj, da vas zaprati ni da stupi u interakciju sa vašim objavama, a ni vi nećete videti njegov. Možete ga odblokirati u bilo kom trenutku.",
   "USER_PROFILE_UNBLOCK_CONFIRM_TITLE": "Odblokirati @{username}?",
   "USER_PROFILE_UNBLOCK_CONFIRM_MESSAGE": "Ponovo će moći da vidi vaš profil i sadržaj, da vas zaprati i da stupi u interakciju sa vašim objavama. Možete ga ponovo blokirati u bilo kom trenutku.",
-  "USER_PROFILE_ABOUT_HEADING": "O meni",
   "USER_PROFILE_POSTS_TAB": "Objave",
   "USER_PROFILE_POSTS_EMPTY_HEADING": "Ovde još nema objava...",
   "USER_PROFILE_POSTS_EMPTY_MESSAGE": "Ovaj korisnik još ništa nije objavio.",

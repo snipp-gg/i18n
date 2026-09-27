@@ -1158,7 +1158,6 @@
   "USER_PROFILE_BLOCK_CONFIRM_MESSAGE": "Nu îți va putea vedea profilul sau conținutul, nu te va putea urmări și nu va putea interacționa cu postările tale, iar tu nu le vei vedea pe ale lui. Îl poți debloca oricând.",
   "USER_PROFILE_UNBLOCK_CONFIRM_TITLE": "Deblochezi @{username}?",
   "USER_PROFILE_UNBLOCK_CONFIRM_MESSAGE": "Îți va putea vedea din nou profilul și conținutul, te va putea urmări și va putea interacționa cu postările tale. Îl poți bloca din nou oricând.",
-  "USER_PROFILE_ABOUT_HEADING": "Despre mine",
   "USER_PROFILE_POSTS_TAB": "Postări",
   "USER_PROFILE_POSTS_EMPTY_HEADING": "Nicio postare aici încă...",
   "USER_PROFILE_POSTS_EMPTY_MESSAGE": "Acest utilizator nu a postat încă nimic.",

@@ -1158,7 +1158,6 @@
   "USER_PROFILE_BLOCK_CONFIRM_MESSAGE": "Personen kan inte se din profil eller ditt innehåll, följa dig eller interagera med dina inlägg, och du ser inte deras. Du kan avblockera när som helst.",
   "USER_PROFILE_UNBLOCK_CONFIRM_TITLE": "Avblockera @{username}?",
   "USER_PROFILE_UNBLOCK_CONFIRM_MESSAGE": "Personen kan återigen se din profil och ditt innehåll, följa dig och interagera med dina inlägg. Du kan blockera personen igen när som helst.",
-  "USER_PROFILE_ABOUT_HEADING": "Om mig",
   "USER_PROFILE_POSTS_TAB": "Inlägg",
   "USER_PROFILE_POSTS_EMPTY_HEADING": "Inga inlägg här än...",
   "USER_PROFILE_POSTS_EMPTY_MESSAGE": "Den här användaren har inte publicerat något än.",

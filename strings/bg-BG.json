@@ -1158,7 +1158,6 @@
   "USER_PROFILE_BLOCK_CONFIRM_MESSAGE": "Той няма да може да вижда профила или съдържанието ви, да ви последва или да взаимодейства с публикациите ви, а вие няма да виждате неговите. Можете да го отблокирате по всяко време.",
   "USER_PROFILE_UNBLOCK_CONFIRM_TITLE": "Да отблокирате ли @{username}?",
   "USER_PROFILE_UNBLOCK_CONFIRM_MESSAGE": "Той отново ще може да вижда профила и съдържанието ви, да ви последва и да взаимодейства с публикациите ви. Можете да го блокирате отново по всяко време.",
-  "USER_PROFILE_ABOUT_HEADING": "За мен",
   "USER_PROFILE_POSTS_TAB": "Публикации",
   "USER_PROFILE_POSTS_EMPTY_HEADING": "Все още няма публикации тук...",
   "USER_PROFILE_POSTS_EMPTY_MESSAGE": "Този потребител още не е публикувал нищо.",
