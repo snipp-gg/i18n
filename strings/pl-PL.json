@@ -21,7 +21,7 @@
   "SETTINGS_PREFS_EMBED_HINT": "Dostosuj wygląd swoich przesłanych plików podczas udostępniania na platformach.",
   "SETTINGS_PREFS_EMBED_CUSTOMIZE_BUTTON": "Dostosuj",
   "SETTINGS_PREFS_POST_PRIVACY_LABEL": "Domyślna Prywatność Postów",
-  "SETTINGS_PREFS_POST_PRIVACY_HINT": "Wybierana automatycznie, gdy przesyłasz przez stronę. Nadal możesz ją zmienić przy każdym przesyłaniu.",
+  "SETTINGS_PREFS_POST_PRIVACY_HINT": "Wybierana automatycznie, gdy przesyłasz przez stronę.",
   "SETTINGS_PREFS_AUTO_COMPRESSION_LABEL": "Automatyczna Kompresja",
   "SETTINGS_PREFS_AUTO_COMPRESSION_HINT": "Kompresuje pliki, aby ładowały się szybciej i oszczędzały tygodniowy limit. Przesyłanie może trwać dłużej. Filmy i GIF-y pozostają nietknięte.",
   "SETTINGS_PREFS_COPY_URL_LABEL": "Kopiuj URL po Przesłaniu",

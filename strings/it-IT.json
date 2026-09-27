@@ -21,7 +21,7 @@
   "SETTINGS_PREFS_EMBED_HINT": "Personalizza l'aspetto dei tuoi caricamenti quando li condividi sulle piattaforme.",
   "SETTINGS_PREFS_EMBED_CUSTOMIZE_BUTTON": "Personalizza",
   "SETTINGS_PREFS_POST_PRIVACY_LABEL": "Privacy del post predefinita",
-  "SETTINGS_PREFS_POST_PRIVACY_HINT": "Viene preselezionata quando carichi dal sito. Puoi comunque cambiarla per ogni caricamento.",
+  "SETTINGS_PREFS_POST_PRIVACY_HINT": "Preselezionata quando carichi dal sito.",
   "SETTINGS_PREFS_AUTO_COMPRESSION_LABEL": "Compressione automatica",
   "SETTINGS_PREFS_AUTO_COMPRESSION_HINT": "Comprime i tuoi file per farli caricare più velocemente e risparmiare quota settimanale. I caricamenti potrebbero richiedere più tempo. Video e GIF restano invariati.",
   "SETTINGS_PREFS_COPY_URL_LABEL": "Copia URL al caricamento",

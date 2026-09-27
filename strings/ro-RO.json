@@ -21,7 +21,7 @@
   "SETTINGS_PREFS_EMBED_HINT": "Personalizează cum arată încărcările tale când sunt distribuite pe platforme.",
   "SETTINGS_PREFS_EMBED_CUSTOMIZE_BUTTON": "Personalizează",
   "SETTINGS_PREFS_POST_PRIVACY_LABEL": "Confidențialitatea implicită a postărilor",
-  "SETTINGS_PREFS_POST_PRIVACY_HINT": "Se selectează automat când încarci de pe site. O poți schimba în continuare la fiecare încărcare.",
+  "SETTINGS_PREFS_POST_PRIVACY_HINT": "Se selectează automat când încarci de pe site.",
   "SETTINGS_PREFS_AUTO_COMPRESSION_LABEL": "Comprimare automată",
   "SETTINGS_PREFS_AUTO_COMPRESSION_HINT": "Îți comprimă fișierele ca să se încarce mai repede și să economisești cota săptămânală. Încărcările pot dura mai mult. Videoclipurile și GIF-urile rămân neatinse.",
   "SETTINGS_PREFS_COPY_URL_LABEL": "Copiază URL-ul la încărcare",

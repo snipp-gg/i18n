@@ -21,7 +21,7 @@
   "SETTINGS_PREFS_EMBED_HINT": "I-customize kung paano lumalabas ang iyong mga upload kapag ibinahagi sa mga platform.",
   "SETTINGS_PREFS_EMBED_CUSTOMIZE_BUTTON": "I-customize",
   "SETTINGS_PREFS_POST_PRIVACY_LABEL": "Default na Privacy ng Post",
-  "SETTINGS_PREFS_POST_PRIVACY_HINT": "Awtomatikong napipili para sa iyo kapag nag-upload ka sa website. Puwede mo pa rin itong baguhin sa bawat upload.",
+  "SETTINGS_PREFS_POST_PRIVACY_HINT": "Awtomatikong napipili kapag nag-upload ka sa website.",
   "SETTINGS_PREFS_AUTO_COMPRESSION_LABEL": "Awtomatikong Compression",
   "SETTINGS_PREFS_AUTO_COMPRESSION_HINT": "Ini-compress ang iyong mga file para mas mabilis sila mag-load at makatipid sa weekly quota. Maaaring mas matagal ang pag-upload. Hindi ginagalaw ang mga video at GIF.",
   "SETTINGS_PREFS_COPY_URL_LABEL": "Kopyahin ang URL sa Pag-upload",

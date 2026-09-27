@@ -21,7 +21,7 @@
   "SETTINGS_PREFS_EMBED_HINT": "Настройте, как ваши загрузки выглядят при отправке на платформах.",
   "SETTINGS_PREFS_EMBED_CUSTOMIZE_BUTTON": "Настроить",
   "SETTINGS_PREFS_POST_PRIVACY_LABEL": "Приватность поста по умолчанию",
-  "SETTINGS_PREFS_POST_PRIVACY_HINT": "Выбирается автоматически при загрузке через сайт. Вы всё равно можете изменить её для каждой загрузки.",
+  "SETTINGS_PREFS_POST_PRIVACY_HINT": "Выбирается автоматически при загрузке через сайт.",
   "SETTINGS_PREFS_AUTO_COMPRESSION_LABEL": "Автоматическое сжатие",
   "SETTINGS_PREFS_AUTO_COMPRESSION_HINT": "Сжимает ваши файлы, чтобы они загружались быстрее и экономили недельную квоту. Загрузка может занять больше времени. Видео и GIF остаются без изменений.",
   "SETTINGS_PREFS_COPY_URL_LABEL": "Копировать URL при загрузке",

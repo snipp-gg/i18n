@@ -21,7 +21,7 @@
   "SETTINGS_PREFS_EMBED_HINT": "Personalize a aparência dos seus envios quando compartilhados em plataformas.",
   "SETTINGS_PREFS_EMBED_CUSTOMIZE_BUTTON": "Personalizar",
   "SETTINGS_PREFS_POST_PRIVACY_LABEL": "Privacidade Padrão da Publicação",
-  "SETTINGS_PREFS_POST_PRIVACY_HINT": "Selecionada para você ao enviar pelo site. Você ainda pode alterá-la em cada envio.",
+  "SETTINGS_PREFS_POST_PRIVACY_HINT": "Selecionada para você ao enviar pelo site.",
   "SETTINGS_PREFS_AUTO_COMPRESSION_LABEL": "Compressão Automática",
   "SETTINGS_PREFS_AUTO_COMPRESSION_HINT": "Comprime seus arquivos para carregarem mais rápido e economizarem cota semanal. Os envios podem demorar mais. Vídeos e GIFs não são alterados.",
   "SETTINGS_PREFS_COPY_URL_LABEL": "Copiar URL ao Enviar",

@@ -21,7 +21,7 @@
   "SETTINGS_PREFS_EMBED_HINT": "Налаштуйте, як ваші завантаження виглядають при поширенні на платформах.",
   "SETTINGS_PREFS_EMBED_CUSTOMIZE_BUTTON": "Налаштувати",
   "SETTINGS_PREFS_POST_PRIVACY_LABEL": "Приватність дописів за замовчуванням",
-  "SETTINGS_PREFS_POST_PRIVACY_HINT": "Вибирається автоматично, коли ви завантажуєте через сайт. Ви все одно можете змінити її для кожного завантаження.",
+  "SETTINGS_PREFS_POST_PRIVACY_HINT": "Вибирається автоматично, коли ви завантажуєте через сайт.",
   "SETTINGS_PREFS_AUTO_COMPRESSION_LABEL": "Автоматичне стиснення",
   "SETTINGS_PREFS_AUTO_COMPRESSION_HINT": "Стискає ваші файли, щоб вони завантажувалися швидше та економили тижневу квоту. Завантаження може тривати довше. Відео та GIF залишаються без змін.",
   "SETTINGS_PREFS_COPY_URL_LABEL": "Копіювати URL при завантаженні",

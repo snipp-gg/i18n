@@ -21,7 +21,7 @@
   "SETTINGS_PREFS_EMBED_HINT": "Customize how your uploads look when shared on platforms.",
   "SETTINGS_PREFS_EMBED_CUSTOMIZE_BUTTON": "Customize",
   "SETTINGS_PREFS_POST_PRIVACY_LABEL": "Default Post Privacy",
-  "SETTINGS_PREFS_POST_PRIVACY_HINT": "Selected for you when you upload on the website. You can still change it for each upload.",
+  "SETTINGS_PREFS_POST_PRIVACY_HINT": "Pre-selected when you upload on the website.",
   "SETTINGS_PREFS_AUTO_COMPRESSION_LABEL": "Automatic Compression",
   "SETTINGS_PREFS_AUTO_COMPRESSION_HINT": "Compresses your files to make them load faster and saves weekly quota. Uploads may take longer. Videos and GIFs are left untouched.",
   "SETTINGS_PREFS_COPY_URL_LABEL": "Copy URL on Upload",

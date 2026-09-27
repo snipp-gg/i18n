@@ -21,7 +21,7 @@
   "SETTINGS_PREFS_EMBED_HINT": "Personaliza el aspecto de tus subidas cuando se comparten en plataformas.",
   "SETTINGS_PREFS_EMBED_CUSTOMIZE_BUTTON": "Personalizar",
   "SETTINGS_PREFS_POST_PRIVACY_LABEL": "Privacidad de la Publicación por Defecto",
-  "SETTINGS_PREFS_POST_PRIVACY_HINT": "Se selecciona automáticamente cuando subes desde la web. Puedes cambiarla en cada subida.",
+  "SETTINGS_PREFS_POST_PRIVACY_HINT": "Se selecciona automáticamente cuando subes desde la web.",
   "SETTINGS_PREFS_AUTO_COMPRESSION_LABEL": "Compresión Automática",
   "SETTINGS_PREFS_AUTO_COMPRESSION_HINT": "Comprime tus archivos para que carguen más rápido y ahorren cuota semanal. Las subidas pueden tardar más. Los vídeos y GIF no se modifican.",
   "SETTINGS_PREFS_COPY_URL_LABEL": "Copiar URL al Subir",

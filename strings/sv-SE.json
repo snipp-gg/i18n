@@ -21,7 +21,7 @@
   "SETTINGS_PREFS_EMBED_HINT": "Anpassa hur dina uppladdningar ser ut när de delas på plattformar.",
   "SETTINGS_PREFS_EMBED_CUSTOMIZE_BUTTON": "Anpassa",
   "SETTINGS_PREFS_POST_PRIVACY_LABEL": "Förvald inläggssekretess",
-  "SETTINGS_PREFS_POST_PRIVACY_HINT": "Förvald åt dig när du laddar upp på webbplatsen. Du kan fortfarande ändra den för varje uppladdning.",
+  "SETTINGS_PREFS_POST_PRIVACY_HINT": "Förvald när du laddar upp på webbplatsen.",
   "SETTINGS_PREFS_AUTO_COMPRESSION_LABEL": "Automatisk komprimering",
   "SETTINGS_PREFS_AUTO_COMPRESSION_HINT": "Komprimerar dina filer så att de laddas snabbare och sparar på veckokvoten. Uppladdningar kan ta längre tid. Videor och GIF:ar lämnas orörda.",
   "SETTINGS_PREFS_COPY_URL_LABEL": "Kopiera URL vid uppladdning",

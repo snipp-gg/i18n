@@ -21,7 +21,7 @@
   "SETTINGS_PREFS_EMBED_HINT": "Персонализирайте как изглеждат качванията ви, когато се споделят в платформи.",
   "SETTINGS_PREFS_EMBED_CUSTOMIZE_BUTTON": "Персонализиране",
   "SETTINGS_PREFS_POST_PRIVACY_LABEL": "Поверителност на публикациите по подразбиране",
-  "SETTINGS_PREFS_POST_PRIVACY_HINT": "Избира се вместо вас, когато качвате през сайта. Все пак можете да я промените при всяко качване.",
+  "SETTINGS_PREFS_POST_PRIVACY_HINT": "Избира се вместо вас, когато качвате през сайта.",
   "SETTINGS_PREFS_AUTO_COMPRESSION_LABEL": "Автоматично компресиране",
   "SETTINGS_PREFS_AUTO_COMPRESSION_HINT": "Компресира файловете ви, за да се зареждат по-бързо и да пести седмична квота. Качването може да отнеме повече време. Видеоклипове и GIF файлове остават непроменени.",
   "SETTINGS_PREFS_COPY_URL_LABEL": "Копиране на URL при качване",

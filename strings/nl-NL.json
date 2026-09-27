@@ -21,7 +21,7 @@
   "SETTINGS_PREFS_EMBED_HINT": "Bepaal hoe je uploads eruitzien wanneer ze op platforms worden gedeeld.",
   "SETTINGS_PREFS_EMBED_CUSTOMIZE_BUTTON": "Aanpassen",
   "SETTINGS_PREFS_POST_PRIVACY_LABEL": "Standaard postprivacy",
-  "SETTINGS_PREFS_POST_PRIVACY_HINT": "Wordt voor je geselecteerd wanneer je uploadt via de website. Je kunt het per upload nog steeds wijzigen.",
+  "SETTINGS_PREFS_POST_PRIVACY_HINT": "Wordt voor je geselecteerd wanneer je uploadt via de website.",
   "SETTINGS_PREFS_AUTO_COMPRESSION_LABEL": "Automatische compressie",
   "SETTINGS_PREFS_AUTO_COMPRESSION_HINT": "Comprimeert je bestanden zodat ze sneller laden en bespaart wekelijks quotum. Uploads kunnen langer duren. Video's en GIF's blijven ongewijzigd.",
   "SETTINGS_PREFS_COPY_URL_LABEL": "URL kopiëren bij uploaden",

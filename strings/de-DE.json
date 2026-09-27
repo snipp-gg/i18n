@@ -21,7 +21,7 @@
   "SETTINGS_PREFS_EMBED_HINT": "Passe an, wie deine Uploads aussehen, wenn sie auf Plattformen geteilt werden.",
   "SETTINGS_PREFS_EMBED_CUSTOMIZE_BUTTON": "Anpassen",
   "SETTINGS_PREFS_POST_PRIVACY_LABEL": "Standard-Beitrags-Sichtbarkeit",
-  "SETTINGS_PREFS_POST_PRIVACY_HINT": "Wird beim Hochladen über die Website für dich vorausgewählt. Du kannst sie bei jedem Upload trotzdem ändern.",
+  "SETTINGS_PREFS_POST_PRIVACY_HINT": "Wird beim Hochladen über die Website vorausgewählt.",
   "SETTINGS_PREFS_AUTO_COMPRESSION_LABEL": "Automatische Komprimierung",
   "SETTINGS_PREFS_AUTO_COMPRESSION_HINT": "Komprimiert deine Dateien, damit sie schneller laden und wöchentliches Kontingent sparen. Uploads können länger dauern. Videos und GIFs bleiben unberührt.",
   "SETTINGS_PREFS_COPY_URL_LABEL": "URL beim Hochladen Kopieren",

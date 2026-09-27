@@ -21,7 +21,7 @@
   "SETTINGS_PREFS_EMBED_HINT": "各種プラットフォームで共有したときのアップロードの見え方をカスタマイズできます。",
   "SETTINGS_PREFS_EMBED_CUSTOMIZE_BUTTON": "カスタマイズ",
   "SETTINGS_PREFS_POST_PRIVACY_LABEL": "デフォルトの投稿プライバシー",
-  "SETTINGS_PREFS_POST_PRIVACY_HINT": "サイトでアップロードする際に自動的に選択されます。アップロードごとに変更することもできます。",
+  "SETTINGS_PREFS_POST_PRIVACY_HINT": "サイトでアップロードする際に自動的に選択されます。",
   "SETTINGS_PREFS_AUTO_COMPRESSION_LABEL": "自動圧縮",
   "SETTINGS_PREFS_AUTO_COMPRESSION_HINT": "ファイルを圧縮して読み込みを速くし、週間クォータを節約します。アップロードに時間がかかる場合があります。動画とGIFはそのまま保持されます。",
   "SETTINGS_PREFS_COPY_URL_LABEL": "アップロード時にURLをコピー",

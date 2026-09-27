@@ -21,7 +21,7 @@
   "SETTINGS_PREFS_EMBED_HINT": "自定义上传内容在平台上的显示方式。",
   "SETTINGS_PREFS_EMBED_CUSTOMIZE_BUTTON": "定制",
   "SETTINGS_PREFS_POST_PRIVACY_LABEL": "默认帖子隐私",
-  "SETTINGS_PREFS_POST_PRIVACY_HINT": "在网站上传时会为您自动选中。您仍可为每次上传单独更改。",
+  "SETTINGS_PREFS_POST_PRIVACY_HINT": "在网站上传时会为您自动选中。",
   "SETTINGS_PREFS_AUTO_COMPRESSION_LABEL": "自动压缩",
   "SETTINGS_PREFS_AUTO_COMPRESSION_HINT": "压缩文件可以加快加载速度并节省每周流量配额。上传时间可能会延长。视频和 GIF 格式的文件将保持不变。",
   "SETTINGS_PREFS_COPY_URL_LABEL": "上传时复制URL",

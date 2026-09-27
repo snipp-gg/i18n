@@ -21,7 +21,7 @@
   "SETTINGS_PREFS_EMBED_HINT": "Personalize como os seus carregamentos aparecem quando partilhados em plataformas.",
   "SETTINGS_PREFS_EMBED_CUSTOMIZE_BUTTON": "Personalizar",
   "SETTINGS_PREFS_POST_PRIVACY_LABEL": "Privacidade Predefinida da Publicação",
-  "SETTINGS_PREFS_POST_PRIVACY_HINT": "Selecionada para si quando carrega através do site. Pode alterá-la em cada carregamento.",
+  "SETTINGS_PREFS_POST_PRIVACY_HINT": "Selecionada para si quando carrega através do site.",
   "SETTINGS_PREFS_AUTO_COMPRESSION_LABEL": "Compressão Automática",
   "SETTINGS_PREFS_AUTO_COMPRESSION_HINT": "Comprime os seus ficheiros para carregarem mais rapidamente e poupa quota semanal. Os carregamentos podem demorar mais. Vídeos e GIFs ficam intactos.",
   "SETTINGS_PREFS_COPY_URL_LABEL": "Copiar URL ao Carregar",

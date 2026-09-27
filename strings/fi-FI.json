@@ -21,7 +21,7 @@
   "SETTINGS_PREFS_EMBED_HINT": "Mukauta, miltä latauksesi näyttävät jaettuina alustoilla.",
   "SETTINGS_PREFS_EMBED_CUSTOMIZE_BUTTON": "Mukauta",
   "SETTINGS_PREFS_POST_PRIVACY_LABEL": "Julkaisun oletusyksityisyys",
-  "SETTINGS_PREFS_POST_PRIVACY_HINT": "Valitaan puolestasi, kun lataat sivuston kautta. Voit silti muuttaa sen jokaiselle lataukselle.",
+  "SETTINGS_PREFS_POST_PRIVACY_HINT": "Valitaan puolestasi, kun lataat sivuston kautta.",
   "SETTINGS_PREFS_AUTO_COMPRESSION_LABEL": "Automaattinen pakkaus",
   "SETTINGS_PREFS_AUTO_COMPRESSION_HINT": "Pakkaa tiedostosi, jotta ne latautuvat nopeammin ja säästävät viikoittaista kiintiötä. Lataukset voivat kestää kauemmin. Videoihin ja GIF-tiedostoihin ei kosketa.",
   "SETTINGS_PREFS_COPY_URL_LABEL": "Kopioi URL latauksen yhteydessä",

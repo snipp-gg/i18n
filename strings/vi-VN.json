@@ -21,7 +21,7 @@
   "SETTINGS_PREFS_EMBED_HINT": "Tùy chỉnh cách nội dung tải lên của bạn hiển thị khi được chia sẻ trên các nền tảng.",
   "SETTINGS_PREFS_EMBED_CUSTOMIZE_BUTTON": "Tùy chỉnh",
   "SETTINGS_PREFS_POST_PRIVACY_LABEL": "Quyền riêng tư bài đăng mặc định",
-  "SETTINGS_PREFS_POST_PRIVACY_HINT": "Được chọn sẵn cho bạn khi tải lên trên trang web. Bạn vẫn có thể thay đổi cho từng lần tải lên.",
+  "SETTINGS_PREFS_POST_PRIVACY_HINT": "Được chọn sẵn khi bạn tải lên trên trang web.",
   "SETTINGS_PREFS_AUTO_COMPRESSION_LABEL": "Tự động nén",
   "SETTINGS_PREFS_AUTO_COMPRESSION_HINT": "Nén tệp của bạn để tải nhanh hơn và tiết kiệm hạn mức hàng tuần. Việc tải lên có thể lâu hơn. Video và GIF được giữ nguyên.",
   "SETTINGS_PREFS_COPY_URL_LABEL": "Sao chép URL khi tải lên",

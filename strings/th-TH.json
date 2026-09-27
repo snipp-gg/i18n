@@ -21,7 +21,7 @@
   "SETTINGS_PREFS_EMBED_HINT": "ปรับแต่งวิธีที่การอัปโหลดของคุณดูเมื่อแชร์บนแพลตฟอร์ม",
   "SETTINGS_PREFS_EMBED_CUSTOMIZE_BUTTON": "ปรับแต่ง",
   "SETTINGS_PREFS_POST_PRIVACY_LABEL": "ค่าเริ่มต้นความเป็นส่วนตัวของโพสต์",
-  "SETTINGS_PREFS_POST_PRIVACY_HINT": "จะถูกเลือกให้คุณโดยอัตโนมัติเมื่ออัปโหลดบนเว็บไซต์ คุณยังเปลี่ยนได้ในแต่ละครั้งที่อัปโหลด",
+  "SETTINGS_PREFS_POST_PRIVACY_HINT": "จะถูกเลือกให้โดยอัตโนมัติเมื่ออัปโหลดบนเว็บไซต์",
   "SETTINGS_PREFS_AUTO_COMPRESSION_LABEL": "การบีบอัดอัตโนมัติ",
   "SETTINGS_PREFS_AUTO_COMPRESSION_HINT": "บีบอัดไฟล์ของคุณเพื่อให้โหลดเร็วขึ้นและประหยัดโควต้ารายสัปดาห์ การอัปโหลดอาจใช้เวลานานขึ้น วิดีโอและ GIF จะไม่ถูกแตะต้อง",
   "SETTINGS_PREFS_COPY_URL_LABEL": "คัดลอก URL เมื่ออัปโหลด",
