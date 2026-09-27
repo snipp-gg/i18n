@@ -17,8 +17,6 @@
   "COMMON_PREFERENCES": "Preferencje",
   "COMMON_NOTIFICATIONS": "Powiadomienia",
   "SETTINGS_PREFS_DESCRIPTION": "Język, zachowanie przesyłania, efekty i inne osobiste preferencje.",
-  "SETTINGS_PREFS_GROUP_ACCOUNT": "Synchronizowane z Twoim kontem",
-  "SETTINGS_PREFS_GROUP_DEVICE": "Tylko to urządzenie",
   "SETTINGS_PREFS_EMBED_HEADING": "Niestandardowe Osadzanie",
   "SETTINGS_PREFS_EMBED_HINT": "Dostosuj wygląd swoich przesłanych plików podczas udostępniania na platformach.",
   "SETTINGS_PREFS_EMBED_CUSTOMIZE_BUTTON": "Dostosuj",

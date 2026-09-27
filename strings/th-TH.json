@@ -17,8 +17,6 @@
   "COMMON_PREFERENCES": "ค่ากำหนด",
   "COMMON_NOTIFICATIONS": "การแจ้งเตือน",
   "SETTINGS_PREFS_DESCRIPTION": "ภาษา พฤติกรรมการอัปโหลด เอฟเฟกต์ และการตั้งค่าส่วนตัวอื่น ๆ",
-  "SETTINGS_PREFS_GROUP_ACCOUNT": "ซิงค์กับบัญชีของคุณ",
-  "SETTINGS_PREFS_GROUP_DEVICE": "เฉพาะอุปกรณ์นี้",
   "SETTINGS_PREFS_EMBED_HEADING": "Embed ที่กำหนดเอง",
   "SETTINGS_PREFS_EMBED_HINT": "ปรับแต่งวิธีที่การอัปโหลดของคุณดูเมื่อแชร์บนแพลตฟอร์ม",
   "SETTINGS_PREFS_EMBED_CUSTOMIZE_BUTTON": "ปรับแต่ง",

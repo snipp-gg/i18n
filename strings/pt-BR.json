@@ -17,8 +17,6 @@
   "COMMON_PREFERENCES": "Preferências",
   "COMMON_NOTIFICATIONS": "Notificações",
   "SETTINGS_PREFS_DESCRIPTION": "Idioma, comportamento de envio, efeitos e outras preferências pessoais.",
-  "SETTINGS_PREFS_GROUP_ACCOUNT": "Sincronizado com sua conta",
-  "SETTINGS_PREFS_GROUP_DEVICE": "Apenas este dispositivo",
   "SETTINGS_PREFS_EMBED_HEADING": "Incorporação Personalizada",
   "SETTINGS_PREFS_EMBED_HINT": "Personalize a aparência dos seus envios quando compartilhados em plataformas.",
   "SETTINGS_PREFS_EMBED_CUSTOMIZE_BUTTON": "Personalizar",

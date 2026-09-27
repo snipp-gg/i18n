@@ -17,8 +17,6 @@
   "COMMON_PREFERENCES": "Preferências",
   "COMMON_NOTIFICATIONS": "Notificações",
   "SETTINGS_PREFS_DESCRIPTION": "Idioma, comportamento de carregamento, efeitos e outras preferências pessoais.",
-  "SETTINGS_PREFS_GROUP_ACCOUNT": "Sincronizado com a sua conta",
-  "SETTINGS_PREFS_GROUP_DEVICE": "Apenas este dispositivo",
   "SETTINGS_PREFS_EMBED_HEADING": "Embed Personalizado",
   "SETTINGS_PREFS_EMBED_HINT": "Personalize como os seus carregamentos aparecem quando partilhados em plataformas.",
   "SETTINGS_PREFS_EMBED_CUSTOMIZE_BUTTON": "Personalizar",

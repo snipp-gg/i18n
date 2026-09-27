@@ -17,8 +17,6 @@
   "COMMON_PREFERENCES": "Tercihler",
   "COMMON_NOTIFICATIONS": "Bildirimler",
   "SETTINGS_PREFS_DESCRIPTION": "Dil, yükleme davranışı, efektler ve diğer kişisel tercihler.",
-  "SETTINGS_PREFS_GROUP_ACCOUNT": "Hesabınızla senkronize",
-  "SETTINGS_PREFS_GROUP_DEVICE": "Yalnızca bu cihaz",
   "SETTINGS_PREFS_EMBED_HEADING": "Özel Embed",
   "SETTINGS_PREFS_EMBED_HINT": "Yüklemelerinizin platformlarda paylaşıldığında nasıl göründüğünü özelleştirin.",
   "SETTINGS_PREFS_EMBED_CUSTOMIZE_BUTTON": "Özelleştir",

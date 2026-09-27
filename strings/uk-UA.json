@@ -17,8 +17,6 @@
   "COMMON_PREFERENCES": "Уподобання",
   "COMMON_NOTIFICATIONS": "Сповіщення",
   "SETTINGS_PREFS_DESCRIPTION": "Мова, поведінка завантаження, ефекти та інші особисті налаштування.",
-  "SETTINGS_PREFS_GROUP_ACCOUNT": "Синхронізовано з вашим акаунтом",
-  "SETTINGS_PREFS_GROUP_DEVICE": "Лише цей пристрій",
   "SETTINGS_PREFS_EMBED_HEADING": "Власне вбудовування",
   "SETTINGS_PREFS_EMBED_HINT": "Налаштуйте, як ваші завантаження виглядають при поширенні на платформах.",
   "SETTINGS_PREFS_EMBED_CUSTOMIZE_BUTTON": "Налаштувати",

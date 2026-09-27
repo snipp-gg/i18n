@@ -17,8 +17,6 @@
   "COMMON_PREFERENCES": "Mga Kagustuhan",
   "COMMON_NOTIFICATIONS": "Mga Notification",
   "SETTINGS_PREFS_DESCRIPTION": "Wika, paggawi sa pag-upload, mga epekto at iba pang personal na kagustuhan.",
-  "SETTINGS_PREFS_GROUP_ACCOUNT": "Naka-sync sa iyong account",
-  "SETTINGS_PREFS_GROUP_DEVICE": "Ang device na ito lamang",
   "SETTINGS_PREFS_EMBED_HEADING": "Custom na Embed",
   "SETTINGS_PREFS_EMBED_HINT": "I-customize kung paano lumalabas ang iyong mga upload kapag ibinahagi sa mga platform.",
   "SETTINGS_PREFS_EMBED_CUSTOMIZE_BUTTON": "I-customize",

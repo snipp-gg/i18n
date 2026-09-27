@@ -17,8 +17,6 @@
   "COMMON_PREFERENCES": "Preferințe",
   "COMMON_NOTIFICATIONS": "Notificări",
   "SETTINGS_PREFS_DESCRIPTION": "Limbă, comportamentul încărcărilor, efecte și alte preferințe personale.",
-  "SETTINGS_PREFS_GROUP_ACCOUNT": "Sincronizat cu contul tău",
-  "SETTINGS_PREFS_GROUP_DEVICE": "Doar acest dispozitiv",
   "SETTINGS_PREFS_EMBED_HEADING": "Încorporare personalizată",
   "SETTINGS_PREFS_EMBED_HINT": "Personalizează cum arată încărcările tale când sunt distribuite pe platforme.",
   "SETTINGS_PREFS_EMBED_CUSTOMIZE_BUTTON": "Personalizează",

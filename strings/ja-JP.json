@@ -17,8 +17,6 @@
   "COMMON_PREFERENCES": "環境設定",
   "COMMON_NOTIFICATIONS": "通知",
   "SETTINGS_PREFS_DESCRIPTION": "言語、アップロードの挙動、エフェクト、その他の個人設定。",
-  "SETTINGS_PREFS_GROUP_ACCOUNT": "アカウントと同期",
-  "SETTINGS_PREFS_GROUP_DEVICE": "このデバイスのみ",
   "SETTINGS_PREFS_EMBED_HEADING": "カスタム埋め込み",
   "SETTINGS_PREFS_EMBED_HINT": "各種プラットフォームで共有したときのアップロードの見え方をカスタマイズできます。",
   "SETTINGS_PREFS_EMBED_CUSTOMIZE_BUTTON": "カスタマイズ",

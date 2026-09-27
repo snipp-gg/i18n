@@ -17,8 +17,6 @@
   "COMMON_PREFERENCES": "Predvoľby",
   "COMMON_NOTIFICATIONS": "Upozornenia",
   "SETTINGS_PREFS_DESCRIPTION": "Jazyk, správanie pri nahrávaní, efekty a ďalšie osobné predvoľby.",
-  "SETTINGS_PREFS_GROUP_ACCOUNT": "Synchronizované s tvojím účtom",
-  "SETTINGS_PREFS_GROUP_DEVICE": "Len toto zariadenie",
   "SETTINGS_PREFS_EMBED_HEADING": "Vlastné vloženie",
   "SETTINGS_PREFS_EMBED_HINT": "Prispôsob si, ako tvoje nahrávania vyzerajú pri zdieľaní na platformách.",
   "SETTINGS_PREFS_EMBED_CUSTOMIZE_BUTTON": "Prispôsobiť",

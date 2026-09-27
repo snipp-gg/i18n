@@ -17,8 +17,6 @@
   "COMMON_PREFERENCES": "Προτιμήσεις",
   "COMMON_NOTIFICATIONS": "Ειδοποιήσεις",
   "SETTINGS_PREFS_DESCRIPTION": "Γλώσσα, συμπεριφορά μεταφόρτωσης, εφέ και άλλες προσωπικές προτιμήσεις.",
-  "SETTINGS_PREFS_GROUP_ACCOUNT": "Συγχρονίζεται με τον λογαριασμό σας",
-  "SETTINGS_PREFS_GROUP_DEVICE": "Μόνο αυτή η συσκευή",
   "SETTINGS_PREFS_EMBED_HEADING": "Προσαρμοσμένη Ενσωμάτωση",
   "SETTINGS_PREFS_EMBED_HINT": "Προσαρμόστε πώς εμφανίζονται οι αναρτήσεις σας όταν κοινοποιούνται στο Discord και αλλού.",
   "SETTINGS_PREFS_EMBED_CUSTOMIZE_BUTTON": "Προσαρμογή",
