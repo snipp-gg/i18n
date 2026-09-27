@@ -1395,6 +1395,8 @@
   "SETTINGS_EXPORT_HINT": "Preuzmi kopiju svojih datoteka i podataka o računu. Poslat ćemo ti e-poštu kad bude spremna.",
   "SETTINGS_EXPORT_BUTTON": "Izvezi",
   "SETTINGS_EXPORT_PREPARING": "Pripremamo tvoj izvoz. Kod velikih galerija može potrajati.",
+  "SETTINGS_EXPORT_REQUESTED_PREFIX": "Zatražen ",
+  "SETTINGS_EXPORT_REQUESTED_SUFFIX": "",
   "SETTINGS_EXPORT_FAILED": "Tvoj zadnji izvoz nije uspio. Pokušaj ponovno.",
   "SETTINGS_EXPORT_READY": "Tvoj izvoz",
   "SETTINGS_EXPORT_PART": "Dio {index}",

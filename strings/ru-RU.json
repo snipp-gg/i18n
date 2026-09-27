@@ -1395,6 +1395,8 @@
   "SETTINGS_EXPORT_HINT": "Скачайте копию своих файлов и данных учётной записи. Когда всё будет готово, мы отправим вам письмо.",
   "SETTINGS_EXPORT_BUTTON": "Экспортировать",
   "SETTINGS_EXPORT_PREPARING": "Готовим ваш экспорт. Для больших галерей это может занять некоторое время.",
+  "SETTINGS_EXPORT_REQUESTED_PREFIX": "Запрошен ",
+  "SETTINGS_EXPORT_REQUESTED_SUFFIX": "",
   "SETTINGS_EXPORT_FAILED": "Последний экспорт не удался. Попробуйте ещё раз.",
   "SETTINGS_EXPORT_READY": "Ваш экспорт",
   "SETTINGS_EXPORT_PART": "Часть {index}",

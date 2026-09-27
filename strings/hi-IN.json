@@ -1395,6 +1395,8 @@
   "SETTINGS_EXPORT_HINT": "अपनी फ़ाइलों और अकाउंट डेटा की एक कॉपी डाउनलोड करें। तैयार होने पर हम आपको ईमेल करेंगे।",
   "SETTINGS_EXPORT_BUTTON": "एक्सपोर्ट करें",
   "SETTINGS_EXPORT_PREPARING": "आपका एक्सपोर्ट तैयार किया जा रहा है। बड़ी गैलरी में थोड़ा समय लग सकता है।",
+  "SETTINGS_EXPORT_REQUESTED_PREFIX": "",
+  "SETTINGS_EXPORT_REQUESTED_SUFFIX": " अनुरोध किया गया",
   "SETTINGS_EXPORT_FAILED": "आपका पिछला एक्सपोर्ट विफल रहा। कृपया दोबारा कोशिश करें।",
   "SETTINGS_EXPORT_READY": "आपका एक्सपोर्ट",
   "SETTINGS_EXPORT_PART": "भाग {index}",

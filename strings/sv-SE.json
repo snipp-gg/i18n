@@ -1395,6 +1395,8 @@
   "SETTINGS_EXPORT_HINT": "Ladda ner en kopia av dina filer och kontouppgifter. Vi skickar dig ett e-postmeddelande när den är klar.",
   "SETTINGS_EXPORT_BUTTON": "Exportera",
   "SETTINGS_EXPORT_PREPARING": "Förbereder din export. Stora gallerier kan ta en stund.",
+  "SETTINGS_EXPORT_REQUESTED_PREFIX": "Begärd ",
+  "SETTINGS_EXPORT_REQUESTED_SUFFIX": "",
   "SETTINGS_EXPORT_FAILED": "Din senaste export misslyckades. Försök igen.",
   "SETTINGS_EXPORT_READY": "Din export",
   "SETTINGS_EXPORT_PART": "Del {index}",

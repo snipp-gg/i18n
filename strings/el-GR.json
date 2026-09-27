@@ -1395,6 +1395,8 @@
   "SETTINGS_EXPORT_HINT": "Κατεβάστε ένα αντίγραφο των αρχείων και των δεδομένων του λογαριασμού σας. Θα σας στείλουμε email μόλις είναι έτοιμο.",
   "SETTINGS_EXPORT_BUTTON": "Εξαγωγή",
   "SETTINGS_EXPORT_PREPARING": "Προετοιμάζουμε την εξαγωγή σας. Οι μεγάλες γκαλερί μπορεί να χρειαστούν λίγο χρόνο.",
+  "SETTINGS_EXPORT_REQUESTED_PREFIX": "Ζητήθηκε ",
+  "SETTINGS_EXPORT_REQUESTED_SUFFIX": "",
   "SETTINGS_EXPORT_FAILED": "Η τελευταία εξαγωγή σας απέτυχε. Παρακαλούμε δοκιμάστε ξανά.",
   "SETTINGS_EXPORT_READY": "Η εξαγωγή σας",
   "SETTINGS_EXPORT_PART": "Μέρος {index}",

@@ -1395,6 +1395,8 @@
   "SETTINGS_EXPORT_HINT": "Transfira uma cópia dos seus ficheiros e dados da conta. Enviar-lhe-emos um e-mail quando estiver pronta.",
   "SETTINGS_EXPORT_BUTTON": "Exportar",
   "SETTINGS_EXPORT_PREPARING": "A preparar a sua exportação. Galerias grandes podem demorar algum tempo.",
+  "SETTINGS_EXPORT_REQUESTED_PREFIX": "Pedida ",
+  "SETTINGS_EXPORT_REQUESTED_SUFFIX": "",
   "SETTINGS_EXPORT_FAILED": "A sua última exportação falhou. Por favor tente novamente.",
   "SETTINGS_EXPORT_READY": "A sua exportação",
   "SETTINGS_EXPORT_PART": "Parte {index}",

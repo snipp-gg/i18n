@@ -1395,6 +1395,8 @@
   "SETTINGS_EXPORT_HINT": "Изтеглете копие на файловете и данните на акаунта си. Ще ви изпратим имейл, когато е готово.",
   "SETTINGS_EXPORT_BUTTON": "Експортиране",
   "SETTINGS_EXPORT_PREPARING": "Подготвяме експорта ви. При големи галерии може да отнеме известно време.",
+  "SETTINGS_EXPORT_REQUESTED_PREFIX": "Заявен ",
+  "SETTINGS_EXPORT_REQUESTED_SUFFIX": "",
   "SETTINGS_EXPORT_FAILED": "Последният ви експорт беше неуспешен. Моля, опитайте отново.",
   "SETTINGS_EXPORT_READY": "Вашият експорт",
   "SETTINGS_EXPORT_PART": "Част {index}",

@@ -1395,6 +1395,8 @@
   "SETTINGS_EXPORT_HINT": "Scarica una copia dei tuoi file e dei dati dell'account. Ti invieremo un'email quando sarà pronta.",
   "SETTINGS_EXPORT_BUTTON": "Esporta",
   "SETTINGS_EXPORT_PREPARING": "Stiamo preparando la tua esportazione. Le gallerie grandi possono richiedere un po' di tempo.",
+  "SETTINGS_EXPORT_REQUESTED_PREFIX": "Richiesta ",
+  "SETTINGS_EXPORT_REQUESTED_SUFFIX": "",
   "SETTINGS_EXPORT_FAILED": "La tua ultima esportazione non è riuscita. Riprova.",
   "SETTINGS_EXPORT_READY": "La tua esportazione",
   "SETTINGS_EXPORT_PART": "Parte {index}",

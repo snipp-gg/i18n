@@ -1395,6 +1395,8 @@
   "SETTINGS_EXPORT_HINT": "Download een kopie van je bestanden en accountgegevens. We sturen je een e-mail zodra die klaar is.",
   "SETTINGS_EXPORT_BUTTON": "Exporteren",
   "SETTINGS_EXPORT_PREPARING": "Je export wordt voorbereid. Bij grote galerijen kan dit even duren.",
+  "SETTINGS_EXPORT_REQUESTED_PREFIX": "Aangevraagd ",
+  "SETTINGS_EXPORT_REQUESTED_SUFFIX": "",
   "SETTINGS_EXPORT_FAILED": "Je laatste export is mislukt. Probeer het opnieuw.",
   "SETTINGS_EXPORT_READY": "Je export",
   "SETTINGS_EXPORT_PART": "Deel {index}",

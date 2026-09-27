@@ -1395,6 +1395,8 @@
   "SETTINGS_EXPORT_HINT": "Lataa kopio tiedostoistasi ja tilisi tiedoista. Lähetämme sinulle sähköpostin, kun se on valmis.",
   "SETTINGS_EXPORT_BUTTON": "Vie",
   "SETTINGS_EXPORT_PREPARING": "Valmistellaan vientiäsi. Suurilla gallerioilla voi kestää jonkin aikaa.",
+  "SETTINGS_EXPORT_REQUESTED_PREFIX": "Pyydetty ",
+  "SETTINGS_EXPORT_REQUESTED_SUFFIX": "",
   "SETTINGS_EXPORT_FAILED": "Viimeisin vientisi epäonnistui. Yritä uudelleen.",
   "SETTINGS_EXPORT_READY": "Vientisi",
   "SETTINGS_EXPORT_PART": "Osa {index}",

@@ -1395,6 +1395,8 @@
   "SETTINGS_EXPORT_HINT": "ดาวน์โหลดสำเนาไฟล์และข้อมูลบัญชีของคุณ เราจะส่งอีเมลแจ้งเมื่อพร้อมแล้ว",
   "SETTINGS_EXPORT_BUTTON": "ส่งออก",
   "SETTINGS_EXPORT_PREPARING": "กำลังเตรียมการส่งออกของคุณ แกลเลอรีขนาดใหญ่อาจใช้เวลาสักครู่",
+  "SETTINGS_EXPORT_REQUESTED_PREFIX": "ส่งคำขอเมื่อ ",
+  "SETTINGS_EXPORT_REQUESTED_SUFFIX": "",
   "SETTINGS_EXPORT_FAILED": "การส่งออกครั้งล่าสุดของคุณล้มเหลว กรุณาลองอีกครั้ง",
   "SETTINGS_EXPORT_READY": "การส่งออกของคุณ",
   "SETTINGS_EXPORT_PART": "ส่วนที่ {index}",

@@ -1395,6 +1395,8 @@
   "SETTINGS_EXPORT_HINT": "Descarcă o copie a fișierelor și a datelor contului tău. Îți trimitem un e-mail când e gata.",
   "SETTINGS_EXPORT_BUTTON": "Exportă",
   "SETTINGS_EXPORT_PREPARING": "Îți pregătim exportul. Galeriile mari pot dura ceva timp.",
+  "SETTINGS_EXPORT_REQUESTED_PREFIX": "Solicitat ",
+  "SETTINGS_EXPORT_REQUESTED_SUFFIX": "",
   "SETTINGS_EXPORT_FAILED": "Ultimul tău export a eșuat. Te rugăm să încerci din nou.",
   "SETTINGS_EXPORT_READY": "Exportul tău",
   "SETTINGS_EXPORT_PART": "Partea {index}",

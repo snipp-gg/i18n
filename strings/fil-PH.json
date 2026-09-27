@@ -1395,6 +1395,8 @@
   "SETTINGS_EXPORT_HINT": "Mag-download ng kopya ng iyong mga file at data ng account. Mag-e-email kami sa iyo kapag handa na ito.",
   "SETTINGS_EXPORT_BUTTON": "I-export",
   "SETTINGS_EXPORT_PREPARING": "Inihahanda ang iyong export. Maaaring matagal para sa malalaking galerya.",
+  "SETTINGS_EXPORT_REQUESTED_PREFIX": "Hiniling ",
+  "SETTINGS_EXPORT_REQUESTED_SUFFIX": "",
   "SETTINGS_EXPORT_FAILED": "Nabigo ang huling export mo. Subukan ulit.",
   "SETTINGS_EXPORT_READY": "Ang iyong export",
   "SETTINGS_EXPORT_PART": "Bahagi {index}",

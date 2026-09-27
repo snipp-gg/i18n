@@ -1395,6 +1395,8 @@
   "SETTINGS_EXPORT_HINT": "下载您的文件和账户数据的副本。准备就绪后我们会给您发送邮件。",
   "SETTINGS_EXPORT_BUTTON": "导出",
   "SETTINGS_EXPORT_PREPARING": "正在准备您的导出。画廊较大时可能需要一些时间。",
+  "SETTINGS_EXPORT_REQUESTED_PREFIX": "已于",
+  "SETTINGS_EXPORT_REQUESTED_SUFFIX": "请求",
   "SETTINGS_EXPORT_FAILED": "您上次的导出失败了。请重试。",
   "SETTINGS_EXPORT_READY": "您的导出",
   "SETTINGS_EXPORT_PART": "第 {index} 部分",

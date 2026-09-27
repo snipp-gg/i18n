@@ -1395,6 +1395,8 @@
   "SETTINGS_EXPORT_HINT": "Tải xuống bản sao các tệp và dữ liệu tài khoản của bạn. Chúng tôi sẽ gửi email cho bạn khi sẵn sàng.",
   "SETTINGS_EXPORT_BUTTON": "Xuất",
   "SETTINGS_EXPORT_PREPARING": "Đang chuẩn bị bản xuất của bạn. Thư viện lớn có thể mất một lúc.",
+  "SETTINGS_EXPORT_REQUESTED_PREFIX": "Đã yêu cầu ",
+  "SETTINGS_EXPORT_REQUESTED_SUFFIX": "",
   "SETTINGS_EXPORT_FAILED": "Lần xuất gần nhất của bạn đã thất bại. Vui lòng thử lại.",
   "SETTINGS_EXPORT_READY": "Bản xuất của bạn",
   "SETTINGS_EXPORT_PART": "Phần {index}",

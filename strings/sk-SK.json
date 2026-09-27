@@ -1395,6 +1395,8 @@
   "SETTINGS_EXPORT_HINT": "Stiahni si kópiu svojich súborov a údajov o účte. Keď bude pripravená, pošleme ti e-mail.",
   "SETTINGS_EXPORT_BUTTON": "Exportovať",
   "SETTINGS_EXPORT_PREPARING": "Pripravujeme tvoj export. Pri veľkých galériách to môže chvíľu trvať.",
+  "SETTINGS_EXPORT_REQUESTED_PREFIX": "Vyžiadaný ",
+  "SETTINGS_EXPORT_REQUESTED_SUFFIX": "",
   "SETTINGS_EXPORT_FAILED": "Tvoj posledný export zlyhal. Skús to znova.",
   "SETTINGS_EXPORT_READY": "Tvoj export",
   "SETTINGS_EXPORT_PART": "Časť {index}",

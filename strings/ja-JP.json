@@ -1395,6 +1395,8 @@
   "SETTINGS_EXPORT_HINT": "ファイルとアカウントデータのコピーをダウンロードできます。準備ができたらメールでお知らせします。",
   "SETTINGS_EXPORT_BUTTON": "エクスポート",
   "SETTINGS_EXPORT_PREPARING": "エクスポートを準備中です。ギャラリーが大きい場合は時間がかかることがあります。",
+  "SETTINGS_EXPORT_REQUESTED_PREFIX": "",
+  "SETTINGS_EXPORT_REQUESTED_SUFFIX": "にリクエスト済み",
   "SETTINGS_EXPORT_FAILED": "前回のエクスポートに失敗しました。もう一度お試しください。",
   "SETTINGS_EXPORT_READY": "あなたのエクスポート",
   "SETTINGS_EXPORT_PART": "パート {index}",

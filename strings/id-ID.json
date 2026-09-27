@@ -1395,6 +1395,8 @@
   "SETTINGS_EXPORT_HINT": "Unduh salinan file dan data akun Anda. Kami akan mengirim email saat sudah siap.",
   "SETTINGS_EXPORT_BUTTON": "Ekspor",
   "SETTINGS_EXPORT_PREPARING": "Menyiapkan ekspor Anda. Galeri besar bisa memakan waktu cukup lama.",
+  "SETTINGS_EXPORT_REQUESTED_PREFIX": "Diminta ",
+  "SETTINGS_EXPORT_REQUESTED_SUFFIX": "",
   "SETTINGS_EXPORT_FAILED": "Ekspor terakhir Anda gagal. Silakan coba lagi.",
   "SETTINGS_EXPORT_READY": "Ekspor Anda",
   "SETTINGS_EXPORT_PART": "Bagian {index}",

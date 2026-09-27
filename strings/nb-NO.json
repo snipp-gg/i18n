@@ -1395,6 +1395,8 @@
   "SETTINGS_EXPORT_HINT": "Last ned en kopi av filene dine og kontodataene. Vi sender deg en e-post når den er klar.",
   "SETTINGS_EXPORT_BUTTON": "Eksporter",
   "SETTINGS_EXPORT_PREPARING": "Forbereder eksporten din. Store gallerier kan ta en stund.",
+  "SETTINGS_EXPORT_REQUESTED_PREFIX": "Forespurt ",
+  "SETTINGS_EXPORT_REQUESTED_SUFFIX": "",
   "SETTINGS_EXPORT_FAILED": "Den siste eksporten din mislyktes. Prøv igjen.",
   "SETTINGS_EXPORT_READY": "Eksporten din",
   "SETTINGS_EXPORT_PART": "Del {index}",

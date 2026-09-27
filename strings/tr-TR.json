@@ -1395,6 +1395,8 @@
   "SETTINGS_EXPORT_HINT": "Dosyalarınızın ve hesap verilerinizin bir kopyasını indirin. Hazır olduğunda size e-posta göndereceğiz.",
   "SETTINGS_EXPORT_BUTTON": "Dışa aktar",
   "SETTINGS_EXPORT_PREPARING": "Dışa aktarmanız hazırlanıyor. Büyük galerilerde bu biraz zaman alabilir.",
+  "SETTINGS_EXPORT_REQUESTED_PREFIX": "",
+  "SETTINGS_EXPORT_REQUESTED_SUFFIX": " istendi",
   "SETTINGS_EXPORT_FAILED": "Son dışa aktarmanız başarısız oldu. Lütfen tekrar deneyin.",
   "SETTINGS_EXPORT_READY": "Dışa aktarmanız",
   "SETTINGS_EXPORT_PART": "Bölüm {index}",

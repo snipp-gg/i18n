@@ -1395,6 +1395,8 @@
   "SETTINGS_EXPORT_HINT": "Preuzmite kopiju svojih fajlova i podataka o nalogu. Poslaćemo vam imejl kad bude spremna.",
   "SETTINGS_EXPORT_BUTTON": "Izvezi",
   "SETTINGS_EXPORT_PREPARING": "Pripremamo vaš izvoz. Kod velikih galerija može potrajati.",
+  "SETTINGS_EXPORT_REQUESTED_PREFIX": "Zatražen ",
+  "SETTINGS_EXPORT_REQUESTED_SUFFIX": "",
   "SETTINGS_EXPORT_FAILED": "Vaš poslednji izvoz nije uspeo. Pokušajte ponovo.",
   "SETTINGS_EXPORT_READY": "Vaš izvoz",
   "SETTINGS_EXPORT_PART": "Deo {index}",
