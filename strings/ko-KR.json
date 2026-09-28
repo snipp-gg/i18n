@@ -1928,8 +1928,6 @@
   "UPLOAD_ERROR_FINALIZE": "업로드를 완료하지 못했습니다({status})",
   "UPLOAD_TOAST_CANCELED": "업로드가 취소되었습니다! 일부 파일은 완료되었을 수 있습니다.",
   "UPLOAD_TOAST_LINK_PREPARING": "공유 링크를 아직 준비 중입니다.",
-  "UPLOAD_TOAST_LINKS_PREPARING": "공유 링크를 아직 준비 중입니다.",
-  "UPLOAD_TOAST_COPIED_URLS": "URL을 클립보드에 복사했습니다!",
   "UPLOAD_STATUS_COMPRESSING_FILES": "파일을 압축하는 중...",
   "UPLOAD_STATUS_COMPRESSING_FILE": "파일을 압축하는 중...",
   "UPLOAD_STATUS_COMPRESSING_DESC": "이미지를 줄여 더 빠르게 업로드하고 주간 할당량을 덜 사용합니다.",

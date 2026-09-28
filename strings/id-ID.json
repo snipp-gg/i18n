@@ -1928,8 +1928,6 @@
   "UPLOAD_ERROR_FINALIZE": "Gagal menyelesaikan unggahan ({status})",
   "UPLOAD_TOAST_CANCELED": "Unggahan dibatalkan! Beberapa file mungkin telah selesai.",
   "UPLOAD_TOAST_LINK_PREPARING": "Tautan berbagi masih disiapkan.",
-  "UPLOAD_TOAST_LINKS_PREPARING": "Tautan berbagi masih disiapkan.",
-  "UPLOAD_TOAST_COPIED_URLS": "URL disalin ke clipboard!",
   "UPLOAD_STATUS_COMPRESSING_FILES": "Mengompres file Anda...",
   "UPLOAD_STATUS_COMPRESSING_FILE": "Mengompres file Anda...",
   "UPLOAD_STATUS_COMPRESSING_DESC": "Memperkecil gambar agar terunggah lebih cepat dan menggunakan lebih sedikit kuota mingguan Anda.",

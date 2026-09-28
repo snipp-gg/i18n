@@ -1928,8 +1928,6 @@
   "UPLOAD_ERROR_FINALIZE": "Не вдалося завершити завантаження ({status})",
   "UPLOAD_TOAST_CANCELED": "Завантаження скасовано! Деякі файли могли бути завершені.",
   "UPLOAD_TOAST_LINK_PREPARING": "Посилання для спільного доступу все ще готується.",
-  "UPLOAD_TOAST_LINKS_PREPARING": "Посилання для спільного доступу все ще готуються.",
-  "UPLOAD_TOAST_COPIED_URLS": "URL скопійовано в буфер обміну!",
   "UPLOAD_STATUS_COMPRESSING_FILES": "Стиснення ваших файлів...",
   "UPLOAD_STATUS_COMPRESSING_FILE": "Стиснення вашого файлу...",
   "UPLOAD_STATUS_COMPRESSING_DESC": "Зменшуємо зображення, щоб вони завантажувалися швидше та використовували менше вашої тижневої квоти.",

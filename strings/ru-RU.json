@@ -1928,8 +1928,6 @@
   "UPLOAD_ERROR_FINALIZE": "Не удалось завершить загрузку ({status})",
   "UPLOAD_TOAST_CANCELED": "Загрузка отменена! Некоторые файлы могли быть завершены.",
   "UPLOAD_TOAST_LINK_PREPARING": "Ссылка для обмена ещё готовится.",
-  "UPLOAD_TOAST_LINKS_PREPARING": "Ссылки для обмена ещё готовятся.",
-  "UPLOAD_TOAST_COPIED_URLS": "URL-адреса скопированы в буфер обмена!",
   "UPLOAD_STATUS_COMPRESSING_FILES": "Сжатие ваших файлов...",
   "UPLOAD_STATUS_COMPRESSING_FILE": "Сжатие вашего файла...",
   "UPLOAD_STATUS_COMPRESSING_DESC": "Уменьшаем изображения, чтобы они загружались быстрее и использовали меньше вашей недельной квоты.",

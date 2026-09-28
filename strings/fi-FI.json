@@ -1928,8 +1928,6 @@
   "UPLOAD_ERROR_FINALIZE": "Latausta ei voitu viimeistellä ({status})",
   "UPLOAD_TOAST_CANCELED": "Lataus peruutettu! Jotkin tiedostot ovat saattaneet valmistua.",
   "UPLOAD_TOAST_LINK_PREPARING": "Jakolinkkiä valmistellaan edelleen.",
-  "UPLOAD_TOAST_LINKS_PREPARING": "Jakolinkkejä valmistellaan edelleen.",
-  "UPLOAD_TOAST_COPIED_URLS": "URL:t kopioitu leikepöydälle!",
   "UPLOAD_STATUS_COMPRESSING_FILES": "Pakataan tiedostojasi...",
   "UPLOAD_STATUS_COMPRESSING_FILE": "Pakataan tiedostoasi...",
   "UPLOAD_STATUS_COMPRESSING_DESC": "Kutistetaan kuvia, jotta ne latautuvat nopeammin ja käyttävät vähemmän viikoittaista kiintiötäsi.",

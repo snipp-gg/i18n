@@ -1928,8 +1928,6 @@
   "UPLOAD_ERROR_FINALIZE": "Uploaden kon niet worden voltooid ({status})",
   "UPLOAD_TOAST_CANCELED": "Upload geannuleerd! Sommige bestanden zijn mogelijk voltooid.",
   "UPLOAD_TOAST_LINK_PREPARING": "Deellink wordt nog voorbereid.",
-  "UPLOAD_TOAST_LINKS_PREPARING": "Deellinks worden nog voorbereid.",
-  "UPLOAD_TOAST_COPIED_URLS": "URL's gekopieerd naar klembord!",
   "UPLOAD_STATUS_COMPRESSING_FILES": "Je bestanden comprimeren...",
   "UPLOAD_STATUS_COMPRESSING_FILE": "Je bestand comprimeren...",
   "UPLOAD_STATUS_COMPRESSING_DESC": "Afbeeldingen verkleinen zodat ze sneller uploaden en minder van je wekelijkse quotum gebruiken.",

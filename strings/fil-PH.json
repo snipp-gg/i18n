@@ -1928,8 +1928,6 @@
   "UPLOAD_ERROR_FINALIZE": "Hindi makumpleto ang pag-upload ({status})",
   "UPLOAD_TOAST_CANCELED": "Kinansela ang upload! Maaaring may natapos na ilang file.",
   "UPLOAD_TOAST_LINK_PREPARING": "Inihahanda pa ang share link.",
-  "UPLOAD_TOAST_LINKS_PREPARING": "Inihahanda pa ang mga share link.",
-  "UPLOAD_TOAST_COPIED_URLS": "Nakopya ang mga URL sa clipboard!",
   "UPLOAD_STATUS_COMPRESSING_FILES": "Kino-compress ang iyong mga file...",
   "UPLOAD_STATUS_COMPRESSING_FILE": "Kino-compress ang iyong file...",
   "UPLOAD_STATUS_COMPRESSING_DESC": "Pinapaliit ang mga larawan para mas mabilis silang mai-upload at gumamit ng mas kaunting weekly quota.",

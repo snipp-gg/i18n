@@ -1928,8 +1928,6 @@
   "UPLOAD_ERROR_FINALIZE": "Opplastingen kunne ikke fullføres ({status})",
   "UPLOAD_TOAST_CANCELED": "Opplasting avbrutt! Noen filer kan ha blitt fullført.",
   "UPLOAD_TOAST_LINK_PREPARING": "Delingslenken klargjøres fortsatt.",
-  "UPLOAD_TOAST_LINKS_PREPARING": "Delingslenkene klargjøres fortsatt.",
-  "UPLOAD_TOAST_COPIED_URLS": "URL-er kopiert til utklippstavlen!",
   "UPLOAD_STATUS_COMPRESSING_FILES": "Komprimerer filene dine...",
   "UPLOAD_STATUS_COMPRESSING_FILE": "Komprimerer filen din...",
   "UPLOAD_STATUS_COMPRESSING_DESC": "Krymper bilder slik at de lastes opp raskere og bruker mindre av den ukentlige kvoten din.",

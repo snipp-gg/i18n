@@ -1928,8 +1928,6 @@
   "UPLOAD_ERROR_FINALIZE": "Nahrávanie sa nepodarilo dokončiť ({status})",
   "UPLOAD_TOAST_CANCELED": "Nahrávanie zrušené! Niektoré súbory sa možno dokončili.",
   "UPLOAD_TOAST_LINK_PREPARING": "Odkaz na zdieľanie sa stále pripravuje.",
-  "UPLOAD_TOAST_LINKS_PREPARING": "Odkazy na zdieľanie sa stále pripravujú.",
-  "UPLOAD_TOAST_COPIED_URLS": "URL skopírované do schránky!",
   "UPLOAD_STATUS_COMPRESSING_FILES": "Komprimujú sa tvoje súbory...",
   "UPLOAD_STATUS_COMPRESSING_FILE": "Komprimuje sa tvoj súbor...",
   "UPLOAD_STATUS_COMPRESSING_DESC": "Zmenšujeme obrázky, aby sa nahrávali rýchlejšie a využili menej tvojho týždenného limitu.",

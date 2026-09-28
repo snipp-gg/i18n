@@ -1928,8 +1928,6 @@
   "UPLOAD_ERROR_FINALIZE": "Não foi possível finalizar o envio ({status})",
   "UPLOAD_TOAST_CANCELED": "Envio cancelado! Alguns arquivos podem ter sido concluídos.",
   "UPLOAD_TOAST_LINK_PREPARING": "O link de compartilhamento ainda está sendo preparado.",
-  "UPLOAD_TOAST_LINKS_PREPARING": "Os links de compartilhamento ainda estão sendo preparados.",
-  "UPLOAD_TOAST_COPIED_URLS": "URLs copiadas para a área de transferência!",
   "UPLOAD_STATUS_COMPRESSING_FILES": "Comprimindo seus arquivos...",
   "UPLOAD_STATUS_COMPRESSING_FILE": "Comprimindo seu arquivo...",
   "UPLOAD_STATUS_COMPRESSING_DESC": "Reduzindo as imagens para que sejam enviadas mais rápido e usem menos da sua cota semanal.",

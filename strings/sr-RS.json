@@ -1928,8 +1928,6 @@
   "UPLOAD_ERROR_FINALIZE": "Отпремање није могло да се заврши ({status})",
   "UPLOAD_TOAST_CANCELED": "Otpremanje otkazano! Neki fajlovi su možda završeni.",
   "UPLOAD_TOAST_LINK_PREPARING": "Link za deljenje se još uvek priprema.",
-  "UPLOAD_TOAST_LINKS_PREPARING": "Linkovi za deljenje se još uvek pripremaju.",
-  "UPLOAD_TOAST_COPIED_URLS": "URL-ovi kopirani u klipbord!",
   "UPLOAD_STATUS_COMPRESSING_FILES": "Kompresovanje vaših fajlova...",
   "UPLOAD_STATUS_COMPRESSING_FILE": "Kompresovanje vašeg fajla...",
   "UPLOAD_STATUS_COMPRESSING_DESC": "Smanjujemo slike kako bi se brže otpremale i koristile manje vaše nedeljne kvote.",

@@ -1928,8 +1928,6 @@
   "UPLOAD_ERROR_FINALIZE": "Uppladdningen kunde inte slutföras ({status})",
   "UPLOAD_TOAST_CANCELED": "Uppladdningen avbruten! Vissa filer kan ha slutförts.",
   "UPLOAD_TOAST_LINK_PREPARING": "Delningslänken förbereds fortfarande.",
-  "UPLOAD_TOAST_LINKS_PREPARING": "Delningslänkarna förbereds fortfarande.",
-  "UPLOAD_TOAST_COPIED_URLS": "URL:er kopierade till urklipp!",
   "UPLOAD_STATUS_COMPRESSING_FILES": "Komprimerar dina filer...",
   "UPLOAD_STATUS_COMPRESSING_FILE": "Komprimerar din fil...",
   "UPLOAD_STATUS_COMPRESSING_DESC": "Krymper bilder så att de laddas upp snabbare och använder mindre av din veckokvot.",

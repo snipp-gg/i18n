@@ -1928,8 +1928,6 @@
   "UPLOAD_ERROR_FINALIZE": "Učitavanje nije moglo biti dovršeno ({status})",
   "UPLOAD_TOAST_CANCELED": "Prijenos otkazan! Neke su datoteke možda dovršene.",
   "UPLOAD_TOAST_LINK_PREPARING": "Poveznica za dijeljenje još se priprema.",
-  "UPLOAD_TOAST_LINKS_PREPARING": "Poveznice za dijeljenje još se pripremaju.",
-  "UPLOAD_TOAST_COPIED_URLS": "URL-ovi kopirani u međuspremnik!",
   "UPLOAD_STATUS_COMPRESSING_FILES": "Kompresija tvojih datoteka...",
   "UPLOAD_STATUS_COMPRESSING_FILE": "Kompresija tvoje datoteke...",
   "UPLOAD_STATUS_COMPRESSING_DESC": "Smanjivanje slika kako bi se brže prenosile i trošile manje tvoje tjedne kvote.",

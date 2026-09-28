@@ -1928,8 +1928,6 @@
   "UPLOAD_ERROR_FINALIZE": "अपलोड पूरा नहीं हो सका ({status})",
   "UPLOAD_TOAST_CANCELED": "अपलोड रद्द किया गया! कुछ फ़ाइलें पूरी हो चुकी हो सकती हैं।",
   "UPLOAD_TOAST_LINK_PREPARING": "शेयर लिंक अभी भी तैयार किया जा रहा है।",
-  "UPLOAD_TOAST_LINKS_PREPARING": "शेयर लिंक अभी भी तैयार किए जा रहे हैं।",
-  "UPLOAD_TOAST_COPIED_URLS": "URL क्लिपबोर्ड पर कॉपी किए गए!",
   "UPLOAD_STATUS_COMPRESSING_FILES": "आपकी फ़ाइलें कंप्रेस की जा रही हैं...",
   "UPLOAD_STATUS_COMPRESSING_FILE": "आपकी फ़ाइल कंप्रेस की जा रही है...",
   "UPLOAD_STATUS_COMPRESSING_DESC": "इमेज को छोटा किया जा रहा है ताकि वे तेज़ी से अपलोड हों और आपके साप्ताहिक कोटा का कम इस्तेमाल करें।",

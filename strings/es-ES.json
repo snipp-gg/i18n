@@ -1928,8 +1928,6 @@
   "UPLOAD_ERROR_FINALIZE": "No se pudo finalizar la subida ({status})",
   "UPLOAD_TOAST_CANCELED": "¡Subida cancelada! Es posible que algunos archivos se hayan completado.",
   "UPLOAD_TOAST_LINK_PREPARING": "El enlace para compartir aún se está preparando.",
-  "UPLOAD_TOAST_LINKS_PREPARING": "Los enlaces para compartir aún se están preparando.",
-  "UPLOAD_TOAST_COPIED_URLS": "¡URLs copiadas al portapapeles!",
   "UPLOAD_STATUS_COMPRESSING_FILES": "Comprimiendo tus archivos...",
   "UPLOAD_STATUS_COMPRESSING_FILE": "Comprimiendo tu archivo...",
   "UPLOAD_STATUS_COMPRESSING_DESC": "Reduciendo las imágenes para que se suban más rápido y usen menos de tu cuota semanal.",

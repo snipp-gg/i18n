@@ -1928,8 +1928,6 @@
   "UPLOAD_ERROR_FINALIZE": "Δεν ήταν δυνατή η ολοκλήρωση της μεταφόρτωσης ({status})",
   "UPLOAD_TOAST_CANCELED": "Το upload ακυρώθηκε! Ορισμένα αρχεία μπορεί να έχουν ολοκληρωθεί.",
   "UPLOAD_TOAST_LINK_PREPARING": "Ο σύνδεσμος κοινοποίησης προετοιμάζεται ακόμη.",
-  "UPLOAD_TOAST_LINKS_PREPARING": "Οι σύνδεσμοι κοινοποίησης προετοιμάζονται ακόμη.",
-  "UPLOAD_TOAST_COPIED_URLS": "Τα URL αντιγράφηκαν στο πρόχειρο!",
   "UPLOAD_STATUS_COMPRESSING_FILES": "Συμπίεση των αρχείων σας...",
   "UPLOAD_STATUS_COMPRESSING_FILE": "Συμπίεση του αρχείου σας...",
   "UPLOAD_STATUS_COMPRESSING_DESC": "Μείωση μεγέθους εικόνων ώστε να ανεβαίνουν γρηγορότερα και να χρησιμοποιούν λιγότερο από το εβδομαδιαίο όριό σας.",

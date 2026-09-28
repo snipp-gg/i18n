@@ -1928,8 +1928,6 @@
   "UPLOAD_ERROR_FINALIZE": "Failed to finalize upload ({status})",
   "UPLOAD_TOAST_CANCELED": "Upload canceled! Some files may have been completed.",
   "UPLOAD_TOAST_LINK_PREPARING": "Share link is still being prepared.",
-  "UPLOAD_TOAST_LINKS_PREPARING": "Share links are still being prepared.",
-  "UPLOAD_TOAST_COPIED_URLS": "Copied URLs to clipboard!",
   "UPLOAD_STATUS_COMPRESSING_FILES": "Compressing your files...",
   "UPLOAD_STATUS_COMPRESSING_FILE": "Compressing your file...",
   "UPLOAD_STATUS_COMPRESSING_DESC": "Shrinking images so they upload faster and use less of your weekly quota.",

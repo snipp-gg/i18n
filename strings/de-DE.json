@@ -1928,8 +1928,6 @@
   "UPLOAD_ERROR_FINALIZE": "Upload konnte nicht abgeschlossen werden ({status})",
   "UPLOAD_TOAST_CANCELED": "Upload abgebrochen! Einige Dateien wurden möglicherweise abgeschlossen.",
   "UPLOAD_TOAST_LINK_PREPARING": "Der Freigabelink wird noch vorbereitet.",
-  "UPLOAD_TOAST_LINKS_PREPARING": "Die Freigabelinks werden noch vorbereitet.",
-  "UPLOAD_TOAST_COPIED_URLS": "URLs in die Zwischenablage kopiert!",
   "UPLOAD_STATUS_COMPRESSING_FILES": "Deine Dateien werden komprimiert...",
   "UPLOAD_STATUS_COMPRESSING_FILE": "Deine Datei wird komprimiert...",
   "UPLOAD_STATUS_COMPRESSING_DESC": "Bilder werden verkleinert, damit sie schneller hochgeladen werden und weniger deines wöchentlichen Kontingents verbrauchen.",

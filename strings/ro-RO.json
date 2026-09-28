@@ -1928,8 +1928,6 @@
   "UPLOAD_ERROR_FINALIZE": "Încărcarea nu a putut fi finalizată ({status})",
   "UPLOAD_TOAST_CANCELED": "Încărcare anulată! Este posibil ca unele fișiere să fi fost finalizate.",
   "UPLOAD_TOAST_LINK_PREPARING": "Linkul de distribuit este încă în curs de pregătire.",
-  "UPLOAD_TOAST_LINKS_PREPARING": "Linkurile de distribuit sunt încă în curs de pregătire.",
-  "UPLOAD_TOAST_COPIED_URLS": "URL-uri copiate în clipboard!",
   "UPLOAD_STATUS_COMPRESSING_FILES": "Se comprimă fișierele tale...",
   "UPLOAD_STATUS_COMPRESSING_FILE": "Se comprimă fișierul tău...",
   "UPLOAD_STATUS_COMPRESSING_DESC": "Se micșorează imaginile ca să se încarce mai repede și să folosească mai puțin din cota ta săptămânală.",

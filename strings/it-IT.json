@@ -1928,8 +1928,6 @@
   "UPLOAD_ERROR_FINALIZE": "Impossibile completare il caricamento ({status})",
   "UPLOAD_TOAST_CANCELED": "Caricamento annullato! Alcuni file potrebbero essere stati completati.",
   "UPLOAD_TOAST_LINK_PREPARING": "Il link di condivisione è ancora in preparazione.",
-  "UPLOAD_TOAST_LINKS_PREPARING": "I link di condivisione sono ancora in preparazione.",
-  "UPLOAD_TOAST_COPIED_URLS": "URL copiati negli appunti!",
   "UPLOAD_STATUS_COMPRESSING_FILES": "Compressione dei tuoi file...",
   "UPLOAD_STATUS_COMPRESSING_FILE": "Compressione del tuo file...",
   "UPLOAD_STATUS_COMPRESSING_DESC": "Riduciamo le immagini così si caricano più velocemente e usano meno quota settimanale.",

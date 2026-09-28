@@ -1928,8 +1928,6 @@
   "UPLOAD_ERROR_FINALIZE": "Yükleme tamamlanamadı ({status})",
   "UPLOAD_TOAST_CANCELED": "Yükleme iptal edildi! Bazı dosyalar tamamlanmış olabilir.",
   "UPLOAD_TOAST_LINK_PREPARING": "Paylaşım bağlantısı hâlâ hazırlanıyor.",
-  "UPLOAD_TOAST_LINKS_PREPARING": "Paylaşım bağlantıları hâlâ hazırlanıyor.",
-  "UPLOAD_TOAST_COPIED_URLS": "URL'ler panoya kopyalandı!",
   "UPLOAD_STATUS_COMPRESSING_FILES": "Dosyalarınız sıkıştırılıyor...",
   "UPLOAD_STATUS_COMPRESSING_FILE": "Dosyanız sıkıştırılıyor...",
   "UPLOAD_STATUS_COMPRESSING_DESC": "Görseller daha hızlı yüklensin ve haftalık kotanızdan daha az kullansın diye küçültülüyor.",

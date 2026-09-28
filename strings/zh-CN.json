@@ -1928,8 +1928,6 @@
   "UPLOAD_ERROR_FINALIZE": "无法完成上传（{status}）",
   "UPLOAD_TOAST_CANCELED": "上传已取消！部分文件可能已上传完成。",
   "UPLOAD_TOAST_LINK_PREPARING": "分享链接仍在准备中。",
-  "UPLOAD_TOAST_LINKS_PREPARING": "分享链接仍在准备中。",
-  "UPLOAD_TOAST_COPIED_URLS": "已将网址复制到剪贴板！",
   "UPLOAD_STATUS_COMPRESSING_FILES": "压缩文件...",
   "UPLOAD_STATUS_COMPRESSING_FILE": "压缩文件...",
   "UPLOAD_STATUS_COMPRESSING_DESC": "缩小图片尺寸，以便更快上传并减少每周配额的使用。",

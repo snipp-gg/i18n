@@ -1928,8 +1928,6 @@
   "UPLOAD_ERROR_FINALIZE": "Không thể hoàn tất việc tải lên ({status})",
   "UPLOAD_TOAST_CANCELED": "Đã hủy tải lên! Một số tệp có thể đã hoàn tất.",
   "UPLOAD_TOAST_LINK_PREPARING": "Liên kết chia sẻ vẫn đang được chuẩn bị.",
-  "UPLOAD_TOAST_LINKS_PREPARING": "Các liên kết chia sẻ vẫn đang được chuẩn bị.",
-  "UPLOAD_TOAST_COPIED_URLS": "Đã sao chép các URL vào bộ nhớ tạm!",
   "UPLOAD_STATUS_COMPRESSING_FILES": "Đang nén các tệp của bạn...",
   "UPLOAD_STATUS_COMPRESSING_FILE": "Đang nén tệp của bạn...",
   "UPLOAD_STATUS_COMPRESSING_DESC": "Thu nhỏ hình ảnh để chúng tải lên nhanh hơn và dùng ít hạn mức hàng tuần hơn.",

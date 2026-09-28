@@ -1928,8 +1928,6 @@
   "UPLOAD_ERROR_FINALIZE": "Качването не можа да бъде завършено ({status})",
   "UPLOAD_TOAST_CANCELED": "Качването е отменено! Някои файлове може да са завършени.",
   "UPLOAD_TOAST_LINK_PREPARING": "Връзката за споделяне все още се подготвя.",
-  "UPLOAD_TOAST_LINKS_PREPARING": "Връзките за споделяне все още се подготвят.",
-  "UPLOAD_TOAST_COPIED_URLS": "URL адресите са копирани в клипборда!",
   "UPLOAD_STATUS_COMPRESSING_FILES": "Компресиране на файловете ви...",
   "UPLOAD_STATUS_COMPRESSING_FILE": "Компресиране на файла ви...",
   "UPLOAD_STATUS_COMPRESSING_DESC": "Свиваме изображенията, за да се качват по-бързо и да използват по-малко от седмичната ви квота.",

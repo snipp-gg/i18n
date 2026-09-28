@@ -1928,8 +1928,6 @@
   "UPLOAD_ERROR_FINALIZE": "アップロードを完了できませんでした（{status}）",
   "UPLOAD_TOAST_CANCELED": "アップロードをキャンセルしました。一部のファイルは完了している場合があります。",
   "UPLOAD_TOAST_LINK_PREPARING": "共有リンクをまだ準備中です。",
-  "UPLOAD_TOAST_LINKS_PREPARING": "共有リンクをまだ準備中です。",
-  "UPLOAD_TOAST_COPIED_URLS": "URLをクリップボードにコピーしました。",
   "UPLOAD_STATUS_COMPRESSING_FILES": "ファイルを圧縮しています...",
   "UPLOAD_STATUS_COMPRESSING_FILE": "ファイルを圧縮しています...",
   "UPLOAD_STATUS_COMPRESSING_DESC": "画像を縮小して、アップロードを高速化し、週間クォータの消費を抑えています。",

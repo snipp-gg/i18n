@@ -1928,8 +1928,6 @@
   "UPLOAD_ERROR_FINALIZE": "ไม่สามารถอัปโหลดให้เสร็จสมบูรณ์ได้ ({status})",
   "UPLOAD_TOAST_CANCELED": "ยกเลิกการอัปโหลด! บางไฟล์อาจเสร็จสมบูรณ์แล้ว",
   "UPLOAD_TOAST_LINK_PREPARING": "ลิงก์แชร์ยังคงอยู่ระหว่างการเตรียม",
-  "UPLOAD_TOAST_LINKS_PREPARING": "ลิงก์แชร์ยังคงอยู่ระหว่างการเตรียม",
-  "UPLOAD_TOAST_COPIED_URLS": "คัดลอก URL ไปยังคลิปบอร์ดแล้ว!",
   "UPLOAD_STATUS_COMPRESSING_FILES": "กำลังบีบอัดไฟล์ของคุณ...",
   "UPLOAD_STATUS_COMPRESSING_FILE": "กำลังบีบอัดไฟล์ของคุณ...",
   "UPLOAD_STATUS_COMPRESSING_DESC": "ย่อรูปภาพเพื่อให้อัปโหลดเร็วขึ้นและใช้โควต้ารายสัปดาห์น้อยลง",

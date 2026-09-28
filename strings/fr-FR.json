@@ -1928,8 +1928,6 @@
   "UPLOAD_ERROR_FINALIZE": "Impossible de finaliser l'envoi ({status})",
   "UPLOAD_TOAST_CANCELED": "Envoi annulé ! Certains fichiers ont peut-être été terminés.",
   "UPLOAD_TOAST_LINK_PREPARING": "Le lien de partage est encore en cours de préparation.",
-  "UPLOAD_TOAST_LINKS_PREPARING": "Les liens de partage sont encore en cours de préparation.",
-  "UPLOAD_TOAST_COPIED_URLS": "URL copiées dans le presse-papiers !",
   "UPLOAD_STATUS_COMPRESSING_FILES": "Compression de vos fichiers...",
   "UPLOAD_STATUS_COMPRESSING_FILE": "Compression de votre fichier...",
   "UPLOAD_STATUS_COMPRESSING_DESC": "Réduction des images pour qu'elles s'envoient plus vite et utilisent moins de votre quota hebdomadaire.",
