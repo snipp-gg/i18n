@@ -97,6 +97,7 @@
   "UPLOAD_ERROR_CONNECTION": "Nahrávanie zlyhalo. Skontroluj pripojenie a skús to znova.",
   "UPLOAD_ERROR_ALL_FAILED": "Nahratie všetkých súborov zlyhalo. Skús to znova.",
   "UPLOAD_ERROR_QUOTA": "Vyčerpal si svoj týždenný limit nahrávania.",
+  "UPLOAD_ERROR_EXPIRED": "Platnosť nahrávania vypršala. Nahraj to znova.",
   "ERROR_COPY_URL": "URL sa nepodarilo skopírovať do schránky.",
   "GALLERY_TOAST_COPIED_POST_LINK": "Odkaz na príspevok skopírovaný do schránky!",
   "GALLERY_ERROR_COPY_POST_LINK": "Odkaz na príspevok sa nepodarilo skopírovať do schránky.",

@@ -97,6 +97,7 @@
   "UPLOAD_ERROR_CONNECTION": "Falha no envio. Verifique sua conexão e tente novamente.",
   "UPLOAD_ERROR_ALL_FAILED": "Falha ao enviar todos os arquivos. Tente novamente.",
   "UPLOAD_ERROR_QUOTA": "Você atingiu sua cota semanal de uploads.",
+  "UPLOAD_ERROR_EXPIRED": "O envio expirou. Envie novamente.",
   "ERROR_COPY_URL": "Não foi possível copiar a URL para a área de transferência.",
   "GALLERY_TOAST_COPIED_POST_LINK": "Link da publicação copiado para a área de transferência!",
   "GALLERY_ERROR_COPY_POST_LINK": "Não foi possível copiar o link da publicação para a área de transferência.",

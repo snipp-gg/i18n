@@ -97,6 +97,7 @@
   "UPLOAD_ERROR_CONNECTION": "Uppladdningen misslyckades. Kontrollera din anslutning och försök igen.",
   "UPLOAD_ERROR_ALL_FAILED": "Alla filer misslyckades att laddas upp. Försök igen.",
   "UPLOAD_ERROR_QUOTA": "Du har nått din veckovisa uppladdningskvot.",
+  "UPLOAD_ERROR_EXPIRED": "Uppladdningen har gått ut. Ladda upp igen.",
   "ERROR_COPY_URL": "Kan inte kopiera URL till urklipp.",
   "GALLERY_TOAST_COPIED_POST_LINK": "Inläggslänk kopierad till urklipp!",
   "GALLERY_ERROR_COPY_POST_LINK": "Kan inte kopiera inläggslänk till urklipp.",

@@ -97,6 +97,7 @@
   "UPLOAD_ERROR_CONNECTION": "Przesyłanie nie powiodło się. Sprawdź połączenie i spróbuj ponownie.",
   "UPLOAD_ERROR_ALL_FAILED": "Nie udało się przesłać żadnego pliku. Spróbuj ponownie.",
   "UPLOAD_ERROR_QUOTA": "Osiągnąłeś swój tygodniowy limit wysyłek.",
+  "UPLOAD_ERROR_EXPIRED": "Przesyłanie wygasło. Prześlij ponownie.",
   "ERROR_COPY_URL": "Nie można skopiować adresu URL do schowka.",
   "GALLERY_TOAST_COPIED_POST_LINK": "Skopiowano link do posta do schowka!",
   "GALLERY_ERROR_COPY_POST_LINK": "Nie można skopiować linku do posta do schowka.",

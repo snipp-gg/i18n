@@ -97,6 +97,7 @@
   "UPLOAD_ERROR_CONNECTION": "Caricamento non riuscito. Controlla la connessione e riprova.",
   "UPLOAD_ERROR_ALL_FAILED": "Caricamento di tutti i file non riuscito. Riprova.",
   "UPLOAD_ERROR_QUOTA": "Hai raggiunto la tua quota di caricamento settimanale.",
+  "UPLOAD_ERROR_EXPIRED": "Caricamento scaduto. Carica di nuovo.",
   "ERROR_COPY_URL": "Impossibile copiare l'URL negli appunti.",
   "GALLERY_TOAST_COPIED_POST_LINK": "Link del post copiato negli appunti!",
   "GALLERY_ERROR_COPY_POST_LINK": "Impossibile copiare il link del post negli appunti.",

@@ -97,6 +97,7 @@
   "UPLOAD_ERROR_CONNECTION": "Încărcarea a eșuat. Verifică-ți conexiunea și încearcă din nou.",
   "UPLOAD_ERROR_ALL_FAILED": "Toate fișierele au eșuat la încărcare. Te rugăm să încerci din nou.",
   "UPLOAD_ERROR_QUOTA": "Ai atins cota săptămânală de încărcare.",
+  "UPLOAD_ERROR_EXPIRED": "Încărcarea a expirat. Te rugăm să încarci din nou.",
   "ERROR_COPY_URL": "URL-ul nu a putut fi copiat în clipboard.",
   "GALLERY_TOAST_COPIED_POST_LINK": "Link-ul postării copiat în clipboard!",
   "GALLERY_ERROR_COPY_POST_LINK": "Link-ul postării nu a putut fi copiat în clipboard.",

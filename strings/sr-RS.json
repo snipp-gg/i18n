@@ -97,6 +97,7 @@
   "UPLOAD_ERROR_CONNECTION": "Otpremanje nije uspelo. Proverite vezu i pokušajte ponovo.",
   "UPLOAD_ERROR_ALL_FAILED": "Otpremanje svih fajlova nije uspelo. Pokušajte ponovo.",
   "UPLOAD_ERROR_QUOTA": "Dostigli ste svoju nedeljnu kvotu otpremanja.",
+  "UPLOAD_ERROR_EXPIRED": "Otpremanje je isteklo. Otpremite ponovo.",
   "ERROR_COPY_URL": "Nije moguće kopirati URL u klipbord.",
   "GALLERY_TOAST_COPIED_POST_LINK": "Link objave kopiran u klipbord!",
   "GALLERY_ERROR_COPY_POST_LINK": "Nije moguće kopirati link objave u klipbord.",

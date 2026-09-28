@@ -97,6 +97,7 @@
   "UPLOAD_ERROR_CONNECTION": "Error al subir. Comprueba tu conexión e inténtalo de nuevo.",
   "UPLOAD_ERROR_ALL_FAILED": "No se pudo subir ningún archivo. Inténtalo de nuevo.",
   "UPLOAD_ERROR_QUOTA": "Has alcanzado tu cuota semanal de subidas.",
+  "UPLOAD_ERROR_EXPIRED": "La subida ha caducado. Vuelve a subir los archivos.",
   "ERROR_COPY_URL": "No se pudo copiar la URL al portapapeles.",
   "GALLERY_TOAST_COPIED_POST_LINK": "¡Enlace de la publicación copiado al portapapeles!",
   "GALLERY_ERROR_COPY_POST_LINK": "No se pudo copiar el enlace de la publicación al portapapeles.",

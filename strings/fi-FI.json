@@ -97,6 +97,7 @@
   "UPLOAD_ERROR_CONNECTION": "Lataus epäonnistui. Tarkista yhteytesi ja yritä uudelleen.",
   "UPLOAD_ERROR_ALL_FAILED": "Kaikkien tiedostojen lataus epäonnistui. Yritä uudelleen.",
   "UPLOAD_ERROR_QUOTA": "Olet saavuttanut viikoittaisen latauskiintiösi.",
+  "UPLOAD_ERROR_EXPIRED": "Lataus vanheni. Lataa uudelleen.",
   "ERROR_COPY_URL": "URL:n kopiointi leikepöydälle ei onnistunut.",
   "GALLERY_TOAST_COPIED_POST_LINK": "Julkaisun linkki kopioitu leikepöydälle!",
   "GALLERY_ERROR_COPY_POST_LINK": "Julkaisun linkin kopiointi leikepöydälle ei onnistunut.",

@@ -97,6 +97,7 @@
   "UPLOAD_ERROR_CONNECTION": "Uploaden mislukt. Controleer je verbinding en probeer het opnieuw.",
   "UPLOAD_ERROR_ALL_FAILED": "Alle bestanden zijn mislukt bij het uploaden. Probeer het opnieuw.",
   "UPLOAD_ERROR_QUOTA": "Je hebt je wekelijkse uploadquotum bereikt.",
+  "UPLOAD_ERROR_EXPIRED": "Upload verlopen. Upload opnieuw.",
   "ERROR_COPY_URL": "Kan URL niet naar klembord kopiëren.",
   "GALLERY_TOAST_COPIED_POST_LINK": "Postlink gekopieerd naar klembord!",
   "GALLERY_ERROR_COPY_POST_LINK": "Kan postlink niet naar klembord kopiëren.",

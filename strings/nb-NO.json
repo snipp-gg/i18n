@@ -97,6 +97,7 @@
   "UPLOAD_ERROR_CONNECTION": "Opplasting mislyktes. Sjekk tilkoblingen din og prøv igjen.",
   "UPLOAD_ERROR_ALL_FAILED": "Alle filene mislyktes med opplastingen. Prøv igjen.",
   "UPLOAD_ERROR_QUOTA": "Du har nådd den ukentlige opplastingskvoten din.",
+  "UPLOAD_ERROR_EXPIRED": "Opplastingen har utløpt. Last opp igjen.",
   "ERROR_COPY_URL": "Kunne ikke kopiere URL til utklippstavlen.",
   "GALLERY_TOAST_COPIED_POST_LINK": "Innleggslenke kopiert til utklippstavlen!",
   "GALLERY_ERROR_COPY_POST_LINK": "Kunne ikke kopiere innleggslenke til utklippstavlen.",

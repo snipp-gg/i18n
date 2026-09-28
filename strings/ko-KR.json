@@ -97,6 +97,7 @@
   "UPLOAD_ERROR_CONNECTION": "업로드에 실패했습니다. 연결을 확인하고 다시 시도해 주세요.",
   "UPLOAD_ERROR_ALL_FAILED": "모든 파일 업로드에 실패했습니다. 다시 시도해 주세요.",
   "UPLOAD_ERROR_QUOTA": "주간 업로드 한도에 도달했습니다.",
+  "UPLOAD_ERROR_EXPIRED": "업로드가 만료되었습니다. 다시 업로드해 주세요.",
   "ERROR_COPY_URL": "URL을 클립보드에 복사할 수 없습니다.",
   "GALLERY_TOAST_COPIED_POST_LINK": "게시물 링크를 클립보드에 복사했습니다!",
   "GALLERY_ERROR_COPY_POST_LINK": "게시물 링크를 클립보드에 복사할 수 없습니다.",

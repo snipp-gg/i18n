@@ -97,6 +97,7 @@
   "UPLOAD_ERROR_CONNECTION": "Upload fehlgeschlagen. Bitte überprüfe deine Verbindung und versuche es erneut.",
   "UPLOAD_ERROR_ALL_FAILED": "Alle Dateien konnten nicht hochgeladen werden. Bitte versuche es erneut.",
   "UPLOAD_ERROR_QUOTA": "Du hast dein wöchentliches Upload-Limit erreicht.",
+  "UPLOAD_ERROR_EXPIRED": "Upload abgelaufen. Bitte lade erneut hoch.",
   "ERROR_COPY_URL": "URL konnte nicht in die Zwischenablage kopiert werden.",
   "GALLERY_TOAST_COPIED_POST_LINK": "Beitragslink in die Zwischenablage kopiert!",
   "GALLERY_ERROR_COPY_POST_LINK": "Beitragslink konnte nicht in die Zwischenablage kopiert werden.",

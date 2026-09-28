@@ -97,6 +97,7 @@
   "UPLOAD_ERROR_CONNECTION": "Hindi nagtagumpay ang upload. Suriin ang iyong koneksyon at subukan ulit.",
   "UPLOAD_ERROR_ALL_FAILED": "Hindi na-upload ang lahat ng file. Subukan ulit.",
   "UPLOAD_ERROR_QUOTA": "Naabot mo na ang iyong lingguhang upload quota.",
+  "UPLOAD_ERROR_EXPIRED": "Nag-expire na ang upload. Mag-upload ulit.",
   "ERROR_COPY_URL": "Hindi makopya ang URL sa clipboard.",
   "GALLERY_TOAST_COPIED_POST_LINK": "Nakopya ang link ng post sa clipboard!",
   "GALLERY_ERROR_COPY_POST_LINK": "Hindi makopya ang link ng post sa clipboard.",

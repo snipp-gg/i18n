@@ -97,6 +97,7 @@
   "UPLOAD_ERROR_CONNECTION": "アップロードに失敗しました。接続を確認してもう一度お試しください。",
   "UPLOAD_ERROR_ALL_FAILED": "すべてのファイルのアップロードに失敗しました。もう一度お試しください。",
   "UPLOAD_ERROR_QUOTA": "週間アップロード上限に達しました。",
+  "UPLOAD_ERROR_EXPIRED": "アップロードの有効期限が切れました。もう一度アップロードしてください。",
   "ERROR_COPY_URL": "URLをクリップボードにコピーできませんでした。",
   "GALLERY_TOAST_COPIED_POST_LINK": "投稿のリンクをクリップボードにコピーしました！",
   "GALLERY_ERROR_COPY_POST_LINK": "投稿のリンクをクリップボードにコピーできませんでした。",

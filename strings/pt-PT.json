@@ -97,6 +97,7 @@
   "UPLOAD_ERROR_CONNECTION": "Carregamento falhou. Por favor verifique a sua ligação e tente novamente.",
   "UPLOAD_ERROR_ALL_FAILED": "Todos os ficheiros falharam ao carregar. Por favor tente novamente.",
   "UPLOAD_ERROR_QUOTA": "Atingiste a tua quota semanal de carregamentos.",
+  "UPLOAD_ERROR_EXPIRED": "Carregamento expirado. Por favor carregue novamente.",
   "ERROR_COPY_URL": "Não foi possível copiar o URL para a área de transferência.",
   "GALLERY_TOAST_COPIED_POST_LINK": "Link da publicação copiado para a área de transferência!",
   "GALLERY_ERROR_COPY_POST_LINK": "Não foi possível copiar o link da publicação para a área de transferência.",

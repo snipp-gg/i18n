@@ -97,6 +97,7 @@
   "UPLOAD_ERROR_CONNECTION": "Tải lên thất bại. Vui lòng kiểm tra kết nối và thử lại.",
   "UPLOAD_ERROR_ALL_FAILED": "Tất cả tệp đều tải lên thất bại. Vui lòng thử lại.",
   "UPLOAD_ERROR_QUOTA": "Bạn đã đạt hạn mức tải lên hàng tuần của mình.",
+  "UPLOAD_ERROR_EXPIRED": "Tải lên đã hết hạn. Vui lòng tải lên lại.",
   "ERROR_COPY_URL": "Không thể sao chép URL vào bộ nhớ tạm.",
   "GALLERY_TOAST_COPIED_POST_LINK": "Đã sao chép liên kết bài đăng vào bộ nhớ tạm!",
   "GALLERY_ERROR_COPY_POST_LINK": "Không thể sao chép liên kết bài đăng vào bộ nhớ tạm.",

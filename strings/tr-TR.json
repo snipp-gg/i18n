@@ -97,6 +97,7 @@
   "UPLOAD_ERROR_CONNECTION": "Yükleme başarısız oldu. Lütfen bağlantınızı kontrol edip tekrar deneyin.",
   "UPLOAD_ERROR_ALL_FAILED": "Tüm dosyalar yüklenemedi. Lütfen tekrar deneyin.",
   "UPLOAD_ERROR_QUOTA": "Haftalık yükleme kotana ulaştın.",
+  "UPLOAD_ERROR_EXPIRED": "Yüklemenin süresi doldu. Lütfen tekrar yükleyin.",
   "ERROR_COPY_URL": "URL panoya kopyalanamadı.",
   "GALLERY_TOAST_COPIED_POST_LINK": "Gönderi bağlantısı panoya kopyalandı!",
   "GALLERY_ERROR_COPY_POST_LINK": "Gönderi bağlantısı panoya kopyalanamadı.",

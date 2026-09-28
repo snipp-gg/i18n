@@ -97,6 +97,7 @@
   "UPLOAD_ERROR_CONNECTION": "Prijenos nije uspio. Provjeri vezu i pokušaj ponovno.",
   "UPLOAD_ERROR_ALL_FAILED": "Prijenos svih datoteka nije uspio. Pokušaj ponovno.",
   "UPLOAD_ERROR_QUOTA": "Dosegao si svoju tjednu kvotu prijenosa.",
+  "UPLOAD_ERROR_EXPIRED": "Prijenos je istekao. Prenesi ponovno.",
   "ERROR_COPY_URL": "Kopiranje URL-a u međuspremnik nije moguće.",
   "GALLERY_TOAST_COPIED_POST_LINK": "Poveznica objave kopirana u međuspremnik!",
   "GALLERY_ERROR_COPY_POST_LINK": "Kopiranje poveznice objave u međuspremnik nije moguće.",
