@@ -2147,6 +2147,7 @@
   "NOTIFICATIONS_COMMENT_LIKE_OTHERS": "e altre {count} persone hanno messo mi piace al tuo commento",
   "NOTIFICATIONS_MENTION": "ti ha menzionato",
   "NOTIFICATIONS_POST_MODERATED": "Il tuo post è stato rimosso per violazione delle regole.",
+  "NOTIFICATIONS_POST_AUTO_MODERATED": "I nostri sistemi di protezione hanno rimosso il tuo post. A volte succede anche con post sicuri. Contatta l'assistenza per farlo esaminare.",
   "NOTIFICATIONS_POST_RESTRICTED": "Il tuo post è stato limitato e non appare più in Esplora.",
   "NOTIFICATIONS_POST_RESTORED": "Il tuo post è stato riesaminato e ripristinato.",
   "NOTIFICATIONS_POST_UNRESTRICTED": "La limitazione sul tuo post è stata rimossa e può apparire di nuovo in Esplora.",

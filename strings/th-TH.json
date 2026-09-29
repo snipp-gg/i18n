@@ -2147,6 +2147,7 @@
   "NOTIFICATIONS_COMMENT_LIKE_OTHERS": "และอีก {count} คนถูกใจความคิดเห็นของคุณ",
   "NOTIFICATIONS_MENTION": "กล่าวถึงคุณ",
   "NOTIFICATIONS_POST_MODERATED": "โพสต์ของคุณถูกลบเนื่องจากละเมิดกฎ",
+  "NOTIFICATIONS_POST_AUTO_MODERATED": "ระบบป้องกันของเราได้ลบโพสต์ของคุณ บางครั้งอาจเกิดขึ้นกับโพสต์ที่ปลอดภัยได้เช่นกัน ติดต่อฝ่ายสนับสนุนเพื่อขอให้ตรวจสอบ",
   "NOTIFICATIONS_POST_RESTRICTED": "โพสต์ของคุณถูกจำกัดและไม่ปรากฏในหน้าสำรวจอีกต่อไป",
   "NOTIFICATIONS_POST_RESTORED": "โพสต์ของคุณได้รับการตรวจสอบอีกครั้งและถูกกู้คืนแล้ว",
   "NOTIFICATIONS_POST_UNRESTRICTED": "การจำกัดโพสต์ของคุณถูกยกเลิกแล้ว และโพสต์สามารถปรากฏในหน้าสำรวจได้อีกครั้ง",

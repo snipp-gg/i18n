@@ -2147,6 +2147,7 @@
   "NOTIFICATIONS_COMMENT_LIKE_OTHERS": "님 외 {count}명이 회원님의 댓글에 좋아요를 눌렀습니다",
   "NOTIFICATIONS_MENTION": "님이 회원님을 언급했습니다",
   "NOTIFICATIONS_POST_MODERATED": "규칙 위반으로 회원님의 게시물이 삭제되었습니다.",
+  "NOTIFICATIONS_POST_AUTO_MODERATED": "보호 시스템에 의해 회원님의 게시물이 삭제되었습니다. 안전한 게시물에서도 간혹 이런 일이 발생할 수 있습니다. 검토를 원하시면 지원팀에 문의하세요.",
   "NOTIFICATIONS_POST_RESTRICTED": "회원님의 게시물이 제한되어 더 이상 둘러보기에 표시되지 않습니다.",
   "NOTIFICATIONS_POST_RESTORED": "회원님의 게시물이 다시 검토되어 복원되었습니다.",
   "NOTIFICATIONS_POST_UNRESTRICTED": "회원님의 게시물에 대한 제한이 해제되어 다시 둘러보기에 표시될 수 있습니다.",

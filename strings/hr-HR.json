@@ -2147,6 +2147,7 @@
   "NOTIFICATIONS_COMMENT_LIKE_OTHERS": "i još njih {count} označili su tvoj komentar sviđanjem",
   "NOTIFICATIONS_MENTION": "te je spomenuo",
   "NOTIFICATIONS_POST_MODERATED": "Tvoja je objava uklonjena zbog kršenja pravila.",
+  "NOTIFICATIONS_POST_AUTO_MODERATED": "Naši zaštitni mehanizmi uklonili su tvoju objavu. To se ponekad dogodi i sa sigurnim objavama. Kontaktiraj podršku kako bi je pregledali.",
   "NOTIFICATIONS_POST_RESTRICTED": "Tvoja je objava ograničena i više se ne prikazuje na stranici Otkrij.",
   "NOTIFICATIONS_POST_RESTORED": "Tvoja je objava ponovno pregledana i vraćena.",
   "NOTIFICATIONS_POST_UNRESTRICTED": "Ograničenje tvoje objave je uklonjeno i ona se ponovno može prikazivati na stranici Otkrij.",

@@ -2147,6 +2147,7 @@
   "NOTIFICATIONS_COMMENT_LIKE_OTHERS": "och {count} andra gillade din kommentar",
   "NOTIFICATIONS_MENTION": "nämnde dig",
   "NOTIFICATIONS_POST_MODERATED": "Ditt inlägg togs bort för att det bröt mot reglerna.",
+  "NOTIFICATIONS_POST_AUTO_MODERATED": "Våra skyddsmekanismer tog bort ditt inlägg. Det händer ibland även med säkra inlägg. Kontakta supporten för att få det granskat.",
   "NOTIFICATIONS_POST_RESTRICTED": "Ditt inlägg har begränsats och visas inte längre i Utforska.",
   "NOTIFICATIONS_POST_RESTORED": "Ditt inlägg har granskats igen och återställts.",
   "NOTIFICATIONS_POST_UNRESTRICTED": "Begränsningen av ditt inlägg har hävts och det kan visas i Utforska igen.",

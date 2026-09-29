@@ -2147,6 +2147,7 @@
   "NOTIFICATIONS_COMMENT_LIKE_OTHERS": "та ще {count} людей вподобали ваш коментар",
   "NOTIFICATIONS_MENTION": "згадав(-ла) вас",
   "NOTIFICATIONS_POST_MODERATED": "Ваш допис видалено за порушення правил.",
+  "NOTIFICATIONS_POST_AUTO_MODERATED": "Наші захисні механізми видалили ваш допис. Іноді таке трапляється і з безпечними дописами. Зверніться до підтримки, щоб його перевірили.",
   "NOTIFICATIONS_POST_RESTRICTED": "Ваш допис обмежено, і він більше не відображається в Огляді.",
   "NOTIFICATIONS_POST_RESTORED": "Ваш допис повторно перевірено та відновлено.",
   "NOTIFICATIONS_POST_UNRESTRICTED": "Обмеження з вашого допису знято, і він знову може відображатися в Огляді.",

@@ -2147,6 +2147,7 @@
   "NOTIFICATIONS_COMMENT_LIKE_OTHERS": "さん、他{count}人があなたのコメントにいいねしました",
   "NOTIFICATIONS_MENTION": "さんがあなたをメンションしました",
   "NOTIFICATIONS_POST_MODERATED": "あなたの投稿はルール違反のため削除されました。",
+  "NOTIFICATIONS_POST_AUTO_MODERATED": "あなたの投稿は当社の保護機能により削除されました。安全な投稿でもこのようなことが起こる場合があります。再審査をご希望の場合は、サポートにお問い合わせください。",
   "NOTIFICATIONS_POST_RESTRICTED": "あなたの投稿は制限され、「見つける」ページに表示されなくなりました。",
   "NOTIFICATIONS_POST_RESTORED": "あなたの投稿は再審査され、復元されました。",
   "NOTIFICATIONS_POST_UNRESTRICTED": "あなたの投稿の制限が解除され、「見つける」ページに再び表示できるようになりました。",

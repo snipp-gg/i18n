@@ -2147,6 +2147,7 @@
   "NOTIFICATIONS_COMMENT_LIKE_OTHERS": "và {count} người khác đã thích bình luận của bạn",
   "NOTIFICATIONS_MENTION": "đã nhắc đến bạn",
   "NOTIFICATIONS_POST_MODERATED": "Bài đăng của bạn đã bị gỡ vì vi phạm quy tắc.",
+  "NOTIFICATIONS_POST_AUTO_MODERATED": "Hệ thống bảo vệ của chúng tôi đã gỡ bài đăng của bạn. Điều này đôi khi xảy ra với cả những bài đăng an toàn. Liên hệ hỗ trợ để được xem xét lại.",
   "NOTIFICATIONS_POST_RESTRICTED": "Bài đăng của bạn đã bị hạn chế và không còn xuất hiện trong Khám phá.",
   "NOTIFICATIONS_POST_RESTORED": "Bài đăng của bạn đã được xem xét lại và khôi phục.",
   "NOTIFICATIONS_POST_UNRESTRICTED": "Hạn chế đối với bài đăng của bạn đã được gỡ bỏ và bài đăng có thể xuất hiện lại trong Khám phá.",

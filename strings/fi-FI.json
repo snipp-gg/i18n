@@ -2147,6 +2147,7 @@
   "NOTIFICATIONS_COMMENT_LIKE_OTHERS": "ja {count} muuta tykkäsivät kommentistasi",
   "NOTIFICATIONS_MENTION": "mainitsi sinut",
   "NOTIFICATIONS_POST_MODERATED": "Julkaisusi poistettiin sääntöjen rikkomisen vuoksi.",
+  "NOTIFICATIONS_POST_AUTO_MODERATED": "Suojausmekanismimme poistivat julkaisusi. Näin käy joskus myös turvallisille julkaisuille. Ota yhteyttä tukeen, jotta se tarkistetaan.",
   "NOTIFICATIONS_POST_RESTRICTED": "Julkaisuasi rajoitettiin, eikä se enää näy Tutustu-sivulla.",
   "NOTIFICATIONS_POST_RESTORED": "Julkaisusi tarkistettiin uudelleen ja palautettiin.",
   "NOTIFICATIONS_POST_UNRESTRICTED": "Julkaisusi rajoitus poistettiin, ja se voi taas näkyä Tutustu-sivulla.",

@@ -2147,6 +2147,7 @@
   "NOTIFICATIONS_COMMENT_LIKE_OTHERS": "ve diğer {count} kişi yorumunuzu beğendi",
   "NOTIFICATIONS_MENTION": "sizden bahsetti",
   "NOTIFICATIONS_POST_MODERATED": "Gönderiniz kuralları ihlal ettiği için kaldırıldı.",
+  "NOTIFICATIONS_POST_AUTO_MODERATED": "Koruma sistemlerimiz gönderinizi kaldırdı. Bu bazen güvenli gönderilerde de olabilir. İncelenmesi için destekle iletişime geçin.",
   "NOTIFICATIONS_POST_RESTRICTED": "Gönderiniz kısıtlandı ve artık Keşfet'te görünmüyor.",
   "NOTIFICATIONS_POST_RESTORED": "Gönderiniz yeniden incelendi ve geri yüklendi.",
   "NOTIFICATIONS_POST_UNRESTRICTED": "Gönderinizdeki kısıtlama kaldırıldı ve gönderiniz yeniden Keşfet'te görünebilir.",

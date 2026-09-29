@@ -2147,6 +2147,7 @@
   "NOTIFICATIONS_COMMENT_LIKE_OTHERS": "og {count} andre likte kommentaren din",
   "NOTIFICATIONS_MENTION": "nevnte deg",
   "NOTIFICATIONS_POST_MODERATED": "Innlegget ditt ble fjernet for regelbrudd.",
+  "NOTIFICATIONS_POST_AUTO_MODERATED": "Sikkerhetsmekanismene våre fjernet innlegget ditt. Dette skjer noen ganger med trygge innlegg også. Kontakt brukerstøtte for å få det vurdert.",
   "NOTIFICATIONS_POST_RESTRICTED": "Innlegget ditt ble begrenset og vises ikke lenger i Utforsk.",
   "NOTIFICATIONS_POST_RESTORED": "Innlegget ditt ble vurdert på nytt og gjenopprettet.",
   "NOTIFICATIONS_POST_UNRESTRICTED": "Begrensningen på innlegget ditt ble opphevet, og det kan vises i Utforsk igjen.",

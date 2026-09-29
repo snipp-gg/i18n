@@ -2147,6 +2147,7 @@
   "NOTIFICATIONS_COMMENT_LIKE_OTHERS": "en {count} anderen hebben je reactie geliket",
   "NOTIFICATIONS_MENTION": "heeft je vermeld",
   "NOTIFICATIONS_POST_MODERATED": "Je post is verwijderd wegens overtreding van de regels.",
+  "NOTIFICATIONS_POST_AUTO_MODERATED": "Onze beveiligingsmaatregelen hebben je post verwijderd. Dat gebeurt soms ook bij veilige posts. Neem contact op met support om deze te laten beoordelen.",
   "NOTIFICATIONS_POST_RESTRICTED": "Je post is beperkt en verschijnt niet meer in Ontdekken.",
   "NOTIFICATIONS_POST_RESTORED": "Je post is opnieuw beoordeeld en hersteld.",
   "NOTIFICATIONS_POST_UNRESTRICTED": "De beperking op je post is opgeheven en hij kan weer in Ontdekken verschijnen.",

@@ -2147,6 +2147,7 @@
   "NOTIFICATIONS_COMMENT_LIKE_OTHERS": "a ďalších {count} dalo páči sa mi tvojmu komentáru",
   "NOTIFICATIONS_MENTION": "spomenul ťa",
   "NOTIFICATIONS_POST_MODERATED": "Tvoj príspevok bol odstránený za porušenie pravidiel.",
+  "NOTIFICATIONS_POST_AUTO_MODERATED": "Naše ochranné mechanizmy odstránili tvoj príspevok. Občas sa to stane aj pri bezpečných príspevkoch. Kontaktuj podporu, aby ho posúdila.",
   "NOTIFICATIONS_POST_RESTRICTED": "Tvoj príspevok bol obmedzený a už sa nezobrazuje na stránke Objavuj.",
   "NOTIFICATIONS_POST_RESTORED": "Tvoj príspevok bol znova posúdený a obnovený.",
   "NOTIFICATIONS_POST_UNRESTRICTED": "Obmedzenie tvojho príspevku bolo zrušené a príspevok sa môže znova zobrazovať na stránke Objavuj.",

@@ -2147,6 +2147,7 @@
   "NOTIFICATIONS_COMMENT_LIKE_OTHERS": "et {count} autres personnes ont aimé votre commentaire",
   "NOTIFICATIONS_MENTION": "vous a mentionné",
   "NOTIFICATIONS_POST_MODERATED": "Votre post a été supprimé pour non-respect des règles.",
+  "NOTIFICATIONS_POST_AUTO_MODERATED": "Nos dispositifs de protection ont supprimé votre post. Cela arrive parfois avec des posts sans danger. Contactez l'assistance pour le faire examiner.",
   "NOTIFICATIONS_POST_RESTRICTED": "Votre post a été restreint et n'apparaît plus dans Découvrir.",
   "NOTIFICATIONS_POST_RESTORED": "Votre post a été réexaminé et rétabli.",
   "NOTIFICATIONS_POST_UNRESTRICTED": "La restriction sur votre post a été levée et il peut de nouveau apparaître dans Découvrir.",

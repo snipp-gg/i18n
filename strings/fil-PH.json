@@ -2147,6 +2147,7 @@
   "NOTIFICATIONS_COMMENT_LIKE_OTHERS": "at {count} iba pa ay nag-like ng iyong komento",
   "NOTIFICATIONS_MENTION": "ay nag-mention sa iyo",
   "NOTIFICATIONS_POST_MODERATED": "Tinanggal ang iyong post dahil sa paglabag sa mga panuntunan.",
+  "NOTIFICATIONS_POST_AUTO_MODERATED": "Tinanggal ng aming mga safeguard ang iyong post. Minsan nangyayari ito kahit sa mga ligtas na post. Makipag-ugnayan sa support para masuri ito.",
   "NOTIFICATIONS_POST_RESTRICTED": "Pinaghigpitan ang iyong post at hindi na ito lumalabas sa Discover.",
   "NOTIFICATIONS_POST_RESTORED": "Sinuri muli ang iyong post at naibalik na ito.",
   "NOTIFICATIONS_POST_UNRESTRICTED": "Inalis na ang paghihigpit sa iyong post at maaari na itong lumabas muli sa Discover.",

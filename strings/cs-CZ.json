@@ -2147,6 +2147,7 @@
   "NOTIFICATIONS_COMMENT_LIKE_OTHERS": "a {count} dalších lajkují váš komentář",
   "NOTIFICATIONS_MENTION": "vás zmínil",
   "NOTIFICATIONS_POST_MODERATED": "Váš příspěvek byl odstraněn kvůli porušení pravidel.",
+  "NOTIFICATIONS_POST_AUTO_MODERATED": "Naše ochranné mechanismy odstranily váš příspěvek. Občas se to stane i u bezpečných příspěvků. Kontaktujte podporu, aby ho posoudila.",
   "NOTIFICATIONS_POST_RESTRICTED": "Váš příspěvek byl omezen a už se nezobrazuje na stránce Objevit.",
   "NOTIFICATIONS_POST_RESTORED": "Váš příspěvek byl znovu posouzen a obnoven.",
   "NOTIFICATIONS_POST_UNRESTRICTED": "Omezení vašeho příspěvku bylo zrušeno a příspěvek se může znovu zobrazovat na stránce Objevit.",

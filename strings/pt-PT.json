@@ -2147,6 +2147,7 @@
   "NOTIFICATIONS_COMMENT_LIKE_OTHERS": "e outras {count} pessoas gostaram do seu comentário",
   "NOTIFICATIONS_MENTION": "mencionou-o",
   "NOTIFICATIONS_POST_MODERATED": "A sua publicação foi removida por violar as regras.",
+  "NOTIFICATIONS_POST_AUTO_MODERATED": "Os nossos mecanismos de proteção removeram a sua publicação. Por vezes isto acontece com publicações seguras. Contacte o suporte para que seja revista.",
   "NOTIFICATIONS_POST_RESTRICTED": "A sua publicação foi restringida e já não aparece no Descobrir.",
   "NOTIFICATIONS_POST_RESTORED": "A sua publicação foi revista novamente e restaurada.",
   "NOTIFICATIONS_POST_UNRESTRICTED": "A restrição da sua publicação foi levantada e esta pode voltar a aparecer no Descobrir.",

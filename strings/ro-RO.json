@@ -2147,6 +2147,7 @@
   "NOTIFICATIONS_COMMENT_LIKE_OTHERS": "și alte {count} persoane ți-au apreciat comentariul",
   "NOTIFICATIONS_MENTION": "te-a menționat",
   "NOTIFICATIONS_POST_MODERATED": "Postarea ta a fost eliminată pentru încălcarea regulilor.",
+  "NOTIFICATIONS_POST_AUTO_MODERATED": "Sistemele noastre de protecție ți-au eliminat postarea. Uneori se întâmplă și cu postări sigure. Contactează asistența pentru a fi verificată.",
   "NOTIFICATIONS_POST_RESTRICTED": "Postarea ta a fost restricționată și nu mai apare în Descoperă.",
   "NOTIFICATIONS_POST_RESTORED": "Postarea ta a fost verificată din nou și restaurată.",
   "NOTIFICATIONS_POST_UNRESTRICTED": "Restricția asupra postării tale a fost ridicată și aceasta poate apărea din nou în Descoperă.",

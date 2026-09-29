@@ -2147,6 +2147,7 @@
   "NOTIFICATIONS_COMMENT_LIKE_OTHERS": "和其他 {count} 人点赞了您的评论",
   "NOTIFICATIONS_MENTION": "提到了您",
   "NOTIFICATIONS_POST_MODERATED": "您的帖子因违反规则已被移除。",
+  "NOTIFICATIONS_POST_AUTO_MODERATED": "我们的安全防护机制移除了您的帖子。这种情况有时也会发生在安全的帖子上。请联系客服进行审核。",
   "NOTIFICATIONS_POST_RESTRICTED": "您的帖子已被限制，不再显示在“发现”页面中。",
   "NOTIFICATIONS_POST_RESTORED": "您的帖子已经过再次审核并恢复。",
   "NOTIFICATIONS_POST_UNRESTRICTED": "您的帖子的限制已解除，可以再次显示在“发现”页面中。",

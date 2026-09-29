@@ -2147,6 +2147,7 @@
   "NOTIFICATIONS_COMMENT_LIKE_OTHERS": "и ещё {count} человек лайкнули ваш комментарий",
   "NOTIFICATIONS_MENTION": "упомянул вас",
   "NOTIFICATIONS_POST_MODERATED": "Ваш пост был удалён за нарушение правил.",
+  "NOTIFICATIONS_POST_AUTO_MODERATED": "Наши защитные механизмы удалили ваш пост. Иногда это происходит и с безопасными постами. Обратитесь в поддержку, чтобы его проверили.",
   "NOTIFICATIONS_POST_RESTRICTED": "Ваш пост был ограничен и больше не отображается в «Обзоре».",
   "NOTIFICATIONS_POST_RESTORED": "Ваш пост был повторно проверен и восстановлен.",
   "NOTIFICATIONS_POST_UNRESTRICTED": "Ограничение с вашего поста снято, и он снова может отображаться в «Обзоре».",
