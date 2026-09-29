@@ -322,8 +322,6 @@
   "USER_ID_MENU_TOAST_COPIED": "ID пользователя скопирован в буфер обмена!",
   "USER_ID_MENU_TOAST_COPY_FAILED": "Не удалось скопировать ID пользователя.",
   "USER_ID_MENU_COPY_BUTTON": "Копировать ID пользователя",
-  "MODAL_EDIT_POST_ERROR_TITLE_INVALID_CHARS": "Заголовок поста содержит недопустимые символы. Разрешены буквы, цифры, распространённые символы и эмодзи.",
-  "MODAL_EDIT_POST_ERROR_DESC_INVALID_CHARS": "Описание содержит недопустимые символы. Разрешены буквы, цифры, распространённые символы и эмодзи.",
   "MODAL_EDIT_POST_TOAST_UPDATED": "Пост успешно обновлён!",
   "MODAL_EDIT_POST_TOAST_LINK_UPDATE_FAILED": "Не удалось обновить ссылку для общего доступа.",
   "COMMON_EDIT_POST": "Редактировать пост",
