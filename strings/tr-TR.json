@@ -322,8 +322,6 @@
   "USER_ID_MENU_TOAST_COPIED": "Kullanıcı Kimliği panoya kopyalandı!",
   "USER_ID_MENU_TOAST_COPY_FAILED": "Kullanıcı kimliği kopyalanamadı.",
   "USER_ID_MENU_COPY_BUTTON": "Kullanıcı Kimliğini Kopyala",
-  "MODAL_EDIT_POST_ERROR_TITLE_INVALID_CHARS": "Gönderi başlığı geçersiz karakterler içeriyor. Harfler, sayılar, yaygın semboller ve emojilere izin verilir.",
-  "MODAL_EDIT_POST_ERROR_DESC_INVALID_CHARS": "Açıklama geçersiz karakterler içeriyor. Harfler, sayılar, yaygın semboller ve emojilere izin verilir.",
   "MODAL_EDIT_POST_TOAST_UPDATED": "Gönderi başarıyla güncellendi!",
   "MODAL_EDIT_POST_TOAST_LINK_UPDATE_FAILED": "Paylaşım bağlantısı güncellenemedi.",
   "COMMON_EDIT_POST": "Gönderiyi Düzenle",
