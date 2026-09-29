@@ -322,8 +322,6 @@
   "USER_ID_MENU_TOAST_COPIED": "ID Pengguna disalin ke clipboard!",
   "USER_ID_MENU_TOAST_COPY_FAILED": "Tidak dapat menyalin ID pengguna.",
   "USER_ID_MENU_COPY_BUTTON": "Salin ID Pengguna",
-  "MODAL_EDIT_POST_ERROR_TITLE_INVALID_CHARS": "Judul postingan berisi karakter tidak valid. Huruf, angka, simbol umum, dan emoji diperbolehkan.",
-  "MODAL_EDIT_POST_ERROR_DESC_INVALID_CHARS": "Deskripsi berisi karakter tidak valid. Huruf, angka, simbol umum, dan emoji diperbolehkan.",
   "MODAL_EDIT_POST_TOAST_UPDATED": "Postingan berhasil diperbarui!",
   "MODAL_EDIT_POST_TOAST_LINK_UPDATE_FAILED": "Gagal memperbarui tautan berbagi.",
   "COMMON_EDIT_POST": "Edit Postingan",

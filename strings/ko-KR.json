@@ -322,8 +322,6 @@
   "USER_ID_MENU_TOAST_COPIED": "사용자 ID를 클립보드에 복사했습니다!",
   "USER_ID_MENU_TOAST_COPY_FAILED": "사용자 ID를 복사할 수 없습니다.",
   "USER_ID_MENU_COPY_BUTTON": "사용자 ID 복사",
-  "MODAL_EDIT_POST_ERROR_TITLE_INVALID_CHARS": "게시물 제목에 사용할 수 없는 문자가 있습니다. 문자, 숫자, 일반 기호, 이모지를 사용할 수 있습니다.",
-  "MODAL_EDIT_POST_ERROR_DESC_INVALID_CHARS": "설명에 사용할 수 없는 문자가 있습니다. 문자, 숫자, 일반 기호, 이모지를 사용할 수 있습니다.",
   "MODAL_EDIT_POST_TOAST_UPDATED": "게시물이 업데이트되었습니다!",
   "MODAL_EDIT_POST_TOAST_LINK_UPDATE_FAILED": "공유 링크를 업데이트하지 못했습니다.",
   "COMMON_EDIT_POST": "게시물 수정",

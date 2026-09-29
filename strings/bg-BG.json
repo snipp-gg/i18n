@@ -322,8 +322,6 @@
   "USER_ID_MENU_TOAST_COPIED": "Потребителското ID е копирано в клипборда!",
   "USER_ID_MENU_TOAST_COPY_FAILED": "Не може да се копира потребителското ID.",
   "USER_ID_MENU_COPY_BUTTON": "Копиране на потребителско ID",
-  "MODAL_EDIT_POST_ERROR_TITLE_INVALID_CHARS": "Заглавието на публикацията съдържа невалидни знаци. Разрешени са букви, цифри, често използвани символи и емоджита.",
-  "MODAL_EDIT_POST_ERROR_DESC_INVALID_CHARS": "Описанието съдържа невалидни знаци. Разрешени са букви, цифри, често използвани символи и емоджита.",
   "MODAL_EDIT_POST_TOAST_UPDATED": "Публикацията е обновена успешно!",
   "MODAL_EDIT_POST_TOAST_LINK_UPDATE_FAILED": "Неуспешно обновяване на връзката за споделяне.",
   "COMMON_EDIT_POST": "Редактиране на публикацията",

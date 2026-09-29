@@ -322,8 +322,6 @@
   "USER_ID_MENU_TOAST_COPIED": "ID uživatele zkopírováno do schránky!",
   "USER_ID_MENU_TOAST_COPY_FAILED": "ID uživatele nelze zkopírovat.",
   "USER_ID_MENU_COPY_BUTTON": "Kopírovat ID uživatele",
-  "MODAL_EDIT_POST_ERROR_TITLE_INVALID_CHARS": "Název příspěvku obsahuje neplatné znaky. Povolena jsou písmena, čísla, běžné symboly a emoji.",
-  "MODAL_EDIT_POST_ERROR_DESC_INVALID_CHARS": "Popis obsahuje neplatné znaky. Povolena jsou písmena, čísla, běžné symboly a emoji.",
   "MODAL_EDIT_POST_TOAST_UPDATED": "Příspěvek úspěšně aktualizován!",
   "MODAL_EDIT_POST_TOAST_LINK_UPDATE_FAILED": "Nepodařilo se aktualizovat odkaz pro sdílení.",
   "COMMON_EDIT_POST": "Upravit příspěvek",

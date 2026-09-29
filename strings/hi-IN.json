@@ -322,8 +322,6 @@
   "USER_ID_MENU_TOAST_COPIED": "User ID क्लिपबोर्ड पर कॉपी हो गई!",
   "USER_ID_MENU_TOAST_COPY_FAILED": "User ID कॉपी नहीं हो सकी।",
   "USER_ID_MENU_COPY_BUTTON": "User ID कॉपी करें",
-  "MODAL_EDIT_POST_ERROR_TITLE_INVALID_CHARS": "पोस्ट के टाइटल में अमान्य अक्षर हैं। अक्षर, संख्याएँ, सामान्य चिह्न और इमोजी की अनुमति है।",
-  "MODAL_EDIT_POST_ERROR_DESC_INVALID_CHARS": "विवरण में अमान्य अक्षर हैं। अक्षर, संख्याएँ, सामान्य चिह्न और इमोजी की अनुमति है।",
   "MODAL_EDIT_POST_TOAST_UPDATED": "पोस्ट सफलतापूर्वक अपडेट हो गई!",
   "MODAL_EDIT_POST_TOAST_LINK_UPDATE_FAILED": "शेयर लिंक अपडेट करने में विफल रहे।",
   "COMMON_EDIT_POST": "पोस्ट एडिट करें",

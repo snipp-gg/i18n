@@ -322,8 +322,6 @@
   "USER_ID_MENU_TOAST_COPIED": "Το αναγνωριστικό χρήστη αντιγράφηκε στο πρόχειρο!",
   "USER_ID_MENU_TOAST_COPY_FAILED": "Αδύνατη η αντιγραφή αναγνωριστικού χρήστη.",
   "USER_ID_MENU_COPY_BUTTON": "Αντιγραφή Αναγνωριστικού Χρήστη",
-  "MODAL_EDIT_POST_ERROR_TITLE_INVALID_CHARS": "Ο τίτλος ανάρτησης περιέχει μη έγκυρους χαρακτήρες. Επιτρέπονται γράμματα, αριθμοί, κοινά σύμβολα και emoji.",
-  "MODAL_EDIT_POST_ERROR_DESC_INVALID_CHARS": "Η περιγραφή περιέχει μη έγκυρους χαρακτήρες. Επιτρέπονται γράμματα, αριθμοί, κοινά σύμβολα και emoji.",
   "MODAL_EDIT_POST_TOAST_UPDATED": "Η ανάρτηση ενημερώθηκε επιτυχώς!",
   "MODAL_EDIT_POST_TOAST_LINK_UPDATE_FAILED": "Αποτυχία ενημέρωσης συνδέσμου κοινοποίησης.",
   "COMMON_EDIT_POST": "Επεξεργασία Ανάρτησης",

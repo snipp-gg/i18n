@@ -322,8 +322,6 @@
   "USER_ID_MENU_TOAST_COPIED": "ID користувача скопійовано в буфер обміну!",
   "USER_ID_MENU_TOAST_COPY_FAILED": "Не вдалося скопіювати ID користувача.",
   "USER_ID_MENU_COPY_BUTTON": "Копіювати ID користувача",
-  "MODAL_EDIT_POST_ERROR_TITLE_INVALID_CHARS": "Назва допису містить недопустимі символи. Дозволені літери, цифри, поширені символи та емодзі.",
-  "MODAL_EDIT_POST_ERROR_DESC_INVALID_CHARS": "Опис містить недопустимі символи. Дозволені літери, цифри, поширені символи та емодзі.",
   "MODAL_EDIT_POST_TOAST_UPDATED": "Допис успішно оновлено!",
   "MODAL_EDIT_POST_TOAST_LINK_UPDATE_FAILED": "Не вдалося оновити посилання для спільного доступу.",
   "COMMON_EDIT_POST": "Редагувати допис",

@@ -322,8 +322,6 @@
   "USER_ID_MENU_TOAST_COPIED": "ID korisnika kopiran u međuspremnik!",
   "USER_ID_MENU_TOAST_COPY_FAILED": "Kopiranje ID-a korisnika nije moguće.",
   "USER_ID_MENU_COPY_BUTTON": "Kopiraj ID korisnika",
-  "MODAL_EDIT_POST_ERROR_TITLE_INVALID_CHARS": "Naslov objave sadrži nevaljane znakove. Dopušteni su slova, brojevi, uobičajeni simboli i emoji.",
-  "MODAL_EDIT_POST_ERROR_DESC_INVALID_CHARS": "Opis sadrži nevaljane znakove. Dopušteni su slova, brojevi, uobičajeni simboli i emoji.",
   "MODAL_EDIT_POST_TOAST_UPDATED": "Objava uspješno ažurirana!",
   "MODAL_EDIT_POST_TOAST_LINK_UPDATE_FAILED": "Ažuriranje poveznice za dijeljenje nije uspjelo.",
   "COMMON_EDIT_POST": "Uredi objavu",

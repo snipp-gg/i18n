@@ -322,8 +322,6 @@
   "USER_ID_MENU_TOAST_COPIED": "Användar-ID kopierat till urklipp!",
   "USER_ID_MENU_TOAST_COPY_FAILED": "Kan inte kopiera användar-ID.",
   "USER_ID_MENU_COPY_BUTTON": "Kopiera användar-ID",
-  "MODAL_EDIT_POST_ERROR_TITLE_INVALID_CHARS": "Inläggstiteln innehåller ogiltiga tecken. Bokstäver, siffror, vanliga symboler och emojier är tillåtna.",
-  "MODAL_EDIT_POST_ERROR_DESC_INVALID_CHARS": "Beskrivningen innehåller ogiltiga tecken. Bokstäver, siffror, vanliga symboler och emojier är tillåtna.",
   "MODAL_EDIT_POST_TOAST_UPDATED": "Inlägget uppdaterades!",
   "MODAL_EDIT_POST_TOAST_LINK_UPDATE_FAILED": "Kunde inte uppdatera delningslänken.",
   "COMMON_EDIT_POST": "Redigera inlägg",

@@ -322,8 +322,6 @@
   "USER_ID_MENU_TOAST_COPIED": "Käyttäjätunnus kopioitu leikepöydälle!",
   "USER_ID_MENU_TOAST_COPY_FAILED": "Käyttäjätunnuksen kopiointi ei onnistunut.",
   "USER_ID_MENU_COPY_BUTTON": "Kopioi käyttäjätunnus",
-  "MODAL_EDIT_POST_ERROR_TITLE_INVALID_CHARS": "Julkaisun otsikko sisältää virheellisiä merkkejä. Kirjaimet, numerot, yleiset symbolit ja emojit ovat sallittuja.",
-  "MODAL_EDIT_POST_ERROR_DESC_INVALID_CHARS": "Kuvaus sisältää virheellisiä merkkejä. Kirjaimet, numerot, yleiset symbolit ja emojit ovat sallittuja.",
   "MODAL_EDIT_POST_TOAST_UPDATED": "Julkaisu päivitetty onnistuneesti!",
   "MODAL_EDIT_POST_TOAST_LINK_UPDATE_FAILED": "Jakolinkin päivitys epäonnistui.",
   "COMMON_EDIT_POST": "Muokkaa julkaisua",

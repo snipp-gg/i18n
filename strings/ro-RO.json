@@ -322,8 +322,6 @@
   "USER_ID_MENU_TOAST_COPIED": "ID-ul de utilizator copiat în clipboard!",
   "USER_ID_MENU_TOAST_COPY_FAILED": "ID-ul de utilizator nu a putut fi copiat.",
   "USER_ID_MENU_COPY_BUTTON": "Copiază ID-ul de utilizator",
-  "MODAL_EDIT_POST_ERROR_TITLE_INVALID_CHARS": "Titlul postării conține caractere nevalide. Sunt permise litere, cifre, simboluri uzuale și emoji-uri.",
-  "MODAL_EDIT_POST_ERROR_DESC_INVALID_CHARS": "Descrierea conține caractere nevalide. Sunt permise litere, cifre, simboluri uzuale și emoji-uri.",
   "MODAL_EDIT_POST_TOAST_UPDATED": "Postare actualizată cu succes!",
   "MODAL_EDIT_POST_TOAST_LINK_UPDATE_FAILED": "Nu s-a putut actualiza linkul de distribuire.",
   "COMMON_EDIT_POST": "Editează postarea",

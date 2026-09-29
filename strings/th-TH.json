@@ -322,8 +322,6 @@
   "USER_ID_MENU_TOAST_COPIED": "คัดลอก User ID ไปยังคลิปบอร์ดแล้ว!",
   "USER_ID_MENU_TOAST_COPY_FAILED": "ไม่สามารถคัดลอก user ID ได้",
   "USER_ID_MENU_COPY_BUTTON": "คัดลอก User ID",
-  "MODAL_EDIT_POST_ERROR_TITLE_INVALID_CHARS": "ชื่อโพสต์มีอักขระไม่ถูกต้อง อนุญาตให้ใช้ตัวอักษร ตัวเลข สัญลักษณ์ทั่วไป และอีโมจิเท่านั้น",
-  "MODAL_EDIT_POST_ERROR_DESC_INVALID_CHARS": "คำอธิบายมีอักขระไม่ถูกต้อง อนุญาตให้ใช้ตัวอักษร ตัวเลข สัญลักษณ์ทั่วไป และอีโมจิเท่านั้น",
   "MODAL_EDIT_POST_TOAST_UPDATED": "อัปเดตโพสต์สำเร็จ!",
   "MODAL_EDIT_POST_TOAST_LINK_UPDATE_FAILED": "ไม่สามารถอัปเดตลิงก์แชร์ได้",
   "COMMON_EDIT_POST": "แก้ไขโพสต์",

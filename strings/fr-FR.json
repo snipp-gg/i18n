@@ -322,8 +322,6 @@
   "USER_ID_MENU_TOAST_COPIED": "ID utilisateur copié dans le presse-papiers !",
   "USER_ID_MENU_TOAST_COPY_FAILED": "Impossible de copier l'ID utilisateur.",
   "USER_ID_MENU_COPY_BUTTON": "Copier l'ID utilisateur",
-  "MODAL_EDIT_POST_ERROR_TITLE_INVALID_CHARS": "Le titre du post contient des caractères non valides. Les lettres, chiffres, symboles courants et emojis sont autorisés.",
-  "MODAL_EDIT_POST_ERROR_DESC_INVALID_CHARS": "La description contient des caractères non valides. Les lettres, chiffres, symboles courants et emojis sont autorisés.",
   "MODAL_EDIT_POST_TOAST_UPDATED": "Post mis à jour avec succès !",
   "MODAL_EDIT_POST_TOAST_LINK_UPDATE_FAILED": "Échec de la mise à jour du lien de partage.",
   "COMMON_EDIT_POST": "Modifier le post",

@@ -322,8 +322,6 @@
   "USER_ID_MENU_TOAST_COPIED": "已将用户 ID 复制到剪贴板！",
   "USER_ID_MENU_TOAST_COPY_FAILED": "无法复制用户 ID。",
   "USER_ID_MENU_COPY_BUTTON": "复制用户 ID",
-  "MODAL_EDIT_POST_ERROR_TITLE_INVALID_CHARS": "帖子标题包含无效字符。允许使用字母、数字、常见符号和表情符号。",
-  "MODAL_EDIT_POST_ERROR_DESC_INVALID_CHARS": "描述包含无效字符。允许使用字母、数字、常见符号和表情符号。",
   "MODAL_EDIT_POST_TOAST_UPDATED": "帖子更新成功！",
   "MODAL_EDIT_POST_TOAST_LINK_UPDATE_FAILED": "更新分享链接失败。",
   "COMMON_EDIT_POST": "编辑帖子",
