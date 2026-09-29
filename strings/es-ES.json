@@ -322,8 +322,6 @@
   "USER_ID_MENU_TOAST_COPIED": "¡ID de usuario copiado al portapapeles!",
   "USER_ID_MENU_TOAST_COPY_FAILED": "No se pudo copiar el ID de usuario.",
   "USER_ID_MENU_COPY_BUTTON": "Copiar ID de Usuario",
-  "MODAL_EDIT_POST_ERROR_TITLE_INVALID_CHARS": "El título de la publicación contiene caracteres no válidos. Se permiten letras, números, símbolos comunes y emojis.",
-  "MODAL_EDIT_POST_ERROR_DESC_INVALID_CHARS": "La descripción contiene caracteres no válidos. Se permiten letras, números, símbolos comunes y emojis.",
   "MODAL_EDIT_POST_TOAST_UPDATED": "¡Publicación actualizada correctamente!",
   "MODAL_EDIT_POST_TOAST_LINK_UPDATE_FAILED": "No se pudo actualizar el enlace para compartir.",
   "COMMON_EDIT_POST": "Editar Publicación",
