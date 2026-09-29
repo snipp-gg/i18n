@@ -322,8 +322,6 @@
   "USER_ID_MENU_TOAST_COPIED": "Copied User ID to clipboard!",
   "USER_ID_MENU_TOAST_COPY_FAILED": "Unable to copy user ID.",
   "USER_ID_MENU_COPY_BUTTON": "Copy User ID",
-  "MODAL_EDIT_POST_ERROR_TITLE_INVALID_CHARS": "Post title contains invalid characters. Letters, numbers, common symbols, and emojis are allowed.",
-  "MODAL_EDIT_POST_ERROR_DESC_INVALID_CHARS": "Description contains invalid characters. Letters, numbers, common symbols, and emojis are allowed.",
   "MODAL_EDIT_POST_TOAST_UPDATED": "Post updated successfully!",
   "MODAL_EDIT_POST_TOAST_LINK_UPDATE_FAILED": "Failed to update share link.",
   "COMMON_EDIT_POST": "Edit Post",
