@@ -2127,6 +2127,7 @@
   "DOWNLOADS_COMING_SOON": "Yakında",
   "DOWNLOADS_GET_EXE": "İndir (.exe)",
   "DOWNLOADS_GET_DMG": "İndir (.dmg)",
+  "DOWNLOADS_GET_PLAY": "Google Play'den indir",
   "DOWNLOADS_WINDOWS_NAME": "Windows",
   "DOWNLOADS_WINDOWS_NOTE": "Windows 10 ve sonrası.",
   "DOWNLOADS_MACOS_NAME": "macOS",

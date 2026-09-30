@@ -2127,6 +2127,7 @@
   "DOWNLOADS_COMING_SOON": "即将推出",
   "DOWNLOADS_GET_EXE": "下载 (.exe)",
   "DOWNLOADS_GET_DMG": "下载 (.dmg)",
+  "DOWNLOADS_GET_PLAY": "在 Google Play 上下载",
   "DOWNLOADS_WINDOWS_NAME": "Windows",
   "DOWNLOADS_WINDOWS_NOTE": "Windows 10 及更高版本。",
   "DOWNLOADS_MACOS_NAME": "macOS",
