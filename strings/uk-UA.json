@@ -413,7 +413,7 @@
   "MODAL_EDIT_POST_ADAPTIVE_STREAMING_PROCESSING_HINT": "Обробка для адаптивного стримінгу. Це може зайняти кілька хвилин. Тим часом ваше відео вже відтворюється, тож ви можете спокійно залишити цю сторінку.",
   "MODAL_EDIT_POST_ACCESS_LABEL": "Люди з доступом",
   "MODAL_EDIT_POST_ACCESS_HINT": "Відкрити цей допис можете лише ви та люди, яких ви додасте. Їм потрібно ввійти в систему.",
-  "MODAL_EDIT_POST_ACCESS_INVITE": "Запросити людей",
+  "MODAL_EDIT_POST_ACCESS_INVITE": "Запросити",
   "MODAL_EDIT_POST_ACCESS_SUMMARY_NONE": "Лише ви",
   "MODAL_EDIT_POST_ACCESS_SUMMARY_SINGULAR": "Ви та ще 1 людина",
   "MODAL_EDIT_POST_ACCESS_SUMMARY_PLURAL": "Ви та ще {count}",

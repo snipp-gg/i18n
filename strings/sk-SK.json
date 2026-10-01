@@ -413,7 +413,7 @@
   "MODAL_EDIT_POST_ADAPTIVE_STREAMING_PROCESSING_HINT": "Spracúva sa pre adaptívne streamovanie. Môže to trvať niekoľko minút. Video sa medzitým už prehráva, takže túto stránku môžete pokojne opustiť.",
   "MODAL_EDIT_POST_ACCESS_LABEL": "Ľudia s prístupom",
   "MODAL_EDIT_POST_ACCESS_HINT": "Tento príspevok môžeš otvoriť len ty a ľudia, ktorých pridáš. Musia byť prihlásení.",
-  "MODAL_EDIT_POST_ACCESS_INVITE": "Pozvať ľudí",
+  "MODAL_EDIT_POST_ACCESS_INVITE": "Pozvať",
   "MODAL_EDIT_POST_ACCESS_SUMMARY_NONE": "Len ty",
   "MODAL_EDIT_POST_ACCESS_SUMMARY_SINGULAR": "Ty a ešte 1 osoba",
   "MODAL_EDIT_POST_ACCESS_SUMMARY_PLURAL": "Ty a ešte {count}",

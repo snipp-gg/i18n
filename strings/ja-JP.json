@@ -413,7 +413,7 @@
   "MODAL_EDIT_POST_ADAPTIVE_STREAMING_PROCESSING_HINT": "アダプティブストリーミング用に処理しています。数分かかる場合があります。 処理中も動画はすでに再生できるため、このページを閉じても問題ありません。",
   "MODAL_EDIT_POST_ACCESS_LABEL": "アクセスできる人",
   "MODAL_EDIT_POST_ACCESS_HINT": "この投稿を開けるのは、あなたと追加した人だけです。相手はログインしている必要があります。",
-  "MODAL_EDIT_POST_ACCESS_INVITE": "ユーザーを招待",
+  "MODAL_EDIT_POST_ACCESS_INVITE": "招待",
   "MODAL_EDIT_POST_ACCESS_SUMMARY_NONE": "自分のみ",
   "MODAL_EDIT_POST_ACCESS_SUMMARY_SINGULAR": "あなたと他1人",
   "MODAL_EDIT_POST_ACCESS_SUMMARY_PLURAL": "あなたと他{count}人",

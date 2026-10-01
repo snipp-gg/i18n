@@ -413,7 +413,7 @@
   "MODAL_EDIT_POST_ADAPTIVE_STREAMING_PROCESSING_HINT": "Procesando para streaming adaptativo. Esto puede tardar unos minutos. Mientras tanto tu vídeo ya se reproduce, así que puedes salir de esta página sin problema.",
   "MODAL_EDIT_POST_ACCESS_LABEL": "Personas con acceso",
   "MODAL_EDIT_POST_ACCESS_HINT": "Solo tú y las personas que añadas podéis abrir esta publicación. Deben haber iniciado sesión.",
-  "MODAL_EDIT_POST_ACCESS_INVITE": "Invitar Personas",
+  "MODAL_EDIT_POST_ACCESS_INVITE": "Invitar",
   "MODAL_EDIT_POST_ACCESS_SUMMARY_NONE": "Solo tú",
   "MODAL_EDIT_POST_ACCESS_SUMMARY_SINGULAR": "Tú y 1 persona",
   "MODAL_EDIT_POST_ACCESS_SUMMARY_PLURAL": "Tú y {count} personas",

@@ -413,7 +413,7 @@
   "MODAL_EDIT_POST_ADAPTIVE_STREAMING_PROCESSING_HINT": "Obrada za adaptivni striming. Ovo može potrajati nekoliko minuta. Vaš video se u međuvremenu već reprodukuje, pa slobodno možete napustiti ovu stranicu.",
   "MODAL_EDIT_POST_ACCESS_LABEL": "Ljudi sa pristupom",
   "MODAL_EDIT_POST_ACCESS_HINT": "Ovu objavu možete da otvorite samo ti i ljudi koje dodaš. Moraju biti prijavljeni.",
-  "MODAL_EDIT_POST_ACCESS_INVITE": "Pozovi ljude",
+  "MODAL_EDIT_POST_ACCESS_INVITE": "Pozovi",
   "MODAL_EDIT_POST_ACCESS_SUMMARY_NONE": "Samo ti",
   "MODAL_EDIT_POST_ACCESS_SUMMARY_SINGULAR": "Ti i još 1 osoba",
   "MODAL_EDIT_POST_ACCESS_SUMMARY_PLURAL": "Ti i još {count}",

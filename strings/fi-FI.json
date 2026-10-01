@@ -413,7 +413,7 @@
   "MODAL_EDIT_POST_ADAPTIVE_STREAMING_PROCESSING_HINT": "Käsitellään mukautuvaa suoratoistoa varten. Tämä voi kestää muutaman minuutin. Videosi toistuu jo sillä välin, joten voit poistua tältä sivulta huoletta.",
   "MODAL_EDIT_POST_ACCESS_LABEL": "Henkilöt, joilla on pääsy",
   "MODAL_EDIT_POST_ACCESS_HINT": "Vain sinä ja lisäämäsi henkilöt voitte avata tämän julkaisun. Heidän on oltava kirjautuneena sisään.",
-  "MODAL_EDIT_POST_ACCESS_INVITE": "Kutsu henkilöitä",
+  "MODAL_EDIT_POST_ACCESS_INVITE": "Kutsu",
   "MODAL_EDIT_POST_ACCESS_SUMMARY_NONE": "Vain sinä",
   "MODAL_EDIT_POST_ACCESS_SUMMARY_SINGULAR": "Sinä ja 1 henkilö",
   "MODAL_EDIT_POST_ACCESS_SUMMARY_PLURAL": "Sinä ja {count} henkilöä",

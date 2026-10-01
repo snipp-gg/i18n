@@ -413,7 +413,7 @@
   "MODAL_EDIT_POST_ADAPTIVE_STREAMING_PROCESSING_HINT": "Обработва се за адаптивно стрийминг. Това може да отнеме няколко минути. Междувременно видеото вече се възпроизвежда, така че можете спокойно да напуснете тази страница.",
   "MODAL_EDIT_POST_ACCESS_LABEL": "Хора с достъп",
   "MODAL_EDIT_POST_ACCESS_HINT": "Само вие и хората, които добавите, могат да отварят тази публикация. Те трябва да са влезли в профила си.",
-  "MODAL_EDIT_POST_ACCESS_INVITE": "Поканване на хора",
+  "MODAL_EDIT_POST_ACCESS_INVITE": "Поканване",
   "MODAL_EDIT_POST_ACCESS_SUMMARY_NONE": "Само вие",
   "MODAL_EDIT_POST_ACCESS_SUMMARY_SINGULAR": "Вие и 1 човек",
   "MODAL_EDIT_POST_ACCESS_SUMMARY_PLURAL": "Вие и {count} души",

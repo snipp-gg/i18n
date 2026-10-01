@@ -413,7 +413,7 @@
   "MODAL_EDIT_POST_ADAPTIVE_STREAMING_PROCESSING_HINT": "正在为自适应串流进行处理。这可能需要几分钟。处理期间你的视频已可播放，因此可以放心离开此页面。",
   "MODAL_EDIT_POST_ACCESS_LABEL": "有权访问的人",
   "MODAL_EDIT_POST_ACCESS_HINT": "只有你和你添加的人才能打开此帖子。他们需要先登录。",
-  "MODAL_EDIT_POST_ACCESS_INVITE": "邀请他人",
+  "MODAL_EDIT_POST_ACCESS_INVITE": "邀请",
   "MODAL_EDIT_POST_ACCESS_SUMMARY_NONE": "仅你自己",
   "MODAL_EDIT_POST_ACCESS_SUMMARY_SINGULAR": "你和另外 1 人",
   "MODAL_EDIT_POST_ACCESS_SUMMARY_PLURAL": "你和另外 {count} 人",

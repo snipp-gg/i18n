@@ -413,7 +413,7 @@
   "MODAL_EDIT_POST_ADAPTIVE_STREAMING_PROCESSING_HINT": "Processing for adaptive streaming. This can take a few minutes. Your video already plays while it finishes, so you can safely leave this page.",
   "MODAL_EDIT_POST_ACCESS_LABEL": "People with access",
   "MODAL_EDIT_POST_ACCESS_HINT": "Only you and the people you add can open this post. They need to be logged in.",
-  "MODAL_EDIT_POST_ACCESS_INVITE": "Invite People",
+  "MODAL_EDIT_POST_ACCESS_INVITE": "Invite",
   "MODAL_EDIT_POST_ACCESS_SUMMARY_NONE": "Only you",
   "MODAL_EDIT_POST_ACCESS_SUMMARY_SINGULAR": "You and 1 person",
   "MODAL_EDIT_POST_ACCESS_SUMMARY_PLURAL": "You and {count} people",

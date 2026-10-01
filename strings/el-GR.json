@@ -413,7 +413,7 @@
   "MODAL_EDIT_POST_ADAPTIVE_STREAMING_PROCESSING_HINT": "Γίνεται επεξεργασία για προσαρμοστική ροή. Αυτό μπορεί να διαρκέσει μερικά λεπτά. Στο μεταξύ το βίντεό σας αναπαράγεται ήδη, οπότε μπορείτε να φύγετε από αυτή τη σελίδα με ασφάλεια.",
   "MODAL_EDIT_POST_ACCESS_LABEL": "Άτομα με πρόσβαση",
   "MODAL_EDIT_POST_ACCESS_HINT": "Μόνο εσείς και τα άτομα που προσθέτετε μπορούν να ανοίξουν αυτήν την ανάρτηση. Πρέπει να είναι συνδεδεμένα.",
-  "MODAL_EDIT_POST_ACCESS_INVITE": "Πρόσκληση Ατόμων",
+  "MODAL_EDIT_POST_ACCESS_INVITE": "Πρόσκληση",
   "MODAL_EDIT_POST_ACCESS_SUMMARY_NONE": "Μόνο εσείς",
   "MODAL_EDIT_POST_ACCESS_SUMMARY_SINGULAR": "Εσείς και 1 άτομο",
   "MODAL_EDIT_POST_ACCESS_SUMMARY_PLURAL": "Εσείς και {count} άτομα",

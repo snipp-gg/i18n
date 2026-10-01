@@ -413,7 +413,7 @@
   "MODAL_EDIT_POST_ADAPTIVE_STREAMING_PROCESSING_HINT": "Đang xử lý để phát trực tuyến thích ứng. Quá trình này có thể mất vài phút. Trong lúc đó video của bạn đã phát được, vì vậy bạn có thể yên tâm rời khỏi trang này.",
   "MODAL_EDIT_POST_ACCESS_LABEL": "Người có quyền truy cập",
   "MODAL_EDIT_POST_ACCESS_HINT": "Chỉ bạn và những người bạn thêm mới mở được bài đăng này. Họ cần phải đăng nhập.",
-  "MODAL_EDIT_POST_ACCESS_INVITE": "Mời mọi người",
+  "MODAL_EDIT_POST_ACCESS_INVITE": "Mời",
   "MODAL_EDIT_POST_ACCESS_SUMMARY_NONE": "Chỉ bạn",
   "MODAL_EDIT_POST_ACCESS_SUMMARY_SINGULAR": "Bạn và 1 người",
   "MODAL_EDIT_POST_ACCESS_SUMMARY_PLURAL": "Bạn và {count} người",

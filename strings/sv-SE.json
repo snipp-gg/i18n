@@ -413,7 +413,7 @@
   "MODAL_EDIT_POST_ADAPTIVE_STREAMING_PROCESSING_HINT": "Bearbetar för adaptiv streaming. Det här kan ta några minuter. Din video går redan att spela upp under tiden, så du kan lämna den här sidan utan problem.",
   "MODAL_EDIT_POST_ACCESS_LABEL": "Personer med åtkomst",
   "MODAL_EDIT_POST_ACCESS_HINT": "Bara du och personerna du lägger till kan öppna det här inlägget. De måste vara inloggade.",
-  "MODAL_EDIT_POST_ACCESS_INVITE": "Bjud in personer",
+  "MODAL_EDIT_POST_ACCESS_INVITE": "Bjud in",
   "MODAL_EDIT_POST_ACCESS_SUMMARY_NONE": "Bara du",
   "MODAL_EDIT_POST_ACCESS_SUMMARY_SINGULAR": "Du och 1 person",
   "MODAL_EDIT_POST_ACCESS_SUMMARY_PLURAL": "Du och {count} personer",

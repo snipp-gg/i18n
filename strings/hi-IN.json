@@ -413,7 +413,7 @@
   "MODAL_EDIT_POST_ADAPTIVE_STREAMING_PROCESSING_HINT": "एडैप्टिव स्ट्रीमिंग के लिए प्रोसेस हो रहा है। इसमें कुछ मिनट लग सकते हैं। इस दौरान आपका वीडियो पहले से चल रहा है, इसलिए आप बेझिझक यह पेज छोड़ सकते हैं।",
   "MODAL_EDIT_POST_ACCESS_LABEL": "एक्सेस वाले लोग",
   "MODAL_EDIT_POST_ACCESS_HINT": "सिर्फ़ आप और आपके जोड़े हुए लोग ही यह पोस्ट खोल सकते हैं। उन्हें लॉग इन होना ज़रूरी है।",
-  "MODAL_EDIT_POST_ACCESS_INVITE": "लोगों को इन्वाइट करें",
+  "MODAL_EDIT_POST_ACCESS_INVITE": "इन्वाइट करें",
   "MODAL_EDIT_POST_ACCESS_SUMMARY_NONE": "सिर्फ़ आप",
   "MODAL_EDIT_POST_ACCESS_SUMMARY_SINGULAR": "आप और 1 व्यक्ति",
   "MODAL_EDIT_POST_ACCESS_SUMMARY_PLURAL": "आप और {count} लोग",

@@ -413,7 +413,7 @@
   "MODAL_EDIT_POST_ADAPTIVE_STREAMING_PROCESSING_HINT": "Behandler for adaptiv strømming. Dette kan ta noen minutter. Videoen din spilles allerede av i mellomtiden, så du kan trygt forlate denne siden.",
   "MODAL_EDIT_POST_ACCESS_LABEL": "Personer med tilgang",
   "MODAL_EDIT_POST_ACCESS_HINT": "Bare du og personene du legger til kan åpne dette innlegget. De må være logget inn.",
-  "MODAL_EDIT_POST_ACCESS_INVITE": "Inviter personer",
+  "MODAL_EDIT_POST_ACCESS_INVITE": "Inviter",
   "MODAL_EDIT_POST_ACCESS_SUMMARY_NONE": "Bare du",
   "MODAL_EDIT_POST_ACCESS_SUMMARY_SINGULAR": "Du og 1 person",
   "MODAL_EDIT_POST_ACCESS_SUMMARY_PLURAL": "Du og {count} personer",

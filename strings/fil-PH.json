@@ -413,7 +413,7 @@
   "MODAL_EDIT_POST_ADAPTIVE_STREAMING_PROCESSING_HINT": "Pinoproseso para sa adaptive streaming. Maaaring tumagal ito nang ilang minuto. Nagpe-play na ang iyong video habang hinihintay ito, kaya maaari mo nang iwanan ang pahinang ito.",
   "MODAL_EDIT_POST_ACCESS_LABEL": "Mga taong may access",
   "MODAL_EDIT_POST_ACCESS_HINT": "Ikaw lang at ang mga taong idadagdag mo ang makakabukas ng post na ito. Kailangan nilang naka-log in.",
-  "MODAL_EDIT_POST_ACCESS_INVITE": "Mag-imbita ng mga Tao",
+  "MODAL_EDIT_POST_ACCESS_INVITE": "Mag-imbita",
   "MODAL_EDIT_POST_ACCESS_SUMMARY_NONE": "Ikaw lang",
   "MODAL_EDIT_POST_ACCESS_SUMMARY_SINGULAR": "Ikaw at 1 tao",
   "MODAL_EDIT_POST_ACCESS_SUMMARY_PLURAL": "Ikaw at {count} tao",

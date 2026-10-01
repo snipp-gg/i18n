@@ -413,7 +413,7 @@
   "MODAL_EDIT_POST_ADAPTIVE_STREAMING_PROCESSING_HINT": "กำลังประมวลผลสำหรับการสตรีมแบบปรับอัตโนมัติ อาจใช้เวลาสองสามนาที ระหว่างนี้วิดีโอของคุณเล่นได้แล้ว คุณจึงออกจากหน้านี้ได้อย่างปลอดภัย",
   "MODAL_EDIT_POST_ACCESS_LABEL": "ผู้ที่มีสิทธิ์เข้าถึง",
   "MODAL_EDIT_POST_ACCESS_HINT": "เฉพาะคุณและผู้ที่คุณเพิ่มเท่านั้นที่เปิดโพสต์นี้ได้ โดยพวกเขาต้องเข้าสู่ระบบก่อน",
-  "MODAL_EDIT_POST_ACCESS_INVITE": "เชิญผู้คน",
+  "MODAL_EDIT_POST_ACCESS_INVITE": "เชิญ",
   "MODAL_EDIT_POST_ACCESS_SUMMARY_NONE": "คุณเท่านั้น",
   "MODAL_EDIT_POST_ACCESS_SUMMARY_SINGULAR": "คุณและอีก 1 คน",
   "MODAL_EDIT_POST_ACCESS_SUMMARY_PLURAL": "คุณและอีก {count} คน",

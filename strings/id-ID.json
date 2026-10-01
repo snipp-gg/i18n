@@ -413,7 +413,7 @@
   "MODAL_EDIT_POST_ADAPTIVE_STREAMING_PROCESSING_HINT": "Memproses untuk streaming adaptif. Ini bisa memakan waktu beberapa menit. Sementara itu video Anda sudah dapat diputar, jadi Anda bisa meninggalkan halaman ini dengan aman.",
   "MODAL_EDIT_POST_ACCESS_LABEL": "Orang dengan akses",
   "MODAL_EDIT_POST_ACCESS_HINT": "Hanya Anda dan orang yang Anda tambahkan yang dapat membuka postingan ini. Mereka harus masuk terlebih dahulu.",
-  "MODAL_EDIT_POST_ACCESS_INVITE": "Undang Orang",
+  "MODAL_EDIT_POST_ACCESS_INVITE": "Undang",
   "MODAL_EDIT_POST_ACCESS_SUMMARY_NONE": "Hanya Anda",
   "MODAL_EDIT_POST_ACCESS_SUMMARY_SINGULAR": "Anda dan 1 orang",
   "MODAL_EDIT_POST_ACCESS_SUMMARY_PLURAL": "Anda dan {count} orang",
