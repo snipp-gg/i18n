@@ -428,7 +428,6 @@
   "MODAL_POST_ACCESS_SEARCH_PLACEHOLDER": "사람 검색",
   "MODAL_POST_ACCESS_NO_RESULTS": "사용자를 찾을 수 없습니다.",
   "MODAL_POST_ACCESS_ADDED": "추가됨",
-  "MODAL_POST_ACCESS_UNAVAILABLE": "사용 불가",
   "MODAL_POST_ACCESS_EMPTY": "아직 접근 권한이 있는 다른 사람이 없습니다.",
   "MODAL_POST_ACCESS_LIST_LABEL": "접근 권한이 있는 사람",
   "MODAL_POST_ACCESS_LIMIT_REACHED": "게시물은 최대 {max}명에게 공유할 수 있습니다.",

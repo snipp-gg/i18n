@@ -428,7 +428,6 @@
   "MODAL_POST_ACCESS_SEARCH_PLACEHOLDER": "Sök efter personer",
   "MODAL_POST_ACCESS_NO_RESULTS": "Inga användare hittades.",
   "MODAL_POST_ACCESS_ADDED": "Tillagd",
-  "MODAL_POST_ACCESS_UNAVAILABLE": "Inte tillgänglig",
   "MODAL_POST_ACCESS_EMPTY": "Ingen annan har åtkomst än.",
   "MODAL_POST_ACCESS_LIST_LABEL": "Personer med åtkomst",
   "MODAL_POST_ACCESS_LIMIT_REACHED": "Du kan dela ett inlägg med upp till {max} personer.",

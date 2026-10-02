@@ -428,7 +428,6 @@
   "MODAL_POST_ACCESS_SEARCH_PLACEHOLDER": "Kişi ara",
   "MODAL_POST_ACCESS_NO_RESULTS": "Kullanıcı bulunamadı.",
   "MODAL_POST_ACCESS_ADDED": "Eklendi",
-  "MODAL_POST_ACCESS_UNAVAILABLE": "Kullanılamıyor",
   "MODAL_POST_ACCESS_EMPTY": "Henüz başka kimsenin erişimi yok.",
   "MODAL_POST_ACCESS_LIST_LABEL": "Erişimi olan kişiler",
   "MODAL_POST_ACCESS_LIMIT_REACHED": "Bir gönderiyi en fazla {max} kişiyle paylaşabilirsiniz.",

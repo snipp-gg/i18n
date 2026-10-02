@@ -428,7 +428,6 @@
   "MODAL_POST_ACCESS_SEARCH_PLACEHOLDER": "Tìm kiếm người dùng",
   "MODAL_POST_ACCESS_NO_RESULTS": "Không tìm thấy người dùng nào.",
   "MODAL_POST_ACCESS_ADDED": "Đã thêm",
-  "MODAL_POST_ACCESS_UNAVAILABLE": "Không khả dụng",
   "MODAL_POST_ACCESS_EMPTY": "Chưa có ai khác có quyền truy cập.",
   "MODAL_POST_ACCESS_LIST_LABEL": "Người có quyền truy cập",
   "MODAL_POST_ACCESS_LIMIT_REACHED": "Bạn có thể chia sẻ một bài đăng với tối đa {max} người.",

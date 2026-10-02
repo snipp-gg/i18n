@@ -428,7 +428,6 @@
   "MODAL_POST_ACCESS_SEARCH_PLACEHOLDER": "Pretraži osobe",
   "MODAL_POST_ACCESS_NO_RESULTS": "Nijedan korisnik nije pronađen.",
   "MODAL_POST_ACCESS_ADDED": "Dodano",
-  "MODAL_POST_ACCESS_UNAVAILABLE": "Nedostupno",
   "MODAL_POST_ACCESS_EMPTY": "Nitko drugi još nema pristup.",
   "MODAL_POST_ACCESS_LIST_LABEL": "Osobe s pristupom",
   "MODAL_POST_ACCESS_LIMIT_REACHED": "Objavu možeš podijeliti s najviše {max} osoba.",

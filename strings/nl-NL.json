@@ -428,7 +428,6 @@
   "MODAL_POST_ACCESS_SEARCH_PLACEHOLDER": "Mensen zoeken",
   "MODAL_POST_ACCESS_NO_RESULTS": "Geen gebruikers gevonden.",
   "MODAL_POST_ACCESS_ADDED": "Toegevoegd",
-  "MODAL_POST_ACCESS_UNAVAILABLE": "Niet beschikbaar",
   "MODAL_POST_ACCESS_EMPTY": "Niemand anders heeft nog toegang.",
   "MODAL_POST_ACCESS_LIST_LABEL": "Mensen met toegang",
   "MODAL_POST_ACCESS_LIMIT_REACHED": "Je kunt een post met maximaal {max} mensen delen.",

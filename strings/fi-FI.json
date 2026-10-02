@@ -428,7 +428,6 @@
   "MODAL_POST_ACCESS_SEARCH_PLACEHOLDER": "Hae henkilöitä",
   "MODAL_POST_ACCESS_NO_RESULTS": "Käyttäjiä ei löytynyt.",
   "MODAL_POST_ACCESS_ADDED": "Lisätty",
-  "MODAL_POST_ACCESS_UNAVAILABLE": "Ei saatavilla",
   "MODAL_POST_ACCESS_EMPTY": "Kenelläkään muulla ei ole vielä pääsyä.",
   "MODAL_POST_ACCESS_LIST_LABEL": "Henkilöt, joilla on pääsy",
   "MODAL_POST_ACCESS_LIMIT_REACHED": "Voit jakaa julkaisun enintään {max} henkilön kanssa.",

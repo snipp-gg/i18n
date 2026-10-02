@@ -428,7 +428,6 @@
   "MODAL_POST_ACCESS_SEARCH_PLACEHOLDER": "Cerca persone",
   "MODAL_POST_ACCESS_NO_RESULTS": "Nessun utente trovato.",
   "MODAL_POST_ACCESS_ADDED": "Aggiunto",
-  "MODAL_POST_ACCESS_UNAVAILABLE": "Non disponibile",
   "MODAL_POST_ACCESS_EMPTY": "Nessun altro ha ancora accesso.",
   "MODAL_POST_ACCESS_LIST_LABEL": "Persone con accesso",
   "MODAL_POST_ACCESS_LIMIT_REACHED": "Puoi condividere un post con un massimo di {max} persone.",

@@ -428,7 +428,6 @@
   "MODAL_POST_ACCESS_SEARCH_PLACEHOLDER": "ユーザーを検索",
   "MODAL_POST_ACCESS_NO_RESULTS": "ユーザーが見つかりません。",
   "MODAL_POST_ACCESS_ADDED": "追加済み",
-  "MODAL_POST_ACCESS_UNAVAILABLE": "利用不可",
   "MODAL_POST_ACCESS_EMPTY": "まだ他に誰もアクセスできません。",
   "MODAL_POST_ACCESS_LIST_LABEL": "アクセスできる人",
   "MODAL_POST_ACCESS_LIMIT_REACHED": "投稿を共有できるのは最大{max}人までです。",

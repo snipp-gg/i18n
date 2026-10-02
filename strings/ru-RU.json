@@ -428,7 +428,6 @@
   "MODAL_POST_ACCESS_SEARCH_PLACEHOLDER": "Поиск людей",
   "MODAL_POST_ACCESS_NO_RESULTS": "Пользователи не найдены.",
   "MODAL_POST_ACCESS_ADDED": "Добавлено",
-  "MODAL_POST_ACCESS_UNAVAILABLE": "Недоступно",
   "MODAL_POST_ACCESS_EMPTY": "Больше ни у кого пока нет доступа.",
   "MODAL_POST_ACCESS_LIST_LABEL": "Люди с доступом",
   "MODAL_POST_ACCESS_LIMIT_REACHED": "Поделиться постом можно не более чем с {max} людьми.",
