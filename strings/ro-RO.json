@@ -427,7 +427,6 @@
   "MODAL_POST_ACCESS_DESCRIPTION": "Caută după nume sau nume de utilizator pentru ca până la {max} persoane să poată deschide această postare.",
   "MODAL_POST_ACCESS_SEARCH_PLACEHOLDER": "Caută persoane",
   "MODAL_POST_ACCESS_NO_RESULTS": "Niciun utilizator găsit.",
-  "MODAL_POST_ACCESS_ADDED": "Adăugat",
   "MODAL_POST_ACCESS_EMPTY": "Nimeni altcineva nu are acces încă.",
   "MODAL_POST_ACCESS_LIST_LABEL": "Persoane cu acces",
   "MODAL_POST_ACCESS_LIMIT_REACHED": "Poți distribui o postare cu cel mult {max} persoane.",

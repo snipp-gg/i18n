@@ -427,7 +427,6 @@
   "MODAL_POST_ACCESS_DESCRIPTION": "ค้นหาด้วยชื่อหรือชื่อผู้ใช้เพื่อให้คนเปิดโพสต์นี้ได้สูงสุด {max} คน",
   "MODAL_POST_ACCESS_SEARCH_PLACEHOLDER": "ค้นหาผู้คน",
   "MODAL_POST_ACCESS_NO_RESULTS": "ไม่พบผู้ใช้",
-  "MODAL_POST_ACCESS_ADDED": "เพิ่มแล้ว",
   "MODAL_POST_ACCESS_EMPTY": "ยังไม่มีคนอื่นที่มีสิทธิ์เข้าถึง",
   "MODAL_POST_ACCESS_LIST_LABEL": "ผู้ที่มีสิทธิ์เข้าถึง",
   "MODAL_POST_ACCESS_LIMIT_REACHED": "คุณแชร์โพสต์ได้สูงสุด {max} คน",

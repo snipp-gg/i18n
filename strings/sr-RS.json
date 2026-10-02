@@ -427,7 +427,6 @@
   "MODAL_POST_ACCESS_DESCRIPTION": "Pretraži po imenu ili korisničkom imenu da bi do {max} ljudi moglo da otvori ovu objavu.",
   "MODAL_POST_ACCESS_SEARCH_PLACEHOLDER": "Pretraži ljude",
   "MODAL_POST_ACCESS_NO_RESULTS": "Nijedan korisnik nije pronađen.",
-  "MODAL_POST_ACCESS_ADDED": "Dodato",
   "MODAL_POST_ACCESS_EMPTY": "Niko drugi još nema pristup.",
   "MODAL_POST_ACCESS_LIST_LABEL": "Ljudi sa pristupom",
   "MODAL_POST_ACCESS_LIMIT_REACHED": "Objavu možeš da podeliš sa najviše {max} ljudi.",

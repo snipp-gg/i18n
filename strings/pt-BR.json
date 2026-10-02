@@ -427,7 +427,6 @@
   "MODAL_POST_ACCESS_DESCRIPTION": "Pesquise por nome ou nome de usuário para permitir que até {max} pessoas abram esta publicação.",
   "MODAL_POST_ACCESS_SEARCH_PLACEHOLDER": "Pesquisar pessoas",
   "MODAL_POST_ACCESS_NO_RESULTS": "Nenhum usuário encontrado.",
-  "MODAL_POST_ACCESS_ADDED": "Adicionado",
   "MODAL_POST_ACCESS_EMPTY": "Ninguém mais tem acesso ainda.",
   "MODAL_POST_ACCESS_LIST_LABEL": "Pessoas com acesso",
   "MODAL_POST_ACCESS_LIMIT_REACHED": "Você pode compartilhar uma publicação com até {max} pessoas.",

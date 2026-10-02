@@ -427,7 +427,6 @@
   "MODAL_POST_ACCESS_DESCRIPTION": "Шукайте за іменем або іменем користувача, щоб цей допис могли відкрити до {max} людей.",
   "MODAL_POST_ACCESS_SEARCH_PLACEHOLDER": "Пошук людей",
   "MODAL_POST_ACCESS_NO_RESULTS": "Користувачів не знайдено.",
-  "MODAL_POST_ACCESS_ADDED": "Додано",
   "MODAL_POST_ACCESS_EMPTY": "Більше ні в кого поки немає доступу.",
   "MODAL_POST_ACCESS_LIST_LABEL": "Люди з доступом",
   "MODAL_POST_ACCESS_LIMIT_REACHED": "Поділитися дописом можна не більше ніж з {max} людьми.",

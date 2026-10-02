@@ -427,7 +427,6 @@
   "MODAL_POST_ACCESS_DESCRIPTION": "Maghanap gamit ang pangalan o username para payagan ang hanggang {max} tao na buksan ang post na ito.",
   "MODAL_POST_ACCESS_SEARCH_PLACEHOLDER": "Maghanap ng tao",
   "MODAL_POST_ACCESS_NO_RESULTS": "Walang nakitang user.",
-  "MODAL_POST_ACCESS_ADDED": "Naidagdag na",
   "MODAL_POST_ACCESS_EMPTY": "Wala pang ibang may access.",
   "MODAL_POST_ACCESS_LIST_LABEL": "Mga taong may access",
   "MODAL_POST_ACCESS_LIMIT_REACHED": "Puwede mong ibahagi ang isang post sa hanggang {max} tao.",

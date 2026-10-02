@@ -427,7 +427,6 @@
   "MODAL_POST_ACCESS_DESCRIPTION": "Hľadaj podľa mena alebo používateľského mena, aby tento príspevok mohlo otvoriť až {max} ľudí.",
   "MODAL_POST_ACCESS_SEARCH_PLACEHOLDER": "Hľadať ľudí",
   "MODAL_POST_ACCESS_NO_RESULTS": "Nenašli sa žiadni používatelia.",
-  "MODAL_POST_ACCESS_ADDED": "Pridané",
   "MODAL_POST_ACCESS_EMPTY": "Nikto iný zatiaľ nemá prístup.",
   "MODAL_POST_ACCESS_LIST_LABEL": "Ľudia s prístupom",
   "MODAL_POST_ACCESS_LIMIT_REACHED": "Príspevok môžeš zdieľať najviac s {max} ľuďmi.",

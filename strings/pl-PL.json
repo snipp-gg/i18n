@@ -427,7 +427,6 @@
   "MODAL_POST_ACCESS_DESCRIPTION": "Szukaj po nazwie lub nazwie użytkownika, aby maksymalnie {max} osób mogło otworzyć ten post.",
   "MODAL_POST_ACCESS_SEARCH_PLACEHOLDER": "Szukaj osób",
   "MODAL_POST_ACCESS_NO_RESULTS": "Nie znaleziono użytkowników.",
-  "MODAL_POST_ACCESS_ADDED": "Dodano",
   "MODAL_POST_ACCESS_EMPTY": "Nikt inny nie ma jeszcze dostępu.",
   "MODAL_POST_ACCESS_LIST_LABEL": "Osoby z dostępem",
   "MODAL_POST_ACCESS_LIMIT_REACHED": "Możesz udostępnić post maksymalnie {max} osobom.",

@@ -427,7 +427,6 @@
   "MODAL_POST_ACCESS_DESCRIPTION": "Αναζητήστε με όνομα ή όνομα χρήστη για να επιτρέψετε σε έως {max} άτομα να ανοίξουν αυτήν την ανάρτηση.",
   "MODAL_POST_ACCESS_SEARCH_PLACEHOLDER": "Αναζήτηση ατόμων",
   "MODAL_POST_ACCESS_NO_RESULTS": "Δεν βρέθηκαν χρήστες.",
-  "MODAL_POST_ACCESS_ADDED": "Προστέθηκε",
   "MODAL_POST_ACCESS_EMPTY": "Κανείς άλλος δεν έχει πρόσβαση ακόμα.",
   "MODAL_POST_ACCESS_LIST_LABEL": "Άτομα με πρόσβαση",
   "MODAL_POST_ACCESS_LIMIT_REACHED": "Μπορείτε να κοινοποιήσετε μια ανάρτηση σε έως {max} άτομα.",

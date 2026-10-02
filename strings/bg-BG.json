@@ -427,7 +427,6 @@
   "MODAL_POST_ACCESS_DESCRIPTION": "Търсете по име или потребителско име, за да позволите на до {max} души да отварят тази публикация.",
   "MODAL_POST_ACCESS_SEARCH_PLACEHOLDER": "Търсене на хора",
   "MODAL_POST_ACCESS_NO_RESULTS": "Няма намерени потребители.",
-  "MODAL_POST_ACCESS_ADDED": "Добавено",
   "MODAL_POST_ACCESS_EMPTY": "Все още никой друг няма достъп.",
   "MODAL_POST_ACCESS_LIST_LABEL": "Хора с достъп",
   "MODAL_POST_ACCESS_LIMIT_REACHED": "Можете да споделите публикация с до {max} души.",

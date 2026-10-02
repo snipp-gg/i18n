@@ -427,7 +427,6 @@
   "MODAL_POST_ACCESS_DESCRIPTION": "Søk etter navn eller brukernavn for å la opptil {max} personer åpne dette innlegget.",
   "MODAL_POST_ACCESS_SEARCH_PLACEHOLDER": "Søk etter personer",
   "MODAL_POST_ACCESS_NO_RESULTS": "Ingen brukere funnet.",
-  "MODAL_POST_ACCESS_ADDED": "Lagt til",
   "MODAL_POST_ACCESS_EMPTY": "Ingen andre har tilgang ennå.",
   "MODAL_POST_ACCESS_LIST_LABEL": "Personer med tilgang",
   "MODAL_POST_ACCESS_LIMIT_REACHED": "Du kan dele et innlegg med opptil {max} personer.",

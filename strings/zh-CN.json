@@ -427,7 +427,6 @@
   "MODAL_POST_ACCESS_DESCRIPTION": "按名称或用户名搜索，最多可让 {max} 人打开此帖子。",
   "MODAL_POST_ACCESS_SEARCH_PLACEHOLDER": "搜索用户",
   "MODAL_POST_ACCESS_NO_RESULTS": "未找到用户。",
-  "MODAL_POST_ACCESS_ADDED": "已添加",
   "MODAL_POST_ACCESS_EMPTY": "还没有其他人有权访问。",
   "MODAL_POST_ACCESS_LIST_LABEL": "有权访问的人",
   "MODAL_POST_ACCESS_LIMIT_REACHED": "一条帖子最多可分享给 {max} 人。",
