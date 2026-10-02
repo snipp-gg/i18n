@@ -2137,7 +2137,7 @@
   "HOME_META_DESCRIPTION": "Ang Snipp ay isang libreng tool sa pag-upload ng screenshot at video. I-capture, i-upload, at agad na i-share ang iyong mga gaming clip at screenshot.",
   "POST_META_FALLBACK_DESCRIPTION": "{title} ni @{username} sa Snipp. Mag-upload, magbahagi, at mag-host ng iyong mga screenshot at clip nang libre.",
   "DOWNLOADS_META_TITLE": "I-download ang Snipp",
-  "DOWNLOADS_META_DESCRIPTION": "Kunin ang Snipp sa Windows, macOS, iOS, at Android. Mag-capture, mag-upload, at magbahagi ng iyong mga screenshot at clip kahit saan.",
+  "DOWNLOADS_META_DESCRIPTION": "Kunin ang Snipp sa Windows at macOS. Mag-capture, mag-upload, at magbahagi ng iyong mga screenshot at clip kahit saan.",
   "DOWNLOADS_HEADING": "I-download ang Snipp",
   "DOWNLOADS_SUBHEADING": "Mag-capture, mag-upload, at magbahagi kahit saan. May app para sa bawat platform.",
   "DOWNLOADS_COMING_SOON": "Malapit na",
