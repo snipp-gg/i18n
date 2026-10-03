@@ -1112,7 +1112,7 @@
   "POST_UNAVAILABLE_BLOCKED_AUTHOR_FALLBACK": "autora tohoto příspěvku",
   "POST_UNAVAILABLE_BLOCKED_AUTHOR_SUFFIX": ". Odblokujte ho na jeho profilu, abyste viděli jeho obsah.",
   "POST_UNAVAILABLE_MODERATED_BODY": "Tento obsah již není dostupný kvůli moderačnímu rozhodnutí Snippu.",
-  "POST_BUTTON_GO_BACK": "Zpět",
+  "COMMON_GO_BACK": "Zpět",
   "COMMON_BACK": "Zpět",
   "POST_UNAVAILABLE_GENERIC_BODY": "Tento obsah je nedostupný",
   "POST_ADD_FILES_HEADING": "Přidat soubory do alba",

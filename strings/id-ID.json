@@ -1112,7 +1112,7 @@
   "POST_UNAVAILABLE_BLOCKED_AUTHOR_FALLBACK": "pembuat postingan ini",
   "POST_UNAVAILABLE_BLOCKED_AUTHOR_SUFFIX": ". Buka blokir mereka dari profil mereka untuk melihat konten mereka.",
   "POST_UNAVAILABLE_MODERATED_BODY": "Konten ini tidak lagi tersedia karena keputusan moderasi yang diambil oleh Snipp.",
-  "POST_BUTTON_GO_BACK": "Kembali",
+  "COMMON_GO_BACK": "Kembali",
   "COMMON_BACK": "Kembali",
   "POST_UNAVAILABLE_GENERIC_BODY": "Konten ini tidak tersedia",
   "POST_ADD_FILES_HEADING": "Tambah File ke Album",

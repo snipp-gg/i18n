@@ -1112,7 +1112,7 @@
   "POST_UNAVAILABLE_BLOCKED_AUTHOR_FALLBACK": "al autor de esta publicación",
   "POST_UNAVAILABLE_BLOCKED_AUTHOR_SUFFIX": ". Desbloquéalo desde su perfil para ver su contenido.",
   "POST_UNAVAILABLE_MODERATED_BODY": "Este contenido ya no está disponible debido a una decisión de moderación tomada por Snipp.",
-  "POST_BUTTON_GO_BACK": "Volver",
+  "COMMON_GO_BACK": "Volver",
   "COMMON_BACK": "Atrás",
   "POST_UNAVAILABLE_GENERIC_BODY": "Este contenido no está disponible",
   "POST_ADD_FILES_HEADING": "Añadir archivos al álbum",

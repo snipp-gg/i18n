@@ -1112,7 +1112,7 @@
   "POST_UNAVAILABLE_BLOCKED_AUTHOR_FALLBACK": "ผู้เขียนโพสต์นี้",
   "POST_UNAVAILABLE_BLOCKED_AUTHOR_SUFFIX": " ปลดบล็อกพวกเขาจากโปรไฟล์เพื่อดูเนื้อหาของพวกเขา",
   "POST_UNAVAILABLE_MODERATED_BODY": "เนื้อหานี้ไม่พร้อมใช้งานอีกต่อไปเนื่องจากการตัดสินใจของผู้ดูแลโดย Snipp",
-  "POST_BUTTON_GO_BACK": "กลับไป",
+  "COMMON_GO_BACK": "กลับไป",
   "COMMON_BACK": "กลับ",
   "POST_UNAVAILABLE_GENERIC_BODY": "เนื้อหานี้ไม่พร้อมใช้งาน",
   "POST_ADD_FILES_HEADING": "เพิ่มไฟล์ลงในอัลบั้ม",

@@ -1112,7 +1112,7 @@
   "POST_UNAVAILABLE_BLOCKED_AUTHOR_FALLBACK": "tác giả của bài đăng này",
   "POST_UNAVAILABLE_BLOCKED_AUTHOR_SUFFIX": ". Hãy bỏ chặn họ từ hồ sơ của họ để xem nội dung.",
   "POST_UNAVAILABLE_MODERATED_BODY": "Nội dung này không còn khả dụng do quyết định kiểm duyệt của Snipp.",
-  "POST_BUTTON_GO_BACK": "Quay lại",
+  "COMMON_GO_BACK": "Quay lại",
   "COMMON_BACK": "Quay lại",
   "POST_UNAVAILABLE_GENERIC_BODY": "Nội dung này không khả dụng",
   "POST_ADD_FILES_HEADING": "Thêm tệp vào album",

@@ -1112,7 +1112,7 @@
   "POST_UNAVAILABLE_BLOCKED_AUTHOR_FALLBACK": "τον συγγραφέα αυτής της ανάρτησης",
   "POST_UNAVAILABLE_BLOCKED_AUTHOR_SUFFIX": ". Αποκλείστε τον από το προφίλ του για να δείτε το περιεχόμενό του.",
   "POST_UNAVAILABLE_MODERATED_BODY": "Αυτό το περιεχόμενο δεν είναι πλέον διαθέσιμο λόγω απόφασης συντονισμού από το Snipp.",
-  "POST_BUTTON_GO_BACK": "Επιστροφή",
+  "COMMON_GO_BACK": "Επιστροφή",
   "COMMON_BACK": "Πίσω",
   "POST_UNAVAILABLE_GENERIC_BODY": "Αυτό το περιεχόμενο δεν είναι διαθέσιμο",
   "POST_ADD_FILES_HEADING": "Προσθήκη Αρχείων στο Album",

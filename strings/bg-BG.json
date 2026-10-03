@@ -1112,7 +1112,7 @@
   "POST_UNAVAILABLE_BLOCKED_AUTHOR_FALLBACK": "автора на тази публикация",
   "POST_UNAVAILABLE_BLOCKED_AUTHOR_SUFFIX": ". Отблокирайте го от профила му, за да видите съдържанието му.",
   "POST_UNAVAILABLE_MODERATED_BODY": "Това съдържание вече не е налично поради решение за модериране, взето от Snipp.",
-  "POST_BUTTON_GO_BACK": "Назад",
+  "COMMON_GO_BACK": "Назад",
   "COMMON_BACK": "Назад",
   "POST_UNAVAILABLE_GENERIC_BODY": "Това съдържание не е налично",
   "POST_ADD_FILES_HEADING": "Добавяне на файлове към албума",

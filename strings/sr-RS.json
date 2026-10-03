@@ -1112,7 +1112,7 @@
   "POST_UNAVAILABLE_BLOCKED_AUTHOR_FALLBACK": "autora ove objave",
   "POST_UNAVAILABLE_BLOCKED_AUTHOR_SUFFIX": ". Odblokirajte ga sa njegovog profila da biste videli njegov sadržaj.",
   "POST_UNAVAILABLE_MODERATED_BODY": "Ovaj sadržaj više nije dostupan zbog odluke o moderaciji koju je doneo Snipp.",
-  "POST_BUTTON_GO_BACK": "Vrati se",
+  "COMMON_GO_BACK": "Vrati se",
   "COMMON_BACK": "Nazad",
   "POST_UNAVAILABLE_GENERIC_BODY": "Ovaj sadržaj je nedostupan",
   "POST_ADD_FILES_HEADING": "Dodaj fajlove u album",

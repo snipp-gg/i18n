@@ -1112,7 +1112,7 @@
   "POST_UNAVAILABLE_BLOCKED_AUTHOR_FALLBACK": "de maker van deze post",
   "POST_UNAVAILABLE_BLOCKED_AUTHOR_SUFFIX": " geblokkeerd. Deblokkeer hen vanaf hun profiel om hun content te bekijken.",
   "POST_UNAVAILABLE_MODERATED_BODY": "Deze content is niet langer beschikbaar vanwege een moderatiebeslissing van Snipp.",
-  "POST_BUTTON_GO_BACK": "Terug",
+  "COMMON_GO_BACK": "Terug",
   "COMMON_BACK": "Terug",
   "POST_UNAVAILABLE_GENERIC_BODY": "Deze content is niet beschikbaar",
   "POST_ADD_FILES_HEADING": "Bestanden aan album toevoegen",

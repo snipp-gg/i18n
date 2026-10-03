@@ -1112,7 +1112,7 @@
   "POST_UNAVAILABLE_BLOCKED_AUTHOR_FALLBACK": "bu gönderinin yazarını",
   "POST_UNAVAILABLE_BLOCKED_AUTHOR_SUFFIX": " adlı kullanıcıyı engellediniz. İçeriğini görüntülemek için profilinden engellemeyi kaldırın.",
   "POST_UNAVAILABLE_MODERATED_BODY": "Bu içerik, Snipp tarafından alınan bir denetim kararı nedeniyle artık kullanılamıyor.",
-  "POST_BUTTON_GO_BACK": "Geri dön",
+  "COMMON_GO_BACK": "Geri dön",
   "COMMON_BACK": "Geri",
   "POST_UNAVAILABLE_GENERIC_BODY": "Bu içerik kullanılamıyor",
   "POST_ADD_FILES_HEADING": "Albüme dosya ekle",

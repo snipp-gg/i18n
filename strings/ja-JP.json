@@ -1112,7 +1112,7 @@
   "POST_UNAVAILABLE_BLOCKED_AUTHOR_FALLBACK": "この投稿の作成者",
   "POST_UNAVAILABLE_BLOCKED_AUTHOR_SUFFIX": " をブロックしています。コンテンツを閲覧するには、そのプロフィールからブロックを解除してください。",
   "POST_UNAVAILABLE_MODERATED_BODY": "このコンテンツは、Snipp によるモデレーションの判断により、現在利用できません。",
-  "POST_BUTTON_GO_BACK": "戻る",
+  "COMMON_GO_BACK": "戻る",
   "COMMON_BACK": "戻る",
   "POST_UNAVAILABLE_GENERIC_BODY": "このコンテンツは利用できません",
   "POST_ADD_FILES_HEADING": "アルバムにファイルを追加",

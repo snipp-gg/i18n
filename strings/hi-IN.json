@@ -1112,7 +1112,7 @@
   "POST_UNAVAILABLE_BLOCKED_AUTHOR_FALLBACK": "इस पोस्ट के लेखक को",
   "POST_UNAVAILABLE_BLOCKED_AUTHOR_SUFFIX": "। उनका कंटेंट देखने के लिए उन्हें उनकी प्रोफ़ाइल से अनब्लॉक करें।",
   "POST_UNAVAILABLE_MODERATED_BODY": "Snipp द्वारा लिए गए मॉडरेशन निर्णय के कारण यह कंटेंट अब उपलब्ध नहीं है।",
-  "POST_BUTTON_GO_BACK": "वापस जाएँ",
+  "COMMON_GO_BACK": "वापस जाएँ",
   "COMMON_BACK": "वापस",
   "POST_UNAVAILABLE_GENERIC_BODY": "यह कंटेंट उपलब्ध नहीं है",
   "POST_ADD_FILES_HEADING": "एल्बम में फ़ाइलें जोड़ें",

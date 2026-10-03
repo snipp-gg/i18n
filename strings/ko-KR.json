@@ -1112,7 +1112,7 @@
   "POST_UNAVAILABLE_BLOCKED_AUTHOR_FALLBACK": "이 게시물의 작성자",
   "POST_UNAVAILABLE_BLOCKED_AUTHOR_SUFFIX": " 님을 차단했습니다. 콘텐츠를 보려면 작성자의 프로필에서 차단을 해제하세요.",
   "POST_UNAVAILABLE_MODERATED_BODY": "Snipp의 검열 결정에 따라 이 콘텐츠는 더 이상 사용할 수 없습니다.",
-  "POST_BUTTON_GO_BACK": "뒤로 가기",
+  "COMMON_GO_BACK": "뒤로 가기",
   "COMMON_BACK": "뒤로",
   "POST_UNAVAILABLE_GENERIC_BODY": "이 콘텐츠를 사용할 수 없습니다",
   "POST_ADD_FILES_HEADING": "앨범에 파일 추가",
