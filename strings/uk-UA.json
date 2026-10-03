@@ -1112,7 +1112,7 @@
   "POST_UNAVAILABLE_BLOCKED_AUTHOR_FALLBACK": "the author of this post",
   "POST_UNAVAILABLE_BLOCKED_AUTHOR_SUFFIX": ". Unblock them from their profile to view their content.",
   "POST_UNAVAILABLE_MODERATED_BODY": "Цей вміст більше недоступний через рішення про модерацію, ухвалене Snipp.",
-  "POST_BUTTON_GO_BACK": "Go Back",
+  "COMMON_GO_BACK": "Go Back",
   "COMMON_BACK": "Назад",
   "POST_UNAVAILABLE_GENERIC_BODY": "Цей вміст недоступний",
   "POST_ADD_FILES_HEADING": "Add Files to Album",
