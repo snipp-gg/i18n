@@ -1112,7 +1112,7 @@
   "POST_UNAVAILABLE_BLOCKED_AUTHOR_FALLBACK": "the author of this post",
   "POST_UNAVAILABLE_BLOCKED_AUTHOR_SUFFIX": ". Unblock them from their profile to view their content.",
   "POST_UNAVAILABLE_MODERATED_BODY": "Det här innehållet är inte längre tillgängligt på grund av ett modereringsbeslut som tagits av Snipp.",
-  "POST_BUTTON_GO_BACK": "Go Back",
+  "COMMON_GO_BACK": "Go Back",
   "COMMON_BACK": "Tillbaka",
   "POST_UNAVAILABLE_GENERIC_BODY": "Det här innehållet är inte tillgängligt",
   "POST_ADD_FILES_HEADING": "Add Files to Album",
