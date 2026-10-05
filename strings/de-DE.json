@@ -192,8 +192,6 @@
   "GIFT_GIFTED_BODY_YEAR": "Once you accept you'll have {tier} for {count} years.",
   "GIFT_GIFTED_BODY_YEAR_ONE": "Once you accept you'll have {tier} for {count} year.",
   "GIFT_ACCEPT_BUTTON": "Annehmen",
-  "GIFT_CLAIMING_HEADING": "Geschenk wird eingelöst...",
-  "GIFT_CLAIMING_BODY": "Einen Moment, das dauert nur eine Sekunde.",
   "GIFT_LOGIN_BUTTON": "Log In to Claim",
   "GIFT_CLAIMED_HEADING": "{tier} freigeschaltet!",
   "GIFT_CLAIMED_BODY": "{tier} wurde deinem Konto hinzugefügt.",
