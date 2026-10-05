@@ -192,8 +192,6 @@
   "GIFT_GIFTED_BODY_YEAR": "Once you accept you'll have {tier} for {count} years.",
   "GIFT_GIFTED_BODY_YEAR_ONE": "Once you accept you'll have {tier} for {count} year.",
   "GIFT_ACCEPT_BUTTON": "Принять",
-  "GIFT_CLAIMING_HEADING": "Получение подарка...",
-  "GIFT_CLAIMING_BODY": "Подождите, это займет всего секунду.",
   "GIFT_LOGIN_BUTTON": "Log In to Claim",
   "GIFT_CLAIMED_HEADING": "{tier} разблокирован!",
   "GIFT_CLAIMED_BODY": "{tier} добавлен к вашему аккаунту.",
