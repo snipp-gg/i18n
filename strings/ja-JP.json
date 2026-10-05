@@ -192,8 +192,6 @@
   "GIFT_GIFTED_BODY_YEAR": "Once you accept you'll have {tier} for {count} years.",
   "GIFT_GIFTED_BODY_YEAR_ONE": "Once you accept you'll have {tier} for {count} year.",
   "GIFT_ACCEPT_BUTTON": "受け取る",
-  "GIFT_CLAIMING_HEADING": "ギフトを受け取り中...",
-  "GIFT_CLAIMING_BODY": "少々お待ちください。すぐ完了します。",
   "GIFT_LOGIN_BUTTON": "Log In to Claim",
   "GIFT_CLAIMED_HEADING": "{tier} のロックを解除しました！",
   "GIFT_CLAIMED_BODY": "{tier} があなたのアカウントに追加されました。",
