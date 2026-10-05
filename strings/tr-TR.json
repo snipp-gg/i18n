@@ -192,8 +192,6 @@
   "GIFT_GIFTED_BODY_YEAR": "Once you accept you'll have {tier} for {count} years.",
   "GIFT_GIFTED_BODY_YEAR_ONE": "Once you accept you'll have {tier} for {count} year.",
   "GIFT_ACCEPT_BUTTON": "Kabul Et",
-  "GIFT_CLAIMING_HEADING": "Hediyen alınıyor...",
-  "GIFT_CLAIMING_BODY": "Bekle, sadece bir saniye sürer.",
   "GIFT_LOGIN_BUTTON": "Log In to Claim",
   "GIFT_CLAIMED_HEADING": "{tier} açıldı!",
   "GIFT_CLAIMED_BODY": "{tier} hesabına eklendi.",
