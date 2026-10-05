@@ -192,8 +192,6 @@
   "GIFT_GIFTED_BODY_YEAR": "Kun hyväksyt, sinulla on {tier} {count} vuoden ajan.",
   "GIFT_GIFTED_BODY_YEAR_ONE": "Kun hyväksyt, sinulla on {tier} {count} vuoden ajan.",
   "GIFT_ACCEPT_BUTTON": "Hyväksy",
-  "GIFT_CLAIMING_HEADING": "Tarkistetaan lahjaasi...",
-  "GIFT_CLAIMING_BODY": "Hetki pieni, tämä kestää vain sekunnin.",
   "GIFT_LOGIN_BUTTON": "Kirjaudu sisään lunastaaksesi",
   "GIFT_CLAIMED_HEADING": "{tier} avattu!",
   "GIFT_CLAIMED_BODY": "{tier} on lisätty tilillesi.",

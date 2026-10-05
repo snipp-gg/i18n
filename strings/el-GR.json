@@ -192,8 +192,6 @@
   "GIFT_GIFTED_BODY_YEAR": "Μόλις το αποδεχτείτε θα έχετε {tier} για {count} χρόνια.",
   "GIFT_GIFTED_BODY_YEAR_ONE": "Μόλις το αποδεχτείτε θα έχετε {tier} για {count} χρόνο.",
   "GIFT_ACCEPT_BUTTON": "Αποδοχή",
-  "GIFT_CLAIMING_HEADING": "Έλεγχος του δώρου σας...",
-  "GIFT_CLAIMING_BODY": "Περιμένετε λίγο, θα πάρει μόνο ένα δευτερόλεπτο.",
   "GIFT_LOGIN_BUTTON": "Συνδεθείτε για Διεκδίκηση",
   "GIFT_CLAIMED_HEADING": "Το {tier} ξεκλειδώθηκε!",
   "GIFT_CLAIMED_BODY": "Το {tier} προστέθηκε στον λογαριασμό σας.",

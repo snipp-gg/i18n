@@ -192,8 +192,6 @@
   "GIFT_GIFTED_BODY_YEAR": "Nakon što prihvatiš, imat ćeš {tier} {count} godina.",
   "GIFT_GIFTED_BODY_YEAR_ONE": "Nakon što prihvatiš, imat ćeš {tier} {count} godinu.",
   "GIFT_ACCEPT_BUTTON": "Prihvati",
-  "GIFT_CLAIMING_HEADING": "Provjera tvog poklona...",
-  "GIFT_CLAIMING_BODY": "Pričekaj, ovo traje samo sekundu.",
   "GIFT_LOGIN_BUTTON": "Prijavi se za preuzimanje",
   "GIFT_CLAIMED_HEADING": "{tier} otključan!",
   "GIFT_CLAIMED_BODY": "{tier} je dodan tvom računu.",

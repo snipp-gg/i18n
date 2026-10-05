@@ -192,8 +192,6 @@
   "GIFT_GIFTED_BODY_YEAR": "เมื่อคุณยอมรับ คุณจะได้รับ {tier} เป็นเวลา {count} ปี",
   "GIFT_GIFTED_BODY_YEAR_ONE": "เมื่อคุณยอมรับ คุณจะได้รับ {tier} เป็นเวลา {count} ปี",
   "GIFT_ACCEPT_BUTTON": "ยอมรับ",
-  "GIFT_CLAIMING_HEADING": "กำลังรับของขวัญของคุณ...",
-  "GIFT_CLAIMING_BODY": "รอสักครู่ ใช้เวลาเพียงวินาทีเดียว",
   "GIFT_LOGIN_BUTTON": "เข้าสู่ระบบเพื่อรับ",
   "GIFT_CLAIMED_HEADING": "ปลดล็อก {tier} แล้ว!",
   "GIFT_CLAIMED_BODY": "เพิ่ม {tier} ลงในบัญชีของคุณแล้ว",

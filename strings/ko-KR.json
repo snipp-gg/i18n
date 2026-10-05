@@ -192,8 +192,6 @@
   "GIFT_GIFTED_BODY_YEAR": "수락하면 {count}년 동안 {tier}를 사용할 수 있습니다.",
   "GIFT_GIFTED_BODY_YEAR_ONE": "수락하면 {count}년 동안 {tier}를 사용할 수 있습니다.",
   "GIFT_ACCEPT_BUTTON": "수락",
-  "GIFT_CLAIMING_HEADING": "선물을 확인하는 중...",
-  "GIFT_CLAIMING_BODY": "잠시만 기다려 주세요. 금방 끝납니다.",
   "GIFT_LOGIN_BUTTON": "로그인하고 받기",
   "GIFT_CLAIMED_HEADING": "{tier} 잠금 해제!",
   "GIFT_CLAIMED_BODY": "{tier}가 계정에 추가되었습니다.",

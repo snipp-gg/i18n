@@ -192,8 +192,6 @@
   "GIFT_GIFTED_BODY_YEAR": "Po prijatí budeš mať {tier} na {count} rokov.",
   "GIFT_GIFTED_BODY_YEAR_ONE": "Po prijatí budeš mať {tier} na {count} rok.",
   "GIFT_ACCEPT_BUTTON": "Prijať",
-  "GIFT_CLAIMING_HEADING": "Kontrolujeme tvoj darček...",
-  "GIFT_CLAIMING_BODY": "Vydrž, potrvá to len sekundu.",
   "GIFT_LOGIN_BUTTON": "Prihlás sa na vyzdvihnutie",
   "GIFT_CLAIMED_HEADING": "{tier} odomknuté!",
   "GIFT_CLAIMED_BODY": "{tier} bolo pridané na tvoj účet.",

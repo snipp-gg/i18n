@@ -192,8 +192,6 @@
   "GIFT_GIFTED_BODY_YEAR": "Ao aceitar, você terá {tier} por {count} anos.",
   "GIFT_GIFTED_BODY_YEAR_ONE": "Ao aceitar, você terá {tier} por {count} ano.",
   "GIFT_ACCEPT_BUTTON": "Aceitar",
-  "GIFT_CLAIMING_HEADING": "Resgatando seu presente...",
-  "GIFT_CLAIMING_BODY": "Aguarde, leva apenas um segundo.",
   "GIFT_LOGIN_BUTTON": "Entre para resgatar",
   "GIFT_CLAIMED_HEADING": "{tier} desbloqueado!",
   "GIFT_CLAIMED_BODY": "{tier} foi adicionado à sua conta.",

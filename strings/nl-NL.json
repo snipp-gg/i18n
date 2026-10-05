@@ -192,8 +192,6 @@
   "GIFT_GIFTED_BODY_YEAR": "Zodra je accepteert, heb je {count} jaar lang {tier}.",
   "GIFT_GIFTED_BODY_YEAR_ONE": "Zodra je accepteert, heb je {count} jaar lang {tier}.",
   "GIFT_ACCEPT_BUTTON": "Accepteren",
-  "GIFT_CLAIMING_HEADING": "Je cadeau controleren...",
-  "GIFT_CLAIMING_BODY": "Even geduld, dit duurt maar een seconde.",
   "GIFT_LOGIN_BUTTON": "Inloggen om te claimen",
   "GIFT_CLAIMED_HEADING": "{tier} ontgrendeld!",
   "GIFT_CLAIMED_BODY": "{tier} is toegevoegd aan je account.",

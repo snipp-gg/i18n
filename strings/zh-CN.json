@@ -192,8 +192,6 @@
   "GIFT_GIFTED_BODY_YEAR": "接受后，您将获得 {tier} 等级，有效期为 {count} 年。",
   "GIFT_GIFTED_BODY_YEAR_ONE": "接受后，您将获得 {tier} 等级，有效期为 {count} 年。",
   "GIFT_ACCEPT_BUTTON": "接受",
-  "GIFT_CLAIMING_HEADING": "正在领取您的礼物...",
-  "GIFT_CLAIMING_BODY": "请稍候，这只需要几秒钟。",
   "GIFT_LOGIN_BUTTON": "登录以领取",
   "GIFT_CLAIMED_HEADING": "{tier} 已解锁！",
   "GIFT_CLAIMED_BODY": "{tier} 已添加到您的账户。",

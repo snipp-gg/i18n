@@ -192,8 +192,6 @@
   "GIFT_GIFTED_BODY_YEAR": "स्वीकार करने के बाद आपके पास {count} सालों के लिए {tier} होगा।",
   "GIFT_GIFTED_BODY_YEAR_ONE": "स्वीकार करने के बाद आपके पास {count} साल के लिए {tier} होगा।",
   "GIFT_ACCEPT_BUTTON": "स्वीकार करें",
-  "GIFT_CLAIMING_HEADING": "आपका गिफ्ट जाँचा जा रहा है...",
-  "GIFT_CLAIMING_BODY": "थोड़ा रुकिए, इसमें बस एक पल लगेगा।",
   "GIFT_LOGIN_BUTTON": "क्लेम करने के लिए लॉग इन करें",
   "GIFT_CLAIMED_HEADING": "{tier} अनलॉक हो गया!",
   "GIFT_CLAIMED_BODY": "{tier} आपके अकाउंट में जोड़ दिया गया है।",

@@ -192,8 +192,6 @@
   "GIFT_GIFTED_BODY_YEAR": "След като приемете, ще имате {tier} за {count} години.",
   "GIFT_GIFTED_BODY_YEAR_ONE": "След като приемете, ще имате {tier} за {count} година.",
   "GIFT_ACCEPT_BUTTON": "Приемане",
-  "GIFT_CLAIMING_HEADING": "Проверяваме подаръка ви...",
-  "GIFT_CLAIMING_BODY": "Изчакайте, това отнема само секунда.",
   "GIFT_LOGIN_BUTTON": "Влезте, за да получите",
   "GIFT_CLAIMED_HEADING": "{tier} е отключен!",
   "GIFT_CLAIMED_BODY": "{tier} е добавен към акаунта ви.",

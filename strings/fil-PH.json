@@ -192,8 +192,6 @@
   "GIFT_GIFTED_BODY_YEAR": "Kapag tinanggap mo, magkakaroon ka ng {tier} sa loob ng {count} na taon.",
   "GIFT_GIFTED_BODY_YEAR_ONE": "Kapag tinanggap mo, magkakaroon ka ng {tier} sa loob ng {count} taon.",
   "GIFT_ACCEPT_BUTTON": "Tanggapin",
-  "GIFT_CLAIMING_HEADING": "Kina-claim ang iyong gift...",
-  "GIFT_CLAIMING_BODY": "Maghintay lang, ilang segundo lang ito.",
   "GIFT_LOGIN_BUTTON": "Mag-log In para I-claim",
   "GIFT_CLAIMED_HEADING": "Na-unlock ang {tier}!",
   "GIFT_CLAIMED_BODY": "Naidagdag na ang {tier} sa iyong account.",

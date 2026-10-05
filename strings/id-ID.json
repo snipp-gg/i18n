@@ -192,8 +192,6 @@
   "GIFT_GIFTED_BODY_YEAR": "Setelah menerima, Anda akan mendapatkan {tier} selama {count} tahun.",
   "GIFT_GIFTED_BODY_YEAR_ONE": "Setelah menerima, Anda akan mendapatkan {tier} selama {count} tahun.",
   "GIFT_ACCEPT_BUTTON": "Terima",
-  "GIFT_CLAIMING_HEADING": "Memeriksa hadiah Anda...",
-  "GIFT_CLAIMING_BODY": "Tunggu sebentar, ini hanya butuh satu detik.",
   "GIFT_LOGIN_BUTTON": "Masuk untuk Klaim",
   "GIFT_CLAIMED_HEADING": "{tier} terbuka!",
   "GIFT_CLAIMED_BODY": "{tier} telah ditambahkan ke akun Anda.",

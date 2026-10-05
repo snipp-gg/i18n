@@ -192,8 +192,6 @@
   "GIFT_GIFTED_BODY_YEAR": "Når du godtar, vil du ha {tier} i {count} år.",
   "GIFT_GIFTED_BODY_YEAR_ONE": "Når du godtar, vil du ha {tier} i {count} år.",
   "GIFT_ACCEPT_BUTTON": "Godta",
-  "GIFT_CLAIMING_HEADING": "Sjekker gaven din...",
-  "GIFT_CLAIMING_BODY": "Hold ut, dette tar bare et øyeblikk.",
   "GIFT_LOGIN_BUTTON": "Logg inn for å hente",
   "GIFT_CLAIMED_HEADING": "{tier} låst opp!",
   "GIFT_CLAIMED_BODY": "{tier} er lagt til på kontoen din.",

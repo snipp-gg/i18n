@@ -192,8 +192,6 @@
   "GIFT_GIFTED_BODY_YEAR": "După ce accepți, vei avea {tier} timp de {count} ani.",
   "GIFT_GIFTED_BODY_YEAR_ONE": "După ce accepți, vei avea {tier} timp de {count} an.",
   "GIFT_ACCEPT_BUTTON": "Acceptă",
-  "GIFT_CLAIMING_HEADING": "Îți verificăm cadoul...",
-  "GIFT_CLAIMING_BODY": "Stai pe loc, durează doar o secundă.",
   "GIFT_LOGIN_BUTTON": "Conectează-te pentru a revendica",
   "GIFT_CLAIMED_HEADING": "{tier} deblocat!",
   "GIFT_CLAIMED_BODY": "{tier} a fost adăugat în contul tău.",

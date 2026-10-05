@@ -192,8 +192,6 @@
   "GIFT_GIFTED_BODY_YEAR": "Sau khi chấp nhận, bạn sẽ có {tier} trong {count} năm.",
   "GIFT_GIFTED_BODY_YEAR_ONE": "Sau khi chấp nhận, bạn sẽ có {tier} trong {count} năm.",
   "GIFT_ACCEPT_BUTTON": "Chấp nhận",
-  "GIFT_CLAIMING_HEADING": "Đang kiểm tra quà của bạn...",
-  "GIFT_CLAIMING_BODY": "Chờ chút nhé, chỉ mất một giây thôi.",
   "GIFT_LOGIN_BUTTON": "Đăng nhập để nhận",
   "GIFT_CLAIMED_HEADING": "Đã mở khóa {tier}!",
   "GIFT_CLAIMED_BODY": "Đã thêm {tier} vào tài khoản của bạn.",

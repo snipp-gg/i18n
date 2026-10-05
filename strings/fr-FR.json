@@ -192,8 +192,6 @@
   "GIFT_GIFTED_BODY_YEAR": "Une fois accepté, vous aurez {tier} pendant {count} ans.",
   "GIFT_GIFTED_BODY_YEAR_ONE": "Une fois accepté, vous aurez {tier} pendant {count} an.",
   "GIFT_ACCEPT_BUTTON": "Accepter",
-  "GIFT_CLAIMING_HEADING": "Réclamation de votre cadeau...",
-  "GIFT_CLAIMING_BODY": "Patientez, cela ne prend qu'une seconde.",
   "GIFT_LOGIN_BUTTON": "Connectez-vous pour réclamer",
   "GIFT_CLAIMED_HEADING": "{tier} débloqué !",
   "GIFT_CLAIMED_BODY": "{tier} a été ajouté à votre compte.",
