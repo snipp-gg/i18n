@@ -192,8 +192,6 @@
   "GIFT_GIFTED_BODY_YEAR": "Once you accept you'll have {tier} for {count} years.",
   "GIFT_GIFTED_BODY_YEAR_ONE": "Once you accept you'll have {tier} for {count} year.",
   "GIFT_ACCEPT_BUTTON": "Acceptera",
-  "GIFT_CLAIMING_HEADING": "Hämtar din present...",
-  "GIFT_CLAIMING_BODY": "Vänta lite, det tar bara en sekund.",
   "GIFT_LOGIN_BUTTON": "Log In to Claim",
   "GIFT_CLAIMED_HEADING": "{tier} upplåst!",
   "GIFT_CLAIMED_BODY": "{tier} har lagts till på ditt konto.",
