@@ -2027,6 +2027,7 @@
   "SETTINGS_TEAMS_CONFIRM_LEAVE": "You will lose access to this team's gallery. You can rejoin with a new invite.",
   "SETTINGS_TEAMS_INVITES_HEADING": "Invite Links",
   "SETTINGS_TEAMS_INVITES_DESCRIPTION": "Share an invite link to add members to this team.",
+  "SETTINGS_TEAMS_INVITES_EMPTY_HINT": "This team has no invite links yet.",
   "SETTINGS_TEAMS_CREATE_INVITE": "Create Invite",
   "SETTINGS_TEAMS_COPY_INVITE": "Copy invite link",
   "SETTINGS_TEAMS_REVOKE_INVITE": "Revoke invite",
