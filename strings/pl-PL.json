@@ -2027,6 +2027,7 @@
   "SETTINGS_TEAMS_CONFIRM_LEAVE": "Utracisz dostęp do galerii tego zespołu. Możesz dołączyć ponownie z nowym zaproszeniem.",
   "SETTINGS_TEAMS_INVITES_HEADING": "Linki z zaproszeniem",
   "SETTINGS_TEAMS_INVITES_DESCRIPTION": "Udostępnij link z zaproszeniem, aby dodać członków do tego zespołu.",
+  "SETTINGS_TEAMS_INVITES_EMPTY_HINT": "Ten zespół nie ma jeszcze żadnych linków z zaproszeniem.",
   "SETTINGS_TEAMS_CREATE_INVITE": "Utwórz zaproszenie",
   "SETTINGS_TEAMS_COPY_INVITE": "Kopiuj link z zaproszeniem",
   "SETTINGS_TEAMS_REVOKE_INVITE": "Cofnij zaproszenie",

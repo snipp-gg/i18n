@@ -2027,6 +2027,7 @@
   "SETTINGS_TEAMS_CONFIRM_LEAVE": "Perderá acesso à galeria desta equipa. Pode voltar a entrar com um novo convite.",
   "SETTINGS_TEAMS_INVITES_HEADING": "Links de Convite",
   "SETTINGS_TEAMS_INVITES_DESCRIPTION": "Partilhe um link de convite para adicionar membros a esta equipa.",
+  "SETTINGS_TEAMS_INVITES_EMPTY_HINT": "Esta equipa ainda não tem links de convite.",
   "SETTINGS_TEAMS_CREATE_INVITE": "Criar Convite",
   "SETTINGS_TEAMS_COPY_INVITE": "Copiar link de convite",
   "SETTINGS_TEAMS_REVOKE_INVITE": "Revogar convite",

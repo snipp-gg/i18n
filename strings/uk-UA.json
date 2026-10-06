@@ -2027,6 +2027,7 @@
   "SETTINGS_TEAMS_CONFIRM_LEAVE": "Ви втратите доступ до галереї цієї команди. Ви можете приєднатися знову за новим запрошенням.",
   "SETTINGS_TEAMS_INVITES_HEADING": "Посилання-запрошення",
   "SETTINGS_TEAMS_INVITES_DESCRIPTION": "Поділіться посиланням-запрошенням, щоб додати учасників до цієї команди.",
+  "SETTINGS_TEAMS_INVITES_EMPTY_HINT": "У цій команді ще немає посилань-запрошень.",
   "SETTINGS_TEAMS_CREATE_INVITE": "Створити запрошення",
   "SETTINGS_TEAMS_COPY_INVITE": "Скопіювати посилання-запрошення",
   "SETTINGS_TEAMS_REVOKE_INVITE": "Відкликати запрошення",

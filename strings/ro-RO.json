@@ -2027,6 +2027,7 @@
   "SETTINGS_TEAMS_CONFIRM_LEAVE": "Vei pierde accesul la galeria acestei echipe. Te poți alătura din nou cu o invitație nouă.",
   "SETTINGS_TEAMS_INVITES_HEADING": "Linkuri de invitație",
   "SETTINGS_TEAMS_INVITES_DESCRIPTION": "Distribuie un link de invitație pentru a adăuga membri în această echipă.",
+  "SETTINGS_TEAMS_INVITES_EMPTY_HINT": "Această echipă nu are încă linkuri de invitație.",
   "SETTINGS_TEAMS_CREATE_INVITE": "Creează invitație",
   "SETTINGS_TEAMS_COPY_INVITE": "Copiază linkul de invitație",
   "SETTINGS_TEAMS_REVOKE_INVITE": "Revocă invitația",

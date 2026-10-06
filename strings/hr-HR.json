@@ -2027,6 +2027,7 @@
   "SETTINGS_TEAMS_CONFIRM_LEAVE": "Izgubit ćeš pristup galeriji ovog tima. Možeš se ponovno pridružiti s novim pozivom.",
   "SETTINGS_TEAMS_INVITES_HEADING": "Poveznice za poziv",
   "SETTINGS_TEAMS_INVITES_DESCRIPTION": "Podijeli poveznicu za poziv kako bi dodao članove u ovaj tim.",
+  "SETTINGS_TEAMS_INVITES_EMPTY_HINT": "Ovaj tim još nema poveznica za poziv.",
   "SETTINGS_TEAMS_CREATE_INVITE": "Izradi poziv",
   "SETTINGS_TEAMS_COPY_INVITE": "Kopiraj poveznicu za poziv",
   "SETTINGS_TEAMS_REVOKE_INVITE": "Opozovi poziv",

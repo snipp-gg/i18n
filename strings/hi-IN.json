@@ -2027,6 +2027,7 @@
   "SETTINGS_TEAMS_CONFIRM_LEAVE": "आप इस टीम की गैलरी का एक्सेस खो देंगे। आप किसी नए इन्वाइट से दोबारा जुड़ सकते हैं।",
   "SETTINGS_TEAMS_INVITES_HEADING": "इन्वाइट लिंक",
   "SETTINGS_TEAMS_INVITES_DESCRIPTION": "इस टीम में मेंबर जोड़ने के लिए एक इन्वाइट लिंक शेयर करें।",
+  "SETTINGS_TEAMS_INVITES_EMPTY_HINT": "इस टीम में अभी तक कोई इन्वाइट लिंक नहीं है।",
   "SETTINGS_TEAMS_CREATE_INVITE": "इन्वाइट बनाएँ",
   "SETTINGS_TEAMS_COPY_INVITE": "इन्वाइट लिंक कॉपी करें",
   "SETTINGS_TEAMS_REVOKE_INVITE": "इन्वाइट रद्द करें",

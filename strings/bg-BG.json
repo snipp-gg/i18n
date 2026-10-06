@@ -2027,6 +2027,7 @@
   "SETTINGS_TEAMS_CONFIRM_LEAVE": "Ще загубите достъп до галерията на този отбор. Можете да се присъедините отново с нова покана.",
   "SETTINGS_TEAMS_INVITES_HEADING": "Връзки за покана",
   "SETTINGS_TEAMS_INVITES_DESCRIPTION": "Споделете връзка за покана, за да добавите членове към този отбор.",
+  "SETTINGS_TEAMS_INVITES_EMPTY_HINT": "Този отбор още няма връзки за покана.",
   "SETTINGS_TEAMS_CREATE_INVITE": "Създаване на покана",
   "SETTINGS_TEAMS_COPY_INVITE": "Копиране на връзката за покана",
   "SETTINGS_TEAMS_REVOKE_INVITE": "Отмяна на поканата",

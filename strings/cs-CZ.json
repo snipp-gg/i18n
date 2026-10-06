@@ -2027,6 +2027,7 @@
   "SETTINGS_TEAMS_CONFIRM_LEAVE": "Ztratíte přístup ke galerii tohoto týmu. Znovu se můžete připojit s novou pozvánkou.",
   "SETTINGS_TEAMS_INVITES_HEADING": "Odkazy s pozvánkou",
   "SETTINGS_TEAMS_INVITES_DESCRIPTION": "Sdílejte odkaz s pozvánkou a přidejte do tohoto týmu členy.",
+  "SETTINGS_TEAMS_INVITES_EMPTY_HINT": "Tento tým zatím nemá žádné odkazy s pozvánkou.",
   "SETTINGS_TEAMS_CREATE_INVITE": "Vytvořit pozvánku",
   "SETTINGS_TEAMS_COPY_INVITE": "Kopírovat odkaz s pozvánkou",
   "SETTINGS_TEAMS_REVOKE_INVITE": "Zrušit pozvánku",

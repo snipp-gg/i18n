@@ -2027,6 +2027,7 @@
   "SETTINGS_TEAMS_CONFIRM_LEAVE": "Menetät pääsyn tämän tiimin galleriaan. Voit liittyä uudelleen uudella kutsulla.",
   "SETTINGS_TEAMS_INVITES_HEADING": "Kutsulinkit",
   "SETTINGS_TEAMS_INVITES_DESCRIPTION": "Jaa kutsulinkki lisätäksesi jäseniä tähän tiimiin.",
+  "SETTINGS_TEAMS_INVITES_EMPTY_HINT": "Tällä tiimillä ei ole vielä kutsulinkkejä.",
   "SETTINGS_TEAMS_CREATE_INVITE": "Luo kutsu",
   "SETTINGS_TEAMS_COPY_INVITE": "Kopioi kutsulinkki",
   "SETTINGS_TEAMS_REVOKE_INVITE": "Peruuta kutsu",

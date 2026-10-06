@@ -2027,6 +2027,7 @@
   "SETTINGS_TEAMS_CONFIRM_LEAVE": "Вы потеряете доступ к галерее этой команды. Вы можете снова присоединиться по новому приглашению.",
   "SETTINGS_TEAMS_INVITES_HEADING": "Пригласительные ссылки",
   "SETTINGS_TEAMS_INVITES_DESCRIPTION": "Поделитесь пригласительной ссылкой, чтобы добавить участников в эту команду.",
+  "SETTINGS_TEAMS_INVITES_EMPTY_HINT": "В этой команде пока нет пригласительных ссылок.",
   "SETTINGS_TEAMS_CREATE_INVITE": "Создать приглашение",
   "SETTINGS_TEAMS_COPY_INVITE": "Скопировать пригласительную ссылку",
   "SETTINGS_TEAMS_REVOKE_INVITE": "Отозвать приглашение",

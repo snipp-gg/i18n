@@ -2027,6 +2027,7 @@
   "SETTINGS_TEAMS_CONFIRM_LEAVE": "Du vil miste tilgang til dette teamets galleri. Du kan bli med igjen med en ny invitasjon.",
   "SETTINGS_TEAMS_INVITES_HEADING": "Invitasjonslenker",
   "SETTINGS_TEAMS_INVITES_DESCRIPTION": "Del en invitasjonslenke for å legge til medlemmer i dette teamet.",
+  "SETTINGS_TEAMS_INVITES_EMPTY_HINT": "Dette teamet har ingen invitasjonslenker ennå.",
   "SETTINGS_TEAMS_CREATE_INVITE": "Opprett invitasjon",
   "SETTINGS_TEAMS_COPY_INVITE": "Kopier invitasjonslenke",
   "SETTINGS_TEAMS_REVOKE_INVITE": "Trekk tilbake invitasjon",

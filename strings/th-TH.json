@@ -2027,6 +2027,7 @@
   "SETTINGS_TEAMS_CONFIRM_LEAVE": "คุณจะสูญเสียการเข้าถึงแกลเลอรีของทีมนี้ คุณสามารถเข้าร่วมใหม่ได้ด้วยคำเชิญใหม่",
   "SETTINGS_TEAMS_INVITES_HEADING": "ลิงก์คำเชิญ",
   "SETTINGS_TEAMS_INVITES_DESCRIPTION": "แชร์ลิงก์คำเชิญเพื่อเพิ่มสมาชิกเข้าทีมนี้",
+  "SETTINGS_TEAMS_INVITES_EMPTY_HINT": "ทีมนี้ยังไม่มีลิงก์คำเชิญ",
   "SETTINGS_TEAMS_CREATE_INVITE": "สร้างคำเชิญ",
   "SETTINGS_TEAMS_COPY_INVITE": "คัดลอกลิงก์คำเชิญ",
   "SETTINGS_TEAMS_REVOKE_INVITE": "เพิกถอนคำเชิญ",

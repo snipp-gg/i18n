@@ -2027,6 +2027,7 @@
   "SETTINGS_TEAMS_CONFIRM_LEAVE": "Bu takımın galerisine erişimini kaybedeceksin. Yeni bir davetle tekrar katılabilirsin.",
   "SETTINGS_TEAMS_INVITES_HEADING": "Davet bağlantıları",
   "SETTINGS_TEAMS_INVITES_DESCRIPTION": "Bu takıma üye eklemek için bir davet bağlantısı paylaş.",
+  "SETTINGS_TEAMS_INVITES_EMPTY_HINT": "Bu takımın henüz hiç davet bağlantısı yok.",
   "SETTINGS_TEAMS_CREATE_INVITE": "Davet oluştur",
   "SETTINGS_TEAMS_COPY_INVITE": "Davet bağlantısını kopyala",
   "SETTINGS_TEAMS_REVOKE_INVITE": "Daveti iptal et",

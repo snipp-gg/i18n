@@ -2027,6 +2027,7 @@
   "SETTINGS_TEAMS_CONFIRM_LEAVE": "Anda akan kehilangan akses ke galeri tim ini. Anda dapat bergabung kembali dengan undangan baru.",
   "SETTINGS_TEAMS_INVITES_HEADING": "Tautan Undangan",
   "SETTINGS_TEAMS_INVITES_DESCRIPTION": "Bagikan tautan undangan untuk menambahkan anggota ke tim ini.",
+  "SETTINGS_TEAMS_INVITES_EMPTY_HINT": "Tim ini belum punya tautan undangan.",
   "SETTINGS_TEAMS_CREATE_INVITE": "Buat Undangan",
   "SETTINGS_TEAMS_COPY_INVITE": "Salin tautan undangan",
   "SETTINGS_TEAMS_REVOKE_INVITE": "Cabut undangan",

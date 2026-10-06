@@ -2027,6 +2027,7 @@
   "SETTINGS_TEAMS_CONFIRM_LEAVE": "Bạn sẽ mất quyền truy cập thư viện của nhóm này. Bạn có thể tham gia lại bằng một lời mời mới.",
   "SETTINGS_TEAMS_INVITES_HEADING": "Liên kết mời",
   "SETTINGS_TEAMS_INVITES_DESCRIPTION": "Chia sẻ một liên kết mời để thêm thành viên vào nhóm này.",
+  "SETTINGS_TEAMS_INVITES_EMPTY_HINT": "Nhóm này chưa có liên kết mời nào.",
   "SETTINGS_TEAMS_CREATE_INVITE": "Tạo lời mời",
   "SETTINGS_TEAMS_COPY_INVITE": "Sao chép liên kết mời",
   "SETTINGS_TEAMS_REVOKE_INVITE": "Thu hồi lời mời",

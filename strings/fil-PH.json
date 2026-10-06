@@ -2027,6 +2027,7 @@
   "SETTINGS_TEAMS_CONFIRM_LEAVE": "Mawawalan ka ng access sa gallery ng team na ito. Maaari kang sumali muli gamit ang bagong imbitasyon.",
   "SETTINGS_TEAMS_INVITES_HEADING": "Mga Invite Link",
   "SETTINGS_TEAMS_INVITES_DESCRIPTION": "Magbahagi ng invite link para magdagdag ng mga miyembro sa team na ito.",
+  "SETTINGS_TEAMS_INVITES_EMPTY_HINT": "Wala pang invite link ang team na ito.",
   "SETTINGS_TEAMS_CREATE_INVITE": "Gumawa ng Imbitasyon",
   "SETTINGS_TEAMS_COPY_INVITE": "Kopyahin ang invite link",
   "SETTINGS_TEAMS_REVOKE_INVITE": "Bawiin ang imbitasyon",

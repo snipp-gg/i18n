@@ -2027,6 +2027,7 @@
   "SETTINGS_TEAMS_CONFIRM_LEAVE": "Θα χάσετε την πρόσβαση στη γκαλερί αυτής της ομάδας. Μπορείτε να επανενταχθείτε με μια νέα πρόσκληση.",
   "SETTINGS_TEAMS_INVITES_HEADING": "Σύνδεσμοι Πρόσκλησης",
   "SETTINGS_TEAMS_INVITES_DESCRIPTION": "Μοιραστείτε έναν σύνδεσμο πρόσκλησης για να προσθέσετε μέλη σε αυτήν την ομάδα.",
+  "SETTINGS_TEAMS_INVITES_EMPTY_HINT": "Αυτή η ομάδα δεν έχει ακόμη συνδέσμους πρόσκλησης.",
   "SETTINGS_TEAMS_CREATE_INVITE": "Δημιουργία Πρόσκλησης",
   "SETTINGS_TEAMS_COPY_INVITE": "Αντιγραφή συνδέσμου πρόσκλησης",
   "SETTINGS_TEAMS_REVOKE_INVITE": "Ανάκληση πρόσκλησης",

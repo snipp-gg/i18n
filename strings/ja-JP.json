@@ -2027,6 +2027,7 @@
   "SETTINGS_TEAMS_CONFIRM_LEAVE": "このチームのギャラリーへのアクセス権を失います。新しい招待で再参加できます。",
   "SETTINGS_TEAMS_INVITES_HEADING": "招待リンク",
   "SETTINGS_TEAMS_INVITES_DESCRIPTION": "招待リンクを共有して、このチームにメンバーを追加します。",
+  "SETTINGS_TEAMS_INVITES_EMPTY_HINT": "このチームにはまだ招待リンクがありません。",
   "SETTINGS_TEAMS_CREATE_INVITE": "招待を作成",
   "SETTINGS_TEAMS_COPY_INVITE": "招待リンクをコピー",
   "SETTINGS_TEAMS_REVOKE_INVITE": "招待を取り消す",
