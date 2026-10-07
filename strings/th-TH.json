@@ -2267,7 +2267,6 @@
   "SUPPORT_CHAT_EMPTY": "สวัสดี ฉันคือ Snippy ฉันสามารถตรวจสอบบัญชีของคุณ เปลี่ยนชื่อผู้ใช้ Embed ธีม หรือการตั้งค่าอื่น ๆ ออกจากระบบอุปกรณ์ หรือส่งต่อเรื่องให้ทีมได้ คุณต้องการอะไร?",
   "SUPPORT_CHAT_INPUT_PLACEHOLDER": "พิมพ์อะไรสักอย่าง",
   "SUPPORT_CHAT_INPUT_PLACEHOLDER_PENDING": "หรือพิมพ์เพื่อข้ามการเปลี่ยนแปลงนี้",
-  "SUPPORT_CHAT_NEW_CHAT": "แชทใหม่",
   "SUPPORT_CHAT_PROFILE_HEADING": "อัปเดตบัญชีของคุณ",
   "SUPPORT_CHAT_THEME_HEADING": "เปลี่ยนธีมของคุณ",
   "SUPPORT_CHAT_DEVICE_HEADING": "เปลี่ยนการตั้งค่าบนอุปกรณ์นี้",
@@ -2278,8 +2277,12 @@
   "SUPPORT_CHAT_VALUE_ON": "เปิด",
   "SUPPORT_CHAT_VALUE_OFF": "ปิด",
   "SUPPORT_CHAT_VALUE_CLEARED": "ล้างแล้ว",
-  "SUPPORT_CHAT_FULL": "แชทนี้เต็มแล้ว เริ่มแชทใหม่เพื่อดำเนินการต่อ",
   "SUPPORT_CHAT_LOAD_ERROR": "ไม่สามารถโหลด Snippy ได้ กรุณาลองอีกครั้ง",
   "SUPPORT_CHAT_SEND_ERROR": "ไม่สามารถส่งข้อความของคุณได้ กรุณาลองอีกครั้ง",
-  "SUPPORT_CHAT_RATE_LIMITED": "คุณส่งข้อความเร็วเกินไป ลองอีกครั้งในอีกสักครู่"
+  "SUPPORT_CHAT_RATE_LIMITED": "คุณส่งข้อความเร็วเกินไป ลองอีกครั้งในอีกสักครู่",
+  "SUPPORT_CHAT_THINKING": "กำลังคิด...",
+  "SUPPORT_CHAT_CHECKING": "กำลังตรวจสอบ...",
+  "SUPPORT_CHAT_LOOKING": "กำลังดูให้...",
+  "SUPPORT_CHAT_WORKING": "กำลังจัดการให้...",
+  "SUPPORT_CHAT_PONDERING": "กำลังไตร่ตรอง..."
 }

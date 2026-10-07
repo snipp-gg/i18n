@@ -2267,7 +2267,6 @@
   "SUPPORT_CHAT_EMPTY": "नमस्ते, मैं Snippy हूँ। मैं आपके अकाउंट की जाँच कर सकता हूँ, आपका यूज़रनेम, एम्बेड, थीम या दूसरी सेटिंग्स बदल सकता हूँ, किसी डिवाइस को लॉग आउट कर सकता हूँ, या टीम तक कोई बात पहुँचा सकता हूँ। आपको क्या चाहिए?",
   "SUPPORT_CHAT_INPUT_PLACEHOLDER": "कुछ टाइप करें",
   "SUPPORT_CHAT_INPUT_PLACEHOLDER_PENDING": "या इस बदलाव को छोड़ने के लिए टाइप करें",
-  "SUPPORT_CHAT_NEW_CHAT": "नई चैट",
   "SUPPORT_CHAT_PROFILE_HEADING": "अपना अकाउंट अपडेट करें",
   "SUPPORT_CHAT_THEME_HEADING": "अपनी थीम बदलें",
   "SUPPORT_CHAT_DEVICE_HEADING": "इस डिवाइस की सेटिंग्स बदलें",
@@ -2278,8 +2277,12 @@
   "SUPPORT_CHAT_VALUE_ON": "चालू",
   "SUPPORT_CHAT_VALUE_OFF": "बंद",
   "SUPPORT_CHAT_VALUE_CLEARED": "क्लियर किया गया",
-  "SUPPORT_CHAT_FULL": "यह चैट भर गई है। जारी रखने के लिए नई चैट शुरू करें।",
   "SUPPORT_CHAT_LOAD_ERROR": "Snippy लोड नहीं हो सका। कृपया दोबारा कोशिश करें।",
   "SUPPORT_CHAT_SEND_ERROR": "आपका मैसेज नहीं भेजा जा सका। कृपया दोबारा कोशिश करें।",
-  "SUPPORT_CHAT_RATE_LIMITED": "आप बहुत तेज़ी से मैसेज भेज रहे हैं। थोड़ी देर में दोबारा कोशिश करें।"
+  "SUPPORT_CHAT_RATE_LIMITED": "आप बहुत तेज़ी से मैसेज भेज रहे हैं। थोड़ी देर में दोबारा कोशिश करें।",
+  "SUPPORT_CHAT_THINKING": "सोच रहा हूँ...",
+  "SUPPORT_CHAT_CHECKING": "जाँच रहा हूँ...",
+  "SUPPORT_CHAT_LOOKING": "देख रहा हूँ...",
+  "SUPPORT_CHAT_WORKING": "इस पर काम कर रहा हूँ...",
+  "SUPPORT_CHAT_PONDERING": "विचार कर रहा हूँ..."
 }

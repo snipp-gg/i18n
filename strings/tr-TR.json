@@ -2267,7 +2267,6 @@
   "SUPPORT_CHAT_EMPTY": "Merhaba, ben Snippy. Hesabınızı inceleyebilir, kullanıcı adınızı, embed'inizi, temanızı veya diğer ayarlarınızı değiştirebilir, bir cihazdan çıkış yapabilir ya da bir konuyu ekibe iletebilirim. Neye ihtiyacınız var?",
   "SUPPORT_CHAT_INPUT_PLACEHOLDER": "Bir şeyler yazın",
   "SUPPORT_CHAT_INPUT_PLACEHOLDER_PENDING": "Veya bu değişikliği atlamak için yazın",
-  "SUPPORT_CHAT_NEW_CHAT": "Yeni sohbet",
   "SUPPORT_CHAT_PROFILE_HEADING": "Hesabınızı güncelleyin",
   "SUPPORT_CHAT_THEME_HEADING": "Temanızı değiştirin",
   "SUPPORT_CHAT_DEVICE_HEADING": "Bu cihazdaki ayarları değiştirin",
@@ -2278,8 +2277,12 @@
   "SUPPORT_CHAT_VALUE_ON": "Açık",
   "SUPPORT_CHAT_VALUE_OFF": "Kapalı",
   "SUPPORT_CHAT_VALUE_CLEARED": "Temizlendi",
-  "SUPPORT_CHAT_FULL": "Bu sohbet dolu. Devam etmek için yeni bir sohbet başlatın.",
   "SUPPORT_CHAT_LOAD_ERROR": "Snippy yüklenemedi. Lütfen tekrar deneyin.",
   "SUPPORT_CHAT_SEND_ERROR": "Mesajınız gönderilemedi. Lütfen tekrar deneyin.",
-  "SUPPORT_CHAT_RATE_LIMITED": "Çok hızlı mesaj gönderiyorsunuz. Birazdan tekrar deneyin."
+  "SUPPORT_CHAT_RATE_LIMITED": "Çok hızlı mesaj gönderiyorsunuz. Birazdan tekrar deneyin.",
+  "SUPPORT_CHAT_THINKING": "Düşünüyorum...",
+  "SUPPORT_CHAT_CHECKING": "Kontrol ediyorum...",
+  "SUPPORT_CHAT_LOOKING": "Bakıyorum...",
+  "SUPPORT_CHAT_WORKING": "Üzerinde çalışıyorum...",
+  "SUPPORT_CHAT_PONDERING": "Değerlendiriyorum..."
 }

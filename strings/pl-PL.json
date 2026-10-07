@@ -2267,7 +2267,6 @@
   "SUPPORT_CHAT_EMPTY": "Cześć, jestem Snippy. Mogę sprawdzić Twoje konto, zmienić nazwę użytkownika, osadzanie, motyw lub inne ustawienia, wylogować urządzenie albo przekazać coś zespołowi. Czego potrzebujesz?",
   "SUPPORT_CHAT_INPUT_PLACEHOLDER": "Napisz coś",
   "SUPPORT_CHAT_INPUT_PLACEHOLDER_PENDING": "Lub napisz, aby pominąć tę zmianę",
-  "SUPPORT_CHAT_NEW_CHAT": "Nowy czat",
   "SUPPORT_CHAT_PROFILE_HEADING": "Zaktualizuj swoje konto",
   "SUPPORT_CHAT_THEME_HEADING": "Zmień swój motyw",
   "SUPPORT_CHAT_DEVICE_HEADING": "Zmień ustawienia na tym urządzeniu",
@@ -2278,8 +2277,12 @@
   "SUPPORT_CHAT_VALUE_ON": "Włączone",
   "SUPPORT_CHAT_VALUE_OFF": "Wyłączone",
   "SUPPORT_CHAT_VALUE_CLEARED": "Wyczyszczono",
-  "SUPPORT_CHAT_FULL": "Ten czat jest pełny. Rozpocznij nowy czat, aby kontynuować.",
   "SUPPORT_CHAT_LOAD_ERROR": "Nie udało się załadować Snippy. Spróbuj ponownie.",
   "SUPPORT_CHAT_SEND_ERROR": "Nie udało się wysłać wiadomości. Spróbuj ponownie.",
-  "SUPPORT_CHAT_RATE_LIMITED": "Wysyłasz wiadomości zbyt szybko. Spróbuj ponownie za chwilę."
+  "SUPPORT_CHAT_RATE_LIMITED": "Wysyłasz wiadomości zbyt szybko. Spróbuj ponownie za chwilę.",
+  "SUPPORT_CHAT_THINKING": "Myślę...",
+  "SUPPORT_CHAT_CHECKING": "Sprawdzam...",
+  "SUPPORT_CHAT_LOOKING": "Przyglądam się...",
+  "SUPPORT_CHAT_WORKING": "Pracuję nad tym...",
+  "SUPPORT_CHAT_PONDERING": "Zastanawiam się..."
 }

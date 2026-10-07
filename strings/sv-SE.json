@@ -2267,7 +2267,6 @@
   "SUPPORT_CHAT_EMPTY": "Hej, jag är Snippy. Jag kan titta på ditt konto, ändra ditt användarnamn, din inbäddning, ditt tema eller andra inställningar, logga ut en enhet eller skicka något vidare till teamet. Vad behöver du?",
   "SUPPORT_CHAT_INPUT_PLACEHOLDER": "Skriv något",
   "SUPPORT_CHAT_INPUT_PLACEHOLDER_PENDING": "Eller skriv för att hoppa över den här ändringen",
-  "SUPPORT_CHAT_NEW_CHAT": "Ny chatt",
   "SUPPORT_CHAT_PROFILE_HEADING": "Uppdatera ditt konto",
   "SUPPORT_CHAT_THEME_HEADING": "Ändra ditt tema",
   "SUPPORT_CHAT_DEVICE_HEADING": "Ändra inställningar på den här enheten",
@@ -2278,8 +2277,12 @@
   "SUPPORT_CHAT_VALUE_ON": "På",
   "SUPPORT_CHAT_VALUE_OFF": "Av",
   "SUPPORT_CHAT_VALUE_CLEARED": "Rensat",
-  "SUPPORT_CHAT_FULL": "Den här chatten är full. Starta en ny chatt för att fortsätta.",
   "SUPPORT_CHAT_LOAD_ERROR": "Kunde inte ladda Snippy. Försök igen.",
   "SUPPORT_CHAT_SEND_ERROR": "Kunde inte skicka ditt meddelande. Försök igen.",
-  "SUPPORT_CHAT_RATE_LIMITED": "Du skickar meddelanden för snabbt. Försök igen om en stund."
+  "SUPPORT_CHAT_RATE_LIMITED": "Du skickar meddelanden för snabbt. Försök igen om en stund.",
+  "SUPPORT_CHAT_THINKING": "Tänker...",
+  "SUPPORT_CHAT_CHECKING": "Kollar...",
+  "SUPPORT_CHAT_LOOKING": "Undersöker...",
+  "SUPPORT_CHAT_WORKING": "Jobbar på det...",
+  "SUPPORT_CHAT_PONDERING": "Funderar..."
 }

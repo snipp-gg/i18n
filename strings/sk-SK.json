@@ -2267,7 +2267,6 @@
   "SUPPORT_CHAT_EMPTY": "Ahoj, som Snippy. Môžem sa pozrieť na tvoj účet, zmeniť používateľské meno, vloženie, tému alebo iné nastavenia, odhlásiť zariadenie alebo niečo odovzdať tímu. Čo potrebuješ?",
   "SUPPORT_CHAT_INPUT_PLACEHOLDER": "Napíš niečo",
   "SUPPORT_CHAT_INPUT_PLACEHOLDER_PENDING": "Alebo napíš správu a túto zmenu preskoč",
-  "SUPPORT_CHAT_NEW_CHAT": "Nový chat",
   "SUPPORT_CHAT_PROFILE_HEADING": "Aktualizuj svoj účet",
   "SUPPORT_CHAT_THEME_HEADING": "Zmeň svoju tému",
   "SUPPORT_CHAT_DEVICE_HEADING": "Zmeň nastavenia na tomto zariadení",
@@ -2278,8 +2277,12 @@
   "SUPPORT_CHAT_VALUE_ON": "Zapnuté",
   "SUPPORT_CHAT_VALUE_OFF": "Vypnuté",
   "SUPPORT_CHAT_VALUE_CLEARED": "Vymazané",
-  "SUPPORT_CHAT_FULL": "Tento chat je plný. Ak chceš pokračovať, začni nový chat.",
   "SUPPORT_CHAT_LOAD_ERROR": "Snippy sa nepodarilo načítať. Skús to znova.",
   "SUPPORT_CHAT_SEND_ERROR": "Správu sa nepodarilo odoslať. Skús to znova.",
-  "SUPPORT_CHAT_RATE_LIMITED": "Posielaš správy príliš rýchlo. Skús to o chvíľu znova."
+  "SUPPORT_CHAT_RATE_LIMITED": "Posielaš správy príliš rýchlo. Skús to o chvíľu znova.",
+  "SUPPORT_CHAT_THINKING": "Premýšľam...",
+  "SUPPORT_CHAT_CHECKING": "Kontrolujem...",
+  "SUPPORT_CHAT_LOOKING": "Zisťujem...",
+  "SUPPORT_CHAT_WORKING": "Pracujem na tom...",
+  "SUPPORT_CHAT_PONDERING": "Uvažujem..."
 }

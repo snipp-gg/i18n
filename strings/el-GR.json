@@ -2267,7 +2267,6 @@
   "SUPPORT_CHAT_EMPTY": "Γεια, είμαι ο Snippy. Μπορώ να ελέγξω τον λογαριασμό σας, να αλλάξω το όνομα χρήστη, την ενσωμάτωση, το θέμα ή άλλες ρυθμίσεις, να αποσυνδέσω μια συσκευή ή να μεταφέρω κάτι στην ομάδα. Τι χρειάζεστε;",
   "SUPPORT_CHAT_INPUT_PLACEHOLDER": "Γράψτε κάτι",
   "SUPPORT_CHAT_INPUT_PLACEHOLDER_PENDING": "Ή πληκτρολογήστε για να παραλείψετε αυτή την αλλαγή",
-  "SUPPORT_CHAT_NEW_CHAT": "Νέα συνομιλία",
   "SUPPORT_CHAT_PROFILE_HEADING": "Ενημερώστε τον λογαριασμό σας",
   "SUPPORT_CHAT_THEME_HEADING": "Αλλάξτε το θέμα σας",
   "SUPPORT_CHAT_DEVICE_HEADING": "Αλλάξτε τις ρυθμίσεις σε αυτή τη συσκευή",
@@ -2278,8 +2277,12 @@
   "SUPPORT_CHAT_VALUE_ON": "Ενεργό",
   "SUPPORT_CHAT_VALUE_OFF": "Ανενεργό",
   "SUPPORT_CHAT_VALUE_CLEARED": "Εκκαθαρίστηκε",
-  "SUPPORT_CHAT_FULL": "Αυτή η συνομιλία είναι πλήρης. Ξεκινήστε νέα συνομιλία για να συνεχίσετε.",
   "SUPPORT_CHAT_LOAD_ERROR": "Δεν ήταν δυνατή η φόρτωση του Snippy. Παρακαλούμε δοκιμάστε ξανά.",
   "SUPPORT_CHAT_SEND_ERROR": "Δεν ήταν δυνατή η αποστολή του μηνύματός σας. Παρακαλούμε δοκιμάστε ξανά.",
-  "SUPPORT_CHAT_RATE_LIMITED": "Στέλνετε μηνύματα πολύ γρήγορα. Δοκιμάστε ξανά σε λίγο."
+  "SUPPORT_CHAT_RATE_LIMITED": "Στέλνετε μηνύματα πολύ γρήγορα. Δοκιμάστε ξανά σε λίγο.",
+  "SUPPORT_CHAT_THINKING": "Σκέφτομαι...",
+  "SUPPORT_CHAT_CHECKING": "Ελέγχω...",
+  "SUPPORT_CHAT_LOOKING": "Το διερευνώ...",
+  "SUPPORT_CHAT_WORKING": "Δουλεύω πάνω σε αυτό...",
+  "SUPPORT_CHAT_PONDERING": "Συλλογίζομαι..."
 }

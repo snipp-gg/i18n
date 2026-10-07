@@ -2267,7 +2267,6 @@
   "SUPPORT_CHAT_EMPTY": "Hei, jeg er Snippy. Jeg kan se på kontoen din, endre brukernavnet, innebyggingen, temaet eller andre innstillinger, logge ut en enhet eller gi noe videre til teamet. Hva trenger du?",
   "SUPPORT_CHAT_INPUT_PLACEHOLDER": "Skriv noe",
   "SUPPORT_CHAT_INPUT_PLACEHOLDER_PENDING": "Eller skriv for å hoppe over denne endringen",
-  "SUPPORT_CHAT_NEW_CHAT": "Ny samtale",
   "SUPPORT_CHAT_PROFILE_HEADING": "Oppdater kontoen din",
   "SUPPORT_CHAT_THEME_HEADING": "Endre temaet ditt",
   "SUPPORT_CHAT_DEVICE_HEADING": "Endre innstillinger på denne enheten",
@@ -2278,8 +2277,12 @@
   "SUPPORT_CHAT_VALUE_ON": "På",
   "SUPPORT_CHAT_VALUE_OFF": "Av",
   "SUPPORT_CHAT_VALUE_CLEARED": "Tømt",
-  "SUPPORT_CHAT_FULL": "Denne samtalen er full. Start en ny samtale for å fortsette.",
   "SUPPORT_CHAT_LOAD_ERROR": "Kunne ikke laste Snippy. Prøv igjen.",
   "SUPPORT_CHAT_SEND_ERROR": "Kunne ikke sende meldingen din. Prøv igjen.",
-  "SUPPORT_CHAT_RATE_LIMITED": "Du sender meldinger for raskt. Prøv igjen om litt."
+  "SUPPORT_CHAT_RATE_LIMITED": "Du sender meldinger for raskt. Prøv igjen om litt.",
+  "SUPPORT_CHAT_THINKING": "Tenker...",
+  "SUPPORT_CHAT_CHECKING": "Sjekker...",
+  "SUPPORT_CHAT_LOOKING": "Undersøker...",
+  "SUPPORT_CHAT_WORKING": "Jobber med saken...",
+  "SUPPORT_CHAT_PONDERING": "Funderer..."
 }

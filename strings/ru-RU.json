@@ -2267,7 +2267,6 @@
   "SUPPORT_CHAT_EMPTY": "Привет, я Snippy. Я могу проверить ваш аккаунт, изменить имя пользователя, встраивание, тему или другие настройки, выйти на устройстве или передать что-то команде. Что вам нужно?",
   "SUPPORT_CHAT_INPUT_PLACEHOLDER": "Напишите что-нибудь",
   "SUPPORT_CHAT_INPUT_PLACEHOLDER_PENDING": "Или напишите, чтобы пропустить это изменение",
-  "SUPPORT_CHAT_NEW_CHAT": "Новый чат",
   "SUPPORT_CHAT_PROFILE_HEADING": "Обновить аккаунт",
   "SUPPORT_CHAT_THEME_HEADING": "Изменить тему",
   "SUPPORT_CHAT_DEVICE_HEADING": "Изменить настройки на этом устройстве",
@@ -2278,8 +2277,12 @@
   "SUPPORT_CHAT_VALUE_ON": "Включено",
   "SUPPORT_CHAT_VALUE_OFF": "Выключено",
   "SUPPORT_CHAT_VALUE_CLEARED": "Очищено",
-  "SUPPORT_CHAT_FULL": "Этот чат заполнен. Начните новый чат, чтобы продолжить.",
   "SUPPORT_CHAT_LOAD_ERROR": "Не удалось загрузить Snippy. Попробуйте ещё раз.",
   "SUPPORT_CHAT_SEND_ERROR": "Не удалось отправить сообщение. Попробуйте ещё раз.",
-  "SUPPORT_CHAT_RATE_LIMITED": "Вы отправляете сообщения слишком быстро. Попробуйте ещё раз чуть позже."
+  "SUPPORT_CHAT_RATE_LIMITED": "Вы отправляете сообщения слишком быстро. Попробуйте ещё раз чуть позже.",
+  "SUPPORT_CHAT_THINKING": "Думаю...",
+  "SUPPORT_CHAT_CHECKING": "Проверяю...",
+  "SUPPORT_CHAT_LOOKING": "Разбираюсь...",
+  "SUPPORT_CHAT_WORKING": "Работаю над этим...",
+  "SUPPORT_CHAT_PONDERING": "Размышляю..."
 }

@@ -2267,7 +2267,6 @@
   "SUPPORT_CHAT_EMPTY": "Hi, ako si Snippy. Puwede kong tingnan ang iyong account, palitan ang iyong username, embed, tema o iba pang setting, i-log out ang isang device, o ipasa ang isang bagay sa team. Ano ang kailangan mo?",
   "SUPPORT_CHAT_INPUT_PLACEHOLDER": "Mag-type ng kahit ano",
   "SUPPORT_CHAT_INPUT_PLACEHOLDER_PENDING": "O mag-type para laktawan ang pagbabagong ito",
-  "SUPPORT_CHAT_NEW_CHAT": "Bagong chat",
   "SUPPORT_CHAT_PROFILE_HEADING": "I-update ang iyong account",
   "SUPPORT_CHAT_THEME_HEADING": "Palitan ang iyong tema",
   "SUPPORT_CHAT_DEVICE_HEADING": "Baguhin ang mga setting sa device na ito",
@@ -2278,8 +2277,12 @@
   "SUPPORT_CHAT_VALUE_ON": "Naka-on",
   "SUPPORT_CHAT_VALUE_OFF": "Naka-off",
   "SUPPORT_CHAT_VALUE_CLEARED": "Na-clear",
-  "SUPPORT_CHAT_FULL": "Puno na ang chat na ito. Magsimula ng bagong chat para magpatuloy.",
   "SUPPORT_CHAT_LOAD_ERROR": "Hindi ma-load ang Snippy. Subukan ulit.",
   "SUPPORT_CHAT_SEND_ERROR": "Hindi maipadala ang iyong mensahe. Subukan ulit.",
-  "SUPPORT_CHAT_RATE_LIMITED": "Masyadong mabilis kang magpadala ng mga mensahe. Subukan ulit mamaya."
+  "SUPPORT_CHAT_RATE_LIMITED": "Masyadong mabilis kang magpadala ng mga mensahe. Subukan ulit mamaya.",
+  "SUPPORT_CHAT_THINKING": "Nag-iisip...",
+  "SUPPORT_CHAT_CHECKING": "Chine-check...",
+  "SUPPORT_CHAT_LOOKING": "Inaalam...",
+  "SUPPORT_CHAT_WORKING": "Inaasikaso...",
+  "SUPPORT_CHAT_PONDERING": "Pinag-iisipan..."
 }

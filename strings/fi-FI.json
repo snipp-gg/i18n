@@ -2267,7 +2267,6 @@
   "SUPPORT_CHAT_EMPTY": "Hei, olen Snippy. Voin tarkistaa tilisi, vaihtaa käyttäjänimesi, upotuksen, teeman tai muita asetuksia, kirjata laitteen ulos tai välittää asian tiimille. Mitä tarvitset?",
   "SUPPORT_CHAT_INPUT_PLACEHOLDER": "Kirjoita jotain",
   "SUPPORT_CHAT_INPUT_PLACEHOLDER_PENDING": "Tai kirjoita ohittaaksesi tämän muutoksen",
-  "SUPPORT_CHAT_NEW_CHAT": "Uusi keskustelu",
   "SUPPORT_CHAT_PROFILE_HEADING": "Päivitä tilisi",
   "SUPPORT_CHAT_THEME_HEADING": "Vaihda teemaasi",
   "SUPPORT_CHAT_DEVICE_HEADING": "Muuta tämän laitteen asetuksia",
@@ -2278,8 +2277,12 @@
   "SUPPORT_CHAT_VALUE_ON": "Käytössä",
   "SUPPORT_CHAT_VALUE_OFF": "Pois käytöstä",
   "SUPPORT_CHAT_VALUE_CLEARED": "Tyhjennetty",
-  "SUPPORT_CHAT_FULL": "Tämä keskustelu on täynnä. Aloita uusi keskustelu jatkaaksesi.",
   "SUPPORT_CHAT_LOAD_ERROR": "Snippyä ei voitu ladata. Yritä uudelleen.",
   "SUPPORT_CHAT_SEND_ERROR": "Viestiäsi ei voitu lähettää. Yritä uudelleen.",
-  "SUPPORT_CHAT_RATE_LIMITED": "Lähetät viestejä liian nopeasti. Yritä hetken kuluttua uudelleen."
+  "SUPPORT_CHAT_RATE_LIMITED": "Lähetät viestejä liian nopeasti. Yritä hetken kuluttua uudelleen.",
+  "SUPPORT_CHAT_THINKING": "Mietitään...",
+  "SUPPORT_CHAT_CHECKING": "Tarkistetaan...",
+  "SUPPORT_CHAT_LOOKING": "Selvitetään...",
+  "SUPPORT_CHAT_WORKING": "Työstetään...",
+  "SUPPORT_CHAT_PONDERING": "Pohditaan..."
 }

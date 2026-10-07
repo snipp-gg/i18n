@@ -2267,7 +2267,6 @@
   "SUPPORT_CHAT_EMPTY": "您好，我是 Snippy。我可以查看您的账户，更改您的用户名、嵌入链接、主题或其他设置，退出某台设备的登录，或将问题转达给团队。您需要什么帮助？",
   "SUPPORT_CHAT_INPUT_PLACEHOLDER": "输入内容",
   "SUPPORT_CHAT_INPUT_PLACEHOLDER_PENDING": "或输入内容以跳过此更改",
-  "SUPPORT_CHAT_NEW_CHAT": "新对话",
   "SUPPORT_CHAT_PROFILE_HEADING": "更新您的账户",
   "SUPPORT_CHAT_THEME_HEADING": "更改您的主题",
   "SUPPORT_CHAT_DEVICE_HEADING": "更改此设备上的设置",
@@ -2278,8 +2277,12 @@
   "SUPPORT_CHAT_VALUE_ON": "开启",
   "SUPPORT_CHAT_VALUE_OFF": "关闭",
   "SUPPORT_CHAT_VALUE_CLEARED": "已清除",
-  "SUPPORT_CHAT_FULL": "此对话已满。请开始新对话以继续。",
   "SUPPORT_CHAT_LOAD_ERROR": "无法加载 Snippy。请重试。",
   "SUPPORT_CHAT_SEND_ERROR": "无法发送您的消息。请重试。",
-  "SUPPORT_CHAT_RATE_LIMITED": "您发送消息的速度过快。请稍后再试。"
+  "SUPPORT_CHAT_RATE_LIMITED": "您发送消息的速度过快。请稍后再试。",
+  "SUPPORT_CHAT_THINKING": "思考中...",
+  "SUPPORT_CHAT_CHECKING": "检查中...",
+  "SUPPORT_CHAT_LOOKING": "正在查看...",
+  "SUPPORT_CHAT_WORKING": "正在处理...",
+  "SUPPORT_CHAT_PONDERING": "思索中..."
 }
