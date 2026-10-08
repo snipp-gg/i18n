@@ -2284,5 +2284,6 @@
   "SUPPORT_CHAT_CHECKING": "Tarkistetaan...",
   "SUPPORT_CHAT_LOOKING": "Selvitetään...",
   "SUPPORT_CHAT_WORKING": "Työstetään...",
-  "SUPPORT_CHAT_PONDERING": "Pohditaan..."
+  "SUPPORT_CHAT_PONDERING": "Pohditaan...",
+  "SUPPORT_CHAT_DISCLAIMER": "Snippy voi tehdä virheitä. Tarkista tärkeät tiedot."
 }

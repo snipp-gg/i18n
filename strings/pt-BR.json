@@ -2284,5 +2284,6 @@
   "SUPPORT_CHAT_CHECKING": "Conferindo...",
   "SUPPORT_CHAT_LOOKING": "Dando uma olhada...",
   "SUPPORT_CHAT_WORKING": "Trabalhando nisso...",
-  "SUPPORT_CHAT_PONDERING": "Refletindo..."
+  "SUPPORT_CHAT_PONDERING": "Refletindo...",
+  "SUPPORT_CHAT_DISCLAIMER": "O Snippy pode cometer erros. Confira informações importantes."
 }

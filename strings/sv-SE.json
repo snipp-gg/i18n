@@ -2284,5 +2284,6 @@
   "SUPPORT_CHAT_CHECKING": "Kollar...",
   "SUPPORT_CHAT_LOOKING": "Undersöker...",
   "SUPPORT_CHAT_WORKING": "Jobbar på det...",
-  "SUPPORT_CHAT_PONDERING": "Funderar..."
+  "SUPPORT_CHAT_PONDERING": "Funderar...",
+  "SUPPORT_CHAT_DISCLAIMER": "Snippy kan göra fel. Kontrollera viktig information."
 }

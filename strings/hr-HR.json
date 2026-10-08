@@ -2284,5 +2284,6 @@
   "SUPPORT_CHAT_CHECKING": "Provjeravam...",
   "SUPPORT_CHAT_LOOKING": "Istražujem...",
   "SUPPORT_CHAT_WORKING": "Radim na tome...",
-  "SUPPORT_CHAT_PONDERING": "Promišljam..."
+  "SUPPORT_CHAT_PONDERING": "Promišljam...",
+  "SUPPORT_CHAT_DISCLAIMER": "Snippy može pogriješiti. Provjeri važne informacije."
 }

@@ -2284,5 +2284,6 @@
   "SUPPORT_CHAT_CHECKING": "確認中...",
   "SUPPORT_CHAT_LOOKING": "調べています...",
   "SUPPORT_CHAT_WORKING": "対応中...",
-  "SUPPORT_CHAT_PONDERING": "思案中..."
+  "SUPPORT_CHAT_PONDERING": "思案中...",
+  "SUPPORT_CHAT_DISCLAIMER": "Snippy は間違えることがあります。重要な情報はご確認ください。"
 }

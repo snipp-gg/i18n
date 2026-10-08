@@ -2284,5 +2284,6 @@
   "SUPPORT_CHAT_CHECKING": "กำลังตรวจสอบ...",
   "SUPPORT_CHAT_LOOKING": "กำลังดูให้...",
   "SUPPORT_CHAT_WORKING": "กำลังจัดการให้...",
-  "SUPPORT_CHAT_PONDERING": "กำลังไตร่ตรอง..."
+  "SUPPORT_CHAT_PONDERING": "กำลังไตร่ตรอง...",
+  "SUPPORT_CHAT_DISCLAIMER": "Snippy อาจทำผิดพลาดได้ โปรดตรวจสอบข้อมูลสำคัญ"
 }

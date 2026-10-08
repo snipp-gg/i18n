@@ -2284,5 +2284,6 @@
   "SUPPORT_CHAT_CHECKING": "Kontroluji...",
   "SUPPORT_CHAT_LOOKING": "Zjišťuji...",
   "SUPPORT_CHAT_WORKING": "Pracuji na tom...",
-  "SUPPORT_CHAT_PONDERING": "Uvažuji..."
+  "SUPPORT_CHAT_PONDERING": "Uvažuji...",
+  "SUPPORT_CHAT_DISCLAIMER": "Snippy může dělat chyby. Důležité informace si ověřte."
 }

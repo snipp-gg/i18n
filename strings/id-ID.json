@@ -2284,5 +2284,6 @@
   "SUPPORT_CHAT_CHECKING": "Memeriksa...",
   "SUPPORT_CHAT_LOOKING": "Mencari tahu...",
   "SUPPORT_CHAT_WORKING": "Sedang mengerjakan...",
-  "SUPPORT_CHAT_PONDERING": "Menimbang..."
+  "SUPPORT_CHAT_PONDERING": "Menimbang...",
+  "SUPPORT_CHAT_DISCLAIMER": "Snippy bisa saja salah. Periksa informasi penting."
 }

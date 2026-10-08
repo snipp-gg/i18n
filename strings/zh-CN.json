@@ -2284,5 +2284,6 @@
   "SUPPORT_CHAT_CHECKING": "检查中...",
   "SUPPORT_CHAT_LOOKING": "正在查看...",
   "SUPPORT_CHAT_WORKING": "正在处理...",
-  "SUPPORT_CHAT_PONDERING": "思索中..."
+  "SUPPORT_CHAT_PONDERING": "思索中...",
+  "SUPPORT_CHAT_DISCLAIMER": "Snippy 可能会出错。请核实重要信息。"
 }
