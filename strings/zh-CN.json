@@ -2268,7 +2268,7 @@
   "SUPPORT_CHAT_OPEN": "打开 Snippy",
   "SUPPORT_CHAT_HEADING": "Snippy",
   "SUPPORT_CHAT_SUBHEADING": "您的 AI 小帮手，Snipp 的大小事都能帮忙。",
-  "SUPPORT_CHAT_EMPTY": "您好，我是 Snippy。我可以查看您的账户，更改您的用户名、嵌入链接、主题或其他设置，退出某台设备的登录，或将问题转达给团队。您需要什么帮助？",
+  "SUPPORT_CHAT_EMPTY": "您好，我是 Snippy。我可以查看您的账户，查找并编辑您的帖子，更改您的设置，退出某台设备的登录，或将问题转达给团队。您需要什么帮助？",
   "SUPPORT_CHAT_INPUT_PLACEHOLDER": "输入内容...",
   "SUPPORT_CHAT_INPUT_PLACEHOLDER_PENDING": "或输入内容以跳过此更改...",
   "SUPPORT_CHAT_PROFILE_HEADING": "更新您的账户",
@@ -2293,5 +2293,10 @@
   "SUPPORT_CHAT_APP_HEADING": "更新应用",
   "COMMON_CREATE": "创建",
   "SUPPORT_CHAT_COPY_CODE": "复制代码",
+  "SUPPORT_CHAT_POST_HEADING": "更新帖子",
+  "SUPPORT_CHAT_OPEN_PAGE": "打开",
+  "SUPPORT_CHAT_STATUS_APPLYING": "保存中...",
+  "SUPPORT_CHAT_REFUSAL": "抱歉，这个我帮不了。",
+  "SUPPORT_CHAT_STUCK": "这个我没弄明白。您能换个说法吗？",
   "COMMON_BETA_BADGE": "测试版"
 }

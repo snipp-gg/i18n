@@ -2268,7 +2268,7 @@
   "SUPPORT_CHAT_OPEN": "Deschide Snippy",
   "SUPPORT_CHAT_HEADING": "Snippy",
   "SUPPORT_CHAT_SUBHEADING": "Partenerul tău AI pentru tot ce ține de Snipp.",
-  "SUPPORT_CHAT_EMPTY": "Salut, sunt Snippy. Pot să-ți verific contul, să-ți schimb numele de utilizator, încorporarea, tema sau alte setări, să deconectez un dispozitiv sau să transmit ceva echipei. De ce ai nevoie?",
+  "SUPPORT_CHAT_EMPTY": "Salut, sunt Snippy. Pot să-ți verific contul, să-ți găsesc și să-ți editez postările, să-ți schimb setările, să deconectez un dispozitiv sau să transmit ceva echipei. De ce ai nevoie?",
   "SUPPORT_CHAT_INPUT_PLACEHOLDER": "Scrie ceva...",
   "SUPPORT_CHAT_INPUT_PLACEHOLDER_PENDING": "Sau scrie pentru a sări peste această modificare...",
   "SUPPORT_CHAT_PROFILE_HEADING": "Actualizează-ți contul",
@@ -2293,5 +2293,10 @@
   "SUPPORT_CHAT_APP_HEADING": "Actualizează o aplicație",
   "COMMON_CREATE": "Creează",
   "SUPPORT_CHAT_COPY_CODE": "Copiază codul",
+  "SUPPORT_CHAT_POST_HEADING": "Actualizează o postare",
+  "SUPPORT_CHAT_OPEN_PAGE": "Deschide",
+  "SUPPORT_CHAT_STATUS_APPLYING": "Se salvează...",
+  "SUPPORT_CHAT_REFUSAL": "Îmi pare rău, cu asta nu te pot ajuta.",
+  "SUPPORT_CHAT_STUCK": "M-am blocat la asta. Poți să o spui altfel?",
   "COMMON_BETA_BADGE": "BETA"
 }

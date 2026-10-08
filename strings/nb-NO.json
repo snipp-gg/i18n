@@ -2268,7 +2268,7 @@
   "SUPPORT_CHAT_OPEN": "Åpne Snippy",
   "SUPPORT_CHAT_HEADING": "Snippy",
   "SUPPORT_CHAT_SUBHEADING": "Din KI-makker for alt som gjelder Snipp.",
-  "SUPPORT_CHAT_EMPTY": "Hei, jeg er Snippy. Jeg kan se på kontoen din, endre brukernavnet, innebyggingen, temaet eller andre innstillinger, logge ut en enhet eller gi noe videre til teamet. Hva trenger du?",
+  "SUPPORT_CHAT_EMPTY": "Hei, jeg er Snippy. Jeg kan se på kontoen din, finne og redigere innleggene dine, endre innstillingene dine, logge ut en enhet eller gi noe videre til teamet. Hva trenger du?",
   "SUPPORT_CHAT_INPUT_PLACEHOLDER": "Skriv noe...",
   "SUPPORT_CHAT_INPUT_PLACEHOLDER_PENDING": "Eller skriv for å hoppe over denne endringen...",
   "SUPPORT_CHAT_PROFILE_HEADING": "Oppdater kontoen din",
@@ -2293,5 +2293,10 @@
   "SUPPORT_CHAT_APP_HEADING": "Oppdater en app",
   "COMMON_CREATE": "Opprett",
   "SUPPORT_CHAT_COPY_CODE": "Kopier kode",
+  "SUPPORT_CHAT_POST_HEADING": "Oppdater et innlegg",
+  "SUPPORT_CHAT_OPEN_PAGE": "Åpne",
+  "SUPPORT_CHAT_STATUS_APPLYING": "Lagrer...",
+  "SUPPORT_CHAT_REFUSAL": "Beklager, det kan jeg ikke hjelpe med.",
+  "SUPPORT_CHAT_STUCK": "Der satt jeg fast. Kan du si det på en annen måte?",
   "COMMON_BETA_BADGE": "BETA"
 }

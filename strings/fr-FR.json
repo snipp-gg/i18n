@@ -2268,7 +2268,7 @@
   "SUPPORT_CHAT_OPEN": "Ouvrir Snippy",
   "SUPPORT_CHAT_HEADING": "Snippy",
   "SUPPORT_CHAT_SUBHEADING": "Votre acolyte IA pour tout ce qui touche à Snipp.",
-  "SUPPORT_CHAT_EMPTY": "Bonjour, je suis Snippy. Je peux consulter votre compte, modifier votre nom d'utilisateur, votre intégration, votre thème ou d'autres paramètres, déconnecter un appareil ou transmettre quelque chose à l'équipe. De quoi avez-vous besoin ?",
+  "SUPPORT_CHAT_EMPTY": "Bonjour, je suis Snippy. Je peux consulter votre compte, retrouver et modifier vos posts, changer vos paramètres, déconnecter un appareil ou transmettre quelque chose à l'équipe. De quoi avez-vous besoin ?",
   "SUPPORT_CHAT_INPUT_PLACEHOLDER": "Écrivez quelque chose...",
   "SUPPORT_CHAT_INPUT_PLACEHOLDER_PENDING": "Ou écrivez pour ignorer cette modification...",
   "SUPPORT_CHAT_PROFILE_HEADING": "Mettre à jour votre compte",
@@ -2293,5 +2293,10 @@
   "SUPPORT_CHAT_APP_HEADING": "Mettre à jour une application",
   "COMMON_CREATE": "Créer",
   "SUPPORT_CHAT_COPY_CODE": "Copier le code",
+  "SUPPORT_CHAT_POST_HEADING": "Mettre à jour un post",
+  "SUPPORT_CHAT_OPEN_PAGE": "Ouvrir",
+  "SUPPORT_CHAT_STATUS_APPLYING": "Enregistrement...",
+  "SUPPORT_CHAT_REFUSAL": "Désolé, je ne peux pas vous aider sur ce point.",
+  "SUPPORT_CHAT_STUCK": "Je bloque sur ce point. Pouvez-vous le formuler autrement ?",
   "COMMON_BETA_BADGE": "BÊTA"
 }

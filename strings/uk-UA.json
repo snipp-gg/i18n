@@ -2268,7 +2268,7 @@
   "SUPPORT_CHAT_OPEN": "Відкрити Snippy",
   "SUPPORT_CHAT_HEADING": "Snippy",
   "SUPPORT_CHAT_SUBHEADING": "Ваш ШІ-напарник у всьому, що стосується Snipp.",
-  "SUPPORT_CHAT_EMPTY": "Привіт, я Snippy. Я можу перевірити ваш акаунт, змінити ім'я користувача, вбудовування, тему чи інші налаштування, вийти на пристрої або передати щось команді. Що вам потрібно?",
+  "SUPPORT_CHAT_EMPTY": "Привіт, я Snippy. Я можу перевірити ваш акаунт, знайти й відредагувати ваші дописи, змінити ваші налаштування, вийти на пристрої або передати щось команді. Що вам потрібно?",
   "SUPPORT_CHAT_INPUT_PLACEHOLDER": "Напишіть щось...",
   "SUPPORT_CHAT_INPUT_PLACEHOLDER_PENDING": "Або напишіть, щоб пропустити цю зміну...",
   "SUPPORT_CHAT_PROFILE_HEADING": "Оновити акаунт",
@@ -2293,5 +2293,10 @@
   "SUPPORT_CHAT_APP_HEADING": "Оновити застосунок",
   "COMMON_CREATE": "Створити",
   "SUPPORT_CHAT_COPY_CODE": "Копіювати код",
+  "SUPPORT_CHAT_POST_HEADING": "Оновити допис",
+  "SUPPORT_CHAT_OPEN_PAGE": "Відкрити",
+  "SUPPORT_CHAT_STATUS_APPLYING": "Збереження...",
+  "SUPPORT_CHAT_REFUSAL": "Вибачте, з цим я не можу допомогти.",
+  "SUPPORT_CHAT_STUCK": "Я на цьому застряг. Можете сказати це інакше?",
   "COMMON_BETA_BADGE": "БЕТА"
 }

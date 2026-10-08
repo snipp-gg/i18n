@@ -2268,7 +2268,7 @@
   "SUPPORT_CHAT_OPEN": "Snippy öffnen",
   "SUPPORT_CHAT_HEADING": "Snippy",
   "SUPPORT_CHAT_SUBHEADING": "Dein KI-Sidekick für alles rund um Snipp.",
-  "SUPPORT_CHAT_EMPTY": "Hi, ich bin Snippy. Ich kann mir dein Konto ansehen, deinen Benutzernamen, deine Einbettung, dein Design oder andere Einstellungen ändern, ein Gerät abmelden oder etwas an das Team weitergeben. Was brauchst du?",
+  "SUPPORT_CHAT_EMPTY": "Hi, ich bin Snippy. Ich kann mir dein Konto ansehen, deine Beiträge finden und bearbeiten, deine Einstellungen ändern, ein Gerät abmelden oder etwas an das Team weitergeben. Was brauchst du?",
   "SUPPORT_CHAT_INPUT_PLACEHOLDER": "Schreib etwas...",
   "SUPPORT_CHAT_INPUT_PLACEHOLDER_PENDING": "Oder tippe, um diese Änderung zu überspringen...",
   "SUPPORT_CHAT_PROFILE_HEADING": "Konto aktualisieren",
@@ -2293,5 +2293,10 @@
   "SUPPORT_CHAT_APP_HEADING": "App aktualisieren",
   "COMMON_CREATE": "Erstellen",
   "SUPPORT_CHAT_COPY_CODE": "Code kopieren",
+  "SUPPORT_CHAT_POST_HEADING": "Beitrag aktualisieren",
+  "SUPPORT_CHAT_OPEN_PAGE": "Öffnen",
+  "SUPPORT_CHAT_STATUS_APPLYING": "Wird gespeichert...",
+  "SUPPORT_CHAT_REFUSAL": "Tut mir leid, dabei kann ich nicht helfen.",
+  "SUPPORT_CHAT_STUCK": "Da bin ich hängen geblieben. Kannst du es anders formulieren?",
   "COMMON_BETA_BADGE": "BETA"
 }

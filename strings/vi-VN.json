@@ -2268,7 +2268,7 @@
   "SUPPORT_CHAT_OPEN": "Mở Snippy",
   "SUPPORT_CHAT_HEADING": "Snippy",
   "SUPPORT_CHAT_SUBHEADING": "Trợ thủ AI của bạn cho mọi thứ về Snipp.",
-  "SUPPORT_CHAT_EMPTY": "Chào bạn, tôi là Snippy. Tôi có thể kiểm tra tài khoản của bạn, đổi tên người dùng, nhúng, giao diện hoặc các cài đặt khác, đăng xuất một thiết bị, hoặc chuyển lời đến đội ngũ. Bạn cần gì?",
+  "SUPPORT_CHAT_EMPTY": "Chào bạn, tôi là Snippy. Tôi có thể kiểm tra tài khoản của bạn, tìm và chỉnh sửa bài đăng của bạn, thay đổi cài đặt của bạn, đăng xuất một thiết bị, hoặc chuyển lời đến đội ngũ. Bạn cần gì?",
   "SUPPORT_CHAT_INPUT_PLACEHOLDER": "Nhập gì đó...",
   "SUPPORT_CHAT_INPUT_PLACEHOLDER_PENDING": "Hoặc nhập để bỏ qua thay đổi này...",
   "SUPPORT_CHAT_PROFILE_HEADING": "Cập nhật tài khoản của bạn",
@@ -2293,5 +2293,10 @@
   "SUPPORT_CHAT_APP_HEADING": "Cập nhật một ứng dụng",
   "COMMON_CREATE": "Tạo",
   "SUPPORT_CHAT_COPY_CODE": "Sao chép mã",
+  "SUPPORT_CHAT_POST_HEADING": "Cập nhật một bài đăng",
+  "SUPPORT_CHAT_OPEN_PAGE": "Mở",
+  "SUPPORT_CHAT_STATUS_APPLYING": "Đang lưu...",
+  "SUPPORT_CHAT_REFUSAL": "Xin lỗi, việc này tôi không giúp được.",
+  "SUPPORT_CHAT_STUCK": "Tôi chưa hiểu rõ chỗ này. Bạn có thể nói theo cách khác không?",
   "COMMON_BETA_BADGE": "BETA"
 }
