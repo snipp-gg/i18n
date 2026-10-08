@@ -2263,7 +2263,7 @@
   "SUPPORT_ACCOUNT_ISSUES_DELETION_P1_AFTER_LINK": ". ",
   "SUPPORT_CHAT_OPEN": "Open Snippy",
   "SUPPORT_CHAT_HEADING": "Snippy",
-  "SUPPORT_CHAT_SUBHEADING": "AI assistant for your queries.",
+  "SUPPORT_CHAT_SUBHEADING": "Your AI sidekick for all things Snipp.",
   "SUPPORT_CHAT_EMPTY": "Hi, I'm Snippy. I can look into your account, change your username, embed, theme or other settings, log out a device, or pass something on to the team. What do you need?",
   "SUPPORT_CHAT_INPUT_PLACEHOLDER": "Type something...",
   "SUPPORT_CHAT_INPUT_PLACEHOLDER_PENDING": "Or type to skip this change...",
@@ -2285,5 +2285,9 @@
   "SUPPORT_CHAT_LOOKING": "Looking into it...",
   "SUPPORT_CHAT_WORKING": "Working on it...",
   "SUPPORT_CHAT_PONDERING": "Pondering...",
-  "SUPPORT_CHAT_DISCLAIMER": "Snippy can make mistakes. Check important info."
+  "SUPPORT_CHAT_DISCLAIMER": "Snippy can make mistakes. Check important info.",
+  "SUPPORT_CHAT_APP_HEADING": "Update an app",
+  "COMMON_CREATE": "Create",
+  "SUPPORT_CHAT_COPY_CODE": "Copy code",
+  "COMMON_BETA_BADGE": "BETA"
 }
