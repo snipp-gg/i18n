@@ -2287,5 +2287,6 @@
   "SUPPORT_CHAT_PONDERING": "Đang cân nhắc...",
   "SUPPORT_CHAT_DISCLAIMER": "Snippy có thể mắc lỗi. Hãy kiểm tra thông tin quan trọng.",
   "SUPPORT_CHAT_APP_HEADING": "Cập nhật một ứng dụng",
-  "COMMON_CREATE": "Tạo"
+  "COMMON_CREATE": "Tạo",
+  "SUPPORT_CHAT_COPY_CODE": "Sao chép mã"
 }

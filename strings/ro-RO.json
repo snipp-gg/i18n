@@ -2287,5 +2287,6 @@
   "SUPPORT_CHAT_PONDERING": "Reflectez...",
   "SUPPORT_CHAT_DISCLAIMER": "Snippy poate greși. Verifică informațiile importante.",
   "SUPPORT_CHAT_APP_HEADING": "Actualizează o aplicație",
-  "COMMON_CREATE": "Creează"
+  "COMMON_CREATE": "Creează",
+  "SUPPORT_CHAT_COPY_CODE": "Copiază codul"
 }

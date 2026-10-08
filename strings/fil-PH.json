@@ -2287,5 +2287,6 @@
   "SUPPORT_CHAT_PONDERING": "Pinag-iisipan...",
   "SUPPORT_CHAT_DISCLAIMER": "Puwedeng magkamali si Snippy. Suriin ang mahahalagang impormasyon.",
   "SUPPORT_CHAT_APP_HEADING": "I-update ang isang app",
-  "COMMON_CREATE": "Gumawa"
+  "COMMON_CREATE": "Gumawa",
+  "SUPPORT_CHAT_COPY_CODE": "Kopyahin ang code"
 }

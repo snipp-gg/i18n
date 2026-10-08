@@ -2287,5 +2287,6 @@
   "SUPPORT_CHAT_PONDERING": "Promišljam...",
   "SUPPORT_CHAT_DISCLAIMER": "Snippy može pogriješiti. Provjeri važne informacije.",
   "SUPPORT_CHAT_APP_HEADING": "Ažuriraj aplikaciju",
-  "COMMON_CREATE": "Izradi"
+  "COMMON_CREATE": "Izradi",
+  "SUPPORT_CHAT_COPY_CODE": "Kopiraj kod"
 }

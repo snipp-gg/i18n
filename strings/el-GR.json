@@ -2287,5 +2287,6 @@
   "SUPPORT_CHAT_PONDERING": "Συλλογίζομαι...",
   "SUPPORT_CHAT_DISCLAIMER": "Ο Snippy μπορεί να κάνει λάθη. Ελέγχετε τις σημαντικές πληροφορίες.",
   "SUPPORT_CHAT_APP_HEADING": "Ενημερώστε μια εφαρμογή",
-  "COMMON_CREATE": "Δημιουργία"
+  "COMMON_CREATE": "Δημιουργία",
+  "SUPPORT_CHAT_COPY_CODE": "Αντιγραφή κώδικα"
 }

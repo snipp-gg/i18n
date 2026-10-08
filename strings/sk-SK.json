@@ -2287,5 +2287,6 @@
   "SUPPORT_CHAT_PONDERING": "Uvažujem...",
   "SUPPORT_CHAT_DISCLAIMER": "Snippy môže robiť chyby. Dôležité informácie si over.",
   "SUPPORT_CHAT_APP_HEADING": "Aktualizuj aplikáciu",
-  "COMMON_CREATE": "Vytvoriť"
+  "COMMON_CREATE": "Vytvoriť",
+  "SUPPORT_CHAT_COPY_CODE": "Kopírovať kód"
 }

@@ -2287,5 +2287,6 @@
   "SUPPORT_CHAT_PONDERING": "思案中...",
   "SUPPORT_CHAT_DISCLAIMER": "Snippy は間違えることがあります。重要な情報はご確認ください。",
   "SUPPORT_CHAT_APP_HEADING": "アプリを更新",
-  "COMMON_CREATE": "作成"
+  "COMMON_CREATE": "作成",
+  "SUPPORT_CHAT_COPY_CODE": "コードをコピー"
 }
