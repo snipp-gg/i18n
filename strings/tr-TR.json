@@ -2285,5 +2285,7 @@
   "SUPPORT_CHAT_LOOKING": "Bakıyorum...",
   "SUPPORT_CHAT_WORKING": "Üzerinde çalışıyorum...",
   "SUPPORT_CHAT_PONDERING": "Değerlendiriyorum...",
-  "SUPPORT_CHAT_DISCLAIMER": "Snippy hata yapabilir. Önemli bilgileri kontrol edin."
+  "SUPPORT_CHAT_DISCLAIMER": "Snippy hata yapabilir. Önemli bilgileri kontrol edin.",
+  "SUPPORT_CHAT_APP_HEADING": "Bir uygulamayı güncelleyin",
+  "COMMON_CREATE": "Oluştur"
 }

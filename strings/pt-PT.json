@@ -2285,5 +2285,7 @@
   "SUPPORT_CHAT_LOOKING": "A investigar...",
   "SUPPORT_CHAT_WORKING": "A tratar disso...",
   "SUPPORT_CHAT_PONDERING": "A refletir...",
-  "SUPPORT_CHAT_DISCLAIMER": "O Snippy pode cometer erros. Verifique as informações importantes."
+  "SUPPORT_CHAT_DISCLAIMER": "O Snippy pode cometer erros. Verifique as informações importantes.",
+  "SUPPORT_CHAT_APP_HEADING": "Atualizar uma aplicação",
+  "COMMON_CREATE": "Criar"
 }

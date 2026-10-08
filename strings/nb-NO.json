@@ -2285,5 +2285,7 @@
   "SUPPORT_CHAT_LOOKING": "Undersøker...",
   "SUPPORT_CHAT_WORKING": "Jobber med saken...",
   "SUPPORT_CHAT_PONDERING": "Funderer...",
-  "SUPPORT_CHAT_DISCLAIMER": "Snippy kan gjøre feil. Sjekk viktig informasjon."
+  "SUPPORT_CHAT_DISCLAIMER": "Snippy kan gjøre feil. Sjekk viktig informasjon.",
+  "SUPPORT_CHAT_APP_HEADING": "Oppdater en app",
+  "COMMON_CREATE": "Opprett"
 }

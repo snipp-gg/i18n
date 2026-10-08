@@ -2285,5 +2285,7 @@
   "SUPPORT_CHAT_LOOKING": "Zisťujem...",
   "SUPPORT_CHAT_WORKING": "Pracujem na tom...",
   "SUPPORT_CHAT_PONDERING": "Uvažujem...",
-  "SUPPORT_CHAT_DISCLAIMER": "Snippy môže robiť chyby. Dôležité informácie si over."
+  "SUPPORT_CHAT_DISCLAIMER": "Snippy môže robiť chyby. Dôležité informácie si over.",
+  "SUPPORT_CHAT_APP_HEADING": "Aktualizuj aplikáciu",
+  "COMMON_CREATE": "Vytvoriť"
 }

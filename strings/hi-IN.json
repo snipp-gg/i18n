@@ -2285,5 +2285,7 @@
   "SUPPORT_CHAT_LOOKING": "देख रहा हूँ...",
   "SUPPORT_CHAT_WORKING": "इस पर काम कर रहा हूँ...",
   "SUPPORT_CHAT_PONDERING": "विचार कर रहा हूँ...",
-  "SUPPORT_CHAT_DISCLAIMER": "Snippy गलतियाँ कर सकता है। ज़रूरी जानकारी की जाँच करें।"
+  "SUPPORT_CHAT_DISCLAIMER": "Snippy गलतियाँ कर सकता है। ज़रूरी जानकारी की जाँच करें।",
+  "SUPPORT_CHAT_APP_HEADING": "एक ऐप अपडेट करें",
+  "COMMON_CREATE": "बनाएँ"
 }

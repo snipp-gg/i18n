@@ -2285,5 +2285,7 @@
   "SUPPORT_CHAT_LOOKING": "Розбираюся...",
   "SUPPORT_CHAT_WORKING": "Працюю над цим...",
   "SUPPORT_CHAT_PONDERING": "Розмірковую...",
-  "SUPPORT_CHAT_DISCLAIMER": "Snippy може помилятися. Перевіряйте важливу інформацію."
+  "SUPPORT_CHAT_DISCLAIMER": "Snippy може помилятися. Перевіряйте важливу інформацію.",
+  "SUPPORT_CHAT_APP_HEADING": "Оновити застосунок",
+  "COMMON_CREATE": "Створити"
 }

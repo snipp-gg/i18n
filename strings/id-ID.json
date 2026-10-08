@@ -2285,5 +2285,7 @@
   "SUPPORT_CHAT_LOOKING": "Mencari tahu...",
   "SUPPORT_CHAT_WORKING": "Sedang mengerjakan...",
   "SUPPORT_CHAT_PONDERING": "Menimbang...",
-  "SUPPORT_CHAT_DISCLAIMER": "Snippy bisa saja salah. Periksa informasi penting."
+  "SUPPORT_CHAT_DISCLAIMER": "Snippy bisa saja salah. Periksa informasi penting.",
+  "SUPPORT_CHAT_APP_HEADING": "Perbarui aplikasi",
+  "COMMON_CREATE": "Buat"
 }

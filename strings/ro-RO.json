@@ -2285,5 +2285,7 @@
   "SUPPORT_CHAT_LOOKING": "Analizez...",
   "SUPPORT_CHAT_WORKING": "Lucrez la asta...",
   "SUPPORT_CHAT_PONDERING": "Reflectez...",
-  "SUPPORT_CHAT_DISCLAIMER": "Snippy poate greși. Verifică informațiile importante."
+  "SUPPORT_CHAT_DISCLAIMER": "Snippy poate greși. Verifică informațiile importante.",
+  "SUPPORT_CHAT_APP_HEADING": "Actualizează o aplicație",
+  "COMMON_CREATE": "Creează"
 }

@@ -2285,5 +2285,7 @@
   "SUPPORT_CHAT_LOOKING": "Je me renseigne...",
   "SUPPORT_CHAT_WORKING": "Je m'en occupe...",
   "SUPPORT_CHAT_PONDERING": "Je cogite...",
-  "SUPPORT_CHAT_DISCLAIMER": "Snippy peut faire des erreurs. Vérifiez les informations importantes."
+  "SUPPORT_CHAT_DISCLAIMER": "Snippy peut faire des erreurs. Vérifiez les informations importantes.",
+  "SUPPORT_CHAT_APP_HEADING": "Mettre à jour une application",
+  "COMMON_CREATE": "Créer"
 }

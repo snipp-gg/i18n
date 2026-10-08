@@ -2285,5 +2285,7 @@
   "SUPPORT_CHAT_LOOKING": "Even kijken...",
   "SUPPORT_CHAT_WORKING": "Ermee bezig...",
   "SUPPORT_CHAT_PONDERING": "Overwegen...",
-  "SUPPORT_CHAT_DISCLAIMER": "Snippy kan fouten maken. Controleer belangrijke informatie."
+  "SUPPORT_CHAT_DISCLAIMER": "Snippy kan fouten maken. Controleer belangrijke informatie.",
+  "SUPPORT_CHAT_APP_HEADING": "Een app bijwerken",
+  "COMMON_CREATE": "Aanmaken"
 }

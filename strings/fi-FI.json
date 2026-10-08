@@ -2285,5 +2285,7 @@
   "SUPPORT_CHAT_LOOKING": "Selvitetään...",
   "SUPPORT_CHAT_WORKING": "Työstetään...",
   "SUPPORT_CHAT_PONDERING": "Pohditaan...",
-  "SUPPORT_CHAT_DISCLAIMER": "Snippy voi tehdä virheitä. Tarkista tärkeät tiedot."
+  "SUPPORT_CHAT_DISCLAIMER": "Snippy voi tehdä virheitä. Tarkista tärkeät tiedot.",
+  "SUPPORT_CHAT_APP_HEADING": "Päivitä sovellus",
+  "COMMON_CREATE": "Luo"
 }

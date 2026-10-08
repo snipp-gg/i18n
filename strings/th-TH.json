@@ -2285,5 +2285,7 @@
   "SUPPORT_CHAT_LOOKING": "กำลังดูให้...",
   "SUPPORT_CHAT_WORKING": "กำลังจัดการให้...",
   "SUPPORT_CHAT_PONDERING": "กำลังไตร่ตรอง...",
-  "SUPPORT_CHAT_DISCLAIMER": "Snippy อาจทำผิดพลาดได้ โปรดตรวจสอบข้อมูลสำคัญ"
+  "SUPPORT_CHAT_DISCLAIMER": "Snippy อาจทำผิดพลาดได้ โปรดตรวจสอบข้อมูลสำคัญ",
+  "SUPPORT_CHAT_APP_HEADING": "อัปเดตแอป",
+  "COMMON_CREATE": "สร้าง"
 }
