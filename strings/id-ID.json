@@ -2288,5 +2288,6 @@
   "SUPPORT_CHAT_DISCLAIMER": "Snippy bisa saja salah. Periksa informasi penting.",
   "SUPPORT_CHAT_APP_HEADING": "Perbarui aplikasi",
   "COMMON_CREATE": "Buat",
-  "SUPPORT_CHAT_COPY_CODE": "Salin kode"
+  "SUPPORT_CHAT_COPY_CODE": "Salin kode",
+  "COMMON_BETA_BADGE": "BETA"
 }

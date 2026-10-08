@@ -2288,5 +2288,6 @@
   "SUPPORT_CHAT_DISCLAIMER": "Snippy hata yapabilir. Önemli bilgileri kontrol edin.",
   "SUPPORT_CHAT_APP_HEADING": "Bir uygulamayı güncelleyin",
   "COMMON_CREATE": "Oluştur",
-  "SUPPORT_CHAT_COPY_CODE": "Kodu kopyala"
+  "SUPPORT_CHAT_COPY_CODE": "Kodu kopyala",
+  "COMMON_BETA_BADGE": "BETA"
 }

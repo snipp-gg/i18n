@@ -2288,5 +2288,6 @@
   "SUPPORT_CHAT_DISCLAIMER": "Snippy může dělat chyby. Důležité informace si ověřte.",
   "SUPPORT_CHAT_APP_HEADING": "Aktualizovat aplikaci",
   "COMMON_CREATE": "Vytvořit",
-  "SUPPORT_CHAT_COPY_CODE": "Kopírovat kód"
+  "SUPPORT_CHAT_COPY_CODE": "Kopírovat kód",
+  "COMMON_BETA_BADGE": "BETA"
 }

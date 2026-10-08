@@ -2288,5 +2288,6 @@
   "SUPPORT_CHAT_DISCLAIMER": "Snippy kan göra fel. Kontrollera viktig information.",
   "SUPPORT_CHAT_APP_HEADING": "Uppdatera en app",
   "COMMON_CREATE": "Skapa",
-  "SUPPORT_CHAT_COPY_CODE": "Kopiera kod"
+  "SUPPORT_CHAT_COPY_CODE": "Kopiera kod",
+  "COMMON_BETA_BADGE": "BETA"
 }

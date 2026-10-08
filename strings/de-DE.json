@@ -2288,5 +2288,6 @@
   "SUPPORT_CHAT_DISCLAIMER": "Snippy kann Fehler machen. Überprüfe wichtige Infos.",
   "SUPPORT_CHAT_APP_HEADING": "App aktualisieren",
   "COMMON_CREATE": "Erstellen",
-  "SUPPORT_CHAT_COPY_CODE": "Code kopieren"
+  "SUPPORT_CHAT_COPY_CODE": "Code kopieren",
+  "COMMON_BETA_BADGE": "BETA"
 }

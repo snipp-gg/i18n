@@ -2288,5 +2288,6 @@
   "SUPPORT_CHAT_DISCLAIMER": "Snippy може помилятися. Перевіряйте важливу інформацію.",
   "SUPPORT_CHAT_APP_HEADING": "Оновити застосунок",
   "COMMON_CREATE": "Створити",
-  "SUPPORT_CHAT_COPY_CODE": "Копіювати код"
+  "SUPPORT_CHAT_COPY_CODE": "Копіювати код",
+  "COMMON_BETA_BADGE": "БЕТА"
 }

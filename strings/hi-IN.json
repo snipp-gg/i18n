@@ -2288,5 +2288,6 @@
   "SUPPORT_CHAT_DISCLAIMER": "Snippy गलतियाँ कर सकता है। ज़रूरी जानकारी की जाँच करें।",
   "SUPPORT_CHAT_APP_HEADING": "एक ऐप अपडेट करें",
   "COMMON_CREATE": "बनाएँ",
-  "SUPPORT_CHAT_COPY_CODE": "कोड कॉपी करें"
+  "SUPPORT_CHAT_COPY_CODE": "कोड कॉपी करें",
+  "COMMON_BETA_BADGE": "बीटा"
 }

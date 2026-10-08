@@ -2288,5 +2288,6 @@
   "SUPPORT_CHAT_DISCLAIMER": "Snippy 可能会出错。请核实重要信息。",
   "SUPPORT_CHAT_APP_HEADING": "更新应用",
   "COMMON_CREATE": "创建",
-  "SUPPORT_CHAT_COPY_CODE": "复制代码"
+  "SUPPORT_CHAT_COPY_CODE": "复制代码",
+  "COMMON_BETA_BADGE": "测试版"
 }
