@@ -2268,7 +2268,6 @@
   "SUPPORT_ACCOUNT_ISSUES_DELETION_P1_AFTER_LINK": ". ",
   "SUPPORT_CHAT_OPEN": "Ouvrir Snippy",
   "SUPPORT_CHAT_HEADING": "Snippy",
-  "SUPPORT_CHAT_SUBHEADING": "Votre acolyte IA pour tout ce qui touche à Snipp.",
   "SUPPORT_CHAT_EMPTY": "Bonjour, je suis Snippy. Je peux consulter votre compte, retrouver et modifier vos posts, changer vos paramètres, déconnecter un appareil ou transmettre quelque chose à l'équipe. De quoi avez-vous besoin ?",
   "SUPPORT_CHAT_INPUT_PLACEHOLDER": "Écrivez quelque chose...",
   "SUPPORT_CHAT_INPUT_PLACEHOLDER_PENDING": "Ou écrivez pour ignorer cette modification...",

@@ -2268,7 +2268,6 @@
   "SUPPORT_ACCOUNT_ISSUES_DELETION_P1_AFTER_LINK": ". ",
   "SUPPORT_CHAT_OPEN": "Öppna Snippy",
   "SUPPORT_CHAT_HEADING": "Snippy",
-  "SUPPORT_CHAT_SUBHEADING": "Din AI-kompis för allt som rör Snipp.",
   "SUPPORT_CHAT_EMPTY": "Hej, jag är Snippy. Jag kan titta på ditt konto, hitta och redigera dina inlägg, ändra dina inställningar, logga ut en enhet eller skicka något vidare till teamet. Vad behöver du?",
   "SUPPORT_CHAT_INPUT_PLACEHOLDER": "Skriv något...",
   "SUPPORT_CHAT_INPUT_PLACEHOLDER_PENDING": "Eller skriv för att hoppa över den här ändringen...",
