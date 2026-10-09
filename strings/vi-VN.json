@@ -1956,6 +1956,7 @@
   "UPLOAD_DROP_READY_FILE": "Tệp của bạn đã sẵn sàng tải lên!",
   "UPLOAD_PKG_NEXT": "Tiếp theo",
   "UPLOAD_PKG_BACK": "Quay lại",
+  "UPLOAD_LOGIN_PROMPT_BODY": "Đăng nhập để tải lên tệp của bạn, chỉnh sửa chúng và nhận ngay liên kết để chia sẻ.",
   "UPLOAD_PKG_DROP_HEADING": "Thả hoặc duyệt tệp để tải lên",
   "UPLOAD_PKG_TAP_HEADING": "Nhấn để chọn tệp cần tải lên",
   "UPLOAD_PKG_SUCCESS_HEADING": "Tải lên thành công!",

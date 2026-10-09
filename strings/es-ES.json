@@ -1956,6 +1956,7 @@
   "UPLOAD_DROP_READY_FILE": "¡Tu archivo está listo para subir!",
   "UPLOAD_PKG_NEXT": "Siguiente",
   "UPLOAD_PKG_BACK": "Atrás",
+  "UPLOAD_LOGIN_PROMPT_BODY": "Inicia sesión para subir tus archivos, editarlos y conseguir al instante un enlace para compartir.",
   "UPLOAD_PKG_DROP_HEADING": "Suelta o examina archivos para subir",
   "UPLOAD_PKG_TAP_HEADING": "Toca para elegir archivos y subirlos",
   "UPLOAD_PKG_SUCCESS_HEADING": "¡Subida completada!",

@@ -1956,6 +1956,7 @@
   "UPLOAD_DROP_READY_FILE": "Tiedostosi on valmis ladattavaksi!",
   "UPLOAD_PKG_NEXT": "Seuraava",
   "UPLOAD_PKG_BACK": "Takaisin",
+  "UPLOAD_LOGIN_PROMPT_BODY": "Kirjaudu sisään ladataksesi tiedostosi, muokataksesi niitä ja saadaksesi heti jaettavan linkin.",
   "UPLOAD_PKG_DROP_HEADING": "Pudota tai selaa tiedostoja ladataksesi",
   "UPLOAD_PKG_TAP_HEADING": "Napauta valitaksesi ladattavat tiedostot",
   "UPLOAD_PKG_SUCCESS_HEADING": "Lähetys onnistui!",

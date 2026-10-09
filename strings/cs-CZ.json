@@ -1956,6 +1956,7 @@
   "UPLOAD_DROP_READY_FILE": "Váš soubor je připraven k nahrání!",
   "UPLOAD_PKG_NEXT": "Další",
   "UPLOAD_PKG_BACK": "Zpět",
+  "UPLOAD_LOGIN_PROMPT_BODY": "Přihlaste se, abyste mohli nahrát své soubory, upravit je a získat okamžitý odkaz ke sdílení.",
   "UPLOAD_PKG_DROP_HEADING": "Přetáhněte nebo vyberte soubory k nahrání",
   "UPLOAD_PKG_TAP_HEADING": "Klepnutím vyberte soubory k nahrání",
   "UPLOAD_PKG_SUCCESS_HEADING": "Nahrávání proběhlo úspěšně!",

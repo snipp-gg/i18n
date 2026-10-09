@@ -1956,6 +1956,7 @@
   "UPLOAD_DROP_READY_FILE": "Vaš fajl je spreman za otpremanje!",
   "UPLOAD_PKG_NEXT": "Dalje",
   "UPLOAD_PKG_BACK": "Nazad",
+  "UPLOAD_LOGIN_PROMPT_BODY": "Prijavite se da biste otpremili svoje fajlove, izmenili ih i dobili trenutni link za deljenje.",
   "UPLOAD_PKG_DROP_HEADING": "Otpustite ili pregledajte datoteke za otpremanje",
   "UPLOAD_PKG_TAP_HEADING": "Dodirnite da izaberete datoteke za otpremanje",
   "UPLOAD_PKG_SUCCESS_HEADING": "Otpremanje je uspešno!",

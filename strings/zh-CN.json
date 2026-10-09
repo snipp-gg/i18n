@@ -1956,6 +1956,7 @@
   "UPLOAD_DROP_READY_FILE": "您的文件已准备好上传！",
   "UPLOAD_PKG_NEXT": "下一步",
   "UPLOAD_PKG_BACK": "返回",
+  "UPLOAD_LOGIN_PROMPT_BODY": "登录即可上传文件、编辑文件并立即获得分享链接。",
   "UPLOAD_PKG_DROP_HEADING": "拖放或浏览文件以上传",
   "UPLOAD_PKG_TAP_HEADING": "点按以选择要上传的文件",
   "UPLOAD_PKG_SUCCESS_HEADING": "上传成功！",

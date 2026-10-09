@@ -1956,6 +1956,7 @@
   "UPLOAD_DROP_READY_FILE": "Your file is ready to upload!",
   "UPLOAD_PKG_NEXT": "Next",
   "UPLOAD_PKG_BACK": "Back",
+  "UPLOAD_LOGIN_PROMPT_BODY": "Log in to upload your files, edit them, and get an instant link to share.",
   "UPLOAD_PKG_DROP_HEADING": "Drop files or browse to upload",
   "UPLOAD_PKG_TAP_HEADING": "Tap to choose files to upload",
   "UPLOAD_PKG_SUCCESS_HEADING": "Upload successful!",

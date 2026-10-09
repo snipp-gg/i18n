@@ -1956,6 +1956,7 @@
   "UPLOAD_DROP_READY_FILE": "Je bestand is klaar om te uploaden!",
   "UPLOAD_PKG_NEXT": "Volgende",
   "UPLOAD_PKG_BACK": "Terug",
+  "UPLOAD_LOGIN_PROMPT_BODY": "Log in om je bestanden te uploaden, ze te bewerken en direct een link te krijgen om te delen.",
   "UPLOAD_PKG_DROP_HEADING": "Sleep of blader door bestanden om te uploaden",
   "UPLOAD_PKG_TAP_HEADING": "Tik en kies bestanden om te uploaden",
   "UPLOAD_PKG_SUCCESS_HEADING": "Uploaden gelukt!",

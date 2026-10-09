@@ -1956,6 +1956,7 @@
   "UPLOAD_DROP_READY_FILE": "Fișierul tău este gata de încărcare!",
   "UPLOAD_PKG_NEXT": "Înainte",
   "UPLOAD_PKG_BACK": "Înapoi",
+  "UPLOAD_LOGIN_PROMPT_BODY": "Conectează-te pentru a-ți încărca fișierele, a le edita și a primi instant un link de partajat.",
   "UPLOAD_PKG_DROP_HEADING": "Plasați sau răsfoiți fișiere pentru încărcare",
   "UPLOAD_PKG_TAP_HEADING": "Atingeți pentru a alege fișiere de încărcat",
   "UPLOAD_PKG_SUCCESS_HEADING": "Încărcare reușită!",

@@ -1956,6 +1956,7 @@
   "UPLOAD_DROP_READY_FILE": "Votre fichier est prêt à être envoyé !",
   "UPLOAD_PKG_NEXT": "Suivant",
   "UPLOAD_PKG_BACK": "Retour",
+  "UPLOAD_LOGIN_PROMPT_BODY": "Connectez-vous pour envoyer vos fichiers, les modifier et obtenir un lien instantané à partager.",
   "UPLOAD_PKG_DROP_HEADING": "Déposez ou parcourez des fichiers à téléverser",
   "UPLOAD_PKG_TAP_HEADING": "Appuyez pour choisir des fichiers à envoyer",
   "UPLOAD_PKG_SUCCESS_HEADING": "Téléversement réussi !",

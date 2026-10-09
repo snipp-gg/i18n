@@ -1956,6 +1956,7 @@
   "UPLOAD_DROP_READY_FILE": "Файлът ви е готов за качване!",
   "UPLOAD_PKG_NEXT": "Напред",
   "UPLOAD_PKG_BACK": "Назад",
+  "UPLOAD_LOGIN_PROMPT_BODY": "Влезте, за да качите файловете си, да ги редактирате и да получите моментален линк за споделяне.",
   "UPLOAD_PKG_DROP_HEADING": "Пуснете или прегледайте файлове за качване",
   "UPLOAD_PKG_TAP_HEADING": "Докоснете, за да изберете файлове за качване",
   "UPLOAD_PKG_SUCCESS_HEADING": "Качването е успешно!",

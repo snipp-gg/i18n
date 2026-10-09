@@ -1956,6 +1956,7 @@
   "UPLOAD_DROP_READY_FILE": "Handa nang i-upload ang iyong file!",
   "UPLOAD_PKG_NEXT": "Susunod",
   "UPLOAD_PKG_BACK": "Bumalik",
+  "UPLOAD_LOGIN_PROMPT_BODY": "Mag-log in para mag-upload ng iyong mga file, i-edit ang mga ito, at makakuha ng instant na link para i-share.",
   "UPLOAD_PKG_DROP_HEADING": "Mag-drop o mag-browse ng mga file para i-upload",
   "UPLOAD_PKG_TAP_HEADING": "I-tap para pumili ng mga file na i-upload",
   "UPLOAD_PKG_SUCCESS_HEADING": "Matagumpay ang pag-upload!",

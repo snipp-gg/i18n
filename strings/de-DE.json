@@ -1956,6 +1956,7 @@
   "UPLOAD_DROP_READY_FILE": "Deine Datei ist bereit zum Hochladen!",
   "UPLOAD_PKG_NEXT": "Weiter",
   "UPLOAD_PKG_BACK": "Zurück",
+  "UPLOAD_LOGIN_PROMPT_BODY": "Melde dich an, um deine Dateien hochzuladen, sie zu bearbeiten und einen direkten Link zum Teilen zu erhalten.",
   "UPLOAD_PKG_DROP_HEADING": "Dateien ablegen oder zum Hochladen durchsuchen",
   "UPLOAD_PKG_TAP_HEADING": "Tippen, um Dateien zum Hochladen auszuwählen",
   "UPLOAD_PKG_SUCCESS_HEADING": "Upload erfolgreich!",

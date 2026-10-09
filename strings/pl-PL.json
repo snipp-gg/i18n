@@ -1956,6 +1956,7 @@
   "UPLOAD_DROP_READY_FILE": "Twój plik jest gotowy do przesłania!",
   "UPLOAD_PKG_NEXT": "Dalej",
   "UPLOAD_PKG_BACK": "Wstecz",
+  "UPLOAD_LOGIN_PROMPT_BODY": "Zaloguj się, aby przesłać swoje pliki, edytować je i otrzymać natychmiastowy link do udostępnienia.",
   "UPLOAD_PKG_DROP_HEADING": "Upuść lub przeglądaj pliki, aby przesłać",
   "UPLOAD_PKG_TAP_HEADING": "Dotknij, aby wybrać pliki do przesłania",
   "UPLOAD_PKG_SUCCESS_HEADING": "Przesyłanie zakończone!",

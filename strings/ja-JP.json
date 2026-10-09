@@ -1956,6 +1956,7 @@
   "UPLOAD_DROP_READY_FILE": "ファイルがアップロードの準備完了です。",
   "UPLOAD_PKG_NEXT": "次へ",
   "UPLOAD_PKG_BACK": "戻る",
+  "UPLOAD_LOGIN_PROMPT_BODY": "ログインしてファイルをアップロードしたり、編集したり、すぐにシェアできるリンクを手に入れたりしましょう。",
   "UPLOAD_PKG_DROP_HEADING": "ファイルをドロップまたは参照してアップロード",
   "UPLOAD_PKG_TAP_HEADING": "タップしてアップロードするファイルを選択",
   "UPLOAD_PKG_SUCCESS_HEADING": "アップロード完了！",

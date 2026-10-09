@@ -1956,6 +1956,7 @@
   "UPLOAD_DROP_READY_FILE": "Din fil är redo att laddas upp!",
   "UPLOAD_PKG_NEXT": "Nästa",
   "UPLOAD_PKG_BACK": "Tillbaka",
+  "UPLOAD_LOGIN_PROMPT_BODY": "Logga in för att ladda upp dina filer, redigera dem och få en direktlänk att dela.",
   "UPLOAD_PKG_DROP_HEADING": "Släpp eller bläddra bland filer att ladda upp",
   "UPLOAD_PKG_TAP_HEADING": "Tryck för att välja filer att ladda upp",
   "UPLOAD_PKG_SUCCESS_HEADING": "Uppladdning lyckades!",

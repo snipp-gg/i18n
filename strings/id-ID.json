@@ -1956,6 +1956,7 @@
   "UPLOAD_DROP_READY_FILE": "File Anda siap diunggah!",
   "UPLOAD_PKG_NEXT": "Berikutnya",
   "UPLOAD_PKG_BACK": "Kembali",
+  "UPLOAD_LOGIN_PROMPT_BODY": "Masuk untuk mengunggah file Anda, mengeditnya, dan mendapatkan tautan instan untuk dibagikan.",
   "UPLOAD_PKG_DROP_HEADING": "Jatuhkan atau telusuri file untuk diunggah",
   "UPLOAD_PKG_TAP_HEADING": "Ketuk untuk memilih file yang akan diunggah",
   "UPLOAD_PKG_SUCCESS_HEADING": "Unggahan berhasil!",

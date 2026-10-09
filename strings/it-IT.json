@@ -1956,6 +1956,7 @@
   "UPLOAD_DROP_READY_FILE": "Il tuo file è pronto per il caricamento!",
   "UPLOAD_PKG_NEXT": "Avanti",
   "UPLOAD_PKG_BACK": "Indietro",
+  "UPLOAD_LOGIN_PROMPT_BODY": "Accedi per caricare i tuoi file, modificarli e ricevere subito un link da condividere.",
   "UPLOAD_PKG_DROP_HEADING": "Trascina o sfoglia i file da caricare",
   "UPLOAD_PKG_TAP_HEADING": "Tocca per scegliere i file da caricare",
   "UPLOAD_PKG_SUCCESS_HEADING": "Caricamento riuscito!",
