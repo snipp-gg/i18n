@@ -2300,6 +2300,8 @@
   "SUPPORT_CHAT_STEP_APPS": "Je apps controleren",
   "SUPPORT_CHAT_STEP_PAGE": "Je huidige pagina controleren",
   "SUPPORT_CHAT_STEP_ESCALATE": "Contact opnemen met het team",
+  "SUPPORT_CHAT_THOUGHT_FOR": "{count} seconden nagedacht",
+  "SUPPORT_CHAT_THOUGHT_FOR_ONE": "{count} seconde nagedacht",
   "SUPPORT_CHAT_DISCLAIMER": "Snippy kan fouten maken. Controleer belangrijke informatie.",
   "SUPPORT_CHAT_APP_HEADING": "Een app bijwerken",
   "COMMON_CREATE": "Aanmaken",

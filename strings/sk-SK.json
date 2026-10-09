@@ -2300,6 +2300,8 @@
   "SUPPORT_CHAT_STEP_APPS": "Kontrolujem tvoje aplikácie",
   "SUPPORT_CHAT_STEP_PAGE": "Kontrolujem tvoju aktuálnu stránku",
   "SUPPORT_CHAT_STEP_ESCALATE": "Kontaktujem tím",
+  "SUPPORT_CHAT_THOUGHT_FOR": "Premýšľal som {count} sekúnd",
+  "SUPPORT_CHAT_THOUGHT_FOR_ONE": "Premýšľal som {count} sekundu",
   "SUPPORT_CHAT_DISCLAIMER": "Snippy môže robiť chyby. Dôležité informácie si over.",
   "SUPPORT_CHAT_APP_HEADING": "Aktualizuj aplikáciu",
   "COMMON_CREATE": "Vytvoriť",

@@ -2300,6 +2300,8 @@
   "SUPPORT_CHAT_STEP_APPS": "Provjeravam tvoje aplikacije",
   "SUPPORT_CHAT_STEP_PAGE": "Provjeravam tvoju trenutnu stranicu",
   "SUPPORT_CHAT_STEP_ESCALATE": "Kontaktiram tim",
+  "SUPPORT_CHAT_THOUGHT_FOR": "Razmišljao sam {count} sekundi",
+  "SUPPORT_CHAT_THOUGHT_FOR_ONE": "Razmišljao sam {count} sekundu",
   "SUPPORT_CHAT_DISCLAIMER": "Snippy može pogriješiti. Provjeri važne informacije.",
   "SUPPORT_CHAT_APP_HEADING": "Ažuriraj aplikaciju",
   "COMMON_CREATE": "Izradi",

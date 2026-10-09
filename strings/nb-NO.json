@@ -2300,6 +2300,8 @@
   "SUPPORT_CHAT_STEP_APPS": "Sjekker appene dine",
   "SUPPORT_CHAT_STEP_PAGE": "Sjekker siden du er på",
   "SUPPORT_CHAT_STEP_ESCALATE": "Kontakter teamet",
+  "SUPPORT_CHAT_THOUGHT_FOR": "Tenkte i {count} sekunder",
+  "SUPPORT_CHAT_THOUGHT_FOR_ONE": "Tenkte i {count} sekund",
   "SUPPORT_CHAT_DISCLAIMER": "Snippy kan gjøre feil. Sjekk viktig informasjon.",
   "SUPPORT_CHAT_APP_HEADING": "Oppdater en app",
   "COMMON_CREATE": "Opprett",

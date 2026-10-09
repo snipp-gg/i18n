@@ -2300,6 +2300,8 @@
   "SUPPORT_CHAT_STEP_APPS": "आपके ऐप्स जाँच रहा हूँ",
   "SUPPORT_CHAT_STEP_PAGE": "आपका मौजूदा पेज जाँच रहा हूँ",
   "SUPPORT_CHAT_STEP_ESCALATE": "टीम से संपर्क कर रहा हूँ",
+  "SUPPORT_CHAT_THOUGHT_FOR": "{count} सेकंड तक सोचा",
+  "SUPPORT_CHAT_THOUGHT_FOR_ONE": "{count} सेकंड तक सोचा",
   "SUPPORT_CHAT_DISCLAIMER": "Snippy गलतियाँ कर सकता है। ज़रूरी जानकारी की जाँच करें।",
   "SUPPORT_CHAT_APP_HEADING": "एक ऐप अपडेट करें",
   "COMMON_CREATE": "बनाएँ",

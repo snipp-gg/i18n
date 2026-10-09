@@ -2300,6 +2300,8 @@
   "SUPPORT_CHAT_STEP_APPS": "Kollar dina appar",
   "SUPPORT_CHAT_STEP_PAGE": "Kollar sidan du är på",
   "SUPPORT_CHAT_STEP_ESCALATE": "Kontaktar teamet",
+  "SUPPORT_CHAT_THOUGHT_FOR": "Tänkte i {count} sekunder",
+  "SUPPORT_CHAT_THOUGHT_FOR_ONE": "Tänkte i {count} sekund",
   "SUPPORT_CHAT_DISCLAIMER": "Snippy kan göra fel. Kontrollera viktig information.",
   "SUPPORT_CHAT_APP_HEADING": "Uppdatera en app",
   "COMMON_CREATE": "Skapa",

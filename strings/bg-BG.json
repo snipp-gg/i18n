@@ -2300,6 +2300,8 @@
   "SUPPORT_CHAT_STEP_APPS": "Проверявам приложенията ви",
   "SUPPORT_CHAT_STEP_PAGE": "Проверявам текущата ви страница",
   "SUPPORT_CHAT_STEP_ESCALATE": "Свързвам се с екипа",
+  "SUPPORT_CHAT_THOUGHT_FOR": "Мислих {count} секунди",
+  "SUPPORT_CHAT_THOUGHT_FOR_ONE": "Мислих {count} секунда",
   "SUPPORT_CHAT_DISCLAIMER": "Snippy може да греши. Проверявайте важната информация.",
   "SUPPORT_CHAT_APP_HEADING": "Обновете приложение",
   "COMMON_CREATE": "Създаване",

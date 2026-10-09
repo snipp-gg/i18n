@@ -2300,6 +2300,8 @@
   "SUPPORT_CHAT_STEP_APPS": "Ελέγχω τις εφαρμογές σας",
   "SUPPORT_CHAT_STEP_PAGE": "Ελέγχω την τρέχουσα σελίδα σας",
   "SUPPORT_CHAT_STEP_ESCALATE": "Επικοινωνώ με την ομάδα",
+  "SUPPORT_CHAT_THOUGHT_FOR": "Σκέφτηκα για {count} δευτερόλεπτα",
+  "SUPPORT_CHAT_THOUGHT_FOR_ONE": "Σκέφτηκα για {count} δευτερόλεπτο",
   "SUPPORT_CHAT_DISCLAIMER": "Ο Snippy μπορεί να κάνει λάθη. Ελέγχετε τις σημαντικές πληροφορίες.",
   "SUPPORT_CHAT_APP_HEADING": "Ενημερώστε μια εφαρμογή",
   "COMMON_CREATE": "Δημιουργία",

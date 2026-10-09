@@ -2300,6 +2300,8 @@
   "SUPPORT_CHAT_STEP_APPS": "Uygulamalarınızı kontrol ediyorum",
   "SUPPORT_CHAT_STEP_PAGE": "Bulunduğunuz sayfayı kontrol ediyorum",
   "SUPPORT_CHAT_STEP_ESCALATE": "Ekiple iletişime geçiyorum",
+  "SUPPORT_CHAT_THOUGHT_FOR": "{count} saniye düşündüm",
+  "SUPPORT_CHAT_THOUGHT_FOR_ONE": "{count} saniye düşündüm",
   "SUPPORT_CHAT_DISCLAIMER": "Snippy hata yapabilir. Önemli bilgileri kontrol edin.",
   "SUPPORT_CHAT_APP_HEADING": "Bir uygulamayı güncelleyin",
   "COMMON_CREATE": "Oluştur",

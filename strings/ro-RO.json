@@ -2300,6 +2300,8 @@
   "SUPPORT_CHAT_STEP_APPS": "Îți verific aplicațiile",
   "SUPPORT_CHAT_STEP_PAGE": "Îți verific pagina curentă",
   "SUPPORT_CHAT_STEP_ESCALATE": "Contactez echipa",
+  "SUPPORT_CHAT_THOUGHT_FOR": "M-am gândit {count} secunde",
+  "SUPPORT_CHAT_THOUGHT_FOR_ONE": "M-am gândit {count} secundă",
   "SUPPORT_CHAT_DISCLAIMER": "Snippy poate greși. Verifică informațiile importante.",
   "SUPPORT_CHAT_APP_HEADING": "Actualizează o aplicație",
   "COMMON_CREATE": "Creează",

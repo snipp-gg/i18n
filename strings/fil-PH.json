@@ -2300,6 +2300,8 @@
   "SUPPORT_CHAT_STEP_APPS": "Chine-check ang iyong mga app",
   "SUPPORT_CHAT_STEP_PAGE": "Chine-check ang iyong kasalukuyang page",
   "SUPPORT_CHAT_STEP_ESCALATE": "Kinokontak ang team",
+  "SUPPORT_CHAT_THOUGHT_FOR": "Nag-isip nang {count} na segundo",
+  "SUPPORT_CHAT_THOUGHT_FOR_ONE": "Nag-isip nang {count} segundo",
   "SUPPORT_CHAT_DISCLAIMER": "Puwedeng magkamali si Snippy. Suriin ang mahahalagang impormasyon.",
   "SUPPORT_CHAT_APP_HEADING": "I-update ang isang app",
   "COMMON_CREATE": "Gumawa",

@@ -2300,6 +2300,8 @@
   "SUPPORT_CHAT_STEP_APPS": "Tarkistetaan sovelluksiasi",
   "SUPPORT_CHAT_STEP_PAGE": "Tarkistetaan nykyistä sivuasi",
   "SUPPORT_CHAT_STEP_ESCALATE": "Otetaan yhteyttä tiimiin",
+  "SUPPORT_CHAT_THOUGHT_FOR": "Mietittiin {count} sekuntia",
+  "SUPPORT_CHAT_THOUGHT_FOR_ONE": "Mietittiin {count} sekunti",
   "SUPPORT_CHAT_DISCLAIMER": "Snippy voi tehdä virheitä. Tarkista tärkeät tiedot.",
   "SUPPORT_CHAT_APP_HEADING": "Päivitä sovellus",
   "COMMON_CREATE": "Luo",

@@ -2300,6 +2300,8 @@
   "SUPPORT_CHAT_STEP_APPS": "正在检查您的应用",
   "SUPPORT_CHAT_STEP_PAGE": "正在检查您当前的页面",
   "SUPPORT_CHAT_STEP_ESCALATE": "正在联系团队",
+  "SUPPORT_CHAT_THOUGHT_FOR": "已思考 {count} 秒",
+  "SUPPORT_CHAT_THOUGHT_FOR_ONE": "已思考 {count} 秒",
   "SUPPORT_CHAT_DISCLAIMER": "Snippy 可能会出错。请核实重要信息。",
   "SUPPORT_CHAT_APP_HEADING": "更新应用",
   "COMMON_CREATE": "创建",
