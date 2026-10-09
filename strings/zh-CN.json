@@ -706,6 +706,7 @@
   "LOGIN_MAGIC_LINK_SUBHEADING": "我们会向您发送一个魔法链接。无需密码。",
   "COMMON_EMAIL": "邮箱",
   "COMMON_EMAIL_PLACEHOLDER": "you@example.com",
+  "COMMON_SEND": "发送",
   "COMMON_SENDING": "发送中...",
   "LOGIN_SEND_MAGIC_LINK_BUTTON": "发送魔法链接",
   "LOGIN_ERROR_CODE_INCORRECT": "验证码错误。",

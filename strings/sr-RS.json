@@ -706,6 +706,7 @@
   "LOGIN_MAGIC_LINK_SUBHEADING": "Poslaćemo vam magični link. Lozinka nije potrebna.",
   "COMMON_EMAIL": "Imejl",
   "COMMON_EMAIL_PLACEHOLDER": "vi@primer.com",
+  "COMMON_SEND": "Pošalji",
   "COMMON_SENDING": "Slanje...",
   "LOGIN_SEND_MAGIC_LINK_BUTTON": "Pošalji magični link",
   "LOGIN_ERROR_CODE_INCORRECT": "Netačan kod.",

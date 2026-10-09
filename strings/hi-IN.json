@@ -706,6 +706,7 @@
   "LOGIN_MAGIC_LINK_SUBHEADING": "हम आपको एक मैजिक लिंक भेजेंगे। किसी पासवर्ड की ज़रूरत नहीं।",
   "COMMON_EMAIL": "ईमेल",
   "COMMON_EMAIL_PLACEHOLDER": "you@example.com",
+  "COMMON_SEND": "भेजें",
   "COMMON_SENDING": "भेज रहे हैं...",
   "LOGIN_SEND_MAGIC_LINK_BUTTON": "मैजिक लिंक भेजें",
   "LOGIN_ERROR_CODE_INCORRECT": "गलत कोड।",

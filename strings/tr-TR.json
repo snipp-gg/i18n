@@ -706,6 +706,7 @@
   "LOGIN_MAGIC_LINK_SUBHEADING": "Size bir sihirli bağlantı göndereceğiz. Parola gerekmez.",
   "COMMON_EMAIL": "E-posta",
   "COMMON_EMAIL_PLACEHOLDER": "siz@ornek.com",
+  "COMMON_SEND": "Gönder",
   "COMMON_SENDING": "Gönderiliyor...",
   "LOGIN_SEND_MAGIC_LINK_BUTTON": "Sihirli bağlantı gönder",
   "LOGIN_ERROR_CODE_INCORRECT": "Yanlış kod.",

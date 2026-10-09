@@ -706,6 +706,7 @@
   "LOGIN_MAGIC_LINK_SUBHEADING": "매직 링크를 보내드립니다. 비밀번호가 필요 없습니다.",
   "COMMON_EMAIL": "이메일",
   "COMMON_EMAIL_PLACEHOLDER": "you@example.com",
+  "COMMON_SEND": "보내기",
   "COMMON_SENDING": "보내는 중...",
   "LOGIN_SEND_MAGIC_LINK_BUTTON": "매직 링크 보내기",
   "LOGIN_ERROR_CODE_INCORRECT": "코드가 올바르지 않습니다.",

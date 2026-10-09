@@ -706,6 +706,7 @@
   "LOGIN_MAGIC_LINK_SUBHEADING": "Chúng tôi sẽ gửi cho bạn một magic link. Không cần mật khẩu.",
   "COMMON_EMAIL": "Email",
   "COMMON_EMAIL_PLACEHOLDER": "ban@vidu.com",
+  "COMMON_SEND": "Gửi",
   "COMMON_SENDING": "Đang gửi...",
   "LOGIN_SEND_MAGIC_LINK_BUTTON": "Gửi magic link",
   "LOGIN_ERROR_CODE_INCORRECT": "Mã không đúng.",

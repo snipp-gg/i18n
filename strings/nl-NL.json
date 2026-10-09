@@ -706,6 +706,7 @@
   "LOGIN_MAGIC_LINK_SUBHEADING": "We sturen je een magic link. Geen wachtwoord nodig.",
   "COMMON_EMAIL": "E-mail",
   "COMMON_EMAIL_PLACEHOLDER": "jij@voorbeeld.com",
+  "COMMON_SEND": "Verzenden",
   "COMMON_SENDING": "Verzenden...",
   "LOGIN_SEND_MAGIC_LINK_BUTTON": "Magic link versturen",
   "LOGIN_ERROR_CODE_INCORRECT": "Onjuiste code.",

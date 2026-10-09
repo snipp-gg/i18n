@@ -706,6 +706,7 @@
   "LOGIN_MAGIC_LINK_SUBHEADING": "Magpapadala kami sa iyo ng magic link. Walang password na kailangan.",
   "COMMON_EMAIL": "Email",
   "COMMON_EMAIL_PLACEHOLDER": "ikaw@example.com",
+  "COMMON_SEND": "Ipadala",
   "COMMON_SENDING": "Nagpapadala...",
   "LOGIN_SEND_MAGIC_LINK_BUTTON": "Magpadala ng magic link",
   "LOGIN_ERROR_CODE_INCORRECT": "Maling code.",

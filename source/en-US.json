@@ -706,6 +706,7 @@
   "LOGIN_MAGIC_LINK_SUBHEADING": "We'll send you a magic link. No password needed.",
   "COMMON_EMAIL": "Email",
   "COMMON_EMAIL_PLACEHOLDER": "you@example.com",
+  "COMMON_SEND": "Send",
   "COMMON_SENDING": "Sending...",
   "LOGIN_SEND_MAGIC_LINK_BUTTON": "Send magic link",
   "LOGIN_ERROR_CODE_INCORRECT": "Incorrect code.",

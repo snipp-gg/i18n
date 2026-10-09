@@ -706,6 +706,7 @@
   "LOGIN_MAGIC_LINK_SUBHEADING": "Мы отправим вам волшебную ссылку. Пароль не нужен.",
   "COMMON_EMAIL": "Электронная почта",
   "COMMON_EMAIL_PLACEHOLDER": "you@example.com",
+  "COMMON_SEND": "Отправить",
   "COMMON_SENDING": "Отправка...",
   "LOGIN_SEND_MAGIC_LINK_BUTTON": "Отправить волшебную ссылку",
   "LOGIN_ERROR_CODE_INCORRECT": "Неверный код.",

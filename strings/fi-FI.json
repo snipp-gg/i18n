@@ -706,6 +706,7 @@
   "LOGIN_MAGIC_LINK_SUBHEADING": "Lähetämme sinulle taikalinkin. Salasanaa ei tarvita.",
   "COMMON_EMAIL": "Sähköposti",
   "COMMON_EMAIL_PLACEHOLDER": "sina@esimerkki.com",
+  "COMMON_SEND": "Lähetä",
   "COMMON_SENDING": "Lähetetään...",
   "LOGIN_SEND_MAGIC_LINK_BUTTON": "Lähetä taikalinkki",
   "LOGIN_ERROR_CODE_INCORRECT": "Virheellinen koodi.",

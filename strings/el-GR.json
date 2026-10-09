@@ -706,6 +706,7 @@
   "LOGIN_MAGIC_LINK_SUBHEADING": "Θα σας στείλουμε ένα magic link. Δεν χρειάζεται κωδικός πρόσβασης.",
   "COMMON_EMAIL": "Email",
   "COMMON_EMAIL_PLACEHOLDER": "εσείς@παράδειγμα.com",
+  "COMMON_SEND": "Αποστολή",
   "COMMON_SENDING": "Αποστολή...",
   "LOGIN_SEND_MAGIC_LINK_BUTTON": "Αποστολή magic link",
   "LOGIN_ERROR_CODE_INCORRECT": "Λανθασμένος κωδικός.",

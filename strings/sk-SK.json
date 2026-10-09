@@ -706,6 +706,7 @@
   "LOGIN_MAGIC_LINK_SUBHEADING": "Pošleme ti magický odkaz. Heslo nie je potrebné.",
   "COMMON_EMAIL": "E-mail",
   "COMMON_EMAIL_PLACEHOLDER": "ty@priklad.com",
+  "COMMON_SEND": "Odoslať",
   "COMMON_SENDING": "Odosiela sa...",
   "LOGIN_SEND_MAGIC_LINK_BUTTON": "Poslať magický odkaz",
   "LOGIN_ERROR_CODE_INCORRECT": "Nesprávny kód.",

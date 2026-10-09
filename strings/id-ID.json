@@ -706,6 +706,7 @@
   "LOGIN_MAGIC_LINK_SUBHEADING": "Kami akan mengirimi Anda magic link. Tidak perlu kata sandi.",
   "COMMON_EMAIL": "Email",
   "COMMON_EMAIL_PLACEHOLDER": "anda@contoh.com",
+  "COMMON_SEND": "Kirim",
   "COMMON_SENDING": "Mengirim...",
   "LOGIN_SEND_MAGIC_LINK_BUTTON": "Kirim magic link",
   "LOGIN_ERROR_CODE_INCORRECT": "Kode salah.",

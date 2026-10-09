@@ -706,6 +706,7 @@
   "LOGIN_MAGIC_LINK_SUBHEADING": "Enviar-lhe-emos um link mágico. Sem palavra-passe necessária.",
   "COMMON_EMAIL": "E-mail",
   "COMMON_EMAIL_PLACEHOLDER": "voce@exemplo.com",
+  "COMMON_SEND": "Enviar",
   "COMMON_SENDING": "A enviar...",
   "LOGIN_SEND_MAGIC_LINK_BUTTON": "Enviar link mágico",
   "LOGIN_ERROR_CODE_INCORRECT": "Código incorreto.",

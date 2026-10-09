@@ -706,6 +706,7 @@
   "LOGIN_MAGIC_LINK_SUBHEADING": "Vi sender deg en magisk lenke. Ingen passord nødvendig.",
   "COMMON_EMAIL": "E-post",
   "COMMON_EMAIL_PLACEHOLDER": "du@eksempel.no",
+  "COMMON_SEND": "Send",
   "COMMON_SENDING": "Sender...",
   "LOGIN_SEND_MAGIC_LINK_BUTTON": "Send magisk lenke",
   "LOGIN_ERROR_CODE_INCORRECT": "Feil kode.",

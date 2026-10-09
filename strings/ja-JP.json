@@ -706,6 +706,7 @@
   "LOGIN_MAGIC_LINK_SUBHEADING": "マジックリンクをお送りします。パスワードは不要です。",
   "COMMON_EMAIL": "メールアドレス",
   "COMMON_EMAIL_PLACEHOLDER": "you@example.com",
+  "COMMON_SEND": "送信",
   "COMMON_SENDING": "送信中...",
   "LOGIN_SEND_MAGIC_LINK_BUTTON": "マジックリンクを送信",
   "LOGIN_ERROR_CODE_INCORRECT": "コードが正しくありません。",

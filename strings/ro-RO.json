@@ -706,6 +706,7 @@
   "LOGIN_MAGIC_LINK_SUBHEADING": "Îți vom trimite un link magic. Fără parolă.",
   "COMMON_EMAIL": "E-mail",
   "COMMON_EMAIL_PLACEHOLDER": "tu@exemplu.com",
+  "COMMON_SEND": "Trimite",
   "COMMON_SENDING": "Se trimite...",
   "LOGIN_SEND_MAGIC_LINK_BUTTON": "Trimite linkul magic",
   "LOGIN_ERROR_CODE_INCORRECT": "Cod incorect.",

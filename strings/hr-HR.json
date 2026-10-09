@@ -706,6 +706,7 @@
   "LOGIN_MAGIC_LINK_SUBHEADING": "Poslat ćemo ti magičnu poveznicu. Lozinka nije potrebna.",
   "COMMON_EMAIL": "E-pošta",
   "COMMON_EMAIL_PLACEHOLDER": "ti@primjer.com",
+  "COMMON_SEND": "Pošalji",
   "COMMON_SENDING": "Slanje...",
   "LOGIN_SEND_MAGIC_LINK_BUTTON": "Pošalji magičnu poveznicu",
   "LOGIN_ERROR_CODE_INCORRECT": "Neispravan kod.",

@@ -706,6 +706,7 @@
   "LOGIN_MAGIC_LINK_SUBHEADING": "เราจะส่งลิงก์เวทย์มนตร์ให้คุณ ไม่ต้องใช้รหัสผ่าน",
   "COMMON_EMAIL": "อีเมล",
   "COMMON_EMAIL_PLACEHOLDER": "you@example.com",
+  "COMMON_SEND": "ส่ง",
   "COMMON_SENDING": "กำลังส่ง...",
   "LOGIN_SEND_MAGIC_LINK_BUTTON": "ส่งลิงก์เวทย์มนตร์",
   "LOGIN_ERROR_CODE_INCORRECT": "รหัสไม่ถูกต้อง",
