@@ -2300,6 +2300,8 @@
   "SUPPORT_CHAT_STEP_APPS": "Checking your apps",
   "SUPPORT_CHAT_STEP_PAGE": "Checking your current page",
   "SUPPORT_CHAT_STEP_ESCALATE": "Contacting the team",
+  "SUPPORT_CHAT_THOUGHT_FOR": "Thought for {count} seconds",
+  "SUPPORT_CHAT_THOUGHT_FOR_ONE": "Thought for {count} second",
   "SUPPORT_CHAT_DISCLAIMER": "Snippy can make mistakes. Check important info.",
   "SUPPORT_CHAT_APP_HEADING": "Update an app",
   "COMMON_CREATE": "Create",
