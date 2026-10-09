@@ -706,6 +706,7 @@
   "LOGIN_MAGIC_LINK_SUBHEADING": "Ми надішлемо вам магічне посилання. Пароль не потрібен.",
   "COMMON_EMAIL": "Електронна пошта",
   "COMMON_EMAIL_PLACEHOLDER": "you@example.com",
+  "COMMON_SEND": "Send",
   "COMMON_SENDING": "Надсилання...",
   "LOGIN_SEND_MAGIC_LINK_BUTTON": "Send magic link",
   "LOGIN_ERROR_CODE_INCORRECT": "Неправильний код.",
