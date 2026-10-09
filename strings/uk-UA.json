@@ -2231,6 +2231,7 @@
   "SUPPORT_CHAT_SEND_ERROR": "Не вдалося надіслати ваше повідомлення. Спробуйте ще раз.",
   "SUPPORT_CHAT_NEW_CHAT_ERROR": "Не вдалося розпочати новий чат. Спробуйте ще раз.",
   "SUPPORT_CHAT_RATE_LIMITED": "Ви надсилаєте повідомлення надто швидко. Спробуйте ще раз трохи згодом.",
+  "SUPPORT_CHAT_DAILY_LIMIT": "Ви вичерпали ліміт чату на сьогодні. Надсилати нові повідомлення можна буде {time}.",
   "SUPPORT_CHAT_THINKING": "Думаю...",
   "SUPPORT_CHAT_CHECKING": "Перевіряю...",
   "SUPPORT_CHAT_LOOKING": "Розбираюся...",

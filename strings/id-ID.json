@@ -2231,6 +2231,7 @@
   "SUPPORT_CHAT_SEND_ERROR": "Tidak dapat mengirim pesan Anda. Silakan coba lagi.",
   "SUPPORT_CHAT_NEW_CHAT_ERROR": "Tidak dapat memulai obrolan baru. Silakan coba lagi.",
   "SUPPORT_CHAT_RATE_LIMITED": "Anda mengirim pesan terlalu cepat. Coba lagi sebentar.",
+  "SUPPORT_CHAT_DAILY_LIMIT": "Anda telah mencapai batas obrolan hari ini. Anda dapat mengirim pesan lagi {time}.",
   "SUPPORT_CHAT_THINKING": "Berpikir...",
   "SUPPORT_CHAT_CHECKING": "Memeriksa...",
   "SUPPORT_CHAT_LOOKING": "Mencari tahu...",

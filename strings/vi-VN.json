@@ -2231,6 +2231,7 @@
   "SUPPORT_CHAT_SEND_ERROR": "Không thể gửi tin nhắn của bạn. Vui lòng thử lại.",
   "SUPPORT_CHAT_NEW_CHAT_ERROR": "Không thể bắt đầu cuộc trò chuyện mới. Vui lòng thử lại.",
   "SUPPORT_CHAT_RATE_LIMITED": "Bạn đang gửi tin nhắn quá nhanh. Thử lại sau giây lát.",
+  "SUPPORT_CHAT_DAILY_LIMIT": "Bạn đã đạt giới hạn trò chuyện của hôm nay. Bạn có thể gửi thêm tin nhắn {time}.",
   "SUPPORT_CHAT_THINKING": "Đang suy nghĩ...",
   "SUPPORT_CHAT_CHECKING": "Đang kiểm tra...",
   "SUPPORT_CHAT_LOOKING": "Đang tìm hiểu...",

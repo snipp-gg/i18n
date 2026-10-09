@@ -2231,6 +2231,7 @@
   "SUPPORT_CHAT_SEND_ERROR": "Kon je bericht niet versturen. Probeer het opnieuw.",
   "SUPPORT_CHAT_NEW_CHAT_ERROR": "Kon geen nieuwe chat starten. Probeer het opnieuw.",
   "SUPPORT_CHAT_RATE_LIMITED": "Je verstuurt berichten te snel. Probeer het zo opnieuw.",
+  "SUPPORT_CHAT_DAILY_LIMIT": "Je hebt je chatlimiet voor vandaag bereikt. Je kunt {time} weer berichten versturen.",
   "SUPPORT_CHAT_THINKING": "Nadenken...",
   "SUPPORT_CHAT_CHECKING": "Controleren...",
   "SUPPORT_CHAT_LOOKING": "Even kijken...",

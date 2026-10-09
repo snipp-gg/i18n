@@ -2231,6 +2231,7 @@
   "SUPPORT_CHAT_SEND_ERROR": "Hindi maipadala ang iyong mensahe. Subukan ulit.",
   "SUPPORT_CHAT_NEW_CHAT_ERROR": "Hindi masimulan ang bagong chat. Subukan ulit.",
   "SUPPORT_CHAT_RATE_LIMITED": "Masyadong mabilis kang magpadala ng mga mensahe. Subukan ulit mamaya.",
+  "SUPPORT_CHAT_DAILY_LIMIT": "Naabot mo na ang limitasyon ng chat para ngayong araw. Maaari kang magpadala ulit ng mga mensahe {time}.",
   "SUPPORT_CHAT_THINKING": "Nag-iisip...",
   "SUPPORT_CHAT_CHECKING": "Chine-check...",
   "SUPPORT_CHAT_LOOKING": "Inaalam...",

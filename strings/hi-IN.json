@@ -2231,6 +2231,7 @@
   "SUPPORT_CHAT_SEND_ERROR": "आपका मैसेज नहीं भेजा जा सका। कृपया दोबारा कोशिश करें।",
   "SUPPORT_CHAT_NEW_CHAT_ERROR": "नई चैट शुरू नहीं हो सकी। कृपया दोबारा कोशिश करें।",
   "SUPPORT_CHAT_RATE_LIMITED": "आप बहुत तेज़ी से मैसेज भेज रहे हैं। थोड़ी देर में दोबारा कोशिश करें।",
+  "SUPPORT_CHAT_DAILY_LIMIT": "आप आज की चैट सीमा तक पहुँच चुके हैं। आप {time} और मैसेज भेज सकते हैं।",
   "SUPPORT_CHAT_THINKING": "सोच रहा हूँ...",
   "SUPPORT_CHAT_CHECKING": "जाँच रहा हूँ...",
   "SUPPORT_CHAT_LOOKING": "देख रहा हूँ...",

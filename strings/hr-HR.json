@@ -2231,6 +2231,7 @@
   "SUPPORT_CHAT_SEND_ERROR": "Slanje poruke nije uspjelo. Pokušaj ponovno.",
   "SUPPORT_CHAT_NEW_CHAT_ERROR": "Nije bilo moguće započeti novi razgovor. Pokušaj ponovno.",
   "SUPPORT_CHAT_RATE_LIMITED": "Prebrzo šalješ poruke. Pokušaj ponovno za trenutak.",
+  "SUPPORT_CHAT_DAILY_LIMIT": "Dosegao si današnje ograničenje razgovora. Nove poruke možeš slati {time}.",
   "SUPPORT_CHAT_THINKING": "Razmišljam...",
   "SUPPORT_CHAT_CHECKING": "Provjeravam...",
   "SUPPORT_CHAT_LOOKING": "Istražujem...",

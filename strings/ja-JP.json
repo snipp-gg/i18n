@@ -2231,6 +2231,7 @@
   "SUPPORT_CHAT_SEND_ERROR": "メッセージを送信できませんでした。もう一度お試しください。",
   "SUPPORT_CHAT_NEW_CHAT_ERROR": "新しいチャットを開始できませんでした。もう一度お試しください。",
   "SUPPORT_CHAT_RATE_LIMITED": "メッセージの送信が速すぎます。しばらくしてからもう一度お試しください。",
+  "SUPPORT_CHAT_DAILY_LIMIT": "本日のチャットの上限に達しました。{time}に再度メッセージを送信できます。",
   "SUPPORT_CHAT_THINKING": "考え中...",
   "SUPPORT_CHAT_CHECKING": "確認中...",
   "SUPPORT_CHAT_LOOKING": "調べています...",

@@ -2231,6 +2231,7 @@
   "SUPPORT_CHAT_SEND_ERROR": "Zprávu se nepodařilo odeslat. Zkuste to prosím znovu.",
   "SUPPORT_CHAT_NEW_CHAT_ERROR": "Nový chat se nepodařilo zahájit. Zkuste to prosím znovu.",
   "SUPPORT_CHAT_RATE_LIMITED": "Posíláte zprávy příliš rychle. Zkuste to za chvíli znovu.",
+  "SUPPORT_CHAT_DAILY_LIMIT": "Dosáhli jste dnešního limitu chatu. Další zprávy můžete posílat {time}.",
   "SUPPORT_CHAT_THINKING": "Přemýšlím...",
   "SUPPORT_CHAT_CHECKING": "Kontroluji...",
   "SUPPORT_CHAT_LOOKING": "Zjišťuji...",

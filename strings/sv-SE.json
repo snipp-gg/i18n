@@ -2231,6 +2231,7 @@
   "SUPPORT_CHAT_SEND_ERROR": "Kunde inte skicka ditt meddelande. Försök igen.",
   "SUPPORT_CHAT_NEW_CHAT_ERROR": "Kunde inte starta en ny chatt. Försök igen.",
   "SUPPORT_CHAT_RATE_LIMITED": "Du skickar meddelanden för snabbt. Försök igen om en stund.",
+  "SUPPORT_CHAT_DAILY_LIMIT": "Du har nått dagens chattgräns. Du kan skicka fler meddelanden {time}.",
   "SUPPORT_CHAT_THINKING": "Tänker...",
   "SUPPORT_CHAT_CHECKING": "Kollar...",
   "SUPPORT_CHAT_LOOKING": "Undersöker...",

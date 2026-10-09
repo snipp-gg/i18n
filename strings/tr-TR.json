@@ -2231,6 +2231,7 @@
   "SUPPORT_CHAT_SEND_ERROR": "Mesajınız gönderilemedi. Lütfen tekrar deneyin.",
   "SUPPORT_CHAT_NEW_CHAT_ERROR": "Yeni sohbet başlatılamadı. Lütfen tekrar deneyin.",
   "SUPPORT_CHAT_RATE_LIMITED": "Çok hızlı mesaj gönderiyorsunuz. Birazdan tekrar deneyin.",
+  "SUPPORT_CHAT_DAILY_LIMIT": "Bugünkü sohbet sınırına ulaştınız. {time} yeniden mesaj gönderebilirsiniz.",
   "SUPPORT_CHAT_THINKING": "Düşünüyorum...",
   "SUPPORT_CHAT_CHECKING": "Kontrol ediyorum...",
   "SUPPORT_CHAT_LOOKING": "Bakıyorum...",

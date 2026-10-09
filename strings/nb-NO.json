@@ -2231,6 +2231,7 @@
   "SUPPORT_CHAT_SEND_ERROR": "Kunne ikke sende meldingen din. Prøv igjen.",
   "SUPPORT_CHAT_NEW_CHAT_ERROR": "Kunne ikke starte en ny samtale. Prøv igjen.",
   "SUPPORT_CHAT_RATE_LIMITED": "Du sender meldinger for raskt. Prøv igjen om litt.",
+  "SUPPORT_CHAT_DAILY_LIMIT": "Du har nådd dagens samtalegrense. Du kan sende flere meldinger {time}.",
   "SUPPORT_CHAT_THINKING": "Tenker...",
   "SUPPORT_CHAT_CHECKING": "Sjekker...",
   "SUPPORT_CHAT_LOOKING": "Undersøker...",

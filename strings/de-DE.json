@@ -2231,6 +2231,7 @@
   "SUPPORT_CHAT_SEND_ERROR": "Deine Nachricht konnte nicht gesendet werden. Bitte versuche es erneut.",
   "SUPPORT_CHAT_NEW_CHAT_ERROR": "Ein neuer Chat konnte nicht gestartet werden. Bitte versuche es erneut.",
   "SUPPORT_CHAT_RATE_LIMITED": "Du sendest Nachrichten zu schnell. Versuche es gleich noch einmal.",
+  "SUPPORT_CHAT_DAILY_LIMIT": "Du hast dein Chat-Limit für heute erreicht. Du kannst {time} wieder Nachrichten senden.",
   "SUPPORT_CHAT_THINKING": "Denke nach...",
   "SUPPORT_CHAT_CHECKING": "Prüfe...",
   "SUPPORT_CHAT_LOOKING": "Sehe nach...",

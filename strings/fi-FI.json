@@ -2231,6 +2231,7 @@
   "SUPPORT_CHAT_SEND_ERROR": "Viestiäsi ei voitu lähettää. Yritä uudelleen.",
   "SUPPORT_CHAT_NEW_CHAT_ERROR": "Uutta keskustelua ei voitu aloittaa. Yritä uudelleen.",
   "SUPPORT_CHAT_RATE_LIMITED": "Lähetät viestejä liian nopeasti. Yritä hetken kuluttua uudelleen.",
+  "SUPPORT_CHAT_DAILY_LIMIT": "Olet saavuttanut tämän päivän keskustelurajan. Voit lähettää lisää viestejä {time}.",
   "SUPPORT_CHAT_THINKING": "Mietitään...",
   "SUPPORT_CHAT_CHECKING": "Tarkistetaan...",
   "SUPPORT_CHAT_LOOKING": "Selvitetään...",

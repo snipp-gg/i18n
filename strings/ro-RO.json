@@ -2231,6 +2231,7 @@
   "SUPPORT_CHAT_SEND_ERROR": "Nu am putut trimite mesajul tău. Te rugăm să încerci din nou.",
   "SUPPORT_CHAT_NEW_CHAT_ERROR": "Nu am putut începe o conversație nouă. Te rugăm să încerci din nou.",
   "SUPPORT_CHAT_RATE_LIMITED": "Trimiți mesaje prea repede. Încearcă din nou într-o clipă.",
+  "SUPPORT_CHAT_DAILY_LIMIT": "Ai atins limita de conversație pentru astăzi. Poți trimite alte mesaje {time}.",
   "SUPPORT_CHAT_THINKING": "Mă gândesc...",
   "SUPPORT_CHAT_CHECKING": "Verific...",
   "SUPPORT_CHAT_LOOKING": "Analizez...",
