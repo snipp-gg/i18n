@@ -706,6 +706,7 @@
   "LOGIN_MAGIC_LINK_SUBHEADING": "Vi skickar dig en magisk länk. Inget lösenord behövs.",
   "COMMON_EMAIL": "E-post",
   "COMMON_EMAIL_PLACEHOLDER": "du@exempel.com",
+  "COMMON_SEND": "Send",
   "COMMON_SENDING": "Skickar...",
   "LOGIN_SEND_MAGIC_LINK_BUTTON": "Send magic link",
   "LOGIN_ERROR_CODE_INCORRECT": "Felaktig kod.",
