@@ -2325,8 +2325,6 @@
   "SETTINGS_DOMAINS_RECORD_TYPE": "टाइप",
   "SETTINGS_DOMAINS_RECORD_NAME": "नाम",
   "SETTINGS_DOMAINS_RECORD_TARGET": "टारगेट",
-  "SETTINGS_DOMAINS_RECORD_PROXY": "प्रॉक्सी स्थिति",
-  "SETTINGS_DOMAINS_RECORD_PROXY_DNS_ONLY": "केवल DNS",
   "SETTINGS_DOMAINS_COPY_NAME": "रिकॉर्ड का नाम कॉपी करें",
   "SETTINGS_DOMAINS_TOAST_NAME_COPIED": "रिकॉर्ड का नाम क्लिपबोर्ड पर कॉपी हो गया!",
   "SETTINGS_DOMAINS_CLOUDFLARE_HINT": "Cloudflare इस्तेमाल कर रहे हैं? इस रिकॉर्ड को केवल DNS (ग्रे क्लाउड) पर सेट करें ताकि Snipp इसे वेरिफ़ाई कर सके।",

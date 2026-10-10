@@ -2325,8 +2325,6 @@
   "SETTINGS_DOMAINS_RECORD_TYPE": "Tyyppi",
   "SETTINGS_DOMAINS_RECORD_NAME": "Nimi",
   "SETTINGS_DOMAINS_RECORD_TARGET": "Kohde",
-  "SETTINGS_DOMAINS_RECORD_PROXY": "Proxyn tila",
-  "SETTINGS_DOMAINS_RECORD_PROXY_DNS_ONLY": "Vain DNS",
   "SETTINGS_DOMAINS_COPY_NAME": "Kopioi tietueen nimi",
   "SETTINGS_DOMAINS_TOAST_NAME_COPIED": "Tietueen nimi kopioitu leikepöydälle!",
   "SETTINGS_DOMAINS_CLOUDFLARE_HINT": "Käytätkö Cloudflarea? Aseta tämä tietue tilaan Vain DNS (harmaa pilvi), jotta Snipp voi vahvistaa sen.",

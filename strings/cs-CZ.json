@@ -2325,8 +2325,6 @@
   "SETTINGS_DOMAINS_RECORD_TYPE": "Typ",
   "SETTINGS_DOMAINS_RECORD_NAME": "Název",
   "SETTINGS_DOMAINS_RECORD_TARGET": "Cíl",
-  "SETTINGS_DOMAINS_RECORD_PROXY": "Stav proxy",
-  "SETTINGS_DOMAINS_RECORD_PROXY_DNS_ONLY": "Pouze DNS",
   "SETTINGS_DOMAINS_COPY_NAME": "Kopírovat název záznamu",
   "SETTINGS_DOMAINS_TOAST_NAME_COPIED": "Název záznamu zkopírován do schránky!",
   "SETTINGS_DOMAINS_CLOUDFLARE_HINT": "Používáte Cloudflare? Nastavte tento záznam na Pouze DNS (šedý mráček), aby ho Snipp mohl ověřit.",

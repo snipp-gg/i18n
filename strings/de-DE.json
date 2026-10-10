@@ -2325,8 +2325,6 @@
   "SETTINGS_DOMAINS_RECORD_TYPE": "Typ",
   "SETTINGS_DOMAINS_RECORD_NAME": "Name",
   "SETTINGS_DOMAINS_RECORD_TARGET": "Ziel",
-  "SETTINGS_DOMAINS_RECORD_PROXY": "Proxy-Status",
-  "SETTINGS_DOMAINS_RECORD_PROXY_DNS_ONLY": "Nur DNS",
   "SETTINGS_DOMAINS_COPY_NAME": "Eintragsnamen kopieren",
   "SETTINGS_DOMAINS_TOAST_NAME_COPIED": "Eintragsname in die Zwischenablage kopiert!",
   "SETTINGS_DOMAINS_CLOUDFLARE_HINT": "Nutzt du Cloudflare? Stell diesen Eintrag auf Nur DNS (graue Wolke), damit Snipp ihn verifizieren kann.",

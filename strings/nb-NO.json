@@ -2325,8 +2325,6 @@
   "SETTINGS_DOMAINS_RECORD_TYPE": "Type",
   "SETTINGS_DOMAINS_RECORD_NAME": "Navn",
   "SETTINGS_DOMAINS_RECORD_TARGET": "Mål",
-  "SETTINGS_DOMAINS_RECORD_PROXY": "Proxystatus",
-  "SETTINGS_DOMAINS_RECORD_PROXY_DNS_ONLY": "Kun DNS",
   "SETTINGS_DOMAINS_COPY_NAME": "Kopier oppføringsnavn",
   "SETTINGS_DOMAINS_TOAST_NAME_COPIED": "Oppføringsnavn kopiert til utklippstavlen!",
   "SETTINGS_DOMAINS_CLOUDFLARE_HINT": "Bruker du Cloudflare? Sett denne oppføringen til Kun DNS (grå sky) slik at Snipp kan bekrefte den.",

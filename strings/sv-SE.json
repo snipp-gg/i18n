@@ -2325,8 +2325,6 @@
   "SETTINGS_DOMAINS_RECORD_TYPE": "Typ",
   "SETTINGS_DOMAINS_RECORD_NAME": "Namn",
   "SETTINGS_DOMAINS_RECORD_TARGET": "Mål",
-  "SETTINGS_DOMAINS_RECORD_PROXY": "Proxystatus",
-  "SETTINGS_DOMAINS_RECORD_PROXY_DNS_ONLY": "Endast DNS",
   "SETTINGS_DOMAINS_COPY_NAME": "Kopiera postnamn",
   "SETTINGS_DOMAINS_TOAST_NAME_COPIED": "Postnamn kopierat till urklipp!",
   "SETTINGS_DOMAINS_CLOUDFLARE_HINT": "Använder du Cloudflare? Ställ in posten på Endast DNS (grått moln) så att Snipp kan verifiera den.",

@@ -2325,8 +2325,6 @@
   "SETTINGS_DOMAINS_RECORD_TYPE": "Tip",
   "SETTINGS_DOMAINS_RECORD_NAME": "Nume",
   "SETTINGS_DOMAINS_RECORD_TARGET": "Țintă",
-  "SETTINGS_DOMAINS_RECORD_PROXY": "Stare proxy",
-  "SETTINGS_DOMAINS_RECORD_PROXY_DNS_ONLY": "Doar DNS",
   "SETTINGS_DOMAINS_COPY_NAME": "Copiază numele înregistrării",
   "SETTINGS_DOMAINS_TOAST_NAME_COPIED": "Numele înregistrării copiat în clipboard!",
   "SETTINGS_DOMAINS_CLOUDFLARE_HINT": "Folosești Cloudflare? Setează această înregistrare pe Doar DNS (nor gri) ca Snipp să o poată verifica.",

@@ -2325,8 +2325,6 @@
   "SETTINGS_DOMAINS_RECORD_TYPE": "Type",
   "SETTINGS_DOMAINS_RECORD_NAME": "Name",
   "SETTINGS_DOMAINS_RECORD_TARGET": "Target",
-  "SETTINGS_DOMAINS_RECORD_PROXY": "Proxy status",
-  "SETTINGS_DOMAINS_RECORD_PROXY_DNS_ONLY": "DNS only",
   "SETTINGS_DOMAINS_COPY_NAME": "Copy record name",
   "SETTINGS_DOMAINS_TOAST_NAME_COPIED": "Copied record name to clipboard!",
   "SETTINGS_DOMAINS_CLOUDFLARE_HINT": "Using Cloudflare? Set this record to DNS only (gray cloud) so Snipp can verify it.",

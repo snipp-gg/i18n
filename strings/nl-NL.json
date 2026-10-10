@@ -2325,8 +2325,6 @@
   "SETTINGS_DOMAINS_RECORD_TYPE": "Type",
   "SETTINGS_DOMAINS_RECORD_NAME": "Naam",
   "SETTINGS_DOMAINS_RECORD_TARGET": "Doel",
-  "SETTINGS_DOMAINS_RECORD_PROXY": "Proxystatus",
-  "SETTINGS_DOMAINS_RECORD_PROXY_DNS_ONLY": "Alleen DNS",
   "SETTINGS_DOMAINS_COPY_NAME": "Recordnaam kopiëren",
   "SETTINGS_DOMAINS_TOAST_NAME_COPIED": "Recordnaam gekopieerd naar klembord!",
   "SETTINGS_DOMAINS_CLOUDFLARE_HINT": "Gebruik je Cloudflare? Zet dit record op Alleen DNS (grijze wolk) zodat Snipp het kan verifiëren.",

@@ -2325,8 +2325,6 @@
   "SETTINGS_DOMAINS_RECORD_TYPE": "Tipo",
   "SETTINGS_DOMAINS_RECORD_NAME": "Nome",
   "SETTINGS_DOMAINS_RECORD_TARGET": "Destino",
-  "SETTINGS_DOMAINS_RECORD_PROXY": "Estado do proxy",
-  "SETTINGS_DOMAINS_RECORD_PROXY_DNS_ONLY": "Apenas DNS",
   "SETTINGS_DOMAINS_COPY_NAME": "Copiar nome do registo",
   "SETTINGS_DOMAINS_TOAST_NAME_COPIED": "Nome do registo copiado para a área de transferência!",
   "SETTINGS_DOMAINS_CLOUDFLARE_HINT": "Usa a Cloudflare? Defina este registo como Apenas DNS (nuvem cinzenta) para que o Snipp o possa verificar.",

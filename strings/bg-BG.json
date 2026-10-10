@@ -2325,8 +2325,6 @@
   "SETTINGS_DOMAINS_RECORD_TYPE": "Тип",
   "SETTINGS_DOMAINS_RECORD_NAME": "Име",
   "SETTINGS_DOMAINS_RECORD_TARGET": "Цел",
-  "SETTINGS_DOMAINS_RECORD_PROXY": "Състояние на прокси",
-  "SETTINGS_DOMAINS_RECORD_PROXY_DNS_ONLY": "Само DNS",
   "SETTINGS_DOMAINS_COPY_NAME": "Копиране на името на записа",
   "SETTINGS_DOMAINS_TOAST_NAME_COPIED": "Името на записа е копирано в клипборда!",
   "SETTINGS_DOMAINS_CLOUDFLARE_HINT": "Използвате Cloudflare? Задайте за този запис режим Само DNS (сив облак), за да може Snipp да го потвърди.",

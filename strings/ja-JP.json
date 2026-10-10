@@ -2325,8 +2325,6 @@
   "SETTINGS_DOMAINS_RECORD_TYPE": "タイプ",
   "SETTINGS_DOMAINS_RECORD_NAME": "名前",
   "SETTINGS_DOMAINS_RECORD_TARGET": "ターゲット",
-  "SETTINGS_DOMAINS_RECORD_PROXY": "プロキシ ステータス",
-  "SETTINGS_DOMAINS_RECORD_PROXY_DNS_ONLY": "DNS のみ",
   "SETTINGS_DOMAINS_COPY_NAME": "レコード名をコピー",
   "SETTINGS_DOMAINS_TOAST_NAME_COPIED": "レコード名をクリップボードにコピーしました！",
   "SETTINGS_DOMAINS_CLOUDFLARE_HINT": "Cloudflare をお使いですか？Snipp が確認できるよう、このレコードを「DNS のみ」（グレーの雲）に設定してください。",

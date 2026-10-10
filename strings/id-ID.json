@@ -2325,8 +2325,6 @@
   "SETTINGS_DOMAINS_RECORD_TYPE": "Jenis",
   "SETTINGS_DOMAINS_RECORD_NAME": "Nama",
   "SETTINGS_DOMAINS_RECORD_TARGET": "Target",
-  "SETTINGS_DOMAINS_RECORD_PROXY": "Status proxy",
-  "SETTINGS_DOMAINS_RECORD_PROXY_DNS_ONLY": "Hanya DNS",
   "SETTINGS_DOMAINS_COPY_NAME": "Salin nama catatan",
   "SETTINGS_DOMAINS_TOAST_NAME_COPIED": "Nama catatan disalin ke clipboard!",
   "SETTINGS_DOMAINS_CLOUDFLARE_HINT": "Menggunakan Cloudflare? Atur catatan ini ke Hanya DNS (awan abu-abu) agar Snipp dapat memverifikasinya.",

@@ -2325,8 +2325,6 @@
   "SETTINGS_DOMAINS_RECORD_TYPE": "Type",
   "SETTINGS_DOMAINS_RECORD_NAME": "Nom",
   "SETTINGS_DOMAINS_RECORD_TARGET": "Cible",
-  "SETTINGS_DOMAINS_RECORD_PROXY": "Statut du proxy",
-  "SETTINGS_DOMAINS_RECORD_PROXY_DNS_ONLY": "DNS uniquement",
   "SETTINGS_DOMAINS_COPY_NAME": "Copier le nom de l'enregistrement",
   "SETTINGS_DOMAINS_TOAST_NAME_COPIED": "Nom de l'enregistrement copié dans le presse-papiers !",
   "SETTINGS_DOMAINS_CLOUDFLARE_HINT": "Vous utilisez Cloudflare ? Passez cet enregistrement en DNS uniquement (nuage gris) pour que Snipp puisse le vérifier.",

@@ -2325,8 +2325,6 @@
   "SETTINGS_DOMAINS_RECORD_TYPE": "Vrsta",
   "SETTINGS_DOMAINS_RECORD_NAME": "Naziv",
   "SETTINGS_DOMAINS_RECORD_TARGET": "Cilj",
-  "SETTINGS_DOMAINS_RECORD_PROXY": "Status proxyja",
-  "SETTINGS_DOMAINS_RECORD_PROXY_DNS_ONLY": "Samo DNS",
   "SETTINGS_DOMAINS_COPY_NAME": "Kopiraj naziv zapisa",
   "SETTINGS_DOMAINS_TOAST_NAME_COPIED": "Naziv zapisa kopiran u međuspremnik!",
   "SETTINGS_DOMAINS_CLOUDFLARE_HINT": "Koristiš Cloudflare? Postavi ovaj zapis na Samo DNS (sivi oblak) kako bi ga Snipp mogao potvrditi.",

@@ -2325,8 +2325,6 @@
   "SETTINGS_DOMAINS_RECORD_TYPE": "Typ",
   "SETTINGS_DOMAINS_RECORD_NAME": "Názov",
   "SETTINGS_DOMAINS_RECORD_TARGET": "Cieľ",
-  "SETTINGS_DOMAINS_RECORD_PROXY": "Stav proxy",
-  "SETTINGS_DOMAINS_RECORD_PROXY_DNS_ONLY": "Iba DNS",
   "SETTINGS_DOMAINS_COPY_NAME": "Kopírovať názov záznamu",
   "SETTINGS_DOMAINS_TOAST_NAME_COPIED": "Názov záznamu skopírovaný do schránky!",
   "SETTINGS_DOMAINS_CLOUDFLARE_HINT": "Používaš Cloudflare? Nastav tento záznam na Iba DNS (sivý obláčik), aby ho Snipp mohol overiť.",

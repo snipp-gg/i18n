@@ -2325,8 +2325,6 @@
   "SETTINGS_DOMAINS_RECORD_TYPE": "Typ",
   "SETTINGS_DOMAINS_RECORD_NAME": "Nazwa",
   "SETTINGS_DOMAINS_RECORD_TARGET": "Cel",
-  "SETTINGS_DOMAINS_RECORD_PROXY": "Status proxy",
-  "SETTINGS_DOMAINS_RECORD_PROXY_DNS_ONLY": "Tylko DNS",
   "SETTINGS_DOMAINS_COPY_NAME": "Kopiuj nazwę rekordu",
   "SETTINGS_DOMAINS_TOAST_NAME_COPIED": "Skopiowano nazwę rekordu do schowka!",
   "SETTINGS_DOMAINS_CLOUDFLARE_HINT": "Używasz Cloudflare? Ustaw ten rekord na Tylko DNS (szara chmurka), aby Snipp mógł go zweryfikować.",

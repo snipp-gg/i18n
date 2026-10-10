@@ -2325,8 +2325,6 @@
   "SETTINGS_DOMAINS_RECORD_TYPE": "Loại",
   "SETTINGS_DOMAINS_RECORD_NAME": "Tên",
   "SETTINGS_DOMAINS_RECORD_TARGET": "Đích",
-  "SETTINGS_DOMAINS_RECORD_PROXY": "Trạng thái proxy",
-  "SETTINGS_DOMAINS_RECORD_PROXY_DNS_ONLY": "Chỉ DNS",
   "SETTINGS_DOMAINS_COPY_NAME": "Sao chép tên bản ghi",
   "SETTINGS_DOMAINS_TOAST_NAME_COPIED": "Đã sao chép tên bản ghi vào bộ nhớ tạm!",
   "SETTINGS_DOMAINS_CLOUDFLARE_HINT": "Bạn dùng Cloudflare? Hãy đặt bản ghi này thành Chỉ DNS (đám mây xám) để Snipp có thể xác minh.",

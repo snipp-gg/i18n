@@ -2325,8 +2325,6 @@
   "SETTINGS_DOMAINS_RECORD_TYPE": "Tür",
   "SETTINGS_DOMAINS_RECORD_NAME": "Ad",
   "SETTINGS_DOMAINS_RECORD_TARGET": "Hedef",
-  "SETTINGS_DOMAINS_RECORD_PROXY": "Proxy durumu",
-  "SETTINGS_DOMAINS_RECORD_PROXY_DNS_ONLY": "Yalnızca DNS",
   "SETTINGS_DOMAINS_COPY_NAME": "Kayıt adını kopyala",
   "SETTINGS_DOMAINS_TOAST_NAME_COPIED": "Kayıt adı panoya kopyalandı!",
   "SETTINGS_DOMAINS_CLOUDFLARE_HINT": "Cloudflare mı kullanıyorsunuz? Snipp'in doğrulayabilmesi için bu kaydı Yalnızca DNS (gri bulut) olarak ayarlayın.",

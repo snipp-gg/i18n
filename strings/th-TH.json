@@ -2325,8 +2325,6 @@
   "SETTINGS_DOMAINS_RECORD_TYPE": "ประเภท",
   "SETTINGS_DOMAINS_RECORD_NAME": "ชื่อ",
   "SETTINGS_DOMAINS_RECORD_TARGET": "ปลายทาง",
-  "SETTINGS_DOMAINS_RECORD_PROXY": "สถานะพร็อกซี",
-  "SETTINGS_DOMAINS_RECORD_PROXY_DNS_ONLY": "DNS เท่านั้น",
   "SETTINGS_DOMAINS_COPY_NAME": "คัดลอกชื่อระเบียน",
   "SETTINGS_DOMAINS_TOAST_NAME_COPIED": "คัดลอกชื่อระเบียนไปยังคลิปบอร์ดแล้ว!",
   "SETTINGS_DOMAINS_CLOUDFLARE_HINT": "ใช้ Cloudflare อยู่ใช่ไหม? ตั้งค่าระเบียนนี้เป็น DNS เท่านั้น (เมฆสีเทา) เพื่อให้ Snipp ยืนยันได้",

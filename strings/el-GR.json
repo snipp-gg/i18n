@@ -2325,8 +2325,6 @@
   "SETTINGS_DOMAINS_RECORD_TYPE": "Τύπος",
   "SETTINGS_DOMAINS_RECORD_NAME": "Όνομα",
   "SETTINGS_DOMAINS_RECORD_TARGET": "Στόχος",
-  "SETTINGS_DOMAINS_RECORD_PROXY": "Κατάσταση proxy",
-  "SETTINGS_DOMAINS_RECORD_PROXY_DNS_ONLY": "Μόνο DNS",
   "SETTINGS_DOMAINS_COPY_NAME": "Αντιγραφή ονόματος εγγραφής",
   "SETTINGS_DOMAINS_TOAST_NAME_COPIED": "Το όνομα εγγραφής αντιγράφηκε στο πρόχειρο!",
   "SETTINGS_DOMAINS_CLOUDFLARE_HINT": "Χρησιμοποιείτε Cloudflare; Ορίστε αυτή την εγγραφή σε Μόνο DNS (γκρι σύννεφο), ώστε το Snipp να μπορεί να την επαληθεύσει.",
