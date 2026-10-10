@@ -2295,7 +2295,7 @@
   "SETTINGS_DOMAINS_COPY_TARGET": "Copy CNAME target",
   "SETTINGS_DOMAINS_TOAST_TARGET_COPIED": "Copied CNAME target to clipboard!",
   "SETTINGS_DOMAINS_TOAST_ACTIVE": "{hostname} is active!",
-  "SETTINGS_DOMAINS_REMOVE_TITLE": "Remove domain",
+  "SETTINGS_DOMAINS_REMOVE_TITLE": "Remove Domain",
   "SETTINGS_DOMAINS_REMOVE_MESSAGE": "Links already shared on {hostname} will stop working. Your posts stay on Snipp.",
   "SETTINGS_DOMAINS_TOAST_REMOVED": "Domain removed.",
   "SUPPORT_CATEGORY_CUSTOM_DOMAINS": "Custom Domains",
