@@ -4,7 +4,7 @@ Thanks for helping translate Snipp. This guide covers everything you need.
 
 ## Rewards
 
-Meaningful contributions will earn you the exclusive translator badge on your profile, along with the Translator role in our Discord server. (just don't forget to include your Snipp username) Heavy contributors may also receive Snipp+ as a thank you.
+Meaningful contributions will earn you the exclusive translator badge on your profile, along with the Translator role in our Discord server. (just don't forget to include your Snipp username) Heavy contributors may also receive Plus as a thank you.
 
 ## How the files work
 
@@ -67,7 +67,7 @@ If you don't want to use the command line, GitHub's web editor works too: fork t
   ```
 - **Match the casing convention.** Short UI labels (buttons, setting names, menu items, section headings) use Title Case in every language. Capitalize each significant word, keep small joiners lowercase (de/do/da, der/die/das, de/del/la, etc.). Full sentences use normal sentence case for your language.
 - **Keep it valid JSON.** Double quotes, comma after every entry except the last, no trailing commas. Run the check below before opening a PR.
-- **Don't translate brand or technical tokens.** Leave `Snipp`, `Discord`, `ShareX`, `URL`, `API`, `PLUS`, and file extensions like `PNG`/`MP4` as-is.
+- **Don't translate brand or technical tokens.** Leave `Snipp`, `Discord`, `ShareX`, `URL`, `API`, `Plus`, and file extensions like `PNG`/`MP4` as-is.
 - **Preserve leading/trailing spaces** if a value has them. They're intentional (used for sentence joining).
 
 ## Validate before you submit
