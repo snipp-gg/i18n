@@ -415,6 +415,7 @@
   "EDITOR_ERASE_BRUSH": "Fırça",
   "EDITOR_HINT_FRAME": "Görselinizin etrafına kenar boşluğu ve arka plan ekleyin.",
   "EDITOR_HINT_SNAP": "Hizalamak için sürüklerken Shift tuşunu basılı tutun.",
+  "EDITOR_HINT_STRETCH": "Bir görseli esnetmek için yeniden boyutlandırırken Shift tuşunu basılı tutun.",
   "EDITOR_HINT_ZOOM": "Yakınlaştırmak için Ctrl veya ⌘ tuşunu basılı tutup kaydırın.",
   "EDITOR_FORMAT": "Biçim",
   "EDITOR_QUALITY": "Kalite",

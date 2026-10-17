@@ -415,6 +415,7 @@
   "EDITOR_ERASE_BRUSH": "Pensulă",
   "EDITOR_HINT_FRAME": "Adaugă spațiere și un fundal în jurul imaginii tale.",
   "EDITOR_HINT_SNAP": "Ține apăsat Shift în timp ce tragi pentru aliniere automată.",
+  "EDITOR_HINT_STRETCH": "Ține apăsat Shift în timp ce redimensionezi o imagine pentru a o întinde.",
   "EDITOR_HINT_ZOOM": "Ține apăsat Ctrl sau ⌘ și derulează pentru zoom.",
   "EDITOR_FORMAT": "Format",
   "EDITOR_QUALITY": "Calitate",

@@ -415,6 +415,7 @@
   "EDITOR_ERASE_BRUSH": "Brush",
   "EDITOR_HINT_FRAME": "Add padding and a background around your image.",
   "EDITOR_HINT_SNAP": "Hold Shift while dragging to snap.",
+  "EDITOR_HINT_STRETCH": "Hold Shift while resizing an image to stretch it.",
   "EDITOR_HINT_ZOOM": "Hold Ctrl or ⌘ and scroll to zoom.",
   "EDITOR_FORMAT": "Format",
   "EDITOR_QUALITY": "Quality",

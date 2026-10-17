@@ -415,6 +415,7 @@
   "EDITOR_ERASE_BRUSH": "Четка",
   "EDITOR_HINT_FRAME": "Добавете отстъп и фон около изображението си.",
   "EDITOR_HINT_SNAP": "Задръжте Shift при плъзгане за прилепване.",
+  "EDITOR_HINT_STRETCH": "Задръжте Shift при промяна на размера на изображение, за да го разтегнете.",
   "EDITOR_HINT_ZOOM": "Задръжте Ctrl или ⌘ и превъртете, за да мащабирате.",
   "EDITOR_FORMAT": "Формат",
   "EDITOR_QUALITY": "Качество",

@@ -415,6 +415,7 @@
   "EDITOR_ERASE_BRUSH": "Cọ",
   "EDITOR_HINT_FRAME": "Thêm khoảng đệm và nền xung quanh hình ảnh của bạn.",
   "EDITOR_HINT_SNAP": "Giữ Shift khi kéo để căn chỉnh.",
+  "EDITOR_HINT_STRETCH": "Giữ Shift khi đổi kích thước hình ảnh để kéo giãn.",
   "EDITOR_HINT_ZOOM": "Giữ Ctrl hoặc ⌘ rồi cuộn để thu phóng.",
   "EDITOR_FORMAT": "Định dạng",
   "EDITOR_QUALITY": "Chất lượng",

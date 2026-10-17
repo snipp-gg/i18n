@@ -415,6 +415,7 @@
   "EDITOR_ERASE_BRUSH": "Kist",
   "EDITOR_HINT_FRAME": "Dodaj razmak i pozadinu oko svoje slike.",
   "EDITOR_HINT_SNAP": "Drži Shift tijekom povlačenja za poravnavanje.",
+  "EDITOR_HINT_STRETCH": "Drži Shift tijekom promjene veličine slike za rastezanje.",
   "EDITOR_HINT_ZOOM": "Drži Ctrl ili ⌘ i pomiči kotačić za zumiranje.",
   "EDITOR_FORMAT": "Format",
   "EDITOR_QUALITY": "Kvaliteta",

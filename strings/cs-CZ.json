@@ -415,6 +415,7 @@
   "EDITOR_ERASE_BRUSH": "Štětec",
   "EDITOR_HINT_FRAME": "Přidejte kolem obrázku odsazení a pozadí.",
   "EDITOR_HINT_SNAP": "Při přetahování podržte Shift pro přichycení.",
+  "EDITOR_HINT_STRETCH": "Při změně velikosti obrázku podržte Shift pro roztažení.",
   "EDITOR_HINT_ZOOM": "Pro změnu přiblížení podržte Ctrl nebo ⌘ a posouvejte kolečkem.",
   "EDITOR_FORMAT": "Formát",
   "EDITOR_QUALITY": "Kvalita",

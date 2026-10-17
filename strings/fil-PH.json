@@ -415,6 +415,7 @@
   "EDITOR_ERASE_BRUSH": "Pinsel",
   "EDITOR_HINT_FRAME": "Magdagdag ng padding at background sa paligid ng iyong larawan.",
   "EDITOR_HINT_SNAP": "I-hold ang Shift habang nagda-drag para mag-snap.",
+  "EDITOR_HINT_STRETCH": "I-hold ang Shift habang binabago ang laki ng isang larawan para i-stretch ito.",
   "EDITOR_HINT_ZOOM": "I-hold ang Ctrl o ⌘ at mag-scroll para mag-zoom.",
   "EDITOR_FORMAT": "Format",
   "EDITOR_QUALITY": "Kalidad",

@@ -415,6 +415,7 @@
   "EDITOR_ERASE_BRUSH": "Četkica",
   "EDITOR_HINT_FRAME": "Dodajte razmak i pozadinu oko svoje slike.",
   "EDITOR_HINT_SNAP": "Držite Shift dok prevlačite da biste poravnali.",
+  "EDITOR_HINT_STRETCH": "Držite Shift dok menjate veličinu slike da biste je razvukli.",
   "EDITOR_HINT_ZOOM": "Držite Ctrl ili ⌘ i skrolujte da biste zumirali.",
   "EDITOR_FORMAT": "Format",
   "EDITOR_QUALITY": "Kvalitet",

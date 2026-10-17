@@ -415,6 +415,7 @@
   "EDITOR_ERASE_BRUSH": "ブラシ",
   "EDITOR_HINT_FRAME": "画像の周りに余白と背景を追加します。",
   "EDITOR_HINT_SNAP": "Shiftを押しながらドラッグするとスナップします。",
+  "EDITOR_HINT_STRETCH": "Shiftを押しながら画像のサイズを変更すると引き伸ばせます。",
   "EDITOR_HINT_ZOOM": "Ctrlまたは⌘を押しながらスクロールするとズームします。",
   "EDITOR_FORMAT": "形式",
   "EDITOR_QUALITY": "画質",

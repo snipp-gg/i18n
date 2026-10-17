@@ -415,6 +415,7 @@
   "EDITOR_ERASE_BRUSH": "Sivellin",
   "EDITOR_HINT_FRAME": "Lisää kuvasi ympärille reunus ja tausta.",
   "EDITOR_HINT_SNAP": "Kohdista pitämällä Shift painettuna vetäessäsi.",
+  "EDITOR_HINT_STRETCH": "Venytä kuvaa pitämällä Shift painettuna muuttaessasi sen kokoa.",
   "EDITOR_HINT_ZOOM": "Zoomaa pitämällä Ctrl tai ⌘ painettuna ja vierittämällä.",
   "EDITOR_FORMAT": "Muoto",
   "EDITOR_QUALITY": "Laatu",

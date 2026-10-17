@@ -415,6 +415,7 @@
   "EDITOR_ERASE_BRUSH": "แปรง",
   "EDITOR_HINT_FRAME": "เพิ่มระยะขอบและพื้นหลังรอบรูปภาพของคุณ",
   "EDITOR_HINT_SNAP": "กด Shift ค้างไว้ขณะลากเพื่อจัดแนว",
+  "EDITOR_HINT_STRETCH": "กด Shift ค้างไว้ขณะปรับขนาดรูปภาพเพื่อยืดภาพ",
   "EDITOR_HINT_ZOOM": "กด Ctrl หรือ ⌘ ค้างไว้แล้วเลื่อนเพื่อซูม",
   "EDITOR_FORMAT": "รูปแบบ",
   "EDITOR_QUALITY": "คุณภาพ",

@@ -415,6 +415,7 @@
   "EDITOR_ERASE_BRUSH": "Pincel",
   "EDITOR_HINT_FRAME": "Adicione margem e um fundo ao redor da sua imagem.",
   "EDITOR_HINT_SNAP": "Segure Shift enquanto arrasta para encaixar.",
+  "EDITOR_HINT_STRETCH": "Segure Shift enquanto redimensiona uma imagem para esticá-la.",
   "EDITOR_HINT_ZOOM": "Segure Ctrl ou ⌘ e role para dar zoom.",
   "EDITOR_FORMAT": "Formato",
   "EDITOR_QUALITY": "Qualidade",

@@ -415,6 +415,7 @@
   "EDITOR_ERASE_BRUSH": "Pensel",
   "EDITOR_HINT_FRAME": "Lägg till marginal och en bakgrund runt din bild.",
   "EDITOR_HINT_SNAP": "Håll ned Skift medan du drar för att fästa.",
+  "EDITOR_HINT_STRETCH": "Håll ned Skift medan du ändrar storlek på en bild för att sträcka ut den.",
   "EDITOR_HINT_ZOOM": "Håll ned Ctrl eller ⌘ och scrolla för att zooma.",
   "EDITOR_FORMAT": "Format",
   "EDITOR_QUALITY": "Kvalitet",

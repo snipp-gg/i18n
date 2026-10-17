@@ -415,6 +415,7 @@
   "EDITOR_ERASE_BRUSH": "Penseel",
   "EDITOR_HINT_FRAME": "Voeg marge en een achtergrond toe rond je afbeelding.",
   "EDITOR_HINT_SNAP": "Houd Shift ingedrukt tijdens het slepen om uit te lijnen.",
+  "EDITOR_HINT_STRETCH": "Houd Shift ingedrukt tijdens het wijzigen van het formaat van een afbeelding om die uit te rekken.",
   "EDITOR_HINT_ZOOM": "Houd Ctrl of ⌘ ingedrukt en scrol om te zoomen.",
   "EDITOR_FORMAT": "Formaat",
   "EDITOR_QUALITY": "Kwaliteit",

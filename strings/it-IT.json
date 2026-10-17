@@ -415,6 +415,7 @@
   "EDITOR_ERASE_BRUSH": "Pennello",
   "EDITOR_HINT_FRAME": "Aggiungi margine e uno sfondo attorno alla tua immagine.",
   "EDITOR_HINT_SNAP": "Tieni premuto Maiusc mentre trascini per agganciare.",
+  "EDITOR_HINT_STRETCH": "Tieni premuto Maiusc mentre ridimensioni un'immagine per allungarla.",
   "EDITOR_HINT_ZOOM": "Tieni premuto Ctrl o ⌘ e scorri per lo zoom.",
   "EDITOR_FORMAT": "Formato",
   "EDITOR_QUALITY": "Qualità",

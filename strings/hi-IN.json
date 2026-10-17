@@ -415,6 +415,7 @@
   "EDITOR_ERASE_BRUSH": "ब्रश",
   "EDITOR_HINT_FRAME": "अपनी इमेज के चारों ओर पैडिंग और बैकग्राउंड जोड़ें।",
   "EDITOR_HINT_SNAP": "स्नैप करने के लिए ड्रैग करते समय Shift दबाए रखें।",
+  "EDITOR_HINT_STRETCH": "किसी इमेज को स्ट्रेच करने के लिए उसका साइज़ बदलते समय Shift दबाए रखें।",
   "EDITOR_HINT_ZOOM": "ज़ूम करने के लिए Ctrl या ⌘ दबाए रखें और स्क्रॉल करें।",
   "EDITOR_FORMAT": "फ़ॉर्मेट",
   "EDITOR_QUALITY": "क्वालिटी",

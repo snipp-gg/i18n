@@ -415,6 +415,7 @@
   "EDITOR_ERASE_BRUSH": "Пензель",
   "EDITOR_HINT_FRAME": "Додайте відступи й фон навколо зображення.",
   "EDITOR_HINT_SNAP": "Утримуйте Shift під час перетягування для прив'язки.",
+  "EDITOR_HINT_STRETCH": "Утримуйте Shift під час зміни розміру зображення, щоб розтягнути його.",
   "EDITOR_HINT_ZOOM": "Утримуйте Ctrl або ⌘ і прокручуйте для масштабування.",
   "EDITOR_FORMAT": "Формат",
   "EDITOR_QUALITY": "Якість",

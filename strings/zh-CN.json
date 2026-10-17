@@ -415,6 +415,7 @@
   "EDITOR_ERASE_BRUSH": "画笔",
   "EDITOR_HINT_FRAME": "在图片周围添加内边距和背景。",
   "EDITOR_HINT_SNAP": "拖动时按住 Shift 可吸附对齐。",
+  "EDITOR_HINT_STRETCH": "调整图片大小时按住 Shift 可拉伸图片。",
   "EDITOR_HINT_ZOOM": "按住 Ctrl 或 ⌘ 并滚动即可缩放。",
   "EDITOR_FORMAT": "格式",
   "EDITOR_QUALITY": "画质",

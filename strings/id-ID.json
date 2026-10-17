@@ -415,6 +415,7 @@
   "EDITOR_ERASE_BRUSH": "Kuas",
   "EDITOR_HINT_FRAME": "Tambahkan padding dan latar belakang di sekitar gambar Anda.",
   "EDITOR_HINT_SNAP": "Tahan Shift saat menyeret untuk menyejajarkan.",
+  "EDITOR_HINT_STRETCH": "Tahan Shift saat mengubah ukuran gambar untuk meregangkannya.",
   "EDITOR_HINT_ZOOM": "Tahan Ctrl atau ⌘ lalu gulir untuk zoom.",
   "EDITOR_FORMAT": "Format",
   "EDITOR_QUALITY": "Kualitas",

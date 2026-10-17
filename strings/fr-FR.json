@@ -415,6 +415,7 @@
   "EDITOR_ERASE_BRUSH": "Pinceau",
   "EDITOR_HINT_FRAME": "Ajoutez une marge et un arrière-plan autour de votre image.",
   "EDITOR_HINT_SNAP": "Maintenez Maj enfoncée en faisant glisser pour aligner.",
+  "EDITOR_HINT_STRETCH": "Maintenez Maj enfoncée en redimensionnant une image pour l'étirer.",
   "EDITOR_HINT_ZOOM": "Maintenez Ctrl ou ⌘ enfoncée et faites défiler pour zoomer.",
   "EDITOR_FORMAT": "Format",
   "EDITOR_QUALITY": "Qualité",

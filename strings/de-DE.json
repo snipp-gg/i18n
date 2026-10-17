@@ -415,6 +415,7 @@
   "EDITOR_ERASE_BRUSH": "Pinsel",
   "EDITOR_HINT_FRAME": "Füge um dein Bild Abstand und einen Hintergrund hinzu.",
   "EDITOR_HINT_SNAP": "Halte beim Ziehen die Umschalttaste gedrückt, um einzurasten.",
+  "EDITOR_HINT_STRETCH": "Halte beim Ändern der Größe eines Bildes die Umschalttaste gedrückt, um es zu strecken.",
   "EDITOR_HINT_ZOOM": "Halte Strg oder ⌘ gedrückt und scrolle zum Zoomen.",
   "EDITOR_FORMAT": "Format",
   "EDITOR_QUALITY": "Qualität",

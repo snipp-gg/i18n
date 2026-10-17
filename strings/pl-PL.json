@@ -415,6 +415,7 @@
   "EDITOR_ERASE_BRUSH": "Pędzel",
   "EDITOR_HINT_FRAME": "Dodaj odstęp i tło wokół obrazu.",
   "EDITOR_HINT_SNAP": "Przytrzymaj Shift podczas przeciągania, aby przyciągać.",
+  "EDITOR_HINT_STRETCH": "Przytrzymaj Shift podczas zmiany rozmiaru obrazu, aby go rozciągnąć.",
   "EDITOR_HINT_ZOOM": "Przytrzymaj Ctrl lub ⌘ i przewiń, aby powiększyć.",
   "EDITOR_FORMAT": "Format",
   "EDITOR_QUALITY": "Jakość",
