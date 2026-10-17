@@ -423,7 +423,7 @@
   "EDITOR_EXPORT_FAILED": "Failed to export this file.",
   "EDITOR_EXPORT_UNSUPPORTED": "This browser cannot export video. Try the latest Chrome, Edge, or Safari.",
   "EDITOR_EXPORTING": "Exporting…",
-  "EDITOR_HINT_TRIM": "Drag the edges of a section to trim it. Split at the playhead to cut a part out.",
+  "EDITOR_HINT_TRIM": "Drag a section to move it, or drag its edges to trim it. Split at the playhead to cut a part out.",
   "EDITOR_SPLIT": "Split at playhead",
   "EDITOR_DELETE_SEGMENT": "Delete section",
   "EDITOR_SPEED": "Speed",
