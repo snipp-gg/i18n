@@ -445,6 +445,7 @@
   "EDITOR_LAYERS_EMPTY": "No layers yet. Draw something or add an image.",
   "EDITOR_ADD_IMAGE": "Add image",
   "EDITOR_LAYER_IMAGE": "Image",
+  "EDITOR_LAYER_STEP": "Step {number}",
   "EDITOR_OPACITY": "Opacity",
   "EDITOR_BLEND": "Blend",
   "EDITOR_BLEND_NORMAL": "Normal",
