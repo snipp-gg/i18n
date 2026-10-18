@@ -399,6 +399,7 @@
   "EDITOR_BRIGHTNESS": "밝기",
   "EDITOR_CONTRAST": "대비",
   "EDITOR_SATURATION": "채도",
+  "EDITOR_HUE": "색조",
   "EDITOR_INVERT": "색상 반전",
   "EDITOR_PADDING": "여백",
   "EDITOR_RADIUS": "모서리 둥글기",

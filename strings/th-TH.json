@@ -399,6 +399,7 @@
   "EDITOR_BRIGHTNESS": "ความสว่าง",
   "EDITOR_CONTRAST": "คอนทราสต์",
   "EDITOR_SATURATION": "ความอิ่มตัวของสี",
+  "EDITOR_HUE": "เฉดสี",
   "EDITOR_INVERT": "กลับสี",
   "EDITOR_PADDING": "ระยะขอบ",
   "EDITOR_RADIUS": "ความโค้งมุม",

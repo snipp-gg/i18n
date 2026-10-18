@@ -399,6 +399,7 @@
   "EDITOR_BRIGHTNESS": "Luminozitate",
   "EDITOR_CONTRAST": "Contrast",
   "EDITOR_SATURATION": "Saturație",
+  "EDITOR_HUE": "Nuanță",
   "EDITOR_INVERT": "Inversează culorile",
   "EDITOR_PADDING": "Margine",
   "EDITOR_RADIUS": "Rotunjirea colțurilor",

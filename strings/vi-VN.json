@@ -399,6 +399,7 @@
   "EDITOR_BRIGHTNESS": "Độ sáng",
   "EDITOR_CONTRAST": "Độ tương phản",
   "EDITOR_SATURATION": "Độ bão hòa",
+  "EDITOR_HUE": "Tông màu",
   "EDITOR_INVERT": "Đảo màu",
   "EDITOR_PADDING": "Khoảng đệm",
   "EDITOR_RADIUS": "Bo góc",

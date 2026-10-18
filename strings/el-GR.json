@@ -399,6 +399,7 @@
   "EDITOR_BRIGHTNESS": "Φωτεινότητα",
   "EDITOR_CONTRAST": "Αντίθεση",
   "EDITOR_SATURATION": "Κορεσμός",
+  "EDITOR_HUE": "Απόχρωση",
   "EDITOR_INVERT": "Αντιστροφή χρωμάτων",
   "EDITOR_PADDING": "Περιθώριο",
   "EDITOR_RADIUS": "Ακτίνα γωνιών",

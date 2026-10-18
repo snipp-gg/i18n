@@ -399,6 +399,7 @@
   "EDITOR_BRIGHTNESS": "Helderheid",
   "EDITOR_CONTRAST": "Contrast",
   "EDITOR_SATURATION": "Verzadiging",
+  "EDITOR_HUE": "Tint",
   "EDITOR_INVERT": "Kleuren omkeren",
   "EDITOR_PADDING": "Marge",
   "EDITOR_RADIUS": "Hoekradius",

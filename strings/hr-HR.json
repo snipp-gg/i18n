@@ -399,6 +399,7 @@
   "EDITOR_BRIGHTNESS": "Svjetlina",
   "EDITOR_CONTRAST": "Kontrast",
   "EDITOR_SATURATION": "Zasićenost",
+  "EDITOR_HUE": "Nijansa",
   "EDITOR_INVERT": "Obrni boje",
   "EDITOR_PADDING": "Margina",
   "EDITOR_RADIUS": "Zaobljenost kutova",

@@ -399,6 +399,7 @@
   "EDITOR_BRIGHTNESS": "Brillo",
   "EDITOR_CONTRAST": "Contraste",
   "EDITOR_SATURATION": "Saturación",
+  "EDITOR_HUE": "Tono",
   "EDITOR_INVERT": "Invertir colores",
   "EDITOR_PADDING": "Margen",
   "EDITOR_RADIUS": "Radio de las esquinas",

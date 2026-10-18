@@ -399,6 +399,7 @@
   "EDITOR_BRIGHTNESS": "Lysstyrke",
   "EDITOR_CONTRAST": "Kontrast",
   "EDITOR_SATURATION": "Metning",
+  "EDITOR_HUE": "Fargetone",
   "EDITOR_INVERT": "Inverter farger",
   "EDITOR_PADDING": "Marg",
   "EDITOR_RADIUS": "Hjørneradius",

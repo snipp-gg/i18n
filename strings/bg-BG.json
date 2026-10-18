@@ -399,6 +399,7 @@
   "EDITOR_BRIGHTNESS": "Яркост",
   "EDITOR_CONTRAST": "Контраст",
   "EDITOR_SATURATION": "Наситеност",
+  "EDITOR_HUE": "Цветови тон",
   "EDITOR_INVERT": "Инвертиране на цветовете",
   "EDITOR_PADDING": "Отстъп",
   "EDITOR_RADIUS": "Заобляне на ъглите",
