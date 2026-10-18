@@ -2341,7 +2341,6 @@
   "SUPPORT_CHAT_STEP_EDITOR_DONE": "Έλεγξα τον επεξεργαστή",
   "SUPPORT_CHAT_STEP_VIEW": "Κοιτάζω τον επεξεργαστή",
   "SUPPORT_CHAT_STEP_VIEW_DONE": "Κοίταξα τον επεξεργαστή",
-  "SUPPORT_CHAT_STEP_VIEW_FAILED": "Δεν ήταν δυνατή η προβολή του επεξεργαστή",
   "SUPPORT_CHAT_STEP_ESCALATE": "Επικοινωνώ με την ομάδα",
   "SUPPORT_CHAT_STEP_ESCALATE_DONE": "Επικοινώνησα με την ομάδα",
   "SUPPORT_CHAT_THOUGHT_FOR": "Σκέφτηκα για {count} δευτερόλεπτα",

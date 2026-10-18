@@ -2341,7 +2341,6 @@
   "SUPPORT_CHAT_STEP_EDITOR_DONE": "Conferi o editor",
   "SUPPORT_CHAT_STEP_VIEW": "Olhando o editor",
   "SUPPORT_CHAT_STEP_VIEW_DONE": "Olhei o editor",
-  "SUPPORT_CHAT_STEP_VIEW_FAILED": "Não foi possível olhar o editor",
   "SUPPORT_CHAT_STEP_ESCALATE": "Contatando a equipe",
   "SUPPORT_CHAT_STEP_ESCALATE_DONE": "Contatei a equipe",
   "SUPPORT_CHAT_THOUGHT_FOR": "Pensei por {count} segundos",

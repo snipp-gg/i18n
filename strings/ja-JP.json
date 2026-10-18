@@ -2341,7 +2341,6 @@
   "SUPPORT_CHAT_STEP_EDITOR_DONE": "エディターを確認しました",
   "SUPPORT_CHAT_STEP_VIEW": "エディターを見ています",
   "SUPPORT_CHAT_STEP_VIEW_DONE": "エディターを見ました",
-  "SUPPORT_CHAT_STEP_VIEW_FAILED": "エディターを見られませんでした",
   "SUPPORT_CHAT_STEP_ESCALATE": "チームに連絡中",
   "SUPPORT_CHAT_STEP_ESCALATE_DONE": "チームに連絡しました",
   "SUPPORT_CHAT_THOUGHT_FOR": "{count} 秒間考えました",

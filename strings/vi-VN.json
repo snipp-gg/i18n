@@ -2341,7 +2341,6 @@
   "SUPPORT_CHAT_STEP_EDITOR_DONE": "Đã kiểm tra trình chỉnh sửa",
   "SUPPORT_CHAT_STEP_VIEW": "Đang xem trình chỉnh sửa",
   "SUPPORT_CHAT_STEP_VIEW_DONE": "Đã xem trình chỉnh sửa",
-  "SUPPORT_CHAT_STEP_VIEW_FAILED": "Không thể xem trình chỉnh sửa",
   "SUPPORT_CHAT_STEP_ESCALATE": "Đang liên hệ đội ngũ",
   "SUPPORT_CHAT_STEP_ESCALATE_DONE": "Đã liên hệ đội ngũ",
   "SUPPORT_CHAT_THOUGHT_FOR": "Đã suy nghĩ trong {count} giây",

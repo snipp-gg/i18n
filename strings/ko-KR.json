@@ -2341,7 +2341,6 @@
   "SUPPORT_CHAT_STEP_EDITOR_DONE": "편집기를 확인했습니다",
   "SUPPORT_CHAT_STEP_VIEW": "편집기 보는 중",
   "SUPPORT_CHAT_STEP_VIEW_DONE": "편집기를 봤습니다",
-  "SUPPORT_CHAT_STEP_VIEW_FAILED": "편집기를 볼 수 없습니다",
   "SUPPORT_CHAT_STEP_ESCALATE": "팀에 연락 중",
   "SUPPORT_CHAT_STEP_ESCALATE_DONE": "팀에 연락했습니다",
   "SUPPORT_CHAT_THOUGHT_FOR": "{count}초 동안 생각했습니다",

@@ -2341,7 +2341,6 @@
   "SUPPORT_CHAT_STEP_EDITOR_DONE": "Düzenleyiciyi kontrol ettim",
   "SUPPORT_CHAT_STEP_VIEW": "Düzenleyiciye bakıyorum",
   "SUPPORT_CHAT_STEP_VIEW_DONE": "Düzenleyiciye baktım",
-  "SUPPORT_CHAT_STEP_VIEW_FAILED": "Düzenleyiciye bakılamadı",
   "SUPPORT_CHAT_STEP_ESCALATE": "Ekiple iletişime geçiyorum",
   "SUPPORT_CHAT_STEP_ESCALATE_DONE": "Ekiple iletişime geçtim",
   "SUPPORT_CHAT_THOUGHT_FOR": "{count} saniye düşündüm",

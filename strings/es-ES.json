@@ -2341,7 +2341,6 @@
   "SUPPORT_CHAT_STEP_EDITOR_DONE": "He comprobado el editor",
   "SUPPORT_CHAT_STEP_VIEW": "Viendo el editor",
   "SUPPORT_CHAT_STEP_VIEW_DONE": "He visto el editor",
-  "SUPPORT_CHAT_STEP_VIEW_FAILED": "No se pudo ver el editor",
   "SUPPORT_CHAT_STEP_ESCALATE": "Contactando con el equipo",
   "SUPPORT_CHAT_STEP_ESCALATE_DONE": "He contactado con el equipo",
   "SUPPORT_CHAT_THOUGHT_FOR": "He pensado durante {count} segundos",

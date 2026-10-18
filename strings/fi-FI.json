@@ -2341,7 +2341,6 @@
   "SUPPORT_CHAT_STEP_EDITOR_DONE": "Tarkistettiin editori",
   "SUPPORT_CHAT_STEP_VIEW": "Katsotaan editoria",
   "SUPPORT_CHAT_STEP_VIEW_DONE": "Katsottiin editori",
-  "SUPPORT_CHAT_STEP_VIEW_FAILED": "Editoria ei voitu katsoa",
   "SUPPORT_CHAT_STEP_ESCALATE": "Otetaan yhteyttä tiimiin",
   "SUPPORT_CHAT_STEP_ESCALATE_DONE": "Otettiin yhteyttä tiimiin",
   "SUPPORT_CHAT_THOUGHT_FOR": "Mietittiin {count} sekuntia",

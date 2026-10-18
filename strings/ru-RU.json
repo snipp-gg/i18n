@@ -2341,7 +2341,6 @@
   "SUPPORT_CHAT_STEP_EDITOR_DONE": "Проверил редактор",
   "SUPPORT_CHAT_STEP_VIEW": "Смотрю редактор",
   "SUPPORT_CHAT_STEP_VIEW_DONE": "Посмотрел редактор",
-  "SUPPORT_CHAT_STEP_VIEW_FAILED": "Не удалось посмотреть редактор",
   "SUPPORT_CHAT_STEP_ESCALATE": "Связываюсь с командой",
   "SUPPORT_CHAT_STEP_ESCALATE_DONE": "Связался с командой",
   "SUPPORT_CHAT_THOUGHT_FOR": "Думал {count} секунд",

@@ -2341,7 +2341,6 @@
   "SUPPORT_CHAT_STEP_EDITOR_DONE": "Kollade redigeraren",
   "SUPPORT_CHAT_STEP_VIEW": "Tittar på redigeraren",
   "SUPPORT_CHAT_STEP_VIEW_DONE": "Tittade på redigeraren",
-  "SUPPORT_CHAT_STEP_VIEW_FAILED": "Kunde inte titta på redigeraren",
   "SUPPORT_CHAT_STEP_ESCALATE": "Kontaktar teamet",
   "SUPPORT_CHAT_STEP_ESCALATE_DONE": "Kontaktade teamet",
   "SUPPORT_CHAT_THOUGHT_FOR": "Tänkte i {count} sekunder",

@@ -2341,7 +2341,6 @@
   "SUPPORT_CHAT_STEP_EDITOR_DONE": "Sprawdziłem edytor",
   "SUPPORT_CHAT_STEP_VIEW": "Patrzę na edytor",
   "SUPPORT_CHAT_STEP_VIEW_DONE": "Spojrzałem na edytor",
-  "SUPPORT_CHAT_STEP_VIEW_FAILED": "Nie udało się spojrzeć na edytor",
   "SUPPORT_CHAT_STEP_ESCALATE": "Kontaktuję się z zespołem",
   "SUPPORT_CHAT_STEP_ESCALATE_DONE": "Skontaktowałem się z zespołem",
   "SUPPORT_CHAT_THOUGHT_FOR": "Myślałem przez {count} sekund",

@@ -2341,7 +2341,6 @@
   "SUPPORT_CHAT_STEP_EDITOR_DONE": "Proverio sam uređivač",
   "SUPPORT_CHAT_STEP_VIEW": "Gledam uređivač",
   "SUPPORT_CHAT_STEP_VIEW_DONE": "Pogledao sam uređivač",
-  "SUPPORT_CHAT_STEP_VIEW_FAILED": "Nismo mogli da pogledamo uređivač",
   "SUPPORT_CHAT_STEP_ESCALATE": "Kontaktiram tim",
   "SUPPORT_CHAT_STEP_ESCALATE_DONE": "Kontaktirao sam tim",
   "SUPPORT_CHAT_THOUGHT_FOR": "Razmišljao sam {count} sekundi",

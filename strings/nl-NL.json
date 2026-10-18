@@ -2341,7 +2341,6 @@
   "SUPPORT_CHAT_STEP_EDITOR_DONE": "De editor gecontroleerd",
   "SUPPORT_CHAT_STEP_VIEW": "De editor bekijken",
   "SUPPORT_CHAT_STEP_VIEW_DONE": "De editor bekeken",
-  "SUPPORT_CHAT_STEP_VIEW_FAILED": "Kon de editor niet bekijken",
   "SUPPORT_CHAT_STEP_ESCALATE": "Contact opnemen met het team",
   "SUPPORT_CHAT_STEP_ESCALATE_DONE": "Contact opgenomen met het team",
   "SUPPORT_CHAT_THOUGHT_FOR": "{count} seconden nagedacht",

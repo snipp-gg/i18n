@@ -2341,7 +2341,6 @@
   "SUPPORT_CHAT_STEP_EDITOR_DONE": "Sjekket redigeringen",
   "SUPPORT_CHAT_STEP_VIEW": "Ser på redigeringen",
   "SUPPORT_CHAT_STEP_VIEW_DONE": "Så på redigeringen",
-  "SUPPORT_CHAT_STEP_VIEW_FAILED": "Kunne ikke se på redigeringen",
   "SUPPORT_CHAT_STEP_ESCALATE": "Kontakter teamet",
   "SUPPORT_CHAT_STEP_ESCALATE_DONE": "Kontaktet teamet",
   "SUPPORT_CHAT_THOUGHT_FOR": "Tenkte i {count} sekunder",

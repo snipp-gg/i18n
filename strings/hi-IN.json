@@ -2341,7 +2341,6 @@
   "SUPPORT_CHAT_STEP_EDITOR_DONE": "एडिटर जाँच लिया",
   "SUPPORT_CHAT_STEP_VIEW": "एडिटर देख रहा हूँ",
   "SUPPORT_CHAT_STEP_VIEW_DONE": "एडिटर देख लिया",
-  "SUPPORT_CHAT_STEP_VIEW_FAILED": "एडिटर देखा नहीं जा सका",
   "SUPPORT_CHAT_STEP_ESCALATE": "टीम से संपर्क कर रहा हूँ",
   "SUPPORT_CHAT_STEP_ESCALATE_DONE": "टीम से संपर्क कर लिया",
   "SUPPORT_CHAT_THOUGHT_FOR": "{count} सेकंड तक सोचा",
