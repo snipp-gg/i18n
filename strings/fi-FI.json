@@ -399,6 +399,7 @@
   "EDITOR_BRIGHTNESS": "Kirkkaus",
   "EDITOR_CONTRAST": "Kontrasti",
   "EDITOR_SATURATION": "Kylläisyys",
+  "EDITOR_INVERT": "Käänteiset värit",
   "EDITOR_PADDING": "Reunus",
   "EDITOR_RADIUS": "Kulmien pyöristys",
   "EDITOR_SHADOW": "Varjo",

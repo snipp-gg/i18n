@@ -399,6 +399,7 @@
   "EDITOR_BRIGHTNESS": "Jas",
   "EDITOR_CONTRAST": "Kontrast",
   "EDITOR_SATURATION": "Sýtosť",
+  "EDITOR_INVERT": "Invertovať farby",
   "EDITOR_PADDING": "Okraj",
   "EDITOR_RADIUS": "Zaoblenie rohov",
   "EDITOR_SHADOW": "Tieň",

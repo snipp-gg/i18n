@@ -399,6 +399,7 @@
   "EDITOR_BRIGHTNESS": "Brilho",
   "EDITOR_CONTRAST": "Contraste",
   "EDITOR_SATURATION": "Saturação",
+  "EDITOR_INVERT": "Inverter cores",
   "EDITOR_PADDING": "Margem",
   "EDITOR_RADIUS": "Raio dos cantos",
   "EDITOR_SHADOW": "Sombra",

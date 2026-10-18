@@ -399,6 +399,7 @@
   "EDITOR_BRIGHTNESS": "明るさ",
   "EDITOR_CONTRAST": "コントラスト",
   "EDITOR_SATURATION": "彩度",
+  "EDITOR_INVERT": "色を反転",
   "EDITOR_PADDING": "余白",
   "EDITOR_RADIUS": "角の丸み",
   "EDITOR_SHADOW": "影",

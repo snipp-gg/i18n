@@ -399,6 +399,7 @@
   "EDITOR_BRIGHTNESS": "Helligkeit",
   "EDITOR_CONTRAST": "Kontrast",
   "EDITOR_SATURATION": "Sättigung",
+  "EDITOR_INVERT": "Farben umkehren",
   "EDITOR_PADDING": "Abstand",
   "EDITOR_RADIUS": "Eckenradius",
   "EDITOR_SHADOW": "Schatten",

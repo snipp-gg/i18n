@@ -399,6 +399,7 @@
   "EDITOR_BRIGHTNESS": "Parlaklık",
   "EDITOR_CONTRAST": "Kontrast",
   "EDITOR_SATURATION": "Doygunluk",
+  "EDITOR_INVERT": "Renkleri ters çevir",
   "EDITOR_PADDING": "Kenar boşluğu",
   "EDITOR_RADIUS": "Köşe yarıçapı",
   "EDITOR_SHADOW": "Gölge",

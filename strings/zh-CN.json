@@ -399,6 +399,7 @@
   "EDITOR_BRIGHTNESS": "亮度",
   "EDITOR_CONTRAST": "对比度",
   "EDITOR_SATURATION": "饱和度",
+  "EDITOR_INVERT": "反转颜色",
   "EDITOR_PADDING": "边距",
   "EDITOR_RADIUS": "圆角半径",
   "EDITOR_SHADOW": "阴影",

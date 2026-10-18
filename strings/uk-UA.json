@@ -399,6 +399,7 @@
   "EDITOR_BRIGHTNESS": "Яскравість",
   "EDITOR_CONTRAST": "Контрастність",
   "EDITOR_SATURATION": "Насиченість",
+  "EDITOR_INVERT": "Інвертувати кольори",
   "EDITOR_PADDING": "Відступ",
   "EDITOR_RADIUS": "Заокруглення кутів",
   "EDITOR_SHADOW": "Тінь",

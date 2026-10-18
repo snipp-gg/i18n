@@ -399,6 +399,7 @@
   "EDITOR_BRIGHTNESS": "Kecerahan",
   "EDITOR_CONTRAST": "Kontras",
   "EDITOR_SATURATION": "Saturasi",
+  "EDITOR_INVERT": "Balikkan warna",
   "EDITOR_PADDING": "Jarak tepi",
   "EDITOR_RADIUS": "Radius sudut",
   "EDITOR_SHADOW": "Bayangan",

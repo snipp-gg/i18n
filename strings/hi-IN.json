@@ -399,6 +399,7 @@
   "EDITOR_BRIGHTNESS": "ब्राइटनेस",
   "EDITOR_CONTRAST": "कंट्रास्ट",
   "EDITOR_SATURATION": "सैचुरेशन",
+  "EDITOR_INVERT": "कलर इनवर्ट करें",
   "EDITOR_PADDING": "पैडिंग",
   "EDITOR_RADIUS": "कॉर्नर रेडियस",
   "EDITOR_SHADOW": "शैडो",

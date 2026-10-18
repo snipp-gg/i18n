@@ -399,6 +399,7 @@
   "EDITOR_BRIGHTNESS": "Яркость",
   "EDITOR_CONTRAST": "Контрастность",
   "EDITOR_SATURATION": "Насыщенность",
+  "EDITOR_INVERT": "Инвертировать цвета",
   "EDITOR_PADDING": "Отступ",
   "EDITOR_RADIUS": "Скругление углов",
   "EDITOR_SHADOW": "Тень",

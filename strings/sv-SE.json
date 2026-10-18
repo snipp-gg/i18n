@@ -399,6 +399,7 @@
   "EDITOR_BRIGHTNESS": "Ljusstyrka",
   "EDITOR_CONTRAST": "Kontrast",
   "EDITOR_SATURATION": "Mättnad",
+  "EDITOR_INVERT": "Invertera färger",
   "EDITOR_PADDING": "Marginal",
   "EDITOR_RADIUS": "Hörnradie",
   "EDITOR_SHADOW": "Skugga",
