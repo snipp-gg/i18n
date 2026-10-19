@@ -2411,6 +2411,8 @@
   "SUPPORT_CHAT_STEP_VIEW_DONE": "Looked at the preview",
   "SUPPORT_CHAT_STEP_FILE": "Looking at the file",
   "SUPPORT_CHAT_STEP_FILE_DONE": "Looked at the file",
+  "SUPPORT_CHAT_STEP_UPLOADS": "Looking at your uploads",
+  "SUPPORT_CHAT_STEP_UPLOADS_DONE": "Looked at your uploads",
   "SUPPORT_CHAT_STEP_ESCALATE": "Contacting the team",
   "SUPPORT_CHAT_STEP_ESCALATE_DONE": "Contacted the team",
   "SUPPORT_CHAT_THOUGHT_FOR": "Thought for {count} seconds",
