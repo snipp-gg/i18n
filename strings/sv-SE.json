@@ -2404,6 +2404,8 @@
   "SUPPORT_CHAT_STEP_EDITOR_DONE": "Kollade dina ändringar",
   "SUPPORT_CHAT_STEP_VIEW": "Tittar på förhandsvisningen",
   "SUPPORT_CHAT_STEP_VIEW_DONE": "Tittade på förhandsvisningen",
+  "SUPPORT_CHAT_STEP_FILE": "Tittar på filen",
+  "SUPPORT_CHAT_STEP_FILE_DONE": "Tittade på filen",
   "SUPPORT_CHAT_STEP_ESCALATE": "Kontaktar teamet",
   "SUPPORT_CHAT_STEP_ESCALATE_DONE": "Kontaktade teamet",
   "SUPPORT_CHAT_THOUGHT_FOR": "Tänkte i {count} sekunder",

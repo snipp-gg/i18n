@@ -2404,6 +2404,8 @@
   "SUPPORT_CHAT_STEP_EDITOR_DONE": "Sudah memeriksa hasil edit Anda",
   "SUPPORT_CHAT_STEP_VIEW": "Melihat pratinjau",
   "SUPPORT_CHAT_STEP_VIEW_DONE": "Sudah melihat pratinjau",
+  "SUPPORT_CHAT_STEP_FILE": "Melihat file",
+  "SUPPORT_CHAT_STEP_FILE_DONE": "Sudah melihat file",
   "SUPPORT_CHAT_STEP_ESCALATE": "Menghubungi tim",
   "SUPPORT_CHAT_STEP_ESCALATE_DONE": "Sudah menghubungi tim",
   "SUPPORT_CHAT_THOUGHT_FOR": "Berpikir selama {count} detik",

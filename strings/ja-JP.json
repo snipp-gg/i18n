@@ -2404,6 +2404,8 @@
   "SUPPORT_CHAT_STEP_EDITOR_DONE": "編集内容を確認しました",
   "SUPPORT_CHAT_STEP_VIEW": "プレビューを見ています",
   "SUPPORT_CHAT_STEP_VIEW_DONE": "プレビューを見ました",
+  "SUPPORT_CHAT_STEP_FILE": "ファイルを見ています",
+  "SUPPORT_CHAT_STEP_FILE_DONE": "ファイルを見ました",
   "SUPPORT_CHAT_STEP_ESCALATE": "チームに連絡中",
   "SUPPORT_CHAT_STEP_ESCALATE_DONE": "チームに連絡しました",
   "SUPPORT_CHAT_THOUGHT_FOR": "{count} 秒間考えました",

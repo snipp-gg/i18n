@@ -2404,6 +2404,8 @@
   "SUPPORT_CHAT_STEP_EDITOR_DONE": "Düzenlemelerinizi kontrol ettim",
   "SUPPORT_CHAT_STEP_VIEW": "Önizlemeye bakıyorum",
   "SUPPORT_CHAT_STEP_VIEW_DONE": "Önizlemeye baktım",
+  "SUPPORT_CHAT_STEP_FILE": "Dosyaya bakıyorum",
+  "SUPPORT_CHAT_STEP_FILE_DONE": "Dosyaya baktım",
   "SUPPORT_CHAT_STEP_ESCALATE": "Ekiple iletişime geçiyorum",
   "SUPPORT_CHAT_STEP_ESCALATE_DONE": "Ekiple iletişime geçtim",
   "SUPPORT_CHAT_THOUGHT_FOR": "{count} saniye düşündüm",

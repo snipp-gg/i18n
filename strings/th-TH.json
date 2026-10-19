@@ -2404,6 +2404,8 @@
   "SUPPORT_CHAT_STEP_EDITOR_DONE": "ตรวจสอบการแก้ไขของคุณแล้ว",
   "SUPPORT_CHAT_STEP_VIEW": "กำลังดูตัวอย่าง",
   "SUPPORT_CHAT_STEP_VIEW_DONE": "ดูตัวอย่างแล้ว",
+  "SUPPORT_CHAT_STEP_FILE": "กำลังดูไฟล์",
+  "SUPPORT_CHAT_STEP_FILE_DONE": "ดูไฟล์แล้ว",
   "SUPPORT_CHAT_STEP_ESCALATE": "กำลังติดต่อทีม",
   "SUPPORT_CHAT_STEP_ESCALATE_DONE": "ติดต่อทีมแล้ว",
   "SUPPORT_CHAT_THOUGHT_FOR": "คิดอยู่ {count} วินาที",

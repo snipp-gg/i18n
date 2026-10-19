@@ -2404,6 +2404,8 @@
   "SUPPORT_CHAT_STEP_EDITOR_DONE": "편집 내용을 확인했습니다",
   "SUPPORT_CHAT_STEP_VIEW": "미리보기 보는 중",
   "SUPPORT_CHAT_STEP_VIEW_DONE": "미리보기를 봤습니다",
+  "SUPPORT_CHAT_STEP_FILE": "파일 보는 중",
+  "SUPPORT_CHAT_STEP_FILE_DONE": "파일을 봤습니다",
   "SUPPORT_CHAT_STEP_ESCALATE": "팀에 연락 중",
   "SUPPORT_CHAT_STEP_ESCALATE_DONE": "팀에 연락했습니다",
   "SUPPORT_CHAT_THOUGHT_FOR": "{count}초 동안 생각했습니다",

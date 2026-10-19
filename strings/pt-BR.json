@@ -2404,6 +2404,8 @@
   "SUPPORT_CHAT_STEP_EDITOR_DONE": "Conferi suas edições",
   "SUPPORT_CHAT_STEP_VIEW": "Olhando a prévia",
   "SUPPORT_CHAT_STEP_VIEW_DONE": "Olhei a prévia",
+  "SUPPORT_CHAT_STEP_FILE": "Olhando o arquivo",
+  "SUPPORT_CHAT_STEP_FILE_DONE": "Olhei o arquivo",
   "SUPPORT_CHAT_STEP_ESCALATE": "Contatando a equipe",
   "SUPPORT_CHAT_STEP_ESCALATE_DONE": "Contatei a equipe",
   "SUPPORT_CHAT_THOUGHT_FOR": "Pensei por {count} segundos",

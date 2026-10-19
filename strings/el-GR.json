@@ -2404,6 +2404,8 @@
   "SUPPORT_CHAT_STEP_EDITOR_DONE": "Έλεγξα τις αλλαγές σας",
   "SUPPORT_CHAT_STEP_VIEW": "Κοιτάζω την προεπισκόπηση",
   "SUPPORT_CHAT_STEP_VIEW_DONE": "Κοίταξα την προεπισκόπηση",
+  "SUPPORT_CHAT_STEP_FILE": "Κοιτάζω το αρχείο",
+  "SUPPORT_CHAT_STEP_FILE_DONE": "Κοίταξα το αρχείο",
   "SUPPORT_CHAT_STEP_ESCALATE": "Επικοινωνώ με την ομάδα",
   "SUPPORT_CHAT_STEP_ESCALATE_DONE": "Επικοινώνησα με την ομάδα",
   "SUPPORT_CHAT_THOUGHT_FOR": "Σκέφτηκα για {count} δευτερόλεπτα",

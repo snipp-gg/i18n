@@ -2404,6 +2404,8 @@
   "SUPPORT_CHAT_STEP_EDITOR_DONE": "Проверил ваши изменения",
   "SUPPORT_CHAT_STEP_VIEW": "Смотрю предпросмотр",
   "SUPPORT_CHAT_STEP_VIEW_DONE": "Посмотрел предпросмотр",
+  "SUPPORT_CHAT_STEP_FILE": "Смотрю файл",
+  "SUPPORT_CHAT_STEP_FILE_DONE": "Посмотрел файл",
   "SUPPORT_CHAT_STEP_ESCALATE": "Связываюсь с командой",
   "SUPPORT_CHAT_STEP_ESCALATE_DONE": "Связался с командой",
   "SUPPORT_CHAT_THOUGHT_FOR": "Думал {count} секунд",

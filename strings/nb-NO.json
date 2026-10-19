@@ -2404,6 +2404,8 @@
   "SUPPORT_CHAT_STEP_EDITOR_DONE": "Sjekket endringene dine",
   "SUPPORT_CHAT_STEP_VIEW": "Ser på forhåndsvisningen",
   "SUPPORT_CHAT_STEP_VIEW_DONE": "Så på forhåndsvisningen",
+  "SUPPORT_CHAT_STEP_FILE": "Ser på filen",
+  "SUPPORT_CHAT_STEP_FILE_DONE": "Så på filen",
   "SUPPORT_CHAT_STEP_ESCALATE": "Kontakter teamet",
   "SUPPORT_CHAT_STEP_ESCALATE_DONE": "Kontaktet teamet",
   "SUPPORT_CHAT_THOUGHT_FOR": "Tenkte i {count} sekunder",

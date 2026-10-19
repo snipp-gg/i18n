@@ -2404,6 +2404,8 @@
   "SUPPORT_CHAT_STEP_EDITOR_DONE": "Tarkistettiin muutoksesi",
   "SUPPORT_CHAT_STEP_VIEW": "Katsotaan esikatselua",
   "SUPPORT_CHAT_STEP_VIEW_DONE": "Katsottiin esikatselu",
+  "SUPPORT_CHAT_STEP_FILE": "Katsotaan tiedostoa",
+  "SUPPORT_CHAT_STEP_FILE_DONE": "Katsottiin tiedosto",
   "SUPPORT_CHAT_STEP_ESCALATE": "Otetaan yhteyttä tiimiin",
   "SUPPORT_CHAT_STEP_ESCALATE_DONE": "Otettiin yhteyttä tiimiin",
   "SUPPORT_CHAT_THOUGHT_FOR": "Mietittiin {count} sekuntia",

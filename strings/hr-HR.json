@@ -2404,6 +2404,8 @@
   "SUPPORT_CHAT_STEP_EDITOR_DONE": "Provjerio sam tvoje izmjene",
   "SUPPORT_CHAT_STEP_VIEW": "Gledam pretpregled",
   "SUPPORT_CHAT_STEP_VIEW_DONE": "Pogledao sam pretpregled",
+  "SUPPORT_CHAT_STEP_FILE": "Gledam datoteku",
+  "SUPPORT_CHAT_STEP_FILE_DONE": "Pogledao sam datoteku",
   "SUPPORT_CHAT_STEP_ESCALATE": "Kontaktiram tim",
   "SUPPORT_CHAT_STEP_ESCALATE_DONE": "Kontaktirao sam tim",
   "SUPPORT_CHAT_THOUGHT_FOR": "Razmišljao sam {count} sekundi",

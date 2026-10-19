@@ -2404,6 +2404,8 @@
   "SUPPORT_CHAT_STEP_EDITOR_DONE": "Skontroloval som tvoje úpravy",
   "SUPPORT_CHAT_STEP_VIEW": "Pozerám sa na náhľad",
   "SUPPORT_CHAT_STEP_VIEW_DONE": "Pozrel som sa na náhľad",
+  "SUPPORT_CHAT_STEP_FILE": "Pozerám sa na súbor",
+  "SUPPORT_CHAT_STEP_FILE_DONE": "Pozrel som sa na súbor",
   "SUPPORT_CHAT_STEP_ESCALATE": "Kontaktujem tím",
   "SUPPORT_CHAT_STEP_ESCALATE_DONE": "Kontaktoval som tím",
   "SUPPORT_CHAT_THOUGHT_FOR": "Premýšľal som {count} sekúnd",

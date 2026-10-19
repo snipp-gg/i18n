@@ -2404,6 +2404,8 @@
   "SUPPORT_CHAT_STEP_EDITOR_DONE": "Na-check ang iyong mga edit",
   "SUPPORT_CHAT_STEP_VIEW": "Tinitingnan ang preview",
   "SUPPORT_CHAT_STEP_VIEW_DONE": "Tiningnan ang preview",
+  "SUPPORT_CHAT_STEP_FILE": "Tinitingnan ang file",
+  "SUPPORT_CHAT_STEP_FILE_DONE": "Tiningnan ang file",
   "SUPPORT_CHAT_STEP_ESCALATE": "Kinokontak ang team",
   "SUPPORT_CHAT_STEP_ESCALATE_DONE": "Kinontak ang team",
   "SUPPORT_CHAT_THOUGHT_FOR": "Nag-isip nang {count} na segundo",

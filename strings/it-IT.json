@@ -2404,6 +2404,8 @@
   "SUPPORT_CHAT_STEP_EDITOR_DONE": "Ho controllato le tue modifiche",
   "SUPPORT_CHAT_STEP_VIEW": "Sto guardando l'anteprima",
   "SUPPORT_CHAT_STEP_VIEW_DONE": "Ho guardato l'anteprima",
+  "SUPPORT_CHAT_STEP_FILE": "Sto guardando il file",
+  "SUPPORT_CHAT_STEP_FILE_DONE": "Ho guardato il file",
   "SUPPORT_CHAT_STEP_ESCALATE": "Sto contattando il team",
   "SUPPORT_CHAT_STEP_ESCALATE_DONE": "Ho contattato il team",
   "SUPPORT_CHAT_THOUGHT_FOR": "Ho pensato per {count} secondi",
