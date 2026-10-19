@@ -2411,6 +2411,8 @@
   "SUPPORT_CHAT_STEP_VIEW_DONE": "Pozrel som sa na náhľad",
   "SUPPORT_CHAT_STEP_FILE": "Pozerám sa na súbor",
   "SUPPORT_CHAT_STEP_FILE_DONE": "Pozrel som sa na súbor",
+  "SUPPORT_CHAT_STEP_UPLOADS": "Pozerám sa na tvoje nahrávania",
+  "SUPPORT_CHAT_STEP_UPLOADS_DONE": "Pozrel som sa na tvoje nahrávania",
   "SUPPORT_CHAT_STEP_ESCALATE": "Kontaktujem tím",
   "SUPPORT_CHAT_STEP_ESCALATE_DONE": "Kontaktoval som tím",
   "SUPPORT_CHAT_THOUGHT_FOR": "Premýšľal som {count} sekúnd",

@@ -2411,6 +2411,8 @@
   "SUPPORT_CHAT_STEP_VIEW_DONE": "ดูตัวอย่างแล้ว",
   "SUPPORT_CHAT_STEP_FILE": "กำลังดูไฟล์",
   "SUPPORT_CHAT_STEP_FILE_DONE": "ดูไฟล์แล้ว",
+  "SUPPORT_CHAT_STEP_UPLOADS": "กำลังดูการอัปโหลดของคุณ",
+  "SUPPORT_CHAT_STEP_UPLOADS_DONE": "ดูการอัปโหลดของคุณแล้ว",
   "SUPPORT_CHAT_STEP_ESCALATE": "กำลังติดต่อทีม",
   "SUPPORT_CHAT_STEP_ESCALATE_DONE": "ติดต่อทีมแล้ว",
   "SUPPORT_CHAT_THOUGHT_FOR": "คิดอยู่ {count} วินาที",

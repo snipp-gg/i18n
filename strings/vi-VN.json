@@ -2411,6 +2411,8 @@
   "SUPPORT_CHAT_STEP_VIEW_DONE": "Đã xem bản xem trước",
   "SUPPORT_CHAT_STEP_FILE": "Đang xem tệp",
   "SUPPORT_CHAT_STEP_FILE_DONE": "Đã xem tệp",
+  "SUPPORT_CHAT_STEP_UPLOADS": "Đang xem nội dung tải lên của bạn",
+  "SUPPORT_CHAT_STEP_UPLOADS_DONE": "Đã xem nội dung tải lên của bạn",
   "SUPPORT_CHAT_STEP_ESCALATE": "Đang liên hệ đội ngũ",
   "SUPPORT_CHAT_STEP_ESCALATE_DONE": "Đã liên hệ đội ngũ",
   "SUPPORT_CHAT_THOUGHT_FOR": "Đã suy nghĩ trong {count} giây",

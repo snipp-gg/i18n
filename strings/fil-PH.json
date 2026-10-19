@@ -2411,6 +2411,8 @@
   "SUPPORT_CHAT_STEP_VIEW_DONE": "Tiningnan ang preview",
   "SUPPORT_CHAT_STEP_FILE": "Tinitingnan ang file",
   "SUPPORT_CHAT_STEP_FILE_DONE": "Tiningnan ang file",
+  "SUPPORT_CHAT_STEP_UPLOADS": "Tinitingnan ang iyong mga upload",
+  "SUPPORT_CHAT_STEP_UPLOADS_DONE": "Tiningnan ang iyong mga upload",
   "SUPPORT_CHAT_STEP_ESCALATE": "Kinokontak ang team",
   "SUPPORT_CHAT_STEP_ESCALATE_DONE": "Kinontak ang team",
   "SUPPORT_CHAT_THOUGHT_FOR": "Nag-isip nang {count} na segundo",

@@ -2411,6 +2411,8 @@
   "SUPPORT_CHAT_STEP_VIEW_DONE": "M-am uitat la previzualizare",
   "SUPPORT_CHAT_STEP_FILE": "Mă uit la fișier",
   "SUPPORT_CHAT_STEP_FILE_DONE": "M-am uitat la fișier",
+  "SUPPORT_CHAT_STEP_UPLOADS": "Mă uit la încărcările tale",
+  "SUPPORT_CHAT_STEP_UPLOADS_DONE": "M-am uitat la încărcările tale",
   "SUPPORT_CHAT_STEP_ESCALATE": "Contactez echipa",
   "SUPPORT_CHAT_STEP_ESCALATE_DONE": "Am contactat echipa",
   "SUPPORT_CHAT_THOUGHT_FOR": "M-am gândit {count} secunde",

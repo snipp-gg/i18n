@@ -2411,6 +2411,8 @@
   "SUPPORT_CHAT_STEP_VIEW_DONE": "J'ai regardé l'aperçu",
   "SUPPORT_CHAT_STEP_FILE": "Je regarde le fichier",
   "SUPPORT_CHAT_STEP_FILE_DONE": "J'ai regardé le fichier",
+  "SUPPORT_CHAT_STEP_UPLOADS": "Je regarde vos envois",
+  "SUPPORT_CHAT_STEP_UPLOADS_DONE": "J'ai regardé vos envois",
   "SUPPORT_CHAT_STEP_ESCALATE": "Je contacte l'équipe",
   "SUPPORT_CHAT_STEP_ESCALATE_DONE": "J'ai contacté l'équipe",
   "SUPPORT_CHAT_THOUGHT_FOR": "J'ai réfléchi pendant {count} secondes",

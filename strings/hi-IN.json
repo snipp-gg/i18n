@@ -2411,6 +2411,8 @@
   "SUPPORT_CHAT_STEP_VIEW_DONE": "प्रीव्यू देख लिया",
   "SUPPORT_CHAT_STEP_FILE": "फ़ाइल देख रहा हूँ",
   "SUPPORT_CHAT_STEP_FILE_DONE": "फ़ाइल देख ली",
+  "SUPPORT_CHAT_STEP_UPLOADS": "आपके अपलोड देख रहा हूँ",
+  "SUPPORT_CHAT_STEP_UPLOADS_DONE": "आपके अपलोड देख लिए",
   "SUPPORT_CHAT_STEP_ESCALATE": "टीम से संपर्क कर रहा हूँ",
   "SUPPORT_CHAT_STEP_ESCALATE_DONE": "टीम से संपर्क कर लिया",
   "SUPPORT_CHAT_THOUGHT_FOR": "{count} सेकंड तक सोचा",

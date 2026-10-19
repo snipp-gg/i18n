@@ -2411,6 +2411,8 @@
   "SUPPORT_CHAT_STEP_VIEW_DONE": "Så på forhåndsvisningen",
   "SUPPORT_CHAT_STEP_FILE": "Ser på filen",
   "SUPPORT_CHAT_STEP_FILE_DONE": "Så på filen",
+  "SUPPORT_CHAT_STEP_UPLOADS": "Ser på opplastingene dine",
+  "SUPPORT_CHAT_STEP_UPLOADS_DONE": "Så på opplastingene dine",
   "SUPPORT_CHAT_STEP_ESCALATE": "Kontakter teamet",
   "SUPPORT_CHAT_STEP_ESCALATE_DONE": "Kontaktet teamet",
   "SUPPORT_CHAT_THOUGHT_FOR": "Tenkte i {count} sekunder",

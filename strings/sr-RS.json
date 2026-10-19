@@ -2411,6 +2411,8 @@
   "SUPPORT_CHAT_STEP_VIEW_DONE": "Pogledao sam pretpregled",
   "SUPPORT_CHAT_STEP_FILE": "Gledam fajl",
   "SUPPORT_CHAT_STEP_FILE_DONE": "Pogledao sam fajl",
+  "SUPPORT_CHAT_STEP_UPLOADS": "Gledam vaša otpremanja",
+  "SUPPORT_CHAT_STEP_UPLOADS_DONE": "Pogledao sam vaša otpremanja",
   "SUPPORT_CHAT_STEP_ESCALATE": "Kontaktiram tim",
   "SUPPORT_CHAT_STEP_ESCALATE_DONE": "Kontaktirao sam tim",
   "SUPPORT_CHAT_THOUGHT_FOR": "Razmišljao sam {count} sekundi",

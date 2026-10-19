@@ -2411,6 +2411,8 @@
   "SUPPORT_CHAT_STEP_VIEW_DONE": "Vi a pré-visualização",
   "SUPPORT_CHAT_STEP_FILE": "A ver o ficheiro",
   "SUPPORT_CHAT_STEP_FILE_DONE": "Vi o ficheiro",
+  "SUPPORT_CHAT_STEP_UPLOADS": "A ver os seus carregamentos",
+  "SUPPORT_CHAT_STEP_UPLOADS_DONE": "Vi os seus carregamentos",
   "SUPPORT_CHAT_STEP_ESCALATE": "A contactar a equipa",
   "SUPPORT_CHAT_STEP_ESCALATE_DONE": "Contactei a equipa",
   "SUPPORT_CHAT_THOUGHT_FOR": "Pensei durante {count} segundos",

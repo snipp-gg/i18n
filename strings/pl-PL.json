@@ -2411,6 +2411,8 @@
   "SUPPORT_CHAT_STEP_VIEW_DONE": "Spojrzałem na podgląd",
   "SUPPORT_CHAT_STEP_FILE": "Patrzę na plik",
   "SUPPORT_CHAT_STEP_FILE_DONE": "Spojrzałem na plik",
+  "SUPPORT_CHAT_STEP_UPLOADS": "Patrzę na Twoje przesłane pliki",
+  "SUPPORT_CHAT_STEP_UPLOADS_DONE": "Spojrzałem na Twoje przesłane pliki",
   "SUPPORT_CHAT_STEP_ESCALATE": "Kontaktuję się z zespołem",
   "SUPPORT_CHAT_STEP_ESCALATE_DONE": "Skontaktowałem się z zespołem",
   "SUPPORT_CHAT_THOUGHT_FOR": "Myślałem przez {count} sekund",

@@ -2411,6 +2411,8 @@
   "SUPPORT_CHAT_STEP_VIEW_DONE": "Podíval jsem se na náhled",
   "SUPPORT_CHAT_STEP_FILE": "Dívám se na soubor",
   "SUPPORT_CHAT_STEP_FILE_DONE": "Podíval jsem se na soubor",
+  "SUPPORT_CHAT_STEP_UPLOADS": "Dívám se na vaše nahrané soubory",
+  "SUPPORT_CHAT_STEP_UPLOADS_DONE": "Podíval jsem se na vaše nahrané soubory",
   "SUPPORT_CHAT_STEP_ESCALATE": "Kontaktuji tým",
   "SUPPORT_CHAT_STEP_ESCALATE_DONE": "Kontaktoval jsem tým",
   "SUPPORT_CHAT_THOUGHT_FOR": "Přemýšlel jsem {count} sekund",

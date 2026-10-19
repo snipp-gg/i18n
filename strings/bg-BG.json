@@ -2411,6 +2411,8 @@
   "SUPPORT_CHAT_STEP_VIEW_DONE": "Разгледах визуализацията",
   "SUPPORT_CHAT_STEP_FILE": "Разглеждам файла",
   "SUPPORT_CHAT_STEP_FILE_DONE": "Разгледах файла",
+  "SUPPORT_CHAT_STEP_UPLOADS": "Разглеждам качванията ви",
+  "SUPPORT_CHAT_STEP_UPLOADS_DONE": "Разгледах качванията ви",
   "SUPPORT_CHAT_STEP_ESCALATE": "Свързвам се с екипа",
   "SUPPORT_CHAT_STEP_ESCALATE_DONE": "Свързах се с екипа",
   "SUPPORT_CHAT_THOUGHT_FOR": "Мислих {count} секунди",

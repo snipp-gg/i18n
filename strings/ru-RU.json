@@ -2411,6 +2411,8 @@
   "SUPPORT_CHAT_STEP_VIEW_DONE": "Посмотрел предпросмотр",
   "SUPPORT_CHAT_STEP_FILE": "Смотрю файл",
   "SUPPORT_CHAT_STEP_FILE_DONE": "Посмотрел файл",
+  "SUPPORT_CHAT_STEP_UPLOADS": "Смотрю ваши загрузки",
+  "SUPPORT_CHAT_STEP_UPLOADS_DONE": "Посмотрел ваши загрузки",
   "SUPPORT_CHAT_STEP_ESCALATE": "Связываюсь с командой",
   "SUPPORT_CHAT_STEP_ESCALATE_DONE": "Связался с командой",
   "SUPPORT_CHAT_THOUGHT_FOR": "Думал {count} секунд",

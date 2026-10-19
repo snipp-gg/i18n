@@ -2411,6 +2411,8 @@
   "SUPPORT_CHAT_STEP_VIEW_DONE": "Het voorbeeld bekeken",
   "SUPPORT_CHAT_STEP_FILE": "Het bestand bekijken",
   "SUPPORT_CHAT_STEP_FILE_DONE": "Het bestand bekeken",
+  "SUPPORT_CHAT_STEP_UPLOADS": "Je uploads bekijken",
+  "SUPPORT_CHAT_STEP_UPLOADS_DONE": "Je uploads bekeken",
   "SUPPORT_CHAT_STEP_ESCALATE": "Contact opnemen met het team",
   "SUPPORT_CHAT_STEP_ESCALATE_DONE": "Contact opgenomen met het team",
   "SUPPORT_CHAT_THOUGHT_FOR": "{count} seconden nagedacht",
