@@ -1340,6 +1340,8 @@
   "SETTINGS_BILLING_PRIORITY_MINUTES_LABEL": "Buwanang Priority Minutes",
   "SETTINGS_BILLING_PRIORITY_MINUTES_VALUE": "{used} / {limit} min",
   "SETTINGS_BILLING_PRIORITY_MINUTES_EXCEEDED": "Lumampas sa priority minutes",
+  "SETTINGS_BILLING_SNIPPY_LABEL": "Pang-araw-araw na Mensahe kay Snippy",
+  "SETTINGS_BILLING_SNIPPY_EXCEEDED": "Lumampas sa pang-araw-araw na mensahe",
   "COMMON_LEARN_MORE": "Matuto pa",
   "SETTINGS_BILLING_UPGRADE_HINT": "Mag-upgrade para sa mas malaking limit",
   "SETTINGS_BILLING_SUBSCRIBED_TO_PLAN_PREFIX": "Naka-subscribe sa ",

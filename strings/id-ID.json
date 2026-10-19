@@ -1340,6 +1340,8 @@
   "SETTINGS_BILLING_PRIORITY_MINUTES_LABEL": "Menit Prioritas Bulanan",
   "SETTINGS_BILLING_PRIORITY_MINUTES_VALUE": "{used} / {limit} mnt",
   "SETTINGS_BILLING_PRIORITY_MINUTES_EXCEEDED": "Menit prioritas terlampaui",
+  "SETTINGS_BILLING_SNIPPY_LABEL": "Pesan Harian ke Snippy",
+  "SETTINGS_BILLING_SNIPPY_EXCEEDED": "Pesan harian terlampaui",
   "COMMON_LEARN_MORE": "Pelajari lebih lanjut",
   "SETTINGS_BILLING_UPGRADE_HINT": "Tingkatkan untuk batas yang lebih besar",
   "SETTINGS_BILLING_SUBSCRIBED_TO_PLAN_PREFIX": "Berlangganan ",

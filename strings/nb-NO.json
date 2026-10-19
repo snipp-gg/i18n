@@ -1340,6 +1340,8 @@
   "SETTINGS_BILLING_PRIORITY_MINUTES_LABEL": "Månedlige prioritetsminutter",
   "SETTINGS_BILLING_PRIORITY_MINUTES_VALUE": "{used} / {limit} min",
   "SETTINGS_BILLING_PRIORITY_MINUTES_EXCEEDED": "Prioritetsminutter overskredet",
+  "SETTINGS_BILLING_SNIPPY_LABEL": "Daglige Snippy-meldinger",
+  "SETTINGS_BILLING_SNIPPY_EXCEEDED": "Daglige meldinger overskredet",
   "COMMON_LEARN_MORE": "Finn ut mer",
   "SETTINGS_BILLING_UPGRADE_HINT": "Oppgrader for økte grenser",
   "SETTINGS_BILLING_SUBSCRIBED_TO_PLAN_PREFIX": "Abonnerer på ",

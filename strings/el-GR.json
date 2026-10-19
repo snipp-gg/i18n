@@ -1340,6 +1340,8 @@
   "SETTINGS_BILLING_PRIORITY_MINUTES_LABEL": "Μηνιαία λεπτά προτεραιότητας",
   "SETTINGS_BILLING_PRIORITY_MINUTES_VALUE": "{used} / {limit} λεπτά",
   "SETTINGS_BILLING_PRIORITY_MINUTES_EXCEEDED": "Υπέρβαση λεπτών προτεραιότητας",
+  "SETTINGS_BILLING_SNIPPY_LABEL": "Ημερήσια μηνύματα στον Snippy",
+  "SETTINGS_BILLING_SNIPPY_EXCEEDED": "Υπέρβαση ημερήσιων μηνυμάτων",
   "COMMON_LEARN_MORE": "Μάθετε περισσότερα",
   "SETTINGS_BILLING_UPGRADE_HINT": "Αναβαθμίστε για αυξημένα όρια",
   "SETTINGS_BILLING_SUBSCRIBED_TO_PLAN_PREFIX": "Συνδρομητής σε ",

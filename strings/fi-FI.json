@@ -1340,6 +1340,8 @@
   "SETTINGS_BILLING_PRIORITY_MINUTES_LABEL": "Kuukauden prioriteettiminuutit",
   "SETTINGS_BILLING_PRIORITY_MINUTES_VALUE": "{used} / {limit} min",
   "SETTINGS_BILLING_PRIORITY_MINUTES_EXCEEDED": "Prioriteettiminuutit ylitetty",
+  "SETTINGS_BILLING_SNIPPY_LABEL": "Päivittäiset Snippy-viestit",
+  "SETTINGS_BILLING_SNIPPY_EXCEEDED": "Päivittäiset viestit ylitetty",
   "COMMON_LEARN_MORE": "Lue lisää",
   "SETTINGS_BILLING_UPGRADE_HINT": "Päivitä saadaksesi suuremmat rajat",
   "SETTINGS_BILLING_SUBSCRIBED_TO_PLAN_PREFIX": "Tilattu: ",

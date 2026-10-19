@@ -1340,6 +1340,8 @@
   "SETTINGS_BILLING_PRIORITY_MINUTES_LABEL": "Пріоритетні хвилини за місяць",
   "SETTINGS_BILLING_PRIORITY_MINUTES_VALUE": "{used} / {limit} хв",
   "SETTINGS_BILLING_PRIORITY_MINUTES_EXCEEDED": "Ліміт пріоритетних хвилин перевищено",
+  "SETTINGS_BILLING_SNIPPY_LABEL": "Повідомлення для Snippy за день",
+  "SETTINGS_BILLING_SNIPPY_EXCEEDED": "Денний ліміт повідомлень перевищено",
   "COMMON_LEARN_MORE": "Дізнатися більше",
   "SETTINGS_BILLING_UPGRADE_HINT": "Перейдіть на платний план для збільшених лімітів",
   "SETTINGS_BILLING_SUBSCRIBED_TO_PLAN_PREFIX": "Підписано на ",

@@ -1340,6 +1340,8 @@
   "SETTINGS_BILLING_PRIORITY_MINUTES_LABEL": "Месечни приоритетни минути",
   "SETTINGS_BILLING_PRIORITY_MINUTES_VALUE": "{used} / {limit} мин",
   "SETTINGS_BILLING_PRIORITY_MINUTES_EXCEEDED": "Приоритетните минути са надхвърлени",
+  "SETTINGS_BILLING_SNIPPY_LABEL": "Дневни съобщения до Snippy",
+  "SETTINGS_BILLING_SNIPPY_EXCEEDED": "Дневните съобщения са надхвърлени",
   "COMMON_LEARN_MORE": "Научете повече",
   "SETTINGS_BILLING_UPGRADE_HINT": "Надстройте за увеличени лимити",
   "SETTINGS_BILLING_SUBSCRIBED_TO_PLAN_PREFIX": "Абониран за ",

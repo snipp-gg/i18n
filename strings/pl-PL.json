@@ -1340,6 +1340,8 @@
   "SETTINGS_BILLING_PRIORITY_MINUTES_LABEL": "Miesięczne minuty priorytetowe",
   "SETTINGS_BILLING_PRIORITY_MINUTES_VALUE": "{used} / {limit} min",
   "SETTINGS_BILLING_PRIORITY_MINUTES_EXCEEDED": "Przekroczono minuty priorytetowe",
+  "SETTINGS_BILLING_SNIPPY_LABEL": "Dzienne wiadomości do Snippy'ego",
+  "SETTINGS_BILLING_SNIPPY_EXCEEDED": "Przekroczono dzienny limit wiadomości",
   "COMMON_LEARN_MORE": "Dowiedz się więcej",
   "SETTINGS_BILLING_UPGRADE_HINT": "Ulepsz, aby zwiększyć limity",
   "SETTINGS_BILLING_SUBSCRIBED_TO_PLAN_PREFIX": "Subskrybujesz ",

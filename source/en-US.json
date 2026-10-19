@@ -1340,6 +1340,8 @@
   "SETTINGS_BILLING_PRIORITY_MINUTES_LABEL": "Monthly Priority Minutes",
   "SETTINGS_BILLING_PRIORITY_MINUTES_VALUE": "{used} / {limit} min",
   "SETTINGS_BILLING_PRIORITY_MINUTES_EXCEEDED": "Priority minutes exceeded",
+  "SETTINGS_BILLING_SNIPPY_LABEL": "Daily Snippy Messages",
+  "SETTINGS_BILLING_SNIPPY_EXCEEDED": "Daily messages exceeded",
   "COMMON_LEARN_MORE": "Learn more",
   "SETTINGS_BILLING_UPGRADE_HINT": "Upgrade for increased limits",
   "SETTINGS_BILLING_SUBSCRIBED_TO_PLAN_PREFIX": "Subscribed to ",

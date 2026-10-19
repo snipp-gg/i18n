@@ -1340,6 +1340,8 @@
   "SETTINGS_BILLING_PRIORITY_MINUTES_LABEL": "Приоритетные минуты за месяц",
   "SETTINGS_BILLING_PRIORITY_MINUTES_VALUE": "{used} / {limit} мин",
   "SETTINGS_BILLING_PRIORITY_MINUTES_EXCEEDED": "Лимит приоритетных минут превышен",
+  "SETTINGS_BILLING_SNIPPY_LABEL": "Сообщения для Snippy за день",
+  "SETTINGS_BILLING_SNIPPY_EXCEEDED": "Дневной лимит сообщений превышен",
   "COMMON_LEARN_MORE": "Подробнее",
   "SETTINGS_BILLING_UPGRADE_HINT": "Улучшите тариф для увеличения лимитов",
   "SETTINGS_BILLING_SUBSCRIBED_TO_PLAN_PREFIX": "Подписка на ",

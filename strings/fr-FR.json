@@ -1340,6 +1340,8 @@
   "SETTINGS_BILLING_PRIORITY_MINUTES_LABEL": "Minutes prioritaires mensuelles",
   "SETTINGS_BILLING_PRIORITY_MINUTES_VALUE": "{used} / {limit} min",
   "SETTINGS_BILLING_PRIORITY_MINUTES_EXCEEDED": "Minutes prioritaires dépassées",
+  "SETTINGS_BILLING_SNIPPY_LABEL": "Messages quotidiens à Snippy",
+  "SETTINGS_BILLING_SNIPPY_EXCEEDED": "Messages quotidiens dépassés",
   "COMMON_LEARN_MORE": "En savoir plus",
   "SETTINGS_BILLING_UPGRADE_HINT": "Passez à la version supérieure pour des limites accrues",
   "SETTINGS_BILLING_SUBSCRIBED_TO_PLAN_PREFIX": "Abonné à ",

@@ -1340,6 +1340,8 @@
   "SETTINGS_BILLING_PRIORITY_MINUTES_LABEL": "Aylık öncelikli dakikalar",
   "SETTINGS_BILLING_PRIORITY_MINUTES_VALUE": "{used} / {limit} dk",
   "SETTINGS_BILLING_PRIORITY_MINUTES_EXCEEDED": "Öncelikli dakikalar aşıldı",
+  "SETTINGS_BILLING_SNIPPY_LABEL": "Günlük Snippy mesajları",
+  "SETTINGS_BILLING_SNIPPY_EXCEEDED": "Günlük mesajlar aşıldı",
   "COMMON_LEARN_MORE": "Daha fazla bilgi",
   "SETTINGS_BILLING_UPGRADE_HINT": "Daha yüksek sınırlar için yükseltin",
   "SETTINGS_BILLING_SUBSCRIBED_TO_PLAN_PREFIX": "Aboneliğiniz: ",

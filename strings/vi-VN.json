@@ -1340,6 +1340,8 @@
   "SETTINGS_BILLING_PRIORITY_MINUTES_LABEL": "Phút ưu tiên hàng tháng",
   "SETTINGS_BILLING_PRIORITY_MINUTES_VALUE": "{used} / {limit} phút",
   "SETTINGS_BILLING_PRIORITY_MINUTES_EXCEEDED": "Đã vượt số phút ưu tiên",
+  "SETTINGS_BILLING_SNIPPY_LABEL": "Tin nhắn gửi Snippy hàng ngày",
+  "SETTINGS_BILLING_SNIPPY_EXCEEDED": "Đã vượt số tin nhắn hàng ngày",
   "COMMON_LEARN_MORE": "Tìm hiểu thêm",
   "SETTINGS_BILLING_UPGRADE_HINT": "Nâng cấp để tăng giới hạn",
   "SETTINGS_BILLING_SUBSCRIBED_TO_PLAN_PREFIX": "Đã đăng ký ",

@@ -1340,6 +1340,8 @@
   "SETTINGS_BILLING_PRIORITY_MINUTES_LABEL": "मासिक प्राथमिकता मिनट",
   "SETTINGS_BILLING_PRIORITY_MINUTES_VALUE": "{used} / {limit} मिनट",
   "SETTINGS_BILLING_PRIORITY_MINUTES_EXCEEDED": "प्राथमिकता मिनट सीमा पार हो गई",
+  "SETTINGS_BILLING_SNIPPY_LABEL": "दैनिक Snippy मैसेज",
+  "SETTINGS_BILLING_SNIPPY_EXCEEDED": "दैनिक मैसेज सीमा पार हो गई",
   "COMMON_LEARN_MORE": "और जानें",
   "SETTINGS_BILLING_UPGRADE_HINT": "अधिक सीमाओं के लिए अपग्रेड करें",
   "SETTINGS_BILLING_SUBSCRIBED_TO_PLAN_PREFIX": "आपकी सदस्यता: ",

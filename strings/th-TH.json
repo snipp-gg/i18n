@@ -1340,6 +1340,8 @@
   "SETTINGS_BILLING_PRIORITY_MINUTES_LABEL": "นาทีลำดับความสำคัญรายเดือน",
   "SETTINGS_BILLING_PRIORITY_MINUTES_VALUE": "{used} / {limit} นาที",
   "SETTINGS_BILLING_PRIORITY_MINUTES_EXCEEDED": "เกินจำนวนนาทีลำดับความสำคัญ",
+  "SETTINGS_BILLING_SNIPPY_LABEL": "ข้อความถึง Snippy รายวัน",
+  "SETTINGS_BILLING_SNIPPY_EXCEEDED": "เกินจำนวนข้อความรายวัน",
   "COMMON_LEARN_MORE": "ดูเพิ่มเติม",
   "SETTINGS_BILLING_UPGRADE_HINT": "อัปเกรดเพื่อเพิ่มขีดจำกัด",
   "SETTINGS_BILLING_SUBSCRIBED_TO_PLAN_PREFIX": "เป็นสมาชิก ",

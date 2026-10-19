@@ -1340,6 +1340,8 @@
   "SETTINGS_BILLING_PRIORITY_MINUTES_LABEL": "Měsíční prioritní minuty",
   "SETTINGS_BILLING_PRIORITY_MINUTES_VALUE": "{used} / {limit} min",
   "SETTINGS_BILLING_PRIORITY_MINUTES_EXCEEDED": "Prioritní minuty překročeny",
+  "SETTINGS_BILLING_SNIPPY_LABEL": "Denní zprávy pro Snippyho",
+  "SETTINGS_BILLING_SNIPPY_EXCEEDED": "Denní zprávy překročeny",
   "COMMON_LEARN_MORE": "Zjistit více",
   "SETTINGS_BILLING_UPGRADE_HINT": "Vylepšete pro vyšší limity",
   "SETTINGS_BILLING_SUBSCRIBED_TO_PLAN_PREFIX": "Předplaceno ",

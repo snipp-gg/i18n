@@ -1340,6 +1340,8 @@
   "SETTINGS_BILLING_PRIORITY_MINUTES_LABEL": "Mjesečne prioritetne minute",
   "SETTINGS_BILLING_PRIORITY_MINUTES_VALUE": "{used} / {limit} min",
   "SETTINGS_BILLING_PRIORITY_MINUTES_EXCEEDED": "Prioritetne minute premašene",
+  "SETTINGS_BILLING_SNIPPY_LABEL": "Dnevne poruke Snippyju",
+  "SETTINGS_BILLING_SNIPPY_EXCEEDED": "Dnevne poruke premašene",
   "COMMON_LEARN_MORE": "Saznajte više",
   "SETTINGS_BILLING_UPGRADE_HINT": "Nadogradi za veća ograničenja",
   "SETTINGS_BILLING_SUBSCRIBED_TO_PLAN_PREFIX": "Pretplaćen na ",
