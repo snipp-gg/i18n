@@ -2376,6 +2376,7 @@
   "SUPPORT_CHAT_NEW_CHAT_ERROR": "Kunne ikke starte en ny samtale. Prøv igjen.",
   "SUPPORT_CHAT_RATE_LIMITED": "Du sender meldinger for raskt. Prøv igjen om litt.",
   "SUPPORT_CHAT_LIMIT_REACHED": "Daglig grense nådd",
+  "SUPPORT_CHAT_LIMIT_NEAR": "Daglig grense nesten nådd",
   "SUPPORT_CHAT_SEE_USAGE": "Se forbruk",
   "SUPPORT_CHAT_THINKING": "Tenker...",
   "SUPPORT_CHAT_CHECKING": "Sjekker...",

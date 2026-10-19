@@ -2376,6 +2376,7 @@
   "SUPPORT_CHAT_NEW_CHAT_ERROR": "새 채팅을 시작할 수 없습니다. 다시 시도해 주세요.",
   "SUPPORT_CHAT_RATE_LIMITED": "메시지를 너무 빠르게 보내고 있습니다. 잠시 후 다시 시도해 주세요.",
   "SUPPORT_CHAT_LIMIT_REACHED": "일일 한도 도달",
+  "SUPPORT_CHAT_LIMIT_NEAR": "일일 한도에 거의 도달",
   "SUPPORT_CHAT_SEE_USAGE": "사용량 확인",
   "SUPPORT_CHAT_THINKING": "생각 중...",
   "SUPPORT_CHAT_CHECKING": "확인 중...",

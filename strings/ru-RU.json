@@ -2376,6 +2376,7 @@
   "SUPPORT_CHAT_NEW_CHAT_ERROR": "Не удалось начать новый чат. Попробуйте ещё раз.",
   "SUPPORT_CHAT_RATE_LIMITED": "Вы отправляете сообщения слишком быстро. Попробуйте ещё раз чуть позже.",
   "SUPPORT_CHAT_LIMIT_REACHED": "Дневной лимит исчерпан",
+  "SUPPORT_CHAT_LIMIT_NEAR": "Дневной лимит почти исчерпан",
   "SUPPORT_CHAT_SEE_USAGE": "Посмотреть использование",
   "SUPPORT_CHAT_THINKING": "Думаю...",
   "SUPPORT_CHAT_CHECKING": "Проверяю...",

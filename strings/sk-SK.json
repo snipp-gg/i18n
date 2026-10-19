@@ -2376,6 +2376,7 @@
   "SUPPORT_CHAT_NEW_CHAT_ERROR": "Nový chat sa nepodarilo začať. Skús to znova.",
   "SUPPORT_CHAT_RATE_LIMITED": "Posielaš správy príliš rýchlo. Skús to o chvíľu znova.",
   "SUPPORT_CHAT_LIMIT_REACHED": "Denný limit vyčerpaný",
+  "SUPPORT_CHAT_LIMIT_NEAR": "Denný limit takmer vyčerpaný",
   "SUPPORT_CHAT_SEE_USAGE": "Zobraz využitie",
   "SUPPORT_CHAT_THINKING": "Premýšľam...",
   "SUPPORT_CHAT_CHECKING": "Kontrolujem...",

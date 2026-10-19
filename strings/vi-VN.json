@@ -2376,6 +2376,7 @@
   "SUPPORT_CHAT_NEW_CHAT_ERROR": "Không thể bắt đầu cuộc trò chuyện mới. Vui lòng thử lại.",
   "SUPPORT_CHAT_RATE_LIMITED": "Bạn đang gửi tin nhắn quá nhanh. Thử lại sau giây lát.",
   "SUPPORT_CHAT_LIMIT_REACHED": "Đã đạt giới hạn hàng ngày",
+  "SUPPORT_CHAT_LIMIT_NEAR": "Sắp đạt giới hạn hàng ngày",
   "SUPPORT_CHAT_SEE_USAGE": "Xem mức sử dụng",
   "SUPPORT_CHAT_THINKING": "Đang suy nghĩ...",
   "SUPPORT_CHAT_CHECKING": "Đang kiểm tra...",

@@ -2376,6 +2376,7 @@
   "SUPPORT_CHAT_NEW_CHAT_ERROR": "Nu am putut începe o conversație nouă. Te rugăm să încerci din nou.",
   "SUPPORT_CHAT_RATE_LIMITED": "Trimiți mesaje prea repede. Încearcă din nou într-o clipă.",
   "SUPPORT_CHAT_LIMIT_REACHED": "Limită zilnică atinsă",
+  "SUPPORT_CHAT_LIMIT_NEAR": "Limită zilnică aproape atinsă",
   "SUPPORT_CHAT_SEE_USAGE": "Vezi utilizarea",
   "SUPPORT_CHAT_THINKING": "Mă gândesc...",
   "SUPPORT_CHAT_CHECKING": "Verific...",

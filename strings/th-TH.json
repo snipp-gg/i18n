@@ -2376,6 +2376,7 @@
   "SUPPORT_CHAT_NEW_CHAT_ERROR": "ไม่สามารถเริ่มแชทใหม่ได้ กรุณาลองอีกครั้ง",
   "SUPPORT_CHAT_RATE_LIMITED": "คุณส่งข้อความเร็วเกินไป ลองอีกครั้งในอีกสักครู่",
   "SUPPORT_CHAT_LIMIT_REACHED": "ถึงขีดจำกัดรายวันแล้ว",
+  "SUPPORT_CHAT_LIMIT_NEAR": "ใกล้ถึงขีดจำกัดรายวันแล้ว",
   "SUPPORT_CHAT_SEE_USAGE": "ดูการใช้งาน",
   "SUPPORT_CHAT_THINKING": "กำลังคิด...",
   "SUPPORT_CHAT_CHECKING": "กำลังตรวจสอบ...",

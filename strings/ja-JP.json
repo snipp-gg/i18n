@@ -2376,6 +2376,7 @@
   "SUPPORT_CHAT_NEW_CHAT_ERROR": "新しいチャットを開始できませんでした。もう一度お試しください。",
   "SUPPORT_CHAT_RATE_LIMITED": "メッセージの送信が速すぎます。しばらくしてからもう一度お試しください。",
   "SUPPORT_CHAT_LIMIT_REACHED": "1日の上限に到達",
+  "SUPPORT_CHAT_LIMIT_NEAR": "1日の上限に近づいています",
   "SUPPORT_CHAT_SEE_USAGE": "使用量を確認",
   "SUPPORT_CHAT_THINKING": "考え中...",
   "SUPPORT_CHAT_CHECKING": "確認中...",

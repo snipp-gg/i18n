@@ -2376,6 +2376,7 @@
   "SUPPORT_CHAT_NEW_CHAT_ERROR": "Kon geen nieuwe chat starten. Probeer het opnieuw.",
   "SUPPORT_CHAT_RATE_LIMITED": "Je verstuurt berichten te snel. Probeer het zo opnieuw.",
   "SUPPORT_CHAT_LIMIT_REACHED": "Daglimiet bereikt",
+  "SUPPORT_CHAT_LIMIT_NEAR": "Daglimiet bijna bereikt",
   "SUPPORT_CHAT_SEE_USAGE": "Verbruik bekijken",
   "SUPPORT_CHAT_THINKING": "Nadenken...",
   "SUPPORT_CHAT_CHECKING": "Controleren...",

@@ -2376,6 +2376,7 @@
   "SUPPORT_CHAT_NEW_CHAT_ERROR": "Tidak dapat memulai obrolan baru. Silakan coba lagi.",
   "SUPPORT_CHAT_RATE_LIMITED": "Anda mengirim pesan terlalu cepat. Coba lagi sebentar.",
   "SUPPORT_CHAT_LIMIT_REACHED": "Batas harian tercapai",
+  "SUPPORT_CHAT_LIMIT_NEAR": "Batas harian hampir tercapai",
   "SUPPORT_CHAT_SEE_USAGE": "Lihat penggunaan",
   "SUPPORT_CHAT_THINKING": "Berpikir...",
   "SUPPORT_CHAT_CHECKING": "Memeriksa...",

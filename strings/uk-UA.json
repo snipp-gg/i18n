@@ -2376,6 +2376,7 @@
   "SUPPORT_CHAT_NEW_CHAT_ERROR": "Не вдалося розпочати новий чат. Спробуйте ще раз.",
   "SUPPORT_CHAT_RATE_LIMITED": "Ви надсилаєте повідомлення надто швидко. Спробуйте ще раз трохи згодом.",
   "SUPPORT_CHAT_LIMIT_REACHED": "Денний ліміт вичерпано",
+  "SUPPORT_CHAT_LIMIT_NEAR": "Денний ліміт майже вичерпано",
   "SUPPORT_CHAT_SEE_USAGE": "Переглянути використання",
   "SUPPORT_CHAT_THINKING": "Думаю...",
   "SUPPORT_CHAT_CHECKING": "Перевіряю...",

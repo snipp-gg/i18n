@@ -2376,6 +2376,7 @@
   "SUPPORT_CHAT_NEW_CHAT_ERROR": "Ein neuer Chat konnte nicht gestartet werden. Bitte versuche es erneut.",
   "SUPPORT_CHAT_RATE_LIMITED": "Du sendest Nachrichten zu schnell. Versuche es gleich noch einmal.",
   "SUPPORT_CHAT_LIMIT_REACHED": "Tägliches Limit erreicht",
+  "SUPPORT_CHAT_LIMIT_NEAR": "Tägliches Limit fast erreicht",
   "SUPPORT_CHAT_SEE_USAGE": "Nutzung ansehen",
   "SUPPORT_CHAT_THINKING": "Denke nach...",
   "SUPPORT_CHAT_CHECKING": "Prüfe...",

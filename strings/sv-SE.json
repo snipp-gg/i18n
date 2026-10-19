@@ -2376,6 +2376,7 @@
   "SUPPORT_CHAT_NEW_CHAT_ERROR": "Kunde inte starta en ny chatt. Försök igen.",
   "SUPPORT_CHAT_RATE_LIMITED": "Du skickar meddelanden för snabbt. Försök igen om en stund.",
   "SUPPORT_CHAT_LIMIT_REACHED": "Daglig gräns nådd",
+  "SUPPORT_CHAT_LIMIT_NEAR": "Daglig gräns nästan nådd",
   "SUPPORT_CHAT_SEE_USAGE": "Se användning",
   "SUPPORT_CHAT_THINKING": "Tänker...",
   "SUPPORT_CHAT_CHECKING": "Kollar...",

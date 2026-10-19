@@ -2376,6 +2376,7 @@
   "SUPPORT_CHAT_NEW_CHAT_ERROR": "Nismo mogli da započnemo novi razgovor. Pokušajte ponovo.",
   "SUPPORT_CHAT_RATE_LIMITED": "Šaljete poruke prebrzo. Pokušajte ponovo za trenutak.",
   "SUPPORT_CHAT_LIMIT_REACHED": "Dnevno ograničenje je dostignuto",
+  "SUPPORT_CHAT_LIMIT_NEAR": "Dnevno ograničenje je skoro dostignuto",
   "SUPPORT_CHAT_SEE_USAGE": "Pogledajte iskorišćenost",
   "SUPPORT_CHAT_THINKING": "Razmišljam...",
   "SUPPORT_CHAT_CHECKING": "Proveravam...",

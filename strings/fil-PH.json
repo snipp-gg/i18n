@@ -2376,6 +2376,7 @@
   "SUPPORT_CHAT_NEW_CHAT_ERROR": "Hindi masimulan ang bagong chat. Subukan ulit.",
   "SUPPORT_CHAT_RATE_LIMITED": "Masyadong mabilis kang magpadala ng mga mensahe. Subukan ulit mamaya.",
   "SUPPORT_CHAT_LIMIT_REACHED": "Naabot na ang pang-araw-araw na limitasyon",
+  "SUPPORT_CHAT_LIMIT_NEAR": "Malapit nang maabot ang pang-araw-araw na limitasyon",
   "SUPPORT_CHAT_SEE_USAGE": "Tingnan ang paggamit",
   "SUPPORT_CHAT_THINKING": "Nag-iisip...",
   "SUPPORT_CHAT_CHECKING": "Chine-check...",

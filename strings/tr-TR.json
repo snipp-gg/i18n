@@ -2376,6 +2376,7 @@
   "SUPPORT_CHAT_NEW_CHAT_ERROR": "Yeni sohbet başlatılamadı. Lütfen tekrar deneyin.",
   "SUPPORT_CHAT_RATE_LIMITED": "Çok hızlı mesaj gönderiyorsunuz. Birazdan tekrar deneyin.",
   "SUPPORT_CHAT_LIMIT_REACHED": "Günlük sınıra ulaşıldı",
+  "SUPPORT_CHAT_LIMIT_NEAR": "Günlük sınıra yaklaşıldı",
   "SUPPORT_CHAT_SEE_USAGE": "Kullanımı gör",
   "SUPPORT_CHAT_THINKING": "Düşünüyorum...",
   "SUPPORT_CHAT_CHECKING": "Kontrol ediyorum...",

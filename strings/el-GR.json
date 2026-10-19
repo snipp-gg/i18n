@@ -2376,6 +2376,7 @@
   "SUPPORT_CHAT_NEW_CHAT_ERROR": "Δεν ήταν δυνατή η έναρξη νέας συνομιλίας. Παρακαλούμε δοκιμάστε ξανά.",
   "SUPPORT_CHAT_RATE_LIMITED": "Στέλνετε μηνύματα πολύ γρήγορα. Δοκιμάστε ξανά σε λίγο.",
   "SUPPORT_CHAT_LIMIT_REACHED": "Το ημερήσιο όριο εξαντλήθηκε",
+  "SUPPORT_CHAT_LIMIT_NEAR": "Το ημερήσιο όριο σχεδόν εξαντλήθηκε",
   "SUPPORT_CHAT_SEE_USAGE": "Δείτε τη χρήση",
   "SUPPORT_CHAT_THINKING": "Σκέφτομαι...",
   "SUPPORT_CHAT_CHECKING": "Ελέγχω...",
