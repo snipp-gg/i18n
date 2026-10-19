@@ -2357,6 +2357,7 @@
   "SUPPORT_CHAT_DEVICE_HEADING": "Change settings on this device",
   "SUPPORT_CHAT_EDITOR_HEADING": "Edit your video",
   "SUPPORT_CHAT_IMAGE_EDIT_HEADING": "Edit your image",
+  "SUPPORT_CHAT_UPLOAD_EDIT_HEADING": "Edit your uploads",
   "SUPPORT_CHAT_LOG_OUT_HEADING": "Log out devices",
   "SUPPORT_CHAT_CONTACT_HEADING": "Contact the team",
   "SUPPORT_CHAT_DEVICE_FALLBACK": "A signed-in device",

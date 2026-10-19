@@ -2357,6 +2357,7 @@
   "SUPPORT_CHAT_DEVICE_HEADING": "Muuta tämän laitteen asetuksia",
   "SUPPORT_CHAT_EDITOR_HEADING": "Muokkaa videotasi",
   "SUPPORT_CHAT_IMAGE_EDIT_HEADING": "Muokkaa kuvaasi",
+  "SUPPORT_CHAT_UPLOAD_EDIT_HEADING": "Muokkaa latauksiasi",
   "SUPPORT_CHAT_LOG_OUT_HEADING": "Kirjaa laitteet ulos",
   "SUPPORT_CHAT_CONTACT_HEADING": "Ota yhteyttä tiimiin",
   "SUPPORT_CHAT_DEVICE_FALLBACK": "Kirjautunut laite",

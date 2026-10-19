@@ -2357,6 +2357,7 @@
   "SUPPORT_CHAT_DEVICE_HEADING": "Modifier les paramètres sur cet appareil",
   "SUPPORT_CHAT_EDITOR_HEADING": "Modifier votre vidéo",
   "SUPPORT_CHAT_IMAGE_EDIT_HEADING": "Modifier votre image",
+  "SUPPORT_CHAT_UPLOAD_EDIT_HEADING": "Modifier vos envois",
   "SUPPORT_CHAT_LOG_OUT_HEADING": "Déconnecter des appareils",
   "SUPPORT_CHAT_CONTACT_HEADING": "Contacter l'équipe",
   "SUPPORT_CHAT_DEVICE_FALLBACK": "Un appareil connecté",
