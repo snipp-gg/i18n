@@ -473,6 +473,7 @@
   "EDITOR_LAYER_STEP": "Trinn {number}",
   "EDITOR_LAYER_ERASER": "Viskelær",
   "EDITOR_OPACITY": "Dekkevne",
+  "EDITOR_ROTATION": "Rotasjon",
   "EDITOR_BLEND": "Blanding",
   "EDITOR_BLEND_NORMAL": "Normal",
   "EDITOR_BLEND_MULTIPLY": "Multipliser",

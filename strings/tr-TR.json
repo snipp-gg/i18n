@@ -473,6 +473,7 @@
   "EDITOR_LAYER_STEP": "Adım {number}",
   "EDITOR_LAYER_ERASER": "Silgi",
   "EDITOR_OPACITY": "Opaklık",
+  "EDITOR_ROTATION": "Döndürme",
   "EDITOR_BLEND": "Karıştırma",
   "EDITOR_BLEND_NORMAL": "Normal",
   "EDITOR_BLEND_MULTIPLY": "Çarp",

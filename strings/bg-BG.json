@@ -473,6 +473,7 @@
   "EDITOR_LAYER_STEP": "Стъпка {number}",
   "EDITOR_LAYER_ERASER": "Гума",
   "EDITOR_OPACITY": "Непрозрачност",
+  "EDITOR_ROTATION": "Завъртане",
   "EDITOR_BLEND": "Смесване",
   "EDITOR_BLEND_NORMAL": "Нормален",
   "EDITOR_BLEND_MULTIPLY": "Умножение",

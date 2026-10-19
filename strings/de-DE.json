@@ -473,6 +473,7 @@
   "EDITOR_LAYER_STEP": "Schritt {number}",
   "EDITOR_LAYER_ERASER": "Radierer",
   "EDITOR_OPACITY": "Deckkraft",
+  "EDITOR_ROTATION": "Drehung",
   "EDITOR_BLEND": "Mischmodus",
   "EDITOR_BLEND_NORMAL": "Normal",
   "EDITOR_BLEND_MULTIPLY": "Multiplizieren",

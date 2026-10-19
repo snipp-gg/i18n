@@ -473,6 +473,7 @@
   "EDITOR_LAYER_STEP": "ขั้นตอนที่ {number}",
   "EDITOR_LAYER_ERASER": "ยางลบ",
   "EDITOR_OPACITY": "ความทึบ",
+  "EDITOR_ROTATION": "การหมุน",
   "EDITOR_BLEND": "โหมดผสม",
   "EDITOR_BLEND_NORMAL": "ปกติ",
   "EDITOR_BLEND_MULTIPLY": "คูณ",

@@ -473,6 +473,7 @@
   "EDITOR_LAYER_STEP": "Langkah {number}",
   "EDITOR_LAYER_ERASER": "Penghapus",
   "EDITOR_OPACITY": "Opasitas",
+  "EDITOR_ROTATION": "Putaran",
   "EDITOR_BLEND": "Campuran",
   "EDITOR_BLEND_NORMAL": "Normal",
   "EDITOR_BLEND_MULTIPLY": "Kalikan",

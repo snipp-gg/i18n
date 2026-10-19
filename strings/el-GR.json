@@ -473,6 +473,7 @@
   "EDITOR_LAYER_STEP": "Βήμα {number}",
   "EDITOR_LAYER_ERASER": "Γόμα",
   "EDITOR_OPACITY": "Αδιαφάνεια",
+  "EDITOR_ROTATION": "Περιστροφή",
   "EDITOR_BLEND": "Ανάμειξη",
   "EDITOR_BLEND_NORMAL": "Κανονική",
   "EDITOR_BLEND_MULTIPLY": "Πολλαπλασιασμός",

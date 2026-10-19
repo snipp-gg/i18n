@@ -473,6 +473,7 @@
   "EDITOR_LAYER_STEP": "{number}단계",
   "EDITOR_LAYER_ERASER": "지우개",
   "EDITOR_OPACITY": "불투명도",
+  "EDITOR_ROTATION": "회전",
   "EDITOR_BLEND": "혼합 모드",
   "EDITOR_BLEND_NORMAL": "표준",
   "EDITOR_BLEND_MULTIPLY": "곱하기",

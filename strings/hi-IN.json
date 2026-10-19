@@ -473,6 +473,7 @@
   "EDITOR_LAYER_STEP": "चरण {number}",
   "EDITOR_LAYER_ERASER": "इरेज़र",
   "EDITOR_OPACITY": "ओपेसिटी",
+  "EDITOR_ROTATION": "रोटेशन",
   "EDITOR_BLEND": "ब्लेंड",
   "EDITOR_BLEND_NORMAL": "सामान्य",
   "EDITOR_BLEND_MULTIPLY": "मल्टीप्लाई",

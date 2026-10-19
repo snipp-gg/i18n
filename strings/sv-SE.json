@@ -473,6 +473,7 @@
   "EDITOR_LAYER_STEP": "Steg {number}",
   "EDITOR_LAYER_ERASER": "Sudd",
   "EDITOR_OPACITY": "Opacitet",
+  "EDITOR_ROTATION": "Rotation",
   "EDITOR_BLEND": "Blandning",
   "EDITOR_BLEND_NORMAL": "Normal",
   "EDITOR_BLEND_MULTIPLY": "Multiplicera",

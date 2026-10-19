@@ -473,6 +473,7 @@
   "EDITOR_LAYER_STEP": "Step {number}",
   "EDITOR_LAYER_ERASER": "Eraser",
   "EDITOR_OPACITY": "Opacity",
+  "EDITOR_ROTATION": "Rotation",
   "EDITOR_BLEND": "Blend",
   "EDITOR_BLEND_NORMAL": "Normal",
   "EDITOR_BLEND_MULTIPLY": "Multiply",

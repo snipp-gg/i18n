@@ -473,6 +473,7 @@
   "EDITOR_LAYER_STEP": "Pasul {number}",
   "EDITOR_LAYER_ERASER": "Radieră",
   "EDITOR_OPACITY": "Opacitate",
+  "EDITOR_ROTATION": "Rotire",
   "EDITOR_BLEND": "Amestecare",
   "EDITOR_BLEND_NORMAL": "Normal",
   "EDITOR_BLEND_MULTIPLY": "Multiplicare",

@@ -473,6 +473,7 @@
   "EDITOR_LAYER_STEP": "Krok {number}",
   "EDITOR_LAYER_ERASER": "Guma",
   "EDITOR_OPACITY": "Krytie",
+  "EDITOR_ROTATION": "Otočenie",
   "EDITOR_BLEND": "Prelínanie",
   "EDITOR_BLEND_NORMAL": "Normálny",
   "EDITOR_BLEND_MULTIPLY": "Násobiť",

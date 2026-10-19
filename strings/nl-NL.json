@@ -473,6 +473,7 @@
   "EDITOR_LAYER_STEP": "Stap {number}",
   "EDITOR_LAYER_ERASER": "Gum",
   "EDITOR_OPACITY": "Dekking",
+  "EDITOR_ROTATION": "Draaiing",
   "EDITOR_BLEND": "Overvloeien",
   "EDITOR_BLEND_NORMAL": "Normaal",
   "EDITOR_BLEND_MULTIPLY": "Vermenigvuldigen",

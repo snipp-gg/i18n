@@ -473,6 +473,7 @@
   "EDITOR_LAYER_STEP": "Bước {number}",
   "EDITOR_LAYER_ERASER": "Tẩy",
   "EDITOR_OPACITY": "Độ mờ đục",
+  "EDITOR_ROTATION": "Góc xoay",
   "EDITOR_BLEND": "Hòa trộn",
   "EDITOR_BLEND_NORMAL": "Bình thường",
   "EDITOR_BLEND_MULTIPLY": "Nhân",

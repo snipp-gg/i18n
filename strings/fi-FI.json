@@ -473,6 +473,7 @@
   "EDITOR_LAYER_STEP": "Vaihe {number}",
   "EDITOR_LAYER_ERASER": "Pyyhin",
   "EDITOR_OPACITY": "Peittävyys",
+  "EDITOR_ROTATION": "Kierto",
   "EDITOR_BLEND": "Sekoitus",
   "EDITOR_BLEND_NORMAL": "Normaali",
   "EDITOR_BLEND_MULTIPLY": "Kerro",

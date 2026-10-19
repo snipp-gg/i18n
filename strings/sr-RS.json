@@ -473,6 +473,7 @@
   "EDITOR_LAYER_STEP": "Korak {number}",
   "EDITOR_LAYER_ERASER": "Gumica",
   "EDITOR_OPACITY": "Neprozirnost",
+  "EDITOR_ROTATION": "Rotacija",
   "EDITOR_BLEND": "Mešanje",
   "EDITOR_BLEND_NORMAL": "Normalno",
   "EDITOR_BLEND_MULTIPLY": "Množenje",

@@ -473,6 +473,7 @@
   "EDITOR_LAYER_STEP": "Passaggio {number}",
   "EDITOR_LAYER_ERASER": "Gomma",
   "EDITOR_OPACITY": "Opacità",
+  "EDITOR_ROTATION": "Rotazione",
   "EDITOR_BLEND": "Fusione",
   "EDITOR_BLEND_NORMAL": "Normale",
   "EDITOR_BLEND_MULTIPLY": "Moltiplica",

@@ -473,6 +473,7 @@
   "EDITOR_LAYER_STEP": "Krok {number}",
   "EDITOR_LAYER_ERASER": "Gumka",
   "EDITOR_OPACITY": "Krycie",
+  "EDITOR_ROTATION": "Obrót",
   "EDITOR_BLEND": "Mieszanie",
   "EDITOR_BLEND_NORMAL": "Normalny",
   "EDITOR_BLEND_MULTIPLY": "Mnożenie",

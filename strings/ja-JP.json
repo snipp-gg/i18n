@@ -473,6 +473,7 @@
   "EDITOR_LAYER_STEP": "ステップ {number}",
   "EDITOR_LAYER_ERASER": "消しゴム",
   "EDITOR_OPACITY": "不透明度",
+  "EDITOR_ROTATION": "回転",
   "EDITOR_BLEND": "描画モード",
   "EDITOR_BLEND_NORMAL": "通常",
   "EDITOR_BLEND_MULTIPLY": "乗算",

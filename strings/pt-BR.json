@@ -473,6 +473,7 @@
   "EDITOR_LAYER_STEP": "Passo {number}",
   "EDITOR_LAYER_ERASER": "Borracha",
   "EDITOR_OPACITY": "Opacidade",
+  "EDITOR_ROTATION": "Giro",
   "EDITOR_BLEND": "Mesclagem",
   "EDITOR_BLEND_NORMAL": "Normal",
   "EDITOR_BLEND_MULTIPLY": "Multiplicação",

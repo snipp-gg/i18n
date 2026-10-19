@@ -473,6 +473,7 @@
   "EDITOR_LAYER_STEP": "Крок {number}",
   "EDITOR_LAYER_ERASER": "Гумка",
   "EDITOR_OPACITY": "Непрозорість",
+  "EDITOR_ROTATION": "Поворот",
   "EDITOR_BLEND": "Накладання",
   "EDITOR_BLEND_NORMAL": "Звичайний",
   "EDITOR_BLEND_MULTIPLY": "Множення",

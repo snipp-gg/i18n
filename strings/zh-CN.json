@@ -473,6 +473,7 @@
   "EDITOR_LAYER_STEP": "步骤 {number}",
   "EDITOR_LAYER_ERASER": "橡皮擦",
   "EDITOR_OPACITY": "不透明度",
+  "EDITOR_ROTATION": "旋转",
   "EDITOR_BLEND": "混合模式",
   "EDITOR_BLEND_NORMAL": "正常",
   "EDITOR_BLEND_MULTIPLY": "正片叠底",

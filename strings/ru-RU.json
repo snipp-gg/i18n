@@ -473,6 +473,7 @@
   "EDITOR_LAYER_STEP": "Шаг {number}",
   "EDITOR_LAYER_ERASER": "Ластик",
   "EDITOR_OPACITY": "Непрозрачность",
+  "EDITOR_ROTATION": "Поворот",
   "EDITOR_BLEND": "Наложение",
   "EDITOR_BLEND_NORMAL": "Обычный",
   "EDITOR_BLEND_MULTIPLY": "Умножение",
