@@ -111,6 +111,7 @@
   "GALLERY_TOAST_COPIED_POST_LINK": "Julkaisun linkki kopioitu leikepöydälle!",
   "GALLERY_ERROR_COPY_POST_LINK": "Julkaisun linkin kopiointi leikepöydälle ei onnistunut.",
   "TOAST_DELETING_POST": "Poistetaan julkaisua...",
+  "TOAST_COPYING_IMAGE": "Kopioidaan kuvaa...",
   "GALLERY_ERROR_DELETE_POST": "Julkaisun poisto epäonnistui.",
   "TOAST_POST_DELETED": "Julkaisu poistettu onnistuneesti!",
   "GALLERY_ERROR_DELETE_GENERIC": "Poistossa tapahtui virhe.",

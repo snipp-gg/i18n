@@ -111,6 +111,7 @@
   "GALLERY_TOAST_COPIED_POST_LINK": "पोस्ट लिंक क्लिपबोर्ड पर कॉपी हो गया!",
   "GALLERY_ERROR_COPY_POST_LINK": "पोस्ट लिंक को क्लिपबोर्ड पर कॉपी नहीं किया जा सका।",
   "TOAST_DELETING_POST": "पोस्ट हटाई जा रही है...",
+  "TOAST_COPYING_IMAGE": "इमेज कॉपी की जा रही है...",
   "GALLERY_ERROR_DELETE_POST": "पोस्ट हटाने में विफल।",
   "TOAST_POST_DELETED": "पोस्ट सफलतापूर्वक हटा दी गई!",
   "GALLERY_ERROR_DELETE_GENERIC": "हटाते समय एक एरर हुआ।",

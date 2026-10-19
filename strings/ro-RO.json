@@ -111,6 +111,7 @@
   "GALLERY_TOAST_COPIED_POST_LINK": "Link-ul postării copiat în clipboard!",
   "GALLERY_ERROR_COPY_POST_LINK": "Link-ul postării nu a putut fi copiat în clipboard.",
   "TOAST_DELETING_POST": "Se șterge postarea...",
+  "TOAST_COPYING_IMAGE": "Se copiază imaginea...",
   "GALLERY_ERROR_DELETE_POST": "Nu s-a putut șterge postarea.",
   "TOAST_POST_DELETED": "Postare ștearsă cu succes!",
   "GALLERY_ERROR_DELETE_GENERIC": "A apărut o eroare la ștergere.",

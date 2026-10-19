@@ -111,6 +111,7 @@
   "GALLERY_TOAST_COPIED_POST_LINK": "Lien du post copié dans le presse-papiers !",
   "GALLERY_ERROR_COPY_POST_LINK": "Impossible de copier le lien du post dans le presse-papiers.",
   "TOAST_DELETING_POST": "Suppression du post...",
+  "TOAST_COPYING_IMAGE": "Copie de l'image...",
   "GALLERY_ERROR_DELETE_POST": "Échec de la suppression du post.",
   "TOAST_POST_DELETED": "Post supprimé avec succès !",
   "GALLERY_ERROR_DELETE_GENERIC": "Une erreur s'est produite lors de la suppression.",

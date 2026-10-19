@@ -111,6 +111,7 @@
   "GALLERY_TOAST_COPIED_POST_LINK": "Postlink gekopieerd naar klembord!",
   "GALLERY_ERROR_COPY_POST_LINK": "Kan postlink niet naar klembord kopiëren.",
   "TOAST_DELETING_POST": "Post verwijderen...",
+  "TOAST_COPYING_IMAGE": "Afbeelding kopiëren...",
   "GALLERY_ERROR_DELETE_POST": "Post verwijderen mislukt.",
   "TOAST_POST_DELETED": "Post succesvol verwijderd!",
   "GALLERY_ERROR_DELETE_GENERIC": "Er is een fout opgetreden bij het verwijderen.",

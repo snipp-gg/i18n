@@ -111,6 +111,7 @@
   "GALLERY_TOAST_COPIED_POST_LINK": "¡Enlace de la publicación copiado al portapapeles!",
   "GALLERY_ERROR_COPY_POST_LINK": "No se pudo copiar el enlace de la publicación al portapapeles.",
   "TOAST_DELETING_POST": "Eliminando publicación...",
+  "TOAST_COPYING_IMAGE": "Copiando imagen...",
   "GALLERY_ERROR_DELETE_POST": "No se pudo eliminar la publicación.",
   "TOAST_POST_DELETED": "¡Publicación eliminada correctamente!",
   "GALLERY_ERROR_DELETE_GENERIC": "Se produjo un error al eliminar.",

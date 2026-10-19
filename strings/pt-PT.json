@@ -111,6 +111,7 @@
   "GALLERY_TOAST_COPIED_POST_LINK": "Link da publicação copiado para a área de transferência!",
   "GALLERY_ERROR_COPY_POST_LINK": "Não foi possível copiar o link da publicação para a área de transferência.",
   "TOAST_DELETING_POST": "A eliminar publicação...",
+  "TOAST_COPYING_IMAGE": "A copiar imagem...",
   "GALLERY_ERROR_DELETE_POST": "Falha ao eliminar publicação.",
   "TOAST_POST_DELETED": "Publicação eliminada com sucesso!",
   "GALLERY_ERROR_DELETE_GENERIC": "Ocorreu um erro ao eliminar.",

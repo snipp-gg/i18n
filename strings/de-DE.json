@@ -111,6 +111,7 @@
   "GALLERY_TOAST_COPIED_POST_LINK": "Beitragslink in die Zwischenablage kopiert!",
   "GALLERY_ERROR_COPY_POST_LINK": "Beitragslink konnte nicht in die Zwischenablage kopiert werden.",
   "TOAST_DELETING_POST": "Beitrag wird gelöscht...",
+  "TOAST_COPYING_IMAGE": "Bild wird kopiert...",
   "GALLERY_ERROR_DELETE_POST": "Beitrag konnte nicht gelöscht werden.",
   "TOAST_POST_DELETED": "Beitrag erfolgreich gelöscht!",
   "GALLERY_ERROR_DELETE_GENERIC": "Beim Löschen ist ein Fehler aufgetreten.",

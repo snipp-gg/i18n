@@ -111,6 +111,7 @@
   "GALLERY_TOAST_COPIED_POST_LINK": "Nakopya ang link ng post sa clipboard!",
   "GALLERY_ERROR_COPY_POST_LINK": "Hindi makopya ang link ng post sa clipboard.",
   "TOAST_DELETING_POST": "Tinatanggal ang post...",
+  "TOAST_COPYING_IMAGE": "Kinokopya ang larawan...",
   "GALLERY_ERROR_DELETE_POST": "Hindi natanggal ang post.",
   "TOAST_POST_DELETED": "Matagumpay na natanggal ang post!",
   "GALLERY_ERROR_DELETE_GENERIC": "May naganap na error habang nagtatanggal.",

@@ -111,6 +111,7 @@
   "GALLERY_TOAST_COPIED_POST_LINK": "게시물 링크를 클립보드에 복사했습니다!",
   "GALLERY_ERROR_COPY_POST_LINK": "게시물 링크를 클립보드에 복사할 수 없습니다.",
   "TOAST_DELETING_POST": "게시물 삭제 중...",
+  "TOAST_COPYING_IMAGE": "이미지 복사 중...",
   "GALLERY_ERROR_DELETE_POST": "게시물을 삭제하지 못했습니다.",
   "TOAST_POST_DELETED": "게시물이 삭제되었습니다!",
   "GALLERY_ERROR_DELETE_GENERIC": "삭제하는 중 오류가 발생했습니다.",

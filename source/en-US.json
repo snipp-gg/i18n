@@ -111,6 +111,7 @@
   "GALLERY_TOAST_COPIED_POST_LINK": "Copied post link to clipboard!",
   "GALLERY_ERROR_COPY_POST_LINK": "Unable to copy post link to clipboard.",
   "TOAST_DELETING_POST": "Deleting post...",
+  "TOAST_COPYING_IMAGE": "Copying image...",
   "GALLERY_ERROR_DELETE_POST": "Failed to delete post.",
   "TOAST_POST_DELETED": "Post successfully deleted!",
   "GALLERY_ERROR_DELETE_GENERIC": "An error occurred while deleting.",

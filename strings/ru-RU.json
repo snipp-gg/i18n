@@ -111,6 +111,7 @@
   "GALLERY_TOAST_COPIED_POST_LINK": "Ссылка на пост скопирована в буфер обмена!",
   "GALLERY_ERROR_COPY_POST_LINK": "Не удалось скопировать ссылку на пост в буфер обмена.",
   "TOAST_DELETING_POST": "Удаление поста...",
+  "TOAST_COPYING_IMAGE": "Копирование изображения...",
   "GALLERY_ERROR_DELETE_POST": "Не удалось удалить пост.",
   "TOAST_POST_DELETED": "Пост успешно удалён!",
   "GALLERY_ERROR_DELETE_GENERIC": "Произошла ошибка при удалении.",

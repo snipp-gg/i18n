@@ -111,6 +111,7 @@
   "GALLERY_TOAST_COPIED_POST_LINK": "Link del post copiato negli appunti!",
   "GALLERY_ERROR_COPY_POST_LINK": "Impossibile copiare il link del post negli appunti.",
   "TOAST_DELETING_POST": "Eliminazione del post...",
+  "TOAST_COPYING_IMAGE": "Copia dell'immagine...",
   "GALLERY_ERROR_DELETE_POST": "Impossibile eliminare il post.",
   "TOAST_POST_DELETED": "Post eliminato con successo!",
   "GALLERY_ERROR_DELETE_GENERIC": "Si è verificato un errore durante l'eliminazione.",

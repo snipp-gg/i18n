@@ -111,6 +111,7 @@
   "GALLERY_TOAST_COPIED_POST_LINK": "Poveznica objave kopirana u međuspremnik!",
   "GALLERY_ERROR_COPY_POST_LINK": "Kopiranje poveznice objave u međuspremnik nije moguće.",
   "TOAST_DELETING_POST": "Brisanje objave...",
+  "TOAST_COPYING_IMAGE": "Kopiranje slike...",
   "GALLERY_ERROR_DELETE_POST": "Brisanje objave nije uspjelo.",
   "TOAST_POST_DELETED": "Objava uspješno izbrisana!",
   "GALLERY_ERROR_DELETE_GENERIC": "Došlo je do pogreške prilikom brisanja.",

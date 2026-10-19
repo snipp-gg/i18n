@@ -111,6 +111,7 @@
   "GALLERY_TOAST_COPIED_POST_LINK": "Odkaz na príspevok skopírovaný do schránky!",
   "GALLERY_ERROR_COPY_POST_LINK": "Odkaz na príspevok sa nepodarilo skopírovať do schránky.",
   "TOAST_DELETING_POST": "Odstraňuje sa príspevok...",
+  "TOAST_COPYING_IMAGE": "Kopíruje sa obrázok...",
   "GALLERY_ERROR_DELETE_POST": "Nepodarilo sa odstrániť príspevok.",
   "TOAST_POST_DELETED": "Príspevok úspešne odstránený!",
   "GALLERY_ERROR_DELETE_GENERIC": "Pri odstraňovaní nastala chyba.",

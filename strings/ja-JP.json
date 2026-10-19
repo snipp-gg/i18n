@@ -111,6 +111,7 @@
   "GALLERY_TOAST_COPIED_POST_LINK": "投稿のリンクをクリップボードにコピーしました！",
   "GALLERY_ERROR_COPY_POST_LINK": "投稿のリンクをクリップボードにコピーできませんでした。",
   "TOAST_DELETING_POST": "投稿を削除しています...",
+  "TOAST_COPYING_IMAGE": "画像をコピー中...",
   "GALLERY_ERROR_DELETE_POST": "投稿の削除に失敗しました。",
   "TOAST_POST_DELETED": "投稿を削除しました！",
   "GALLERY_ERROR_DELETE_GENERIC": "削除中にエラーが発生しました。",

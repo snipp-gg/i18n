@@ -111,6 +111,7 @@
   "GALLERY_TOAST_COPIED_POST_LINK": "Gönderi bağlantısı panoya kopyalandı!",
   "GALLERY_ERROR_COPY_POST_LINK": "Gönderi bağlantısı panoya kopyalanamadı.",
   "TOAST_DELETING_POST": "Gönderi siliniyor...",
+  "TOAST_COPYING_IMAGE": "Görsel kopyalanıyor...",
   "GALLERY_ERROR_DELETE_POST": "Gönderi silinemedi.",
   "TOAST_POST_DELETED": "Gönderi başarıyla silindi!",
   "GALLERY_ERROR_DELETE_GENERIC": "Silme sırasında bir hata oluştu.",

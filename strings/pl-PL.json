@@ -111,6 +111,7 @@
   "GALLERY_TOAST_COPIED_POST_LINK": "Skopiowano link do posta do schowka!",
   "GALLERY_ERROR_COPY_POST_LINK": "Nie można skopiować linku do posta do schowka.",
   "TOAST_DELETING_POST": "Usuwanie posta...",
+  "TOAST_COPYING_IMAGE": "Kopiowanie obrazu...",
   "GALLERY_ERROR_DELETE_POST": "Nie udało się usunąć posta.",
   "TOAST_POST_DELETED": "Pomyślnie usunięto post!",
   "GALLERY_ERROR_DELETE_GENERIC": "Podczas usuwania wystąpił błąd.",

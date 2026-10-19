@@ -111,6 +111,7 @@
   "GALLERY_TOAST_COPIED_POST_LINK": "Link objave kopiran u klipbord!",
   "GALLERY_ERROR_COPY_POST_LINK": "Nije moguće kopirati link objave u klipbord.",
   "TOAST_DELETING_POST": "Brisanje objave...",
+  "TOAST_COPYING_IMAGE": "Kopiranje slike...",
   "GALLERY_ERROR_DELETE_POST": "Neuspešno brisanje objave.",
   "TOAST_POST_DELETED": "Objava uspešno obrisana!",
   "GALLERY_ERROR_DELETE_GENERIC": "Došlo je do greške prilikom brisanja.",

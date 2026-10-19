@@ -111,6 +111,7 @@
   "GALLERY_TOAST_COPIED_POST_LINK": "Odkaz na příspěvek zkopírován do schránky!",
   "GALLERY_ERROR_COPY_POST_LINK": "Odkaz na příspěvek nelze zkopírovat do schránky.",
   "TOAST_DELETING_POST": "Mazání příspěvku...",
+  "TOAST_COPYING_IMAGE": "Kopírování obrázku...",
   "GALLERY_ERROR_DELETE_POST": "Nepodařilo se smazat příspěvek.",
   "TOAST_POST_DELETED": "Příspěvek úspěšně smazán!",
   "GALLERY_ERROR_DELETE_GENERIC": "Při mazání došlo k chybě.",

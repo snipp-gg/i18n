@@ -111,6 +111,7 @@
   "GALLERY_TOAST_COPIED_POST_LINK": "Inläggslänk kopierad till urklipp!",
   "GALLERY_ERROR_COPY_POST_LINK": "Kan inte kopiera inläggslänk till urklipp.",
   "TOAST_DELETING_POST": "Raderar inlägg...",
+  "TOAST_COPYING_IMAGE": "Kopierar bild...",
   "GALLERY_ERROR_DELETE_POST": "Kunde inte radera inlägget.",
   "TOAST_POST_DELETED": "Inlägget raderades!",
   "GALLERY_ERROR_DELETE_GENERIC": "Ett fel uppstod vid radering.",

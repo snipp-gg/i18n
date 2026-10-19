@@ -111,6 +111,7 @@
   "GALLERY_TOAST_COPIED_POST_LINK": "已将帖子链接复制到剪贴板！",
   "GALLERY_ERROR_COPY_POST_LINK": "无法将帖子链接复制到剪贴板。",
   "TOAST_DELETING_POST": "正在删除帖子...",
+  "TOAST_COPYING_IMAGE": "正在复制图片...",
   "GALLERY_ERROR_DELETE_POST": "删除帖子失败。",
   "TOAST_POST_DELETED": "帖子已成功删除！",
   "GALLERY_ERROR_DELETE_GENERIC": "删除时发生错误。",

@@ -111,6 +111,7 @@
   "GALLERY_TOAST_COPIED_POST_LINK": "คัดลอกลิงก์โพสต์ไปยังคลิปบอร์ดแล้ว!",
   "GALLERY_ERROR_COPY_POST_LINK": "ไม่สามารถคัดลอกลิงก์โพสต์ไปยังคลิปบอร์ดได้",
   "TOAST_DELETING_POST": "กำลังลบโพสต์...",
+  "TOAST_COPYING_IMAGE": "กำลังคัดลอกรูปภาพ...",
   "GALLERY_ERROR_DELETE_POST": "ไม่สามารถลบโพสต์ได้",
   "TOAST_POST_DELETED": "ลบโพสต์สำเร็จ!",
   "GALLERY_ERROR_DELETE_GENERIC": "เกิดข้อผิดพลาดขณะลบ",

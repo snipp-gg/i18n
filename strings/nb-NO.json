@@ -111,6 +111,7 @@
   "GALLERY_TOAST_COPIED_POST_LINK": "Innleggslenke kopiert til utklippstavlen!",
   "GALLERY_ERROR_COPY_POST_LINK": "Kunne ikke kopiere innleggslenke til utklippstavlen.",
   "TOAST_DELETING_POST": "Sletter innlegg...",
+  "TOAST_COPYING_IMAGE": "Kopierer bilde...",
   "GALLERY_ERROR_DELETE_POST": "Kunne ikke slette innlegget.",
   "TOAST_POST_DELETED": "Innlegget ble slettet!",
   "GALLERY_ERROR_DELETE_GENERIC": "Det oppstod en feil under sletting.",

@@ -111,6 +111,7 @@
   "GALLERY_TOAST_COPIED_POST_LINK": "Връзката към публикацията е копирана в клипборда!",
   "GALLERY_ERROR_COPY_POST_LINK": "Не може да се копира връзката към публикацията в клипборда.",
   "TOAST_DELETING_POST": "Изтриване на публикацията...",
+  "TOAST_COPYING_IMAGE": "Копиране на изображението...",
   "GALLERY_ERROR_DELETE_POST": "Неуспешно изтриване на публикацията.",
   "TOAST_POST_DELETED": "Публикацията е изтрита успешно!",
   "GALLERY_ERROR_DELETE_GENERIC": "Възникна грешка при изтриването.",

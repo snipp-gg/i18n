@@ -111,6 +111,7 @@
   "GALLERY_TOAST_COPIED_POST_LINK": "Посилання на допис скопійовано в буфер обміну!",
   "GALLERY_ERROR_COPY_POST_LINK": "Не вдалося скопіювати посилання на допис у буфер обміну.",
   "TOAST_DELETING_POST": "Видалення допису...",
+  "TOAST_COPYING_IMAGE": "Копіювання зображення...",
   "GALLERY_ERROR_DELETE_POST": "Не вдалося видалити допис.",
   "TOAST_POST_DELETED": "Допис успішно видалено!",
   "GALLERY_ERROR_DELETE_GENERIC": "Під час видалення сталася помилка.",

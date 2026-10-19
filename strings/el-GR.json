@@ -111,6 +111,7 @@
   "GALLERY_TOAST_COPIED_POST_LINK": "Ο σύνδεσμος ανάρτησης αντιγράφηκε στο πρόχειρο!",
   "GALLERY_ERROR_COPY_POST_LINK": "Αδύνατη η αντιγραφή συνδέσμου ανάρτησης στο πρόχειρο.",
   "TOAST_DELETING_POST": "Διαγραφή ανάρτησης...",
+  "TOAST_COPYING_IMAGE": "Αντιγραφή εικόνας...",
   "GALLERY_ERROR_DELETE_POST": "Αποτυχία διαγραφής ανάρτησης.",
   "TOAST_POST_DELETED": "Η ανάρτηση διαγράφηκε επιτυχώς!",
   "GALLERY_ERROR_DELETE_GENERIC": "Παρουσιάστηκε σφάλμα κατά τη διαγραφή.",
