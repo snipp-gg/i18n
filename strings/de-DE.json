@@ -2436,7 +2436,7 @@
   "SUPPORT_CHAT_STEP_ESCALATE_DONE": "Contacted the team",
   "SUPPORT_CHAT_THOUGHT_FOR": "Thought for {count} seconds",
   "SUPPORT_CHAT_THOUGHT_FOR_ONE": "Thought for {count} second",
-  "SUPPORT_CHAT_DISCLAIMER": "Snippy can make mistakes. Check important info.",
+  "SUPPORT_CHAT_DISCLAIMER": "Snippy is AI and can make mistakes.",
   "SUPPORT_CHAT_APP_HEADING": "Update an app",
   "COMMON_CREATE": "Create",
   "COMMON_ADD": "Hinzufügen",
