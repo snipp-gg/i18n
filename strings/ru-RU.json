@@ -2436,7 +2436,7 @@
   "SUPPORT_CHAT_STEP_ESCALATE_DONE": "Связался с командой",
   "SUPPORT_CHAT_THOUGHT_FOR": "Думал {count} секунд",
   "SUPPORT_CHAT_THOUGHT_FOR_ONE": "Думал {count} секунду",
-  "SUPPORT_CHAT_DISCLAIMER": "Snippy может ошибаться. Проверяйте важную информацию.",
+  "SUPPORT_CHAT_DISCLAIMER": "Snippy — ИИ и может ошибаться.",
   "SUPPORT_CHAT_APP_HEADING": "Обновить приложение",
   "COMMON_CREATE": "Создать",
   "COMMON_ADD": "Добавить",

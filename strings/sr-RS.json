@@ -2436,7 +2436,7 @@
   "SUPPORT_CHAT_STEP_ESCALATE_DONE": "Kontaktirao sam tim",
   "SUPPORT_CHAT_THOUGHT_FOR": "Razmišljao sam {count} sekundi",
   "SUPPORT_CHAT_THOUGHT_FOR_ONE": "Razmišljao sam {count} sekundu",
-  "SUPPORT_CHAT_DISCLAIMER": "Snippy može da pogreši. Proverite važne informacije.",
+  "SUPPORT_CHAT_DISCLAIMER": "Snippy je AI i može da pogreši.",
   "SUPPORT_CHAT_APP_HEADING": "Ažurirajte aplikaciju",
   "COMMON_CREATE": "Kreiraj",
   "COMMON_ADD": "Dodaj",

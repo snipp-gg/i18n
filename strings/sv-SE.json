@@ -2436,7 +2436,7 @@
   "SUPPORT_CHAT_STEP_ESCALATE_DONE": "Kontaktade teamet",
   "SUPPORT_CHAT_THOUGHT_FOR": "Tänkte i {count} sekunder",
   "SUPPORT_CHAT_THOUGHT_FOR_ONE": "Tänkte i {count} sekund",
-  "SUPPORT_CHAT_DISCLAIMER": "Snippy kan göra fel. Kontrollera viktig information.",
+  "SUPPORT_CHAT_DISCLAIMER": "Snippy är en AI och kan göra fel.",
   "SUPPORT_CHAT_APP_HEADING": "Uppdatera en app",
   "COMMON_CREATE": "Skapa",
   "COMMON_ADD": "Lägg till",

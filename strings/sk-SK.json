@@ -2436,7 +2436,7 @@
   "SUPPORT_CHAT_STEP_ESCALATE_DONE": "Kontaktoval som tím",
   "SUPPORT_CHAT_THOUGHT_FOR": "Premýšľal som {count} sekúnd",
   "SUPPORT_CHAT_THOUGHT_FOR_ONE": "Premýšľal som {count} sekundu",
-  "SUPPORT_CHAT_DISCLAIMER": "Snippy môže robiť chyby. Dôležité informácie si over.",
+  "SUPPORT_CHAT_DISCLAIMER": "Snippy je AI a môže robiť chyby.",
   "SUPPORT_CHAT_APP_HEADING": "Aktualizuj aplikáciu",
   "COMMON_CREATE": "Vytvoriť",
   "COMMON_ADD": "Pridať",

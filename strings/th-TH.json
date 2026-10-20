@@ -2436,7 +2436,7 @@
   "SUPPORT_CHAT_STEP_ESCALATE_DONE": "ติดต่อทีมแล้ว",
   "SUPPORT_CHAT_THOUGHT_FOR": "คิดอยู่ {count} วินาที",
   "SUPPORT_CHAT_THOUGHT_FOR_ONE": "คิดอยู่ {count} วินาที",
-  "SUPPORT_CHAT_DISCLAIMER": "Snippy อาจทำผิดพลาดได้ โปรดตรวจสอบข้อมูลสำคัญ",
+  "SUPPORT_CHAT_DISCLAIMER": "Snippy เป็น AI และอาจทำผิดพลาดได้",
   "SUPPORT_CHAT_APP_HEADING": "อัปเดตแอป",
   "COMMON_CREATE": "สร้าง",
   "COMMON_ADD": "เพิ่ม",

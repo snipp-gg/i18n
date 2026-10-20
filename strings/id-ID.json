@@ -2436,7 +2436,7 @@
   "SUPPORT_CHAT_STEP_ESCALATE_DONE": "Sudah menghubungi tim",
   "SUPPORT_CHAT_THOUGHT_FOR": "Berpikir selama {count} detik",
   "SUPPORT_CHAT_THOUGHT_FOR_ONE": "Berpikir selama {count} detik",
-  "SUPPORT_CHAT_DISCLAIMER": "Snippy bisa saja salah. Periksa informasi penting.",
+  "SUPPORT_CHAT_DISCLAIMER": "Snippy adalah AI dan bisa saja salah.",
   "SUPPORT_CHAT_APP_HEADING": "Perbarui aplikasi",
   "COMMON_CREATE": "Buat",
   "COMMON_ADD": "Tambah",

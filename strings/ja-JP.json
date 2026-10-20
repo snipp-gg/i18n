@@ -2436,7 +2436,7 @@
   "SUPPORT_CHAT_STEP_ESCALATE_DONE": "チームに連絡しました",
   "SUPPORT_CHAT_THOUGHT_FOR": "{count} 秒間考えました",
   "SUPPORT_CHAT_THOUGHT_FOR_ONE": "{count} 秒間考えました",
-  "SUPPORT_CHAT_DISCLAIMER": "Snippy は間違えることがあります。重要な情報はご確認ください。",
+  "SUPPORT_CHAT_DISCLAIMER": "Snippy は AI のため、間違えることがあります。",
   "SUPPORT_CHAT_APP_HEADING": "アプリを更新",
   "COMMON_CREATE": "作成",
   "COMMON_ADD": "追加",
