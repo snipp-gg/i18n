@@ -477,3 +477,39 @@ Source of truth is `Website/utils/i18n/strings/<locale>.json`; `i18n/strings/` m
 | uk-UA | Резерв підписки |
 | vi-VN | Gói đã lưu |
 | zh-CN | 待生效的订阅 |
+
+## Captions
+
+`MODAL_EDIT_POST_CAPTIONS_LABEL` = "Captions"
+
+| Locale | Value |
+| --- | --- |
+| bg-BG | Субтитри |
+| cs-CZ | Titulky |
+| de-DE | Untertitel |
+| el-GR | Υπότιτλοι |
+| es-ES | Subtítulos |
+| fi-FI | Tekstitys |
+| fil-PH | Mga caption |
+| fr-FR | Sous-titres |
+| hi-IN | कैप्शन |
+| hr-HR | Titlovi |
+| id-ID | Subtitel |
+| it-IT | Sottotitoli |
+| ja-JP | 字幕 |
+| ko-KR | 자막 |
+| nb-NO | Undertekster |
+| nl-NL | Ondertiteling |
+| pl-PL | Napisy |
+| pt-BR | Legendas |
+| pt-PT | Legendas |
+| ro-RO | Subtitrări |
+| ru-RU | Субтитры |
+| sk-SK | Titulky |
+| sr-RS | Titlovi |
+| sv-SE | Undertexter |
+| th-TH | คำบรรยาย |
+| tr-TR | Altyazılar |
+| uk-UA | Субтитри |
+| vi-VN | Phụ đề |
+| zh-CN | 字幕 |
