@@ -1687,6 +1687,7 @@
   "SUPPORT_ACCOUNT_ISSUES_EXPORT_ITEM_CONTENTS": "ZIP-filen innehåller dina originalfiler samt din profil, inlägg, kommentarer, gilla-markeringar, följare och konton du följer, och din kontohistorik som JSON. Den finns tillgänglig i 48 timmar, och du kan begära en export per dag.",
   "SUPPORT_ACCOUNT_ISSUES_DELETION_HEADING": "Kontoradering",
   "SUPPORT_LINK_ACCOUNT_SETTINGS": "kontoinställningar",
+  "SUPPORT_LINK_BILLING_SETTINGS": "faktureringsinställningar",
   "SUPPORT_ACCOUNT_ISSUES_DELETION_ITEM_PERMANENT": "Den här åtgärden är permanent och kan inte ångras.",
   "SUPPORT_ACCOUNT_ISSUES_DELETION_ITEM_WHAT_REMOVED": "Att radera ditt konto tar bort din profil, dina uppladdade filer och all tillhörande data. Aktiva Plus-prenumerationer avslutas automatiskt.",
   "SUPPORT_ACCOUNT_ISSUES_SUSPENDED_P1_BEFORE_LINK": "Konton kan stängas av för att ha brutit mot våra ",

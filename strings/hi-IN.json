@@ -1687,6 +1687,7 @@
   "SUPPORT_ACCOUNT_ISSUES_EXPORT_ITEM_CONTENTS": "ZIP में आपकी मूल फ़ाइलें शामिल हैं, साथ ही आपकी प्रोफ़ाइल, पोस्ट, कमेंट, लाइक, फ़ॉलो और अकाउंट हिस्ट्री JSON के रूप में। यह 48 घंटे तक उपलब्ध रहता है, और आप हर दिन एक एक्सपोर्ट का अनुरोध कर सकते हैं।",
   "SUPPORT_ACCOUNT_ISSUES_DELETION_HEADING": "अकाउंट डिलीशन",
   "SUPPORT_LINK_ACCOUNT_SETTINGS": "अकाउंट सेटिंग्स",
+  "SUPPORT_LINK_BILLING_SETTINGS": "बिलिंग सेटिंग्स",
   "SUPPORT_ACCOUNT_ISSUES_DELETION_ITEM_PERMANENT": "यह कार्रवाई स्थायी है और वापस नहीं ली जा सकती।",
   "SUPPORT_ACCOUNT_ISSUES_DELETION_ITEM_WHAT_REMOVED": "अपना अकाउंट डिलीट करने से आपकी प्रोफ़ाइल, अपलोड की गई फ़ाइलें और जुड़ा कोई भी डेटा हट जाएगा। सक्रिय Plus सब्सक्रिप्शन अपने आप रद्द हो जाएंगे।",
   "SUPPORT_ACCOUNT_ISSUES_SUSPENDED_P1_BEFORE_LINK": "अगर आप हमारी ",

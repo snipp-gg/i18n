@@ -1687,6 +1687,7 @@
   "SUPPORT_ACCOUNT_ISSUES_EXPORT_ITEM_CONTENTS": "ZIP sisältää alkuperäiset tiedostosi sekä profiilisi, julkaisusi, kommenttisi, tykkäyksesi, seuraajasi ja seuraamasi tilit sekä tilihistoriasi JSON-muodossa. Se pysyy saatavilla 48 tuntia, ja voit pyytää yhden viennin päivässä.",
   "SUPPORT_ACCOUNT_ISSUES_DELETION_HEADING": "Tilin poisto",
   "SUPPORT_LINK_ACCOUNT_SETTINGS": "tiliasetukset",
+  "SUPPORT_LINK_BILLING_SETTINGS": "laskutusasetukset",
   "SUPPORT_ACCOUNT_ISSUES_DELETION_ITEM_PERMANENT": "Tämä toiminto on pysyvä, eikä sitä voi peruuttaa.",
   "SUPPORT_ACCOUNT_ISSUES_DELETION_ITEM_WHAT_REMOVED": "Tilisi poistaminen poistaa profiilisi, lataamasi tiedostot ja kaikki niihin liittyvät tiedot. Aktiiviset Plus-tilaukset perutaan automaattisesti.",
   "SUPPORT_ACCOUNT_ISSUES_SUSPENDED_P1_BEFORE_LINK": "Tilit voidaan jäädyttää, jos rikotaan ",

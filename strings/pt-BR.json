@@ -1687,6 +1687,7 @@
   "SUPPORT_ACCOUNT_ISSUES_EXPORT_ITEM_CONTENTS": "O ZIP inclui seus arquivos originais, além do seu perfil, publicações, comentários, curtidas, seguidores e contas seguidas e histórico da conta em JSON. Ele fica disponível por 48 horas, e você pode solicitar uma exportação por dia.",
   "SUPPORT_ACCOUNT_ISSUES_DELETION_HEADING": "Exclusão de Conta",
   "SUPPORT_LINK_ACCOUNT_SETTINGS": "configurações da conta",
+  "SUPPORT_LINK_BILLING_SETTINGS": "configurações de cobrança",
   "SUPPORT_ACCOUNT_ISSUES_DELETION_ITEM_PERMANENT": "Esta ação é permanente e não pode ser desfeita.",
   "SUPPORT_ACCOUNT_ISSUES_DELETION_ITEM_WHAT_REMOVED": "Excluir sua conta removerá seu perfil, arquivos enviados e quaisquer dados associados. Assinaturas Plus ativas serão canceladas automaticamente.",
   "SUPPORT_ACCOUNT_ISSUES_SUSPENDED_P1_BEFORE_LINK": "As contas podem ser suspensas por violar nossos ",

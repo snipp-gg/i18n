@@ -1687,6 +1687,7 @@
   "SUPPORT_ACCOUNT_ISSUES_EXPORT_ITEM_CONTENTS": "ZIP sadrži vaše originalne fajlove, uz vaš profil, objave, komentare, lajkove, praćenja i istoriju naloga u JSON-u. Ostaje dostupan 48 sati, a možete zatražiti jedan izvoz dnevno.",
   "SUPPORT_ACCOUNT_ISSUES_DELETION_HEADING": "Brisanje naloga",
   "SUPPORT_LINK_ACCOUNT_SETTINGS": "podešavanja naloga",
+  "SUPPORT_LINK_BILLING_SETTINGS": "podešavanja naplate",
   "SUPPORT_ACCOUNT_ISSUES_DELETION_ITEM_PERMANENT": "Ova radnja je trajna i ne može se poništiti.",
   "SUPPORT_ACCOUNT_ISSUES_DELETION_ITEM_WHAT_REMOVED": "Brisanje vašeg naloga uklanja vaš profil, otpremljene fajlove i sve povezane podatke. Aktivne Plus pretplate biće automatski otkazane.",
   "SUPPORT_ACCOUNT_ISSUES_SUSPENDED_P1_BEFORE_LINK": "Nalog može biti suspendovan ako se prekrše naši ",

@@ -1687,6 +1687,7 @@
   "SUPPORT_ACCOUNT_ISSUES_EXPORT_ITEM_CONTENTS": "Die ZIP-Datei enthält deine Originaldateien sowie dein Profil, deine Beiträge, Kommentare, Likes, Follower und gefolgten Konten und deinen Kontoverlauf als JSON. Sie bleibt 48 Stunden verfügbar, und du kannst einen Export pro Tag anfordern.",
   "SUPPORT_ACCOUNT_ISSUES_DELETION_HEADING": "Kontolöschung",
   "SUPPORT_LINK_ACCOUNT_SETTINGS": "Kontoeinstellungen",
+  "SUPPORT_LINK_BILLING_SETTINGS": "Abrechnungseinstellungen",
   "SUPPORT_ACCOUNT_ISSUES_DELETION_ITEM_PERMANENT": "Diese Aktion ist dauerhaft und kann nicht rückgängig gemacht werden.",
   "SUPPORT_ACCOUNT_ISSUES_DELETION_ITEM_WHAT_REMOVED": "Beim Löschen deines Kontos werden dein Profil, hochgeladene Dateien und alle zugehörigen Daten entfernt. Aktive Plus-Abonnements werden automatisch gekündigt.",
   "SUPPORT_ACCOUNT_ISSUES_SUSPENDED_P1_BEFORE_LINK": "Konten können wegen Verstößen gegen unsere ",

@@ -1687,6 +1687,7 @@
   "SUPPORT_ACCOUNT_ISSUES_EXPORT_ITEM_CONTENTS": "Kasama sa ZIP ang iyong mga orihinal na file, pati ang iyong profile, mga post, komento, like, follow, at history ng account bilang JSON. Nananatili itong available nang 48 oras, at maaari kang humiling ng isang export bawat araw.",
   "SUPPORT_ACCOUNT_ISSUES_DELETION_HEADING": "Pagtanggal ng Account",
   "SUPPORT_LINK_ACCOUNT_SETTINGS": "mga setting ng account",
+  "SUPPORT_LINK_BILLING_SETTINGS": "mga setting ng billing",
   "SUPPORT_ACCOUNT_ISSUES_DELETION_ITEM_PERMANENT": "Permanente ang aksyong ito at hindi na maibabalik.",
   "SUPPORT_ACCOUNT_ISSUES_DELETION_ITEM_WHAT_REMOVED": "Ang pagtanggal ng iyong account ay mag-aalis ng iyong profile, na-upload na files, at anumang kaugnay na data. Ang aktibong Plus subscription ay awtomatikong kakanselahin.",
   "SUPPORT_ACCOUNT_ISSUES_SUSPENDED_P1_BEFORE_LINK": "Ang mga account ay maaaring suspendihin para sa paglabag sa aming ",

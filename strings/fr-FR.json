@@ -1687,6 +1687,7 @@
   "SUPPORT_ACCOUNT_ISSUES_EXPORT_ITEM_CONTENTS": "Le ZIP contient vos fichiers d'origine, ainsi que votre profil, vos publications, commentaires, J'aime, abonnements et l'historique de votre compte au format JSON. Il reste disponible pendant 48 heures, et vous pouvez demander un export par jour.",
   "SUPPORT_ACCOUNT_ISSUES_DELETION_HEADING": "Suppression de compte",
   "SUPPORT_LINK_ACCOUNT_SETTINGS": "paramètres du compte",
+  "SUPPORT_LINK_BILLING_SETTINGS": "paramètres de facturation",
   "SUPPORT_ACCOUNT_ISSUES_DELETION_ITEM_PERMANENT": "Cette action est permanente et irréversible.",
   "SUPPORT_ACCOUNT_ISSUES_DELETION_ITEM_WHAT_REMOVED": "La suppression de votre compte retirera votre profil, vos fichiers envoyés et toutes les données associées. Les abonnements Plus actifs seront annulés automatiquement.",
   "SUPPORT_ACCOUNT_ISSUES_SUSPENDED_P1_BEFORE_LINK": "Les comptes peuvent être suspendus pour violation de nos ",

@@ -1687,6 +1687,7 @@
   "SUPPORT_ACCOUNT_ISSUES_EXPORT_ITEM_CONTENTS": "Plik ZIP zawiera Twoje oryginalne pliki, a także Twój profil, posty, komentarze, polubienia, obserwacje i historię konta w formacie JSON. Pozostaje dostępny przez 48 godzin, a Ty możesz poprosić o jeden eksport dziennie.",
   "SUPPORT_ACCOUNT_ISSUES_DELETION_HEADING": "Usuwanie Konta",
   "SUPPORT_LINK_ACCOUNT_SETTINGS": "ustawieniach konta",
+  "SUPPORT_LINK_BILLING_SETTINGS": "ustawieniach płatności",
   "SUPPORT_ACCOUNT_ISSUES_DELETION_ITEM_PERMANENT": "Ta czynność jest nieodwracalna i nie można jej cofnąć.",
   "SUPPORT_ACCOUNT_ISSUES_DELETION_ITEM_WHAT_REMOVED": "Usunięcie konta spowoduje usunięcie Twojego profilu, przesłanych plików i wszelkich powiązanych danych. Aktywne subskrypcje Plus zostaną automatycznie anulowane.",
   "SUPPORT_ACCOUNT_ISSUES_SUSPENDED_P1_BEFORE_LINK": "Konta mogą zostać zawieszone za naruszenie naszych ",

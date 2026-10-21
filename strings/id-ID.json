@@ -1687,6 +1687,7 @@
   "SUPPORT_ACCOUNT_ISSUES_EXPORT_ITEM_CONTENTS": "ZIP tersebut berisi file asli Anda, ditambah profil, postingan, komentar, suka, pengikut dan yang Anda ikuti, serta riwayat akun Anda dalam format JSON. Ekspor tetap tersedia selama 48 jam, dan Anda dapat meminta satu ekspor per hari.",
   "SUPPORT_ACCOUNT_ISSUES_DELETION_HEADING": "Penghapusan Akun",
   "SUPPORT_LINK_ACCOUNT_SETTINGS": "pengaturan akun",
+  "SUPPORT_LINK_BILLING_SETTINGS": "pengaturan tagihan",
   "SUPPORT_ACCOUNT_ISSUES_DELETION_ITEM_PERMANENT": "Tindakan ini permanen dan tidak dapat dibatalkan.",
   "SUPPORT_ACCOUNT_ISSUES_DELETION_ITEM_WHAT_REMOVED": "Menghapus akun Anda akan menghapus profil, file yang diunggah, dan data terkait apa pun. Langganan Plus yang aktif akan dibatalkan secara otomatis.",
   "SUPPORT_ACCOUNT_ISSUES_SUSPENDED_P1_BEFORE_LINK": "Akun dapat ditangguhkan karena melanggar ",

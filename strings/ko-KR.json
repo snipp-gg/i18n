@@ -1687,6 +1687,7 @@
   "SUPPORT_ACCOUNT_ISSUES_EXPORT_ITEM_CONTENTS": "ZIP에는 원본 파일과 함께 프로필, 게시물, 댓글, 좋아요, 팔로우, 계정 기록이 JSON으로 포함됩니다. 48시간 동안 이용할 수 있으며, 내보내기는 하루에 한 번 요청할 수 있습니다.",
   "SUPPORT_ACCOUNT_ISSUES_DELETION_HEADING": "계정 삭제",
   "SUPPORT_LINK_ACCOUNT_SETTINGS": "계정 설정",
+  "SUPPORT_LINK_BILLING_SETTINGS": "결제 설정",
   "SUPPORT_ACCOUNT_ISSUES_DELETION_ITEM_PERMANENT": "이 작업은 영구적이며 되돌릴 수 없습니다.",
   "SUPPORT_ACCOUNT_ISSUES_DELETION_ITEM_WHAT_REMOVED": "계정을 삭제하면 프로필, 업로드한 파일, 관련 데이터가 모두 제거됩니다. 활성 Plus 구독은 자동으로 취소됩니다.",
   "SUPPORT_ACCOUNT_ISSUES_SUSPENDED_P1_BEFORE_LINK": "계정은 다음 위반으로 정지될 수 있습니다: ",

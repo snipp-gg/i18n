@@ -1687,6 +1687,7 @@
   "SUPPORT_ACCOUNT_ISSUES_EXPORT_ITEM_CONTENTS": "ZIP-ul include fișierele tale originale, plus profilul, postările, comentariile, aprecierile, urmăririle și istoricul contului tău în JSON. Rămâne disponibil 48 de ore și poți solicita un export pe zi.",
   "SUPPORT_ACCOUNT_ISSUES_DELETION_HEADING": "Ștergerea contului",
   "SUPPORT_LINK_ACCOUNT_SETTINGS": "setările contului",
+  "SUPPORT_LINK_BILLING_SETTINGS": "setările de facturare",
   "SUPPORT_ACCOUNT_ISSUES_DELETION_ITEM_PERMANENT": "Această acțiune este permanentă și nu poate fi anulată.",
   "SUPPORT_ACCOUNT_ISSUES_DELETION_ITEM_WHAT_REMOVED": "Ștergerea contului tău va elimina profilul, fișierele încărcate și orice date asociate. Abonamentele Plus active vor fi anulate automat.",
   "SUPPORT_ACCOUNT_ISSUES_SUSPENDED_P1_BEFORE_LINK": "Conturile pot fi suspendate pentru încălcarea ",

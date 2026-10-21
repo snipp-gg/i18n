@@ -1687,6 +1687,7 @@
   "SUPPORT_ACCOUNT_ISSUES_EXPORT_ITEM_CONTENTS": "ZIP-архів містить ваші оригінальні файли, а також профіль, дописи, коментарі, вподобайки, підписки та історію акаунта у форматі JSON. Він залишається доступним 48 годин, а запитувати експорт можна раз на день.",
   "SUPPORT_ACCOUNT_ISSUES_DELETION_HEADING": "Видалення акаунта",
   "SUPPORT_LINK_ACCOUNT_SETTINGS": "налаштуваннях акаунта",
+  "SUPPORT_LINK_BILLING_SETTINGS": "налаштуваннях оплати",
   "SUPPORT_ACCOUNT_ISSUES_DELETION_ITEM_PERMANENT": "Ця дія є остаточною і не може бути скасована.",
   "SUPPORT_ACCOUNT_ISSUES_DELETION_ITEM_WHAT_REMOVED": "Видалення вашого акаунта прибере ваш профіль, завантажені файли та будь-які пов'язані дані. Активні передплати Plus буде скасовано автоматично.",
   "SUPPORT_ACCOUNT_ISSUES_SUSPENDED_P1_BEFORE_LINK": "Акаунти можуть бути призупинені за порушення наших ",

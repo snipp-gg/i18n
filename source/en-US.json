@@ -1687,6 +1687,7 @@
   "SUPPORT_ACCOUNT_ISSUES_EXPORT_ITEM_CONTENTS": "The ZIP includes your original files, plus your profile, posts, comments, likes, follows and account history as JSON. It stays available for 48 hours, and you can request one export per day.",
   "SUPPORT_ACCOUNT_ISSUES_DELETION_HEADING": "Account Deletion",
   "SUPPORT_LINK_ACCOUNT_SETTINGS": "account settings",
+  "SUPPORT_LINK_BILLING_SETTINGS": "billing settings",
   "SUPPORT_ACCOUNT_ISSUES_DELETION_ITEM_PERMANENT": "This action is permanent and cannot be undone.",
   "SUPPORT_ACCOUNT_ISSUES_DELETION_ITEM_WHAT_REMOVED": "Deleting your account will remove your profile, uploaded files, and any associated data. Active Plus subscriptions will be canceled automatically.",
   "SUPPORT_ACCOUNT_ISSUES_SUSPENDED_P1_BEFORE_LINK": "Accounts may be suspended for violating our ",

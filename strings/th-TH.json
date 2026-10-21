@@ -1687,6 +1687,7 @@
   "SUPPORT_ACCOUNT_ISSUES_EXPORT_ITEM_CONTENTS": "ไฟล์ ZIP ประกอบด้วยไฟล์ต้นฉบับของคุณ รวมถึงโปรไฟล์ โพสต์ ความคิดเห็น ไลก์ การติดตาม และประวัติบัญชีของคุณในรูปแบบ JSON ไฟล์จะพร้อมใช้งานเป็นเวลา 48 ชั่วโมง และคุณสามารถขอส่งออกได้วันละหนึ่งครั้ง",
   "SUPPORT_ACCOUNT_ISSUES_DELETION_HEADING": "การลบบัญชี",
   "SUPPORT_LINK_ACCOUNT_SETTINGS": "การตั้งค่าบัญชี",
+  "SUPPORT_LINK_BILLING_SETTINGS": "การตั้งค่าการเรียกเก็บเงิน",
   "SUPPORT_ACCOUNT_ISSUES_DELETION_ITEM_PERMANENT": "การกระทำนี้เป็นการถาวรและไม่สามารถยกเลิกได้",
   "SUPPORT_ACCOUNT_ISSUES_DELETION_ITEM_WHAT_REMOVED": "การลบบัญชีของคุณจะลบโปรไฟล์ ไฟล์ที่อัปโหลด และข้อมูลที่เกี่ยวข้องของคุณ การสมัครสมาชิก Plus ที่ใช้งานอยู่จะถูกยกเลิกโดยอัตโนมัติ",
   "SUPPORT_ACCOUNT_ISSUES_SUSPENDED_P1_BEFORE_LINK": "บัญชีอาจถูกระงับเนื่องจากการละเมิด",

@@ -1687,6 +1687,7 @@
   "SUPPORT_ACCOUNT_ISSUES_EXPORT_ITEM_CONTENTS": "De ZIP bevat je originele bestanden, plus je profiel, posts, reacties, likes, volgers en gevolgde accounts en je accountgeschiedenis als JSON. Hij blijft 48 uur beschikbaar en je kunt één export per dag aanvragen.",
   "SUPPORT_ACCOUNT_ISSUES_DELETION_HEADING": "Accountverwijdering",
   "SUPPORT_LINK_ACCOUNT_SETTINGS": "accountinstellingen",
+  "SUPPORT_LINK_BILLING_SETTINGS": "facturatie-instellingen",
   "SUPPORT_ACCOUNT_ISSUES_DELETION_ITEM_PERMANENT": "Deze actie is permanent en kan niet ongedaan worden gemaakt.",
   "SUPPORT_ACCOUNT_ISSUES_DELETION_ITEM_WHAT_REMOVED": "Het verwijderen van je account verwijdert je profiel, geüploade bestanden en alle bijbehorende gegevens. Actieve Plus-abonnementen worden automatisch opgezegd.",
   "SUPPORT_ACCOUNT_ISSUES_SUSPENDED_P1_BEFORE_LINK": "Accounts kunnen worden geschorst wegens het schenden van onze ",

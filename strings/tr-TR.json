@@ -1687,6 +1687,7 @@
   "SUPPORT_ACCOUNT_ISSUES_EXPORT_ITEM_CONTENTS": "ZIP, orijinal dosyalarınızın yanı sıra profilinizi, gönderilerinizi, yorumlarınızı, beğenilerinizi, takiplerinizi ve hesap geçmişinizi JSON olarak içerir. 48 saat boyunca kullanılabilir kalır ve günde bir dışa aktarma isteyebilirsiniz.",
   "SUPPORT_ACCOUNT_ISSUES_DELETION_HEADING": "Hesap Silme",
   "SUPPORT_LINK_ACCOUNT_SETTINGS": "hesap ayarları",
+  "SUPPORT_LINK_BILLING_SETTINGS": "faturalandırma ayarları",
   "SUPPORT_ACCOUNT_ISSUES_DELETION_ITEM_PERMANENT": "Bu işlem kalıcıdır ve geri alınamaz.",
   "SUPPORT_ACCOUNT_ISSUES_DELETION_ITEM_WHAT_REMOVED": "Hesabınızı silmek profilinizi, yüklediğiniz dosyaları ve ilişkili tüm verileri kaldıracaktır. Aktif Plus abonelikleri otomatik olarak iptal edilecektir.",
   "SUPPORT_ACCOUNT_ISSUES_SUSPENDED_P1_BEFORE_LINK": "Hesaplar, şunları ihlal ettiği için askıya alınabilir: ",

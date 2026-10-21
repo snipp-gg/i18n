@@ -1687,6 +1687,7 @@
   "SUPPORT_ACCOUNT_ISSUES_EXPORT_ITEM_CONTENTS": "ZIP obsahuje vaše původní soubory a navíc váš profil, příspěvky, komentáře, lajky, sledování a historii účtu ve formátu JSON. Zůstává dostupný 48 hodin a můžete požádat o jeden export denně.",
   "SUPPORT_ACCOUNT_ISSUES_DELETION_HEADING": "Smazání účtu",
   "SUPPORT_LINK_ACCOUNT_SETTINGS": "nastavení účtu",
+  "SUPPORT_LINK_BILLING_SETTINGS": "nastavení fakturace",
   "SUPPORT_ACCOUNT_ISSUES_DELETION_ITEM_PERMANENT": "Tato akce je trvalá a nelze ji vrátit zpět.",
   "SUPPORT_ACCOUNT_ISSUES_DELETION_ITEM_WHAT_REMOVED": "Smazáním účtu odstraníte svůj profil, nahrané soubory a veškerá související data. Aktivní předplatná Plus budou automaticky zrušena.",
   "SUPPORT_ACCOUNT_ISSUES_SUSPENDED_P1_BEFORE_LINK": "Účet vám může být pozastaven, pokud porušíte naše ",

@@ -1687,6 +1687,7 @@
   "SUPPORT_ACCOUNT_ISSUES_EXPORT_ITEM_CONTENTS": "ZIP-filen inneholder originalfilene dine, i tillegg til profilen din, innlegg, kommentarer, likes, følgere og kontoer du følger, og kontohistorikken din som JSON. Den er tilgjengelig i 48 timer, og du kan be om én eksport per dag.",
   "SUPPORT_ACCOUNT_ISSUES_DELETION_HEADING": "Kontosletting",
   "SUPPORT_LINK_ACCOUNT_SETTINGS": "kontoinnstillinger",
+  "SUPPORT_LINK_BILLING_SETTINGS": "faktureringsinnstillinger",
   "SUPPORT_ACCOUNT_ISSUES_DELETION_ITEM_PERMANENT": "Denne handlingen er permanent og kan ikke angres.",
   "SUPPORT_ACCOUNT_ISSUES_DELETION_ITEM_WHAT_REMOVED": "Å slette kontoen din vil fjerne profilen din, opplastede filer og alle tilknyttede data. Aktive Plus-abonnementer vil bli kansellert automatisk.",
   "SUPPORT_ACCOUNT_ISSUES_SUSPENDED_P1_BEFORE_LINK": "Kontoer kan bli suspendert for brudd på våre ",

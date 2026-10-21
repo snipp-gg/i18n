@@ -1687,6 +1687,7 @@
   "SUPPORT_ACCOUNT_ISSUES_EXPORT_ITEM_CONTENTS": "ZIP 文件包含您的原始文件，以及 JSON 格式的个人资料、帖子、评论、点赞、关注和账户历史记录。它将保留 48 小时，您每天可以请求一次导出。",
   "SUPPORT_ACCOUNT_ISSUES_DELETION_HEADING": "账户删除",
   "SUPPORT_LINK_ACCOUNT_SETTINGS": "账户设置",
+  "SUPPORT_LINK_BILLING_SETTINGS": "账单设置",
   "SUPPORT_ACCOUNT_ISSUES_DELETION_ITEM_PERMANENT": "此操作不可逆转，且无法撤销。",
   "SUPPORT_ACCOUNT_ISSUES_DELETION_ITEM_WHAT_REMOVED": "删除您的帐户将删除您的个人资料，上传的文件以及所有关联数据。有效的 Plus 订阅也将自动取消。",
   "SUPPORT_ACCOUNT_ISSUES_SUSPENDED_P1_BEFORE_LINK": "账户被暂停的原因可能是违反了我们的",

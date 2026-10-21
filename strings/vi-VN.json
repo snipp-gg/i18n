@@ -1687,6 +1687,7 @@
   "SUPPORT_ACCOUNT_ISSUES_EXPORT_ITEM_CONTENTS": "Tệp ZIP bao gồm các tệp gốc của bạn, cùng với hồ sơ, bài đăng, bình luận, lượt thích, lượt theo dõi và lịch sử tài khoản ở định dạng JSON. Tệp này có sẵn trong 48 giờ, và bạn có thể yêu cầu một bản xuất mỗi ngày.",
   "SUPPORT_ACCOUNT_ISSUES_DELETION_HEADING": "Xóa tài khoản",
   "SUPPORT_LINK_ACCOUNT_SETTINGS": "cài đặt tài khoản",
+  "SUPPORT_LINK_BILLING_SETTINGS": "cài đặt thanh toán",
   "SUPPORT_ACCOUNT_ISSUES_DELETION_ITEM_PERMANENT": "Hành động này là vĩnh viễn và không thể hoàn tác.",
   "SUPPORT_ACCOUNT_ISSUES_DELETION_ITEM_WHAT_REMOVED": "Xóa tài khoản sẽ gỡ bỏ hồ sơ, tệp đã tải lên và mọi dữ liệu liên quan của bạn. Các đăng ký Plus đang hoạt động sẽ tự động bị hủy.",
   "SUPPORT_ACCOUNT_ISSUES_SUSPENDED_P1_BEFORE_LINK": "Tài khoản có thể bị đình chỉ vì vi phạm ",
