@@ -554,6 +554,7 @@
   "EDITOR_HINT_KEYFRAMES": "Para animar, añade un fotograma clave, mueve el cabezal de reproducción y modifica la capa. La curva define cómo llega el movimiento a cada fotograma clave.",
   "EDITOR_ADD_ZOOM": "Añadir zoom",
   "EDITOR_ZOOM_SCALE": "Zoom {scale}×",
+  "EDITOR_ZOOM_SMOOTH": "Suave",
   "EDITOR_ADD_KEYFRAME": "Añadir fotograma clave",
   "EDITOR_REMOVE_KEYFRAME": "Quitar fotograma clave",
   "EDITOR_PREVIOUS_KEYFRAME": "Fotograma clave anterior",

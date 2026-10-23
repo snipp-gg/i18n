@@ -554,6 +554,7 @@
   "EDITOR_HINT_KEYFRAMES": "要制作动画，请添加关键帧，移动播放头，然后更改图层。曲线决定运动如何过渡到每个关键帧。",
   "EDITOR_ADD_ZOOM": "添加缩放",
   "EDITOR_ZOOM_SCALE": "缩放 {scale}×",
+  "EDITOR_ZOOM_SMOOTH": "流畅",
   "EDITOR_ADD_KEYFRAME": "添加关键帧",
   "EDITOR_REMOVE_KEYFRAME": "删除关键帧",
   "EDITOR_PREVIOUS_KEYFRAME": "上一关键帧",

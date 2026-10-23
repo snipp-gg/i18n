@@ -554,6 +554,7 @@
   "EDITOR_HINT_KEYFRAMES": "För att animera lägger du till en nyckelbildruta, flyttar uppspelningshuvudet och ändrar lagret. Kurvan styr hur rörelsen når varje nyckelbildruta.",
   "EDITOR_ADD_ZOOM": "Lägg till zoom",
   "EDITOR_ZOOM_SCALE": "Zoom {scale}×",
+  "EDITOR_ZOOM_SMOOTH": "Mjuk",
   "EDITOR_ADD_KEYFRAME": "Lägg till nyckelbildruta",
   "EDITOR_REMOVE_KEYFRAME": "Ta bort nyckelbildruta",
   "EDITOR_PREVIOUS_KEYFRAME": "Föregående nyckelbildruta",

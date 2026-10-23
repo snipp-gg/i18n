@@ -554,6 +554,7 @@
   "EDITOR_HINT_KEYFRAMES": "หากต้องการทำภาพเคลื่อนไหว ให้เพิ่มคีย์เฟรม ย้ายหัวเล่น แล้วเปลี่ยนเลเยอร์ เส้นโค้งจะกำหนดลักษณะการเคลื่อนที่เข้าสู่แต่ละคีย์เฟรม",
   "EDITOR_ADD_ZOOM": "เพิ่มการซูม",
   "EDITOR_ZOOM_SCALE": "ซูม {scale}×",
+  "EDITOR_ZOOM_SMOOTH": "ลื่นไหล",
   "EDITOR_ADD_KEYFRAME": "เพิ่มคีย์เฟรม",
   "EDITOR_REMOVE_KEYFRAME": "ลบคีย์เฟรม",
   "EDITOR_PREVIOUS_KEYFRAME": "คีย์เฟรมก่อนหน้า",

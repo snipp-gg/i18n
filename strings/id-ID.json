@@ -554,6 +554,7 @@
   "EDITOR_HINT_KEYFRAMES": "Untuk membuat animasi, tambahkan keyframe, pindahkan penanda putar, lalu ubah lapisan. Kurva menentukan bagaimana gerakan menuju setiap keyframe.",
   "EDITOR_ADD_ZOOM": "Tambah zoom",
   "EDITOR_ZOOM_SCALE": "Zoom {scale}×",
+  "EDITOR_ZOOM_SMOOTH": "Mulus",
   "EDITOR_ADD_KEYFRAME": "Tambah keyframe",
   "EDITOR_REMOVE_KEYFRAME": "Hapus keyframe",
   "EDITOR_PREVIOUS_KEYFRAME": "Keyframe sebelumnya",

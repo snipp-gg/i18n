@@ -554,6 +554,7 @@
   "EDITOR_HINT_KEYFRAMES": "Animasyon için bir anahtar kare ekleyin, oynatma imlecini taşıyın ve katmanı değiştirin. Eğri, hareketin her anahtar kareye nasıl ulaştığını belirler.",
   "EDITOR_ADD_ZOOM": "Yakınlaştırma ekle",
   "EDITOR_ZOOM_SCALE": "Yakınlaştırma {scale}×",
+  "EDITOR_ZOOM_SMOOTH": "Akıcı",
   "EDITOR_ADD_KEYFRAME": "Anahtar kare ekle",
   "EDITOR_REMOVE_KEYFRAME": "Anahtar kareyi kaldır",
   "EDITOR_PREVIOUS_KEYFRAME": "Önceki anahtar kare",

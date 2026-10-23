@@ -554,6 +554,7 @@
   "EDITOR_HINT_KEYFRAMES": "Zum Animieren füge einen Keyframe hinzu, bewege den Abspielkopf und verändere die Ebene. Die Kurve bestimmt den Verlauf der Bewegung bis zu jedem Keyframe.",
   "EDITOR_ADD_ZOOM": "Zoom hinzufügen",
   "EDITOR_ZOOM_SCALE": "Zoom {scale}×",
+  "EDITOR_ZOOM_SMOOTH": "Sanft",
   "EDITOR_ADD_KEYFRAME": "Keyframe hinzufügen",
   "EDITOR_REMOVE_KEYFRAME": "Keyframe entfernen",
   "EDITOR_PREVIOUS_KEYFRAME": "Vorheriger Keyframe",

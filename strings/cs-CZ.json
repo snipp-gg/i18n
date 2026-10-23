@@ -554,6 +554,7 @@
   "EDITOR_HINT_KEYFRAMES": "Pro animaci přidejte klíčový snímek, posuňte přehrávací hlavu a upravte vrstvu. Křivka určuje, jak pohyb dobíhá do každého klíčového snímku.",
   "EDITOR_ADD_ZOOM": "Přidat přiblížení",
   "EDITOR_ZOOM_SCALE": "Přiblížení {scale}×",
+  "EDITOR_ZOOM_SMOOTH": "Plynulé",
   "EDITOR_ADD_KEYFRAME": "Přidat klíčový snímek",
   "EDITOR_REMOVE_KEYFRAME": "Odebrat klíčový snímek",
   "EDITOR_PREVIOUS_KEYFRAME": "Předchozí klíčový snímek",

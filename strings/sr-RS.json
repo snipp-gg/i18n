@@ -554,6 +554,7 @@
   "EDITOR_HINT_KEYFRAMES": "Za animaciju dodajte ključni kadar, pomerite pokazivač reprodukcije i izmenite sloj. Kriva određuje kako pokret stiže do svakog ključnog kadra.",
   "EDITOR_ADD_ZOOM": "Dodaj zumiranje",
   "EDITOR_ZOOM_SCALE": "Zumiranje {scale}×",
+  "EDITOR_ZOOM_SMOOTH": "Glatko",
   "EDITOR_ADD_KEYFRAME": "Dodaj ključni kadar",
   "EDITOR_REMOVE_KEYFRAME": "Ukloni ključni kadar",
   "EDITOR_PREVIOUS_KEYFRAME": "Prethodni ključni kadar",

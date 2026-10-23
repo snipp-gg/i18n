@@ -554,6 +554,7 @@
   "EDITOR_HINT_KEYFRAMES": "Para gumawa ng animation, magdagdag ng keyframe, ilipat ang playhead, tapos baguhin ang layer. Ang kurba ang humuhubog sa galaw papunta sa bawat keyframe.",
   "EDITOR_ADD_ZOOM": "Magdagdag ng zoom",
   "EDITOR_ZOOM_SCALE": "Zoom {scale}×",
+  "EDITOR_ZOOM_SMOOTH": "Makinis",
   "EDITOR_ADD_KEYFRAME": "Magdagdag ng keyframe",
   "EDITOR_REMOVE_KEYFRAME": "Alisin ang keyframe",
   "EDITOR_PREVIOUS_KEYFRAME": "Nakaraang keyframe",

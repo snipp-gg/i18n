@@ -554,6 +554,7 @@
   "EDITOR_HINT_KEYFRAMES": "Pentru animație, adaugă un cadru cheie, mută cursorul de redare și modifică stratul. Curba stabilește cum ajunge mișcarea la fiecare cadru cheie.",
   "EDITOR_ADD_ZOOM": "Adaugă zoom",
   "EDITOR_ZOOM_SCALE": "Zoom {scale}×",
+  "EDITOR_ZOOM_SMOOTH": "Fluid",
   "EDITOR_ADD_KEYFRAME": "Adaugă cadru cheie",
   "EDITOR_REMOVE_KEYFRAME": "Elimină cadrul cheie",
   "EDITOR_PREVIOUS_KEYFRAME": "Cadrul cheie anterior",

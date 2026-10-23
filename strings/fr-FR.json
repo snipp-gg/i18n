@@ -554,6 +554,7 @@
   "EDITOR_HINT_KEYFRAMES": "Pour animer, ajoutez une image clé, déplacez la tête de lecture, puis modifiez le calque. La courbe définit la façon dont le mouvement arrive à chaque image clé.",
   "EDITOR_ADD_ZOOM": "Ajouter un zoom",
   "EDITOR_ZOOM_SCALE": "Zoom {scale}×",
+  "EDITOR_ZOOM_SMOOTH": "Fluide",
   "EDITOR_ADD_KEYFRAME": "Ajouter une image clé",
   "EDITOR_REMOVE_KEYFRAME": "Supprimer l'image clé",
   "EDITOR_PREVIOUS_KEYFRAME": "Image clé précédente",

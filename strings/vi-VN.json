@@ -554,6 +554,7 @@
   "EDITOR_HINT_KEYFRAMES": "Để tạo hoạt ảnh, thêm khung hình chính, di chuyển đầu phát rồi thay đổi lớp. Đường cong quyết định cách chuyển động tiến tới từng khung hình chính.",
   "EDITOR_ADD_ZOOM": "Thêm thu phóng",
   "EDITOR_ZOOM_SCALE": "Thu phóng {scale}×",
+  "EDITOR_ZOOM_SMOOTH": "Mượt mà",
   "EDITOR_ADD_KEYFRAME": "Thêm khung hình chính",
   "EDITOR_REMOVE_KEYFRAME": "Xóa khung hình chính",
   "EDITOR_PREVIOUS_KEYFRAME": "Khung hình chính trước",

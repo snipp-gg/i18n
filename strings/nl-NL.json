@@ -554,6 +554,7 @@
   "EDITOR_HINT_KEYFRAMES": "Om te animeren voeg je een keyframe toe, verplaats je de afspeelkop en pas je de laag aan. De curve bepaalt hoe de beweging naar elke keyframe toe verloopt.",
   "EDITOR_ADD_ZOOM": "Zoom toevoegen",
   "EDITOR_ZOOM_SCALE": "Zoomen {scale}×",
+  "EDITOR_ZOOM_SMOOTH": "Vloeiend",
   "EDITOR_ADD_KEYFRAME": "Keyframe toevoegen",
   "EDITOR_REMOVE_KEYFRAME": "Keyframe verwijderen",
   "EDITOR_PREVIOUS_KEYFRAME": "Vorige keyframe",

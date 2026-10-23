@@ -554,6 +554,7 @@
   "EDITOR_HINT_KEYFRAMES": "एनिमेट करने के लिए एक कीफ़्रेम जोड़ें, प्लेहेड को मूव करें और लेयर में बदलाव करें। कर्व तय करता है कि हर कीफ़्रेम तक मोशन कैसे पहुँचता है।",
   "EDITOR_ADD_ZOOM": "ज़ूम जोड़ें",
   "EDITOR_ZOOM_SCALE": "ज़ूम {scale}×",
+  "EDITOR_ZOOM_SMOOTH": "स्मूद",
   "EDITOR_ADD_KEYFRAME": "कीफ़्रेम जोड़ें",
   "EDITOR_REMOVE_KEYFRAME": "कीफ़्रेम हटाएँ",
   "EDITOR_PREVIOUS_KEYFRAME": "पिछला कीफ़्रेम",

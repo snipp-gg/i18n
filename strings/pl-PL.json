@@ -554,6 +554,7 @@
   "EDITOR_HINT_KEYFRAMES": "Aby utworzyć animację, dodaj klatkę kluczową, przesuń wskaźnik odtwarzania i zmień warstwę. Krzywa określa, jak ruch dochodzi do każdej klatki kluczowej.",
   "EDITOR_ADD_ZOOM": "Dodaj powiększenie",
   "EDITOR_ZOOM_SCALE": "Powiększenie {scale}×",
+  "EDITOR_ZOOM_SMOOTH": "Płynne",
   "EDITOR_ADD_KEYFRAME": "Dodaj klatkę kluczową",
   "EDITOR_REMOVE_KEYFRAME": "Usuń klatkę kluczową",
   "EDITOR_PREVIOUS_KEYFRAME": "Poprzednia klatka kluczowa",

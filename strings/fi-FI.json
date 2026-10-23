@@ -554,6 +554,7 @@
   "EDITOR_HINT_KEYFRAMES": "Animoi lisäämällä avainruudun, siirtämällä toistopäätä ja muuttamalla tasoa. Käyrä määrää, miten liike etenee kuhunkin avainruutuun.",
   "EDITOR_ADD_ZOOM": "Lisää zoomaus",
   "EDITOR_ZOOM_SCALE": "Zoomaus {scale}×",
+  "EDITOR_ZOOM_SMOOTH": "Pehmeä",
   "EDITOR_ADD_KEYFRAME": "Lisää avainruutu",
   "EDITOR_REMOVE_KEYFRAME": "Poista avainruutu",
   "EDITOR_PREVIOUS_KEYFRAME": "Edellinen avainruutu",

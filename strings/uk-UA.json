@@ -554,6 +554,7 @@
   "EDITOR_HINT_KEYFRAMES": "Для анімації додайте ключовий кадр, перемістіть курсор відтворення і змініть шар. Крива визначає, як рух підходить до кожного ключового кадру.",
   "EDITOR_ADD_ZOOM": "Додати масштабування",
   "EDITOR_ZOOM_SCALE": "Масштаб {scale}×",
+  "EDITOR_ZOOM_SMOOTH": "Плавно",
   "EDITOR_ADD_KEYFRAME": "Додати ключовий кадр",
   "EDITOR_REMOVE_KEYFRAME": "Видалити ключовий кадр",
   "EDITOR_PREVIOUS_KEYFRAME": "Попередній ключовий кадр",

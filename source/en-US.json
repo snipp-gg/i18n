@@ -554,6 +554,7 @@
   "EDITOR_HINT_KEYFRAMES": "To animate it, add a keyframe, move the playhead and change the layer. The curve shapes the move into each keyframe.",
   "EDITOR_ADD_ZOOM": "Add zoom",
   "EDITOR_ZOOM_SCALE": "Zoom {scale}×",
+  "EDITOR_ZOOM_SMOOTH": "Smooth",
   "EDITOR_ADD_KEYFRAME": "Add keyframe",
   "EDITOR_REMOVE_KEYFRAME": "Remove keyframe",
   "EDITOR_PREVIOUS_KEYFRAME": "Previous keyframe",

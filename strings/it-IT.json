@@ -554,6 +554,7 @@
   "EDITOR_HINT_KEYFRAMES": "Per creare un'animazione, aggiungi un fotogramma chiave, sposta l'indicatore di riproduzione e modifica il livello. La curva definisce come il movimento arriva a ogni fotogramma chiave.",
   "EDITOR_ADD_ZOOM": "Aggiungi zoom",
   "EDITOR_ZOOM_SCALE": "Zoom {scale}×",
+  "EDITOR_ZOOM_SMOOTH": "Fluido",
   "EDITOR_ADD_KEYFRAME": "Aggiungi fotogramma chiave",
   "EDITOR_REMOVE_KEYFRAME": "Rimuovi fotogramma chiave",
   "EDITOR_PREVIOUS_KEYFRAME": "Fotogramma chiave precedente",

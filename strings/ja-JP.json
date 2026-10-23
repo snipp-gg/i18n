@@ -554,6 +554,7 @@
   "EDITOR_HINT_KEYFRAMES": "アニメーションを付けるには、キーフレームを追加して再生ヘッドを移動し、レイヤーを変更します。カーブは、各キーフレームに向かう動きの緩急を決めます。",
   "EDITOR_ADD_ZOOM": "ズームを追加",
   "EDITOR_ZOOM_SCALE": "ズーム {scale}×",
+  "EDITOR_ZOOM_SMOOTH": "なめらか",
   "EDITOR_ADD_KEYFRAME": "キーフレームを追加",
   "EDITOR_REMOVE_KEYFRAME": "キーフレームを削除",
   "EDITOR_PREVIOUS_KEYFRAME": "前のキーフレーム",
