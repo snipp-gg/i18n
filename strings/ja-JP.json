@@ -353,6 +353,7 @@
   "EDITOR_HEADING": "画像とクリップを編集",
   "EDITOR_SUBHEADING": "切り抜き、注釈、ぼかし、トリムをブラウザー上で直接行えます。アップロードするかSnippyと共有するか、字幕を生成しない限り、何もデバイスの外に出ません。",
   "EDITOR_LANDING_ACCENT": "無料で、ブラウザー上で",
+  "EDITOR_LANDING_SUBTITLE": "切り抜き、注釈、ぼかし、トリムをブラウザー上で直接行えます。",
   "EDITOR_LANDING_FEATURES_HEADING": "プロ仕様のツールを、インストール不要で",
   "EDITOR_LANDING_FEATURES_SUBTITLE": "すべてデバイス上で動作するため、アップロードすると決めるまでファイルはあなたの手元にとどまります。",
   "EDITOR_LANDING_CUT_TITLE": "カット、早送り、スロー",

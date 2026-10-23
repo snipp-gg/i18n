@@ -353,6 +353,7 @@
   "EDITOR_HEADING": "编辑图片和片段",
   "EDITOR_SUBHEADING": "直接在浏览器中裁剪、标注、模糊和修剪。除非你上传、与 Snippy 分享或生成字幕，否则所有内容都不会离开你的设备。",
   "EDITOR_LANDING_ACCENT": "免费，就在浏览器中",
+  "EDITOR_LANDING_SUBTITLE": "直接在浏览器中裁剪、标注、模糊和修剪。",
   "EDITOR_LANDING_FEATURES_HEADING": "专业工具，无需安装",
   "EDITOR_LANDING_FEATURES_SUBTITLE": "一切都在你的设备上运行，在你选择上传之前，文件始终只属于你。",
   "EDITOR_LANDING_CUT_TITLE": "剪切、加速、减速",
