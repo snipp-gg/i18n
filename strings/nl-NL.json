@@ -2565,6 +2565,7 @@
   "SUPPORT_CHAT_STEP_ESCALATE_DONE": "Contact opgenomen met het team",
   "SUPPORT_CHAT_THOUGHT_FOR": "{count} seconden nagedacht",
   "SUPPORT_CHAT_THOUGHT_FOR_ONE": "{count} seconde nagedacht",
+  "SUPPORT_CHAT_THOUGHT_FOR_TIME": "{time} nagedacht",
   "SUPPORT_CHAT_DISCLAIMER": "Snippy is AI en kan fouten maken.",
   "SUPPORT_CHAT_APP_HEADING": "Een app bijwerken",
   "COMMON_CREATE": "Aanmaken",

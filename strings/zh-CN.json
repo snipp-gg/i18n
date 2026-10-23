@@ -2565,6 +2565,7 @@
   "SUPPORT_CHAT_STEP_ESCALATE_DONE": "已联系团队",
   "SUPPORT_CHAT_THOUGHT_FOR": "已思考 {count} 秒",
   "SUPPORT_CHAT_THOUGHT_FOR_ONE": "已思考 {count} 秒",
+  "SUPPORT_CHAT_THOUGHT_FOR_TIME": "已思考 {time}",
   "SUPPORT_CHAT_DISCLAIMER": "Snippy 是 AI，可能会出错。",
   "SUPPORT_CHAT_APP_HEADING": "更新应用",
   "COMMON_CREATE": "创建",

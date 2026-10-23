@@ -2565,6 +2565,7 @@
   "SUPPORT_CHAT_STEP_ESCALATE_DONE": "Kontaktet teamet",
   "SUPPORT_CHAT_THOUGHT_FOR": "Tenkte i {count} sekunder",
   "SUPPORT_CHAT_THOUGHT_FOR_ONE": "Tenkte i {count} sekund",
+  "SUPPORT_CHAT_THOUGHT_FOR_TIME": "Tenkte i {time}",
   "SUPPORT_CHAT_DISCLAIMER": "Snippy er en KI og kan gjøre feil.",
   "SUPPORT_CHAT_APP_HEADING": "Oppdater en app",
   "COMMON_CREATE": "Opprett",

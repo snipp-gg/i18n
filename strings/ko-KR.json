@@ -2565,6 +2565,7 @@
   "SUPPORT_CHAT_STEP_ESCALATE_DONE": "팀에 연락했습니다",
   "SUPPORT_CHAT_THOUGHT_FOR": "{count}초 동안 생각했습니다",
   "SUPPORT_CHAT_THOUGHT_FOR_ONE": "{count}초 동안 생각했습니다",
+  "SUPPORT_CHAT_THOUGHT_FOR_TIME": "{time} 동안 생각했습니다",
   "SUPPORT_CHAT_DISCLAIMER": "Snippy는 AI이며 실수할 수 있습니다.",
   "SUPPORT_CHAT_APP_HEADING": "앱 업데이트",
   "COMMON_CREATE": "만들기",

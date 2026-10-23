@@ -2565,6 +2565,7 @@
   "SUPPORT_CHAT_STEP_ESCALATE_DONE": "Am contactat echipa",
   "SUPPORT_CHAT_THOUGHT_FOR": "M-am gândit {count} secunde",
   "SUPPORT_CHAT_THOUGHT_FOR_ONE": "M-am gândit {count} secundă",
+  "SUPPORT_CHAT_THOUGHT_FOR_TIME": "M-am gândit {time}",
   "SUPPORT_CHAT_DISCLAIMER": "Snippy este AI și poate greși.",
   "SUPPORT_CHAT_APP_HEADING": "Actualizează o aplicație",
   "COMMON_CREATE": "Creează",

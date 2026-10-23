@@ -2565,6 +2565,7 @@
   "SUPPORT_CHAT_STEP_ESCALATE_DONE": "Otettiin yhteyttä tiimiin",
   "SUPPORT_CHAT_THOUGHT_FOR": "Mietittiin {count} sekuntia",
   "SUPPORT_CHAT_THOUGHT_FOR_ONE": "Mietittiin {count} sekunti",
+  "SUPPORT_CHAT_THOUGHT_FOR_TIME": "Mietittiin {time}",
   "SUPPORT_CHAT_DISCLAIMER": "Snippy on tekoäly ja voi tehdä virheitä.",
   "SUPPORT_CHAT_APP_HEADING": "Päivitä sovellus",
   "COMMON_CREATE": "Luo",

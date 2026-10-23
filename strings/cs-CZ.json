@@ -2565,6 +2565,7 @@
   "SUPPORT_CHAT_STEP_ESCALATE_DONE": "Kontaktoval jsem tým",
   "SUPPORT_CHAT_THOUGHT_FOR": "Přemýšlel jsem {count} sekund",
   "SUPPORT_CHAT_THOUGHT_FOR_ONE": "Přemýšlel jsem {count} sekundu",
+  "SUPPORT_CHAT_THOUGHT_FOR_TIME": "Přemýšlel jsem {time}",
   "SUPPORT_CHAT_DISCLAIMER": "Snippy je AI a může dělat chyby.",
   "SUPPORT_CHAT_APP_HEADING": "Aktualizovat aplikaci",
   "COMMON_CREATE": "Vytvořit",

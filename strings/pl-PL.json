@@ -2565,6 +2565,7 @@
   "SUPPORT_CHAT_STEP_ESCALATE_DONE": "Skontaktowałem się z zespołem",
   "SUPPORT_CHAT_THOUGHT_FOR": "Myślałem przez {count} sekund",
   "SUPPORT_CHAT_THOUGHT_FOR_ONE": "Myślałem przez {count} sekundę",
+  "SUPPORT_CHAT_THOUGHT_FOR_TIME": "Myślałem przez {time}",
   "SUPPORT_CHAT_DISCLAIMER": "Snippy to AI i może popełniać błędy.",
   "SUPPORT_CHAT_APP_HEADING": "Zaktualizuj aplikację",
   "COMMON_CREATE": "Utwórz",

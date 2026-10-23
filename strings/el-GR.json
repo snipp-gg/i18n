@@ -2565,6 +2565,7 @@
   "SUPPORT_CHAT_STEP_ESCALATE_DONE": "Επικοινώνησα με την ομάδα",
   "SUPPORT_CHAT_THOUGHT_FOR": "Σκέφτηκα για {count} δευτερόλεπτα",
   "SUPPORT_CHAT_THOUGHT_FOR_ONE": "Σκέφτηκα για {count} δευτερόλεπτο",
+  "SUPPORT_CHAT_THOUGHT_FOR_TIME": "Σκέφτηκα για {time}",
   "SUPPORT_CHAT_DISCLAIMER": "Ο Snippy είναι AI και μπορεί να κάνει λάθη.",
   "SUPPORT_CHAT_APP_HEADING": "Ενημερώστε μια εφαρμογή",
   "COMMON_CREATE": "Δημιουργία",

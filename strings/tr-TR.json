@@ -2565,6 +2565,7 @@
   "SUPPORT_CHAT_STEP_ESCALATE_DONE": "Ekiple iletişime geçtim",
   "SUPPORT_CHAT_THOUGHT_FOR": "{count} saniye düşündüm",
   "SUPPORT_CHAT_THOUGHT_FOR_ONE": "{count} saniye düşündüm",
+  "SUPPORT_CHAT_THOUGHT_FOR_TIME": "{time} düşündüm",
   "SUPPORT_CHAT_DISCLAIMER": "Snippy bir yapay zekadır ve hata yapabilir.",
   "SUPPORT_CHAT_APP_HEADING": "Bir uygulamayı güncelleyin",
   "COMMON_CREATE": "Oluştur",

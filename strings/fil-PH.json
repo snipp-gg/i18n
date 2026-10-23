@@ -2565,6 +2565,7 @@
   "SUPPORT_CHAT_STEP_ESCALATE_DONE": "Kinontak ang team",
   "SUPPORT_CHAT_THOUGHT_FOR": "Nag-isip nang {count} na segundo",
   "SUPPORT_CHAT_THOUGHT_FOR_ONE": "Nag-isip nang {count} segundo",
+  "SUPPORT_CHAT_THOUGHT_FOR_TIME": "Nag-isip nang {time}",
   "SUPPORT_CHAT_DISCLAIMER": "Isang AI si Snippy at puwede siyang magkamali.",
   "SUPPORT_CHAT_APP_HEADING": "I-update ang isang app",
   "COMMON_CREATE": "Gumawa",

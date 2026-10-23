@@ -2565,6 +2565,7 @@
   "SUPPORT_CHAT_STEP_ESCALATE_DONE": "Зв'язався з командою",
   "SUPPORT_CHAT_THOUGHT_FOR": "Думав {count} секунд",
   "SUPPORT_CHAT_THOUGHT_FOR_ONE": "Думав {count} секунду",
+  "SUPPORT_CHAT_THOUGHT_FOR_TIME": "Думав {time}",
   "SUPPORT_CHAT_DISCLAIMER": "Snippy — ШІ та може помилятися.",
   "SUPPORT_CHAT_APP_HEADING": "Оновити застосунок",
   "COMMON_CREATE": "Створити",
