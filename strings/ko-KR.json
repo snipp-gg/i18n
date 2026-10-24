@@ -1597,7 +1597,7 @@
   "SETTINGS_SPEEDTEST_START_BUTTON": "테스트 시작",
   "SETTINGS_SPEEDTEST_DESCRIPTION": "Snipp로의 업로드 속도를 테스트하세요. 주간 한도에는 포함되지 않습니다.",
   "SETTINGS_PROFILE_AVATAR_ERROR_TOO_LARGE": "아바타는 30MB 미만이어야 합니다.",
-  "SETTINGS_PROFILE_AVATAR_TOAST_UPLOAD_FAILED": "업로드에 실패했습니다",
+  "SETTINGS_PROFILE_AVATAR_TOAST_UPLOAD_FAILED": "이미지를 업로드하지 못했습니다. 다시 시도해 주세요.",
   "SETTINGS_PROFILE_AVATAR_TOAST_UPLOAD_SUCCESS": "아바타가 업로드되었습니다!",
   "SETTINGS_PROFILE_AVATAR_ERROR_UPLOAD": "아바타를 업로드하지 못했습니다. 다시 시도해 주세요.",
   "SETTINGS_PROFILE_BANNER_ERROR_TOO_LARGE": "배너는 30MB 미만이어야 합니다.",

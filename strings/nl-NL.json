@@ -1597,7 +1597,7 @@
   "SETTINGS_SPEEDTEST_START_BUTTON": "Test starten",
   "SETTINGS_SPEEDTEST_DESCRIPTION": "Test je uploadsnelheid naar Snipp. Dit telt niet mee voor je wekelijkse limiet.",
   "SETTINGS_PROFILE_AVATAR_ERROR_TOO_LARGE": "Avatar moet kleiner zijn dan 30 MB.",
-  "SETTINGS_PROFILE_AVATAR_TOAST_UPLOAD_FAILED": "Uploaden mislukt",
+  "SETTINGS_PROFILE_AVATAR_TOAST_UPLOAD_FAILED": "Afbeelding uploaden mislukt. Probeer het opnieuw.",
   "SETTINGS_PROFILE_AVATAR_TOAST_UPLOAD_SUCCESS": "Avatar succesvol geüpload!",
   "SETTINGS_PROFILE_AVATAR_ERROR_UPLOAD": "Avatar uploaden mislukt. Probeer het opnieuw.",
   "SETTINGS_PROFILE_BANNER_ERROR_TOO_LARGE": "Banner moet kleiner zijn dan 30 MB.",

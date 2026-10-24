@@ -1597,7 +1597,7 @@
   "SETTINGS_SPEEDTEST_START_BUTTON": "Test starten",
   "SETTINGS_SPEEDTEST_DESCRIPTION": "Teste deine Upload-Geschwindigkeit zu Snipp. Dies wird nicht auf dein wöchentliches Limit angerechnet.",
   "SETTINGS_PROFILE_AVATAR_ERROR_TOO_LARGE": "Der Avatar muss kleiner als 30 MB sein.",
-  "SETTINGS_PROFILE_AVATAR_TOAST_UPLOAD_FAILED": "Upload fehlgeschlagen",
+  "SETTINGS_PROFILE_AVATAR_TOAST_UPLOAD_FAILED": "Bild konnte nicht hochgeladen werden. Bitte versuche es erneut.",
   "SETTINGS_PROFILE_AVATAR_TOAST_UPLOAD_SUCCESS": "Avatar erfolgreich hochgeladen!",
   "SETTINGS_PROFILE_AVATAR_ERROR_UPLOAD": "Avatar konnte nicht hochgeladen werden. Bitte versuche es erneut.",
   "SETTINGS_PROFILE_BANNER_ERROR_TOO_LARGE": "Das Banner muss kleiner als 30 MB sein.",

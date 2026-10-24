@@ -1597,7 +1597,7 @@
   "SETTINGS_SPEEDTEST_START_BUTTON": "Έναρξη δοκιμής",
   "SETTINGS_SPEEDTEST_DESCRIPTION": "Δοκιμάστε την ταχύτητα ανεβάσματός σας στο Snipp. Αυτό δεν συνυπολογίζεται στο εβδομαδιαίο όριό σας.",
   "SETTINGS_PROFILE_AVATAR_ERROR_TOO_LARGE": "Το avatar πρέπει να είναι κάτω από 30 MB.",
-  "SETTINGS_PROFILE_AVATAR_TOAST_UPLOAD_FAILED": "Το ανέβασμα απέτυχε",
+  "SETTINGS_PROFILE_AVATAR_TOAST_UPLOAD_FAILED": "Αποτυχία ανεβάσματος της εικόνας. Παρακαλούμε δοκιμάστε ξανά.",
   "SETTINGS_PROFILE_AVATAR_TOAST_UPLOAD_SUCCESS": "Το avatar ανέβηκε επιτυχώς!",
   "SETTINGS_PROFILE_AVATAR_ERROR_UPLOAD": "Αποτυχία ανεβάσματος avatar. Παρακαλούμε δοκιμάστε ξανά.",
   "SETTINGS_PROFILE_BANNER_ERROR_TOO_LARGE": "Το banner πρέπει να είναι κάτω από 30 MB.",

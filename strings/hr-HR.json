@@ -1597,7 +1597,7 @@
   "SETTINGS_SPEEDTEST_START_BUTTON": "Pokreni test",
   "SETTINGS_SPEEDTEST_DESCRIPTION": "Testiraj svoju brzinu prijenosa na Snipp. Ovo se ne ubraja u tvoje tjedno ograničenje.",
   "SETTINGS_PROFILE_AVATAR_ERROR_TOO_LARGE": "Avatar mora biti manji od 30 MB.",
-  "SETTINGS_PROFILE_AVATAR_TOAST_UPLOAD_FAILED": "Prijenos nije uspio",
+  "SETTINGS_PROFILE_AVATAR_TOAST_UPLOAD_FAILED": "Prijenos slike nije uspio. Pokušaj ponovno.",
   "SETTINGS_PROFILE_AVATAR_TOAST_UPLOAD_SUCCESS": "Avatar uspješno prenesen!",
   "SETTINGS_PROFILE_AVATAR_ERROR_UPLOAD": "Prijenos avatara nije uspio. Pokušaj ponovno.",
   "SETTINGS_PROFILE_BANNER_ERROR_TOO_LARGE": "Baner mora biti manji od 30 MB.",

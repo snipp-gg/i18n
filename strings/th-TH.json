@@ -1597,7 +1597,7 @@
   "SETTINGS_SPEEDTEST_START_BUTTON": "เริ่มทดสอบ",
   "SETTINGS_SPEEDTEST_DESCRIPTION": "ทดสอบความเร็วการอัปโหลดของคุณไปยัง Snipp การทดสอบนี้ไม่นับรวมในขีดจำกัดรายสัปดาห์ของคุณ",
   "SETTINGS_PROFILE_AVATAR_ERROR_TOO_LARGE": "อวตารต้องมีขนาดต่ำกว่า 30 MB",
-  "SETTINGS_PROFILE_AVATAR_TOAST_UPLOAD_FAILED": "อัปโหลดล้มเหลว",
+  "SETTINGS_PROFILE_AVATAR_TOAST_UPLOAD_FAILED": "ไม่สามารถอัปโหลดรูปภาพนี้ได้ กรุณาลองอีกครั้ง",
   "SETTINGS_PROFILE_AVATAR_TOAST_UPLOAD_SUCCESS": "อัปโหลดอวตารสำเร็จ!",
   "SETTINGS_PROFILE_AVATAR_ERROR_UPLOAD": "ไม่สามารถอัปโหลดอวตารได้ กรุณาลองอีกครั้ง",
   "SETTINGS_PROFILE_BANNER_ERROR_TOO_LARGE": "แบนเนอร์ต้องมีขนาดต่ำกว่า 30 MB",

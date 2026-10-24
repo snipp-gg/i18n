@@ -1597,7 +1597,7 @@
   "SETTINGS_SPEEDTEST_START_BUTTON": "Стартиране на теста",
   "SETTINGS_SPEEDTEST_DESCRIPTION": "Тествайте скоростта си на качване към Snipp. Това не се отчита към седмичния ви лимит.",
   "SETTINGS_PROFILE_AVATAR_ERROR_TOO_LARGE": "Аватарът трябва да е под 30 МБ.",
-  "SETTINGS_PROFILE_AVATAR_TOAST_UPLOAD_FAILED": "Качването е неуспешно",
+  "SETTINGS_PROFILE_AVATAR_TOAST_UPLOAD_FAILED": "Неуспешно качване на изображението. Моля, опитайте отново.",
   "SETTINGS_PROFILE_AVATAR_TOAST_UPLOAD_SUCCESS": "Аватарът е качен успешно!",
   "SETTINGS_PROFILE_AVATAR_ERROR_UPLOAD": "Неуспешно качване на аватара. Моля, опитайте отново.",
   "SETTINGS_PROFILE_BANNER_ERROR_TOO_LARGE": "Банерът трябва да е под 30 МБ.",

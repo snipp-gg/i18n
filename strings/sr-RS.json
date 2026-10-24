@@ -1597,7 +1597,7 @@
   "SETTINGS_SPEEDTEST_START_BUTTON": "Pokreni test",
   "SETTINGS_SPEEDTEST_DESCRIPTION": "Testirajte svoju brzinu otpremanja na Snipp. Ovo se ne računa u vaš nedeljni limit.",
   "SETTINGS_PROFILE_AVATAR_ERROR_TOO_LARGE": "Avatar mora biti manji od 30 MB.",
-  "SETTINGS_PROFILE_AVATAR_TOAST_UPLOAD_FAILED": "Otpremanje nije uspelo",
+  "SETTINGS_PROFILE_AVATAR_TOAST_UPLOAD_FAILED": "Neuspešno otpremanje slike. Pokušajte ponovo.",
   "SETTINGS_PROFILE_AVATAR_TOAST_UPLOAD_SUCCESS": "Avatar uspešno otpremljen!",
   "SETTINGS_PROFILE_AVATAR_ERROR_UPLOAD": "Neuspešno otpremanje avatara. Pokušajte ponovo.",
   "SETTINGS_PROFILE_BANNER_ERROR_TOO_LARGE": "Baner mora biti manji od 30 MB.",

@@ -1597,7 +1597,7 @@
   "SETTINGS_SPEEDTEST_START_BUTTON": "Mulai tes",
   "SETTINGS_SPEEDTEST_DESCRIPTION": "Uji kecepatan unggah Anda ke Snipp. Ini tidak dihitung ke batas mingguan Anda.",
   "SETTINGS_PROFILE_AVATAR_ERROR_TOO_LARGE": "Avatar harus di bawah 30 MB.",
-  "SETTINGS_PROFILE_AVATAR_TOAST_UPLOAD_FAILED": "Unggahan gagal",
+  "SETTINGS_PROFILE_AVATAR_TOAST_UPLOAD_FAILED": "Gagal mengunggah gambar. Silakan coba lagi.",
   "SETTINGS_PROFILE_AVATAR_TOAST_UPLOAD_SUCCESS": "Avatar berhasil diunggah!",
   "SETTINGS_PROFILE_AVATAR_ERROR_UPLOAD": "Gagal mengunggah avatar. Silakan coba lagi.",
   "SETTINGS_PROFILE_BANNER_ERROR_TOO_LARGE": "Banner harus di bawah 30 MB.",

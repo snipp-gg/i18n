@@ -1597,7 +1597,7 @@
   "SETTINGS_SPEEDTEST_START_BUTTON": "Aloita testi",
   "SETTINGS_SPEEDTEST_DESCRIPTION": "Testaa latausnopeutesi Snippiin. Tämä ei laske viikoittaista rajaasi.",
   "SETTINGS_PROFILE_AVATAR_ERROR_TOO_LARGE": "Avatarin on oltava alle 30 MB.",
-  "SETTINGS_PROFILE_AVATAR_TOAST_UPLOAD_FAILED": "Lataus epäonnistui",
+  "SETTINGS_PROFILE_AVATAR_TOAST_UPLOAD_FAILED": "Kuvan lataus epäonnistui. Yritä uudelleen.",
   "SETTINGS_PROFILE_AVATAR_TOAST_UPLOAD_SUCCESS": "Avatar ladattu onnistuneesti!",
   "SETTINGS_PROFILE_AVATAR_ERROR_UPLOAD": "Avatarin lataus epäonnistui. Yritä uudelleen.",
   "SETTINGS_PROFILE_BANNER_ERROR_TOO_LARGE": "Bannerin on oltava alle 30 MB.",

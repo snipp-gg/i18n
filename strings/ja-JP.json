@@ -1597,7 +1597,7 @@
   "SETTINGS_SPEEDTEST_START_BUTTON": "テストを開始",
   "SETTINGS_SPEEDTEST_DESCRIPTION": "Snippへのアップロード速度をテストします。これは週間制限には加算されません。",
   "SETTINGS_PROFILE_AVATAR_ERROR_TOO_LARGE": "アバターは30 MB未満である必要があります。",
-  "SETTINGS_PROFILE_AVATAR_TOAST_UPLOAD_FAILED": "アップロードに失敗しました",
+  "SETTINGS_PROFILE_AVATAR_TOAST_UPLOAD_FAILED": "画像のアップロードに失敗しました。もう一度お試しください。",
   "SETTINGS_PROFILE_AVATAR_TOAST_UPLOAD_SUCCESS": "アバターをアップロードしました。",
   "SETTINGS_PROFILE_AVATAR_ERROR_UPLOAD": "アバターのアップロードに失敗しました。もう一度お試しください。",
   "SETTINGS_PROFILE_BANNER_ERROR_TOO_LARGE": "バナーは30 MB未満である必要があります。",

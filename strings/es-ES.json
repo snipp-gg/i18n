@@ -1597,7 +1597,7 @@
   "SETTINGS_SPEEDTEST_START_BUTTON": "Iniciar prueba",
   "SETTINGS_SPEEDTEST_DESCRIPTION": "Prueba tu velocidad de subida a Snipp. Esto no cuenta para tu límite semanal.",
   "SETTINGS_PROFILE_AVATAR_ERROR_TOO_LARGE": "El avatar debe pesar menos de 30 MB.",
-  "SETTINGS_PROFILE_AVATAR_TOAST_UPLOAD_FAILED": "Error al subir",
+  "SETTINGS_PROFILE_AVATAR_TOAST_UPLOAD_FAILED": "No se pudo subir la imagen. Inténtalo de nuevo.",
   "SETTINGS_PROFILE_AVATAR_TOAST_UPLOAD_SUCCESS": "¡Avatar subido correctamente!",
   "SETTINGS_PROFILE_AVATAR_ERROR_UPLOAD": "No se pudo subir el avatar. Inténtalo de nuevo.",
   "SETTINGS_PROFILE_BANNER_ERROR_TOO_LARGE": "El banner debe pesar menos de 30 MB.",

@@ -1597,7 +1597,7 @@
   "SETTINGS_SPEEDTEST_START_BUTTON": "Почати тест",
   "SETTINGS_SPEEDTEST_DESCRIPTION": "Перевірте свою швидкість завантаження на Snipp. Це не зараховується до вашого тижневого ліміту.",
   "SETTINGS_PROFILE_AVATAR_ERROR_TOO_LARGE": "Аватар має бути менше 30 МБ.",
-  "SETTINGS_PROFILE_AVATAR_TOAST_UPLOAD_FAILED": "Не вдалося завантажити",
+  "SETTINGS_PROFILE_AVATAR_TOAST_UPLOAD_FAILED": "Не вдалося завантажити зображення. Спробуйте ще раз.",
   "SETTINGS_PROFILE_AVATAR_TOAST_UPLOAD_SUCCESS": "Аватар успішно завантажено!",
   "SETTINGS_PROFILE_AVATAR_ERROR_UPLOAD": "Не вдалося завантажити аватар. Спробуйте ще раз.",
   "SETTINGS_PROFILE_BANNER_ERROR_TOO_LARGE": "Банер має бути менше 30 МБ.",

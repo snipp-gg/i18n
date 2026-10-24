@@ -1597,7 +1597,7 @@
   "SETTINGS_SPEEDTEST_START_BUTTON": "Lancer le test",
   "SETTINGS_SPEEDTEST_DESCRIPTION": "Testez votre vitesse d'envoi vers Snipp. Cela ne compte pas dans votre limite hebdomadaire.",
   "SETTINGS_PROFILE_AVATAR_ERROR_TOO_LARGE": "L'avatar doit faire moins de 30 MB.",
-  "SETTINGS_PROFILE_AVATAR_TOAST_UPLOAD_FAILED": "Échec de l'envoi",
+  "SETTINGS_PROFILE_AVATAR_TOAST_UPLOAD_FAILED": "Échec de l'envoi de l'image. Veuillez réessayer.",
   "SETTINGS_PROFILE_AVATAR_TOAST_UPLOAD_SUCCESS": "Avatar envoyé avec succès !",
   "SETTINGS_PROFILE_AVATAR_ERROR_UPLOAD": "Échec de l'envoi de l'avatar. Veuillez réessayer.",
   "SETTINGS_PROFILE_BANNER_ERROR_TOO_LARGE": "La bannière doit faire moins de 30 MB.",

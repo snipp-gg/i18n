@@ -1597,7 +1597,7 @@
   "SETTINGS_SPEEDTEST_START_BUTTON": "टेस्ट शुरू करें",
   "SETTINGS_SPEEDTEST_DESCRIPTION": "Snipp पर अपनी अपलोड स्पीड टेस्ट करें। यह आपकी साप्ताहिक सीमा में नहीं गिना जाता।",
   "SETTINGS_PROFILE_AVATAR_ERROR_TOO_LARGE": "अवतार 30 MB से कम होना चाहिए।",
-  "SETTINGS_PROFILE_AVATAR_TOAST_UPLOAD_FAILED": "अपलोड विफल रहा",
+  "SETTINGS_PROFILE_AVATAR_TOAST_UPLOAD_FAILED": "इमेज अपलोड करने में विफल। कृपया दोबारा कोशिश करें।",
   "SETTINGS_PROFILE_AVATAR_TOAST_UPLOAD_SUCCESS": "अवतार सफलतापूर्वक अपलोड किया गया!",
   "SETTINGS_PROFILE_AVATAR_ERROR_UPLOAD": "अवतार अपलोड करने में विफल। कृपया दोबारा कोशिश करें।",
   "SETTINGS_PROFILE_BANNER_ERROR_TOO_LARGE": "बैनर 30 MB से कम होना चाहिए।",

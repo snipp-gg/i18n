@@ -1597,7 +1597,7 @@
   "SETTINGS_SPEEDTEST_START_BUTTON": "Bắt đầu kiểm tra",
   "SETTINGS_SPEEDTEST_DESCRIPTION": "Kiểm tra tốc độ tải lên đến Snipp của bạn. Việc này không tính vào giới hạn hàng tuần.",
   "SETTINGS_PROFILE_AVATAR_ERROR_TOO_LARGE": "Ảnh đại diện phải dưới 30 MB.",
-  "SETTINGS_PROFILE_AVATAR_TOAST_UPLOAD_FAILED": "Tải lên thất bại",
+  "SETTINGS_PROFILE_AVATAR_TOAST_UPLOAD_FAILED": "Không thể tải lên hình ảnh này. Vui lòng thử lại.",
   "SETTINGS_PROFILE_AVATAR_TOAST_UPLOAD_SUCCESS": "Đã tải lên ảnh đại diện thành công!",
   "SETTINGS_PROFILE_AVATAR_ERROR_UPLOAD": "Không thể tải lên ảnh đại diện. Vui lòng thử lại.",
   "SETTINGS_PROFILE_BANNER_ERROR_TOO_LARGE": "Ảnh bìa phải dưới 30 MB.",

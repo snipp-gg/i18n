@@ -1597,7 +1597,7 @@
   "SETTINGS_SPEEDTEST_START_BUTTON": "Start test",
   "SETTINGS_SPEEDTEST_DESCRIPTION": "Test opplastingshastigheten din til Snipp. Dette teller ikke mot den ukentlige grensen din.",
   "SETTINGS_PROFILE_AVATAR_ERROR_TOO_LARGE": "Avataren må være under 30 MB.",
-  "SETTINGS_PROFILE_AVATAR_TOAST_UPLOAD_FAILED": "Opplasting mislyktes",
+  "SETTINGS_PROFILE_AVATAR_TOAST_UPLOAD_FAILED": "Kunne ikke laste opp bildet. Prøv igjen.",
   "SETTINGS_PROFILE_AVATAR_TOAST_UPLOAD_SUCCESS": "Avatar lastet opp!",
   "SETTINGS_PROFILE_AVATAR_ERROR_UPLOAD": "Kunne ikke laste opp avatar. Prøv igjen.",
   "SETTINGS_PROFILE_BANNER_ERROR_TOO_LARGE": "Banneret må være under 30 MB.",

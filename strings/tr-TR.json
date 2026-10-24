@@ -1597,7 +1597,7 @@
   "SETTINGS_SPEEDTEST_START_BUTTON": "Testi başlat",
   "SETTINGS_SPEEDTEST_DESCRIPTION": "Snipp'e yükleme hızınızı test edin. Bu, haftalık sınırınıza dahil edilmez.",
   "SETTINGS_PROFILE_AVATAR_ERROR_TOO_LARGE": "Avatar 30 MB'den küçük olmalıdır.",
-  "SETTINGS_PROFILE_AVATAR_TOAST_UPLOAD_FAILED": "Yükleme başarısız oldu",
+  "SETTINGS_PROFILE_AVATAR_TOAST_UPLOAD_FAILED": "Görsel yüklenemedi. Lütfen tekrar deneyin.",
   "SETTINGS_PROFILE_AVATAR_TOAST_UPLOAD_SUCCESS": "Avatar başarıyla yüklendi!",
   "SETTINGS_PROFILE_AVATAR_ERROR_UPLOAD": "Avatar yüklenemedi. Lütfen tekrar deneyin.",
   "SETTINGS_PROFILE_BANNER_ERROR_TOO_LARGE": "Afiş 30 MB'den küçük olmalıdır.",

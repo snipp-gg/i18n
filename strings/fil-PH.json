@@ -1597,7 +1597,7 @@
   "SETTINGS_SPEEDTEST_START_BUTTON": "Simulan ang test",
   "SETTINGS_SPEEDTEST_DESCRIPTION": "Subukan ang iyong upload speed sa Snipp. Hindi ito kabilang sa iyong weekly limit.",
   "SETTINGS_PROFILE_AVATAR_ERROR_TOO_LARGE": "Ang avatar ay dapat mas mababa sa 30 MB.",
-  "SETTINGS_PROFILE_AVATAR_TOAST_UPLOAD_FAILED": "Nabigo ang upload",
+  "SETTINGS_PROFILE_AVATAR_TOAST_UPLOAD_FAILED": "Hindi na-upload ang larawan. Subukan ulit.",
   "SETTINGS_PROFILE_AVATAR_TOAST_UPLOAD_SUCCESS": "Matagumpay na na-upload ang avatar!",
   "SETTINGS_PROFILE_AVATAR_ERROR_UPLOAD": "Hindi na-upload ang avatar. Subukan ulit.",
   "SETTINGS_PROFILE_BANNER_ERROR_TOO_LARGE": "Ang banner ay dapat mas mababa sa 30 MB.",

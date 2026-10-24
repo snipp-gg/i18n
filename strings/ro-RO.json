@@ -1597,7 +1597,7 @@
   "SETTINGS_SPEEDTEST_START_BUTTON": "Începe testul",
   "SETTINGS_SPEEDTEST_DESCRIPTION": "Testează-ți viteza de încărcare către Snipp. Acest lucru nu se ia în calcul pentru limita ta săptămânală.",
   "SETTINGS_PROFILE_AVATAR_ERROR_TOO_LARGE": "Avatarul trebuie să aibă sub 30 MB.",
-  "SETTINGS_PROFILE_AVATAR_TOAST_UPLOAD_FAILED": "Încărcarea a eșuat",
+  "SETTINGS_PROFILE_AVATAR_TOAST_UPLOAD_FAILED": "Nu s-a putut încărca imaginea. Te rugăm să încerci din nou.",
   "SETTINGS_PROFILE_AVATAR_TOAST_UPLOAD_SUCCESS": "Avatar încărcat cu succes!",
   "SETTINGS_PROFILE_AVATAR_ERROR_UPLOAD": "Nu s-a putut încărca avatarul. Te rugăm să încerci din nou.",
   "SETTINGS_PROFILE_BANNER_ERROR_TOO_LARGE": "Bannerul trebuie să aibă sub 30 MB.",

@@ -1597,7 +1597,7 @@
   "SETTINGS_SPEEDTEST_START_BUTTON": "Spustiť test",
   "SETTINGS_SPEEDTEST_DESCRIPTION": "Otestuj rýchlosť nahrávania na Snipp. Nezapočítava sa do tvojho týždenného limitu.",
   "SETTINGS_PROFILE_AVATAR_ERROR_TOO_LARGE": "Avatar musí mať menej než 30 MB.",
-  "SETTINGS_PROFILE_AVATAR_TOAST_UPLOAD_FAILED": "Nahrávanie zlyhalo",
+  "SETTINGS_PROFILE_AVATAR_TOAST_UPLOAD_FAILED": "Nepodarilo sa nahrať obrázok. Skús to znova.",
   "SETTINGS_PROFILE_AVATAR_TOAST_UPLOAD_SUCCESS": "Avatar úspešne nahraný!",
   "SETTINGS_PROFILE_AVATAR_ERROR_UPLOAD": "Nepodarilo sa nahrať avatar. Skús to znova.",
   "SETTINGS_PROFILE_BANNER_ERROR_TOO_LARGE": "Banner musí mať menej než 30 MB.",
