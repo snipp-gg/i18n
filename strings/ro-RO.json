@@ -2542,6 +2542,8 @@
   "SUPPORT_CHAT_STEP_ACCOUNT_DONE": "Ți-am verificat contul",
   "SUPPORT_CHAT_STEP_DEVICES": "Îți verific dispozitivele",
   "SUPPORT_CHAT_STEP_DEVICES_DONE": "Ți-am verificat dispozitivele",
+  "SUPPORT_CHAT_STEP_NOTIFICATIONS": "Îți verific notificările",
+  "SUPPORT_CHAT_STEP_NOTIFICATIONS_DONE": "Ți-am verificat notificările",
   "SUPPORT_CHAT_STEP_POSTS": "Îți parcurg postările",
   "SUPPORT_CHAT_STEP_POSTS_DONE": "Ți-am parcurs postările",
   "SUPPORT_CHAT_STEP_POST": "Mă uit la postarea ta",

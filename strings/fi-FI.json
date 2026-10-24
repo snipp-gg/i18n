@@ -2542,6 +2542,8 @@
   "SUPPORT_CHAT_STEP_ACCOUNT_DONE": "Tarkistettiin tilisi",
   "SUPPORT_CHAT_STEP_DEVICES": "Tarkistetaan laitteitasi",
   "SUPPORT_CHAT_STEP_DEVICES_DONE": "Tarkistettiin laitteesi",
+  "SUPPORT_CHAT_STEP_NOTIFICATIONS": "Tarkistetaan ilmoituksiasi",
+  "SUPPORT_CHAT_STEP_NOTIFICATIONS_DONE": "Tarkistettiin ilmoituksesi",
   "SUPPORT_CHAT_STEP_POSTS": "Käydään läpi julkaisujasi",
   "SUPPORT_CHAT_STEP_POSTS_DONE": "Käytiin läpi julkaisusi",
   "SUPPORT_CHAT_STEP_POST": "Katsotaan julkaisuasi",

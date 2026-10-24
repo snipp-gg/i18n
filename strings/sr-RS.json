@@ -2542,6 +2542,8 @@
   "SUPPORT_CHAT_STEP_ACCOUNT_DONE": "Proverio sam vaš nalog",
   "SUPPORT_CHAT_STEP_DEVICES": "Proveravam vaše uređaje",
   "SUPPORT_CHAT_STEP_DEVICES_DONE": "Proverio sam vaše uređaje",
+  "SUPPORT_CHAT_STEP_NOTIFICATIONS": "Proveravam vaša obaveštenja",
+  "SUPPORT_CHAT_STEP_NOTIFICATIONS_DONE": "Proverio sam vaša obaveštenja",
   "SUPPORT_CHAT_STEP_POSTS": "Pregledam vaše objave",
   "SUPPORT_CHAT_STEP_POSTS_DONE": "Pregledao sam vaše objave",
   "SUPPORT_CHAT_STEP_POST": "Gledam vašu objavu",

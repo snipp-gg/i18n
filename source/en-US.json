@@ -2542,6 +2542,8 @@
   "SUPPORT_CHAT_STEP_ACCOUNT_DONE": "Checked your account",
   "SUPPORT_CHAT_STEP_DEVICES": "Checking your devices",
   "SUPPORT_CHAT_STEP_DEVICES_DONE": "Checked your devices",
+  "SUPPORT_CHAT_STEP_NOTIFICATIONS": "Checking your notifications",
+  "SUPPORT_CHAT_STEP_NOTIFICATIONS_DONE": "Checked your notifications",
   "SUPPORT_CHAT_STEP_POSTS": "Looking through your posts",
   "SUPPORT_CHAT_STEP_POSTS_DONE": "Looked through your posts",
   "SUPPORT_CHAT_STEP_POST": "Looking at your post",

@@ -2542,6 +2542,8 @@
   "SUPPORT_CHAT_STEP_ACCOUNT_DONE": "Έλεγξα τον λογαριασμό σας",
   "SUPPORT_CHAT_STEP_DEVICES": "Ελέγχω τις συσκευές σας",
   "SUPPORT_CHAT_STEP_DEVICES_DONE": "Έλεγξα τις συσκευές σας",
+  "SUPPORT_CHAT_STEP_NOTIFICATIONS": "Ελέγχω τις ειδοποιήσεις σας",
+  "SUPPORT_CHAT_STEP_NOTIFICATIONS_DONE": "Έλεγξα τις ειδοποιήσεις σας",
   "SUPPORT_CHAT_STEP_POSTS": "Ψάχνω στις αναρτήσεις σας",
   "SUPPORT_CHAT_STEP_POSTS_DONE": "Έψαξα στις αναρτήσεις σας",
   "SUPPORT_CHAT_STEP_POST": "Κοιτάζω την ανάρτησή σας",

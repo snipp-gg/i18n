@@ -2542,6 +2542,8 @@
   "SUPPORT_CHAT_STEP_ACCOUNT_DONE": "He comprobado tu cuenta",
   "SUPPORT_CHAT_STEP_DEVICES": "Comprobando tus dispositivos",
   "SUPPORT_CHAT_STEP_DEVICES_DONE": "He comprobado tus dispositivos",
+  "SUPPORT_CHAT_STEP_NOTIFICATIONS": "Comprobando tus notificaciones",
+  "SUPPORT_CHAT_STEP_NOTIFICATIONS_DONE": "He comprobado tus notificaciones",
   "SUPPORT_CHAT_STEP_POSTS": "Revisando tus publicaciones",
   "SUPPORT_CHAT_STEP_POSTS_DONE": "He revisado tus publicaciones",
   "SUPPORT_CHAT_STEP_POST": "Viendo tu publicación",

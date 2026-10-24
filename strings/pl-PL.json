@@ -2542,6 +2542,8 @@
   "SUPPORT_CHAT_STEP_ACCOUNT_DONE": "Sprawdziłem Twoje konto",
   "SUPPORT_CHAT_STEP_DEVICES": "Sprawdzam Twoje urządzenia",
   "SUPPORT_CHAT_STEP_DEVICES_DONE": "Sprawdziłem Twoje urządzenia",
+  "SUPPORT_CHAT_STEP_NOTIFICATIONS": "Sprawdzam Twoje powiadomienia",
+  "SUPPORT_CHAT_STEP_NOTIFICATIONS_DONE": "Sprawdziłem Twoje powiadomienia",
   "SUPPORT_CHAT_STEP_POSTS": "Przeglądam Twoje posty",
   "SUPPORT_CHAT_STEP_POSTS_DONE": "Przejrzałem Twoje posty",
   "SUPPORT_CHAT_STEP_POST": "Patrzę na Twój post",

@@ -2542,6 +2542,8 @@
   "SUPPORT_CHAT_STEP_ACCOUNT_DONE": "Перевірив ваш акаунт",
   "SUPPORT_CHAT_STEP_DEVICES": "Перевіряю ваші пристрої",
   "SUPPORT_CHAT_STEP_DEVICES_DONE": "Перевірив ваші пристрої",
+  "SUPPORT_CHAT_STEP_NOTIFICATIONS": "Перевіряю ваші сповіщення",
+  "SUPPORT_CHAT_STEP_NOTIFICATIONS_DONE": "Перевірив ваші сповіщення",
   "SUPPORT_CHAT_STEP_POSTS": "Переглядаю ваші дописи",
   "SUPPORT_CHAT_STEP_POSTS_DONE": "Переглянув ваші дописи",
   "SUPPORT_CHAT_STEP_POST": "Дивлюся ваш допис",

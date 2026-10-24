@@ -2542,6 +2542,8 @@
   "SUPPORT_CHAT_STEP_ACCOUNT_DONE": "ตรวจสอบบัญชีของคุณแล้ว",
   "SUPPORT_CHAT_STEP_DEVICES": "กำลังตรวจสอบอุปกรณ์ของคุณ",
   "SUPPORT_CHAT_STEP_DEVICES_DONE": "ตรวจสอบอุปกรณ์ของคุณแล้ว",
+  "SUPPORT_CHAT_STEP_NOTIFICATIONS": "กำลังตรวจสอบการแจ้งเตือนของคุณ",
+  "SUPPORT_CHAT_STEP_NOTIFICATIONS_DONE": "ตรวจสอบการแจ้งเตือนของคุณแล้ว",
   "SUPPORT_CHAT_STEP_POSTS": "กำลังไล่ดูโพสต์ของคุณ",
   "SUPPORT_CHAT_STEP_POSTS_DONE": "ไล่ดูโพสต์ของคุณแล้ว",
   "SUPPORT_CHAT_STEP_POST": "กำลังดูโพสต์ของคุณ",

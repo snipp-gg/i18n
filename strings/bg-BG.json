@@ -2542,6 +2542,8 @@
   "SUPPORT_CHAT_STEP_ACCOUNT_DONE": "Проверих акаунта ви",
   "SUPPORT_CHAT_STEP_DEVICES": "Проверявам устройствата ви",
   "SUPPORT_CHAT_STEP_DEVICES_DONE": "Проверих устройствата ви",
+  "SUPPORT_CHAT_STEP_NOTIFICATIONS": "Проверявам известията ви",
+  "SUPPORT_CHAT_STEP_NOTIFICATIONS_DONE": "Проверих известията ви",
   "SUPPORT_CHAT_STEP_POSTS": "Преглеждам публикациите ви",
   "SUPPORT_CHAT_STEP_POSTS_DONE": "Прегледах публикациите ви",
   "SUPPORT_CHAT_STEP_POST": "Разглеждам публикацията ви",

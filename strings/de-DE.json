@@ -2542,6 +2542,8 @@
   "SUPPORT_CHAT_STEP_ACCOUNT_DONE": "Habe dein Konto geprüft",
   "SUPPORT_CHAT_STEP_DEVICES": "Prüfe deine Geräte",
   "SUPPORT_CHAT_STEP_DEVICES_DONE": "Habe deine Geräte geprüft",
+  "SUPPORT_CHAT_STEP_NOTIFICATIONS": "Prüfe deine Benachrichtigungen",
+  "SUPPORT_CHAT_STEP_NOTIFICATIONS_DONE": "Habe deine Benachrichtigungen geprüft",
   "SUPPORT_CHAT_STEP_POSTS": "Sehe deine Beiträge durch",
   "SUPPORT_CHAT_STEP_POSTS_DONE": "Habe deine Beiträge durchgesehen",
   "SUPPORT_CHAT_STEP_POST": "Sehe mir deinen Beitrag an",

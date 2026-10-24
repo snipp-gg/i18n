@@ -2542,6 +2542,8 @@
   "SUPPORT_CHAT_STEP_ACCOUNT_DONE": "Sjekket kontoen din",
   "SUPPORT_CHAT_STEP_DEVICES": "Sjekker enhetene dine",
   "SUPPORT_CHAT_STEP_DEVICES_DONE": "Sjekket enhetene dine",
+  "SUPPORT_CHAT_STEP_NOTIFICATIONS": "Sjekker varslene dine",
+  "SUPPORT_CHAT_STEP_NOTIFICATIONS_DONE": "Sjekket varslene dine",
   "SUPPORT_CHAT_STEP_POSTS": "Går gjennom innleggene dine",
   "SUPPORT_CHAT_STEP_POSTS_DONE": "Gikk gjennom innleggene dine",
   "SUPPORT_CHAT_STEP_POST": "Ser på innlegget ditt",

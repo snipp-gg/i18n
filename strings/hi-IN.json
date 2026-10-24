@@ -2542,6 +2542,8 @@
   "SUPPORT_CHAT_STEP_ACCOUNT_DONE": "आपका अकाउंट जाँच लिया",
   "SUPPORT_CHAT_STEP_DEVICES": "आपके डिवाइस जाँच रहा हूँ",
   "SUPPORT_CHAT_STEP_DEVICES_DONE": "आपके डिवाइस जाँच लिए",
+  "SUPPORT_CHAT_STEP_NOTIFICATIONS": "आपके नोटिफ़िकेशन जाँच रहा हूँ",
+  "SUPPORT_CHAT_STEP_NOTIFICATIONS_DONE": "आपके नोटिफ़िकेशन जाँच लिए",
   "SUPPORT_CHAT_STEP_POSTS": "आपकी सभी पोस्ट देख रहा हूँ",
   "SUPPORT_CHAT_STEP_POSTS_DONE": "आपकी सभी पोस्ट देख लीं",
   "SUPPORT_CHAT_STEP_POST": "आपकी पोस्ट देख रहा हूँ",

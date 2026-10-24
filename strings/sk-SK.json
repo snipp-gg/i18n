@@ -2542,6 +2542,8 @@
   "SUPPORT_CHAT_STEP_ACCOUNT_DONE": "Skontroloval som tvoj účet",
   "SUPPORT_CHAT_STEP_DEVICES": "Kontrolujem tvoje zariadenia",
   "SUPPORT_CHAT_STEP_DEVICES_DONE": "Skontroloval som tvoje zariadenia",
+  "SUPPORT_CHAT_STEP_NOTIFICATIONS": "Kontrolujem tvoje upozornenia",
+  "SUPPORT_CHAT_STEP_NOTIFICATIONS_DONE": "Skontroloval som tvoje upozornenia",
   "SUPPORT_CHAT_STEP_POSTS": "Prechádzam tvoje príspevky",
   "SUPPORT_CHAT_STEP_POSTS_DONE": "Prešiel som tvoje príspevky",
   "SUPPORT_CHAT_STEP_POST": "Pozerám sa na tvoj príspevok",

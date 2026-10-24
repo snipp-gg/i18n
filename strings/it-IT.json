@@ -2542,6 +2542,8 @@
   "SUPPORT_CHAT_STEP_ACCOUNT_DONE": "Ho controllato il tuo account",
   "SUPPORT_CHAT_STEP_DEVICES": "Sto controllando i tuoi dispositivi",
   "SUPPORT_CHAT_STEP_DEVICES_DONE": "Ho controllato i tuoi dispositivi",
+  "SUPPORT_CHAT_STEP_NOTIFICATIONS": "Sto controllando le tue notifiche",
+  "SUPPORT_CHAT_STEP_NOTIFICATIONS_DONE": "Ho controllato le tue notifiche",
   "SUPPORT_CHAT_STEP_POSTS": "Sto guardando i tuoi post",
   "SUPPORT_CHAT_STEP_POSTS_DONE": "Ho guardato i tuoi post",
   "SUPPORT_CHAT_STEP_POST": "Sto guardando il tuo post",
