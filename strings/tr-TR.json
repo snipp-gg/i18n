@@ -1525,8 +1525,6 @@
   "SETTINGS_BLOCKED_ERROR_UNBLOCK": "Kullanıcının engeli kaldırılamadı. Lütfen tekrar deneyin.",
   "SETTINGS_CONNECTIONS_HEADING": "Sosyal bağlantılar",
   "SETTINGS_CONNECTIONS_DESCRIPTION": "Başka yerlerde kullandığınız hesapların bağlantılarını ekleyin, böylece insanlar sizi her yerde bulabilsin.",
-  "SETTINGS_CONNECTIONS_NOT_CONNECTED_LABEL": "Eklenmedi",
-  "SETTINGS_CONNECTIONS_CONNECT_BUTTON": "Ekle",
   "SETTINGS_CONNECTIONS_REMOVE_BUTTON": "{platform} bağlantısını kaldır",
   "SETTINGS_CONNECTIONS_ERROR_UPDATE": "Sosyal bağlantılar güncellenemedi. Lütfen tekrar deneyin.",
   "SETTINGS_CONNECTIONS_TOAST_ADDED": "{platform} bağlantısı eklendi!",

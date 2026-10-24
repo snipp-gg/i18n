@@ -1525,8 +1525,6 @@
   "SETTINGS_BLOCKED_ERROR_UNBLOCK": "Odblokiravanje korisnika nije uspjelo. Pokušaj ponovno.",
   "SETTINGS_CONNECTIONS_HEADING": "Društvene poveznice",
   "SETTINGS_CONNECTIONS_DESCRIPTION": "Dodaj poveznice na račune koje koristiš drugdje kako bi te ljudi mogli pronaći posvuda.",
-  "SETTINGS_CONNECTIONS_NOT_CONNECTED_LABEL": "Nije dodano",
-  "SETTINGS_CONNECTIONS_CONNECT_BUTTON": "Dodaj",
   "SETTINGS_CONNECTIONS_REMOVE_BUTTON": "Ukloni {platform}",
   "SETTINGS_CONNECTIONS_ERROR_UPDATE": "Ažuriranje društvenih poveznica nije uspjelo. Pokušaj ponovno.",
   "SETTINGS_CONNECTIONS_TOAST_ADDED": "{platform} poveznica dodana!",

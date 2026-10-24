@@ -1525,8 +1525,6 @@
   "SETTINGS_BLOCKED_ERROR_UNBLOCK": "Échec du déblocage de l'utilisateur. Veuillez réessayer.",
   "SETTINGS_CONNECTIONS_HEADING": "Liens sociaux",
   "SETTINGS_CONNECTIONS_DESCRIPTION": "Ajoutez des liens vers les comptes que vous utilisez ailleurs pour qu'on puisse vous retrouver partout.",
-  "SETTINGS_CONNECTIONS_NOT_CONNECTED_LABEL": "Non ajouté",
-  "SETTINGS_CONNECTIONS_CONNECT_BUTTON": "Ajouter",
   "SETTINGS_CONNECTIONS_REMOVE_BUTTON": "Retirer {platform}",
   "SETTINGS_CONNECTIONS_ERROR_UPDATE": "Échec de la mise à jour des liens sociaux. Veuillez réessayer.",
   "SETTINGS_CONNECTIONS_TOAST_ADDED": "Lien {platform} ajouté !",

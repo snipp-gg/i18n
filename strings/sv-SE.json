@@ -1525,8 +1525,6 @@
   "SETTINGS_BLOCKED_ERROR_UNBLOCK": "Kunde inte avblockera användaren. Försök igen.",
   "SETTINGS_CONNECTIONS_HEADING": "Sociala länkar",
   "SETTINGS_CONNECTIONS_DESCRIPTION": "Lägg till länkar till de konton du använder på andra ställen så att folk kan hitta dig överallt.",
-  "SETTINGS_CONNECTIONS_NOT_CONNECTED_LABEL": "Inte tillagd",
-  "SETTINGS_CONNECTIONS_CONNECT_BUTTON": "Lägg till",
   "SETTINGS_CONNECTIONS_REMOVE_BUTTON": "Ta bort {platform}",
   "SETTINGS_CONNECTIONS_ERROR_UPDATE": "Kunde inte uppdatera sociala länkar. Försök igen.",
   "SETTINGS_CONNECTIONS_TOAST_ADDED": "{platform}-länk tillagd!",

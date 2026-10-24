@@ -1525,8 +1525,6 @@
   "SETTINGS_BLOCKED_ERROR_UNBLOCK": "Αποτυχία κατάργησης αποκλεισμού χρήστη. Παρακαλούμε δοκιμάστε ξανά.",
   "SETTINGS_CONNECTIONS_HEADING": "Κοινωνικοί σύνδεσμοι",
   "SETTINGS_CONNECTIONS_DESCRIPTION": "Προσθέστε συνδέσμους προς τους λογαριασμούς που χρησιμοποιείτε αλλού για να σας βρίσκουν οι άνθρωποι παντού.",
-  "SETTINGS_CONNECTIONS_NOT_CONNECTED_LABEL": "Δεν έχει προστεθεί",
-  "SETTINGS_CONNECTIONS_CONNECT_BUTTON": "Προσθήκη",
   "SETTINGS_CONNECTIONS_REMOVE_BUTTON": "Αφαίρεση {platform}",
   "SETTINGS_CONNECTIONS_ERROR_UPDATE": "Αποτυχία ενημέρωσης κοινωνικών συνδέσμων. Παρακαλούμε δοκιμάστε ξανά.",
   "SETTINGS_CONNECTIONS_TOAST_ADDED": "Ο σύνδεσμος {platform} προστέθηκε!",

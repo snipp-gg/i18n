@@ -1525,8 +1525,6 @@
   "SETTINGS_BLOCKED_ERROR_UNBLOCK": "Hindi na-unblock ang user. Subukan ulit.",
   "SETTINGS_CONNECTIONS_HEADING": "Mga social link",
   "SETTINGS_CONNECTIONS_DESCRIPTION": "Magdagdag ng mga link sa mga account na ginagamit mo sa ibang lugar para mahanap ka ng mga tao kahit saan.",
-  "SETTINGS_CONNECTIONS_NOT_CONNECTED_LABEL": "Hindi pa naidagdag",
-  "SETTINGS_CONNECTIONS_CONNECT_BUTTON": "Idagdag",
   "SETTINGS_CONNECTIONS_REMOVE_BUTTON": "Alisin ang {platform}",
   "SETTINGS_CONNECTIONS_ERROR_UPDATE": "Hindi na-update ang mga social link. Subukan ulit.",
   "SETTINGS_CONNECTIONS_TOAST_ADDED": "Naidagdag na ang {platform} link!",

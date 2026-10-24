@@ -1525,8 +1525,6 @@
   "SETTINGS_BLOCKED_ERROR_UNBLOCK": "Kunne ikke oppheve blokkering av brukeren. Prøv igjen.",
   "SETTINGS_CONNECTIONS_HEADING": "Sosiale lenker",
   "SETTINGS_CONNECTIONS_DESCRIPTION": "Legg til lenker til kontoene du bruker andre steder, slik at folk kan finne deg overalt.",
-  "SETTINGS_CONNECTIONS_NOT_CONNECTED_LABEL": "Ikke lagt til",
-  "SETTINGS_CONNECTIONS_CONNECT_BUTTON": "Legg til",
   "SETTINGS_CONNECTIONS_REMOVE_BUTTON": "Fjern {platform}",
   "SETTINGS_CONNECTIONS_ERROR_UPDATE": "Kunne ikke oppdatere sosiale lenker. Prøv igjen.",
   "SETTINGS_CONNECTIONS_TOAST_ADDED": "{platform}-lenke lagt til!",

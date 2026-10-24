@@ -1525,8 +1525,6 @@
   "SETTINGS_BLOCKED_ERROR_UNBLOCK": "Nie udało się odblokować użytkownika. Spróbuj ponownie.",
   "SETTINGS_CONNECTIONS_HEADING": "Linki społecznościowe",
   "SETTINGS_CONNECTIONS_DESCRIPTION": "Dodaj linki do kont, których używasz w innych miejscach, aby ludzie mogli Cię wszędzie znaleźć.",
-  "SETTINGS_CONNECTIONS_NOT_CONNECTED_LABEL": "Nie dodano",
-  "SETTINGS_CONNECTIONS_CONNECT_BUTTON": "Dodaj",
   "SETTINGS_CONNECTIONS_REMOVE_BUTTON": "Usuń {platform}",
   "SETTINGS_CONNECTIONS_ERROR_UPDATE": "Nie udało się zaktualizować linków społecznościowych. Spróbuj ponownie.",
   "SETTINGS_CONNECTIONS_TOAST_ADDED": "Link {platform} dodany!",

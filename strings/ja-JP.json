@@ -1525,8 +1525,6 @@
   "SETTINGS_BLOCKED_ERROR_UNBLOCK": "ユーザーのブロック解除に失敗しました。もう一度お試しください。",
   "SETTINGS_CONNECTIONS_HEADING": "ソーシャルリンク",
   "SETTINGS_CONNECTIONS_DESCRIPTION": "他で使っているアカウントへのリンクを追加して、どこにいても見つけてもらえるようにしましょう。",
-  "SETTINGS_CONNECTIONS_NOT_CONNECTED_LABEL": "未追加",
-  "SETTINGS_CONNECTIONS_CONNECT_BUTTON": "追加",
   "SETTINGS_CONNECTIONS_REMOVE_BUTTON": "{platform} を削除",
   "SETTINGS_CONNECTIONS_ERROR_UPDATE": "ソーシャルリンクの更新に失敗しました。もう一度お試しください。",
   "SETTINGS_CONNECTIONS_TOAST_ADDED": "{platform}のリンクを追加しました！",

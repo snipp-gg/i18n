@@ -1525,8 +1525,6 @@
   "SETTINGS_BLOCKED_ERROR_UNBLOCK": "Failed to unblock user. Please try again.",
   "SETTINGS_CONNECTIONS_HEADING": "Social Links",
   "SETTINGS_CONNECTIONS_DESCRIPTION": "Add links to the accounts you use elsewhere so people can find you everywhere.",
-  "SETTINGS_CONNECTIONS_NOT_CONNECTED_LABEL": "Not added",
-  "SETTINGS_CONNECTIONS_CONNECT_BUTTON": "Add",
   "SETTINGS_CONNECTIONS_REMOVE_BUTTON": "Remove {platform}",
   "SETTINGS_CONNECTIONS_ERROR_UPDATE": "Failed to update social links. Please try again.",
   "SETTINGS_CONNECTIONS_TOAST_ADDED": "{platform} link added!",

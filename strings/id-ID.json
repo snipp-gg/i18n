@@ -1525,8 +1525,6 @@
   "SETTINGS_BLOCKED_ERROR_UNBLOCK": "Gagal membuka blokir pengguna. Silakan coba lagi.",
   "SETTINGS_CONNECTIONS_HEADING": "Tautan sosial",
   "SETTINGS_CONNECTIONS_DESCRIPTION": "Tambahkan tautan ke akun yang Anda gunakan di tempat lain agar orang dapat menemukan Anda di mana saja.",
-  "SETTINGS_CONNECTIONS_NOT_CONNECTED_LABEL": "Belum ditambahkan",
-  "SETTINGS_CONNECTIONS_CONNECT_BUTTON": "Tambah",
   "SETTINGS_CONNECTIONS_REMOVE_BUTTON": "Hapus {platform}",
   "SETTINGS_CONNECTIONS_ERROR_UPDATE": "Gagal memperbarui tautan sosial. Silakan coba lagi.",
   "SETTINGS_CONNECTIONS_TOAST_ADDED": "Tautan {platform} ditambahkan!",

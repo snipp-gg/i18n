@@ -1525,8 +1525,6 @@
   "SETTINGS_BLOCKED_ERROR_UNBLOCK": "Gebruiker deblokkeren mislukt. Probeer het opnieuw.",
   "SETTINGS_CONNECTIONS_HEADING": "Sociale links",
   "SETTINGS_CONNECTIONS_DESCRIPTION": "Voeg links toe naar de accounts die je elders gebruikt zodat mensen je overal kunnen vinden.",
-  "SETTINGS_CONNECTIONS_NOT_CONNECTED_LABEL": "Niet toegevoegd",
-  "SETTINGS_CONNECTIONS_CONNECT_BUTTON": "Toevoegen",
   "SETTINGS_CONNECTIONS_REMOVE_BUTTON": "{platform} verwijderen",
   "SETTINGS_CONNECTIONS_ERROR_UPDATE": "Sociale links bijwerken mislukt. Probeer het opnieuw.",
   "SETTINGS_CONNECTIONS_TOAST_ADDED": "{platform}-link toegevoegd!",

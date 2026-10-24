@@ -1525,8 +1525,6 @@
   "SETTINGS_BLOCKED_ERROR_UNBLOCK": "Không thể bỏ chặn người dùng. Vui lòng thử lại.",
   "SETTINGS_CONNECTIONS_HEADING": "Liên kết mạng xã hội",
   "SETTINGS_CONNECTIONS_DESCRIPTION": "Thêm liên kết đến các tài khoản bạn dùng ở nơi khác để mọi người có thể tìm thấy bạn khắp mọi nơi.",
-  "SETTINGS_CONNECTIONS_NOT_CONNECTED_LABEL": "Chưa thêm",
-  "SETTINGS_CONNECTIONS_CONNECT_BUTTON": "Thêm",
   "SETTINGS_CONNECTIONS_REMOVE_BUTTON": "Gỡ {platform}",
   "SETTINGS_CONNECTIONS_ERROR_UPDATE": "Không thể cập nhật liên kết mạng xã hội. Vui lòng thử lại.",
   "SETTINGS_CONNECTIONS_TOAST_ADDED": "Đã thêm liên kết {platform}!",

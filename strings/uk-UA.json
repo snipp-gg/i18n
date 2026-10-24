@@ -1525,8 +1525,6 @@
   "SETTINGS_BLOCKED_ERROR_UNBLOCK": "Не вдалося розблокувати користувача. Спробуйте ще раз.",
   "SETTINGS_CONNECTIONS_HEADING": "Посилання на соцмережі",
   "SETTINGS_CONNECTIONS_DESCRIPTION": "Додайте посилання на акаунти, які ви використовуєте деінде, щоб люди могли знайти вас усюди.",
-  "SETTINGS_CONNECTIONS_NOT_CONNECTED_LABEL": "Не додано",
-  "SETTINGS_CONNECTIONS_CONNECT_BUTTON": "Додати",
   "SETTINGS_CONNECTIONS_REMOVE_BUTTON": "Видалити {platform}",
   "SETTINGS_CONNECTIONS_ERROR_UPDATE": "Не вдалося оновити посилання на соцмережі. Спробуйте ще раз.",
   "SETTINGS_CONNECTIONS_TOAST_ADDED": "Посилання {platform} додано!",

@@ -1525,8 +1525,6 @@
   "SETTINGS_BLOCKED_ERROR_UNBLOCK": "Impossibile sbloccare l'utente. Riprova.",
   "SETTINGS_CONNECTIONS_HEADING": "Link social",
   "SETTINGS_CONNECTIONS_DESCRIPTION": "Aggiungi link agli account che usi altrove così le persone possono trovarti ovunque.",
-  "SETTINGS_CONNECTIONS_NOT_CONNECTED_LABEL": "Non aggiunto",
-  "SETTINGS_CONNECTIONS_CONNECT_BUTTON": "Aggiungi",
   "SETTINGS_CONNECTIONS_REMOVE_BUTTON": "Rimuovi {platform}",
   "SETTINGS_CONNECTIONS_ERROR_UPDATE": "Impossibile aggiornare i link social. Riprova.",
   "SETTINGS_CONNECTIONS_TOAST_ADDED": "Link {platform} aggiunto!",

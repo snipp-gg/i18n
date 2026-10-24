@@ -1525,8 +1525,6 @@
   "SETTINGS_BLOCKED_ERROR_UNBLOCK": "ไม่สามารถปลดบล็อกผู้ใช้ได้ กรุณาลองอีกครั้ง",
   "SETTINGS_CONNECTIONS_HEADING": "ลิงก์โซเชียล",
   "SETTINGS_CONNECTIONS_DESCRIPTION": "เพิ่มลิงก์ไปยังบัญชีที่คุณใช้ที่อื่นเพื่อให้ผู้คนค้นหาคุณได้ทุกที่",
-  "SETTINGS_CONNECTIONS_NOT_CONNECTED_LABEL": "ยังไม่ได้เพิ่ม",
-  "SETTINGS_CONNECTIONS_CONNECT_BUTTON": "เพิ่ม",
   "SETTINGS_CONNECTIONS_REMOVE_BUTTON": "ลบ {platform}",
   "SETTINGS_CONNECTIONS_ERROR_UPDATE": "ไม่สามารถอัปเดตลิงก์โซเชียลได้ กรุณาลองอีกครั้ง",
   "SETTINGS_CONNECTIONS_TOAST_ADDED": "เพิ่มลิงก์ {platform} แล้ว!",

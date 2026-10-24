@@ -1525,8 +1525,6 @@
   "SETTINGS_BLOCKED_ERROR_UNBLOCK": "Неуспешно отблокиране на потребителя. Моля, опитайте отново.",
   "SETTINGS_CONNECTIONS_HEADING": "Социални връзки",
   "SETTINGS_CONNECTIONS_DESCRIPTION": "Добавете връзки към акаунтите, които използвате другаде, за да могат хората да ви намират навсякъде.",
-  "SETTINGS_CONNECTIONS_NOT_CONNECTED_LABEL": "Не е добавено",
-  "SETTINGS_CONNECTIONS_CONNECT_BUTTON": "Добавяне",
   "SETTINGS_CONNECTIONS_REMOVE_BUTTON": "Премахване на {platform}",
   "SETTINGS_CONNECTIONS_ERROR_UPDATE": "Неуспешно обновяване на социалните връзки. Моля, опитайте отново.",
   "SETTINGS_CONNECTIONS_TOAST_ADDED": "Връзката към {platform} е добавена!",

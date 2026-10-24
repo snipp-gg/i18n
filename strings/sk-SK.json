@@ -1525,8 +1525,6 @@
   "SETTINGS_BLOCKED_ERROR_UNBLOCK": "Nepodarilo sa odblokovať používateľa. Skús to znova.",
   "SETTINGS_CONNECTIONS_HEADING": "Sociálne odkazy",
   "SETTINGS_CONNECTIONS_DESCRIPTION": "Pridaj odkazy na účty, ktoré používaš inde, aby ťa ľudia našli všade.",
-  "SETTINGS_CONNECTIONS_NOT_CONNECTED_LABEL": "Nepridané",
-  "SETTINGS_CONNECTIONS_CONNECT_BUTTON": "Pridať",
   "SETTINGS_CONNECTIONS_REMOVE_BUTTON": "Odstrániť {platform}",
   "SETTINGS_CONNECTIONS_ERROR_UPDATE": "Nepodarilo sa aktualizovať sociálne odkazy. Skús to znova.",
   "SETTINGS_CONNECTIONS_TOAST_ADDED": "Odkaz na {platform} pridaný!",

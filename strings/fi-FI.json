@@ -1525,8 +1525,6 @@
   "SETTINGS_BLOCKED_ERROR_UNBLOCK": "Käyttäjän eston poisto epäonnistui. Yritä uudelleen.",
   "SETTINGS_CONNECTIONS_HEADING": "Sosiaalisen median linkit",
   "SETTINGS_CONNECTIONS_DESCRIPTION": "Lisää linkkejä muualla käyttämiisi tileihin, jotta ihmiset löytävät sinut kaikkialta.",
-  "SETTINGS_CONNECTIONS_NOT_CONNECTED_LABEL": "Ei lisätty",
-  "SETTINGS_CONNECTIONS_CONNECT_BUTTON": "Lisää",
   "SETTINGS_CONNECTIONS_REMOVE_BUTTON": "Poista {platform}",
   "SETTINGS_CONNECTIONS_ERROR_UPDATE": "Sosiaalisen median linkkien päivitys epäonnistui. Yritä uudelleen.",
   "SETTINGS_CONNECTIONS_TOAST_ADDED": "{platform}-linkki lisätty!",

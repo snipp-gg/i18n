@@ -1525,8 +1525,6 @@
   "SETTINGS_BLOCKED_ERROR_UNBLOCK": "Neuspešno odblokiranje korisnika. Pokušajte ponovo.",
   "SETTINGS_CONNECTIONS_HEADING": "Društveni linkovi",
   "SETTINGS_CONNECTIONS_DESCRIPTION": "Dodajte linkove ka nalozima koje koristite drugde kako bi vas ljudi mogli pronaći svuda.",
-  "SETTINGS_CONNECTIONS_NOT_CONNECTED_LABEL": "Nije dodato",
-  "SETTINGS_CONNECTIONS_CONNECT_BUTTON": "Dodaj",
   "SETTINGS_CONNECTIONS_REMOVE_BUTTON": "Ukloni {platform}",
   "SETTINGS_CONNECTIONS_ERROR_UPDATE": "Neuspešno ažuriranje društvenih linkova. Pokušajte ponovo.",
   "SETTINGS_CONNECTIONS_TOAST_ADDED": "{platform} link dodat!",

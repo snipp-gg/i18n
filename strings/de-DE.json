@@ -1525,8 +1525,6 @@
   "SETTINGS_BLOCKED_ERROR_UNBLOCK": "Nutzer konnte nicht entsperrt werden. Bitte versuche es erneut.",
   "SETTINGS_CONNECTIONS_HEADING": "Social-Media-Links",
   "SETTINGS_CONNECTIONS_DESCRIPTION": "Füge Links zu den Konten hinzu, die du anderswo nutzt, damit dich andere überall finden können.",
-  "SETTINGS_CONNECTIONS_NOT_CONNECTED_LABEL": "Nicht hinzugefügt",
-  "SETTINGS_CONNECTIONS_CONNECT_BUTTON": "Hinzufügen",
   "SETTINGS_CONNECTIONS_REMOVE_BUTTON": "{platform} entfernen",
   "SETTINGS_CONNECTIONS_ERROR_UPDATE": "Social-Media-Links konnten nicht aktualisiert werden. Bitte versuche es erneut.",
   "SETTINGS_CONNECTIONS_TOAST_ADDED": "{platform}-Link hinzugefügt!",

@@ -1525,8 +1525,6 @@
   "SETTINGS_BLOCKED_ERROR_UNBLOCK": "Не удалось разблокировать пользователя. Попробуйте ещё раз.",
   "SETTINGS_CONNECTIONS_HEADING": "Ссылки на соцсети",
   "SETTINGS_CONNECTIONS_DESCRIPTION": "Добавьте ссылки на учётные записи, которые вы используете в других местах, чтобы вас могли найти везде.",
-  "SETTINGS_CONNECTIONS_NOT_CONNECTED_LABEL": "Не добавлено",
-  "SETTINGS_CONNECTIONS_CONNECT_BUTTON": "Добавить",
   "SETTINGS_CONNECTIONS_REMOVE_BUTTON": "Удалить {platform}",
   "SETTINGS_CONNECTIONS_ERROR_UPDATE": "Не удалось обновить ссылки на соцсети. Попробуйте ещё раз.",
   "SETTINGS_CONNECTIONS_TOAST_ADDED": "Ссылка {platform} добавлена!",

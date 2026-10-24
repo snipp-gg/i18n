@@ -1525,8 +1525,6 @@
   "SETTINGS_BLOCKED_ERROR_UNBLOCK": "Falha ao desbloquear utilizador. Por favor tente novamente.",
   "SETTINGS_CONNECTIONS_HEADING": "Links Sociais",
   "SETTINGS_CONNECTIONS_DESCRIPTION": "Adicione links para as contas que usa noutros lugares para que as pessoas o possam encontrar em todo o lado.",
-  "SETTINGS_CONNECTIONS_NOT_CONNECTED_LABEL": "Não adicionado",
-  "SETTINGS_CONNECTIONS_CONNECT_BUTTON": "Adicionar",
   "SETTINGS_CONNECTIONS_REMOVE_BUTTON": "Remover {platform}",
   "SETTINGS_CONNECTIONS_ERROR_UPDATE": "Falha ao atualizar links sociais. Por favor tente novamente.",
   "SETTINGS_CONNECTIONS_TOAST_ADDED": "Link {platform} adicionado!",

@@ -1525,8 +1525,6 @@
   "SETTINGS_BLOCKED_ERROR_UNBLOCK": "Nu s-a putut debloca utilizatorul. Te rugăm să încerci din nou.",
   "SETTINGS_CONNECTIONS_HEADING": "Linkuri sociale",
   "SETTINGS_CONNECTIONS_DESCRIPTION": "Adaugă linkuri către conturile pe care le folosești în altă parte, ca oamenii să te poată găsi oriunde.",
-  "SETTINGS_CONNECTIONS_NOT_CONNECTED_LABEL": "Neadăugat",
-  "SETTINGS_CONNECTIONS_CONNECT_BUTTON": "Adaugă",
   "SETTINGS_CONNECTIONS_REMOVE_BUTTON": "Elimină {platform}",
   "SETTINGS_CONNECTIONS_ERROR_UPDATE": "Nu s-au putut actualiza linkurile sociale. Te rugăm să încerci din nou.",
   "SETTINGS_CONNECTIONS_TOAST_ADDED": "Link {platform} adăugat!",

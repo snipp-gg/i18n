@@ -1525,8 +1525,6 @@
   "SETTINGS_BLOCKED_ERROR_UNBLOCK": "उपयोगकर्ता को अनब्लॉक करने में विफल। कृपया दोबारा कोशिश करें।",
   "SETTINGS_CONNECTIONS_HEADING": "सोशल लिंक",
   "SETTINGS_CONNECTIONS_DESCRIPTION": "अन्य जगहों पर आप जिन अकाउंट्स का उपयोग करते हैं उनके लिंक जोड़ें ताकि लोग आपको हर जगह ढूंढ सकें।",
-  "SETTINGS_CONNECTIONS_NOT_CONNECTED_LABEL": "जोड़ा नहीं गया",
-  "SETTINGS_CONNECTIONS_CONNECT_BUTTON": "जोड़ें",
   "SETTINGS_CONNECTIONS_REMOVE_BUTTON": "{platform} हटाएं",
   "SETTINGS_CONNECTIONS_ERROR_UPDATE": "सोशल लिंक अपडेट करने में विफल। कृपया दोबारा कोशिश करें।",
   "SETTINGS_CONNECTIONS_TOAST_ADDED": "{platform} लिंक जोड़ दिया गया!",
