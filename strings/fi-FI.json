@@ -314,6 +314,7 @@
   "USER_ID_MENU_COPY_BUTTON": "Kopioi käyttäjätunnus",
   "MODAL_EDIT_POST_TOAST_UPDATED": "Julkaisu päivitetty onnistuneesti!",
   "MODAL_EDIT_POST_TOAST_LINK_UPDATE_FAILED": "Jakolinkin päivitys epäonnistui. Yritä uudelleen.",
+  "COMMON_EDIT": "Muokkaa",
   "COMMON_EDIT_POST": "Muokkaa julkaisua",
   "COMMON_POST_TITLE": "Julkaisun otsikko",
   "MODAL_EDIT_POST_DESCRIPTION_LABEL": "Julkaisun kuvaus",

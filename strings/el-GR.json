@@ -314,6 +314,7 @@
   "USER_ID_MENU_COPY_BUTTON": "Αντιγραφή Αναγνωριστικού Χρήστη",
   "MODAL_EDIT_POST_TOAST_UPDATED": "Η ανάρτηση ενημερώθηκε επιτυχώς!",
   "MODAL_EDIT_POST_TOAST_LINK_UPDATE_FAILED": "Αποτυχία ενημέρωσης συνδέσμου κοινοποίησης. Παρακαλούμε δοκιμάστε ξανά.",
+  "COMMON_EDIT": "Επεξεργασία",
   "COMMON_EDIT_POST": "Επεξεργασία Ανάρτησης",
   "COMMON_POST_TITLE": "Τίτλος Ανάρτησης",
   "MODAL_EDIT_POST_DESCRIPTION_LABEL": "Περιγραφή Ανάρτησης",

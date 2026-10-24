@@ -314,6 +314,7 @@
   "USER_ID_MENU_COPY_BUTTON": "Benutzer-ID Kopieren",
   "MODAL_EDIT_POST_TOAST_UPDATED": "Beitrag erfolgreich aktualisiert!",
   "MODAL_EDIT_POST_TOAST_LINK_UPDATE_FAILED": "Freigabelink konnte nicht aktualisiert werden. Bitte versuche es erneut.",
+  "COMMON_EDIT": "Bearbeiten",
   "COMMON_EDIT_POST": "Beitrag Bearbeiten",
   "COMMON_POST_TITLE": "Beitragstitel",
   "MODAL_EDIT_POST_DESCRIPTION_LABEL": "Beitragsbeschreibung",

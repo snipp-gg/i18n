@@ -314,6 +314,7 @@
   "USER_ID_MENU_COPY_BUTTON": "Kopiuj ID Użytkownika",
   "MODAL_EDIT_POST_TOAST_UPDATED": "Post został zaktualizowany!",
   "MODAL_EDIT_POST_TOAST_LINK_UPDATE_FAILED": "Nie udało się zaktualizować linku. Spróbuj ponownie.",
+  "COMMON_EDIT": "Edytuj",
   "COMMON_EDIT_POST": "Edytuj Post",
   "COMMON_POST_TITLE": "Tytuł Posta",
   "MODAL_EDIT_POST_DESCRIPTION_LABEL": "Opis Posta",

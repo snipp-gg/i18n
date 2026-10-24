@@ -314,6 +314,7 @@
   "USER_ID_MENU_COPY_BUTTON": "Kopírovať ID používateľa",
   "MODAL_EDIT_POST_TOAST_UPDATED": "Príspevok úspešne aktualizovaný!",
   "MODAL_EDIT_POST_TOAST_LINK_UPDATE_FAILED": "Nepodarilo sa aktualizovať odkaz na zdieľanie. Skús to znova.",
+  "COMMON_EDIT": "Upraviť",
   "COMMON_EDIT_POST": "Upraviť príspevok",
   "COMMON_POST_TITLE": "Názov príspevku",
   "MODAL_EDIT_POST_DESCRIPTION_LABEL": "Popis príspevku",

@@ -314,6 +314,7 @@
   "USER_ID_MENU_COPY_BUTTON": "Sao chép ID người dùng",
   "MODAL_EDIT_POST_TOAST_UPDATED": "Đã cập nhật bài đăng thành công!",
   "MODAL_EDIT_POST_TOAST_LINK_UPDATE_FAILED": "Không thể cập nhật liên kết chia sẻ. Vui lòng thử lại.",
+  "COMMON_EDIT": "Chỉnh sửa",
   "COMMON_EDIT_POST": "Chỉnh sửa bài đăng",
   "COMMON_POST_TITLE": "Tiêu đề bài đăng",
   "MODAL_EDIT_POST_DESCRIPTION_LABEL": "Mô tả bài đăng",

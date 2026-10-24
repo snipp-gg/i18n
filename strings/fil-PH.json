@@ -314,6 +314,7 @@
   "USER_ID_MENU_COPY_BUTTON": "Kopyahin ang User ID",
   "MODAL_EDIT_POST_TOAST_UPDATED": "Matagumpay na na-update ang post!",
   "MODAL_EDIT_POST_TOAST_LINK_UPDATE_FAILED": "Hindi na-update ang share link. Subukan ulit.",
+  "COMMON_EDIT": "I-edit",
   "COMMON_EDIT_POST": "I-edit ang Post",
   "COMMON_POST_TITLE": "Pamagat ng Post",
   "MODAL_EDIT_POST_DESCRIPTION_LABEL": "Paglalarawan ng Post",

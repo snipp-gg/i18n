@@ -314,6 +314,7 @@
   "USER_ID_MENU_COPY_BUTTON": "คัดลอก User ID",
   "MODAL_EDIT_POST_TOAST_UPDATED": "อัปเดตโพสต์สำเร็จ!",
   "MODAL_EDIT_POST_TOAST_LINK_UPDATE_FAILED": "ไม่สามารถอัปเดตลิงก์แชร์ได้ กรุณาลองอีกครั้ง",
+  "COMMON_EDIT": "แก้ไข",
   "COMMON_EDIT_POST": "แก้ไขโพสต์",
   "COMMON_POST_TITLE": "ชื่อโพสต์",
   "MODAL_EDIT_POST_DESCRIPTION_LABEL": "คำอธิบายโพสต์",

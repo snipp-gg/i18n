@@ -314,6 +314,7 @@
   "USER_ID_MENU_COPY_BUTTON": "Kopiraj ID korisnika",
   "MODAL_EDIT_POST_TOAST_UPDATED": "Objava uspešno ažurirana!",
   "MODAL_EDIT_POST_TOAST_LINK_UPDATE_FAILED": "Neuspešno ažuriranje linka za deljenje. Pokušajte ponovo.",
+  "COMMON_EDIT": "Izmeni",
   "COMMON_EDIT_POST": "Izmeni objavu",
   "COMMON_POST_TITLE": "Naslov objave",
   "MODAL_EDIT_POST_DESCRIPTION_LABEL": "Opis objave",

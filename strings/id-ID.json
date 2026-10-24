@@ -314,6 +314,7 @@
   "USER_ID_MENU_COPY_BUTTON": "Salin ID Pengguna",
   "MODAL_EDIT_POST_TOAST_UPDATED": "Postingan berhasil diperbarui!",
   "MODAL_EDIT_POST_TOAST_LINK_UPDATE_FAILED": "Gagal memperbarui tautan berbagi. Silakan coba lagi.",
+  "COMMON_EDIT": "Edit",
   "COMMON_EDIT_POST": "Edit Postingan",
   "COMMON_POST_TITLE": "Judul Postingan",
   "MODAL_EDIT_POST_DESCRIPTION_LABEL": "Deskripsi Postingan",

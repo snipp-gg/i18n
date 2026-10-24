@@ -314,6 +314,7 @@
   "USER_ID_MENU_COPY_BUTTON": "ユーザーIDをコピー",
   "MODAL_EDIT_POST_TOAST_UPDATED": "投稿を更新しました！",
   "MODAL_EDIT_POST_TOAST_LINK_UPDATE_FAILED": "共有リンクの更新に失敗しました。もう一度お試しください。",
+  "COMMON_EDIT": "編集",
   "COMMON_EDIT_POST": "投稿を編集",
   "COMMON_POST_TITLE": "投稿タイトル",
   "MODAL_EDIT_POST_DESCRIPTION_LABEL": "投稿の説明",

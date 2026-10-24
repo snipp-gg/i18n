@@ -314,6 +314,7 @@
   "USER_ID_MENU_COPY_BUTTON": "Копіювати ID користувача",
   "MODAL_EDIT_POST_TOAST_UPDATED": "Допис успішно оновлено!",
   "MODAL_EDIT_POST_TOAST_LINK_UPDATE_FAILED": "Не вдалося оновити посилання для спільного доступу. Спробуйте ще раз.",
+  "COMMON_EDIT": "Редагувати",
   "COMMON_EDIT_POST": "Редагувати допис",
   "COMMON_POST_TITLE": "Назва допису",
   "MODAL_EDIT_POST_DESCRIPTION_LABEL": "Опис допису",

@@ -314,6 +314,7 @@
   "USER_ID_MENU_COPY_BUTTON": "Копировать ID пользователя",
   "MODAL_EDIT_POST_TOAST_UPDATED": "Пост успешно обновлён!",
   "MODAL_EDIT_POST_TOAST_LINK_UPDATE_FAILED": "Не удалось обновить ссылку для общего доступа. Попробуйте ещё раз.",
+  "COMMON_EDIT": "Редактировать",
   "COMMON_EDIT_POST": "Редактировать пост",
   "COMMON_POST_TITLE": "Заголовок поста",
   "MODAL_EDIT_POST_DESCRIPTION_LABEL": "Описание поста",

@@ -314,6 +314,7 @@
   "USER_ID_MENU_COPY_BUTTON": "User ID कॉपी करें",
   "MODAL_EDIT_POST_TOAST_UPDATED": "पोस्ट सफलतापूर्वक अपडेट हो गई!",
   "MODAL_EDIT_POST_TOAST_LINK_UPDATE_FAILED": "शेयर लिंक अपडेट करने में विफल रहे। कृपया दोबारा कोशिश करें।",
+  "COMMON_EDIT": "एडिट करें",
   "COMMON_EDIT_POST": "पोस्ट एडिट करें",
   "COMMON_POST_TITLE": "पोस्ट टाइटल",
   "MODAL_EDIT_POST_DESCRIPTION_LABEL": "पोस्ट डिस्क्रिप्शन",

@@ -314,6 +314,7 @@
   "USER_ID_MENU_COPY_BUTTON": "Kopírovat ID uživatele",
   "MODAL_EDIT_POST_TOAST_UPDATED": "Příspěvek úspěšně aktualizován!",
   "MODAL_EDIT_POST_TOAST_LINK_UPDATE_FAILED": "Nepodařilo se aktualizovat odkaz pro sdílení. Zkuste to prosím znovu.",
+  "COMMON_EDIT": "Upravit",
   "COMMON_EDIT_POST": "Upravit příspěvek",
   "COMMON_POST_TITLE": "Název příspěvku",
   "MODAL_EDIT_POST_DESCRIPTION_LABEL": "Popis příspěvku",

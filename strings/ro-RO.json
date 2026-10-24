@@ -314,6 +314,7 @@
   "USER_ID_MENU_COPY_BUTTON": "Copiază ID-ul de utilizator",
   "MODAL_EDIT_POST_TOAST_UPDATED": "Postare actualizată cu succes!",
   "MODAL_EDIT_POST_TOAST_LINK_UPDATE_FAILED": "Nu s-a putut actualiza linkul de distribuire. Te rugăm să încerci din nou.",
+  "COMMON_EDIT": "Editează",
   "COMMON_EDIT_POST": "Editează postarea",
   "COMMON_POST_TITLE": "Titlul postării",
   "MODAL_EDIT_POST_DESCRIPTION_LABEL": "Descrierea postării",

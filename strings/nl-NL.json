@@ -314,6 +314,7 @@
   "USER_ID_MENU_COPY_BUTTON": "Gebruikers-ID kopiëren",
   "MODAL_EDIT_POST_TOAST_UPDATED": "Post succesvol bijgewerkt!",
   "MODAL_EDIT_POST_TOAST_LINK_UPDATE_FAILED": "Deellink bijwerken mislukt. Probeer het opnieuw.",
+  "COMMON_EDIT": "Bewerken",
   "COMMON_EDIT_POST": "Post bewerken",
   "COMMON_POST_TITLE": "Posttitel",
   "MODAL_EDIT_POST_DESCRIPTION_LABEL": "Postbeschrijving",

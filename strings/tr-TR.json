@@ -314,6 +314,7 @@
   "USER_ID_MENU_COPY_BUTTON": "Kullanıcı Kimliğini Kopyala",
   "MODAL_EDIT_POST_TOAST_UPDATED": "Gönderi başarıyla güncellendi!",
   "MODAL_EDIT_POST_TOAST_LINK_UPDATE_FAILED": "Paylaşım bağlantısı güncellenemedi. Lütfen tekrar deneyin.",
+  "COMMON_EDIT": "Düzenle",
   "COMMON_EDIT_POST": "Gönderiyi Düzenle",
   "COMMON_POST_TITLE": "Gönderi Başlığı",
   "MODAL_EDIT_POST_DESCRIPTION_LABEL": "Gönderi Açıklaması",

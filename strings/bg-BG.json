@@ -314,6 +314,7 @@
   "USER_ID_MENU_COPY_BUTTON": "Копиране на потребителско ID",
   "MODAL_EDIT_POST_TOAST_UPDATED": "Публикацията е обновена успешно!",
   "MODAL_EDIT_POST_TOAST_LINK_UPDATE_FAILED": "Неуспешно обновяване на връзката за споделяне. Моля, опитайте отново.",
+  "COMMON_EDIT": "Редактиране",
   "COMMON_EDIT_POST": "Редактиране на публикацията",
   "COMMON_POST_TITLE": "Заглавие на публикацията",
   "MODAL_EDIT_POST_DESCRIPTION_LABEL": "Описание на публикацията",

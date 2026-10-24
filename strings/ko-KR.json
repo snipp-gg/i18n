@@ -314,6 +314,7 @@
   "USER_ID_MENU_COPY_BUTTON": "사용자 ID 복사",
   "MODAL_EDIT_POST_TOAST_UPDATED": "게시물이 업데이트되었습니다!",
   "MODAL_EDIT_POST_TOAST_LINK_UPDATE_FAILED": "공유 링크를 업데이트하지 못했습니다. 다시 시도해 주세요.",
+  "COMMON_EDIT": "수정",
   "COMMON_EDIT_POST": "게시물 수정",
   "COMMON_POST_TITLE": "게시물 제목",
   "MODAL_EDIT_POST_DESCRIPTION_LABEL": "게시물 설명",

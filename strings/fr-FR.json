@@ -314,6 +314,7 @@
   "USER_ID_MENU_COPY_BUTTON": "Copier l'ID utilisateur",
   "MODAL_EDIT_POST_TOAST_UPDATED": "Post mis à jour avec succès !",
   "MODAL_EDIT_POST_TOAST_LINK_UPDATE_FAILED": "Échec de la mise à jour du lien de partage. Veuillez réessayer.",
+  "COMMON_EDIT": "Modifier",
   "COMMON_EDIT_POST": "Modifier le post",
   "COMMON_POST_TITLE": "Titre du post",
   "MODAL_EDIT_POST_DESCRIPTION_LABEL": "Description du post",
