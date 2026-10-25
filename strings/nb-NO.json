@@ -2203,7 +2203,7 @@
   "UPLOAD_ONBOARDING_TOOLS_WINDOWS": "For Windows",
   "UPLOAD_ONBOARDING_TOOLS_MAC": "For Mac",
   "UPLOAD_ONBOARDING_TOOLS_SETUP_BUTTON": "Sett opp {app}",
-  "UPLOAD_ONBOARDING_TOOLS_APPS_HINT": "Sjekk Innstillinger -> Apper for å komme i gang",
+  "UPLOAD_ONBOARDING_TOOLS_APPS_HINT": "Sjekk {apps} for å komme i gang",
   "UPLOAD_ONBOARDING_DONE_TITLE": "Du er klar!",
   "UPLOAD_ONBOARDING_DONE_DESC": "Begynn å laste opp og dele øyeblikkene dine.",
   "UPLOAD_ONBOARDING_THEME_TITLE": "Velg temaet ditt",

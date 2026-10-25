@@ -2203,7 +2203,7 @@
   "UPLOAD_ONBOARDING_TOOLS_WINDOWS": "Za Windows",
   "UPLOAD_ONBOARDING_TOOLS_MAC": "Za Mac",
   "UPLOAD_ONBOARDING_TOOLS_SETUP_BUTTON": "Podesi {app}",
-  "UPLOAD_ONBOARDING_TOOLS_APPS_HINT": "Proverite Podešavanja -> Aplikacije da biste počeli",
+  "UPLOAD_ONBOARDING_TOOLS_APPS_HINT": "Proverite {apps} da biste počeli",
   "UPLOAD_ONBOARDING_DONE_TITLE": "Sve je spremno!",
   "UPLOAD_ONBOARDING_DONE_DESC": "Počnite da otpremate i delite svoje trenutke.",
   "UPLOAD_ONBOARDING_THEME_TITLE": "Izaberite svoju temu",

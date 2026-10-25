@@ -2203,7 +2203,7 @@
   "UPLOAD_ONBOARDING_TOOLS_WINDOWS": "För Windows",
   "UPLOAD_ONBOARDING_TOOLS_MAC": "För Mac",
   "UPLOAD_ONBOARDING_TOOLS_SETUP_BUTTON": "Ställ in {app}",
-  "UPLOAD_ONBOARDING_TOOLS_APPS_HINT": "Kolla Inställningar -> Appar för att komma igång",
+  "UPLOAD_ONBOARDING_TOOLS_APPS_HINT": "Kolla {apps} för att komma igång",
   "UPLOAD_ONBOARDING_DONE_TITLE": "Du är redo!",
   "UPLOAD_ONBOARDING_DONE_DESC": "Börja ladda upp och dela dina ögonblick.",
   "UPLOAD_ONBOARDING_THEME_TITLE": "Välj ditt tema",

@@ -2203,7 +2203,7 @@
   "UPLOAD_ONBOARDING_TOOLS_WINDOWS": "Pentru Windows",
   "UPLOAD_ONBOARDING_TOOLS_MAC": "Pentru Mac",
   "UPLOAD_ONBOARDING_TOOLS_SETUP_BUTTON": "Configurează {app}",
-  "UPLOAD_ONBOARDING_TOOLS_APPS_HINT": "Verifică Setări -> Aplicații pentru a începe",
+  "UPLOAD_ONBOARDING_TOOLS_APPS_HINT": "Verifică {apps} pentru a începe",
   "UPLOAD_ONBOARDING_DONE_TITLE": "Ești gata de drum!",
   "UPLOAD_ONBOARDING_DONE_DESC": "Începe să încarci și să distribui momentele tale.",
   "UPLOAD_ONBOARDING_THEME_TITLE": "Alege-ți tema",

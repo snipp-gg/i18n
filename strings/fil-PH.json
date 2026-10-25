@@ -2203,7 +2203,7 @@
   "UPLOAD_ONBOARDING_TOOLS_WINDOWS": "Para sa Windows",
   "UPLOAD_ONBOARDING_TOOLS_MAC": "Para sa Mac",
   "UPLOAD_ONBOARDING_TOOLS_SETUP_BUTTON": "I-set up ang {app}",
-  "UPLOAD_ONBOARDING_TOOLS_APPS_HINT": "Tingnan ang Settings -> Mga App para magsimula",
+  "UPLOAD_ONBOARDING_TOOLS_APPS_HINT": "Tingnan ang {apps} para magsimula",
   "UPLOAD_ONBOARDING_DONE_TITLE": "Handa ka na!",
   "UPLOAD_ONBOARDING_DONE_DESC": "Magsimulang mag-upload at magbahagi ng iyong mga sandali.",
   "UPLOAD_ONBOARDING_THEME_TITLE": "Piliin ang iyong tema",

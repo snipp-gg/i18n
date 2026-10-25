@@ -2203,7 +2203,7 @@
   "UPLOAD_ONBOARDING_TOOLS_WINDOWS": "Dla Windows",
   "UPLOAD_ONBOARDING_TOOLS_MAC": "Dla Mac",
   "UPLOAD_ONBOARDING_TOOLS_SETUP_BUTTON": "Skonfiguruj {app}",
-  "UPLOAD_ONBOARDING_TOOLS_APPS_HINT": "Przejdź do Ustawienia -> Aplikacje, aby zacząć",
+  "UPLOAD_ONBOARDING_TOOLS_APPS_HINT": "Przejdź do {apps}, aby zacząć",
   "UPLOAD_ONBOARDING_DONE_TITLE": "Wszystko gotowe!",
   "UPLOAD_ONBOARDING_DONE_DESC": "Zacznij przesyłać i udostępniać swoje chwile.",
   "UPLOAD_ONBOARDING_THEME_TITLE": "Wybierz motyw",

@@ -2203,7 +2203,7 @@
   "UPLOAD_ONBOARDING_TOOLS_WINDOWS": "Voor Windows",
   "UPLOAD_ONBOARDING_TOOLS_MAC": "Voor Mac",
   "UPLOAD_ONBOARDING_TOOLS_SETUP_BUTTON": "{app} instellen",
-  "UPLOAD_ONBOARDING_TOOLS_APPS_HINT": "Bekijk Instellingen -> Apps om aan de slag te gaan",
+  "UPLOAD_ONBOARDING_TOOLS_APPS_HINT": "Bekijk {apps} om aan de slag te gaan",
   "UPLOAD_ONBOARDING_DONE_TITLE": "Je bent helemaal klaar!",
   "UPLOAD_ONBOARDING_DONE_DESC": "Begin met uploaden en deel je momenten.",
   "UPLOAD_ONBOARDING_THEME_TITLE": "Kies je thema",

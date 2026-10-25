@@ -2203,7 +2203,7 @@
   "UPLOAD_ONBOARDING_TOOLS_WINDOWS": "Cho Windows",
   "UPLOAD_ONBOARDING_TOOLS_MAC": "Cho Mac",
   "UPLOAD_ONBOARDING_TOOLS_SETUP_BUTTON": "Thiết lập {app}",
-  "UPLOAD_ONBOARDING_TOOLS_APPS_HINT": "Kiểm tra Cài đặt -> Ứng dụng để bắt đầu",
+  "UPLOAD_ONBOARDING_TOOLS_APPS_HINT": "Kiểm tra {apps} để bắt đầu",
   "UPLOAD_ONBOARDING_DONE_TITLE": "Bạn đã sẵn sàng!",
   "UPLOAD_ONBOARDING_DONE_DESC": "Bắt đầu tải lên và chia sẻ những khoảnh khắc của bạn.",
   "UPLOAD_ONBOARDING_THEME_TITLE": "Chọn màu nhấn của bạn",

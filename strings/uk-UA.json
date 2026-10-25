@@ -2203,7 +2203,7 @@
   "UPLOAD_ONBOARDING_TOOLS_WINDOWS": "Для Windows",
   "UPLOAD_ONBOARDING_TOOLS_MAC": "Для Mac",
   "UPLOAD_ONBOARDING_TOOLS_SETUP_BUTTON": "Налаштувати {app}",
-  "UPLOAD_ONBOARDING_TOOLS_APPS_HINT": "Перевірте Налаштування -> Застосунки, щоб почати",
+  "UPLOAD_ONBOARDING_TOOLS_APPS_HINT": "Перевірте {apps}, щоб почати",
   "UPLOAD_ONBOARDING_DONE_TITLE": "Усе готово!",
   "UPLOAD_ONBOARDING_DONE_DESC": "Починайте завантажувати та ділитися своїми моментами.",
   "UPLOAD_ONBOARDING_THEME_TITLE": "Виберіть свою тему",

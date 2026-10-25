@@ -2203,7 +2203,7 @@
   "UPLOAD_ONBOARDING_TOOLS_WINDOWS": "Για Windows",
   "UPLOAD_ONBOARDING_TOOLS_MAC": "Για Mac",
   "UPLOAD_ONBOARDING_TOOLS_SETUP_BUTTON": "Ρύθμιση του {app}",
-  "UPLOAD_ONBOARDING_TOOLS_APPS_HINT": "Μεταβείτε στις Ρυθμίσεις -> Εφαρμογές για να ξεκινήσετε",
+  "UPLOAD_ONBOARDING_TOOLS_APPS_HINT": "Μεταβείτε στις {apps} για να ξεκινήσετε",
   "UPLOAD_ONBOARDING_DONE_TITLE": "Όλα είναι έτοιμα!",
   "UPLOAD_ONBOARDING_DONE_DESC": "Ξεκινήστε να ανεβάζετε και να μοιράζεστε τις στιγμές σας.",
   "UPLOAD_ONBOARDING_THEME_TITLE": "Επιλέξτε το θέμα σας",

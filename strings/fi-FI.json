@@ -2203,7 +2203,7 @@
   "UPLOAD_ONBOARDING_TOOLS_WINDOWS": "Windowsille",
   "UPLOAD_ONBOARDING_TOOLS_MAC": "Macille",
   "UPLOAD_ONBOARDING_TOOLS_SETUP_BUTTON": "Määritä {app}",
-  "UPLOAD_ONBOARDING_TOOLS_APPS_HINT": "Tarkista Asetukset -> Sovellukset päästäksesi alkuun",
+  "UPLOAD_ONBOARDING_TOOLS_APPS_HINT": "Tarkista {apps} päästäksesi alkuun",
   "UPLOAD_ONBOARDING_DONE_TITLE": "Kaikki valmista!",
   "UPLOAD_ONBOARDING_DONE_DESC": "Aloita lataaminen ja hetkiesi jakaminen.",
   "UPLOAD_ONBOARDING_THEME_TITLE": "Valitse teemasi",

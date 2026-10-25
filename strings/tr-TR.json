@@ -2203,7 +2203,7 @@
   "UPLOAD_ONBOARDING_TOOLS_WINDOWS": "Windows için",
   "UPLOAD_ONBOARDING_TOOLS_MAC": "Mac için",
   "UPLOAD_ONBOARDING_TOOLS_SETUP_BUTTON": "{app} kurulumunu yap",
-  "UPLOAD_ONBOARDING_TOOLS_APPS_HINT": "Başlamak için Ayarlar -> Uygulamalar bölümüne bakın",
+  "UPLOAD_ONBOARDING_TOOLS_APPS_HINT": "Başlamak için {apps} bölümüne bakın",
   "UPLOAD_ONBOARDING_DONE_TITLE": "Her şey hazır!",
   "UPLOAD_ONBOARDING_DONE_DESC": "Anlarınızı yüklemeye ve paylaşmaya başlayın.",
   "UPLOAD_ONBOARDING_THEME_TITLE": "Temanızı seçin",

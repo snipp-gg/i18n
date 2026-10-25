@@ -2203,7 +2203,7 @@
   "UPLOAD_ONBOARDING_TOOLS_WINDOWS": "Para Windows",
   "UPLOAD_ONBOARDING_TOOLS_MAC": "Para Mac",
   "UPLOAD_ONBOARDING_TOOLS_SETUP_BUTTON": "Configurar {app}",
-  "UPLOAD_ONBOARDING_TOOLS_APPS_HINT": "Ve a Ajustes -> Aplicaciones para empezar",
+  "UPLOAD_ONBOARDING_TOOLS_APPS_HINT": "Ve a {apps} para empezar",
   "UPLOAD_ONBOARDING_DONE_TITLE": "¡Todo listo!",
   "UPLOAD_ONBOARDING_DONE_DESC": "Empieza a subir y compartir tus momentos.",
   "UPLOAD_ONBOARDING_THEME_TITLE": "Elige tu tema",

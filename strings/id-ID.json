@@ -2203,7 +2203,7 @@
   "UPLOAD_ONBOARDING_TOOLS_WINDOWS": "Untuk Windows",
   "UPLOAD_ONBOARDING_TOOLS_MAC": "Untuk Mac",
   "UPLOAD_ONBOARDING_TOOLS_SETUP_BUTTON": "Siapkan {app}",
-  "UPLOAD_ONBOARDING_TOOLS_APPS_HINT": "Periksa Pengaturan -> Aplikasi untuk memulai",
+  "UPLOAD_ONBOARDING_TOOLS_APPS_HINT": "Periksa {apps} untuk memulai",
   "UPLOAD_ONBOARDING_DONE_TITLE": "Anda siap!",
   "UPLOAD_ONBOARDING_DONE_DESC": "Mulai mengunggah dan membagikan momen Anda.",
   "UPLOAD_ONBOARDING_THEME_TITLE": "Pilih tema Anda",

@@ -2203,7 +2203,7 @@
   "UPLOAD_ONBOARDING_TOOLS_WINDOWS": "Pre Windows",
   "UPLOAD_ONBOARDING_TOOLS_MAC": "Pre Mac",
   "UPLOAD_ONBOARDING_TOOLS_SETUP_BUTTON": "Nastaviť {app}",
-  "UPLOAD_ONBOARDING_TOOLS_APPS_HINT": "Pozri si Nastavenia -> Aplikácie a začni",
+  "UPLOAD_ONBOARDING_TOOLS_APPS_HINT": "Pozri si {apps} a začni",
   "UPLOAD_ONBOARDING_DONE_TITLE": "Všetko je pripravené!",
   "UPLOAD_ONBOARDING_DONE_DESC": "Začni nahrávať a zdieľať svoje momenty.",
   "UPLOAD_ONBOARDING_THEME_TITLE": "Vyber si tému",
