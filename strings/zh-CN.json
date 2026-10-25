@@ -1407,6 +1407,7 @@
   "POST_CONFIRM_REMOVE_FILE_HEADING": "移除文件",
   "POST_CONFIRM_REMOVE_FILE_BODY": "您确定要从相册中移除此文件吗？此操作无法撤销。",
   "POST_CONFIRM_DELETE_BODY": "您确定要删除此帖子吗？此操作无法撤销。",
+  "POST_CONFIRM_DELETE_COMMENT_BODY": "您确定要删除此评论吗？此操作无法撤销。",
   "POST_TOAST_ADD_FILES_FAILED": "添加文件失败。请重试。",
   "POST_TOAST_FILES_ADDED": "文件已添加！",
   "POST_TOAST_REMOVING_FILE": "正在移除文件...",

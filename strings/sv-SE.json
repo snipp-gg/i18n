@@ -1407,6 +1407,7 @@
   "POST_CONFIRM_REMOVE_FILE_HEADING": "Ta bort fil",
   "POST_CONFIRM_REMOVE_FILE_BODY": "Är du säker på att du vill ta bort den här filen från albumet? Den här åtgärden kan inte ångras.",
   "POST_CONFIRM_DELETE_BODY": "Är du säker på att du vill ta bort det här inlägget? Den här åtgärden kan inte ångras.",
+  "POST_CONFIRM_DELETE_COMMENT_BODY": "Är du säker på att du vill ta bort den här kommentaren? Den här åtgärden kan inte ångras.",
   "POST_TOAST_ADD_FILES_FAILED": "Kunde inte lägga till filer. Försök igen.",
   "POST_TOAST_FILES_ADDED": "Filer tillagda!",
   "POST_TOAST_REMOVING_FILE": "Tar bort fil...",

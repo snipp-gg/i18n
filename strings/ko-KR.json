@@ -1407,6 +1407,7 @@
   "POST_CONFIRM_REMOVE_FILE_HEADING": "파일 제거",
   "POST_CONFIRM_REMOVE_FILE_BODY": "이 파일을 앨범에서 제거하시겠습니까? 이 작업은 되돌릴 수 없습니다.",
   "POST_CONFIRM_DELETE_BODY": "이 게시물을 삭제하시겠습니까? 이 작업은 되돌릴 수 없습니다.",
+  "POST_CONFIRM_DELETE_COMMENT_BODY": "이 댓글을 삭제하시겠습니까? 이 작업은 되돌릴 수 없습니다.",
   "POST_TOAST_ADD_FILES_FAILED": "파일을 추가하지 못했습니다. 다시 시도해 주세요.",
   "POST_TOAST_FILES_ADDED": "파일이 추가되었습니다!",
   "POST_TOAST_REMOVING_FILE": "파일 제거 중...",

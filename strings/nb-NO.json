@@ -1407,6 +1407,7 @@
   "POST_CONFIRM_REMOVE_FILE_HEADING": "Fjern fil",
   "POST_CONFIRM_REMOVE_FILE_BODY": "Er du sikker på at du vil fjerne denne filen fra albumet? Denne handlingen kan ikke angres.",
   "POST_CONFIRM_DELETE_BODY": "Er du sikker på at du vil slette dette innlegget? Denne handlingen kan ikke angres.",
+  "POST_CONFIRM_DELETE_COMMENT_BODY": "Er du sikker på at du vil slette denne kommentaren? Denne handlingen kan ikke angres.",
   "POST_TOAST_ADD_FILES_FAILED": "Kunne ikke legge til filer. Prøv igjen.",
   "POST_TOAST_FILES_ADDED": "Filer lagt til!",
   "POST_TOAST_REMOVING_FILE": "Fjerner fil...",

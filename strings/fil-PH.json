@@ -1407,6 +1407,7 @@
   "POST_CONFIRM_REMOVE_FILE_HEADING": "Alisin ang File",
   "POST_CONFIRM_REMOVE_FILE_BODY": "Sigurado ka bang gusto mong alisin ang file na ito sa album? Hindi na maibabalik ang aksyong ito.",
   "POST_CONFIRM_DELETE_BODY": "Sigurado ka bang gusto mong burahin ang post na ito? Hindi na ito maaaring bawiin.",
+  "POST_CONFIRM_DELETE_COMMENT_BODY": "Sigurado ka bang gusto mong burahin ang komentong ito? Hindi na ito maaaring bawiin.",
   "POST_TOAST_ADD_FILES_FAILED": "Hindi naidagdag ang files. Subukan ulit.",
   "POST_TOAST_FILES_ADDED": "Naidagdag na ang files!",
   "POST_TOAST_REMOVING_FILE": "Inaalis ang file...",

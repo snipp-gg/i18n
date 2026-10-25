@@ -1407,6 +1407,7 @@
   "POST_CONFIRM_REMOVE_FILE_HEADING": "Hapus File",
   "POST_CONFIRM_REMOVE_FILE_BODY": "Yakin ingin menghapus file ini dari album? Tindakan ini tidak dapat dibatalkan.",
   "POST_CONFIRM_DELETE_BODY": "Yakin ingin menghapus postingan ini? Tindakan ini tidak dapat dibatalkan.",
+  "POST_CONFIRM_DELETE_COMMENT_BODY": "Yakin ingin menghapus komentar ini? Tindakan ini tidak dapat dibatalkan.",
   "POST_TOAST_ADD_FILES_FAILED": "Gagal menambahkan file. Silakan coba lagi.",
   "POST_TOAST_FILES_ADDED": "File ditambahkan!",
   "POST_TOAST_REMOVING_FILE": "Menghapus file...",

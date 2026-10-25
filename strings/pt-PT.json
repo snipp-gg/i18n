@@ -1407,6 +1407,7 @@
   "POST_CONFIRM_REMOVE_FILE_HEADING": "Remover Ficheiro",
   "POST_CONFIRM_REMOVE_FILE_BODY": "Tem a certeza que quer remover este ficheiro do álbum? Esta ação não pode ser desfeita.",
   "POST_CONFIRM_DELETE_BODY": "Tem a certeza que quer eliminar esta publicação? Esta ação não pode ser desfeita.",
+  "POST_CONFIRM_DELETE_COMMENT_BODY": "Tem a certeza que quer eliminar este comentário? Esta ação não pode ser desfeita.",
   "POST_TOAST_ADD_FILES_FAILED": "Falha ao adicionar ficheiros. Por favor tente novamente.",
   "POST_TOAST_FILES_ADDED": "Ficheiros adicionados!",
   "POST_TOAST_REMOVING_FILE": "A remover ficheiro...",

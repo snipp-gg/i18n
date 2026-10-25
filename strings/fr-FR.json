@@ -1407,6 +1407,7 @@
   "POST_CONFIRM_REMOVE_FILE_HEADING": "Retirer le fichier",
   "POST_CONFIRM_REMOVE_FILE_BODY": "Voulez-vous vraiment retirer ce fichier de l'album ? Cette action est irréversible.",
   "POST_CONFIRM_DELETE_BODY": "Voulez-vous vraiment supprimer cette publication ? Cette action est irréversible.",
+  "POST_CONFIRM_DELETE_COMMENT_BODY": "Voulez-vous vraiment supprimer ce commentaire ? Cette action est irréversible.",
   "POST_TOAST_ADD_FILES_FAILED": "Échec de l'ajout des fichiers. Veuillez réessayer.",
   "POST_TOAST_FILES_ADDED": "Fichiers ajoutés !",
   "POST_TOAST_REMOVING_FILE": "Retrait du fichier...",

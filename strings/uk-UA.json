@@ -1407,6 +1407,7 @@
   "POST_CONFIRM_REMOVE_FILE_HEADING": "Прибрати файл",
   "POST_CONFIRM_REMOVE_FILE_BODY": "Ви впевнені, що хочете прибрати цей файл з альбому? Цю дію не можна скасувати.",
   "POST_CONFIRM_DELETE_BODY": "Ви впевнені, що хочете видалити цей допис? Цю дію не можна скасувати.",
+  "POST_CONFIRM_DELETE_COMMENT_BODY": "Ви впевнені, що хочете видалити цей коментар? Цю дію не можна скасувати.",
   "POST_TOAST_ADD_FILES_FAILED": "Не вдалося додати файли. Спробуйте ще раз.",
   "POST_TOAST_FILES_ADDED": "Файли додано!",
   "POST_TOAST_REMOVING_FILE": "Прибирання файлу...",

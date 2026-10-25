@@ -1407,6 +1407,7 @@
   "POST_CONFIRM_REMOVE_FILE_HEADING": "ลบไฟล์",
   "POST_CONFIRM_REMOVE_FILE_BODY": "คุณแน่ใจหรือไม่ว่าต้องการลบไฟล์นี้ออกจากอัลบั้ม? การกระทำนี้ไม่สามารถยกเลิกได้",
   "POST_CONFIRM_DELETE_BODY": "คุณแน่ใจหรือไม่ว่าต้องการลบโพสต์นี้? การดำเนินการนี้ไม่สามารถยกเลิกได้",
+  "POST_CONFIRM_DELETE_COMMENT_BODY": "คุณแน่ใจหรือไม่ว่าต้องการลบความคิดเห็นนี้? การดำเนินการนี้ไม่สามารถยกเลิกได้",
   "POST_TOAST_ADD_FILES_FAILED": "ไม่สามารถเพิ่มไฟล์ได้ กรุณาลองอีกครั้ง",
   "POST_TOAST_FILES_ADDED": "เพิ่มไฟล์แล้ว!",
   "POST_TOAST_REMOVING_FILE": "กำลังลบไฟล์...",

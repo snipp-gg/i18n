@@ -1407,6 +1407,7 @@
   "POST_CONFIRM_REMOVE_FILE_HEADING": "Datei Entfernen",
   "POST_CONFIRM_REMOVE_FILE_BODY": "Möchtest du diese Datei wirklich aus dem Album entfernen? Diese Aktion kann nicht rückgängig gemacht werden.",
   "POST_CONFIRM_DELETE_BODY": "Möchtest du diesen Beitrag wirklich löschen? Diese Aktion kann nicht rückgängig gemacht werden.",
+  "POST_CONFIRM_DELETE_COMMENT_BODY": "Möchtest du diesen Kommentar wirklich löschen? Diese Aktion kann nicht rückgängig gemacht werden.",
   "POST_TOAST_ADD_FILES_FAILED": "Dateien konnten nicht hinzugefügt werden. Bitte versuche es erneut.",
   "POST_TOAST_FILES_ADDED": "Dateien hinzugefügt!",
   "POST_TOAST_REMOVING_FILE": "Datei wird entfernt...",

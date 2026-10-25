@@ -1407,6 +1407,7 @@
   "POST_CONFIRM_REMOVE_FILE_HEADING": "Dosyayı Kaldır",
   "POST_CONFIRM_REMOVE_FILE_BODY": "Bu dosyayı albümden kaldırmak istediğinizden emin misiniz? Bu işlem geri alınamaz.",
   "POST_CONFIRM_DELETE_BODY": "Bu gönderiyi silmek istediğinizden emin misiniz? Bu işlem geri alınamaz.",
+  "POST_CONFIRM_DELETE_COMMENT_BODY": "Bu yorumu silmek istediğinizden emin misiniz? Bu işlem geri alınamaz.",
   "POST_TOAST_ADD_FILES_FAILED": "Dosyalar eklenemedi. Lütfen tekrar deneyin.",
   "POST_TOAST_FILES_ADDED": "Dosyalar eklendi!",
   "POST_TOAST_REMOVING_FILE": "Dosya kaldırılıyor...",

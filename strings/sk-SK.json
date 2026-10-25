@@ -1407,6 +1407,7 @@
   "POST_CONFIRM_REMOVE_FILE_HEADING": "Odstrániť súbor",
   "POST_CONFIRM_REMOVE_FILE_BODY": "Naozaj chceš odstrániť tento súbor z albumu? Túto akciu nie je možné vrátiť späť.",
   "POST_CONFIRM_DELETE_BODY": "Naozaj chceš odstrániť tento príspevok? Túto akciu nie je možné vrátiť späť.",
+  "POST_CONFIRM_DELETE_COMMENT_BODY": "Naozaj chceš odstrániť tento komentár? Túto akciu nie je možné vrátiť späť.",
   "POST_TOAST_ADD_FILES_FAILED": "Nepodarilo sa pridať súbory. Skús to znova.",
   "POST_TOAST_FILES_ADDED": "Súbory pridané!",
   "POST_TOAST_REMOVING_FILE": "Odstraňuje sa súbor...",

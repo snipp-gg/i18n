@@ -1407,6 +1407,7 @@
   "POST_CONFIRM_REMOVE_FILE_HEADING": "फ़ाइल हटाएँ",
   "POST_CONFIRM_REMOVE_FILE_BODY": "क्या आप वाकई इस फ़ाइल को एल्बम से हटाना चाहते हैं? यह क्रिया वापस नहीं ली जा सकती।",
   "POST_CONFIRM_DELETE_BODY": "क्या आप वाकई इस पोस्ट को डिलीट करना चाहते हैं? यह क्रिया पूर्ववत नहीं की जा सकती।",
+  "POST_CONFIRM_DELETE_COMMENT_BODY": "क्या आप वाकई इस कमेंट को डिलीट करना चाहते हैं? यह क्रिया पूर्ववत नहीं की जा सकती।",
   "POST_TOAST_ADD_FILES_FAILED": "फ़ाइलें जोड़ने में विफल। कृपया दोबारा कोशिश करें।",
   "POST_TOAST_FILES_ADDED": "फ़ाइलें जोड़ दी गईं!",
   "POST_TOAST_REMOVING_FILE": "फ़ाइल हटाई जा रही है...",

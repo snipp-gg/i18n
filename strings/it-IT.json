@@ -1407,6 +1407,7 @@
   "POST_CONFIRM_REMOVE_FILE_HEADING": "Rimuovi file",
   "POST_CONFIRM_REMOVE_FILE_BODY": "Sei sicuro di voler rimuovere questo file dall'album? Questa azione non può essere annullata.",
   "POST_CONFIRM_DELETE_BODY": "Sei sicuro di voler eliminare questo post? Questa azione non può essere annullata.",
+  "POST_CONFIRM_DELETE_COMMENT_BODY": "Sei sicuro di voler eliminare questo commento? Questa azione non può essere annullata.",
   "POST_TOAST_ADD_FILES_FAILED": "Impossibile aggiungere i file. Riprova.",
   "POST_TOAST_FILES_ADDED": "File aggiunti!",
   "POST_TOAST_REMOVING_FILE": "Rimozione del file...",

@@ -1407,6 +1407,7 @@
   "POST_CONFIRM_REMOVE_FILE_HEADING": "Ukloni datoteku",
   "POST_CONFIRM_REMOVE_FILE_BODY": "Jesi li siguran da želiš ukloniti ovu datoteku iz albuma? Ova se radnja ne može poništiti.",
   "POST_CONFIRM_DELETE_BODY": "Jesi li siguran da želiš izbrisati ovu objavu? Ova se radnja ne može poništiti.",
+  "POST_CONFIRM_DELETE_COMMENT_BODY": "Jesi li siguran da želiš izbrisati ovaj komentar? Ova se radnja ne može poništiti.",
   "POST_TOAST_ADD_FILES_FAILED": "Dodavanje datoteka nije uspjelo. Pokušaj ponovno.",
   "POST_TOAST_FILES_ADDED": "Datoteke dodane!",
   "POST_TOAST_REMOVING_FILE": "Uklanjanje datoteke...",

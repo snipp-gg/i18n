@@ -1407,6 +1407,7 @@
   "POST_CONFIRM_REMOVE_FILE_HEADING": "Gỡ tệp",
   "POST_CONFIRM_REMOVE_FILE_BODY": "Bạn có chắc muốn gỡ tệp này khỏi album? Hành động này không thể hoàn tác.",
   "POST_CONFIRM_DELETE_BODY": "Bạn có chắc muốn xóa bài đăng này? Hành động này không thể hoàn tác.",
+  "POST_CONFIRM_DELETE_COMMENT_BODY": "Bạn có chắc muốn xóa bình luận này? Hành động này không thể hoàn tác.",
   "POST_TOAST_ADD_FILES_FAILED": "Không thể thêm tệp. Vui lòng thử lại.",
   "POST_TOAST_FILES_ADDED": "Đã thêm tệp!",
   "POST_TOAST_REMOVING_FILE": "Đang gỡ tệp...",

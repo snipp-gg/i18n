@@ -1407,6 +1407,7 @@
   "POST_CONFIRM_REMOVE_FILE_HEADING": "Remove File",
   "POST_CONFIRM_REMOVE_FILE_BODY": "Are you sure you want to remove this file from the album? This action cannot be undone.",
   "POST_CONFIRM_DELETE_BODY": "Are you sure you want to delete this post? This action cannot be undone.",
+  "POST_CONFIRM_DELETE_COMMENT_BODY": "Are you sure you want to delete this comment? This action cannot be undone.",
   "POST_TOAST_ADD_FILES_FAILED": "Failed to add files. Please try again.",
   "POST_TOAST_FILES_ADDED": "Files added!",
   "POST_TOAST_REMOVING_FILE": "Removing file...",

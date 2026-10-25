@@ -1407,6 +1407,7 @@
   "POST_CONFIRM_REMOVE_FILE_HEADING": "Убрать файл",
   "POST_CONFIRM_REMOVE_FILE_BODY": "Вы уверены, что хотите убрать этот файл из альбома? Это действие нельзя отменить.",
   "POST_CONFIRM_DELETE_BODY": "Вы уверены, что хотите удалить этот пост? Это действие нельзя отменить.",
+  "POST_CONFIRM_DELETE_COMMENT_BODY": "Вы уверены, что хотите удалить этот комментарий? Это действие нельзя отменить.",
   "POST_TOAST_ADD_FILES_FAILED": "Не удалось добавить файлы. Попробуйте ещё раз.",
   "POST_TOAST_FILES_ADDED": "Файлы добавлены!",
   "POST_TOAST_REMOVING_FILE": "Удаление файла...",

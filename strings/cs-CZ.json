@@ -1407,6 +1407,7 @@
   "POST_CONFIRM_REMOVE_FILE_HEADING": "Odebrat soubor",
   "POST_CONFIRM_REMOVE_FILE_BODY": "Opravdu chcete odebrat tento soubor z alba? Tuto akci nelze vrátit zpět.",
   "POST_CONFIRM_DELETE_BODY": "Opravdu chcete smazat tento příspěvek? Tuto akci nelze vrátit zpět.",
+  "POST_CONFIRM_DELETE_COMMENT_BODY": "Opravdu chcete smazat tento komentář? Tuto akci nelze vrátit zpět.",
   "POST_TOAST_ADD_FILES_FAILED": "Nepodařilo se přidat soubory. Zkuste to prosím znovu.",
   "POST_TOAST_FILES_ADDED": "Soubory přidány!",
   "POST_TOAST_REMOVING_FILE": "Odebírání souboru...",

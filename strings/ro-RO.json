@@ -1407,6 +1407,7 @@
   "POST_CONFIRM_REMOVE_FILE_HEADING": "Elimină fișierul",
   "POST_CONFIRM_REMOVE_FILE_BODY": "Sigur dorești să elimini acest fișier din album? Această acțiune nu poate fi anulată.",
   "POST_CONFIRM_DELETE_BODY": "Sigur dorești să ștergi această postare? Această acțiune nu poate fi anulată.",
+  "POST_CONFIRM_DELETE_COMMENT_BODY": "Sigur dorești să ștergi acest comentariu? Această acțiune nu poate fi anulată.",
   "POST_TOAST_ADD_FILES_FAILED": "Nu s-au putut adăuga fișierele. Te rugăm să încerci din nou.",
   "POST_TOAST_FILES_ADDED": "Fișiere adăugate!",
   "POST_TOAST_REMOVING_FILE": "Se elimină fișierul...",

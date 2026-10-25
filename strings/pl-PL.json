@@ -1407,6 +1407,7 @@
   "POST_CONFIRM_REMOVE_FILE_HEADING": "Usuń Plik",
   "POST_CONFIRM_REMOVE_FILE_BODY": "Czy na pewno chcesz usunąć ten plik z albumu? Tej czynności nie można cofnąć.",
   "POST_CONFIRM_DELETE_BODY": "Czy na pewno chcesz usunąć ten post? Tej akcji nie można cofnąć.",
+  "POST_CONFIRM_DELETE_COMMENT_BODY": "Czy na pewno chcesz usunąć ten komentarz? Tej akcji nie można cofnąć.",
   "POST_TOAST_ADD_FILES_FAILED": "Nie udało się dodać plików. Spróbuj ponownie.",
   "POST_TOAST_FILES_ADDED": "Pliki dodane!",
   "POST_TOAST_REMOVING_FILE": "Usuwanie pliku...",

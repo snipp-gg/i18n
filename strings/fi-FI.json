@@ -1407,6 +1407,7 @@
   "POST_CONFIRM_REMOVE_FILE_HEADING": "Poista tiedosto",
   "POST_CONFIRM_REMOVE_FILE_BODY": "Haluatko varmasti poistaa tämän tiedoston albumista? Tätä toimintoa ei voi peruuttaa.",
   "POST_CONFIRM_DELETE_BODY": "Haluatko varmasti poistaa tämän julkaisun? Tätä toimintoa ei voi peruuttaa.",
+  "POST_CONFIRM_DELETE_COMMENT_BODY": "Haluatko varmasti poistaa tämän kommentin? Tätä toimintoa ei voi peruuttaa.",
   "POST_TOAST_ADD_FILES_FAILED": "Tiedostojen lisäys epäonnistui. Yritä uudelleen.",
   "POST_TOAST_FILES_ADDED": "Tiedostot lisätty!",
   "POST_TOAST_REMOVING_FILE": "Poistetaan tiedostoa...",
