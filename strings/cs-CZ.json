@@ -2194,8 +2194,6 @@
   "UPLOAD_ONBOARDING_PASTE_KEY": "Ctrl",
   "UPLOAD_ONBOARDING_FILE_TYPES_TITLE": "Podporované typy souborů",
   "UPLOAD_ONBOARDING_FILE_TYPES_DESC": "Nahrávejte obrázky a videa v různých formátech.",
-  "UPLOAD_ONBOARDING_IMAGES_LABEL": "Obrázky",
-  "UPLOAD_ONBOARDING_VIDEOS_LABEL": "Videa",
   "UPLOAD_ONBOARDING_PER_FILE_LIMIT": "Až 50 MB na soubor",
   "UPLOAD_ONBOARDING_PRIVACY_TITLE": "Soukromé a bezpečné",
   "UPLOAD_ONBOARDING_PRIVACY_DESC": "Vaše nahrané soubory patří jen vám.",

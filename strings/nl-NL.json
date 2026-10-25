@@ -2194,8 +2194,6 @@
   "UPLOAD_ONBOARDING_PASTE_KEY": "Ctrl",
   "UPLOAD_ONBOARDING_FILE_TYPES_TITLE": "Ondersteunde bestandstypen",
   "UPLOAD_ONBOARDING_FILE_TYPES_DESC": "Upload afbeeldingen en video's in verschillende formaten.",
-  "UPLOAD_ONBOARDING_IMAGES_LABEL": "Afbeeldingen",
-  "UPLOAD_ONBOARDING_VIDEOS_LABEL": "Video's",
   "UPLOAD_ONBOARDING_PER_FILE_LIMIT": "Tot 50 MB per bestand",
   "UPLOAD_ONBOARDING_PRIVACY_TITLE": "Privé & veilig",
   "UPLOAD_ONBOARDING_PRIVACY_DESC": "Je uploads zijn alleen van jou.",

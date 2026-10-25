@@ -2194,8 +2194,6 @@
   "UPLOAD_ONBOARDING_PASTE_KEY": "Ctrl",
   "UPLOAD_ONBOARDING_FILE_TYPES_TITLE": "Tipuri de fișiere acceptate",
   "UPLOAD_ONBOARDING_FILE_TYPES_DESC": "Încarcă imagini și videoclipuri în diverse formate.",
-  "UPLOAD_ONBOARDING_IMAGES_LABEL": "Imagini",
-  "UPLOAD_ONBOARDING_VIDEOS_LABEL": "Videoclipuri",
   "UPLOAD_ONBOARDING_PER_FILE_LIMIT": "Până la 50 MB per fișier",
   "UPLOAD_ONBOARDING_PRIVACY_TITLE": "Privat și sigur",
   "UPLOAD_ONBOARDING_PRIVACY_DESC": "Încărcările tale sunt doar ale tale.",

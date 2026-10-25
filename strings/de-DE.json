@@ -2194,8 +2194,6 @@
   "UPLOAD_ONBOARDING_PASTE_KEY": "Strg",
   "UPLOAD_ONBOARDING_FILE_TYPES_TITLE": "Unterstützte Dateitypen",
   "UPLOAD_ONBOARDING_FILE_TYPES_DESC": "Lade Bilder und Videos in verschiedenen Formaten hoch.",
-  "UPLOAD_ONBOARDING_IMAGES_LABEL": "Bilder",
-  "UPLOAD_ONBOARDING_VIDEOS_LABEL": "Videos",
   "UPLOAD_ONBOARDING_PER_FILE_LIMIT": "Bis zu 50 MB pro Datei",
   "UPLOAD_ONBOARDING_PRIVACY_TITLE": "Privat & sicher",
   "UPLOAD_ONBOARDING_PRIVACY_DESC": "Deine Uploads gehören nur dir.",

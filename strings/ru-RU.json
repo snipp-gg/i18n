@@ -2194,8 +2194,6 @@
   "UPLOAD_ONBOARDING_PASTE_KEY": "Ctrl",
   "UPLOAD_ONBOARDING_FILE_TYPES_TITLE": "Поддерживаемые типы файлов",
   "UPLOAD_ONBOARDING_FILE_TYPES_DESC": "Загружайте изображения и видео в различных форматах.",
-  "UPLOAD_ONBOARDING_IMAGES_LABEL": "Изображения",
-  "UPLOAD_ONBOARDING_VIDEOS_LABEL": "Видео",
   "UPLOAD_ONBOARDING_PER_FILE_LIMIT": "До 50 МБ на файл",
   "UPLOAD_ONBOARDING_PRIVACY_TITLE": "Приватно и безопасно",
   "UPLOAD_ONBOARDING_PRIVACY_DESC": "Ваши загрузки принадлежат только вам.",

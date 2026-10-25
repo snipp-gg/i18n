@@ -2194,8 +2194,6 @@
   "UPLOAD_ONBOARDING_PASTE_KEY": "Ctrl",
   "UPLOAD_ONBOARDING_FILE_TYPES_TITLE": "ประเภทไฟล์ที่รองรับ",
   "UPLOAD_ONBOARDING_FILE_TYPES_DESC": "อัปโหลดรูปภาพและวิดีโอในรูปแบบต่างๆ",
-  "UPLOAD_ONBOARDING_IMAGES_LABEL": "รูปภาพ",
-  "UPLOAD_ONBOARDING_VIDEOS_LABEL": "วิดีโอ",
   "UPLOAD_ONBOARDING_PER_FILE_LIMIT": "สูงสุด 50 MB ต่อไฟล์",
   "UPLOAD_ONBOARDING_PRIVACY_TITLE": "ส่วนตัวและปลอดภัย",
   "UPLOAD_ONBOARDING_PRIVACY_DESC": "การอัปโหลดของคุณเป็นของคุณคนเดียว",

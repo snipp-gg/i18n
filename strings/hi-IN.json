@@ -2194,8 +2194,6 @@
   "UPLOAD_ONBOARDING_PASTE_KEY": "Ctrl",
   "UPLOAD_ONBOARDING_FILE_TYPES_TITLE": "सपोर्टेड फ़ाइल टाइप",
   "UPLOAD_ONBOARDING_FILE_TYPES_DESC": "विभिन्न फ़ॉर्मेट में इमेज और वीडियो अपलोड करें।",
-  "UPLOAD_ONBOARDING_IMAGES_LABEL": "इमेज",
-  "UPLOAD_ONBOARDING_VIDEOS_LABEL": "वीडियो",
   "UPLOAD_ONBOARDING_PER_FILE_LIMIT": "प्रति फ़ाइल 50 MB तक",
   "UPLOAD_ONBOARDING_PRIVACY_TITLE": "निजी और सुरक्षित",
   "UPLOAD_ONBOARDING_PRIVACY_DESC": "आपके अपलोड सिर्फ़ आपके हैं।",

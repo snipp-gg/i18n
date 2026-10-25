@@ -2194,8 +2194,6 @@
   "UPLOAD_ONBOARDING_PASTE_KEY": "Ctrl",
   "UPLOAD_ONBOARDING_FILE_TYPES_TITLE": "Tuetut tiedostotyypit",
   "UPLOAD_ONBOARDING_FILE_TYPES_DESC": "Lataa kuvia ja videoita eri muodoissa.",
-  "UPLOAD_ONBOARDING_IMAGES_LABEL": "Kuvat",
-  "UPLOAD_ONBOARDING_VIDEOS_LABEL": "Videot",
   "UPLOAD_ONBOARDING_PER_FILE_LIMIT": "Enintään 50 MB per tiedosto",
   "UPLOAD_ONBOARDING_PRIVACY_TITLE": "Yksityinen ja turvallinen",
   "UPLOAD_ONBOARDING_PRIVACY_DESC": "Latauksesi ovat yksin sinun.",

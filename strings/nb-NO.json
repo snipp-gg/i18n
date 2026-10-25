@@ -2194,8 +2194,6 @@
   "UPLOAD_ONBOARDING_PASTE_KEY": "Ctrl",
   "UPLOAD_ONBOARDING_FILE_TYPES_TITLE": "Støttede filtyper",
   "UPLOAD_ONBOARDING_FILE_TYPES_DESC": "Last opp bilder og videoer i forskjellige formater.",
-  "UPLOAD_ONBOARDING_IMAGES_LABEL": "Bilder",
-  "UPLOAD_ONBOARDING_VIDEOS_LABEL": "Videoer",
   "UPLOAD_ONBOARDING_PER_FILE_LIMIT": "Opptil 50 MB per fil",
   "UPLOAD_ONBOARDING_PRIVACY_TITLE": "Privat og sikkert",
   "UPLOAD_ONBOARDING_PRIVACY_DESC": "Opplastingene dine er kun dine.",
