@@ -383,7 +383,7 @@
   "EDITOR_TAP_HEADING": "Tap to choose a file to edit",
   "EDITOR_DROP_HINT": "Images and videos, edited on your device",
   "EDITOR_CHOOSE_FROM_GALLERY": "Choose from your gallery",
-  "EDITOR_GALLERY_PICKER_HEADING": "Your gallery",
+  "EDITOR_GALLERY_PICKER_HEADING": "Your Gallery",
   "EDITOR_GALLERY_PICKER_BODY": "Pick an image or clip to edit. Your original stays as it is.",
   "EDITOR_GALLERY_PICKER_EMPTY": "Nothing to edit yet. Images and clips you upload show up here.",
   "EDITOR_GALLERY_PICKER_LAYER_BODY": "Pick an image to add as a layer.",
