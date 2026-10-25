@@ -2190,6 +2190,7 @@
   "UPLOAD_ONBOARDING_CLICK_DESC": "Klik op het uploadgebied om door je bestanden te bladeren",
   "UPLOAD_ONBOARDING_PASTE_TITLE": "Plakken vanaf klembord",
   "UPLOAD_ONBOARDING_PASTE_DESC": "Druk op Ctrl+V (of Cmd+V) om je afbeeldingen te plakken",
+  "UPLOAD_ONBOARDING_PASTE_KEY": "Ctrl",
   "UPLOAD_ONBOARDING_FILE_TYPES_TITLE": "Ondersteunde bestandstypen",
   "UPLOAD_ONBOARDING_FILE_TYPES_DESC": "Upload afbeeldingen en video's in verschillende formaten.",
   "UPLOAD_ONBOARDING_IMAGES_LABEL": "Afbeeldingen",

@@ -2190,6 +2190,7 @@
   "UPLOAD_ONBOARDING_CLICK_DESC": "I-click ang upload area para mag-browse ng iyong mga file",
   "UPLOAD_ONBOARDING_PASTE_TITLE": "I-paste mula sa Clipboard",
   "UPLOAD_ONBOARDING_PASTE_DESC": "Pindutin ang Ctrl+V (o Cmd+V) para i-paste ang iyong larawan",
+  "UPLOAD_ONBOARDING_PASTE_KEY": "Ctrl",
   "UPLOAD_ONBOARDING_FILE_TYPES_TITLE": "Mga sinusuportahang file type",
   "UPLOAD_ONBOARDING_FILE_TYPES_DESC": "Mag-upload ng larawan at video sa iba't ibang format.",
   "UPLOAD_ONBOARDING_IMAGES_LABEL": "Mga Larawan",

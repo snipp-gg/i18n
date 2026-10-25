@@ -2190,6 +2190,7 @@
   "UPLOAD_ONBOARDING_CLICK_DESC": "Napsauta latausaluetta selataksesi tiedostojasi",
   "UPLOAD_ONBOARDING_PASTE_TITLE": "Liitä leikepöydältä",
   "UPLOAD_ONBOARDING_PASTE_DESC": "Paina Ctrl+V (tai Cmd+V) liittääksesi kuvasi",
+  "UPLOAD_ONBOARDING_PASTE_KEY": "Ctrl",
   "UPLOAD_ONBOARDING_FILE_TYPES_TITLE": "Tuetut tiedostotyypit",
   "UPLOAD_ONBOARDING_FILE_TYPES_DESC": "Lataa kuvia ja videoita eri muodoissa.",
   "UPLOAD_ONBOARDING_IMAGES_LABEL": "Kuvat",

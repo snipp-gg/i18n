@@ -2190,6 +2190,7 @@
   "UPLOAD_ONBOARDING_CLICK_DESC": "Κάντε κλικ στην περιοχή ανεβάσματος για περιήγηση στα αρχεία σας",
   "UPLOAD_ONBOARDING_PASTE_TITLE": "Επικόλληση από Πρόχειρο",
   "UPLOAD_ONBOARDING_PASTE_DESC": "Πατήστε Ctrl+V ή Cmd+V για επικόλληση εικόνων",
+  "UPLOAD_ONBOARDING_PASTE_KEY": "Ctrl",
   "UPLOAD_ONBOARDING_FILE_TYPES_TITLE": "Υποστηριζόμενοι τύποι αρχείων",
   "UPLOAD_ONBOARDING_FILE_TYPES_DESC": "Ανεβάστε εικόνες και βίντεο σε διάφορες μορφές.",
   "UPLOAD_ONBOARDING_IMAGES_LABEL": "Εικόνες",

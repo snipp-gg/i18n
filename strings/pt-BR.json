@@ -2190,6 +2190,7 @@
   "UPLOAD_ONBOARDING_CLICK_DESC": "Clique na área de envio para procurar seus arquivos",
   "UPLOAD_ONBOARDING_PASTE_TITLE": "Colar da área de transferência",
   "UPLOAD_ONBOARDING_PASTE_DESC": "Pressione Ctrl+V (ou Cmd+V) para colar suas imagens",
+  "UPLOAD_ONBOARDING_PASTE_KEY": "Ctrl",
   "UPLOAD_ONBOARDING_FILE_TYPES_TITLE": "Tipos de arquivo compatíveis",
   "UPLOAD_ONBOARDING_FILE_TYPES_DESC": "Envie imagens e vídeos em vários formatos.",
   "UPLOAD_ONBOARDING_IMAGES_LABEL": "Imagens",

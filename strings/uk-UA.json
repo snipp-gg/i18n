@@ -2190,6 +2190,7 @@
   "UPLOAD_ONBOARDING_CLICK_DESC": "Натисніть на область завантаження, щоб переглянути свої файли",
   "UPLOAD_ONBOARDING_PASTE_TITLE": "Вставити з буфера обміну",
   "UPLOAD_ONBOARDING_PASTE_DESC": "Натисніть Ctrl+V (або Cmd+V), щоб вставити свої зображення",
+  "UPLOAD_ONBOARDING_PASTE_KEY": "Ctrl",
   "UPLOAD_ONBOARDING_FILE_TYPES_TITLE": "Підтримувані типи файлів",
   "UPLOAD_ONBOARDING_FILE_TYPES_DESC": "Завантажуйте зображення та відео в різних форматах.",
   "UPLOAD_ONBOARDING_IMAGES_LABEL": "Зображення",

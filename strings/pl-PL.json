@@ -2190,6 +2190,7 @@
   "UPLOAD_ONBOARDING_CLICK_DESC": "Kliknij obszar przesyłania, aby przeglądać pliki",
   "UPLOAD_ONBOARDING_PASTE_TITLE": "Wklej ze schowka",
   "UPLOAD_ONBOARDING_PASTE_DESC": "Naciśnij Ctrl+V (lub Cmd+V), aby wkleić obrazy",
+  "UPLOAD_ONBOARDING_PASTE_KEY": "Ctrl",
   "UPLOAD_ONBOARDING_FILE_TYPES_TITLE": "Obsługiwane typy plików",
   "UPLOAD_ONBOARDING_FILE_TYPES_DESC": "Przesyłaj obrazy i filmy w różnych formatach.",
   "UPLOAD_ONBOARDING_IMAGES_LABEL": "Obrazy",

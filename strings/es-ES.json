@@ -2190,6 +2190,7 @@
   "UPLOAD_ONBOARDING_CLICK_DESC": "Haz clic en el área de subida para explorar tus archivos",
   "UPLOAD_ONBOARDING_PASTE_TITLE": "Pegar desde el portapapeles",
   "UPLOAD_ONBOARDING_PASTE_DESC": "Pulsa Ctrl+V (o Cmd+V) para pegar tus imágenes",
+  "UPLOAD_ONBOARDING_PASTE_KEY": "Ctrl",
   "UPLOAD_ONBOARDING_FILE_TYPES_TITLE": "Tipos de archivo compatibles",
   "UPLOAD_ONBOARDING_FILE_TYPES_DESC": "Sube imágenes y videos en varios formatos.",
   "UPLOAD_ONBOARDING_IMAGES_LABEL": "Imágenes",

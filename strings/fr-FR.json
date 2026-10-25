@@ -2190,6 +2190,7 @@
   "UPLOAD_ONBOARDING_CLICK_DESC": "Cliquez sur la zone d'envoi pour parcourir vos fichiers",
   "UPLOAD_ONBOARDING_PASTE_TITLE": "Coller depuis le presse-papiers",
   "UPLOAD_ONBOARDING_PASTE_DESC": "Appuyez sur Ctrl+V (ou Cmd+V) pour coller vos images",
+  "UPLOAD_ONBOARDING_PASTE_KEY": "Ctrl",
   "UPLOAD_ONBOARDING_FILE_TYPES_TITLE": "Types de fichiers pris en charge",
   "UPLOAD_ONBOARDING_FILE_TYPES_DESC": "Envoyez des images et des vidéos dans divers formats.",
   "UPLOAD_ONBOARDING_IMAGES_LABEL": "Images",

@@ -2190,6 +2190,7 @@
   "UPLOAD_ONBOARDING_CLICK_DESC": "अपनी फ़ाइलें ब्राउज़ करने के लिए अपलोड एरिया पर क्लिक करें",
   "UPLOAD_ONBOARDING_PASTE_TITLE": "क्लिपबोर्ड से पेस्ट करें",
   "UPLOAD_ONBOARDING_PASTE_DESC": "अपनी इमेज पेस्ट करने के लिए Ctrl+V (या Cmd+V) दबाएँ",
+  "UPLOAD_ONBOARDING_PASTE_KEY": "Ctrl",
   "UPLOAD_ONBOARDING_FILE_TYPES_TITLE": "सपोर्टेड फ़ाइल टाइप",
   "UPLOAD_ONBOARDING_FILE_TYPES_DESC": "विभिन्न फ़ॉर्मेट में इमेज और वीडियो अपलोड करें।",
   "UPLOAD_ONBOARDING_IMAGES_LABEL": "इमेज",

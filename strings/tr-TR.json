@@ -2190,6 +2190,7 @@
   "UPLOAD_ONBOARDING_CLICK_DESC": "Dosyalarınıza göz atmak için yükleme alanına tıklayın",
   "UPLOAD_ONBOARDING_PASTE_TITLE": "Panodan Yapıştır",
   "UPLOAD_ONBOARDING_PASTE_DESC": "Görsellerinizi yapıştırmak için Ctrl+V (veya Cmd+V) tuşlarına basın",
+  "UPLOAD_ONBOARDING_PASTE_KEY": "Ctrl",
   "UPLOAD_ONBOARDING_FILE_TYPES_TITLE": "Desteklenen dosya türleri",
   "UPLOAD_ONBOARDING_FILE_TYPES_DESC": "Görselleri ve videoları çeşitli biçimlerde yükleyin.",
   "UPLOAD_ONBOARDING_IMAGES_LABEL": "Görseller",

@@ -2190,6 +2190,7 @@
   "UPLOAD_ONBOARDING_CLICK_DESC": "アップロードエリアをクリックしてファイルを参照",
   "UPLOAD_ONBOARDING_PASTE_TITLE": "クリップボードから貼り付け",
   "UPLOAD_ONBOARDING_PASTE_DESC": "Ctrl+V（またはCmd+V）を押して画像を貼り付け",
+  "UPLOAD_ONBOARDING_PASTE_KEY": "Ctrl",
   "UPLOAD_ONBOARDING_FILE_TYPES_TITLE": "対応ファイル形式",
   "UPLOAD_ONBOARDING_FILE_TYPES_DESC": "さまざまな形式の画像や動画をアップロードできます。",
   "UPLOAD_ONBOARDING_IMAGES_LABEL": "画像",

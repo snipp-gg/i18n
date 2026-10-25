@@ -2190,6 +2190,7 @@
   "UPLOAD_ONBOARDING_CLICK_DESC": "Click the upload area to browse your files",
   "UPLOAD_ONBOARDING_PASTE_TITLE": "Paste from Clipboard",
   "UPLOAD_ONBOARDING_PASTE_DESC": "Press Ctrl+V (or Cmd+V) to paste your images",
+  "UPLOAD_ONBOARDING_PASTE_KEY": "Ctrl",
   "UPLOAD_ONBOARDING_FILE_TYPES_TITLE": "Supported file types",
   "UPLOAD_ONBOARDING_FILE_TYPES_DESC": "Upload images and videos in various formats.",
   "UPLOAD_ONBOARDING_IMAGES_LABEL": "Images",

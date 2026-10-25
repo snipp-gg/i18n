@@ -2190,6 +2190,7 @@
   "UPLOAD_ONBOARDING_CLICK_DESC": "Nhấp vào khu vực tải lên để duyệt tệp của bạn",
   "UPLOAD_ONBOARDING_PASTE_TITLE": "Dán từ bộ nhớ tạm",
   "UPLOAD_ONBOARDING_PASTE_DESC": "Nhấn Ctrl+V (hoặc Cmd+V) để dán hình ảnh của bạn",
+  "UPLOAD_ONBOARDING_PASTE_KEY": "Ctrl",
   "UPLOAD_ONBOARDING_FILE_TYPES_TITLE": "Các loại tệp được hỗ trợ",
   "UPLOAD_ONBOARDING_FILE_TYPES_DESC": "Tải lên hình ảnh và video ở nhiều định dạng khác nhau.",
   "UPLOAD_ONBOARDING_IMAGES_LABEL": "Hình ảnh",

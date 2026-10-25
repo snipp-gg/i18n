@@ -2190,6 +2190,7 @@
   "UPLOAD_ONBOARDING_CLICK_DESC": "Kliknite na oblast za otpremanje da pretražite svoje fajlove",
   "UPLOAD_ONBOARDING_PASTE_TITLE": "Nalepi iz klipborda",
   "UPLOAD_ONBOARDING_PASTE_DESC": "Pritisnite Ctrl+V (ili Cmd+V) da nalepite svoje slike",
+  "UPLOAD_ONBOARDING_PASTE_KEY": "Ctrl",
   "UPLOAD_ONBOARDING_FILE_TYPES_TITLE": "Podržani tipovi fajlova",
   "UPLOAD_ONBOARDING_FILE_TYPES_DESC": "Otpremite slike i video u raznim formatima.",
   "UPLOAD_ONBOARDING_IMAGES_LABEL": "Slike",

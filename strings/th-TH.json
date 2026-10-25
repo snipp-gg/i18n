@@ -2190,6 +2190,7 @@
   "UPLOAD_ONBOARDING_CLICK_DESC": "คลิกพื้นที่อัปโหลดเพื่อเรียกดูไฟล์ของคุณ",
   "UPLOAD_ONBOARDING_PASTE_TITLE": "วางจากคลิปบอร์ด",
   "UPLOAD_ONBOARDING_PASTE_DESC": "กด Ctrl+V (หรือ Cmd+V) เพื่อวางรูปภาพของคุณ",
+  "UPLOAD_ONBOARDING_PASTE_KEY": "Ctrl",
   "UPLOAD_ONBOARDING_FILE_TYPES_TITLE": "ประเภทไฟล์ที่รองรับ",
   "UPLOAD_ONBOARDING_FILE_TYPES_DESC": "อัปโหลดรูปภาพและวิดีโอในรูปแบบต่างๆ",
   "UPLOAD_ONBOARDING_IMAGES_LABEL": "รูปภาพ",

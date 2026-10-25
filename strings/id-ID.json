@@ -2190,6 +2190,7 @@
   "UPLOAD_ONBOARDING_CLICK_DESC": "Klik area unggah untuk menjelajahi file Anda",
   "UPLOAD_ONBOARDING_PASTE_TITLE": "Tempel dari Clipboard",
   "UPLOAD_ONBOARDING_PASTE_DESC": "Tekan Ctrl+V (atau Cmd+V) untuk menempel gambar Anda",
+  "UPLOAD_ONBOARDING_PASTE_KEY": "Ctrl",
   "UPLOAD_ONBOARDING_FILE_TYPES_TITLE": "Jenis file yang didukung",
   "UPLOAD_ONBOARDING_FILE_TYPES_DESC": "Unggah gambar dan video dalam berbagai format.",
   "UPLOAD_ONBOARDING_IMAGES_LABEL": "Gambar",

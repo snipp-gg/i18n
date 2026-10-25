@@ -2190,6 +2190,7 @@
   "UPLOAD_ONBOARDING_CLICK_DESC": "Clique na área de carregamento para navegar nos seus ficheiros",
   "UPLOAD_ONBOARDING_PASTE_TITLE": "Colar da Área de Transferência",
   "UPLOAD_ONBOARDING_PASTE_DESC": "Prima Ctrl+V (ou Cmd+V) para colar as suas imagens",
+  "UPLOAD_ONBOARDING_PASTE_KEY": "Ctrl",
   "UPLOAD_ONBOARDING_FILE_TYPES_TITLE": "Tipos de ficheiro suportados",
   "UPLOAD_ONBOARDING_FILE_TYPES_DESC": "Carregue imagens e vídeos em vários formatos.",
   "UPLOAD_ONBOARDING_IMAGES_LABEL": "Imagens",
