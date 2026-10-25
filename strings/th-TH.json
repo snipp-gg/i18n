@@ -2611,6 +2611,7 @@
   "SETTINGS_DOMAINS_STATUS_FAILED": "ล้มเหลว",
   "SETTINGS_DOMAINS_COPY_TARGET": "คัดลอกปลายทาง CNAME",
   "SETTINGS_DOMAINS_TOAST_TARGET_COPIED": "คัดลอกปลายทาง CNAME ไปยังคลิปบอร์ดแล้ว!",
+  "SETTINGS_DOMAINS_ERROR_TARGET_COPY": "ไม่สามารถคัดลอกปลายทาง CNAME ไปยังคลิปบอร์ดได้",
   "SETTINGS_DOMAINS_TOAST_ACTIVE": "{hostname} ใช้งานได้แล้ว!",
   "SETTINGS_DOMAINS_REMOVE_TITLE": "ลบโดเมน",
   "SETTINGS_DOMAINS_REMOVE_MESSAGE": "ลิงก์ที่แชร์ไปแล้วบน {hostname} จะหยุดทำงาน โพสต์ของคุณยังคงอยู่บน Snipp",
@@ -2645,6 +2646,7 @@
   "SETTINGS_DOMAINS_RECORD_TARGET": "ปลายทาง",
   "SETTINGS_DOMAINS_COPY_NAME": "คัดลอกชื่อระเบียน",
   "SETTINGS_DOMAINS_TOAST_NAME_COPIED": "คัดลอกชื่อระเบียนไปยังคลิปบอร์ดแล้ว!",
+  "SETTINGS_DOMAINS_ERROR_NAME_COPY": "ไม่สามารถคัดลอกชื่อระเบียนไปยังคลิปบอร์ดได้",
   "SETTINGS_DOMAINS_CLOUDFLARE_HINT": "ใช้ Cloudflare อยู่ใช่ไหม? ตั้งค่าระเบียนนี้เป็น DNS เท่านั้น (เมฆสีเทา) เพื่อให้ Snipp ยืนยันได้",
   "SUPPORT_CUSTOM_DOMAINS_OWN_ITEM_CLOUDFLARE": "หาก DNS ของคุณอยู่บน Cloudflare ให้ตั้งค่าระเบียนนั้นเป็น DNS เท่านั้น (เมฆสีเทา) เพื่อให้ Snipp ยืนยันได้"
 }
