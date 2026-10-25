@@ -2439,6 +2439,8 @@
   "NOTIFICATIONS_COMMENT_LIKE": "lajkuje váš komentář",
   "NOTIFICATIONS_COMMENT_LIKE_OTHERS": "a {count} dalších lajkují váš komentář",
   "NOTIFICATIONS_MENTION": "vás zmínil",
+  "NOTIFICATIONS_REPLYING_TO_POST": "Odpověď na váš příspěvek",
+  "NOTIFICATIONS_MENTIONED_YOU": "Zmínil vás",
   "NOTIFICATIONS_POST_SHARED": "sdílel s vámi příspěvek",
   "NOTIFICATIONS_POST_MODERATED": "Váš příspěvek byl odstraněn kvůli porušení pravidel.",
   "NOTIFICATIONS_POST_AUTO_MODERATED": "Naše ochranné mechanismy odstranily váš příspěvek. Občas se to stane i u bezpečných příspěvků. Kontaktujte podporu, aby ho posoudila.",

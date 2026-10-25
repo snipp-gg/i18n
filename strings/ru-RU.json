@@ -2439,6 +2439,8 @@
   "NOTIFICATIONS_COMMENT_LIKE": "лайкнул ваш комментарий",
   "NOTIFICATIONS_COMMENT_LIKE_OTHERS": "и ещё {count} человек лайкнули ваш комментарий",
   "NOTIFICATIONS_MENTION": "упомянул вас",
+  "NOTIFICATIONS_REPLYING_TO_POST": "В ответ на ваш пост",
+  "NOTIFICATIONS_MENTIONED_YOU": "Упомянул вас",
   "NOTIFICATIONS_POST_SHARED": "поделился с вами постом",
   "NOTIFICATIONS_POST_MODERATED": "Ваш пост был удалён за нарушение правил.",
   "NOTIFICATIONS_POST_AUTO_MODERATED": "Наши защитные механизмы удалили ваш пост. Иногда это происходит и с безопасными постами. Обратитесь в поддержку, чтобы его проверили.",

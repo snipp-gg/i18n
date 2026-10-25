@@ -2439,6 +2439,8 @@
   "NOTIFICATIONS_COMMENT_LIKE": "点赞了您的评论",
   "NOTIFICATIONS_COMMENT_LIKE_OTHERS": "和其他 {count} 人点赞了您的评论",
   "NOTIFICATIONS_MENTION": "提到了您",
+  "NOTIFICATIONS_REPLYING_TO_POST": "回复您的帖子",
+  "NOTIFICATIONS_MENTIONED_YOU": "提到了您",
   "NOTIFICATIONS_POST_SHARED": "与您分享了一条帖子",
   "NOTIFICATIONS_POST_MODERATED": "您的帖子因违反规则已被移除。",
   "NOTIFICATIONS_POST_AUTO_MODERATED": "我们的安全防护机制移除了您的帖子。这种情况有时也会发生在安全的帖子上。请联系客服进行审核。",

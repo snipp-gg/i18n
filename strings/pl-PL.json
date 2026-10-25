@@ -2439,6 +2439,8 @@
   "NOTIFICATIONS_COMMENT_LIKE": "polubił(a) Twój komentarz",
   "NOTIFICATIONS_COMMENT_LIKE_OTHERS": "i {count} innych polubiło Twój komentarz",
   "NOTIFICATIONS_MENTION": "wspomniał(a) o Tobie",
+  "NOTIFICATIONS_REPLYING_TO_POST": "W odpowiedzi na Twój post",
+  "NOTIFICATIONS_MENTIONED_YOU": "Wspomniał(a) o Tobie",
   "NOTIFICATIONS_POST_SHARED": "udostępnił(a) Ci post",
   "NOTIFICATIONS_POST_MODERATED": "Twój post został usunięty za złamanie zasad.",
   "NOTIFICATIONS_POST_AUTO_MODERATED": "Nasze zabezpieczenia usunęły Twój post. Czasami zdarza się to także w przypadku bezpiecznych postów. Skontaktuj się z zespołem wsparcia, aby poprosić o jego sprawdzenie.",

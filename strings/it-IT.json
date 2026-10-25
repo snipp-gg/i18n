@@ -2439,6 +2439,8 @@
   "NOTIFICATIONS_COMMENT_LIKE": "ha messo mi piace al tuo commento",
   "NOTIFICATIONS_COMMENT_LIKE_OTHERS": "e altre {count} persone hanno messo mi piace al tuo commento",
   "NOTIFICATIONS_MENTION": "ti ha menzionato",
+  "NOTIFICATIONS_REPLYING_TO_POST": "In risposta al tuo post",
+  "NOTIFICATIONS_MENTIONED_YOU": "Ti ha menzionato",
   "NOTIFICATIONS_POST_SHARED": "ha condiviso un post con te",
   "NOTIFICATIONS_POST_MODERATED": "Il tuo post è stato rimosso per violazione delle regole.",
   "NOTIFICATIONS_POST_AUTO_MODERATED": "I nostri sistemi di protezione hanno rimosso il tuo post. A volte succede anche con post sicuri. Contatta l'assistenza per farlo esaminare.",

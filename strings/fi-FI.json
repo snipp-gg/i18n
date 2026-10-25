@@ -2439,6 +2439,8 @@
   "NOTIFICATIONS_COMMENT_LIKE": "tykkäsi kommentistasi",
   "NOTIFICATIONS_COMMENT_LIKE_OTHERS": "ja {count} muuta tykkäsivät kommentistasi",
   "NOTIFICATIONS_MENTION": "mainitsi sinut",
+  "NOTIFICATIONS_REPLYING_TO_POST": "Vastaus julkaisuusi",
+  "NOTIFICATIONS_MENTIONED_YOU": "Mainitsi sinut",
   "NOTIFICATIONS_POST_SHARED": "jakoi julkaisun kanssasi",
   "NOTIFICATIONS_POST_MODERATED": "Julkaisusi poistettiin sääntöjen rikkomisen vuoksi.",
   "NOTIFICATIONS_POST_AUTO_MODERATED": "Suojausmekanismimme poistivat julkaisusi. Näin käy joskus myös turvallisille julkaisuille. Ota yhteyttä tukeen, jotta se tarkistetaan.",

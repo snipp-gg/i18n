@@ -2439,6 +2439,8 @@
   "NOTIFICATIONS_COMMENT_LIKE": "ți-a apreciat comentariul",
   "NOTIFICATIONS_COMMENT_LIKE_OTHERS": "și alte {count} persoane ți-au apreciat comentariul",
   "NOTIFICATIONS_MENTION": "te-a menționat",
+  "NOTIFICATIONS_REPLYING_TO_POST": "Răspuns la postarea ta",
+  "NOTIFICATIONS_MENTIONED_YOU": "Te-a menționat",
   "NOTIFICATIONS_POST_SHARED": "a distribuit o postare cu tine",
   "NOTIFICATIONS_POST_MODERATED": "Postarea ta a fost eliminată pentru încălcarea regulilor.",
   "NOTIFICATIONS_POST_AUTO_MODERATED": "Sistemele noastre de protecție ți-au eliminat postarea. Uneori se întâmplă și cu postări sigure. Contactează asistența pentru a fi verificată.",

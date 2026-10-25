@@ -2439,6 +2439,8 @@
   "NOTIFICATIONS_COMMENT_LIKE": "heeft je reactie geliket",
   "NOTIFICATIONS_COMMENT_LIKE_OTHERS": "en {count} anderen hebben je reactie geliket",
   "NOTIFICATIONS_MENTION": "heeft je vermeld",
+  "NOTIFICATIONS_REPLYING_TO_POST": "Reactie op je post",
+  "NOTIFICATIONS_MENTIONED_YOU": "Heeft je vermeld",
   "NOTIFICATIONS_POST_SHARED": "heeft een post met je gedeeld",
   "NOTIFICATIONS_POST_MODERATED": "Je post is verwijderd wegens overtreding van de regels.",
   "NOTIFICATIONS_POST_AUTO_MODERATED": "Onze beveiligingsmaatregelen hebben je post verwijderd. Dat gebeurt soms ook bij veilige posts. Neem contact op met support om deze te laten beoordelen.",

@@ -2439,6 +2439,8 @@
   "NOTIFICATIONS_COMMENT_LIKE": "liked your comment",
   "NOTIFICATIONS_COMMENT_LIKE_OTHERS": "and {count} others liked your comment",
   "NOTIFICATIONS_MENTION": "mentioned you",
+  "NOTIFICATIONS_REPLYING_TO_POST": "Replying to your post",
+  "NOTIFICATIONS_MENTIONED_YOU": "Mentioned you",
   "NOTIFICATIONS_POST_SHARED": "shared a post with you",
   "NOTIFICATIONS_POST_MODERATED": "Your post was removed for breaking the rules.",
   "NOTIFICATIONS_POST_AUTO_MODERATED": "Our safeguards removed your post. This sometimes happens with safe posts. Contact support to have it reviewed.",

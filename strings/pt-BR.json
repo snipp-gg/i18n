@@ -2439,6 +2439,8 @@
   "NOTIFICATIONS_COMMENT_LIKE": "curtiu seu comentário",
   "NOTIFICATIONS_COMMENT_LIKE_OTHERS": "e outras {count} pessoas curtiram seu comentário",
   "NOTIFICATIONS_MENTION": "mencionou você",
+  "NOTIFICATIONS_REPLYING_TO_POST": "Em resposta à sua publicação",
+  "NOTIFICATIONS_MENTIONED_YOU": "Mencionou você",
   "NOTIFICATIONS_POST_SHARED": "compartilhou uma publicação com você",
   "NOTIFICATIONS_POST_MODERATED": "Sua publicação foi removida por violar as regras.",
   "NOTIFICATIONS_POST_AUTO_MODERATED": "Nossos sistemas de proteção removeram sua publicação. Isso às vezes acontece com publicações seguras. Entre em contato com o suporte para que ela seja revisada.",

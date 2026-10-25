@@ -2439,6 +2439,8 @@
   "NOTIFICATIONS_COMMENT_LIKE": "hat deinen Kommentar geliked",
   "NOTIFICATIONS_COMMENT_LIKE_OTHERS": "und {count} weitere haben deinen Kommentar geliked",
   "NOTIFICATIONS_MENTION": "hat dich erwähnt",
+  "NOTIFICATIONS_REPLYING_TO_POST": "Antwort auf deinen Beitrag",
+  "NOTIFICATIONS_MENTIONED_YOU": "Hat dich erwähnt",
   "NOTIFICATIONS_POST_SHARED": "hat einen Beitrag mit dir geteilt",
   "NOTIFICATIONS_POST_MODERATED": "Dein Beitrag wurde wegen eines Regelverstoßes entfernt.",
   "NOTIFICATIONS_POST_AUTO_MODERATED": "Unsere Schutzmechanismen haben deinen Beitrag entfernt. Das passiert manchmal auch bei unbedenklichen Beiträgen. Wende dich an den Support, um ihn prüfen zu lassen.",

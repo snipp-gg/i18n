@@ -2439,6 +2439,8 @@
   "NOTIFICATIONS_COMMENT_LIKE": "je označio tvoj komentar sviđanjem",
   "NOTIFICATIONS_COMMENT_LIKE_OTHERS": "i još njih {count} označili su tvoj komentar sviđanjem",
   "NOTIFICATIONS_MENTION": "te je spomenuo",
+  "NOTIFICATIONS_REPLYING_TO_POST": "Odgovor na tvoju objavu",
+  "NOTIFICATIONS_MENTIONED_YOU": "Spomenuo te je",
   "NOTIFICATIONS_POST_SHARED": "je podijelio objavu s tobom",
   "NOTIFICATIONS_POST_MODERATED": "Tvoja je objava uklonjena zbog kršenja pravila.",
   "NOTIFICATIONS_POST_AUTO_MODERATED": "Naši zaštitni mehanizmi uklonili su tvoju objavu. To se ponekad dogodi i sa sigurnim objavama. Kontaktiraj podršku kako bi je pregledali.",

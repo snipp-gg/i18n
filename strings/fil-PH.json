@@ -2439,6 +2439,8 @@
   "NOTIFICATIONS_COMMENT_LIKE": "ay nag-like ng iyong komento",
   "NOTIFICATIONS_COMMENT_LIKE_OTHERS": "at {count} iba pa ay nag-like ng iyong komento",
   "NOTIFICATIONS_MENTION": "ay nag-mention sa iyo",
+  "NOTIFICATIONS_REPLYING_TO_POST": "Tumutugon sa iyong post",
+  "NOTIFICATIONS_MENTIONED_YOU": "Nag-mention sa iyo",
   "NOTIFICATIONS_POST_SHARED": "ay nagbahagi ng post sa iyo",
   "NOTIFICATIONS_POST_MODERATED": "Tinanggal ang iyong post dahil sa paglabag sa mga panuntunan.",
   "NOTIFICATIONS_POST_AUTO_MODERATED": "Tinanggal ng aming mga safeguard ang iyong post. Minsan nangyayari ito kahit sa mga ligtas na post. Makipag-ugnayan sa support para masuri ito.",

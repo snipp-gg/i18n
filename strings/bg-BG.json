@@ -2439,6 +2439,8 @@
   "NOTIFICATIONS_COMMENT_LIKE": "хареса коментара ви",
   "NOTIFICATIONS_COMMENT_LIKE_OTHERS": "и още {count} души харесаха коментара ви",
   "NOTIFICATIONS_MENTION": "ви спомена",
+  "NOTIFICATIONS_REPLYING_TO_POST": "В отговор на публикацията ви",
+  "NOTIFICATIONS_MENTIONED_YOU": "Спомена ви",
   "NOTIFICATIONS_POST_SHARED": "сподели публикация с вас",
   "NOTIFICATIONS_POST_MODERATED": "Публикацията ви беше премахната заради нарушение на правилата.",
   "NOTIFICATIONS_POST_AUTO_MODERATED": "Нашите защитни механизми премахнаха публикацията ви. Понякога това се случва и с безопасни публикации. Свържете се с поддръжката, за да бъде прегледана.",

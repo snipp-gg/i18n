@@ -2439,6 +2439,8 @@
   "NOTIFICATIONS_COMMENT_LIKE": "le ha dado me gusta a tu comentario",
   "NOTIFICATIONS_COMMENT_LIKE_OTHERS": "y otras {count} personas le han dado me gusta a tu comentario",
   "NOTIFICATIONS_MENTION": "te ha mencionado",
+  "NOTIFICATIONS_REPLYING_TO_POST": "En respuesta a tu publicación",
+  "NOTIFICATIONS_MENTIONED_YOU": "Te ha mencionado",
   "NOTIFICATIONS_POST_SHARED": "ha compartido una publicación contigo",
   "NOTIFICATIONS_POST_MODERATED": "Tu publicación se ha eliminado por incumplir las normas.",
   "NOTIFICATIONS_POST_AUTO_MODERATED": "Nuestros sistemas de protección han eliminado tu publicación. A veces ocurre con publicaciones seguras. Contacta con soporte para que la revisen.",

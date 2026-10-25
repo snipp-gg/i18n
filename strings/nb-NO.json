@@ -2439,6 +2439,8 @@
   "NOTIFICATIONS_COMMENT_LIKE": "likte kommentaren din",
   "NOTIFICATIONS_COMMENT_LIKE_OTHERS": "og {count} andre likte kommentaren din",
   "NOTIFICATIONS_MENTION": "nevnte deg",
+  "NOTIFICATIONS_REPLYING_TO_POST": "Svar på innlegget ditt",
+  "NOTIFICATIONS_MENTIONED_YOU": "Nevnte deg",
   "NOTIFICATIONS_POST_SHARED": "delte et innlegg med deg",
   "NOTIFICATIONS_POST_MODERATED": "Innlegget ditt ble fjernet for regelbrudd.",
   "NOTIFICATIONS_POST_AUTO_MODERATED": "Sikkerhetsmekanismene våre fjernet innlegget ditt. Dette skjer noen ganger med trygge innlegg også. Kontakt brukerstøtte for å få det vurdert.",

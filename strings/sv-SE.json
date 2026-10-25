@@ -2439,6 +2439,8 @@
   "NOTIFICATIONS_COMMENT_LIKE": "gillade din kommentar",
   "NOTIFICATIONS_COMMENT_LIKE_OTHERS": "och {count} andra gillade din kommentar",
   "NOTIFICATIONS_MENTION": "nämnde dig",
+  "NOTIFICATIONS_REPLYING_TO_POST": "Svar på ditt inlägg",
+  "NOTIFICATIONS_MENTIONED_YOU": "Nämnde dig",
   "NOTIFICATIONS_POST_SHARED": "delade ett inlägg med dig",
   "NOTIFICATIONS_POST_MODERATED": "Ditt inlägg togs bort för att det bröt mot reglerna.",
   "NOTIFICATIONS_POST_AUTO_MODERATED": "Våra skyddsmekanismer tog bort ditt inlägg. Det händer ibland även med säkra inlägg. Kontakta supporten för att få det granskat.",
