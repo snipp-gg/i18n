@@ -326,7 +326,6 @@
   "COMMON_SAVE": "保存",
   "MODAL_FILE_INFO_ERROR_NOT_FOUND": "未找到文件。",
   "COMMON_RETURN": "返回",
-  "COMMON_VIEW_ALBUM": "查看相册",
   "COMMON_VIEW_POST": "查看帖子",
   "COMMON_FETCHING_LINK": "正在获取链接...",
   "MODAL_FILE_INFO_DELETE_ALBUM_CONFIRM_BODY": "您确定要删除此相册吗？所有 {count} 个文件将被永久删除。此操作无法撤销。",

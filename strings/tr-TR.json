@@ -326,7 +326,6 @@
   "COMMON_SAVE": "Kaydet",
   "MODAL_FILE_INFO_ERROR_NOT_FOUND": "Dosya bulunamadı.",
   "COMMON_RETURN": "Geri Dön",
-  "COMMON_VIEW_ALBUM": "Albümü Görüntüle",
   "COMMON_VIEW_POST": "Gönderiyi Görüntüle",
   "COMMON_FETCHING_LINK": "Bağlantı getiriliyor...",
   "MODAL_FILE_INFO_DELETE_ALBUM_CONFIRM_BODY": "Bu gönderiyi silmek istediğinizden emin misiniz? {count} dosyanın tümü kalıcı olarak kaldırılacak. Bu işlem geri alınamaz.",

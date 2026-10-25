@@ -326,7 +326,6 @@
   "COMMON_SAVE": "सेव करें",
   "MODAL_FILE_INFO_ERROR_NOT_FOUND": "फ़ाइल नहीं मिली।",
   "COMMON_RETURN": "वापस जाएं",
-  "COMMON_VIEW_ALBUM": "एल्बम देखें",
   "COMMON_VIEW_POST": "पोस्ट देखें",
   "COMMON_FETCHING_LINK": "लिंक लाया जा रहा है...",
   "MODAL_FILE_INFO_DELETE_ALBUM_CONFIRM_BODY": "क्या आप वाकई इस पोस्ट को डिलीट करना चाहते हैं? सभी {count} फ़ाइलें स्थायी रूप से हटा दी जाएंगी। यह क्रिया पूर्ववत नहीं की जा सकती।",

@@ -326,7 +326,6 @@
   "COMMON_SAVE": "บันทึก",
   "MODAL_FILE_INFO_ERROR_NOT_FOUND": "ไม่พบไฟล์",
   "COMMON_RETURN": "กลับ",
-  "COMMON_VIEW_ALBUM": "ดูอัลบั้ม",
   "COMMON_VIEW_POST": "ดูโพสต์",
   "COMMON_FETCHING_LINK": "กำลังดึงลิงก์...",
   "MODAL_FILE_INFO_DELETE_ALBUM_CONFIRM_BODY": "คุณแน่ใจหรือไม่ว่าต้องการลบโพสต์นี้? ไฟล์ทั้งหมด {count} ไฟล์จะถูกลบอย่างถาวร การกระทำนี้ไม่สามารถยกเลิกได้",

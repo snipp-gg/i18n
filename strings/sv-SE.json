@@ -326,7 +326,6 @@
   "COMMON_SAVE": "Spara",
   "MODAL_FILE_INFO_ERROR_NOT_FOUND": "Filen hittades inte.",
   "COMMON_RETURN": "Tillbaka",
-  "COMMON_VIEW_ALBUM": "Visa album",
   "COMMON_VIEW_POST": "Visa inlägg",
   "COMMON_FETCHING_LINK": "Hämtar länk...",
   "MODAL_FILE_INFO_DELETE_ALBUM_CONFIRM_BODY": "Är du säker på att du vill radera det här inlägget? Alla {count} filer kommer att tas bort permanent. Den här åtgärden kan inte ångras.",

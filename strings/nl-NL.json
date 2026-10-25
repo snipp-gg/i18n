@@ -326,7 +326,6 @@
   "COMMON_SAVE": "Opslaan",
   "MODAL_FILE_INFO_ERROR_NOT_FOUND": "Bestand niet gevonden.",
   "COMMON_RETURN": "Terug",
-  "COMMON_VIEW_ALBUM": "Album bekijken",
   "COMMON_VIEW_POST": "Post bekijken",
   "COMMON_FETCHING_LINK": "Link ophalen...",
   "MODAL_FILE_INFO_DELETE_ALBUM_CONFIRM_BODY": "Weet je zeker dat je deze post wilt verwijderen? Alle {count} bestanden worden permanent verwijderd. Deze actie kan niet ongedaan worden gemaakt.",

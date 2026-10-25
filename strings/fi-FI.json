@@ -326,7 +326,6 @@
   "COMMON_SAVE": "Tallenna",
   "MODAL_FILE_INFO_ERROR_NOT_FOUND": "Tiedostoa ei löytynyt.",
   "COMMON_RETURN": "Palaa",
-  "COMMON_VIEW_ALBUM": "Näytä albumi",
   "COMMON_VIEW_POST": "Näytä julkaisu",
   "COMMON_FETCHING_LINK": "Haetaan linkkiä...",
   "MODAL_FILE_INFO_DELETE_ALBUM_CONFIRM_BODY": "Haluatko varmasti poistaa tämän julkaisun? Kaikki {count} tiedostoa poistetaan pysyvästi. Tätä toimintoa ei voi peruuttaa.",

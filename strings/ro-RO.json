@@ -326,7 +326,6 @@
   "COMMON_SAVE": "Salvează",
   "MODAL_FILE_INFO_ERROR_NOT_FOUND": "Fișierul nu a fost găsit.",
   "COMMON_RETURN": "Înapoi",
-  "COMMON_VIEW_ALBUM": "Vezi albumul",
   "COMMON_VIEW_POST": "Vezi postarea",
   "COMMON_FETCHING_LINK": "Se preia linkul...",
   "MODAL_FILE_INFO_DELETE_ALBUM_CONFIRM_BODY": "Sigur dorești să ștergi această postare? Toate cele {count} fișiere vor fi eliminate definitiv. Această acțiune nu poate fi anulată.",

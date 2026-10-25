@@ -326,7 +326,6 @@
   "COMMON_SAVE": "I-save",
   "MODAL_FILE_INFO_ERROR_NOT_FOUND": "Hindi nakita ang file.",
   "COMMON_RETURN": "Bumalik",
-  "COMMON_VIEW_ALBUM": "Tingnan ang Album",
   "COMMON_VIEW_POST": "Tingnan ang Post",
   "COMMON_FETCHING_LINK": "Kinukuha ang link...",
   "MODAL_FILE_INFO_DELETE_ALBUM_CONFIRM_BODY": "Sigurado ka bang gusto mong tanggalin ang post na ito? Permanenteng matatanggal ang lahat ng {count} files. Hindi na maibabalik ang aksyong ito.",

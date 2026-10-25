@@ -326,7 +326,6 @@
   "COMMON_SAVE": "Enregistrer",
   "MODAL_FILE_INFO_ERROR_NOT_FOUND": "Fichier introuvable.",
   "COMMON_RETURN": "Retour",
-  "COMMON_VIEW_ALBUM": "Voir l'album",
   "COMMON_VIEW_POST": "Voir le post",
   "COMMON_FETCHING_LINK": "Récupération du lien...",
   "MODAL_FILE_INFO_DELETE_ALBUM_CONFIRM_BODY": "Voulez-vous vraiment supprimer ce post ? Les {count} fichiers seront définitivement supprimés. Cette action est irréversible.",

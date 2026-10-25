@@ -326,7 +326,6 @@
   "COMMON_SAVE": "Uložiť",
   "MODAL_FILE_INFO_ERROR_NOT_FOUND": "Súbor sa nenašiel.",
   "COMMON_RETURN": "Späť",
-  "COMMON_VIEW_ALBUM": "Zobraziť album",
   "COMMON_VIEW_POST": "Zobraziť príspevok",
   "COMMON_FETCHING_LINK": "Načítava sa odkaz...",
   "MODAL_FILE_INFO_DELETE_ALBUM_CONFIRM_BODY": "Naozaj chceš odstrániť tento príspevok? Všetkých {count} súborov bude natrvalo odstránených. Túto akciu nie je možné vrátiť späť.",

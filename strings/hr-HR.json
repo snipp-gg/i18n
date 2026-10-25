@@ -326,7 +326,6 @@
   "COMMON_SAVE": "Spremi",
   "MODAL_FILE_INFO_ERROR_NOT_FOUND": "Datoteka nije pronađena.",
   "COMMON_RETURN": "Natrag",
-  "COMMON_VIEW_ALBUM": "Pregledaj album",
   "COMMON_VIEW_POST": "Pregledaj objavu",
   "COMMON_FETCHING_LINK": "Dohvaćanje poveznice...",
   "MODAL_FILE_INFO_DELETE_ALBUM_CONFIRM_BODY": "Jesi li siguran da želiš izbrisati ovu objavu? Svih {count} datoteka bit će trajno uklonjeno. Ova se radnja ne može poništiti.",

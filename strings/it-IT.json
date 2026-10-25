@@ -326,7 +326,6 @@
   "COMMON_SAVE": "Salva",
   "MODAL_FILE_INFO_ERROR_NOT_FOUND": "File non trovato.",
   "COMMON_RETURN": "Torna indietro",
-  "COMMON_VIEW_ALBUM": "Visualizza album",
   "COMMON_VIEW_POST": "Visualizza post",
   "COMMON_FETCHING_LINK": "Recupero del link...",
   "MODAL_FILE_INFO_DELETE_ALBUM_CONFIRM_BODY": "Sei sicuro di voler eliminare questo post? Tutti i {count} file verranno rimossi definitivamente. Questa azione non può essere annullata.",

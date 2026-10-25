@@ -326,7 +326,6 @@
   "COMMON_SAVE": "保存",
   "MODAL_FILE_INFO_ERROR_NOT_FOUND": "ファイルが見つかりません。",
   "COMMON_RETURN": "戻る",
-  "COMMON_VIEW_ALBUM": "アルバムを表示",
   "COMMON_VIEW_POST": "投稿を表示",
   "COMMON_FETCHING_LINK": "リンクを取得中...",
   "MODAL_FILE_INFO_DELETE_ALBUM_CONFIRM_BODY": "この投稿を削除してもよろしいですか？{count} 件すべてのファイルが完全に削除されます。この操作は取り消せません。",

@@ -326,7 +326,6 @@
   "COMMON_SAVE": "Сохранить",
   "MODAL_FILE_INFO_ERROR_NOT_FOUND": "Файл не найден.",
   "COMMON_RETURN": "Назад",
-  "COMMON_VIEW_ALBUM": "Открыть альбом",
   "COMMON_VIEW_POST": "Открыть пост",
   "COMMON_FETCHING_LINK": "Получение ссылки...",
   "MODAL_FILE_INFO_DELETE_ALBUM_CONFIRM_BODY": "Вы уверены, что хотите удалить этот пост? Все {count} файлов будут безвозвратно удалены. Это действие нельзя отменить.",

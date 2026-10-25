@@ -326,7 +326,6 @@
   "COMMON_SAVE": "Speichern",
   "MODAL_FILE_INFO_ERROR_NOT_FOUND": "Datei nicht gefunden.",
   "COMMON_RETURN": "Zurück",
-  "COMMON_VIEW_ALBUM": "Album Ansehen",
   "COMMON_VIEW_POST": "Beitrag Ansehen",
   "COMMON_FETCHING_LINK": "Link wird abgerufen...",
   "MODAL_FILE_INFO_DELETE_ALBUM_CONFIRM_BODY": "Möchtest du diesen Beitrag wirklich löschen? Alle {count} Dateien werden dauerhaft entfernt. Diese Aktion kann nicht rückgängig gemacht werden.",

@@ -326,7 +326,6 @@
   "COMMON_SAVE": "Αποθήκευση",
   "MODAL_FILE_INFO_ERROR_NOT_FOUND": "Το αρχείο δεν βρέθηκε.",
   "COMMON_RETURN": "Επιστροφή",
-  "COMMON_VIEW_ALBUM": "Προβολή Album",
   "COMMON_VIEW_POST": "Προβολή Ανάρτησης",
   "COMMON_FETCHING_LINK": "Λήψη συνδέσμου...",
   "MODAL_FILE_INFO_DELETE_ALBUM_CONFIRM_BODY": "Είστε σίγουροι ότι θέλετε να διαγράψετε αυτή την ανάρτηση; Όλα τα {count} αρχεία θα αφαιρεθούν μόνιμα. Αυτή η ενέργεια δεν μπορεί να αναιρεθεί.",

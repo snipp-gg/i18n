@@ -326,7 +326,6 @@
   "COMMON_SAVE": "Sačuvaj",
   "MODAL_FILE_INFO_ERROR_NOT_FOUND": "Fajl nije pronađen.",
   "COMMON_RETURN": "Nazad",
-  "COMMON_VIEW_ALBUM": "Pogledaj album",
   "COMMON_VIEW_POST": "Pogledaj objavu",
   "COMMON_FETCHING_LINK": "Učitavanje linka...",
   "MODAL_FILE_INFO_DELETE_ALBUM_CONFIRM_BODY": "Da li ste sigurni da želite da obrišete ovu objavu? Svih {count} fajlova biće trajno uklonjeno. Ova radnja se ne može poništiti.",

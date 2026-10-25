@@ -326,7 +326,6 @@
   "COMMON_SAVE": "Lagre",
   "MODAL_FILE_INFO_ERROR_NOT_FOUND": "Fil ikke funnet.",
   "COMMON_RETURN": "Tilbake",
-  "COMMON_VIEW_ALBUM": "Se album",
   "COMMON_VIEW_POST": "Se innlegg",
   "COMMON_FETCHING_LINK": "Henter lenke...",
   "MODAL_FILE_INFO_DELETE_ALBUM_CONFIRM_BODY": "Er du sikker på at du vil slette dette innlegget? Alle {count} filer vil bli fjernet permanent. Denne handlingen kan ikke angres.",

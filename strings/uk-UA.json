@@ -326,7 +326,6 @@
   "COMMON_SAVE": "Зберегти",
   "MODAL_FILE_INFO_ERROR_NOT_FOUND": "Файл не знайдено.",
   "COMMON_RETURN": "Повернутися",
-  "COMMON_VIEW_ALBUM": "Переглянути альбом",
   "COMMON_VIEW_POST": "Переглянути допис",
   "COMMON_FETCHING_LINK": "Отримання посилання...",
   "MODAL_FILE_INFO_DELETE_ALBUM_CONFIRM_BODY": "Ви впевнені, що хочете видалити цей допис? Усі {count} файлів буде остаточно видалено. Цю дію не можна скасувати.",

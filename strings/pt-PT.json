@@ -326,7 +326,6 @@
   "COMMON_SAVE": "Guardar",
   "MODAL_FILE_INFO_ERROR_NOT_FOUND": "Ficheiro não encontrado.",
   "COMMON_RETURN": "Voltar",
-  "COMMON_VIEW_ALBUM": "Ver Álbum",
   "COMMON_VIEW_POST": "Ver Publicação",
   "COMMON_FETCHING_LINK": "A obter link...",
   "MODAL_FILE_INFO_DELETE_ALBUM_CONFIRM_BODY": "Tem a certeza que quer eliminar esta publicação? Todos os {count} ficheiros serão removidos permanentemente. Esta ação não pode ser desfeita.",
