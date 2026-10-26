@@ -2198,7 +2198,6 @@
   "SUPPORT_APPLY_NO_EMAIL_PREFIX": "Vi svarar på ansökningar via e-post, så lägg först till en e-postadress i dina ",
   "SUPPORT_APPLY_NO_EMAIL_LINK": "kontoinställningar",
   "SUPPORT_APPLY_NO_EMAIL_SUFFIX": ".",
-  "SUPPORT_APPLY_ACCOUNT": "Du ansöker som @{username}. Vi svarar till {email}.",
   "SUPPORT_APPLY_CATEGORY_LABEL": "Vad beskriver dig bäst?",
   "SUPPORT_APPLY_CATEGORY_CREATOR": "Kreatör",
   "SUPPORT_APPLY_CATEGORY_COMMUNITY": "Community",

@@ -2198,7 +2198,6 @@
   "SUPPORT_APPLY_NO_EMAIL_PREFIX": "Na žiadosti odpovedáme e-mailom, takže si ho najprv pridaj v ",
   "SUPPORT_APPLY_NO_EMAIL_LINK": "nastaveniach účtu",
   "SUPPORT_APPLY_NO_EMAIL_SUFFIX": ".",
-  "SUPPORT_APPLY_ACCOUNT": "Podávaš žiadosť ako @{username}. Odpovieme na {email}.",
   "SUPPORT_APPLY_CATEGORY_LABEL": "Čo ťa najlepšie vystihuje?",
   "SUPPORT_APPLY_CATEGORY_CREATOR": "Tvorca",
   "SUPPORT_APPLY_CATEGORY_COMMUNITY": "Komunita",

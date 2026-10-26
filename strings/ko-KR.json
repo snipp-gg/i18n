@@ -2198,7 +2198,6 @@
   "SUPPORT_APPLY_NO_EMAIL_PREFIX": "신청에 대한 답변은 이메일로 보내드리므로, 먼저 ",
   "SUPPORT_APPLY_NO_EMAIL_LINK": "계정 설정",
   "SUPPORT_APPLY_NO_EMAIL_SUFFIX": "에서 이메일을 추가해 주세요.",
-  "SUPPORT_APPLY_ACCOUNT": "@{username} 계정으로 신청합니다. 답변은 {email}으로 보내드립니다.",
   "SUPPORT_APPLY_CATEGORY_LABEL": "어떤 유형에 가장 가까운가요?",
   "SUPPORT_APPLY_CATEGORY_CREATOR": "크리에이터",
   "SUPPORT_APPLY_CATEGORY_COMMUNITY": "커뮤니티",

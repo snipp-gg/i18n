@@ -2198,7 +2198,6 @@
   "SUPPORT_APPLY_NO_EMAIL_PREFIX": "Vastaamme hakemuksiin sähköpostitse, joten lisää ensin sähköpostiosoite ",
   "SUPPORT_APPLY_NO_EMAIL_LINK": "tiliasetuksissasi",
   "SUPPORT_APPLY_NO_EMAIL_SUFFIX": ".",
-  "SUPPORT_APPLY_ACCOUNT": "Haet käyttäjänä @{username}. Vastaamme osoitteeseen {email}.",
   "SUPPORT_APPLY_CATEGORY_LABEL": "Mikä kuvaa sinua parhaiten?",
   "SUPPORT_APPLY_CATEGORY_CREATOR": "Sisällöntuottaja",
   "SUPPORT_APPLY_CATEGORY_COMMUNITY": "Yhteisö",

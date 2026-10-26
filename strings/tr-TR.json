@@ -2198,7 +2198,6 @@
   "SUPPORT_APPLY_NO_EMAIL_PREFIX": "Başvurulara e-postayla yanıt veriyoruz, bu yüzden önce ",
   "SUPPORT_APPLY_NO_EMAIL_LINK": "hesap ayarlarınızdan",
   "SUPPORT_APPLY_NO_EMAIL_SUFFIX": " bir e-posta ekleyin.",
-  "SUPPORT_APPLY_ACCOUNT": "@{username} olarak başvuruyorsunuz. {email} adresine yanıt vereceğiz.",
   "SUPPORT_APPLY_CATEGORY_LABEL": "Sizi en iyi hangisi tanımlıyor?",
   "SUPPORT_APPLY_CATEGORY_CREATOR": "İçerik üreticisi",
   "SUPPORT_APPLY_CATEGORY_COMMUNITY": "Topluluk",

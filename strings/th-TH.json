@@ -2198,7 +2198,6 @@
   "SUPPORT_APPLY_NO_EMAIL_PREFIX": "เราตอบกลับใบสมัครทางอีเมล ดังนั้นกรุณาเพิ่มอีเมลใน",
   "SUPPORT_APPLY_NO_EMAIL_LINK": "การตั้งค่าบัญชี",
   "SUPPORT_APPLY_NO_EMAIL_SUFFIX": "ก่อน",
-  "SUPPORT_APPLY_ACCOUNT": "กำลังสมัครในชื่อ @{username} เราจะตอบกลับไปที่ {email}",
   "SUPPORT_APPLY_CATEGORY_LABEL": "ข้อใดอธิบายตัวคุณได้ดีที่สุด",
   "SUPPORT_APPLY_CATEGORY_CREATOR": "ครีเอเตอร์",
   "SUPPORT_APPLY_CATEGORY_COMMUNITY": "ชุมชน",

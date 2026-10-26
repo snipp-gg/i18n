@@ -2198,7 +2198,6 @@
   "SUPPORT_APPLY_NO_EMAIL_PREFIX": "Vi svarer på søknader via e-post, så legg først til en e-postadresse i ",
   "SUPPORT_APPLY_NO_EMAIL_LINK": "kontoinnstillingene dine",
   "SUPPORT_APPLY_NO_EMAIL_SUFFIX": ".",
-  "SUPPORT_APPLY_ACCOUNT": "Du søker som @{username}. Vi svarer til {email}.",
   "SUPPORT_APPLY_CATEGORY_LABEL": "Hva beskriver deg best?",
   "SUPPORT_APPLY_CATEGORY_CREATOR": "Skaper",
   "SUPPORT_APPLY_CATEGORY_COMMUNITY": "Fellesskap",

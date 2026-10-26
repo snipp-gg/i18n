@@ -2198,7 +2198,6 @@
   "SUPPORT_APPLY_NO_EMAIL_PREFIX": "Απαντάμε στις αιτήσεις μέσω email, γι' αυτό προσθέστε πρώτα ένα στις ",
   "SUPPORT_APPLY_NO_EMAIL_LINK": "ρυθμίσεις λογαριασμού",
   "SUPPORT_APPLY_NO_EMAIL_SUFFIX": ".",
-  "SUPPORT_APPLY_ACCOUNT": "Κάνετε αίτηση ως @{username}. Θα απαντήσουμε στο {email}.",
   "SUPPORT_APPLY_CATEGORY_LABEL": "Τι σας περιγράφει καλύτερα;",
   "SUPPORT_APPLY_CATEGORY_CREATOR": "Δημιουργός",
   "SUPPORT_APPLY_CATEGORY_COMMUNITY": "Κοινότητα",

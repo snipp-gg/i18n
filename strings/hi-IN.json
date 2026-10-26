@@ -2198,7 +2198,6 @@
   "SUPPORT_APPLY_NO_EMAIL_PREFIX": "हम आवेदनों का जवाब ईमेल से देते हैं, इसलिए पहले अपनी ",
   "SUPPORT_APPLY_NO_EMAIL_LINK": "अकाउंट सेटिंग्स",
   "SUPPORT_APPLY_NO_EMAIL_SUFFIX": " में एक ईमेल जोड़ें।",
-  "SUPPORT_APPLY_ACCOUNT": "@{username} के रूप में आवेदन कर रहे हैं। हम {email} पर जवाब देंगे।",
   "SUPPORT_APPLY_CATEGORY_LABEL": "इनमें से कौन-सा आप पर सबसे सही बैठता है?",
   "SUPPORT_APPLY_CATEGORY_CREATOR": "क्रिएटर",
   "SUPPORT_APPLY_CATEGORY_COMMUNITY": "कम्युनिटी",

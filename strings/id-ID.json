@@ -2198,7 +2198,6 @@
   "SUPPORT_APPLY_NO_EMAIL_PREFIX": "Kami membalas pengajuan melalui email, jadi tambahkan email terlebih dahulu di ",
   "SUPPORT_APPLY_NO_EMAIL_LINK": "pengaturan akun",
   "SUPPORT_APPLY_NO_EMAIL_SUFFIX": " Anda.",
-  "SUPPORT_APPLY_ACCOUNT": "Mengajukan sebagai @{username}. Kami akan membalas ke {email}.",
   "SUPPORT_APPLY_CATEGORY_LABEL": "Mana yang paling menggambarkan Anda?",
   "SUPPORT_APPLY_CATEGORY_CREATOR": "Kreator",
   "SUPPORT_APPLY_CATEGORY_COMMUNITY": "Komunitas",

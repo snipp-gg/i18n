@@ -2198,7 +2198,6 @@
   "SUPPORT_APPLY_NO_EMAIL_PREFIX": "Отговаряме на кандидатурите по имейл, затова първо добавете такъв в ",
   "SUPPORT_APPLY_NO_EMAIL_LINK": "настройките на акаунта си",
   "SUPPORT_APPLY_NO_EMAIL_SUFFIX": ".",
-  "SUPPORT_APPLY_ACCOUNT": "Кандидатствате като @{username}. Ще ви отговорим на {email}.",
   "SUPPORT_APPLY_CATEGORY_LABEL": "Кое ви описва най-добре?",
   "SUPPORT_APPLY_CATEGORY_CREATOR": "Творец",
   "SUPPORT_APPLY_CATEGORY_COMMUNITY": "Общност",

@@ -2198,7 +2198,6 @@
   "SUPPORT_APPLY_NO_EMAIL_PREFIX": "Ми відповідаємо на заявки електронною поштою, тож спершу додайте адресу в ",
   "SUPPORT_APPLY_NO_EMAIL_LINK": "налаштуваннях акаунта",
   "SUPPORT_APPLY_NO_EMAIL_SUFFIX": ".",
-  "SUPPORT_APPLY_ACCOUNT": "Ви подаєте заявку як @{username}. Ми відповімо на {email}.",
   "SUPPORT_APPLY_CATEGORY_LABEL": "Що найкраще вас описує?",
   "SUPPORT_APPLY_CATEGORY_CREATOR": "Автор",
   "SUPPORT_APPLY_CATEGORY_COMMUNITY": "Спільнота",

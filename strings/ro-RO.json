@@ -2198,7 +2198,6 @@
   "SUPPORT_APPLY_NO_EMAIL_PREFIX": "Răspundem la cereri prin e-mail, așa că adaugă mai întâi o adresă în ",
   "SUPPORT_APPLY_NO_EMAIL_LINK": "setările contului",
   "SUPPORT_APPLY_NO_EMAIL_SUFFIX": ".",
-  "SUPPORT_APPLY_ACCOUNT": "Aplici ca @{username}. Îți vom răspunde la {email}.",
   "SUPPORT_APPLY_CATEGORY_LABEL": "Ce te descrie cel mai bine?",
   "SUPPORT_APPLY_CATEGORY_CREATOR": "Creator",
   "SUPPORT_APPLY_CATEGORY_COMMUNITY": "Comunitate",

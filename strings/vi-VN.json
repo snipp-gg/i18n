@@ -2198,7 +2198,6 @@
   "SUPPORT_APPLY_NO_EMAIL_PREFIX": "Chúng tôi phản hồi đơn qua email, vì vậy hãy thêm email trong ",
   "SUPPORT_APPLY_NO_EMAIL_LINK": "cài đặt tài khoản",
   "SUPPORT_APPLY_NO_EMAIL_SUFFIX": " trước.",
-  "SUPPORT_APPLY_ACCOUNT": "Đang nộp đơn với tư cách @{username}. Chúng tôi sẽ phản hồi qua {email}.",
   "SUPPORT_APPLY_CATEGORY_LABEL": "Điều nào mô tả đúng nhất về bạn?",
   "SUPPORT_APPLY_CATEGORY_CREATOR": "Nhà sáng tạo",
   "SUPPORT_APPLY_CATEGORY_COMMUNITY": "Cộng đồng",

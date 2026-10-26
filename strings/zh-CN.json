@@ -2198,7 +2198,6 @@
   "SUPPORT_APPLY_NO_EMAIL_PREFIX": "我们通过邮件回复申请，请先在",
   "SUPPORT_APPLY_NO_EMAIL_LINK": "账户设置",
   "SUPPORT_APPLY_NO_EMAIL_SUFFIX": "中添加邮箱。",
-  "SUPPORT_APPLY_ACCOUNT": "正在以 @{username} 的身份申请。我们会回复至 {email}。",
   "SUPPORT_APPLY_CATEGORY_LABEL": "哪一项最能描述您？",
   "SUPPORT_APPLY_CATEGORY_CREATOR": "创作者",
   "SUPPORT_APPLY_CATEGORY_COMMUNITY": "社区",

@@ -2198,7 +2198,6 @@
   "SUPPORT_APPLY_NO_EMAIL_PREFIX": "Sa email kami sumasagot sa mga application, kaya magdagdag muna ng email sa iyong ",
   "SUPPORT_APPLY_NO_EMAIL_LINK": "mga setting ng account",
   "SUPPORT_APPLY_NO_EMAIL_SUFFIX": ".",
-  "SUPPORT_APPLY_ACCOUNT": "Nag-a-apply bilang @{username}. Sasagot kami sa {email}.",
   "SUPPORT_APPLY_CATEGORY_LABEL": "Alin ang pinakamahusay na naglalarawan sa iyo?",
   "SUPPORT_APPLY_CATEGORY_CREATOR": "Creator",
   "SUPPORT_APPLY_CATEGORY_COMMUNITY": "Komunidad",

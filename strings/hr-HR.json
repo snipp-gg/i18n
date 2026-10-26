@@ -2198,7 +2198,6 @@
   "SUPPORT_APPLY_NO_EMAIL_PREFIX": "Na prijave odgovaramo e-poštom, pa najprije dodaj e-adresu u ",
   "SUPPORT_APPLY_NO_EMAIL_LINK": "postavkama računa",
   "SUPPORT_APPLY_NO_EMAIL_SUFFIX": ".",
-  "SUPPORT_APPLY_ACCOUNT": "Šalješ prijavu kao @{username}. Odgovorit ćemo na {email}.",
   "SUPPORT_APPLY_CATEGORY_LABEL": "Što te najbolje opisuje?",
   "SUPPORT_APPLY_CATEGORY_CREATOR": "Kreator",
   "SUPPORT_APPLY_CATEGORY_COMMUNITY": "Zajednica",

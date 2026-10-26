@@ -2198,7 +2198,6 @@
   "SUPPORT_APPLY_NO_EMAIL_PREFIX": "Respondemos a las solicitudes por correo, así que primero añade uno en los ",
   "SUPPORT_APPLY_NO_EMAIL_LINK": "ajustes de tu cuenta",
   "SUPPORT_APPLY_NO_EMAIL_SUFFIX": ".",
-  "SUPPORT_APPLY_ACCOUNT": "Envías la solicitud como @{username}. Te responderemos a {email}.",
   "SUPPORT_APPLY_CATEGORY_LABEL": "¿Qué te describe mejor?",
   "SUPPORT_APPLY_CATEGORY_CREATOR": "Creador",
   "SUPPORT_APPLY_CATEGORY_COMMUNITY": "Comunidad",

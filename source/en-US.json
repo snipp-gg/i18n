@@ -2198,7 +2198,6 @@
   "SUPPORT_APPLY_NO_EMAIL_PREFIX": "We reply to applications by email, so add one in your ",
   "SUPPORT_APPLY_NO_EMAIL_LINK": "account settings",
   "SUPPORT_APPLY_NO_EMAIL_SUFFIX": " first.",
-  "SUPPORT_APPLY_ACCOUNT": "Applying as @{username}. We'll reply to {email}.",
   "SUPPORT_APPLY_CATEGORY_LABEL": "Which best describes you?",
   "SUPPORT_APPLY_CATEGORY_CREATOR": "Creator",
   "SUPPORT_APPLY_CATEGORY_COMMUNITY": "Community",

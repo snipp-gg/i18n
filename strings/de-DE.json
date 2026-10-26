@@ -2198,7 +2198,6 @@
   "SUPPORT_APPLY_NO_EMAIL_PREFIX": "Wir antworten auf Bewerbungen per E-Mail, also füge zuerst eine in deinen ",
   "SUPPORT_APPLY_NO_EMAIL_LINK": "Kontoeinstellungen",
   "SUPPORT_APPLY_NO_EMAIL_SUFFIX": " hinzu.",
-  "SUPPORT_APPLY_ACCOUNT": "Du bewirbst dich als @{username}. Wir antworten an {email}.",
   "SUPPORT_APPLY_CATEGORY_LABEL": "Was beschreibt dich am besten?",
   "SUPPORT_APPLY_CATEGORY_CREATOR": "Creator",
   "SUPPORT_APPLY_CATEGORY_COMMUNITY": "Community",

@@ -2198,7 +2198,6 @@
   "SUPPORT_APPLY_NO_EMAIL_PREFIX": "申請への返信はメールで行うため、先に",
   "SUPPORT_APPLY_NO_EMAIL_LINK": "アカウント設定",
   "SUPPORT_APPLY_NO_EMAIL_SUFFIX": "でメールアドレスを追加してください。",
-  "SUPPORT_APPLY_ACCOUNT": "@{username} として申請します。返信は{email}宛てにお送りします。",
   "SUPPORT_APPLY_CATEGORY_LABEL": "最も当てはまるものはどれですか？",
   "SUPPORT_APPLY_CATEGORY_CREATOR": "クリエイター",
   "SUPPORT_APPLY_CATEGORY_COMMUNITY": "コミュニティ",

@@ -2198,7 +2198,6 @@
   "SUPPORT_APPLY_NO_EMAIL_PREFIX": "Na zgłoszenia odpowiadamy e-mailem, więc najpierw dodaj adres e-mail w ",
   "SUPPORT_APPLY_NO_EMAIL_LINK": "ustawieniach konta",
   "SUPPORT_APPLY_NO_EMAIL_SUFFIX": ".",
-  "SUPPORT_APPLY_ACCOUNT": "Zgłaszasz się jako @{username}. Odpowiemy na {email}.",
   "SUPPORT_APPLY_CATEGORY_LABEL": "Co najlepiej Cię opisuje?",
   "SUPPORT_APPLY_CATEGORY_CREATOR": "Twórca",
   "SUPPORT_APPLY_CATEGORY_COMMUNITY": "Społeczność",

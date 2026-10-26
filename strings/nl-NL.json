@@ -2198,7 +2198,6 @@
   "SUPPORT_APPLY_NO_EMAIL_PREFIX": "We reageren per e-mail op aanvragen, dus voeg eerst een e-mailadres toe in je ",
   "SUPPORT_APPLY_NO_EMAIL_LINK": "accountinstellingen",
   "SUPPORT_APPLY_NO_EMAIL_SUFFIX": ".",
-  "SUPPORT_APPLY_ACCOUNT": "Je dient de aanvraag in als @{username}. We sturen ons antwoord naar {email}.",
   "SUPPORT_APPLY_CATEGORY_LABEL": "Wat omschrijft jou het best?",
   "SUPPORT_APPLY_CATEGORY_CREATOR": "Creator",
   "SUPPORT_APPLY_CATEGORY_COMMUNITY": "Community",

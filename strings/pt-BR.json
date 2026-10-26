@@ -2198,7 +2198,6 @@
   "SUPPORT_APPLY_NO_EMAIL_PREFIX": "Respondemos às candidaturas por e-mail, então primeiro adicione um nas ",
   "SUPPORT_APPLY_NO_EMAIL_LINK": "configurações da conta",
   "SUPPORT_APPLY_NO_EMAIL_SUFFIX": ".",
-  "SUPPORT_APPLY_ACCOUNT": "Você está se candidatando como @{username}. Responderemos para {email}.",
   "SUPPORT_APPLY_CATEGORY_LABEL": "O que melhor descreve você?",
   "SUPPORT_APPLY_CATEGORY_CREATOR": "Criador",
   "SUPPORT_APPLY_CATEGORY_COMMUNITY": "Comunidade",
