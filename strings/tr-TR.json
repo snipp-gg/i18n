@@ -2211,6 +2211,8 @@
   "SUPPORT_APPLY_LINKS_INVALID": "Vurgulanan bağlantıları kontrol edin. Her biri tam bir web adresi olmalı.",
   "SUPPORT_APPLY_NOTE_LABEL": "Bilmemiz gereken başka bir şey var mı?",
   "SUPPORT_APPLY_NOTE_PLACEHOLDER": "İsteğe bağlı",
+  "SUPPORT_APPLY_PARTNER_NOTE_LABEL": "Neden Snipp ile iş ortağı olmak istiyorsunuz?",
+  "SUPPORT_APPLY_PARTNER_NOTE_PLACEHOLDER": "Neler katabileceğiniz ve aklınızdaki fikirler",
   "SUPPORT_APPLY_TOAST_SENT": "Başvuru gönderildi! Ekip karar verdiğinde size e-posta göndereceğiz.",
   "SUPPORT_APPLY_TOAST_FAILED": "Başvurunuz gönderilemedi. Lütfen tekrar deneyin.",
   "SUPPORT_APPLY_TOAST_ALREADY_APPLIED": "Zaten başvurdunuz.",

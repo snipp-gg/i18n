@@ -2211,6 +2211,8 @@
   "SUPPORT_APPLY_LINKS_INVALID": "请检查突出显示的链接。每个链接都必须是完整的网址。",
   "SUPPORT_APPLY_NOTE_LABEL": "还有其他需要我们了解的吗？",
   "SUPPORT_APPLY_NOTE_PLACEHOLDER": "可选",
+  "SUPPORT_APPLY_PARTNER_NOTE_LABEL": "您为什么想与 Snipp 合作？",
+  "SUPPORT_APPLY_PARTNER_NOTE_PLACEHOLDER": "您能带来什么，以及您有哪些想法",
   "SUPPORT_APPLY_TOAST_SENT": "申请已发送！团队做出决定后，我们会给您发送邮件。",
   "SUPPORT_APPLY_TOAST_FAILED": "发送您的申请失败。请重试。",
   "SUPPORT_APPLY_TOAST_ALREADY_APPLIED": "您已经申请过了。",

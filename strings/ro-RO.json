@@ -2211,6 +2211,8 @@
   "SUPPORT_APPLY_LINKS_INVALID": "Verifică linkurile evidențiate. Fiecare trebuie să fie o adresă web completă.",
   "SUPPORT_APPLY_NOTE_LABEL": "Mai e ceva ce ar trebui să știm?",
   "SUPPORT_APPLY_NOTE_PLACEHOLDER": "Opțional",
+  "SUPPORT_APPLY_PARTNER_NOTE_LABEL": "De ce vrei un parteneriat cu Snipp?",
+  "SUPPORT_APPLY_PARTNER_NOTE_PLACEHOLDER": "Ce ai aduce și ce ai în minte",
   "SUPPORT_APPLY_TOAST_SENT": "Cerere trimisă! Îți trimitem un e-mail când echipa a luat o decizie.",
   "SUPPORT_APPLY_TOAST_FAILED": "Nu s-a putut trimite cererea ta. Te rugăm să încerci din nou.",
   "SUPPORT_APPLY_TOAST_ALREADY_APPLIED": "Ai aplicat deja.",

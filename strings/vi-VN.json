@@ -2211,6 +2211,8 @@
   "SUPPORT_APPLY_LINKS_INVALID": "Hãy kiểm tra các liên kết được đánh dấu. Mỗi liên kết phải là một địa chỉ web đầy đủ.",
   "SUPPORT_APPLY_NOTE_LABEL": "Còn điều gì chúng tôi nên biết không?",
   "SUPPORT_APPLY_NOTE_PLACEHOLDER": "Không bắt buộc",
+  "SUPPORT_APPLY_PARTNER_NOTE_LABEL": "Vì sao bạn muốn hợp tác với Snipp?",
+  "SUPPORT_APPLY_PARTNER_NOTE_PLACEHOLDER": "Những gì bạn có thể đóng góp và ý tưởng của bạn",
   "SUPPORT_APPLY_TOAST_SENT": "Đã gửi đơn! Chúng tôi sẽ gửi email cho bạn khi đội ngũ đã đưa ra quyết định.",
   "SUPPORT_APPLY_TOAST_FAILED": "Không thể gửi đơn của bạn. Vui lòng thử lại.",
   "SUPPORT_APPLY_TOAST_ALREADY_APPLIED": "Bạn đã nộp đơn rồi.",

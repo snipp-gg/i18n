@@ -2211,6 +2211,8 @@
   "SUPPORT_APPLY_LINKS_INVALID": "Sjekk de markerte lenkene. Hver av dem må være en fullstendig nettadresse.",
   "SUPPORT_APPLY_NOTE_LABEL": "Er det noe annet vi bør vite?",
   "SUPPORT_APPLY_NOTE_PLACEHOLDER": "Valgfritt",
+  "SUPPORT_APPLY_PARTNER_NOTE_LABEL": "Hvorfor ønsker du et partnerskap med Snipp?",
+  "SUPPORT_APPLY_PARTNER_NOTE_PLACEHOLDER": "Hva du kan bidra med og hva du ser for deg",
   "SUPPORT_APPLY_TOAST_SENT": "Søknad sendt! Vi sender deg en e-post når teamet har bestemt seg.",
   "SUPPORT_APPLY_TOAST_FAILED": "Kunne ikke sende søknaden din. Prøv igjen.",
   "SUPPORT_APPLY_TOAST_ALREADY_APPLIED": "Du har allerede søkt.",

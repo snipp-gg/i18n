@@ -2211,6 +2211,8 @@
   "SUPPORT_APPLY_LINKS_INVALID": "हाइलाइट किए गए लिंक जाँचें। हर लिंक एक पूरा वेब पता होना चाहिए।",
   "SUPPORT_APPLY_NOTE_LABEL": "कुछ और जो हमें जानना चाहिए?",
   "SUPPORT_APPLY_NOTE_PLACEHOLDER": "वैकल्पिक",
+  "SUPPORT_APPLY_PARTNER_NOTE_LABEL": "आप Snipp के साथ साझेदारी क्यों करना चाहते हैं?",
+  "SUPPORT_APPLY_PARTNER_NOTE_PLACEHOLDER": "आप क्या योगदान देंगे और आपके मन में क्या है",
   "SUPPORT_APPLY_TOAST_SENT": "आवेदन भेज दिया गया! टीम का फ़ैसला होने पर हम आपको ईमेल करेंगे।",
   "SUPPORT_APPLY_TOAST_FAILED": "आपका आवेदन भेजने में विफल। कृपया दोबारा कोशिश करें।",
   "SUPPORT_APPLY_TOAST_ALREADY_APPLIED": "आप पहले ही आवेदन कर चुके हैं।",

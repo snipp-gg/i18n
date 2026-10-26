@@ -2211,6 +2211,8 @@
   "SUPPORT_APPLY_LINKS_INVALID": "ハイライトされたリンクを確認してください。それぞれ完全なウェブアドレスである必要があります。",
   "SUPPORT_APPLY_NOTE_LABEL": "ほかに伝えておきたいことはありますか？",
   "SUPPORT_APPLY_NOTE_PLACEHOLDER": "任意",
+  "SUPPORT_APPLY_PARTNER_NOTE_LABEL": "Snippとのパートナーシップを希望する理由は何ですか？",
+  "SUPPORT_APPLY_PARTNER_NOTE_PLACEHOLDER": "提供できることや、考えている取り組みなど",
   "SUPPORT_APPLY_TOAST_SENT": "申請を送信しました！チームの判断が決まり次第、メールでお知らせします。",
   "SUPPORT_APPLY_TOAST_FAILED": "申請を送信できませんでした。もう一度お試しください。",
   "SUPPORT_APPLY_TOAST_ALREADY_APPLIED": "すでに申請済みです。",

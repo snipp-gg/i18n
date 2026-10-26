@@ -2211,6 +2211,8 @@
   "SUPPORT_APPLY_LINKS_INVALID": "ตรวจสอบลิงก์ที่ไฮไลต์ไว้ แต่ละลิงก์ต้องเป็นที่อยู่เว็บแบบเต็ม",
   "SUPPORT_APPLY_NOTE_LABEL": "มีอะไรอีกไหมที่เราควรรู้",
   "SUPPORT_APPLY_NOTE_PLACEHOLDER": "ไม่บังคับ",
+  "SUPPORT_APPLY_PARTNER_NOTE_LABEL": "ทำไมคุณถึงอยากเป็นพาร์ทเนอร์กับ Snipp",
+  "SUPPORT_APPLY_PARTNER_NOTE_PLACEHOLDER": "สิ่งที่คุณมอบให้ได้และไอเดียที่คุณมีในใจ",
   "SUPPORT_APPLY_TOAST_SENT": "ส่งใบสมัครแล้ว! เราจะส่งอีเมลแจ้งเมื่อทีมงานตัดสินใจแล้ว",
   "SUPPORT_APPLY_TOAST_FAILED": "ไม่สามารถส่งใบสมัครของคุณได้ กรุณาลองอีกครั้ง",
   "SUPPORT_APPLY_TOAST_ALREADY_APPLIED": "คุณสมัครไปแล้ว",

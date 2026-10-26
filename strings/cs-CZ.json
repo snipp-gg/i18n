@@ -2211,6 +2211,8 @@
   "SUPPORT_APPLY_LINKS_INVALID": "Zkontrolujte zvýrazněné odkazy. Každý musí být úplná webová adresa.",
   "SUPPORT_APPLY_NOTE_LABEL": "Je ještě něco, co bychom měli vědět?",
   "SUPPORT_APPLY_NOTE_PLACEHOLDER": "Volitelné",
+  "SUPPORT_APPLY_PARTNER_NOTE_LABEL": "Proč chcete navázat partnerství se Snippem?",
+  "SUPPORT_APPLY_PARTNER_NOTE_PLACEHOLDER": "Co můžete přinést a jaké máte představy",
   "SUPPORT_APPLY_TOAST_SENT": "Žádost odeslána! Jakmile tým rozhodne, pošleme vám e-mail.",
   "SUPPORT_APPLY_TOAST_FAILED": "Nepodařilo se odeslat vaši žádost. Zkuste to prosím znovu.",
   "SUPPORT_APPLY_TOAST_ALREADY_APPLIED": "Žádost jste již podali.",

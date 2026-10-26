@@ -2211,6 +2211,8 @@
   "SUPPORT_APPLY_LINKS_INVALID": "Tingnan ang mga naka-highlight na link. Kailangang kumpletong web address ang bawat isa.",
   "SUPPORT_APPLY_NOTE_LABEL": "May iba pa ba kaming dapat malaman?",
   "SUPPORT_APPLY_NOTE_PLACEHOLDER": "Opsyonal",
+  "SUPPORT_APPLY_PARTNER_NOTE_LABEL": "Bakit mo gustong makipag-partner sa Snipp?",
+  "SUPPORT_APPLY_PARTNER_NOTE_PLACEHOLDER": "Ano ang maiaambag mo at ano ang nasa isip mo",
   "SUPPORT_APPLY_TOAST_SENT": "Naipadala ang application! Mag-e-email kami sa iyo kapag nakapagpasya na ang team.",
   "SUPPORT_APPLY_TOAST_FAILED": "Hindi naipadala ang iyong application. Subukan ulit.",
   "SUPPORT_APPLY_TOAST_ALREADY_APPLIED": "Nakapag-apply ka na.",

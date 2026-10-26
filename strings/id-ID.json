@@ -2211,6 +2211,8 @@
   "SUPPORT_APPLY_LINKS_INVALID": "Periksa tautan yang ditandai. Setiap tautan harus berupa alamat web lengkap.",
   "SUPPORT_APPLY_NOTE_LABEL": "Ada hal lain yang perlu kami ketahui?",
   "SUPPORT_APPLY_NOTE_PLACEHOLDER": "Opsional",
+  "SUPPORT_APPLY_PARTNER_NOTE_LABEL": "Mengapa Anda ingin bermitra dengan Snipp?",
+  "SUPPORT_APPLY_PARTNER_NOTE_PLACEHOLDER": "Apa yang dapat Anda tawarkan dan apa yang Anda rencanakan",
   "SUPPORT_APPLY_TOAST_SENT": "Pengajuan terkirim! Kami akan mengirim email saat tim sudah memutuskan.",
   "SUPPORT_APPLY_TOAST_FAILED": "Gagal mengirim pengajuan Anda. Silakan coba lagi.",
   "SUPPORT_APPLY_TOAST_ALREADY_APPLIED": "Anda sudah mengajukan.",

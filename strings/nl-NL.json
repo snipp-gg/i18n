@@ -2211,6 +2211,8 @@
   "SUPPORT_APPLY_LINKS_INVALID": "Controleer de gemarkeerde links. Elke link moet een volledig webadres zijn.",
   "SUPPORT_APPLY_NOTE_LABEL": "Is er nog iets dat we moeten weten?",
   "SUPPORT_APPLY_NOTE_PLACEHOLDER": "Optioneel",
+  "SUPPORT_APPLY_PARTNER_NOTE_LABEL": "Waarom wil je partner worden van Snipp?",
+  "SUPPORT_APPLY_PARTNER_NOTE_PLACEHOLDER": "Wat je zou meebrengen en wat je in gedachten hebt",
   "SUPPORT_APPLY_TOAST_SENT": "Aanvraag verzonden! We sturen je een e-mail zodra het team een besluit heeft genomen.",
   "SUPPORT_APPLY_TOAST_FAILED": "Aanvraag versturen mislukt. Probeer het opnieuw.",
   "SUPPORT_APPLY_TOAST_ALREADY_APPLIED": "Je hebt al een aanvraag ingediend.",

@@ -2211,6 +2211,8 @@
   "SUPPORT_APPLY_LINKS_INVALID": "Ελέγξτε τους επισημασμένους συνδέσμους. Ο καθένας πρέπει να είναι πλήρης διεύθυνση ιστού.",
   "SUPPORT_APPLY_NOTE_LABEL": "Υπάρχει κάτι άλλο που πρέπει να γνωρίζουμε;",
   "SUPPORT_APPLY_NOTE_PLACEHOLDER": "Προαιρετικό",
+  "SUPPORT_APPLY_PARTNER_NOTE_LABEL": "Γιατί θέλετε να συνεργαστείτε με το Snipp;",
+  "SUPPORT_APPLY_PARTNER_NOTE_PLACEHOLDER": "Τι θα προσφέρατε και τι έχετε στο μυαλό σας",
   "SUPPORT_APPLY_TOAST_SENT": "Η αίτηση στάλθηκε! Θα σας στείλουμε email όταν αποφασίσει η ομάδα.",
   "SUPPORT_APPLY_TOAST_FAILED": "Αποτυχία αποστολής της αίτησής σας. Παρακαλούμε δοκιμάστε ξανά.",
   "SUPPORT_APPLY_TOAST_ALREADY_APPLIED": "Έχετε ήδη κάνει αίτηση.",

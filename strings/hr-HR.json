@@ -2211,6 +2211,8 @@
   "SUPPORT_APPLY_LINKS_INVALID": "Provjeri označene poveznice. Svaka mora biti potpuna web-adresa.",
   "SUPPORT_APPLY_NOTE_LABEL": "Još nešto što bismo trebali znati?",
   "SUPPORT_APPLY_NOTE_PLACEHOLDER": "Neobavezno",
+  "SUPPORT_APPLY_PARTNER_NOTE_LABEL": "Zašto želiš partnerstvo sa Snippom?",
+  "SUPPORT_APPLY_PARTNER_NOTE_PLACEHOLDER": "Što možeš ponuditi i što imaš na umu",
   "SUPPORT_APPLY_TOAST_SENT": "Prijava poslana! Javit ćemo ti e-poštom kad tim donese odluku.",
   "SUPPORT_APPLY_TOAST_FAILED": "Slanje tvoje prijave nije uspjelo. Pokušaj ponovno.",
   "SUPPORT_APPLY_TOAST_ALREADY_APPLIED": "Već si se prijavio.",

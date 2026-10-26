@@ -2211,6 +2211,8 @@
   "SUPPORT_APPLY_LINKS_INVALID": "Kontrollera de markerade länkarna. Varje länk måste vara en fullständig webbadress.",
   "SUPPORT_APPLY_NOTE_LABEL": "Något mer vi borde veta?",
   "SUPPORT_APPLY_NOTE_PLACEHOLDER": "Valfritt",
+  "SUPPORT_APPLY_PARTNER_NOTE_LABEL": "Varför vill du bli samarbetspartner till Snipp?",
+  "SUPPORT_APPLY_PARTNER_NOTE_PLACEHOLDER": "Vad du kan bidra med och vad du har i åtanke",
   "SUPPORT_APPLY_TOAST_SENT": "Ansökan skickad! Vi skickar dig ett e-postmeddelande när teamet har fattat ett beslut.",
   "SUPPORT_APPLY_TOAST_FAILED": "Kunde inte skicka din ansökan. Försök igen.",
   "SUPPORT_APPLY_TOAST_ALREADY_APPLIED": "Du har redan ansökt.",

@@ -2211,6 +2211,8 @@
   "SUPPORT_APPLY_LINKS_INVALID": "Tarkista korostetut linkit. Jokaisen on oltava täydellinen verkko-osoite.",
   "SUPPORT_APPLY_NOTE_LABEL": "Onko jotain muuta, mitä meidän pitäisi tietää?",
   "SUPPORT_APPLY_NOTE_PLACEHOLDER": "Valinnainen",
+  "SUPPORT_APPLY_PARTNER_NOTE_LABEL": "Miksi haluat Snippin kumppaniksi?",
+  "SUPPORT_APPLY_PARTNER_NOTE_PLACEHOLDER": "Mitä toisit mukanasi ja mitä sinulla on mielessä",
   "SUPPORT_APPLY_TOAST_SENT": "Hakemus lähetetty! Lähetämme sinulle sähköpostin, kun tiimi on tehnyt päätöksen.",
   "SUPPORT_APPLY_TOAST_FAILED": "Hakemuksesi lähetys epäonnistui. Yritä uudelleen.",
   "SUPPORT_APPLY_TOAST_ALREADY_APPLIED": "Olet jo hakenut.",

@@ -2211,6 +2211,8 @@
   "SUPPORT_APPLY_LINKS_INVALID": "Proverite označene linkove. Svaki mora biti potpuna veb adresa.",
   "SUPPORT_APPLY_NOTE_LABEL": "Ima li još nešto što bi trebalo da znamo?",
   "SUPPORT_APPLY_NOTE_PLACEHOLDER": "Opciono",
+  "SUPPORT_APPLY_PARTNER_NOTE_LABEL": "Zašto želite partnerstvo sa Snipp-om?",
+  "SUPPORT_APPLY_PARTNER_NOTE_PLACEHOLDER": "Šta možete da ponudite i šta imate na umu",
   "SUPPORT_APPLY_TOAST_SENT": "Zahtev je poslat! Poslaćemo vam imejl kada tim donese odluku.",
   "SUPPORT_APPLY_TOAST_FAILED": "Neuspešno slanje vašeg zahteva. Pokušajte ponovo.",
   "SUPPORT_APPLY_TOAST_ALREADY_APPLIED": "Već ste podneli zahtev.",

@@ -2211,6 +2211,8 @@
   "SUPPORT_APPLY_LINKS_INVALID": "Verifique os links destacados. Cada um tem de ser um endereço web completo.",
   "SUPPORT_APPLY_NOTE_LABEL": "Há mais alguma coisa que devamos saber?",
   "SUPPORT_APPLY_NOTE_PLACEHOLDER": "Opcional",
+  "SUPPORT_APPLY_PARTNER_NOTE_LABEL": "Porque pretende estabelecer uma parceria com o Snipp?",
+  "SUPPORT_APPLY_PARTNER_NOTE_PLACEHOLDER": "O que traria e o que tem em mente",
   "SUPPORT_APPLY_TOAST_SENT": "Candidatura enviada! Enviar-lhe-emos um e-mail quando a equipa tiver decidido.",
   "SUPPORT_APPLY_TOAST_FAILED": "Falha ao enviar a sua candidatura. Por favor tente novamente.",
   "SUPPORT_APPLY_TOAST_ALREADY_APPLIED": "Já se candidatou.",

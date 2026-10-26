@@ -2211,6 +2211,8 @@
   "SUPPORT_APPLY_LINKS_INVALID": "Проверьте выделенные ссылки. Каждая должна быть полным веб-адресом.",
   "SUPPORT_APPLY_NOTE_LABEL": "Что ещё нам стоит знать?",
   "SUPPORT_APPLY_NOTE_PLACEHOLDER": "Необязательно",
+  "SUPPORT_APPLY_PARTNER_NOTE_LABEL": "Почему вы хотите стать партнёром Snipp?",
+  "SUPPORT_APPLY_PARTNER_NOTE_PLACEHOLDER": "Что вы можете предложить и какие у вас идеи",
   "SUPPORT_APPLY_TOAST_SENT": "Заявка отправлена! Мы пришлём вам письмо, когда команда примет решение.",
   "SUPPORT_APPLY_TOAST_FAILED": "Не удалось отправить заявку. Попробуйте ещё раз.",
   "SUPPORT_APPLY_TOAST_ALREADY_APPLIED": "Вы уже подали заявку.",
