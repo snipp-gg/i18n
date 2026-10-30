@@ -381,7 +381,7 @@ Source of truth is `Website/utils/i18n/strings/<locale>.json`; `i18n/strings/` m
 | el-GR | Μηνιαία λεπτά προτεραιότητας |
 | es-ES | Minutos prioritarios mensuales |
 | fi-FI | Kuukauden prioriteettiminuutit |
-| fil-PH | Priority Minutes |
+| fil-PH | Buwanang Priority Minutes |
 | fr-FR | Minutes prioritaires mensuelles |
 | hi-IN | मासिक प्राथमिकता मिनट |
 | hr-HR | Mjesečne prioritetne minute |
@@ -417,7 +417,7 @@ Source of truth is `Website/utils/i18n/strings/<locale>.json`; `i18n/strings/` m
 | el-GR | Εβδομαδιαίες Μεταφορτώσεις |
 | es-ES | Subidas Semanales |
 | fi-FI | Viikoittaiset lataukset |
-| fil-PH | Lingguhang Limitasyon |
+| fil-PH | Lingguhang Upload |
 | fr-FR | Téléversements hebdomadaires |
 | hi-IN | साप्ताहिक अपलोड |
 | hr-HR | Tjedni prijenosi |
