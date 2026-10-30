@@ -1920,7 +1920,7 @@
   "SUPPORT_SECURITY_OUT_OF_SCOPE_HEADING": "Čo nie je v rozsahu",
   "SUPPORT_SECURITY_OUT_OF_SCOPE_INTRO": "Pred odoslaním zváž, či má problém reálny scenár útoku a zmysluplný bezpečnostný dopad. Nasledujúce je vo všeobecnosti vylúčené:",
   "SUPPORT_SECURITY_OUT_OF_SCOPE_ITEM_PUBLIC_DATA": "Sprístupnenie údajov, ktoré sú už zámerne verejné (pozri časť vyššie), vrátane polí profilu, odznakov, metadát príspevkov a príznakov vzťahujúcich sa na prezerajúceho",
-  "SUPPORT_SECURITY_OUT_OF_SCOPE_ITEM_CLIENT_SIDE_ONLY": "Hlásenia založené iba na validácii na strane klienta. Bezpečnostné kontroly sú vynucovan�� na serveri, takže chýbajúca kontrola na strane klienta nie je zraniteľnosť, ak server rovnaký vstup odmietne",
+  "SUPPORT_SECURITY_OUT_OF_SCOPE_ITEM_CLIENT_SIDE_ONLY": "Hlásenia založené iba na validácii na strane klienta. Bezpečnostné kontroly sú vynucované na serveri, takže chýbajúca kontrola na strane klienta nie je zraniteľnosť, ak server rovnaký vstup odmietne",
   "SUPPORT_SECURITY_OUT_OF_SCOPE_ITEM_UPLOAD_FILE_TYPE": "Spracovanie typu súboru, MIME alebo prípony pri nahrávaní. Nahrané súbory sú na serveri overované podľa ich skutočného obsahu a uložený typ sa nikdy nepreberá od klienta",
   "SUPPORT_SECURITY_OUT_OF_SCOPE_ITEM_ORIGIN_IP": "Sprístupnenie IP adresy zdrojového servera, poskytovateľa infraštruktúry alebo subdomény bez proxy. Niektoré služby, napríklad koncové body na nahrávanie, sú zámerne prevádzkované mimo CDN a sú zabezpečené na úrovni zdroja",
   "SUPPORT_SECURITY_OUT_OF_SCOPE_ITEM_STALE_DNS": "Zastarané alebo historické záznamy DNS, ktoré už neodkazujú na aktívnu infraštruktúru",
