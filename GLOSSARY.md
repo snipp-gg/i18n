@@ -513,3 +513,111 @@ Source of truth is `Website/utils/i18n/strings/<locale>.json`; `i18n/strings/` m
 | uk-UA | Субтитри |
 | vi-VN | Phụ đề |
 | zh-CN | 字幕 |
+
+## Streaming
+
+`COMMON_STREAMING` = "Streaming"
+
+| Locale | Value |
+| --- | --- |
+| bg-BG | Стрийминг |
+| cs-CZ | Streamování |
+| de-DE | Streaming |
+| el-GR | Streaming |
+| es-ES | Streaming |
+| fi-FI | Striimaus |
+| fil-PH | Streaming |
+| fr-FR | Streaming |
+| hi-IN | स्ट्रीमिंग |
+| hr-HR | Streaming |
+| id-ID | Streaming |
+| it-IT | Streaming |
+| ja-JP | ライブ配信 |
+| ko-KR | 라이브 방송 |
+| nb-NO | Strømming |
+| nl-NL | Streamen |
+| pl-PL | Transmisje |
+| pt-BR | Transmissão |
+| pt-PT | Transmissão |
+| ro-RO | Transmisii live |
+| ru-RU | Стриминг |
+| sk-SK | Streamovanie |
+| sr-RS | Strimovanje |
+| sv-SE | Strömning |
+| th-TH | การสตรีม |
+| tr-TR | Canlı Yayın |
+| uk-UA | Стримінг |
+| vi-VN | Phát trực tiếp |
+| zh-CN | 直播 |
+
+## Live Hours
+
+`SETTINGS_BILLING_LIVE_HOURS_LABEL` = "Monthly Live Hours"
+
+| Locale | Value |
+| --- | --- |
+| bg-BG | Месечни часове на живо |
+| cs-CZ | Měsíční hodiny vysílání |
+| de-DE | Monatliche Live-Stunden |
+| el-GR | Μηνιαίες ώρες ζωντανής μετάδοσης |
+| es-ES | Horas en directo mensuales |
+| fi-FI | Kuukauden live-tunnit |
+| fil-PH | Buwanang Live Hours |
+| fr-FR | Heures de direct mensuelles |
+| hi-IN | मासिक लाइव घंटे |
+| hr-HR | Mjesečni sati uživo |
+| id-ID | Jam Live Bulanan |
+| it-IT | Ore di diretta mensili |
+| ja-JP | 月間ライブ配信時間 |
+| ko-KR | 월간 라이브 방송 시간 |
+| nb-NO | Månedlige strømmetimer |
+| nl-NL | Maandelijkse live-uren |
+| pl-PL | Miesięczne godziny transmisji |
+| pt-BR | Horas de transmissão mensais |
+| pt-PT | Horas de transmissão mensais |
+| ro-RO | Ore de transmisie lunare |
+| ru-RU | Часы эфира за месяц |
+| sk-SK | Mesačné hodiny vysielania |
+| sr-RS | Mesečni sati strimovanja |
+| sv-SE | Månatliga strömningstimmar |
+| th-TH | ชั่วโมงไลฟ์รายเดือน |
+| tr-TR | Aylık canlı yayın saatleri |
+| uk-UA | Години ефіру за місяць |
+| vi-VN | Giờ phát trực tiếp hàng tháng |
+| zh-CN | 每月直播小时数 |
+
+## Stream Key
+
+`SETTINGS_STREAMING_KEY_HEADING` = "Your stream key"
+
+| Locale | Value |
+| --- | --- |
+| bg-BG | Вашият ключ за излъчване |
+| cs-CZ | Váš klíč streamu |
+| de-DE | Dein Streamschlüssel |
+| el-GR | Το κλειδί μετάδοσής σας |
+| es-ES | Tu clave de retransmisión |
+| fi-FI | Lähetysavaimesi |
+| fil-PH | Iyong stream key |
+| fr-FR | Votre clé de stream |
+| hi-IN | आपकी स्ट्रीम कुंजी |
+| hr-HR | Tvoj ključ streama |
+| id-ID | Kunci stream Anda |
+| it-IT | La tua chiave stream |
+| ja-JP | あなたのストリームキー |
+| ko-KR | 내 스트림 키 |
+| nb-NO | Din strømmenøkkel |
+| nl-NL | Je streamsleutel |
+| pl-PL | Twój klucz transmisji |
+| pt-BR | Sua chave de transmissão |
+| pt-PT | A sua chave de transmissão |
+| ro-RO | Cheia ta de transmisie |
+| ru-RU | Ваш ключ потока |
+| sk-SK | Tvoj kľúč streamu |
+| sr-RS | Vaš ključ strima |
+| sv-SE | Din strömnyckel |
+| th-TH | คีย์สตรีมของคุณ |
+| tr-TR | Yayın anahtarınız |
+| uk-UA | Ваш ключ потоку |
+| vi-VN | Khóa luồng của bạn |
+| zh-CN | 您的推流码 |
