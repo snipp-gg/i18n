@@ -1637,7 +1637,6 @@
   "LIVE_BITRATE_VALUE": "{value} kbps",
   "LIVE_CHAT_HEADING": "Chat",
   "LIVE_CHAT_EMPTY": "Ei vielä viestejä. Sano hei!",
-  "LIVE_CHAT_OFFLINE": "Chat avautuu, kun striimi alkaa.",
   "LIVE_CHAT_PLACEHOLDER": "Lähetä viesti",
   "LIVE_CHAT_SEND": "Lähetä",
   "LIVE_CHAT_DELETE": "Poista viesti",

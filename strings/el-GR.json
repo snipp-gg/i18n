@@ -1637,7 +1637,6 @@
   "LIVE_BITRATE_VALUE": "{value} kbps",
   "LIVE_CHAT_HEADING": "Συνομιλία",
   "LIVE_CHAT_EMPTY": "Δεν υπάρχουν ακόμα μηνύματα. Πείτε ένα γεια!",
-  "LIVE_CHAT_OFFLINE": "Η συνομιλία ανοίγει όταν ξεκινήσει η μετάδοση.",
   "LIVE_CHAT_PLACEHOLDER": "Στείλτε ένα μήνυμα",
   "LIVE_CHAT_SEND": "Αποστολή",
   "LIVE_CHAT_DELETE": "Διαγραφή μηνύματος",

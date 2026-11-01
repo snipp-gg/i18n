@@ -1637,7 +1637,6 @@
   "LIVE_BITRATE_VALUE": "{value} kbps",
   "LIVE_CHAT_HEADING": "Chat",
   "LIVE_CHAT_EMPTY": "Ainda não há mensagens. Diga olá!",
-  "LIVE_CHAT_OFFLINE": "O chat abre quando a transmissão começar.",
   "LIVE_CHAT_PLACEHOLDER": "Envie uma mensagem",
   "LIVE_CHAT_SEND": "Enviar",
   "LIVE_CHAT_DELETE": "Eliminar mensagem",

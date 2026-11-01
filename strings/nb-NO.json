@@ -1637,7 +1637,6 @@
   "LIVE_BITRATE_VALUE": "{value} kbps",
   "LIVE_CHAT_HEADING": "Chat",
   "LIVE_CHAT_EMPTY": "Ingen meldinger ennå. Si hei!",
-  "LIVE_CHAT_OFFLINE": "Chatten åpner når sendingen starter.",
   "LIVE_CHAT_PLACEHOLDER": "Send en melding",
   "LIVE_CHAT_SEND": "Send",
   "LIVE_CHAT_DELETE": "Slett melding",

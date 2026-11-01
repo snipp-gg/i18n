@@ -1637,7 +1637,6 @@
   "LIVE_BITRATE_VALUE": "{value} kbps",
   "LIVE_CHAT_HEADING": "चैट",
   "LIVE_CHAT_EMPTY": "अभी तक कोई मैसेज नहीं। हाय कहें!",
-  "LIVE_CHAT_OFFLINE": "स्ट्रीम लाइव होने पर चैट खुलेगी।",
   "LIVE_CHAT_PLACEHOLDER": "मैसेज भेजें",
   "LIVE_CHAT_SEND": "भेजें",
   "LIVE_CHAT_DELETE": "मैसेज हटाएँ",

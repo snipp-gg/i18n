@@ -1637,7 +1637,6 @@
   "LIVE_BITRATE_VALUE": "{value} кбит/с",
   "LIVE_CHAT_HEADING": "Чат",
   "LIVE_CHAT_EMPTY": "Сообщений пока нет. Поздоровайтесь!",
-  "LIVE_CHAT_OFFLINE": "Чат откроется, когда начнётся эфир.",
   "LIVE_CHAT_PLACEHOLDER": "Отправить сообщение",
   "LIVE_CHAT_SEND": "Отправить",
   "LIVE_CHAT_DELETE": "Удалить сообщение",

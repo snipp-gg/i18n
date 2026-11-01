@@ -1637,7 +1637,6 @@
   "LIVE_BITRATE_VALUE": "{value} kbps",
   "LIVE_CHAT_HEADING": "Chat",
   "LIVE_CHAT_EMPTY": "Zatím žádné zprávy. Pozdravte!",
-  "LIVE_CHAT_OFFLINE": "Chat se otevře, jakmile stream začne.",
   "LIVE_CHAT_PLACEHOLDER": "Napište zprávu",
   "LIVE_CHAT_SEND": "Odeslat",
   "LIVE_CHAT_DELETE": "Smazat zprávu",

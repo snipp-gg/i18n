@@ -1637,7 +1637,6 @@
   "LIVE_BITRATE_VALUE": "{value} kbps",
   "LIVE_CHAT_HEADING": "Chat",
   "LIVE_CHAT_EMPTY": "Nog geen berichten. Zeg hoi!",
-  "LIVE_CHAT_OFFLINE": "De chat opent zodra de stream live gaat.",
   "LIVE_CHAT_PLACEHOLDER": "Stuur een bericht",
   "LIVE_CHAT_SEND": "Verzenden",
   "LIVE_CHAT_DELETE": "Bericht verwijderen",

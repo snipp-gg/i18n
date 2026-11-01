@@ -1637,7 +1637,6 @@
   "LIVE_BITRATE_VALUE": "{value} kbps",
   "LIVE_CHAT_HEADING": "Chatt",
   "LIVE_CHAT_EMPTY": "Inga meddelanden än. Säg hej!",
-  "LIVE_CHAT_OFFLINE": "Chatten öppnas när strömmen startar.",
   "LIVE_CHAT_PLACEHOLDER": "Skicka ett meddelande",
   "LIVE_CHAT_SEND": "Skicka",
   "LIVE_CHAT_DELETE": "Radera meddelande",

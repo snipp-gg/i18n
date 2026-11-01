@@ -1637,7 +1637,6 @@
   "LIVE_BITRATE_VALUE": "{value} kbps",
   "LIVE_CHAT_HEADING": "Chat",
   "LIVE_CHAT_EMPTY": "Wala pang mensahe. Mag-hi ka!",
-  "LIVE_CHAT_OFFLINE": "Magbubukas ang chat kapag nag-live na ang stream.",
   "LIVE_CHAT_PLACEHOLDER": "Magpadala ng mensahe",
   "LIVE_CHAT_SEND": "Ipadala",
   "LIVE_CHAT_DELETE": "Tanggalin ang mensahe",

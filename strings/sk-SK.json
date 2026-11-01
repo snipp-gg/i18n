@@ -1637,7 +1637,6 @@
   "LIVE_BITRATE_VALUE": "{value} kbps",
   "LIVE_CHAT_HEADING": "Chat",
   "LIVE_CHAT_EMPTY": "Zatiaľ žiadne správy. Povedz ahoj!",
-  "LIVE_CHAT_OFFLINE": "Chat sa otvorí, keď sa začne vysielanie.",
   "LIVE_CHAT_PLACEHOLDER": "Napísať správu",
   "LIVE_CHAT_SEND": "Odoslať",
   "LIVE_CHAT_DELETE": "Odstrániť správu",

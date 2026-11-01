@@ -1637,7 +1637,6 @@
   "LIVE_BITRATE_VALUE": "{value} kbps",
   "LIVE_CHAT_HEADING": "Obrolan",
   "LIVE_CHAT_EMPTY": "Belum ada pesan. Ayo sapa!",
-  "LIVE_CHAT_OFFLINE": "Obrolan dibuka saat siaran dimulai.",
   "LIVE_CHAT_PLACEHOLDER": "Kirim pesan",
   "LIVE_CHAT_SEND": "Kirim",
   "LIVE_CHAT_DELETE": "Hapus pesan",

@@ -1637,7 +1637,6 @@
   "LIVE_BITRATE_VALUE": "{value} kbps",
   "LIVE_CHAT_HEADING": "แชท",
   "LIVE_CHAT_EMPTY": "ยังไม่มีข้อความ มาทักทายกันเลย!",
-  "LIVE_CHAT_OFFLINE": "แชทจะเปิดเมื่อเริ่มไลฟ์",
   "LIVE_CHAT_PLACEHOLDER": "ส่งข้อความ",
   "LIVE_CHAT_SEND": "ส่ง",
   "LIVE_CHAT_DELETE": "ลบข้อความ",
