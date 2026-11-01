@@ -1652,6 +1652,7 @@
   "LIVE_CHAT_TIMEOUT_86400": "Bisukan selama 24 jam",
   "LIVE_CHAT_TOAST_TIMED_OUT": "{name} telah dibisukan sementara.",
   "LIVE_CHAT_ERROR_TIMEOUT": "Gagal membisukan pengguna ini. Silakan coba lagi.",
+  "LIVE_CHAT_ERROR_TIMEOUT_FORBIDDEN": "Anda tidak dapat membisukan sementara pengguna ini.",
   "LIVE_CHAT_TIMED_OUT": "Anda dibisukan sementara di obrolan ini. Anda dapat mengobrol lagi {time}.",
   "LIVE_CHAT_BADGE_STREAMER": "Streamer",
   "LIVE_CHAT_BADGE_MODERATOR": "Moderator",

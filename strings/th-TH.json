@@ -1652,6 +1652,7 @@
   "LIVE_CHAT_TIMEOUT_86400": "ระงับแชท 24 ชั่วโมง",
   "LIVE_CHAT_TOAST_TIMED_OUT": "ระงับแชทของ {name} ชั่วคราวแล้ว",
   "LIVE_CHAT_ERROR_TIMEOUT": "ไม่สามารถระงับแชทของผู้ใช้นี้ได้ กรุณาลองอีกครั้ง",
+  "LIVE_CHAT_ERROR_TIMEOUT_FORBIDDEN": "คุณไม่สามารถระงับแชทของผู้ใช้นี้ชั่วคราวได้",
   "LIVE_CHAT_TIMED_OUT": "คุณถูกระงับแชทชั่วคราวในแชทนี้ คุณจะแชทได้อีกครั้ง{time}",
   "LIVE_CHAT_BADGE_STREAMER": "สตรีมเมอร์",
   "LIVE_CHAT_BADGE_MODERATOR": "ผู้ดูแล",

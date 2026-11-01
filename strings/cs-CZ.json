@@ -1652,6 +1652,7 @@
   "LIVE_CHAT_TIMEOUT_86400": "Umlčet na 24 hodin",
   "LIVE_CHAT_TOAST_TIMED_OUT": "Uživatel {name} byl dočasně umlčen.",
   "LIVE_CHAT_ERROR_TIMEOUT": "Tohoto uživatele se nepodařilo umlčet. Zkuste to prosím znovu.",
+  "LIVE_CHAT_ERROR_TIMEOUT_FORBIDDEN": "Tohoto uživatele nemůžete dočasně umlčet.",
   "LIVE_CHAT_TIMED_OUT": "V tomto chatu máte dočasný zákaz psaní. Znovu psát můžete {time}.",
   "LIVE_CHAT_BADGE_STREAMER": "Streamer",
   "LIVE_CHAT_BADGE_MODERATOR": "Moderátor",

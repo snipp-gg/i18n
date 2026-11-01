@@ -1652,6 +1652,7 @@
   "LIVE_CHAT_TIMEOUT_86400": "Timeout i 24 timer",
   "LIVE_CHAT_TOAST_TIMED_OUT": "{name} har fått timeout.",
   "LIVE_CHAT_ERROR_TIMEOUT": "Kunne ikke gi denne brukeren timeout. Prøv igjen.",
+  "LIVE_CHAT_ERROR_TIMEOUT_FORBIDDEN": "Du kan ikke gi denne brukeren timeout.",
   "LIVE_CHAT_TIMED_OUT": "Du har fått timeout i denne chatten. Du kan chatte igjen {time}.",
   "LIVE_CHAT_BADGE_STREAMER": "Strømmer",
   "LIVE_CHAT_BADGE_MODERATOR": "Moderator",

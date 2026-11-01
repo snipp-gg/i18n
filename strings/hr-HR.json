@@ -1652,6 +1652,7 @@
   "LIVE_CHAT_TIMEOUT_86400": "Utišaj na 24 sata",
   "LIVE_CHAT_TOAST_TIMED_OUT": "Korisnik {name} privremeno je utišan.",
   "LIVE_CHAT_ERROR_TIMEOUT": "Utišavanje korisnika nije uspjelo. Pokušaj ponovno.",
+  "LIVE_CHAT_ERROR_TIMEOUT_FORBIDDEN": "Ne možeš privremeno utišati ovog korisnika.",
   "LIVE_CHAT_TIMED_OUT": "U ovom chatu privremeno ne možeš pisati. Ponovno možeš pisati {time}.",
   "LIVE_CHAT_BADGE_STREAMER": "Streamer",
   "LIVE_CHAT_BADGE_MODERATOR": "Moderator",

@@ -1652,6 +1652,7 @@
   "LIVE_CHAT_TIMEOUT_86400": "24時間タイムアウト",
   "LIVE_CHAT_TOAST_TIMED_OUT": "{name}さんをタイムアウトしました。",
   "LIVE_CHAT_ERROR_TIMEOUT": "このユーザーをタイムアウトできませんでした。もう一度お試しください。",
+  "LIVE_CHAT_ERROR_TIMEOUT_FORBIDDEN": "このユーザーをタイムアウトすることはできません。",
   "LIVE_CHAT_TIMED_OUT": "このチャットでタイムアウトされています。{time}にもう一度チャットできます。",
   "LIVE_CHAT_BADGE_STREAMER": "配信者",
   "LIVE_CHAT_BADGE_MODERATOR": "モデレーター",

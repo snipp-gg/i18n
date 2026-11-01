@@ -1652,6 +1652,7 @@
   "LIVE_CHAT_TIMEOUT_86400": "Silenciar por 24 horas",
   "LIVE_CHAT_TOAST_TIMED_OUT": "Você silenciou {name}.",
   "LIVE_CHAT_ERROR_TIMEOUT": "Falha ao silenciar este usuário. Tente novamente.",
+  "LIVE_CHAT_ERROR_TIMEOUT_FORBIDDEN": "Você não pode silenciar temporariamente este usuário.",
   "LIVE_CHAT_TIMED_OUT": "Você não pode enviar mensagens neste chat por enquanto. Você poderá conversar novamente {time}.",
   "LIVE_CHAT_BADGE_STREAMER": "Streamer",
   "LIVE_CHAT_BADGE_MODERATOR": "Moderador",

@@ -1652,6 +1652,7 @@
   "LIVE_CHAT_TIMEOUT_86400": "Silenzia per 24 ore",
   "LIVE_CHAT_TOAST_TIMED_OUT": "Hai silenziato {name}.",
   "LIVE_CHAT_ERROR_TIMEOUT": "Impossibile silenziare questo utente. Riprova.",
+  "LIVE_CHAT_ERROR_TIMEOUT_FORBIDDEN": "Non puoi silenziare temporaneamente questo utente.",
   "LIVE_CHAT_TIMED_OUT": "Al momento non puoi scrivere in questa chat. Potrai scrivere di nuovo {time}.",
   "LIVE_CHAT_BADGE_STREAMER": "Streamer",
   "LIVE_CHAT_BADGE_MODERATOR": "Moderatore",

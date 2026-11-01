@@ -1652,6 +1652,7 @@
   "LIVE_CHAT_TIMEOUT_86400": "Jäähy 24 tunniksi",
   "LIVE_CHAT_TOAST_TIMED_OUT": "{name} sai jäähyn.",
   "LIVE_CHAT_ERROR_TIMEOUT": "Jäähyn antaminen epäonnistui. Yritä uudelleen.",
+  "LIVE_CHAT_ERROR_TIMEOUT_FORBIDDEN": "Et voi antaa jäähyä tälle käyttäjälle.",
   "LIVE_CHAT_TIMED_OUT": "Olet jäähyllä tässä chatissa. Voit kirjoittaa chattiin taas {time}.",
   "LIVE_CHAT_BADGE_STREAMER": "Striimaaja",
   "LIVE_CHAT_BADGE_MODERATOR": "Moderaattori",

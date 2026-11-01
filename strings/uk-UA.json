@@ -1652,6 +1652,7 @@
   "LIVE_CHAT_TIMEOUT_86400": "Тайм-аут на 24 години",
   "LIVE_CHAT_TOAST_TIMED_OUT": "Користувачу {name} видано тайм-аут.",
   "LIVE_CHAT_ERROR_TIMEOUT": "Не вдалося видати тайм-аут цьому користувачу. Спробуйте ще раз.",
+  "LIVE_CHAT_ERROR_TIMEOUT_FORBIDDEN": "Ви не можете видати тайм-аут цьому користувачу.",
   "LIVE_CHAT_TIMED_OUT": "Вам видано тайм-аут у цьому чаті. Ви знову зможете писати {time}.",
   "LIVE_CHAT_BADGE_STREAMER": "Стример",
   "LIVE_CHAT_BADGE_MODERATOR": "Модератор",

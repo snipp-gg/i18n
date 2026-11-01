@@ -1652,6 +1652,7 @@
   "LIVE_CHAT_TIMEOUT_86400": "Cấm trò chuyện trong 24 giờ",
   "LIVE_CHAT_TOAST_TIMED_OUT": "{name} đã bị tạm cấm trò chuyện.",
   "LIVE_CHAT_ERROR_TIMEOUT": "Không thể tạm cấm người dùng này. Vui lòng thử lại.",
+  "LIVE_CHAT_ERROR_TIMEOUT_FORBIDDEN": "Bạn không thể tạm cấm người dùng này trò chuyện.",
   "LIVE_CHAT_TIMED_OUT": "Bạn đang bị tạm cấm trò chuyện trong buổi phát trực tiếp này. Bạn có thể trò chuyện lại {time}.",
   "LIVE_CHAT_BADGE_STREAMER": "Streamer",
   "LIVE_CHAT_BADGE_MODERATOR": "Người kiểm duyệt",

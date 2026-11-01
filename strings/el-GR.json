@@ -1652,6 +1652,7 @@
   "LIVE_CHAT_TIMEOUT_86400": "Σίγαση για 24 ώρες",
   "LIVE_CHAT_TOAST_TIMED_OUT": "Ο χρήστης {name} τέθηκε σε προσωρινή σίγαση.",
   "LIVE_CHAT_ERROR_TIMEOUT": "Αποτυχία σίγασης του χρήστη. Παρακαλούμε δοκιμάστε ξανά.",
+  "LIVE_CHAT_ERROR_TIMEOUT_FORBIDDEN": "Δεν μπορείτε να θέσετε αυτόν τον χρήστη σε προσωρινή σίγαση.",
   "LIVE_CHAT_TIMED_OUT": "Έχετε τεθεί σε προσωρινή σίγαση σε αυτήν τη συνομιλία. Μπορείτε να γράψετε ξανά {time}.",
   "LIVE_CHAT_BADGE_STREAMER": "Streamer",
   "LIVE_CHAT_BADGE_MODERATOR": "Συντονιστής",

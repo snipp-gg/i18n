@@ -1652,6 +1652,7 @@
   "LIVE_CHAT_TIMEOUT_86400": "Exclure pendant 24 heures",
   "LIVE_CHAT_TOAST_TIMED_OUT": "Vous avez exclu {name} temporairement.",
   "LIVE_CHAT_ERROR_TIMEOUT": "Échec de l'exclusion de cet utilisateur. Veuillez réessayer.",
+  "LIVE_CHAT_ERROR_TIMEOUT_FORBIDDEN": "Vous ne pouvez pas exclure temporairement cet utilisateur.",
   "LIVE_CHAT_TIMED_OUT": "Votre accès à ce chat est temporairement suspendu. Vous pourrez de nouveau écrire {time}.",
   "LIVE_CHAT_BADGE_STREAMER": "Streamer",
   "LIVE_CHAT_BADGE_MODERATOR": "Modérateur",
