@@ -1626,6 +1626,7 @@
   "LIVE_OFFLINE_OWNER_HINT": "Emitiraj uživo iz OBS-a pomoću URL-a poslužitelja i ključa streama iz postavki streaminga.",
   "LIVE_ABOUT_HEADING": "O korisniku {name}",
   "LIVE_EDIT_STREAM": "Uredi stream",
+  "LIVE_STREAM_SETTINGS": "Postavke streama",
   "LIVE_ACTIONS_MENU_LABEL": "Radnje streama",
   "LIVE_EDIT_STREAM_DESCRIPTION": "Daj svom streamu naslov kako bi ljudi znali što streamaš.",
   "LIVE_EDIT_STREAM_PLACEHOLDER": "Naslov streama",

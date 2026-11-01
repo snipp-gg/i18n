@@ -1626,6 +1626,7 @@
   "LIVE_OFFLINE_OWNER_HINT": "라이브 방송 설정에 있는 서버 URL과 스트림 키로 OBS에서 라이브 방송을 시작하세요.",
   "LIVE_ABOUT_HEADING": "{name}님 정보",
   "LIVE_EDIT_STREAM": "방송 수정",
+  "LIVE_STREAM_SETTINGS": "방송 설정",
   "LIVE_ACTIONS_MENU_LABEL": "방송 작업",
   "LIVE_EDIT_STREAM_DESCRIPTION": "방송에 제목을 붙여 무엇을 방송하는지 알려 주세요.",
   "LIVE_EDIT_STREAM_PLACEHOLDER": "방송 제목",

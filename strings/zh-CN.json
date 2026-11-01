@@ -1626,6 +1626,7 @@
   "LIVE_OFFLINE_OWNER_HINT": "使用直播设置中的服务器 URL 和推流码，通过 OBS 开始直播。",
   "LIVE_ABOUT_HEADING": "关于 {name}",
   "LIVE_EDIT_STREAM": "编辑直播",
+  "LIVE_STREAM_SETTINGS": "直播设置",
   "LIVE_ACTIONS_MENU_LABEL": "直播操作",
   "LIVE_EDIT_STREAM_DESCRIPTION": "为您的直播设置标题，让大家知道您在直播什么。",
   "LIVE_EDIT_STREAM_PLACEHOLDER": "直播标题",

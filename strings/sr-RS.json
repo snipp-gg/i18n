@@ -1626,6 +1626,7 @@
   "LIVE_OFFLINE_OWNER_HINT": "Strimujte uživo iz OBS-a pomoću URL-a servera i ključa strima iz podešavanja strimovanja.",
   "LIVE_ABOUT_HEADING": "O korisniku {name}",
   "LIVE_EDIT_STREAM": "Izmeni strim",
+  "LIVE_STREAM_SETTINGS": "Podešavanja strima",
   "LIVE_ACTIONS_MENU_LABEL": "Radnje strima",
   "LIVE_EDIT_STREAM_DESCRIPTION": "Dajte svom strimu naslov kako bi ljudi znali šta strimujete.",
   "LIVE_EDIT_STREAM_PLACEHOLDER": "Naslov strima",

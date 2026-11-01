@@ -1626,6 +1626,7 @@
   "LIVE_OFFLINE_OWNER_HINT": "अपनी स्ट्रीमिंग सेटिंग्स में दिए गए सर्वर URL और स्ट्रीम कुंजी के साथ OBS से लाइव जाएँ।",
   "LIVE_ABOUT_HEADING": "{name} के बारे में",
   "LIVE_EDIT_STREAM": "स्ट्रीम एडिट करें",
+  "LIVE_STREAM_SETTINGS": "स्ट्रीम सेटिंग्स",
   "LIVE_ACTIONS_MENU_LABEL": "स्ट्रीम क्रियाएँ",
   "LIVE_EDIT_STREAM_DESCRIPTION": "अपनी स्ट्रीम को एक टाइटल दें ताकि लोगों को पता चले कि आप क्या स्ट्रीम कर रहे हैं।",
   "LIVE_EDIT_STREAM_PLACEHOLDER": "स्ट्रीम टाइटल",

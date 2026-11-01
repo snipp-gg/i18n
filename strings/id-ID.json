@@ -1626,6 +1626,7 @@
   "LIVE_OFFLINE_OWNER_HINT": "Mulai live dari OBS dengan URL server dan kunci stream di pengaturan streaming Anda.",
   "LIVE_ABOUT_HEADING": "Tentang {name}",
   "LIVE_EDIT_STREAM": "Edit Siaran",
+  "LIVE_STREAM_SETTINGS": "Pengaturan Siaran",
   "LIVE_ACTIONS_MENU_LABEL": "Tindakan siaran",
   "LIVE_EDIT_STREAM_DESCRIPTION": "Beri judul pada siaran Anda agar orang tahu apa yang Anda siarkan.",
   "LIVE_EDIT_STREAM_PLACEHOLDER": "Judul siaran",

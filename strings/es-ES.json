@@ -1626,6 +1626,7 @@
   "LIVE_OFFLINE_OWNER_HINT": "Emite en directo desde OBS con la URL del servidor y la clave de retransmisión de tus ajustes de streaming.",
   "LIVE_ABOUT_HEADING": "Acerca de {name}",
   "LIVE_EDIT_STREAM": "Editar Directo",
+  "LIVE_STREAM_SETTINGS": "Ajustes del Directo",
   "LIVE_ACTIONS_MENU_LABEL": "Acciones del directo",
   "LIVE_EDIT_STREAM_DESCRIPTION": "Ponle un título a tu directo para que la gente sepa qué estás emitiendo.",
   "LIVE_EDIT_STREAM_PLACEHOLDER": "Título del directo",

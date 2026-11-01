@@ -1626,6 +1626,7 @@
   "LIVE_OFFLINE_OWNER_HINT": "Geh aus OBS live, mit der Server-URL und dem Streamschlüssel aus deinen Streaming-Einstellungen.",
   "LIVE_ABOUT_HEADING": "Über {name}",
   "LIVE_EDIT_STREAM": "Stream Bearbeiten",
+  "LIVE_STREAM_SETTINGS": "Streameinstellungen",
   "LIVE_ACTIONS_MENU_LABEL": "Streamaktionen",
   "LIVE_EDIT_STREAM_DESCRIPTION": "Gib deinem Stream einen Titel, damit alle wissen, was du streamst.",
   "LIVE_EDIT_STREAM_PLACEHOLDER": "Streamtitel",
