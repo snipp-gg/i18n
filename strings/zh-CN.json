@@ -1632,6 +1632,7 @@
   "LIVE_EDIT_STREAM_PLACEHOLDER": "直播标题",
   "LIVE_TOAST_STREAM_UPDATED": "您的直播已更新！",
   "LIVE_ERROR_STREAM_UPDATE": "更新直播失败。请重试。",
+  "LIVE_STATS_HEADING": "直播数据",
   "LIVE_STAT_VIEWERS": "观众",
   "LIVE_STAT_UPTIME": "直播时长",
   "LIVE_STAT_BITRATE": "码率",

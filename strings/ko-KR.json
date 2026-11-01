@@ -1632,6 +1632,7 @@
   "LIVE_EDIT_STREAM_PLACEHOLDER": "방송 제목",
   "LIVE_TOAST_STREAM_UPDATED": "방송이 업데이트되었습니다!",
   "LIVE_ERROR_STREAM_UPDATE": "방송을 업데이트하지 못했습니다. 다시 시도해 주세요.",
+  "LIVE_STATS_HEADING": "방송 통계",
   "LIVE_STAT_VIEWERS": "시청자",
   "LIVE_STAT_UPTIME": "경과 시간",
   "LIVE_STAT_BITRATE": "비트레이트",

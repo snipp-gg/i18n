@@ -1632,6 +1632,7 @@
   "LIVE_EDIT_STREAM_PLACEHOLDER": "Striimin otsikko",
   "LIVE_TOAST_STREAM_UPDATED": "Striimisi on päivitetty!",
   "LIVE_ERROR_STREAM_UPDATE": "Striimisi päivitys epäonnistui. Yritä uudelleen.",
+  "LIVE_STATS_HEADING": "Striimin tilastot",
   "LIVE_STAT_VIEWERS": "Katsojat",
   "LIVE_STAT_UPTIME": "Kesto",
   "LIVE_STAT_BITRATE": "Bittinopeus",

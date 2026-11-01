@@ -1632,6 +1632,7 @@
   "LIVE_EDIT_STREAM_PLACEHOLDER": "Naslov strima",
   "LIVE_TOAST_STREAM_UPDATED": "Vaš strim je ažuriran!",
   "LIVE_ERROR_STREAM_UPDATE": "Neuspešno ažuriranje vašeg strima. Pokušajte ponovo.",
+  "LIVE_STATS_HEADING": "Statistika strima",
   "LIVE_STAT_VIEWERS": "Gledaoci",
   "LIVE_STAT_UPTIME": "Trajanje",
   "LIVE_STAT_BITRATE": "Bitrejt",

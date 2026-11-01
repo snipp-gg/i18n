@@ -1632,6 +1632,7 @@
   "LIVE_EDIT_STREAM_PLACEHOLDER": "Título da transmissão",
   "LIVE_TOAST_STREAM_UPDATED": "Sua transmissão foi atualizada!",
   "LIVE_ERROR_STREAM_UPDATE": "Falha ao atualizar sua transmissão. Tente novamente.",
+  "LIVE_STATS_HEADING": "Estatísticas da transmissão",
   "LIVE_STAT_VIEWERS": "Espectadores",
   "LIVE_STAT_UPTIME": "Tempo no ar",
   "LIVE_STAT_BITRATE": "Taxa de bits",

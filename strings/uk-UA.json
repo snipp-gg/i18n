@@ -1632,6 +1632,7 @@
   "LIVE_EDIT_STREAM_PLACEHOLDER": "Назва трансляції",
   "LIVE_TOAST_STREAM_UPDATED": "Вашу трансляцію оновлено!",
   "LIVE_ERROR_STREAM_UPDATE": "Не вдалося оновити вашу трансляцію. Спробуйте ще раз.",
+  "LIVE_STATS_HEADING": "Статистика трансляції",
   "LIVE_STAT_VIEWERS": "Глядачі",
   "LIVE_STAT_UPTIME": "Час в ефірі",
   "LIVE_STAT_BITRATE": "Бітрейт",

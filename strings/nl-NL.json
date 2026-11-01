@@ -1632,6 +1632,7 @@
   "LIVE_EDIT_STREAM_PLACEHOLDER": "Streamtitel",
   "LIVE_TOAST_STREAM_UPDATED": "Je stream is bijgewerkt!",
   "LIVE_ERROR_STREAM_UPDATE": "Stream bijwerken mislukt. Probeer het opnieuw.",
+  "LIVE_STATS_HEADING": "Streamstatistieken",
   "LIVE_STAT_VIEWERS": "Kijkers",
   "LIVE_STAT_UPTIME": "Zendtijd",
   "LIVE_STAT_BITRATE": "Bitsnelheid",

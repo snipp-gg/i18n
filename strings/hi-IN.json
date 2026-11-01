@@ -1632,6 +1632,7 @@
   "LIVE_EDIT_STREAM_PLACEHOLDER": "स्ट्रीम टाइटल",
   "LIVE_TOAST_STREAM_UPDATED": "आपकी स्ट्रीम अपडेट हो गई है!",
   "LIVE_ERROR_STREAM_UPDATE": "आपकी स्ट्रीम अपडेट करने में विफल। कृपया दोबारा कोशिश करें।",
+  "LIVE_STATS_HEADING": "स्ट्रीम के आंकड़े",
   "LIVE_STAT_VIEWERS": "दर्शक",
   "LIVE_STAT_UPTIME": "अवधि",
   "LIVE_STAT_BITRATE": "बिटरेट",

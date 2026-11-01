@@ -1632,6 +1632,7 @@
   "LIVE_EDIT_STREAM_PLACEHOLDER": "Titel på strömmen",
   "LIVE_TOAST_STREAM_UPDATED": "Din ström har uppdaterats!",
   "LIVE_ERROR_STREAM_UPDATE": "Kunde inte uppdatera din ström. Försök igen.",
+  "LIVE_STATS_HEADING": "Strömstatistik",
   "LIVE_STAT_VIEWERS": "Tittare",
   "LIVE_STAT_UPTIME": "Sändningstid",
   "LIVE_STAT_BITRATE": "Bithastighet",

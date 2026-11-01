@@ -1632,6 +1632,7 @@
   "LIVE_EDIT_STREAM_PLACEHOLDER": "Pamagat ng stream",
   "LIVE_TOAST_STREAM_UPDATED": "Na-update ang iyong stream!",
   "LIVE_ERROR_STREAM_UPDATE": "Hindi na-update ang iyong stream. Subukan ulit.",
+  "LIVE_STATS_HEADING": "Mga Istatistika ng Stream",
   "LIVE_STAT_VIEWERS": "Mga manonood",
   "LIVE_STAT_UPTIME": "Tagal",
   "LIVE_STAT_BITRATE": "Bitrate",

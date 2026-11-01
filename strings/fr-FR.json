@@ -1632,6 +1632,7 @@
   "LIVE_EDIT_STREAM_PLACEHOLDER": "Titre du direct",
   "LIVE_TOAST_STREAM_UPDATED": "Votre direct a été mis à jour !",
   "LIVE_ERROR_STREAM_UPDATE": "Échec de la mise à jour de votre direct. Veuillez réessayer.",
+  "LIVE_STATS_HEADING": "Statistiques du direct",
   "LIVE_STAT_VIEWERS": "Spectateurs",
   "LIVE_STAT_UPTIME": "Durée",
   "LIVE_STAT_BITRATE": "Débit",

@@ -1632,6 +1632,7 @@
   "LIVE_EDIT_STREAM_PLACEHOLDER": "Judul siaran",
   "LIVE_TOAST_STREAM_UPDATED": "Siaran Anda telah diperbarui!",
   "LIVE_ERROR_STREAM_UPDATE": "Gagal memperbarui siaran Anda. Silakan coba lagi.",
+  "LIVE_STATS_HEADING": "Statistik Siaran",
   "LIVE_STAT_VIEWERS": "Penonton",
   "LIVE_STAT_UPTIME": "Durasi",
   "LIVE_STAT_BITRATE": "Bitrate",

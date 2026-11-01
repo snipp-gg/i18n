@@ -1632,6 +1632,7 @@
   "LIVE_EDIT_STREAM_PLACEHOLDER": "Název streamu",
   "LIVE_TOAST_STREAM_UPDATED": "Váš stream byl aktualizován!",
   "LIVE_ERROR_STREAM_UPDATE": "Nepodařilo se aktualizovat váš stream. Zkuste to prosím znovu.",
+  "LIVE_STATS_HEADING": "Statistiky streamu",
   "LIVE_STAT_VIEWERS": "Diváci",
   "LIVE_STAT_UPTIME": "Doba vysílání",
   "LIVE_STAT_BITRATE": "Datový tok",

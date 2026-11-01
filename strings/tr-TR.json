@@ -1632,6 +1632,7 @@
   "LIVE_EDIT_STREAM_PLACEHOLDER": "Yayın başlığı",
   "LIVE_TOAST_STREAM_UPDATED": "Yayınınız güncellendi!",
   "LIVE_ERROR_STREAM_UPDATE": "Yayınınız güncellenemedi. Lütfen tekrar deneyin.",
+  "LIVE_STATS_HEADING": "Yayın İstatistikleri",
   "LIVE_STAT_VIEWERS": "İzleyiciler",
   "LIVE_STAT_UPTIME": "Yayın süresi",
   "LIVE_STAT_BITRATE": "Bit hızı",

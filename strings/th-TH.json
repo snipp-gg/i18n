@@ -1632,6 +1632,7 @@
   "LIVE_EDIT_STREAM_PLACEHOLDER": "ชื่อไลฟ์",
   "LIVE_TOAST_STREAM_UPDATED": "อัปเดตไลฟ์ของคุณแล้ว!",
   "LIVE_ERROR_STREAM_UPDATE": "ไม่สามารถอัปเดตไลฟ์ของคุณได้ กรุณาลองอีกครั้ง",
+  "LIVE_STATS_HEADING": "สถิติไลฟ์",
   "LIVE_STAT_VIEWERS": "ผู้ชม",
   "LIVE_STAT_UPTIME": "ระยะเวลาไลฟ์",
   "LIVE_STAT_BITRATE": "บิตเรต",

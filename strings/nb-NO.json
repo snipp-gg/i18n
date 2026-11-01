@@ -1632,6 +1632,7 @@
   "LIVE_EDIT_STREAM_PLACEHOLDER": "Tittel på strømmen",
   "LIVE_TOAST_STREAM_UPDATED": "Strømmen din er oppdatert!",
   "LIVE_ERROR_STREAM_UPDATE": "Kunne ikke oppdatere strømmen din. Prøv igjen.",
+  "LIVE_STATS_HEADING": "Strømmestatistikk",
   "LIVE_STAT_VIEWERS": "Seere",
   "LIVE_STAT_UPTIME": "Sendetid",
   "LIVE_STAT_BITRATE": "Bithastighet",

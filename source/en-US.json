@@ -1632,6 +1632,7 @@
   "LIVE_EDIT_STREAM_PLACEHOLDER": "Stream title",
   "LIVE_TOAST_STREAM_UPDATED": "Your stream has been updated!",
   "LIVE_ERROR_STREAM_UPDATE": "Failed to update your stream. Please try again.",
+  "LIVE_STATS_HEADING": "Stream Stats",
   "LIVE_STAT_VIEWERS": "Viewers",
   "LIVE_STAT_UPTIME": "Uptime",
   "LIVE_STAT_BITRATE": "Bitrate",

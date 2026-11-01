@@ -1632,6 +1632,7 @@
   "LIVE_EDIT_STREAM_PLACEHOLDER": "Titlul transmisiei",
   "LIVE_TOAST_STREAM_UPDATED": "Transmisia ta a fost actualizată!",
   "LIVE_ERROR_STREAM_UPDATE": "Nu s-a putut actualiza transmisia ta. Te rugăm să încerci din nou.",
+  "LIVE_STATS_HEADING": "Statisticile transmisiei",
   "LIVE_STAT_VIEWERS": "Spectatori",
   "LIVE_STAT_UPTIME": "Durată",
   "LIVE_STAT_BITRATE": "Rată de biți",

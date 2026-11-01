@@ -1632,6 +1632,7 @@
   "LIVE_EDIT_STREAM_PLACEHOLDER": "配信タイトル",
   "LIVE_TOAST_STREAM_UPDATED": "配信を更新しました！",
   "LIVE_ERROR_STREAM_UPDATE": "配信の更新に失敗しました。もう一度お試しください。",
+  "LIVE_STATS_HEADING": "配信の統計",
   "LIVE_STAT_VIEWERS": "視聴者",
   "LIVE_STAT_UPTIME": "経過時間",
   "LIVE_STAT_BITRATE": "ビットレート",

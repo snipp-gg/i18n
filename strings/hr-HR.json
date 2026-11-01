@@ -1632,6 +1632,7 @@
   "LIVE_EDIT_STREAM_PLACEHOLDER": "Naslov streama",
   "LIVE_TOAST_STREAM_UPDATED": "Tvoj stream je ažuriran!",
   "LIVE_ERROR_STREAM_UPDATE": "Ažuriranje tvog streama nije uspjelo. Pokušaj ponovno.",
+  "LIVE_STATS_HEADING": "Statistika streama",
   "LIVE_STAT_VIEWERS": "Gledatelji",
   "LIVE_STAT_UPTIME": "Trajanje",
   "LIVE_STAT_BITRATE": "Bitrate",

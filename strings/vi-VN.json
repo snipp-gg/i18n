@@ -1632,6 +1632,7 @@
   "LIVE_EDIT_STREAM_PLACEHOLDER": "Tiêu đề buổi phát trực tiếp",
   "LIVE_TOAST_STREAM_UPDATED": "Buổi phát trực tiếp của bạn đã được cập nhật!",
   "LIVE_ERROR_STREAM_UPDATE": "Không thể cập nhật buổi phát trực tiếp của bạn. Vui lòng thử lại.",
+  "LIVE_STATS_HEADING": "Thống kê buổi phát trực tiếp",
   "LIVE_STAT_VIEWERS": "Người xem",
   "LIVE_STAT_UPTIME": "Thời gian phát",
   "LIVE_STAT_BITRATE": "Tốc độ bit",

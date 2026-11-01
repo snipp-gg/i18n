@@ -1632,6 +1632,7 @@
   "LIVE_EDIT_STREAM_PLACEHOLDER": "Τίτλος μετάδοσης",
   "LIVE_TOAST_STREAM_UPDATED": "Η μετάδοσή σας ενημερώθηκε!",
   "LIVE_ERROR_STREAM_UPDATE": "Αποτυχία ενημέρωσης της μετάδοσής σας. Παρακαλούμε δοκιμάστε ξανά.",
+  "LIVE_STATS_HEADING": "Στατιστικά μετάδοσης",
   "LIVE_STAT_VIEWERS": "Θεατές",
   "LIVE_STAT_UPTIME": "Διάρκεια",
   "LIVE_STAT_BITRATE": "Ρυθμός bit",
