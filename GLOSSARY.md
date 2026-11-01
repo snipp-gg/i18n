@@ -550,41 +550,41 @@ Source of truth is `Website/utils/i18n/strings/<locale>.json`; `i18n/strings/` m
 | vi-VN | Phát trực tiếp |
 | zh-CN | 直播 |
 
-## Live Hours
+## Live Minutes
 
-`SETTINGS_BILLING_LIVE_HOURS_LABEL` = "Monthly Live Hours"
+`SETTINGS_BILLING_LIVE_HOURS_LABEL` = "Monthly Live Minutes"
 
 | Locale | Value |
 | --- | --- |
-| bg-BG | Месечни часове на живо |
-| cs-CZ | Měsíční hodiny vysílání |
-| de-DE | Monatliche Live-Stunden |
-| el-GR | Μηνιαίες ώρες ζωντανής μετάδοσης |
-| es-ES | Horas en directo mensuales |
-| fi-FI | Kuukauden live-tunnit |
-| fil-PH | Buwanang Live Hours |
-| fr-FR | Heures de direct mensuelles |
-| hi-IN | मासिक लाइव घंटे |
-| hr-HR | Mjesečni sati uživo |
-| id-ID | Jam Live Bulanan |
-| it-IT | Ore di diretta mensili |
+| bg-BG | Месечни минути на живо |
+| cs-CZ | Měsíční minuty vysílání |
+| de-DE | Monatliche Live-Minuten |
+| el-GR | Μηνιαία λεπτά ζωντανής μετάδοσης |
+| es-ES | Minutos en directo mensuales |
+| fi-FI | Kuukauden live-minuutit |
+| fil-PH | Buwanang Live Minutes |
+| fr-FR | Minutes de direct mensuelles |
+| hi-IN | मासिक लाइव मिनट |
+| hr-HR | Mjesečne minute uživo |
+| id-ID | Menit Live Bulanan |
+| it-IT | Minuti di diretta mensili |
 | ja-JP | 月間ライブ配信時間 |
 | ko-KR | 월간 라이브 방송 시간 |
-| nb-NO | Månedlige strømmetimer |
-| nl-NL | Maandelijkse live-uren |
-| pl-PL | Miesięczne godziny transmisji |
-| pt-BR | Horas de transmissão mensais |
-| pt-PT | Horas de transmissão mensais |
-| ro-RO | Ore de transmisie lunare |
-| ru-RU | Часы эфира за месяц |
-| sk-SK | Mesačné hodiny vysielania |
-| sr-RS | Mesečni sati strimovanja |
-| sv-SE | Månatliga strömningstimmar |
-| th-TH | ชั่วโมงไลฟ์รายเดือน |
-| tr-TR | Aylık canlı yayın saatleri |
-| uk-UA | Години ефіру за місяць |
-| vi-VN | Giờ phát trực tiếp hàng tháng |
-| zh-CN | 每月直播小时数 |
+| nb-NO | Månedlige strømmeminutter |
+| nl-NL | Maandelijkse live-minuten |
+| pl-PL | Miesięczne minuty transmisji |
+| pt-BR | Minutos de transmissão mensais |
+| pt-PT | Minutos de transmissão mensais |
+| ro-RO | Minute de transmisie lunare |
+| ru-RU | Минуты эфира за месяц |
+| sk-SK | Mesačné minúty vysielania |
+| sr-RS | Mesečni minuti strimovanja |
+| sv-SE | Månatliga strömningsminuter |
+| th-TH | นาทีไลฟ์รายเดือน |
+| tr-TR | Aylık canlı yayın dakikaları |
+| uk-UA | Хвилини ефіру за місяць |
+| vi-VN | Phút phát trực tiếp hàng tháng |
+| zh-CN | 每月直播分钟数 |
 
 ## Stream Key
 
