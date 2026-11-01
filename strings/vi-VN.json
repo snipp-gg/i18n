@@ -1643,6 +1643,7 @@
   "LIVE_CHAT_SEND": "Gửi",
   "LIVE_CHAT_DELETE": "Xóa tin nhắn",
   "LIVE_CHAT_LOGIN": "Đăng nhập để trò chuyện",
+  "LIVE_CHAT_SCROLL_DOWN": "Cuộn xuống cuối",
   "LIVE_CHAT_ERROR_SEND": "Không thể gửi tin nhắn. Vui lòng thử lại.",
   "LIVE_CHAT_ERROR_DELETE": "Không thể xóa tin nhắn. Vui lòng thử lại.",
   "LIVE_CHAT_TIMEOUT": "Tạm cấm trò chuyện",

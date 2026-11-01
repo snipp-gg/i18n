@@ -1643,6 +1643,7 @@
   "LIVE_CHAT_SEND": "Lähetä",
   "LIVE_CHAT_DELETE": "Poista viesti",
   "LIVE_CHAT_LOGIN": "Kirjaudu sisään osallistuaksesi chattiin",
+  "LIVE_CHAT_SCROLL_DOWN": "Vieritä alas",
   "LIVE_CHAT_ERROR_SEND": "Viestin lähetys epäonnistui. Yritä uudelleen.",
   "LIVE_CHAT_ERROR_DELETE": "Viestin poisto epäonnistui. Yritä uudelleen.",
   "LIVE_CHAT_TIMEOUT": "Anna jäähy",

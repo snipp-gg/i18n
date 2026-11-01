@@ -1643,6 +1643,7 @@
   "LIVE_CHAT_SEND": "Send",
   "LIVE_CHAT_DELETE": "Slett melding",
   "LIVE_CHAT_LOGIN": "Logg inn for å chatte",
+  "LIVE_CHAT_SCROLL_DOWN": "Rull til bunnen",
   "LIVE_CHAT_ERROR_SEND": "Kunne ikke sende meldingen. Prøv igjen.",
   "LIVE_CHAT_ERROR_DELETE": "Kunne ikke slette meldingen. Prøv igjen.",
   "LIVE_CHAT_TIMEOUT": "Gi timeout",

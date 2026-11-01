@@ -1643,6 +1643,7 @@
   "LIVE_CHAT_SEND": "Odoslať",
   "LIVE_CHAT_DELETE": "Odstrániť správu",
   "LIVE_CHAT_LOGIN": "Prihlás sa a chatuj",
+  "LIVE_CHAT_SCROLL_DOWN": "Posunúť na koniec",
   "LIVE_CHAT_ERROR_SEND": "Nepodarilo sa odoslať správu. Skús to znova.",
   "LIVE_CHAT_ERROR_DELETE": "Nepodarilo sa odstrániť správu. Skús to znova.",
   "LIVE_CHAT_TIMEOUT": "Dočasne umlčať",

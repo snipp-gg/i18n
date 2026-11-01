@@ -1643,6 +1643,7 @@
   "LIVE_CHAT_SEND": "Ipadala",
   "LIVE_CHAT_DELETE": "Tanggalin ang mensahe",
   "LIVE_CHAT_LOGIN": "Mag-log in para mag-chat",
+  "LIVE_CHAT_SCROLL_DOWN": "Mag-scroll pababa",
   "LIVE_CHAT_ERROR_SEND": "Hindi naipadala ang mensahe. Subukan ulit.",
   "LIVE_CHAT_ERROR_DELETE": "Hindi natanggal ang mensahe. Subukan ulit.",
   "LIVE_CHAT_TIMEOUT": "I-timeout",

@@ -1643,6 +1643,7 @@
   "LIVE_CHAT_SEND": "送信",
   "LIVE_CHAT_DELETE": "メッセージを削除",
   "LIVE_CHAT_LOGIN": "ログインしてチャットする",
+  "LIVE_CHAT_SCROLL_DOWN": "一番下までスクロール",
   "LIVE_CHAT_ERROR_SEND": "メッセージを送信できませんでした。もう一度お試しください。",
   "LIVE_CHAT_ERROR_DELETE": "メッセージの削除に失敗しました。もう一度お試しください。",
   "LIVE_CHAT_TIMEOUT": "タイムアウト",

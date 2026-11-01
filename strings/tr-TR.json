@@ -1643,6 +1643,7 @@
   "LIVE_CHAT_SEND": "Gönder",
   "LIVE_CHAT_DELETE": "Mesajı sil",
   "LIVE_CHAT_LOGIN": "Sohbet etmek için giriş yap",
+  "LIVE_CHAT_SCROLL_DOWN": "En alta kaydır",
   "LIVE_CHAT_ERROR_SEND": "Mesaj gönderilemedi. Lütfen tekrar deneyin.",
   "LIVE_CHAT_ERROR_DELETE": "Mesaj silinemedi. Lütfen tekrar deneyin.",
   "LIVE_CHAT_TIMEOUT": "Geçici olarak sustur",

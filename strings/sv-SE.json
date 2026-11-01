@@ -1643,6 +1643,7 @@
   "LIVE_CHAT_SEND": "Skicka",
   "LIVE_CHAT_DELETE": "Radera meddelande",
   "LIVE_CHAT_LOGIN": "Logga in för att chatta",
+  "LIVE_CHAT_SCROLL_DOWN": "Scrolla längst ner",
   "LIVE_CHAT_ERROR_SEND": "Kunde inte skicka meddelandet. Försök igen.",
   "LIVE_CHAT_ERROR_DELETE": "Kunde inte radera meddelandet. Försök igen.",
   "LIVE_CHAT_TIMEOUT": "Ge timeout",

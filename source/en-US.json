@@ -1643,6 +1643,7 @@
   "LIVE_CHAT_SEND": "Send",
   "LIVE_CHAT_DELETE": "Delete message",
   "LIVE_CHAT_LOGIN": "Log in to chat",
+  "LIVE_CHAT_SCROLL_DOWN": "Scroll to bottom",
   "LIVE_CHAT_ERROR_SEND": "Failed to send message. Please try again.",
   "LIVE_CHAT_ERROR_DELETE": "Failed to delete message. Please try again.",
   "LIVE_CHAT_TIMEOUT": "Time out",

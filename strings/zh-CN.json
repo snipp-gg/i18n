@@ -1643,6 +1643,7 @@
   "LIVE_CHAT_SEND": "发送",
   "LIVE_CHAT_DELETE": "删除消息",
   "LIVE_CHAT_LOGIN": "登录以聊天",
+  "LIVE_CHAT_SCROLL_DOWN": "滚动到底部",
   "LIVE_CHAT_ERROR_SEND": "发送消息失败。请重试。",
   "LIVE_CHAT_ERROR_DELETE": "删除消息失败。请重试。",
   "LIVE_CHAT_TIMEOUT": "禁言",

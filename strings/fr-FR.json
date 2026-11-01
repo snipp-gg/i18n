@@ -1643,6 +1643,7 @@
   "LIVE_CHAT_SEND": "Envoyer",
   "LIVE_CHAT_DELETE": "Supprimer le message",
   "LIVE_CHAT_LOGIN": "Connectez-vous pour discuter",
+  "LIVE_CHAT_SCROLL_DOWN": "Faire défiler vers le bas",
   "LIVE_CHAT_ERROR_SEND": "Échec de l'envoi du message. Veuillez réessayer.",
   "LIVE_CHAT_ERROR_DELETE": "Échec de la suppression du message. Veuillez réessayer.",
   "LIVE_CHAT_TIMEOUT": "Exclure temporairement",

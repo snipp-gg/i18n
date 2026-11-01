@@ -1643,6 +1643,7 @@
   "LIVE_CHAT_SEND": "Trimite",
   "LIVE_CHAT_DELETE": "Șterge mesajul",
   "LIVE_CHAT_LOGIN": "Conectează-te pentru a scrie în chat",
+  "LIVE_CHAT_SCROLL_DOWN": "Derulează până jos",
   "LIVE_CHAT_ERROR_SEND": "Nu s-a putut trimite mesajul. Te rugăm să încerci din nou.",
   "LIVE_CHAT_ERROR_DELETE": "Nu s-a putut șterge mesajul. Te rugăm să încerci din nou.",
   "LIVE_CHAT_TIMEOUT": "Dă timeout",

@@ -1643,6 +1643,7 @@
   "LIVE_CHAT_SEND": "Kirim",
   "LIVE_CHAT_DELETE": "Hapus pesan",
   "LIVE_CHAT_LOGIN": "Masuk untuk mengobrol",
+  "LIVE_CHAT_SCROLL_DOWN": "Gulir ke bawah",
   "LIVE_CHAT_ERROR_SEND": "Gagal mengirim pesan. Silakan coba lagi.",
   "LIVE_CHAT_ERROR_DELETE": "Gagal menghapus pesan. Silakan coba lagi.",
   "LIVE_CHAT_TIMEOUT": "Bisukan sementara",

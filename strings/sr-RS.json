@@ -1643,6 +1643,7 @@
   "LIVE_CHAT_SEND": "Pošalji",
   "LIVE_CHAT_DELETE": "Obriši poruku",
   "LIVE_CHAT_LOGIN": "Prijavite se da četujete",
+  "LIVE_CHAT_SCROLL_DOWN": "Skroluj na dno",
   "LIVE_CHAT_ERROR_SEND": "Neuspešno slanje poruke. Pokušajte ponovo.",
   "LIVE_CHAT_ERROR_DELETE": "Neuspešno brisanje poruke. Pokušajte ponovo.",
   "LIVE_CHAT_TIMEOUT": "Privremeno utišaj",
