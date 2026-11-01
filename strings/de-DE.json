@@ -1623,6 +1623,7 @@
   "LIVE_STARTED": "Gestartet {time}",
   "LIVE_WATCHING": "{count} Zuschauer",
   "LIVE_OFFLINE": "{name} ist offline",
+  "LIVE_OFFLINE_SELF": "Du bist offline",
   "LIVE_OFFLINE_OWNER_HINT": "Geh aus OBS live, mit der Server-URL und dem Streamschlüssel aus deinen Streaming-Einstellungen.",
   "LIVE_ABOUT_HEADING": "Über {name}",
   "LIVE_EDIT_STREAM": "Stream Bearbeiten",

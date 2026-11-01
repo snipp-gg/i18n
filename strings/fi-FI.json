@@ -1623,6 +1623,7 @@
   "LIVE_STARTED": "Alkoi {time}",
   "LIVE_WATCHING": "{count} katsoo",
   "LIVE_OFFLINE": "{name} ei striimaa nyt",
+  "LIVE_OFFLINE_SELF": "Et striimaa nyt",
   "LIVE_OFFLINE_OWNER_HINT": "Lähetä suorana OBS:stä striimausasetustesi palvelimen URL:n ja lähetysavaimen avulla.",
   "LIVE_ABOUT_HEADING": "Tietoja käyttäjästä {name}",
   "LIVE_EDIT_STREAM": "Muokkaa striimiä",

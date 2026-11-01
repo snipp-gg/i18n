@@ -1623,6 +1623,7 @@
   "LIVE_STARTED": "Zahájeno {time}",
   "LIVE_WATCHING": "Diváci: {count}",
   "LIVE_OFFLINE": "{name} je offline",
+  "LIVE_OFFLINE_SELF": "Jste offline",
   "LIVE_OFFLINE_OWNER_HINT": "Vysílejte živě z OBS pomocí URL serveru a klíče streamu z nastavení streamování.",
   "LIVE_ABOUT_HEADING": "O uživateli {name}",
   "LIVE_EDIT_STREAM": "Upravit stream",

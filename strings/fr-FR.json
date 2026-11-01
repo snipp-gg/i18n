@@ -1623,6 +1623,7 @@
   "LIVE_STARTED": "Commencé {time}",
   "LIVE_WATCHING": "Spectateurs : {count}",
   "LIVE_OFFLINE": "{name} est hors ligne",
+  "LIVE_OFFLINE_SELF": "Vous êtes hors ligne",
   "LIVE_OFFLINE_OWNER_HINT": "Passez en direct depuis OBS avec l'URL du serveur et la clé de stream de vos paramètres de streaming.",
   "LIVE_ABOUT_HEADING": "À propos de {name}",
   "LIVE_EDIT_STREAM": "Modifier le direct",

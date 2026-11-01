@@ -1623,6 +1623,7 @@
   "LIVE_STARTED": "Почалася {time}",
   "LIVE_WATCHING": "Дивляться: {count}",
   "LIVE_OFFLINE": "{name} не в ефірі",
+  "LIVE_OFFLINE_SELF": "Ви не в ефірі",
   "LIVE_OFFLINE_OWNER_HINT": "Виходьте в ефір з OBS, використовуючи URL сервера та ключ потоку з налаштувань стримінгу.",
   "LIVE_ABOUT_HEADING": "Про {name}",
   "LIVE_EDIT_STREAM": "Редагувати трансляцію",

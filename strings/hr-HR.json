@@ -1623,6 +1623,7 @@
   "LIVE_STARTED": "Počelo {time}",
   "LIVE_WATCHING": "Gledatelji: {count}",
   "LIVE_OFFLINE": "{name} nije uživo",
+  "LIVE_OFFLINE_SELF": "Nisi uživo",
   "LIVE_OFFLINE_OWNER_HINT": "Emitiraj uživo iz OBS-a pomoću URL-a poslužitelja i ključa streama iz postavki streaminga.",
   "LIVE_ABOUT_HEADING": "O korisniku {name}",
   "LIVE_EDIT_STREAM": "Uredi stream",

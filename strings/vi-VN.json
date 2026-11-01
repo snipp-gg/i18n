@@ -1623,6 +1623,7 @@
   "LIVE_STARTED": "Bắt đầu {time}",
   "LIVE_WATCHING": "{count} người đang xem",
   "LIVE_OFFLINE": "{name} hiện không phát trực tiếp",
+  "LIVE_OFFLINE_SELF": "Bạn hiện không phát trực tiếp",
   "LIVE_OFFLINE_OWNER_HINT": "Phát trực tiếp từ OBS bằng URL máy chủ và khóa luồng trong phần cài đặt phát trực tiếp của bạn.",
   "LIVE_ABOUT_HEADING": "Giới thiệu về {name}",
   "LIVE_EDIT_STREAM": "Chỉnh sửa buổi phát trực tiếp",

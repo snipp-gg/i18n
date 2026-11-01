@@ -1623,6 +1623,7 @@
   "LIVE_STARTED": "{time} başladı",
   "LIVE_WATCHING": "{count} izliyor",
   "LIVE_OFFLINE": "{name} çevrimdışı",
+  "LIVE_OFFLINE_SELF": "Çevrimdışısınız",
   "LIVE_OFFLINE_OWNER_HINT": "Canlı yayın ayarlarınızdaki sunucu URL'si ve yayın anahtarıyla OBS'den canlı yayına geçin.",
   "LIVE_ABOUT_HEADING": "{name} hakkında",
   "LIVE_EDIT_STREAM": "Yayını Düzenle",

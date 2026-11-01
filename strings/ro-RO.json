@@ -1623,6 +1623,7 @@
   "LIVE_STARTED": "A început {time}",
   "LIVE_WATCHING": "{count} se uită",
   "LIVE_OFFLINE": "{name} nu este live",
+  "LIVE_OFFLINE_SELF": "Nu ești live",
   "LIVE_OFFLINE_OWNER_HINT": "Intră live din OBS cu URL-ul serverului și cheia de transmisie din setările tale de transmisie.",
   "LIVE_ABOUT_HEADING": "Despre {name}",
   "LIVE_EDIT_STREAM": "Editează transmisia",

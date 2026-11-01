@@ -1623,6 +1623,7 @@
   "LIVE_STARTED": "เริ่มเมื่อ {time}",
   "LIVE_WATCHING": "{count} คนกำลังดู",
   "LIVE_OFFLINE": "{name} ไม่ได้ไลฟ์อยู่ในขณะนี้",
+  "LIVE_OFFLINE_SELF": "คุณไม่ได้ไลฟ์อยู่ในขณะนี้",
   "LIVE_OFFLINE_OWNER_HINT": "ไลฟ์สดจาก OBS ด้วย URL เซิร์ฟเวอร์และคีย์สตรีมในการตั้งค่าการสตรีมของคุณ",
   "LIVE_ABOUT_HEADING": "เกี่ยวกับ {name}",
   "LIVE_EDIT_STREAM": "แก้ไขไลฟ์",

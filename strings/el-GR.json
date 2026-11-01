@@ -1623,6 +1623,7 @@
   "LIVE_STARTED": "Ξεκίνησε {time}",
   "LIVE_WATCHING": "Θεατές: {count}",
   "LIVE_OFFLINE": "{name} είναι εκτός σύνδεσης",
+  "LIVE_OFFLINE_SELF": "Είστε εκτός σύνδεσης",
   "LIVE_OFFLINE_OWNER_HINT": "Μεταδώστε ζωντανά από το OBS με το URL διακομιστή και το κλειδί μετάδοσης από τις ρυθμίσεις streaming.",
   "LIVE_ABOUT_HEADING": "Σχετικά με τον {name}",
   "LIVE_EDIT_STREAM": "Επεξεργασία Μετάδοσης",

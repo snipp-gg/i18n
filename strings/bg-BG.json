@@ -1623,6 +1623,7 @@
   "LIVE_STARTED": "Започна {time}",
   "LIVE_WATCHING": "Зрители: {count}",
   "LIVE_OFFLINE": "{name} е офлайн",
+  "LIVE_OFFLINE_SELF": "Офлайн сте",
   "LIVE_OFFLINE_OWNER_HINT": "Излезте на живо от OBS с URL адреса на сървъра и ключа за излъчване от настройките за стрийминг.",
   "LIVE_ABOUT_HEADING": "За {name}",
   "LIVE_EDIT_STREAM": "Редактиране на излъчването",

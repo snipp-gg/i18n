@@ -1623,6 +1623,7 @@
   "LIVE_STARTED": "Startet {time}",
   "LIVE_WATCHING": "{count} ser på",
   "LIVE_OFFLINE": "{name} sender ikke akkurat nå",
+  "LIVE_OFFLINE_SELF": "Du sender ikke akkurat nå",
   "LIVE_OFFLINE_OWNER_HINT": "Send direkte fra OBS med server-URL-en og strømmenøkkelen i strømmeinnstillingene dine.",
   "LIVE_ABOUT_HEADING": "Om {name}",
   "LIVE_EDIT_STREAM": "Rediger strøm",

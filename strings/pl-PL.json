@@ -1623,6 +1623,7 @@
   "LIVE_STARTED": "Rozpoczęto {time}",
   "LIVE_WATCHING": "Ogląda: {count}",
   "LIVE_OFFLINE": "{name} nie prowadzi teraz transmisji",
+  "LIVE_OFFLINE_SELF": "Nie prowadzisz teraz transmisji",
   "LIVE_OFFLINE_OWNER_HINT": "Nadawaj na żywo z OBS, używając adresu URL serwera i klucza transmisji z ustawień transmisji.",
   "LIVE_ABOUT_HEADING": "O użytkowniku {name}",
   "LIVE_EDIT_STREAM": "Edytuj Transmisję",

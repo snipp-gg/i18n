@@ -1623,6 +1623,7 @@
   "LIVE_STARTED": "開始: {time}",
   "LIVE_WATCHING": "{count}人が視聴中",
   "LIVE_OFFLINE": "{name}さんは現在オフラインです",
+  "LIVE_OFFLINE_SELF": "現在オフラインです",
   "LIVE_OFFLINE_OWNER_HINT": "ライブ配信設定にあるサーバーURLとストリームキーを使って、OBSからライブ配信しましょう。",
   "LIVE_ABOUT_HEADING": "{name}さんについて",
   "LIVE_EDIT_STREAM": "配信を編集",

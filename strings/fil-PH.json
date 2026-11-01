@@ -1623,6 +1623,7 @@
   "LIVE_STARTED": "Nagsimula {time}",
   "LIVE_WATCHING": "{count} nanonood",
   "LIVE_OFFLINE": "{name} ay offline",
+  "LIVE_OFFLINE_SELF": "Offline ka",
   "LIVE_OFFLINE_OWNER_HINT": "Mag-live mula sa OBS gamit ang server URL at stream key sa iyong streaming settings.",
   "LIVE_ABOUT_HEADING": "Tungkol kay {name}",
   "LIVE_EDIT_STREAM": "I-edit ang Stream",

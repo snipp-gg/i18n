@@ -1623,6 +1623,7 @@
   "LIVE_STARTED": "Dimulai {time}",
   "LIVE_WATCHING": "{count} menonton",
   "LIVE_OFFLINE": "{name} sedang offline",
+  "LIVE_OFFLINE_SELF": "Anda sedang offline",
   "LIVE_OFFLINE_OWNER_HINT": "Mulai live dari OBS dengan URL server dan kunci stream di pengaturan streaming Anda.",
   "LIVE_ABOUT_HEADING": "Tentang {name}",
   "LIVE_EDIT_STREAM": "Edit Siaran",

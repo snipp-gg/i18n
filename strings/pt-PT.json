@@ -1623,6 +1623,7 @@
   "LIVE_STARTED": "Começou {time}",
   "LIVE_WATCHING": "{count} a ver",
   "LIVE_OFFLINE": "{name} não está em direto",
+  "LIVE_OFFLINE_SELF": "Não está em direto",
   "LIVE_OFFLINE_OWNER_HINT": "Entre em direto a partir do OBS com o URL do servidor e a chave de transmissão nas suas definições de transmissão.",
   "LIVE_ABOUT_HEADING": "Sobre {name}",
   "LIVE_EDIT_STREAM": "Editar Transmissão",

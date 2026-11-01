@@ -1623,6 +1623,7 @@
   "LIVE_STARTED": "{time} शुरू हुई",
   "LIVE_WATCHING": "{count} दर्शक",
   "LIVE_OFFLINE": "{name} ऑफ़लाइन है",
+  "LIVE_OFFLINE_SELF": "आप ऑफ़लाइन हैं",
   "LIVE_OFFLINE_OWNER_HINT": "अपनी स्ट्रीमिंग सेटिंग्स में दिए गए सर्वर URL और स्ट्रीम कुंजी के साथ OBS से लाइव जाएँ।",
   "LIVE_ABOUT_HEADING": "{name} के बारे में",
   "LIVE_EDIT_STREAM": "स्ट्रीम एडिट करें",

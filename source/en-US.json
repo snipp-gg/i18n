@@ -1623,6 +1623,7 @@
   "LIVE_STARTED": "Started {time}",
   "LIVE_WATCHING": "{count} watching",
   "LIVE_OFFLINE": "{name} is offline",
+  "LIVE_OFFLINE_SELF": "You’re offline",
   "LIVE_OFFLINE_OWNER_HINT": "Go live from OBS with the server URL and stream key in your streaming settings.",
   "LIVE_ABOUT_HEADING": "About {name}",
   "LIVE_EDIT_STREAM": "Edit Stream",
