@@ -621,3 +621,111 @@ Source of truth is `Website/utils/i18n/strings/<locale>.json`; `i18n/strings/` m
 | uk-UA | Ваш ключ потоку |
 | vi-VN | Khóa luồng của bạn |
 | zh-CN | 您的推流码 |
+
+## Moderator
+
+`LIVE_CHAT_BADGE_MODERATOR` = "Moderator"
+
+| Locale | Value |
+| --- | --- |
+| bg-BG | Модератор |
+| cs-CZ | Moderátor |
+| de-DE | Moderator |
+| el-GR | Συντονιστής |
+| es-ES | Moderador |
+| fi-FI | Moderaattori |
+| fil-PH | Moderator |
+| fr-FR | Modérateur |
+| hi-IN | मॉडरेटर |
+| hr-HR | Moderator |
+| id-ID | Moderator |
+| it-IT | Moderatore |
+| ja-JP | モデレーター |
+| ko-KR | 매니저 |
+| nb-NO | Moderator |
+| nl-NL | Moderator |
+| pl-PL | Moderator |
+| pt-BR | Moderador |
+| pt-PT | Moderador |
+| ro-RO | Moderator |
+| ru-RU | Модератор |
+| sk-SK | Moderátor |
+| sr-RS | Moderator |
+| sv-SE | Moderator |
+| th-TH | ผู้ดูแล |
+| tr-TR | Moderatör |
+| uk-UA | Модератор |
+| vi-VN | Người kiểm duyệt |
+| zh-CN | 房管 |
+
+## Streamer
+
+`LIVE_CHAT_BADGE_STREAMER` = "Streamer"
+
+| Locale | Value |
+| --- | --- |
+| bg-BG | Стриймър |
+| cs-CZ | Streamer |
+| de-DE | Streamer |
+| el-GR | Streamer |
+| es-ES | Streamer |
+| fi-FI | Striimaaja |
+| fil-PH | Streamer |
+| fr-FR | Streamer |
+| hi-IN | स्ट्रीमर |
+| hr-HR | Streamer |
+| id-ID | Streamer |
+| it-IT | Streamer |
+| ja-JP | 配信者 |
+| ko-KR | 스트리머 |
+| nb-NO | Strømmer |
+| nl-NL | Streamer |
+| pl-PL | Streamer |
+| pt-BR | Streamer |
+| pt-PT | Streamer |
+| ro-RO | Streamer |
+| ru-RU | Стример |
+| sk-SK | Streamer |
+| sr-RS | Strimer |
+| sv-SE | Streamer |
+| th-TH | สตรีมเมอร์ |
+| tr-TR | Yayıncı |
+| uk-UA | Стример |
+| vi-VN | Streamer |
+| zh-CN | 主播 |
+
+## Time Out
+
+`LIVE_CHAT_TIMEOUT` = "Time out"
+
+| Locale | Value |
+| --- | --- |
+| bg-BG | Временно заглушаване |
+| cs-CZ | Dočasně umlčet |
+| de-DE | Timeout geben |
+| el-GR | Προσωρινή σίγαση |
+| es-ES | Silenciar temporalmente |
+| fi-FI | Anna jäähy |
+| fil-PH | I-timeout |
+| fr-FR | Exclure temporairement |
+| hi-IN | टाइम आउट करें |
+| hr-HR | Privremeno utišaj |
+| id-ID | Bisukan sementara |
+| it-IT | Silenzia temporaneamente |
+| ja-JP | タイムアウト |
+| ko-KR | 타임아웃 |
+| nb-NO | Gi timeout |
+| nl-NL | Time-out geven |
+| pl-PL | Wycisz tymczasowo |
+| pt-BR | Silenciar temporariamente |
+| pt-PT | Silenciar temporariamente |
+| ro-RO | Dă timeout |
+| ru-RU | Выдать тайм-аут |
+| sk-SK | Dočasne umlčať |
+| sr-RS | Privremeno utišaj |
+| sv-SE | Ge timeout |
+| th-TH | ระงับแชทชั่วคราว |
+| tr-TR | Geçici olarak sustur |
+| uk-UA | Видати тайм-аут |
+| vi-VN | Tạm cấm trò chuyện |
+| zh-CN | 禁言 |
