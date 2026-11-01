@@ -1626,6 +1626,7 @@
   "LIVE_OFFLINE_OWNER_HINT": "Виходьте в ефір з OBS, використовуючи URL сервера та ключ потоку з налаштувань стримінгу.",
   "LIVE_ABOUT_HEADING": "Про {name}",
   "LIVE_EDIT_STREAM": "Редагувати трансляцію",
+  "LIVE_ACTIONS_MENU_LABEL": "Дії з трансляцією",
   "LIVE_EDIT_STREAM_DESCRIPTION": "Дайте трансляції назву, щоб глядачі знали, що ви транслюєте.",
   "LIVE_EDIT_STREAM_PLACEHOLDER": "Назва трансляції",
   "LIVE_TOAST_STREAM_UPDATED": "Вашу трансляцію оновлено!",

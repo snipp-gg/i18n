@@ -1626,6 +1626,7 @@
   "LIVE_OFFLINE_OWNER_HINT": "Intră live din OBS cu URL-ul serverului și cheia de transmisie din setările tale de transmisie.",
   "LIVE_ABOUT_HEADING": "Despre {name}",
   "LIVE_EDIT_STREAM": "Editează transmisia",
+  "LIVE_ACTIONS_MENU_LABEL": "Acțiuni transmisie",
   "LIVE_EDIT_STREAM_DESCRIPTION": "Dă-i transmisiei tale un titlu, ca oamenii să știe ce transmiți.",
   "LIVE_EDIT_STREAM_PLACEHOLDER": "Titlul transmisiei",
   "LIVE_TOAST_STREAM_UPDATED": "Transmisia ta a fost actualizată!",

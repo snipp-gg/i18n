@@ -1626,6 +1626,7 @@
   "LIVE_OFFLINE_OWNER_HINT": "Canlı yayın ayarlarınızdaki sunucu URL'si ve yayın anahtarıyla OBS'den canlı yayına geçin.",
   "LIVE_ABOUT_HEADING": "{name} hakkında",
   "LIVE_EDIT_STREAM": "Yayını Düzenle",
+  "LIVE_ACTIONS_MENU_LABEL": "Yayın işlemleri",
   "LIVE_EDIT_STREAM_DESCRIPTION": "İnsanların ne yayınladığınızı bilmesi için yayınınıza bir başlık verin.",
   "LIVE_EDIT_STREAM_PLACEHOLDER": "Yayın başlığı",
   "LIVE_TOAST_STREAM_UPDATED": "Yayınınız güncellendi!",

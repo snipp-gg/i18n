@@ -1626,6 +1626,7 @@
   "LIVE_OFFLINE_OWNER_HINT": "Ga live vanuit OBS met de server-URL en streamsleutel in je streaminstellingen.",
   "LIVE_ABOUT_HEADING": "Over {name}",
   "LIVE_EDIT_STREAM": "Stream bewerken",
+  "LIVE_ACTIONS_MENU_LABEL": "Streamacties",
   "LIVE_EDIT_STREAM_DESCRIPTION": "Geef je stream een titel zodat mensen weten wat je streamt.",
   "LIVE_EDIT_STREAM_PLACEHOLDER": "Streamtitel",
   "LIVE_TOAST_STREAM_UPDATED": "Je stream is bijgewerkt!",

@@ -1626,6 +1626,7 @@
   "LIVE_OFFLINE_OWNER_HINT": "Go live from OBS with the server URL and stream key in your streaming settings.",
   "LIVE_ABOUT_HEADING": "About {name}",
   "LIVE_EDIT_STREAM": "Edit Stream",
+  "LIVE_ACTIONS_MENU_LABEL": "Stream actions",
   "LIVE_EDIT_STREAM_DESCRIPTION": "Give your stream a title so people know what you’re streaming.",
   "LIVE_EDIT_STREAM_PLACEHOLDER": "Stream title",
   "LIVE_TOAST_STREAM_UPDATED": "Your stream has been updated!",

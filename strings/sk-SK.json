@@ -1626,6 +1626,7 @@
   "LIVE_OFFLINE_OWNER_HINT": "Vysielaj naživo z OBS pomocou URL servera a kľúča streamu z nastavení streamovania.",
   "LIVE_ABOUT_HEADING": "O používateľovi {name}",
   "LIVE_EDIT_STREAM": "Upraviť stream",
+  "LIVE_ACTIONS_MENU_LABEL": "Akcie streamu",
   "LIVE_EDIT_STREAM_DESCRIPTION": "Daj svojmu streamu názov, aby ľudia vedeli, čo streamuješ.",
   "LIVE_EDIT_STREAM_PLACEHOLDER": "Názov streamu",
   "LIVE_TOAST_STREAM_UPDATED": "Tvoj stream bol aktualizovaný!",

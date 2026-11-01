@@ -1626,6 +1626,7 @@
   "LIVE_OFFLINE_OWNER_HINT": "Send direkte fra OBS med server-URL-en og strømmenøkkelen i strømmeinnstillingene dine.",
   "LIVE_ABOUT_HEADING": "Om {name}",
   "LIVE_EDIT_STREAM": "Rediger strøm",
+  "LIVE_ACTIONS_MENU_LABEL": "Strømmehandlinger",
   "LIVE_EDIT_STREAM_DESCRIPTION": "Gi strømmen din en tittel så folk vet hva du strømmer.",
   "LIVE_EDIT_STREAM_PLACEHOLDER": "Tittel på strømmen",
   "LIVE_TOAST_STREAM_UPDATED": "Strømmen din er oppdatert!",

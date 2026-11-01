@@ -1626,6 +1626,7 @@
   "LIVE_OFFLINE_OWNER_HINT": "Lähetä suorana OBS:stä striimausasetustesi palvelimen URL:n ja lähetysavaimen avulla.",
   "LIVE_ABOUT_HEADING": "Tietoja käyttäjästä {name}",
   "LIVE_EDIT_STREAM": "Muokkaa striimiä",
+  "LIVE_ACTIONS_MENU_LABEL": "Striimin toiminnot",
   "LIVE_EDIT_STREAM_DESCRIPTION": "Anna striimillesi otsikko, jotta ihmiset tietävät, mitä striimaat.",
   "LIVE_EDIT_STREAM_PLACEHOLDER": "Striimin otsikko",
   "LIVE_TOAST_STREAM_UPDATED": "Striimisi on päivitetty!",

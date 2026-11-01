@@ -1626,6 +1626,7 @@
   "LIVE_OFFLINE_OWNER_HINT": "Mag-live mula sa OBS gamit ang server URL at stream key sa iyong streaming settings.",
   "LIVE_ABOUT_HEADING": "Tungkol kay {name}",
   "LIVE_EDIT_STREAM": "I-edit ang Stream",
+  "LIVE_ACTIONS_MENU_LABEL": "Mga aksyon sa stream",
   "LIVE_EDIT_STREAM_DESCRIPTION": "Bigyan ng pamagat ang iyong stream para malaman ng mga tao kung ano ang ini-stream mo.",
   "LIVE_EDIT_STREAM_PLACEHOLDER": "Pamagat ng stream",
   "LIVE_TOAST_STREAM_UPDATED": "Na-update ang iyong stream!",
