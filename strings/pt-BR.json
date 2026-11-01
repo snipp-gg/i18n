@@ -1624,6 +1624,7 @@
   "LIVE_WATCHING": "{count} assistindo",
   "LIVE_OFFLINE": "{name} não está ao vivo",
   "LIVE_OFFLINE_OWNER_HINT": "Entre ao vivo pelo OBS com a URL do servidor e a chave de transmissão nas suas configurações de transmissão.",
+  "LIVE_ABOUT_HEADING": "Sobre {name}",
   "LIVE_EDIT_STREAM": "Editar Transmissão",
   "LIVE_EDIT_STREAM_DESCRIPTION": "Dê um título à sua transmissão para que as pessoas saibam o que você está transmitindo.",
   "LIVE_EDIT_STREAM_PLACEHOLDER": "Título da transmissão",

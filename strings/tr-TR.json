@@ -1624,6 +1624,7 @@
   "LIVE_WATCHING": "{count} izliyor",
   "LIVE_OFFLINE": "{name} çevrimdışı",
   "LIVE_OFFLINE_OWNER_HINT": "Canlı yayın ayarlarınızdaki sunucu URL'si ve yayın anahtarıyla OBS'den canlı yayına geçin.",
+  "LIVE_ABOUT_HEADING": "{name} hakkında",
   "LIVE_EDIT_STREAM": "Yayını Düzenle",
   "LIVE_EDIT_STREAM_DESCRIPTION": "İnsanların ne yayınladığınızı bilmesi için yayınınıza bir başlık verin.",
   "LIVE_EDIT_STREAM_PLACEHOLDER": "Yayın başlığı",

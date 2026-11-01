@@ -1624,6 +1624,7 @@
   "LIVE_WATCHING": "{count} người đang xem",
   "LIVE_OFFLINE": "{name} hiện không phát trực tiếp",
   "LIVE_OFFLINE_OWNER_HINT": "Phát trực tiếp từ OBS bằng URL máy chủ và khóa luồng trong phần cài đặt phát trực tiếp của bạn.",
+  "LIVE_ABOUT_HEADING": "Giới thiệu về {name}",
   "LIVE_EDIT_STREAM": "Chỉnh sửa buổi phát trực tiếp",
   "LIVE_EDIT_STREAM_DESCRIPTION": "Đặt tiêu đề cho buổi phát trực tiếp để mọi người biết bạn đang phát gì.",
   "LIVE_EDIT_STREAM_PLACEHOLDER": "Tiêu đề buổi phát trực tiếp",

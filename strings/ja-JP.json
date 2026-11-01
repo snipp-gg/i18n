@@ -1624,6 +1624,7 @@
   "LIVE_WATCHING": "{count}人が視聴中",
   "LIVE_OFFLINE": "{name}さんは現在オフラインです",
   "LIVE_OFFLINE_OWNER_HINT": "ライブ配信設定にあるサーバーURLとストリームキーを使って、OBSからライブ配信しましょう。",
+  "LIVE_ABOUT_HEADING": "{name}さんについて",
   "LIVE_EDIT_STREAM": "配信を編集",
   "LIVE_EDIT_STREAM_DESCRIPTION": "配信にタイトルを付けて、何を配信しているかみんなに伝えましょう。",
   "LIVE_EDIT_STREAM_PLACEHOLDER": "配信タイトル",

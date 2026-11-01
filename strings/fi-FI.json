@@ -1624,6 +1624,7 @@
   "LIVE_WATCHING": "{count} katsoo",
   "LIVE_OFFLINE": "{name} ei striimaa nyt",
   "LIVE_OFFLINE_OWNER_HINT": "Lähetä suorana OBS:stä striimausasetustesi palvelimen URL:n ja lähetysavaimen avulla.",
+  "LIVE_ABOUT_HEADING": "Tietoja käyttäjästä {name}",
   "LIVE_EDIT_STREAM": "Muokkaa striimiä",
   "LIVE_EDIT_STREAM_DESCRIPTION": "Anna striimillesi otsikko, jotta ihmiset tietävät, mitä striimaat.",
   "LIVE_EDIT_STREAM_PLACEHOLDER": "Striimin otsikko",

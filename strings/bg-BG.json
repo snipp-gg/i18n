@@ -1624,6 +1624,7 @@
   "LIVE_WATCHING": "Зрители: {count}",
   "LIVE_OFFLINE": "{name} е офлайн",
   "LIVE_OFFLINE_OWNER_HINT": "Излезте на живо от OBS с URL адреса на сървъра и ключа за излъчване от настройките за стрийминг.",
+  "LIVE_ABOUT_HEADING": "За {name}",
   "LIVE_EDIT_STREAM": "Редактиране на излъчването",
   "LIVE_EDIT_STREAM_DESCRIPTION": "Дайте заглавие на излъчването си, за да знаят хората какво излъчвате.",
   "LIVE_EDIT_STREAM_PLACEHOLDER": "Заглавие на излъчването",

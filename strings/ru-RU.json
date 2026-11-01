@@ -1624,6 +1624,7 @@
   "LIVE_WATCHING": "Смотрят: {count}",
   "LIVE_OFFLINE": "{name} не в эфире",
   "LIVE_OFFLINE_OWNER_HINT": "Выходите в эфир из OBS, используя URL сервера и ключ потока из настроек стриминга.",
+  "LIVE_ABOUT_HEADING": "О стримере {name}",
   "LIVE_EDIT_STREAM": "Редактировать трансляцию",
   "LIVE_EDIT_STREAM_DESCRIPTION": "Дайте трансляции название, чтобы зрители знали, что вы транслируете.",
   "LIVE_EDIT_STREAM_PLACEHOLDER": "Название трансляции",

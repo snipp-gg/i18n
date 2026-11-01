@@ -1624,6 +1624,7 @@
   "LIVE_WATCHING": "Θεατές: {count}",
   "LIVE_OFFLINE": "{name} είναι εκτός σύνδεσης",
   "LIVE_OFFLINE_OWNER_HINT": "Μεταδώστε ζωντανά από το OBS με το URL διακομιστή και το κλειδί μετάδοσης από τις ρυθμίσεις streaming.",
+  "LIVE_ABOUT_HEADING": "Σχετικά με τον {name}",
   "LIVE_EDIT_STREAM": "Επεξεργασία Μετάδοσης",
   "LIVE_EDIT_STREAM_DESCRIPTION": "Δώστε έναν τίτλο στη μετάδοσή σας, ώστε να ξέρουν όλοι τι μεταδίδετε.",
   "LIVE_EDIT_STREAM_PLACEHOLDER": "Τίτλος μετάδοσης",

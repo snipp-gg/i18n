@@ -1624,6 +1624,7 @@
   "LIVE_WATCHING": "{count} tittar",
   "LIVE_OFFLINE": "{name} sänder inte just nu",
   "LIVE_OFFLINE_OWNER_HINT": "Sänd live från OBS med server-URL:en och strömnyckeln i dina strömningsinställningar.",
+  "LIVE_ABOUT_HEADING": "Om {name}",
   "LIVE_EDIT_STREAM": "Redigera ström",
   "LIVE_EDIT_STREAM_DESCRIPTION": "Ge din ström en titel så att folk vet vad du strömmar.",
   "LIVE_EDIT_STREAM_PLACEHOLDER": "Titel på strömmen",

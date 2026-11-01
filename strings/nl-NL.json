@@ -1624,6 +1624,7 @@
   "LIVE_WATCHING": "{count} aan het kijken",
   "LIVE_OFFLINE": "{name} streamt momenteel niet",
   "LIVE_OFFLINE_OWNER_HINT": "Ga live vanuit OBS met de server-URL en streamsleutel in je streaminstellingen.",
+  "LIVE_ABOUT_HEADING": "Over {name}",
   "LIVE_EDIT_STREAM": "Stream bewerken",
   "LIVE_EDIT_STREAM_DESCRIPTION": "Geef je stream een titel zodat mensen weten wat je streamt.",
   "LIVE_EDIT_STREAM_PLACEHOLDER": "Streamtitel",

@@ -1624,6 +1624,7 @@
   "LIVE_WATCHING": "Spettatori: {count}",
   "LIVE_OFFLINE": "{name} è offline",
   "LIVE_OFFLINE_OWNER_HINT": "Vai in diretta da OBS con l'URL del server e la chiave stream delle tue impostazioni di streaming.",
+  "LIVE_ABOUT_HEADING": "Informazioni su {name}",
   "LIVE_EDIT_STREAM": "Modifica diretta",
   "LIVE_EDIT_STREAM_DESCRIPTION": "Dai un titolo alla tua diretta così le persone sanno cosa stai trasmettendo.",
   "LIVE_EDIT_STREAM_PLACEHOLDER": "Titolo della diretta",
