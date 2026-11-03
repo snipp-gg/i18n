@@ -1643,7 +1643,7 @@
   "LIVE_STAT_BITRATE": "Dátový tok",
   "LIVE_STAT_HOURS_LEFT": "Zostávajúci čas",
   "LIVE_BITRATE_VALUE": "{value} kbps",
-  "LIVE_CHAT_HEADING": "Chat",
+  "LIVE_CHAT_HEADING": "Chat streamu",
   "LIVE_CHAT_EMPTY": "Zatiaľ žiadne správy. Povedz ahoj!",
   "LIVE_CHAT_PLACEHOLDER": "Napísať správu",
   "LIVE_CHAT_DELETE": "Odstrániť správu",

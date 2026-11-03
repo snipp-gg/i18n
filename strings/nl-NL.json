@@ -1643,7 +1643,7 @@
   "LIVE_STAT_BITRATE": "Bitsnelheid",
   "LIVE_STAT_HOURS_LEFT": "Resterende tijd",
   "LIVE_BITRATE_VALUE": "{value} kbps",
-  "LIVE_CHAT_HEADING": "Chat",
+  "LIVE_CHAT_HEADING": "Streamchat",
   "LIVE_CHAT_EMPTY": "Nog geen berichten. Zeg hoi!",
   "LIVE_CHAT_PLACEHOLDER": "Stuur een bericht",
   "LIVE_CHAT_DELETE": "Bericht verwijderen",

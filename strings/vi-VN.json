@@ -1643,7 +1643,7 @@
   "LIVE_STAT_BITRATE": "Tốc độ bit",
   "LIVE_STAT_HOURS_LEFT": "Thời gian còn lại",
   "LIVE_BITRATE_VALUE": "{value} kbps",
-  "LIVE_CHAT_HEADING": "Trò chuyện",
+  "LIVE_CHAT_HEADING": "Trò chuyện trong buổi phát trực tiếp",
   "LIVE_CHAT_EMPTY": "Chưa có tin nhắn nào. Hãy gửi lời chào!",
   "LIVE_CHAT_PLACEHOLDER": "Gửi tin nhắn",
   "LIVE_CHAT_DELETE": "Xóa tin nhắn",

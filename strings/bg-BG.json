@@ -1643,7 +1643,7 @@
   "LIVE_STAT_BITRATE": "Битрейт",
   "LIVE_STAT_HOURS_LEFT": "Оставащо време",
   "LIVE_BITRATE_VALUE": "{value} kbps",
-  "LIVE_CHAT_HEADING": "Чат",
+  "LIVE_CHAT_HEADING": "Чат на излъчването",
   "LIVE_CHAT_EMPTY": "Все още няма съобщения. Кажете здрасти!",
   "LIVE_CHAT_PLACEHOLDER": "Изпратете съобщение",
   "LIVE_CHAT_DELETE": "Изтриване на съобщението",

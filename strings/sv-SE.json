@@ -1643,7 +1643,7 @@
   "LIVE_STAT_BITRATE": "Bithastighet",
   "LIVE_STAT_HOURS_LEFT": "Tid kvar",
   "LIVE_BITRATE_VALUE": "{value} kbps",
-  "LIVE_CHAT_HEADING": "Chatt",
+  "LIVE_CHAT_HEADING": "Strömchatt",
   "LIVE_CHAT_EMPTY": "Inga meddelanden än. Säg hej!",
   "LIVE_CHAT_PLACEHOLDER": "Skicka ett meddelande",
   "LIVE_CHAT_DELETE": "Radera meddelande",

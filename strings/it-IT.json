@@ -1643,7 +1643,7 @@
   "LIVE_STAT_BITRATE": "Bitrate",
   "LIVE_STAT_HOURS_LEFT": "Tempo rimanente",
   "LIVE_BITRATE_VALUE": "{value} kbps",
-  "LIVE_CHAT_HEADING": "Chat",
+  "LIVE_CHAT_HEADING": "Chat della diretta",
   "LIVE_CHAT_EMPTY": "Ancora nessun messaggio. Saluta!",
   "LIVE_CHAT_PLACEHOLDER": "Invia un messaggio",
   "LIVE_CHAT_DELETE": "Elimina messaggio",

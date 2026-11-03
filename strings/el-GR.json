@@ -1643,7 +1643,7 @@
   "LIVE_STAT_BITRATE": "Ρυθμός bit",
   "LIVE_STAT_HOURS_LEFT": "Υπόλοιπος χρόνος",
   "LIVE_BITRATE_VALUE": "{value} kbps",
-  "LIVE_CHAT_HEADING": "Συνομιλία",
+  "LIVE_CHAT_HEADING": "Συνομιλία μετάδοσης",
   "LIVE_CHAT_EMPTY": "Δεν υπάρχουν ακόμα μηνύματα. Πείτε ένα γεια!",
   "LIVE_CHAT_PLACEHOLDER": "Στείλτε ένα μήνυμα",
   "LIVE_CHAT_DELETE": "Διαγραφή μηνύματος",

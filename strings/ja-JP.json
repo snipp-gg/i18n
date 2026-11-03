@@ -1643,7 +1643,7 @@
   "LIVE_STAT_BITRATE": "ビットレート",
   "LIVE_STAT_HOURS_LEFT": "残り時間",
   "LIVE_BITRATE_VALUE": "{value} kbps",
-  "LIVE_CHAT_HEADING": "チャット",
+  "LIVE_CHAT_HEADING": "配信チャット",
   "LIVE_CHAT_EMPTY": "まだメッセージはありません。あいさつしてみましょう！",
   "LIVE_CHAT_PLACEHOLDER": "メッセージを送信",
   "LIVE_CHAT_DELETE": "メッセージを削除",

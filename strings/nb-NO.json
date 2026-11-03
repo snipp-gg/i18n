@@ -1643,7 +1643,7 @@
   "LIVE_STAT_BITRATE": "Bithastighet",
   "LIVE_STAT_HOURS_LEFT": "Tid igjen",
   "LIVE_BITRATE_VALUE": "{value} kbps",
-  "LIVE_CHAT_HEADING": "Chat",
+  "LIVE_CHAT_HEADING": "Strømmechat",
   "LIVE_CHAT_EMPTY": "Ingen meldinger ennå. Si hei!",
   "LIVE_CHAT_PLACEHOLDER": "Send en melding",
   "LIVE_CHAT_DELETE": "Slett melding",

@@ -1643,7 +1643,7 @@
   "LIVE_STAT_BITRATE": "Bit hızı",
   "LIVE_STAT_HOURS_LEFT": "Kalan süre",
   "LIVE_BITRATE_VALUE": "{value} kbps",
-  "LIVE_CHAT_HEADING": "Sohbet",
+  "LIVE_CHAT_HEADING": "Yayın Sohbeti",
   "LIVE_CHAT_EMPTY": "Henüz mesaj yok. Merhaba deyin!",
   "LIVE_CHAT_PLACEHOLDER": "Bir mesaj gönder",
   "LIVE_CHAT_DELETE": "Mesajı sil",

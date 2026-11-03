@@ -1643,7 +1643,7 @@
   "LIVE_STAT_BITRATE": "비트레이트",
   "LIVE_STAT_HOURS_LEFT": "남은 시간",
   "LIVE_BITRATE_VALUE": "{value} kbps",
-  "LIVE_CHAT_HEADING": "채팅",
+  "LIVE_CHAT_HEADING": "방송 채팅",
   "LIVE_CHAT_EMPTY": "아직 메시지가 없습니다. 인사를 건네 보세요!",
   "LIVE_CHAT_PLACEHOLDER": "메시지 보내기",
   "LIVE_CHAT_DELETE": "메시지 삭제",

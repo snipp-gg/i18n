@@ -1643,7 +1643,7 @@
   "LIVE_STAT_BITRATE": "बिटरेट",
   "LIVE_STAT_HOURS_LEFT": "बचा हुआ समय",
   "LIVE_BITRATE_VALUE": "{value} kbps",
-  "LIVE_CHAT_HEADING": "चैट",
+  "LIVE_CHAT_HEADING": "स्ट्रीम चैट",
   "LIVE_CHAT_EMPTY": "अभी तक कोई मैसेज नहीं। हाय कहें!",
   "LIVE_CHAT_PLACEHOLDER": "मैसेज भेजें",
   "LIVE_CHAT_DELETE": "मैसेज हटाएँ",

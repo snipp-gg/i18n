@@ -1643,7 +1643,7 @@
   "LIVE_STAT_BITRATE": "码率",
   "LIVE_STAT_HOURS_LEFT": "剩余时长",
   "LIVE_BITRATE_VALUE": "{value} kbps",
-  "LIVE_CHAT_HEADING": "聊天",
+  "LIVE_CHAT_HEADING": "直播聊天",
   "LIVE_CHAT_EMPTY": "还没有消息。打个招呼吧！",
   "LIVE_CHAT_PLACEHOLDER": "发送消息",
   "LIVE_CHAT_DELETE": "删除消息",

@@ -1643,7 +1643,7 @@
   "LIVE_STAT_BITRATE": "Przepływność",
   "LIVE_STAT_HOURS_LEFT": "Pozostały czas",
   "LIVE_BITRATE_VALUE": "{value} kbps",
-  "LIVE_CHAT_HEADING": "Czat",
+  "LIVE_CHAT_HEADING": "Czat transmisji",
   "LIVE_CHAT_EMPTY": "Brak wiadomości. Przywitaj się!",
   "LIVE_CHAT_PLACEHOLDER": "Wyślij wiadomość",
   "LIVE_CHAT_DELETE": "Usuń wiadomość",

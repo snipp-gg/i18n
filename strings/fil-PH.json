@@ -1643,7 +1643,7 @@
   "LIVE_STAT_BITRATE": "Bitrate",
   "LIVE_STAT_HOURS_LEFT": "Natitirang oras",
   "LIVE_BITRATE_VALUE": "{value} kbps",
-  "LIVE_CHAT_HEADING": "Chat",
+  "LIVE_CHAT_HEADING": "Chat ng Stream",
   "LIVE_CHAT_EMPTY": "Wala pang mensahe. Mag-hi ka!",
   "LIVE_CHAT_PLACEHOLDER": "Magpadala ng mensahe",
   "LIVE_CHAT_DELETE": "Tanggalin ang mensahe",

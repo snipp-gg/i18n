@@ -1643,7 +1643,7 @@
   "LIVE_STAT_BITRATE": "Bittinopeus",
   "LIVE_STAT_HOURS_LEFT": "Aikaa jäljellä",
   "LIVE_BITRATE_VALUE": "{value} kbps",
-  "LIVE_CHAT_HEADING": "Chat",
+  "LIVE_CHAT_HEADING": "Striimin chat",
   "LIVE_CHAT_EMPTY": "Ei vielä viestejä. Sano hei!",
   "LIVE_CHAT_PLACEHOLDER": "Lähetä viesti",
   "LIVE_CHAT_DELETE": "Poista viesti",

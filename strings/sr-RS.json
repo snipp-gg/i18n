@@ -1643,7 +1643,7 @@
   "LIVE_STAT_BITRATE": "Bitrejt",
   "LIVE_STAT_HOURS_LEFT": "Preostalo vreme",
   "LIVE_BITRATE_VALUE": "{value} kbps",
-  "LIVE_CHAT_HEADING": "Čet",
+  "LIVE_CHAT_HEADING": "Čet strima",
   "LIVE_CHAT_EMPTY": "Još nema poruka. Recite zdravo!",
   "LIVE_CHAT_PLACEHOLDER": "Pošaljite poruku",
   "LIVE_CHAT_DELETE": "Obriši poruku",

@@ -1643,7 +1643,7 @@
   "LIVE_STAT_BITRATE": "Rată de biți",
   "LIVE_STAT_HOURS_LEFT": "Timp rămas",
   "LIVE_BITRATE_VALUE": "{value} kbps",
-  "LIVE_CHAT_HEADING": "Chat",
+  "LIVE_CHAT_HEADING": "Chatul transmisiei",
   "LIVE_CHAT_EMPTY": "Niciun mesaj încă. Spune salut!",
   "LIVE_CHAT_PLACEHOLDER": "Trimite un mesaj",
   "LIVE_CHAT_DELETE": "Șterge mesajul",

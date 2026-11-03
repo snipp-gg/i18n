@@ -1643,7 +1643,7 @@
   "LIVE_STAT_BITRATE": "Bitrate",
   "LIVE_STAT_HOURS_LEFT": "Restzeit",
   "LIVE_BITRATE_VALUE": "{value} kbps",
-  "LIVE_CHAT_HEADING": "Chat",
+  "LIVE_CHAT_HEADING": "Streamchat",
   "LIVE_CHAT_EMPTY": "Noch keine Nachrichten. Sag Hallo!",
   "LIVE_CHAT_PLACEHOLDER": "Nachricht senden",
   "LIVE_CHAT_DELETE": "Nachricht löschen",

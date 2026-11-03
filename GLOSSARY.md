@@ -624,39 +624,39 @@ Source of truth is `Website/utils/i18n/strings/<locale>.json`; `i18n/strings/` m
 
 ## Live Chat
 
-`LIVE_CHAT_HEADING` = "Chat"
+`LIVE_CHAT_HEADING` = "Stream Chat"
 
 | Locale | Value |
 | --- | --- |
-| bg-BG | Чат |
-| cs-CZ | Chat |
-| de-DE | Chat |
-| el-GR | Συνομιλία |
-| es-ES | Chat |
-| fi-FI | Chat |
-| fil-PH | Chat |
-| fr-FR | Chat |
-| hi-IN | चैट |
-| hr-HR | Chat |
-| id-ID | Obrolan |
-| it-IT | Chat |
-| ja-JP | チャット |
-| ko-KR | 채팅 |
-| nb-NO | Chat |
-| nl-NL | Chat |
-| pl-PL | Czat |
-| pt-BR | Chat |
-| pt-PT | Chat |
-| ro-RO | Chat |
-| ru-RU | Чат |
-| sk-SK | Chat |
-| sr-RS | Čet |
-| sv-SE | Chatt |
-| th-TH | แชท |
-| tr-TR | Sohbet |
-| uk-UA | Чат |
-| vi-VN | Trò chuyện |
-| zh-CN | 聊天 |
+| bg-BG | Чат на излъчването |
+| cs-CZ | Chat streamu |
+| de-DE | Streamchat |
+| el-GR | Συνομιλία μετάδοσης |
+| es-ES | Chat del directo |
+| fi-FI | Striimin chat |
+| fil-PH | Chat ng Stream |
+| fr-FR | Chat du direct |
+| hi-IN | स्ट्रीम चैट |
+| hr-HR | Chat streama |
+| id-ID | Obrolan Siaran |
+| it-IT | Chat della diretta |
+| ja-JP | 配信チャット |
+| ko-KR | 방송 채팅 |
+| nb-NO | Strømmechat |
+| nl-NL | Streamchat |
+| pl-PL | Czat transmisji |
+| pt-BR | Chat da transmissão |
+| pt-PT | Chat da transmissão |
+| ro-RO | Chatul transmisiei |
+| ru-RU | Чат трансляции |
+| sk-SK | Chat streamu |
+| sr-RS | Čet strima |
+| sv-SE | Strömchatt |
+| th-TH | แชทไลฟ์ |
+| tr-TR | Yayın Sohbeti |
+| uk-UA | Чат трансляції |
+| vi-VN | Trò chuyện trong buổi phát trực tiếp |
+| zh-CN | 直播聊天 |
 
 ## Live Minutes
 

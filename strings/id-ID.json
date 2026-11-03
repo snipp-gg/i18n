@@ -1643,7 +1643,7 @@
   "LIVE_STAT_BITRATE": "Bitrate",
   "LIVE_STAT_HOURS_LEFT": "Sisa waktu",
   "LIVE_BITRATE_VALUE": "{value} kbps",
-  "LIVE_CHAT_HEADING": "Obrolan",
+  "LIVE_CHAT_HEADING": "Obrolan Siaran",
   "LIVE_CHAT_EMPTY": "Belum ada pesan. Ayo sapa!",
   "LIVE_CHAT_PLACEHOLDER": "Kirim pesan",
   "LIVE_CHAT_DELETE": "Hapus pesan",
