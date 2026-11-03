@@ -2746,6 +2746,7 @@
   "SETTINGS_DOMAINS_LINK_DOMAIN_HINT": "用于您复制或从 ShareX、API 和机器人获取的每个帖子链接。每个域名都会打开同一个帖子。",
   "SETTINGS_DOMAINS_TOAST_LINK_DOMAIN_UPDATED": "链接域名已设为 {label}！",
   "SETTINGS_DOMAINS_CUSTOM_HEADING": "连接您自己的域名",
+  "SETTINGS_DOMAINS_YOUR_DOMAIN_HEADING": "您的域名",
   "SETTINGS_DOMAINS_CUSTOM_HINT": "使用您拥有的子域名，例如 i.yourdomain.com。该域名上的链接会重定向到您在 Snipp 上的帖子。",
   "SETTINGS_DOMAINS_PLUS_ONLY_HINT": "连接您自己的域名是 Plus 功能。订阅即可解锁。",
   "SETTINGS_DOMAINS_LAPSED_HINT": "您的域名将于 {date} 被移除，该域名上分享的链接将停止工作。订阅 Plus 即可保留该域名。",

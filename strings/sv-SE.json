@@ -2746,6 +2746,7 @@
   "SETTINGS_DOMAINS_LINK_DOMAIN_HINT": "Används för varje inläggslänk du kopierar eller får tillbaka från ShareX, API:et och boten. Alla domäner öppnar samma inlägg.",
   "SETTINGS_DOMAINS_TOAST_LINK_DOMAIN_UPDATED": "Länkdomän satt till {label}!",
   "SETTINGS_DOMAINS_CUSTOM_HEADING": "Anslut din egen domän",
+  "SETTINGS_DOMAINS_YOUR_DOMAIN_HEADING": "Din domän",
   "SETTINGS_DOMAINS_CUSTOM_HINT": "Använd en underdomän du äger, som i.dindomän.com. Länkar på den omdirigeras till dina inlägg på Snipp.",
   "SETTINGS_DOMAINS_PLUS_ONLY_HINT": "Att ansluta din egen domän är en Plus-funktion. Prenumerera för att låsa upp den.",
   "SETTINGS_DOMAINS_LAPSED_HINT": "Din domän tas bort den {date} och länkar som delats på den slutar fungera. Prenumerera på Plus för att behålla den.",

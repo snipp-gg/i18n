@@ -2746,6 +2746,7 @@
   "SETTINGS_DOMAINS_LINK_DOMAIN_HINT": "Ginagamit para sa bawat link ng post na kinokopya mo o natatanggap mula sa ShareX, sa API at sa bot. Iisang post ang binubuksan ng bawat domain.",
   "SETTINGS_DOMAINS_TOAST_LINK_DOMAIN_UPDATED": "Nakatakda ang Domain ng Link sa {label}!",
   "SETTINGS_DOMAINS_CUSTOM_HEADING": "Ikonekta ang sarili mong domain",
+  "SETTINGS_DOMAINS_YOUR_DOMAIN_HEADING": "Domain Mo",
   "SETTINGS_DOMAINS_CUSTOM_HINT": "Gumamit ng subdomain na pagmamay-ari mo, gaya ng i.iyongdomain.com. Nagre-redirect ang mga link dito sa iyong mga post sa Snipp.",
   "SETTINGS_DOMAINS_PLUS_ONLY_HINT": "Ang pagkonekta ng sarili mong domain ay isang Plus na feature. Mag-subscribe para i-unlock ito.",
   "SETTINGS_DOMAINS_LAPSED_HINT": "Aalisin ang iyong domain sa {date}, at hihinto sa paggana ang mga link na naibahagi rito. Mag-subscribe sa Plus para mapanatili ito.",

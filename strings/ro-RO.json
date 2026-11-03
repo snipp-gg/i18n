@@ -2746,6 +2746,7 @@
   "SETTINGS_DOMAINS_LINK_DOMAIN_HINT": "Folosit pentru fiecare link de postare pe care îl copiezi sau îl primești de la ShareX, API și bot. Orice domeniu deschide aceeași postare.",
   "SETTINGS_DOMAINS_TOAST_LINK_DOMAIN_UPDATED": "Domeniul linkurilor setat pe {label}!",
   "SETTINGS_DOMAINS_CUSTOM_HEADING": "Conectează-ți propriul domeniu",
+  "SETTINGS_DOMAINS_YOUR_DOMAIN_HEADING": "Domeniul tău",
   "SETTINGS_DOMAINS_CUSTOM_HINT": "Folosește un subdomeniu pe care îl deții, cum ar fi i.domeniultau.com. Linkurile de pe el redirecționează către postările tale de pe Snipp.",
   "SETTINGS_DOMAINS_PLUS_ONLY_HINT": "Conectarea propriului domeniu este o funcție Plus. Abonează-te pentru a o debloca.",
   "SETTINGS_DOMAINS_LAPSED_HINT": "Domeniul tău va fi eliminat pe {date}, iar linkurile distribuite pe el nu vor mai funcționa. Abonează-te la Plus pentru a-l păstra.",

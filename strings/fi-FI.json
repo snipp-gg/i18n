@@ -2746,6 +2746,7 @@
   "SETTINGS_DOMAINS_LINK_DOMAIN_HINT": "Käytetään jokaisessa julkaisun linkissä, jonka kopioit tai saat takaisin ShareX:ltä, API:lta ja botilta. Jokainen verkkotunnus avaa saman julkaisun.",
   "SETTINGS_DOMAINS_TOAST_LINK_DOMAIN_UPDATED": "Linkkien verkkotunnukseksi asetettu {label}!",
   "SETTINGS_DOMAINS_CUSTOM_HEADING": "Yhdistä oma verkkotunnus",
+  "SETTINGS_DOMAINS_YOUR_DOMAIN_HEADING": "Verkkotunnuksesi",
   "SETTINGS_DOMAINS_CUSTOM_HINT": "Käytä omistamaasi aliverkkotunnusta, kuten i.verkkotunnuksesi.com. Sen linkit ohjaavat julkaisuihisi Snippissä.",
   "SETTINGS_DOMAINS_PLUS_ONLY_HINT": "Oman verkkotunnuksen yhdistäminen on Plus-ominaisuus. Tilaa avataksesi sen.",
   "SETTINGS_DOMAINS_LAPSED_HINT": "Verkkotunnuksesi poistetaan {date} ja sillä jaetut linkit lakkaavat toimimasta. Tilaa Plus säilyttääksesi sen.",

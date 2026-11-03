@@ -2746,6 +2746,7 @@
   "SETTINGS_DOMAINS_LINK_DOMAIN_HINT": "ใช้กับลิงก์โพสต์ทุกลิงก์ที่คุณคัดลอกหรือได้รับจาก ShareX, API และบอท ทุกโดเมนเปิดโพสต์เดียวกัน",
   "SETTINGS_DOMAINS_TOAST_LINK_DOMAIN_UPDATED": "ตั้งค่าโดเมนลิงก์เป็น {label} แล้ว!",
   "SETTINGS_DOMAINS_CUSTOM_HEADING": "เชื่อมต่อโดเมนของคุณเอง",
+  "SETTINGS_DOMAINS_YOUR_DOMAIN_HEADING": "โดเมนของคุณ",
   "SETTINGS_DOMAINS_CUSTOM_HINT": "ใช้ซับโดเมนที่คุณเป็นเจ้าของ เช่น i.yourdomain.com ลิงก์บนโดเมนนั้นจะเปลี่ยนเส้นทางไปยังโพสต์ของคุณบน Snipp",
   "SETTINGS_DOMAINS_PLUS_ONLY_HINT": "การเชื่อมต่อโดเมนของคุณเองเป็นฟีเจอร์ Plus สมัครสมาชิกเพื่อปลดล็อก",
   "SETTINGS_DOMAINS_LAPSED_HINT": "โดเมนของคุณจะถูกลบในวันที่ {date} และลิงก์ที่แชร์บนโดเมนนั้นจะหยุดทำงาน สมัครสมาชิก Plus เพื่อเก็บโดเมนไว้",

@@ -2746,6 +2746,7 @@
   "SETTINGS_DOMAINS_LINK_DOMAIN_HINT": "Koristi se za svaki link objave koji kopirate ili dobijete od ShareX-a, API-ja i bota. Svaki domen otvara istu objavu.",
   "SETTINGS_DOMAINS_TOAST_LINK_DOMAIN_UPDATED": "Domen linkova podešen na {label}!",
   "SETTINGS_DOMAINS_CUSTOM_HEADING": "Povežite sopstveni domen",
+  "SETTINGS_DOMAINS_YOUR_DOMAIN_HEADING": "Vaš domen",
   "SETTINGS_DOMAINS_CUSTOM_HINT": "Koristite poddomen koji posedujete, na primer i.vasdomen.com. Linkovi na njemu preusmeravaju na vaše objave na Snipp-u.",
   "SETTINGS_DOMAINS_PLUS_ONLY_HINT": "Povezivanje sopstvenog domena je Plus funkcija. Pretplatite se da je otključate.",
   "SETTINGS_DOMAINS_LAPSED_HINT": "Vaš domen će biti uklonjen {date}, a linkovi podeljeni na njemu prestaće da rade. Pretplatite se na Plus da biste ga zadržali.",

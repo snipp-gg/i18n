@@ -2746,6 +2746,7 @@
   "SETTINGS_DOMAINS_LINK_DOMAIN_HINT": "आपके कॉपी किए गए या ShareX, API और बॉट से वापस मिलने वाले हर पोस्ट लिंक के लिए इस्तेमाल होता है। हर डोमेन एक ही पोस्ट खोलता है।",
   "SETTINGS_DOMAINS_TOAST_LINK_DOMAIN_UPDATED": "लिंक डोमेन {label} पर सेट हो गया!",
   "SETTINGS_DOMAINS_CUSTOM_HEADING": "अपना खुद का डोमेन कनेक्ट करें",
+  "SETTINGS_DOMAINS_YOUR_DOMAIN_HEADING": "आपका डोमेन",
   "SETTINGS_DOMAINS_CUSTOM_HINT": "अपने स्वामित्व वाला कोई सबडोमेन इस्तेमाल करें, जैसे i.yourdomain.com। इस पर मौजूद लिंक Snipp पर आपकी पोस्ट पर रीडायरेक्ट होते हैं।",
   "SETTINGS_DOMAINS_PLUS_ONLY_HINT": "अपना खुद का डोमेन कनेक्ट करना एक Plus फ़ीचर है। इसे अनलॉक करने के लिए सब्सक्राइब करें।",
   "SETTINGS_DOMAINS_LAPSED_HINT": "आपका डोमेन {date} को हटा दिया जाएगा, और उस पर शेयर किए गए लिंक काम करना बंद कर देंगे। इसे बनाए रखने के लिए Plus को सब्सक्राइब करें।",

@@ -2746,6 +2746,7 @@
   "SETTINGS_DOMAINS_LINK_DOMAIN_HINT": "Використовується для кожного посилання на допис, яке ви копіюєте або отримуєте від ShareX, API та бота. Будь-який домен відкриває той самий допис.",
   "SETTINGS_DOMAINS_TOAST_LINK_DOMAIN_UPDATED": "Домен посилань змінено на {label}!",
   "SETTINGS_DOMAINS_CUSTOM_HEADING": "Підключіть власний домен",
+  "SETTINGS_DOMAINS_YOUR_DOMAIN_HEADING": "Ваш домен",
   "SETTINGS_DOMAINS_CUSTOM_HINT": "Використовуйте свій піддомен, наприклад i.yourdomain.com. Посилання на ньому перенаправлятимуть на ваші дописи в Snipp.",
   "SETTINGS_DOMAINS_PLUS_ONLY_HINT": "Підключення власного домену — функція Plus. Оформіть підписку, щоб розблокувати її.",
   "SETTINGS_DOMAINS_LAPSED_HINT": "Ваш домен буде прибрано {date}, і посилання, якими ви на ньому поділилися, перестануть працювати. Оформіть підписку Plus, щоб зберегти його.",

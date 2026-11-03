@@ -2746,6 +2746,7 @@
   "SETTINGS_DOMAINS_LINK_DOMAIN_HINT": "Digunakan untuk setiap tautan postingan yang Anda salin atau dapatkan dari ShareX, API, dan bot. Setiap domain membuka postingan yang sama.",
   "SETTINGS_DOMAINS_TOAST_LINK_DOMAIN_UPDATED": "Domain Tautan diatur ke {label}!",
   "SETTINGS_DOMAINS_CUSTOM_HEADING": "Hubungkan domain Anda sendiri",
+  "SETTINGS_DOMAINS_YOUR_DOMAIN_HEADING": "Domain Anda",
   "SETTINGS_DOMAINS_CUSTOM_HINT": "Gunakan subdomain milik Anda, seperti i.domainanda.com. Tautan di dalamnya dialihkan ke postingan Anda di Snipp.",
   "SETTINGS_DOMAINS_PLUS_ONLY_HINT": "Menghubungkan domain Anda sendiri adalah fitur Plus. Berlangganan untuk membukanya.",
   "SETTINGS_DOMAINS_LAPSED_HINT": "Domain Anda akan dihapus pada {date}, dan tautan yang dibagikan di dalamnya akan berhenti berfungsi. Berlangganan Plus untuk mempertahankannya.",

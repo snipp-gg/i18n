@@ -2746,6 +2746,7 @@
   "SETTINGS_DOMAINS_LINK_DOMAIN_HINT": "Dùng cho mọi liên kết bài đăng bạn sao chép hoặc nhận về từ ShareX, API và bot. Mọi tên miền đều mở cùng một bài đăng.",
   "SETTINGS_DOMAINS_TOAST_LINK_DOMAIN_UPDATED": "Đã đặt Tên miền liên kết thành {label}!",
   "SETTINGS_DOMAINS_CUSTOM_HEADING": "Kết nối tên miền của riêng bạn",
+  "SETTINGS_DOMAINS_YOUR_DOMAIN_HEADING": "Tên miền của bạn",
   "SETTINGS_DOMAINS_CUSTOM_HINT": "Dùng một tên miền phụ bạn sở hữu, như i.tenmiencuaban.com. Liên kết trên đó sẽ chuyển hướng đến bài đăng của bạn trên Snipp.",
   "SETTINGS_DOMAINS_PLUS_ONLY_HINT": "Kết nối tên miền của riêng bạn là một tính năng Plus. Hãy đăng ký để mở khóa.",
   "SETTINGS_DOMAINS_LAPSED_HINT": "Tên miền của bạn sẽ bị gỡ vào {date} và các liên kết đã chia sẻ trên đó sẽ ngừng hoạt động. Hãy đăng ký Plus để giữ lại tên miền.",

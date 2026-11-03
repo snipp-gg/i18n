@@ -2746,6 +2746,7 @@
   "SETTINGS_DOMAINS_LINK_DOMAIN_HINT": "コピーしたり、ShareX、API、ボットから受け取ったりするすべての投稿リンクに使われます。どのドメインでも同じ投稿が開きます。",
   "SETTINGS_DOMAINS_TOAST_LINK_DOMAIN_UPDATED": "リンクドメインを{label}に設定しました！",
   "SETTINGS_DOMAINS_CUSTOM_HEADING": "独自ドメインを接続",
+  "SETTINGS_DOMAINS_YOUR_DOMAIN_HEADING": "あなたのドメイン",
   "SETTINGS_DOMAINS_CUSTOM_HINT": "i.yourdomain.com のような、所有しているサブドメインを使います。そのドメインのリンクは Snipp 上の投稿にリダイレクトされます。",
   "SETTINGS_DOMAINS_PLUS_ONLY_HINT": "独自ドメインの接続はPlus機能です。登録して解放しましょう。",
   "SETTINGS_DOMAINS_LAPSED_HINT": "ドメインは {date} に削除され、そのドメインで共有したリンクは機能しなくなります。維持するには Plus に登録してください。",

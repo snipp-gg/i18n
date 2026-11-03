@@ -2746,6 +2746,7 @@
   "SETTINGS_DOMAINS_LINK_DOMAIN_HINT": "Usado em todos os links de publicação que copia ou recebe do ShareX, da API e do bot. Todos os domínios abrem a mesma publicação.",
   "SETTINGS_DOMAINS_TOAST_LINK_DOMAIN_UPDATED": "Domínio do Link definido para {label}!",
   "SETTINGS_DOMAINS_CUSTOM_HEADING": "Ligar o seu próprio domínio",
+  "SETTINGS_DOMAINS_YOUR_DOMAIN_HEADING": "O Seu Domínio",
   "SETTINGS_DOMAINS_CUSTOM_HINT": "Use um subdomínio que possui, como i.seudominio.com. Os links nele redirecionam para as suas publicações no Snipp.",
   "SETTINGS_DOMAINS_PLUS_ONLY_HINT": "Ligar o seu próprio domínio é uma funcionalidade Plus. Subscreva para a desbloquear.",
   "SETTINGS_DOMAINS_LAPSED_HINT": "O seu domínio será removido em {date} e os links partilhados nele vão deixar de funcionar. Subscreva o Plus para o manter.",

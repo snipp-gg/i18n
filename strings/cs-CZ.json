@@ -2746,6 +2746,7 @@
   "SETTINGS_DOMAINS_LINK_DOMAIN_HINT": "Používá se pro každý odkaz na příspěvek, který zkopírujete nebo dostanete zpět ze ShareX, API a bota. Každá doména otevře stejný příspěvek.",
   "SETTINGS_DOMAINS_TOAST_LINK_DOMAIN_UPDATED": "Doména odkazů nastavena na {label}!",
   "SETTINGS_DOMAINS_CUSTOM_HEADING": "Připojit vlastní doménu",
+  "SETTINGS_DOMAINS_YOUR_DOMAIN_HEADING": "Vaše doména",
   "SETTINGS_DOMAINS_CUSTOM_HINT": "Použijte subdoménu, kterou vlastníte, například i.vasedomena.cz. Odkazy na ní přesměrují na vaše příspěvky na Snippu.",
   "SETTINGS_DOMAINS_PLUS_ONLY_HINT": "Připojení vlastní domény je funkcí Plus. Předplaťte si Plus, abyste tuto funkci odemkli.",
   "SETTINGS_DOMAINS_LAPSED_HINT": "Vaše doména bude odebrána {date} a odkazy na ní sdílené přestanou fungovat. Předplaťte si Plus, abyste si ji ponechali.",

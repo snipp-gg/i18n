@@ -2746,6 +2746,7 @@
   "SETTINGS_DOMAINS_LINK_DOMAIN_HINT": "Wordt gebruikt voor elke postlink die je kopieert of terugkrijgt van ShareX, de API en de bot. Elk domein opent dezelfde post.",
   "SETTINGS_DOMAINS_TOAST_LINK_DOMAIN_UPDATED": "Linkdomein ingesteld op {label}!",
   "SETTINGS_DOMAINS_CUSTOM_HEADING": "Je eigen domein koppelen",
+  "SETTINGS_DOMAINS_YOUR_DOMAIN_HEADING": "Je domein",
   "SETTINGS_DOMAINS_CUSTOM_HINT": "Gebruik een subdomein dat je bezit, zoals i.jouwdomein.com. Links erop verwijzen door naar je posts op Snipp.",
   "SETTINGS_DOMAINS_PLUS_ONLY_HINT": "Je eigen domein koppelen is een Plus-functie. Abonneer je om het te ontgrendelen.",
   "SETTINGS_DOMAINS_LAPSED_HINT": "Je domein wordt op {date} verwijderd en links die erop zijn gedeeld, werken dan niet meer. Abonneer je op Plus om het te houden.",

@@ -2746,6 +2746,7 @@
   "SETTINGS_DOMAINS_LINK_DOMAIN_HINT": "Usato per ogni link di post che copi o ricevi da ShareX, dall'API e dal bot. Ogni dominio apre lo stesso post.",
   "SETTINGS_DOMAINS_TOAST_LINK_DOMAIN_UPDATED": "Dominio dei link impostato su {label}!",
   "SETTINGS_DOMAINS_CUSTOM_HEADING": "Collega il tuo dominio",
+  "SETTINGS_DOMAINS_YOUR_DOMAIN_HEADING": "Il tuo dominio",
   "SETTINGS_DOMAINS_CUSTOM_HINT": "Usa un sottodominio di tua proprietà, come i.tuodominio.com. I link su di esso reindirizzano ai tuoi post su Snipp.",
   "SETTINGS_DOMAINS_PLUS_ONLY_HINT": "Collegare il tuo dominio è una funzionalità Plus. Abbonati per sbloccarla.",
   "SETTINGS_DOMAINS_LAPSED_HINT": "Il tuo dominio verrà rimosso il {date} e i link condivisi su di esso smetteranno di funzionare. Abbonati a Plus per mantenerlo.",
