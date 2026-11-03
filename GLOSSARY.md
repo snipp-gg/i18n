@@ -586,6 +586,78 @@ Source of truth is `Website/utils/i18n/strings/<locale>.json`; `i18n/strings/` m
 | vi-VN | Phát trực tiếp |
 | zh-CN | 直播 |
 
+## Going Live
+
+`SUPPORT_STREAMING_SETUP_HEADING` = "Going live"
+
+| Locale | Value |
+| --- | --- |
+| bg-BG | Излизане на живо |
+| cs-CZ | Zahájení vysílání |
+| de-DE | Live gehen |
+| el-GR | Έναρξη ζωντανής μετάδοσης |
+| es-ES | Emitir en directo |
+| fi-FI | Suoran lähetyksen aloittaminen |
+| fil-PH | Pag-live |
+| fr-FR | Passer en direct |
+| hi-IN | लाइव जाना |
+| hr-HR | Pokretanje streama uživo |
+| id-ID | Mulai live |
+| it-IT | Andare in diretta |
+| ja-JP | ライブ配信を始める |
+| ko-KR | 라이브 방송 시작하기 |
+| nb-NO | Slik sender du direkte |
+| nl-NL | Live gaan |
+| pl-PL | Rozpoczynanie transmisji |
+| pt-BR | Entrando ao vivo |
+| pt-PT | Entrar em direto |
+| ro-RO | Cum intri live |
+| ru-RU | Как выйти в эфир |
+| sk-SK | Spustenie vysielania |
+| sr-RS | Pokretanje strima uživo |
+| sv-SE | Så sänder du live |
+| th-TH | การเริ่มไลฟ์ |
+| tr-TR | Canlı yayına geçme |
+| uk-UA | Як вийти в ефір |
+| vi-VN | Bắt đầu phát trực tiếp |
+| zh-CN | 开始直播 |
+
+## Live Chat
+
+`LIVE_CHAT_HEADING` = "Chat"
+
+| Locale | Value |
+| --- | --- |
+| bg-BG | Чат |
+| cs-CZ | Chat |
+| de-DE | Chat |
+| el-GR | Συνομιλία |
+| es-ES | Chat |
+| fi-FI | Chat |
+| fil-PH | Chat |
+| fr-FR | Chat |
+| hi-IN | चैट |
+| hr-HR | Chat |
+| id-ID | Obrolan |
+| it-IT | Chat |
+| ja-JP | チャット |
+| ko-KR | 채팅 |
+| nb-NO | Chat |
+| nl-NL | Chat |
+| pl-PL | Czat |
+| pt-BR | Chat |
+| pt-PT | Chat |
+| ro-RO | Chat |
+| ru-RU | Чат |
+| sk-SK | Chat |
+| sr-RS | Čet |
+| sv-SE | Chatt |
+| th-TH | แชท |
+| tr-TR | Sohbet |
+| uk-UA | Чат |
+| vi-VN | Trò chuyện |
+| zh-CN | 聊天 |
+
 ## Live Minutes
 
 `SETTINGS_BILLING_LIVE_HOURS_LABEL` = "Monthly Live Minutes"
