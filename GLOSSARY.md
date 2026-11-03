@@ -550,6 +550,42 @@ Source of truth is `Website/utils/i18n/strings/<locale>.json`; `i18n/strings/` m
 | vi-VN | Phát trực tiếp |
 | zh-CN | 直播 |
 
+## Live Streaming
+
+`PLAN_FEATURE_LIVE_STREAMING` = "Live Streaming"
+
+| Locale | Value |
+| --- | --- |
+| bg-BG | Стрийминг на живо |
+| cs-CZ | Živé streamování |
+| de-DE | Livestreaming |
+| el-GR | Ζωντανό Streaming |
+| es-ES | Streaming en Directo |
+| fi-FI | Livestriimaus |
+| fil-PH | Live Streaming |
+| fr-FR | Streaming en direct |
+| hi-IN | लाइव स्ट्रीमिंग |
+| hr-HR | Streaming uživo |
+| id-ID | Live Streaming |
+| it-IT | Streaming in diretta |
+| ja-JP | ライブ配信 |
+| ko-KR | 라이브 방송 |
+| nb-NO | Direktestrømming |
+| nl-NL | Livestreamen |
+| pl-PL | Transmisje na Żywo |
+| pt-BR | Transmissão ao Vivo |
+| pt-PT | Transmissão em Direto |
+| ro-RO | Transmisii live |
+| ru-RU | Стриминг в прямом эфире |
+| sk-SK | Živé streamovanie |
+| sr-RS | Strimovanje uživo |
+| sv-SE | Liveströmning |
+| th-TH | การสตรีมสด |
+| tr-TR | Canlı Yayın |
+| uk-UA | Стримінг у прямому ефірі |
+| vi-VN | Phát trực tiếp |
+| zh-CN | 直播 |
+
 ## Live Minutes
 
 `SETTINGS_BILLING_LIVE_HOURS_LABEL` = "Monthly Live Minutes"
