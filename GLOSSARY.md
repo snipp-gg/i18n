@@ -837,3 +837,111 @@ Source of truth is `Website/utils/i18n/strings/<locale>.json`; `i18n/strings/` m
 | uk-UA | Видати тайм-аут |
 | vi-VN | Tạm cấm trò chuyện |
 | zh-CN | 禁言 |
+
+## Stream Preview
+
+`LIVE_PREVIEW_HEADING` = "Stream Preview"
+
+| Locale | Value |
+| --- | --- |
+| bg-BG | Предварителен преглед на излъчването |
+| cs-CZ | Náhled streamu |
+| de-DE | Streamvorschau |
+| el-GR | Προεπισκόπηση μετάδοσης |
+| es-ES | Vista previa del directo |
+| fi-FI | Striimin esikatselu |
+| fil-PH | Preview ng Stream |
+| fr-FR | Aperçu du direct |
+| hi-IN | स्ट्रीम प्रीव्यू |
+| hr-HR | Pretpregled streama |
+| id-ID | Pratinjau Siaran |
+| it-IT | Anteprima della diretta |
+| ja-JP | 配信プレビュー |
+| ko-KR | 방송 미리보기 |
+| nb-NO | Forhåndsvisning av strømmen |
+| nl-NL | Streamvoorbeeld |
+| pl-PL | Podgląd transmisji |
+| pt-BR | Prévia da transmissão |
+| pt-PT | Pré-visualização da transmissão |
+| ro-RO | Previzualizarea transmisiei |
+| ru-RU | Предпросмотр трансляции |
+| sk-SK | Náhľad streamu |
+| sr-RS | Pretpregled strima |
+| sv-SE | Strömförhandsvisning |
+| th-TH | ตัวอย่างไลฟ์ |
+| tr-TR | Yayın Önizlemesi |
+| uk-UA | Попередній перегляд трансляції |
+| vi-VN | Xem trước buổi phát trực tiếp |
+| zh-CN | 直播预览 |
+
+## Go Live
+
+`LIVE_GO_LIVE` = "Go Live"
+
+| Locale | Value |
+| --- | --- |
+| bg-BG | Излизане на живо |
+| cs-CZ | Zahájit vysílání |
+| de-DE | Live Gehen |
+| el-GR | Έναρξη Μετάδοσης |
+| es-ES | Emitir en Directo |
+| fi-FI | Aloita suora lähetys |
+| fil-PH | Mag-live |
+| fr-FR | Passer en direct |
+| hi-IN | लाइव जाएँ |
+| hr-HR | Emitiraj uživo |
+| id-ID | Mulai Live |
+| it-IT | Vai in diretta |
+| ja-JP | ライブ配信を開始 |
+| ko-KR | 라이브 방송 시작 |
+| nb-NO | Send direkte |
+| nl-NL | Live gaan |
+| pl-PL | Rozpocznij Transmisję |
+| pt-BR | Entrar ao Vivo |
+| pt-PT | Entrar em Direto |
+| ro-RO | Intră live |
+| ru-RU | Выйти в эфир |
+| sk-SK | Spustiť vysielanie |
+| sr-RS | Pokreni strim uživo |
+| sv-SE | Sänd live |
+| th-TH | เริ่มไลฟ์ |
+| tr-TR | Canlı Yayına Geç |
+| uk-UA | Вийти в ефір |
+| vi-VN | Bắt đầu phát trực tiếp |
+| zh-CN | 开始直播 |
+
+## Go Offline
+
+`LIVE_GO_OFFLINE` = "Go Offline"
+
+| Locale | Value |
+| --- | --- |
+| bg-BG | Преминаване офлайн |
+| cs-CZ | Přerušit vysílání |
+| de-DE | Offline Gehen |
+| el-GR | Μετάβαση Εκτός Σύνδεσης |
+| es-ES | Salir del Directo |
+| fi-FI | Poistu suorasta lähetyksestä |
+| fil-PH | Mag-offline |
+| fr-FR | Passer hors ligne |
+| hi-IN | ऑफ़लाइन जाएँ |
+| hr-HR | Prekini emitiranje |
+| id-ID | Beralih ke Offline |
+| it-IT | Vai offline |
+| ja-JP | オフラインにする |
+| ko-KR | 오프라인 전환 |
+| nb-NO | Gå av lufta |
+| nl-NL | Offline gaan |
+| pl-PL | Wstrzymaj Transmisję |
+| pt-BR | Sair do Ar |
+| pt-PT | Sair do Ar |
+| ro-RO | Ieși din live |
+| ru-RU | Уйти из эфира |
+| sk-SK | Prerušiť vysielanie |
+| sr-RS | Prekini strim uživo |
+| sv-SE | Gå offline |
+| th-TH | เปลี่ยนเป็นออฟไลน์ |
+| tr-TR | Çevrimdışı Ol |
+| uk-UA | Піти з ефіру |
+| vi-VN | Chuyển sang ngoại tuyến |
+| zh-CN | 下播 |
