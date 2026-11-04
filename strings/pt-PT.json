@@ -1650,6 +1650,8 @@
   "LIVE_ERROR_GO_LIVE": "Falha ao entrar em direto. Por favor tente novamente.",
   "LIVE_GO_OFFLINE": "Sair do Ar",
   "LIVE_ERROR_GO_OFFLINE": "Falha ao sair do ar. Por favor tente novamente.",
+  "LIVE_CONFIRM_GO_LIVE": "Tem a certeza que quer entrar em direto? A sua transmissão torna-se pública e fica afixada no topo do Descobrir, e os seus seguidores recebem uma notificação, a menos que tenha estado em direto nos últimos 2 minutos.",
+  "LIVE_CONFIRM_GO_OFFLINE": "Tem a certeza que quer sair do ar? Para os espectadores, aparece como fora do ar e a sua transmissão continua a decorrer na pré-visualização. Se voltar a entrar em direto dentro de 2 minutos, esta transmissão continua sem notificar ninguém.",
   "LIVE_STATS_HEADING": "Estatísticas da transmissão",
   "LIVE_STAT_VIEWERS": "Espectadores",
   "LIVE_STAT_UPTIME": "Tempo em direto",

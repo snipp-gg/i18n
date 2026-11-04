@@ -1650,6 +1650,8 @@
   "LIVE_ERROR_GO_LIVE": "开始直播失败。请重试。",
   "LIVE_GO_OFFLINE": "下播",
   "LIVE_ERROR_GO_OFFLINE": "下播失败。请重试。",
+  "LIVE_CONFIRM_GO_LIVE": "您确定要开始直播吗？您的直播将公开，并被置顶在“发现”页面顶部。除非您在过去 2 分钟内直播过，否则您的关注者会收到通知。",
+  "LIVE_CONFIRM_GO_OFFLINE": "您确定要下播吗？观众会看到您未在直播，您的推流会在预览中继续。如果您在 2 分钟内重新开始直播，本场直播将继续，且不会通知任何人。",
   "LIVE_STATS_HEADING": "直播数据",
   "LIVE_STAT_VIEWERS": "观众",
   "LIVE_STAT_UPTIME": "直播时长",

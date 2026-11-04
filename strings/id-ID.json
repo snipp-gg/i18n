@@ -1650,6 +1650,8 @@
   "LIVE_ERROR_GO_LIVE": "Gagal memulai live. Silakan coba lagi.",
   "LIVE_GO_OFFLINE": "Beralih ke Offline",
   "LIVE_ERROR_GO_OFFLINE": "Gagal beralih ke offline. Silakan coba lagi.",
+  "LIVE_CONFIRM_GO_LIVE": "Yakin ingin mulai live? Siaran Anda menjadi publik dan disematkan di bagian teratas Jelajahi, dan pengikut Anda mendapat notifikasi kecuali Anda sempat live dalam 2 menit terakhir.",
+  "LIVE_CONFIRM_GO_OFFLINE": "Yakin ingin beralih ke offline? Penonton melihat Anda sedang offline dan siaran Anda tetap berjalan dalam pratinjau. Jika Anda mulai live lagi dalam 2 menit, siaran ini berlanjut tanpa memberi tahu siapa pun.",
   "LIVE_STATS_HEADING": "Statistik Siaran",
   "LIVE_STAT_VIEWERS": "Penonton",
   "LIVE_STAT_UPTIME": "Durasi",

@@ -1650,6 +1650,8 @@
   "LIVE_ERROR_GO_LIVE": "Suoran lähetyksen aloitus epäonnistui. Yritä uudelleen.",
   "LIVE_GO_OFFLINE": "Poistu suorasta lähetyksestä",
   "LIVE_ERROR_GO_OFFLINE": "Suorasta lähetyksestä poistuminen epäonnistui. Yritä uudelleen.",
+  "LIVE_CONFIRM_GO_LIVE": "Haluatko varmasti aloittaa suoran lähetyksen? Striimisi muuttuu julkiseksi ja kiinnitetään Tutustu-sivun kärkeen, ja seuraajasi saavat ilmoituksen, ellet ole ollut suorassa lähetyksessä viimeisten 2 minuutin aikana.",
+  "LIVE_CONFIRM_GO_OFFLINE": "Haluatko varmasti poistua suorasta lähetyksestä? Katsojat näkevät, ettet striimaa, ja striimisi jatkuu esikatselussa. Jos aloitat suoran lähetyksen uudelleen 2 minuutin sisällä, tämä striimi jatkuu ilmoittamatta kenellekään.",
   "LIVE_STATS_HEADING": "Striimin tilastot",
   "LIVE_STAT_VIEWERS": "Katsojat",
   "LIVE_STAT_UPTIME": "Kesto",

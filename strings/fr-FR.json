@@ -1650,6 +1650,8 @@
   "LIVE_ERROR_GO_LIVE": "Échec du passage en direct. Veuillez réessayer.",
   "LIVE_GO_OFFLINE": "Passer hors ligne",
   "LIVE_ERROR_GO_OFFLINE": "Échec du passage hors ligne. Veuillez réessayer.",
+  "LIVE_CONFIRM_GO_LIVE": "Voulez-vous vraiment passer en direct ? Votre direct devient public et est épinglé en haut de Découvrir, et vos abonnés reçoivent une notification, sauf si vous étiez en direct au cours des 2 dernières minutes.",
+  "LIVE_CONFIRM_GO_OFFLINE": "Voulez-vous vraiment passer hors ligne ? Les spectateurs vous voient hors ligne et votre stream continue de tourner en aperçu. Si vous repassez en direct dans les 2 minutes, ce direct se poursuit sans prévenir personne.",
   "LIVE_STATS_HEADING": "Statistiques du direct",
   "LIVE_STAT_VIEWERS": "Spectateurs",
   "LIVE_STAT_UPTIME": "Durée",

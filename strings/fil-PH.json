@@ -1650,6 +1650,8 @@
   "LIVE_ERROR_GO_LIVE": "Hindi ka nakapag-live. Subukan ulit.",
   "LIVE_GO_OFFLINE": "Mag-offline",
   "LIVE_ERROR_GO_OFFLINE": "Hindi ka nakapag-offline. Subukan ulit.",
+  "LIVE_CONFIRM_GO_LIVE": "Sigurado ka bang gusto mong mag-live? Magiging pampubliko ang stream mo at mapi-pin ito sa itaas ng Tuklasin, at makakatanggap ng notification ang mga follower mo maliban kung nag-live ka sa nakalipas na 2 minuto.",
+  "LIVE_CONFIRM_GO_OFFLINE": "Sigurado ka bang gusto mong mag-offline? Offline ka sa paningin ng mga manonood at patuloy na tatakbo ang stream mo sa preview. Kapag nag-live ka ulit sa loob ng 2 minuto, magpapatuloy ang stream na ito nang hindi nino-notify ang sinuman.",
   "LIVE_STATS_HEADING": "Mga Istatistika ng Stream",
   "LIVE_STAT_VIEWERS": "Mga manonood",
   "LIVE_STAT_UPTIME": "Tagal",

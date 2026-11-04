@@ -1650,6 +1650,8 @@
   "LIVE_ERROR_GO_LIVE": "Nepodarilo sa spustiť vysielanie. Skús to znova.",
   "LIVE_GO_OFFLINE": "Prerušiť vysielanie",
   "LIVE_ERROR_GO_OFFLINE": "Nepodarilo sa prerušiť vysielanie. Skús to znova.",
+  "LIVE_CONFIRM_GO_LIVE": "Naozaj chceš spustiť vysielanie? Tvoj stream bude verejný a pripne sa na vrch stránky Objavuj. Tvoji sledovatelia dostanú upozornenie, ak si nevysielal v posledných 2 minútach.",
+  "LIVE_CONFIRM_GO_OFFLINE": "Naozaj chceš prerušiť vysielanie? Pre divákov nevysielaš a tvoj stream ďalej beží v náhľade. Ak do 2 minút znova spustíš vysielanie, tento stream pokračuje bez toho, aby niekto dostal upozornenie.",
   "LIVE_STATS_HEADING": "Štatistiky streamu",
   "LIVE_STAT_VIEWERS": "Diváci",
   "LIVE_STAT_UPTIME": "Čas vysielania",

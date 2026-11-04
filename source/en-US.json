@@ -1650,6 +1650,8 @@
   "LIVE_ERROR_GO_LIVE": "Failed to go live. Please try again.",
   "LIVE_GO_OFFLINE": "Go Offline",
   "LIVE_ERROR_GO_OFFLINE": "Failed to go offline. Please try again.",
+  "LIVE_CONFIRM_GO_LIVE": "Are you sure you want to go live? Your stream becomes public and is pinned at the top of Discover, and your followers get a notification unless you were live in the last 2 minutes.",
+  "LIVE_CONFIRM_GO_OFFLINE": "Are you sure you want to go offline? Viewers see you as offline and your stream keeps running in preview. Going live again within 2 minutes continues this stream without notifying anyone.",
   "LIVE_STATS_HEADING": "Stream Stats",
   "LIVE_STAT_VIEWERS": "Viewers",
   "LIVE_STAT_UPTIME": "Uptime",

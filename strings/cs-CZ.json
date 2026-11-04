@@ -1650,6 +1650,8 @@
   "LIVE_ERROR_GO_LIVE": "Nepodařilo se zahájit vysílání. Zkuste to prosím znovu.",
   "LIVE_GO_OFFLINE": "Přerušit vysílání",
   "LIVE_ERROR_GO_OFFLINE": "Nepodařilo se přerušit vysílání. Zkuste to prosím znovu.",
+  "LIVE_CONFIRM_GO_LIVE": "Opravdu chcete zahájit vysílání? Váš stream se zveřejní a připne se nahoru na stránku Objevit. Vaši sledující dostanou oznámení, pokud jste nevysílali v posledních 2 minutách.",
+  "LIVE_CONFIRM_GO_OFFLINE": "Opravdu chcete přerušit vysílání? Diváci vás vidí jako offline a váš stream dál běží v náhledu. Pokud do 2 minut znovu zahájíte vysílání, tento stream bude pokračovat, aniž by kdokoli dostal oznámení.",
   "LIVE_STATS_HEADING": "Statistiky streamu",
   "LIVE_STAT_VIEWERS": "Diváci",
   "LIVE_STAT_UPTIME": "Doba vysílání",

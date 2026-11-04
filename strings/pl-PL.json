@@ -1650,6 +1650,8 @@
   "LIVE_ERROR_GO_LIVE": "Nie udało się rozpocząć transmisji. Spróbuj ponownie.",
   "LIVE_GO_OFFLINE": "Wstrzymaj Transmisję",
   "LIVE_ERROR_GO_OFFLINE": "Nie udało się wstrzymać transmisji. Spróbuj ponownie.",
+  "LIVE_CONFIRM_GO_LIVE": "Czy na pewno chcesz rozpocząć transmisję? Twoja transmisja stanie się publiczna i zostanie przypięta na górze strony Odkrywaj, a Twoi obserwujący dostaną powiadomienie, chyba że nadawałeś na żywo w ciągu ostatnich 2 minut.",
+  "LIVE_CONFIRM_GO_OFFLINE": "Czy na pewno chcesz wstrzymać transmisję? Dla widzów jesteś offline, a Twoja transmisja nadal działa w podglądzie. Jeśli w ciągu 2 minut ponownie rozpoczniesz transmisję, będzie ona kontynuowana bez powiadamiania kogokolwiek.",
   "LIVE_STATS_HEADING": "Statystyki transmisji",
   "LIVE_STAT_VIEWERS": "Widzowie",
   "LIVE_STAT_UPTIME": "Czas transmisji",

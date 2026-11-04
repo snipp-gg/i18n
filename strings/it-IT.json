@@ -1650,6 +1650,8 @@
   "LIVE_ERROR_GO_LIVE": "Impossibile andare in diretta. Riprova.",
   "LIVE_GO_OFFLINE": "Vai offline",
   "LIVE_ERROR_GO_OFFLINE": "Impossibile andare offline. Riprova.",
+  "LIVE_CONFIRM_GO_LIVE": "Sei sicuro di voler andare in diretta? La tua diretta diventa pubblica e viene fissata in cima a Esplora, e i tuoi follower ricevono una notifica, a meno che tu non sia stato in diretta negli ultimi 2 minuti.",
+  "LIVE_CONFIRM_GO_OFFLINE": "Sei sicuro di voler andare offline? Gli spettatori ti vedono offline e il tuo stream continua in anteprima. Se torni in diretta entro 2 minuti, questa diretta prosegue senza avvisare nessuno.",
   "LIVE_STATS_HEADING": "Statistiche della diretta",
   "LIVE_STAT_VIEWERS": "Spettatori",
   "LIVE_STAT_UPTIME": "Durata",

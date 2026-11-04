@@ -1650,6 +1650,8 @@
   "LIVE_ERROR_GO_LIVE": "Canlı yayına geçilemedi. Lütfen tekrar deneyin.",
   "LIVE_GO_OFFLINE": "Çevrimdışı Ol",
   "LIVE_ERROR_GO_OFFLINE": "Çevrimdışı olunamadı. Lütfen tekrar deneyin.",
+  "LIVE_CONFIRM_GO_LIVE": "Canlı yayına geçmek istediğinizden emin misiniz? Yayınınız herkese açık hale gelir ve Keşfet'in en üstüne sabitlenir. Son 2 dakika içinde canlı yayında olmadıysanız takipçileriniz de bildirim alır.",
+  "LIVE_CONFIRM_GO_OFFLINE": "Çevrimdışı olmak istediğinizden emin misiniz? İzleyiciler sizi çevrimdışı görür ve yayınınız önizlemede devam eder. 2 dakika içinde yeniden canlı yayına geçerseniz bu yayın kimseye bildirim gönderilmeden devam eder.",
   "LIVE_STATS_HEADING": "Yayın İstatistikleri",
   "LIVE_STAT_VIEWERS": "İzleyiciler",
   "LIVE_STAT_UPTIME": "Yayın süresi",

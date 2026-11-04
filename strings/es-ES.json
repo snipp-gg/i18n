@@ -1650,6 +1650,8 @@
   "LIVE_ERROR_GO_LIVE": "No se pudo emitir en directo. Inténtalo de nuevo.",
   "LIVE_GO_OFFLINE": "Salir del Directo",
   "LIVE_ERROR_GO_OFFLINE": "No se pudo salir del directo. Inténtalo de nuevo.",
+  "LIVE_CONFIRM_GO_LIVE": "¿Seguro que quieres emitir en directo? Tu directo pasa a ser público y se fija en lo más alto de Descubrir, y tus seguidores reciben una notificación salvo que hayas estado en directo en los últimos 2 minutos.",
+  "LIVE_CONFIRM_GO_OFFLINE": "¿Seguro que quieres salir del directo? Para los espectadores no estás en directo y tu retransmisión sigue en vista previa. Si vuelves a emitir en directo en menos de 2 minutos, este directo continúa sin avisar a nadie.",
   "LIVE_STATS_HEADING": "Estadísticas del directo",
   "LIVE_STAT_VIEWERS": "Espectadores",
   "LIVE_STAT_UPTIME": "Tiempo en directo",

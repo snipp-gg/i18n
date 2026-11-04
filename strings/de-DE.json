@@ -1650,6 +1650,8 @@
   "LIVE_ERROR_GO_LIVE": "Du konntest nicht live gehen. Bitte versuche es erneut.",
   "LIVE_GO_OFFLINE": "Offline Gehen",
   "LIVE_ERROR_GO_OFFLINE": "Du konntest nicht offline gehen. Bitte versuche es erneut.",
+  "LIVE_CONFIRM_GO_LIVE": "Möchtest du wirklich live gehen? Dein Stream wird öffentlich und ganz oben auf der Entdecken-Seite angeheftet, und deine Follower erhalten eine Benachrichtigung, es sei denn, du warst in den letzten 2 Minuten live.",
+  "LIVE_CONFIRM_GO_OFFLINE": "Möchtest du wirklich offline gehen? Zuschauer sehen dich als offline und dein Stream läuft in der Vorschau weiter. Wenn du innerhalb von 2 Minuten wieder live gehst, wird dieser Stream fortgesetzt, ohne dass jemand benachrichtigt wird.",
   "LIVE_STATS_HEADING": "Streamstatistiken",
   "LIVE_STAT_VIEWERS": "Zuschauer",
   "LIVE_STAT_UPTIME": "Laufzeit",

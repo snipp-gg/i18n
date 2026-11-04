@@ -1650,6 +1650,8 @@
   "LIVE_ERROR_GO_LIVE": "Falha ao entrar ao vivo. Tente novamente.",
   "LIVE_GO_OFFLINE": "Sair do Ar",
   "LIVE_ERROR_GO_OFFLINE": "Falha ao sair do ar. Tente novamente.",
+  "LIVE_CONFIRM_GO_LIVE": "Tem certeza de que deseja entrar ao vivo? Sua transmissão se torna pública e fica fixada no topo do Descobrir, e seus seguidores recebem uma notificação, a menos que você tenha estado ao vivo nos últimos 2 minutos.",
+  "LIVE_CONFIRM_GO_OFFLINE": "Tem certeza de que deseja sair do ar? Para os espectadores, você aparece como fora do ar e sua transmissão continua rodando na prévia. Se você entrar ao vivo de novo em até 2 minutos, esta transmissão continua sem notificar ninguém.",
   "LIVE_STATS_HEADING": "Estatísticas da transmissão",
   "LIVE_STAT_VIEWERS": "Espectadores",
   "LIVE_STAT_UPTIME": "Tempo no ar",

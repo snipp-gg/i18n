@@ -1650,6 +1650,8 @@
   "LIVE_ERROR_GO_LIVE": "Neuspešno pokretanje strima uživo. Pokušajte ponovo.",
   "LIVE_GO_OFFLINE": "Prekini strim uživo",
   "LIVE_ERROR_GO_OFFLINE": "Neuspešno prekidanje strima uživo. Pokušajte ponovo.",
+  "LIVE_CONFIRM_GO_LIVE": "Da li ste sigurni da želite da pokrenete strim uživo? Vaš strim postaje javan i kači se na vrh stranice Otkrij, a vaši pratioci dobijaju obaveštenje, osim ako niste bili uživo u poslednja 2 minuta.",
+  "LIVE_CONFIRM_GO_OFFLINE": "Da li ste sigurni da želite da prekinete strim uživo? Gledaocima izgleda kao da niste uživo, a vaš strim nastavlja da radi u pretpregledu. Ako ponovo pokrenete strim uživo u roku od 2 minuta, ovaj strim se nastavlja, a da niko ne dobije obaveštenje.",
   "LIVE_STATS_HEADING": "Statistika strima",
   "LIVE_STAT_VIEWERS": "Gledaoci",
   "LIVE_STAT_UPTIME": "Trajanje",

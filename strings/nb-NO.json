@@ -1650,6 +1650,8 @@
   "LIVE_ERROR_GO_LIVE": "Kunne ikke sende direkte. Prøv igjen.",
   "LIVE_GO_OFFLINE": "Gå av lufta",
   "LIVE_ERROR_GO_OFFLINE": "Kunne ikke gå av lufta. Prøv igjen.",
+  "LIVE_CONFIRM_GO_LIVE": "Er du sikker på at du vil sende direkte? Strømmen din blir offentlig og festes øverst i Utforsk, og følgerne dine får et varsel med mindre du har sendt direkte i løpet av de siste 2 minuttene.",
+  "LIVE_CONFIRM_GO_OFFLINE": "Er du sikker på at du vil gå av lufta? Seerne ser at du ikke sender, og strømmen din fortsetter i forhåndsvisningen. Sender du direkte igjen innen 2 minutter, fortsetter denne strømmen uten at noen blir varslet.",
   "LIVE_STATS_HEADING": "Strømmestatistikk",
   "LIVE_STAT_VIEWERS": "Seere",
   "LIVE_STAT_UPTIME": "Sendetid",

@@ -1650,6 +1650,8 @@
   "LIVE_ERROR_GO_LIVE": "Nu s-a putut intra live. Te rugăm să încerci din nou.",
   "LIVE_GO_OFFLINE": "Ieși din live",
   "LIVE_ERROR_GO_OFFLINE": "Nu s-a putut ieși din live. Te rugăm să încerci din nou.",
+  "LIVE_CONFIRM_GO_LIVE": "Sigur dorești să intri live? Transmisia ta devine publică și este fixată în partea de sus a paginii Descoperă, iar urmăritorii tăi primesc o notificare, cu excepția cazului în care ai fost live în ultimele 2 minute.",
+  "LIVE_CONFIRM_GO_OFFLINE": "Sigur dorești să ieși din live? Spectatorii văd că nu ești live, iar transmisia ta continuă în previzualizare. Dacă intri din nou live în următoarele 2 minute, această transmisie continuă fără să fie notificat nimeni.",
   "LIVE_STATS_HEADING": "Statisticile transmisiei",
   "LIVE_STAT_VIEWERS": "Spectatori",
   "LIVE_STAT_UPTIME": "Durată",

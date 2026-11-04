@@ -1650,6 +1650,8 @@
   "LIVE_ERROR_GO_LIVE": "Không thể bắt đầu phát trực tiếp. Vui lòng thử lại.",
   "LIVE_GO_OFFLINE": "Chuyển sang ngoại tuyến",
   "LIVE_ERROR_GO_OFFLINE": "Không thể chuyển sang ngoại tuyến. Vui lòng thử lại.",
+  "LIVE_CONFIRM_GO_LIVE": "Bạn có chắc muốn bắt đầu phát trực tiếp? Buổi phát trực tiếp của bạn sẽ được công khai và ghim ở trên cùng trong Khám phá, đồng thời người theo dõi của bạn sẽ nhận được thông báo, trừ khi bạn đã phát trực tiếp trong 2 phút vừa qua.",
+  "LIVE_CONFIRM_GO_OFFLINE": "Bạn có chắc muốn chuyển sang ngoại tuyến? Người xem thấy bạn đang ngoại tuyến và luồng của bạn vẫn tiếp tục chạy ở chế độ xem trước. Nếu bạn bắt đầu phát trực tiếp lại trong vòng 2 phút, buổi phát trực tiếp này sẽ tiếp tục mà không thông báo cho ai.",
   "LIVE_STATS_HEADING": "Thống kê buổi phát trực tiếp",
   "LIVE_STAT_VIEWERS": "Người xem",
   "LIVE_STAT_UPTIME": "Thời gian phát",

@@ -1650,6 +1650,8 @@
   "LIVE_ERROR_GO_LIVE": "Kunde inte sända live. Försök igen.",
   "LIVE_GO_OFFLINE": "Gå offline",
   "LIVE_ERROR_GO_OFFLINE": "Kunde inte gå offline. Försök igen.",
+  "LIVE_CONFIRM_GO_LIVE": "Är du säker på att du vill sända live? Din ström blir offentlig och fästs högst upp i Utforska, och dina följare får en avisering om du inte har sänt live under de senaste 2 minuterna.",
+  "LIVE_CONFIRM_GO_OFFLINE": "Är du säker på att du vill gå offline? Tittarna ser dig som offline och din ström fortsätter i förhandsvisningen. Sänder du live igen inom 2 minuter fortsätter den här strömmen utan att någon aviseras.",
   "LIVE_STATS_HEADING": "Strömstatistik",
   "LIVE_STAT_VIEWERS": "Tittare",
   "LIVE_STAT_UPTIME": "Sändningstid",

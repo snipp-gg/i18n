@@ -1650,6 +1650,8 @@
   "LIVE_ERROR_GO_LIVE": "Emitiranje uživo nije uspjelo. Pokušaj ponovno.",
   "LIVE_GO_OFFLINE": "Prekini emitiranje",
   "LIVE_ERROR_GO_OFFLINE": "Prekidanje emitiranja nije uspjelo. Pokušaj ponovno.",
+  "LIVE_CONFIRM_GO_LIVE": "Jesi li siguran da želiš emitirati uživo? Tvoj stream postaje javan i bude prikvačen na vrh stranice Otkrij, a tvoji pratitelji dobiju obavijest, osim ako nisi bio uživo u posljednje 2 minute.",
+  "LIVE_CONFIRM_GO_OFFLINE": "Jesi li siguran da želiš prekinuti emitiranje? Gledatelji vide da nisi uživo, a tvoj stream i dalje radi u pretpregledu. Ako ponovno počneš emitirati uživo unutar 2 minute, ovaj se stream nastavlja bez ikakvih obavijesti.",
   "LIVE_STATS_HEADING": "Statistika streama",
   "LIVE_STAT_VIEWERS": "Gledatelji",
   "LIVE_STAT_UPTIME": "Trajanje",

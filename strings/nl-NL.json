@@ -1650,6 +1650,8 @@
   "LIVE_ERROR_GO_LIVE": "Live gaan mislukt. Probeer het opnieuw.",
   "LIVE_GO_OFFLINE": "Offline gaan",
   "LIVE_ERROR_GO_OFFLINE": "Offline gaan mislukt. Probeer het opnieuw.",
+  "LIVE_CONFIRM_GO_LIVE": "Weet je zeker dat je live wilt gaan? Je stream wordt openbaar en bovenaan Ontdekken vastgezet, en je volgers krijgen een melding, tenzij je in de afgelopen 2 minuten live was.",
+  "LIVE_CONFIRM_GO_OFFLINE": "Weet je zeker dat je offline wilt gaan? Kijkers zien dat je niet streamt en je stream loopt door in het voorbeeld. Ga je binnen 2 minuten weer live, dan loopt deze stream verder zonder dat iemand een melding krijgt.",
   "LIVE_STATS_HEADING": "Streamstatistieken",
   "LIVE_STAT_VIEWERS": "Kijkers",
   "LIVE_STAT_UPTIME": "Zendtijd",
