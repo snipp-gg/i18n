@@ -302,6 +302,7 @@
   "USER_ID_MENU_COPY_BUTTON": "Gebruikers-ID kopiëren",
   "MODAL_EDIT_POST_TOAST_UPDATED": "Post succesvol bijgewerkt!",
   "MODAL_EDIT_POST_TOAST_UPDATE_FAILED": "Post bijwerken mislukt. Probeer het opnieuw.",
+  "COMMON_EDIT": "Bewerken",
   "COMMON_EDIT_POST": "Post bewerken",
   "COMMON_EDIT_A_COPY": "Kopie bewerken",
   "COMMON_EDIT_THE_ORIGINAL": "Origineel bewerken",

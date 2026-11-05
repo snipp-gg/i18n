@@ -302,6 +302,7 @@
   "USER_ID_MENU_COPY_BUTTON": "คัดลอก User ID",
   "MODAL_EDIT_POST_TOAST_UPDATED": "อัปเดตโพสต์สำเร็จ!",
   "MODAL_EDIT_POST_TOAST_UPDATE_FAILED": "ไม่สามารถอัปเดตโพสต์ได้ กรุณาลองอีกครั้ง",
+  "COMMON_EDIT": "แก้ไข",
   "COMMON_EDIT_POST": "แก้ไขโพสต์",
   "COMMON_EDIT_A_COPY": "แก้ไขสำเนา",
   "COMMON_EDIT_THE_ORIGINAL": "แก้ไขต้นฉบับ",

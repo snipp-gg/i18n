@@ -302,6 +302,7 @@
   "USER_ID_MENU_COPY_BUTTON": "Salin ID Pengguna",
   "MODAL_EDIT_POST_TOAST_UPDATED": "Postingan berhasil diperbarui!",
   "MODAL_EDIT_POST_TOAST_UPDATE_FAILED": "Gagal memperbarui postingan. Silakan coba lagi.",
+  "COMMON_EDIT": "Edit",
   "COMMON_EDIT_POST": "Edit Postingan",
   "COMMON_EDIT_A_COPY": "Edit salinan",
   "COMMON_EDIT_THE_ORIGINAL": "Edit file asli",

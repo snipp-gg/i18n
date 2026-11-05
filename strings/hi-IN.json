@@ -302,6 +302,7 @@
   "USER_ID_MENU_COPY_BUTTON": "User ID कॉपी करें",
   "MODAL_EDIT_POST_TOAST_UPDATED": "पोस्ट सफलतापूर्वक अपडेट हो गई!",
   "MODAL_EDIT_POST_TOAST_UPDATE_FAILED": "पोस्ट अपडेट करने में विफल। कृपया दोबारा कोशिश करें।",
+  "COMMON_EDIT": "एडिट करें",
   "COMMON_EDIT_POST": "पोस्ट एडिट करें",
   "COMMON_EDIT_A_COPY": "एक कॉपी एडिट करें",
   "COMMON_EDIT_THE_ORIGINAL": "ओरिजिनल एडिट करें",

@@ -302,6 +302,7 @@
   "USER_ID_MENU_COPY_BUTTON": "Kopiraj ID korisnika",
   "MODAL_EDIT_POST_TOAST_UPDATED": "Objava uspešno ažurirana!",
   "MODAL_EDIT_POST_TOAST_UPDATE_FAILED": "Neuspešno ažuriranje objave. Pokušajte ponovo.",
+  "COMMON_EDIT": "Izmeni",
   "COMMON_EDIT_POST": "Izmeni objavu",
   "COMMON_EDIT_A_COPY": "Izmeni kopiju",
   "COMMON_EDIT_THE_ORIGINAL": "Izmeni original",

@@ -302,6 +302,7 @@
   "USER_ID_MENU_COPY_BUTTON": "Copier l'ID utilisateur",
   "MODAL_EDIT_POST_TOAST_UPDATED": "Post mis à jour avec succès !",
   "MODAL_EDIT_POST_TOAST_UPDATE_FAILED": "Échec de la mise à jour du post. Veuillez réessayer.",
+  "COMMON_EDIT": "Modifier",
   "COMMON_EDIT_POST": "Modifier le post",
   "COMMON_EDIT_A_COPY": "Modifier une copie",
   "COMMON_EDIT_THE_ORIGINAL": "Modifier l'original",

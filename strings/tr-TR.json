@@ -302,6 +302,7 @@
   "USER_ID_MENU_COPY_BUTTON": "Kullanıcı Kimliğini Kopyala",
   "MODAL_EDIT_POST_TOAST_UPDATED": "Gönderi başarıyla güncellendi!",
   "MODAL_EDIT_POST_TOAST_UPDATE_FAILED": "Gönderi güncellenemedi. Lütfen tekrar deneyin.",
+  "COMMON_EDIT": "Düzenle",
   "COMMON_EDIT_POST": "Gönderiyi Düzenle",
   "COMMON_EDIT_A_COPY": "Bir kopyasını düzenle",
   "COMMON_EDIT_THE_ORIGINAL": "Orijinalini düzenle",

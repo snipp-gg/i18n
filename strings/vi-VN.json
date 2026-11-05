@@ -302,6 +302,7 @@
   "USER_ID_MENU_COPY_BUTTON": "Sao chép ID người dùng",
   "MODAL_EDIT_POST_TOAST_UPDATED": "Đã cập nhật bài đăng thành công!",
   "MODAL_EDIT_POST_TOAST_UPDATE_FAILED": "Không thể cập nhật bài đăng. Vui lòng thử lại.",
+  "COMMON_EDIT": "Chỉnh sửa",
   "COMMON_EDIT_POST": "Chỉnh sửa bài đăng",
   "COMMON_EDIT_A_COPY": "Chỉnh sửa bản sao",
   "COMMON_EDIT_THE_ORIGINAL": "Chỉnh sửa bản gốc",

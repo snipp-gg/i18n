@@ -302,6 +302,7 @@
   "USER_ID_MENU_COPY_BUTTON": "Kopiera användar-ID",
   "MODAL_EDIT_POST_TOAST_UPDATED": "Inlägget uppdaterades!",
   "MODAL_EDIT_POST_TOAST_UPDATE_FAILED": "Kunde inte uppdatera inlägget. Försök igen.",
+  "COMMON_EDIT": "Redigera",
   "COMMON_EDIT_POST": "Redigera inlägg",
   "COMMON_EDIT_A_COPY": "Redigera en kopia",
   "COMMON_EDIT_THE_ORIGINAL": "Redigera originalet",

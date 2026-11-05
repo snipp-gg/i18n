@@ -302,6 +302,7 @@
   "USER_ID_MENU_COPY_BUTTON": "Kopírovať ID používateľa",
   "MODAL_EDIT_POST_TOAST_UPDATED": "Príspevok úspešne aktualizovaný!",
   "MODAL_EDIT_POST_TOAST_UPDATE_FAILED": "Nepodarilo sa aktualizovať príspevok. Skús to znova.",
+  "COMMON_EDIT": "Upraviť",
   "COMMON_EDIT_POST": "Upraviť príspevok",
   "COMMON_EDIT_A_COPY": "Upraviť kópiu",
   "COMMON_EDIT_THE_ORIGINAL": "Upraviť originál",

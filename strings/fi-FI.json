@@ -302,6 +302,7 @@
   "USER_ID_MENU_COPY_BUTTON": "Kopioi käyttäjätunnus",
   "MODAL_EDIT_POST_TOAST_UPDATED": "Julkaisu päivitetty onnistuneesti!",
   "MODAL_EDIT_POST_TOAST_UPDATE_FAILED": "Julkaisun päivitys epäonnistui. Yritä uudelleen.",
+  "COMMON_EDIT": "Muokkaa",
   "COMMON_EDIT_POST": "Muokkaa julkaisua",
   "COMMON_EDIT_A_COPY": "Muokkaa kopiota",
   "COMMON_EDIT_THE_ORIGINAL": "Muokkaa alkuperäistä",

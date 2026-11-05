@@ -302,6 +302,7 @@
   "USER_ID_MENU_COPY_BUTTON": "Αντιγραφή Αναγνωριστικού Χρήστη",
   "MODAL_EDIT_POST_TOAST_UPDATED": "Η ανάρτηση ενημερώθηκε επιτυχώς!",
   "MODAL_EDIT_POST_TOAST_UPDATE_FAILED": "Αποτυχία ενημέρωσης ανάρτησης. Παρακαλούμε δοκιμάστε ξανά.",
+  "COMMON_EDIT": "Επεξεργασία",
   "COMMON_EDIT_POST": "Επεξεργασία Ανάρτησης",
   "COMMON_EDIT_A_COPY": "Επεξεργασία αντιγράφου",
   "COMMON_EDIT_THE_ORIGINAL": "Επεξεργασία πρωτοτύπου",

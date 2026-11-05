@@ -302,6 +302,7 @@
   "USER_ID_MENU_COPY_BUTTON": "Benutzer-ID Kopieren",
   "MODAL_EDIT_POST_TOAST_UPDATED": "Beitrag erfolgreich aktualisiert!",
   "MODAL_EDIT_POST_TOAST_UPDATE_FAILED": "Beitrag konnte nicht aktualisiert werden. Bitte versuche es erneut.",
+  "COMMON_EDIT": "Bearbeiten",
   "COMMON_EDIT_POST": "Beitrag Bearbeiten",
   "COMMON_EDIT_A_COPY": "Kopie bearbeiten",
   "COMMON_EDIT_THE_ORIGINAL": "Original bearbeiten",
