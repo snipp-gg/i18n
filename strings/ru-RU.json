@@ -302,6 +302,7 @@
   "USER_ID_MENU_COPY_BUTTON": "Копировать ID пользователя",
   "MODAL_EDIT_POST_TOAST_UPDATED": "Пост успешно обновлён!",
   "MODAL_EDIT_POST_TOAST_UPDATE_FAILED": "Failed to update post. Please try again.",
+  "COMMON_EDIT": "Редактировать",
   "COMMON_EDIT_POST": "Редактировать пост",
   "COMMON_EDIT_A_COPY": "Edit a copy",
   "COMMON_EDIT_THE_ORIGINAL": "Edit the original",
