@@ -302,6 +302,7 @@
   "USER_ID_MENU_COPY_BUTTON": "ユーザーIDをコピー",
   "MODAL_EDIT_POST_TOAST_UPDATED": "投稿を更新しました！",
   "MODAL_EDIT_POST_TOAST_UPDATE_FAILED": "Failed to update post. Please try again.",
+  "COMMON_EDIT": "編集",
   "COMMON_EDIT_POST": "投稿を編集",
   "COMMON_EDIT_A_COPY": "Edit a copy",
   "COMMON_EDIT_THE_ORIGINAL": "Edit the original",
