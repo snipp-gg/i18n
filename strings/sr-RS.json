@@ -1434,7 +1434,6 @@
   "POST_TOAST_ADDING_FILES": "Dodavanje fajlova...",
   "POST_ADD_FILES_DROPZONE": "Prevucite fajlove ovde ili kliknite da dodate",
   "POST_ADD_FILES_TAP": "Dodirnite da dodate fajlove",
-  "POST_TOOLTIP_REMOVE_FILE": "Ukloni ovaj fajl iz albuma",
   "POST_TOOLTIP_PREVIOUS_FILE": "Prethodni fajl",
   "POST_TOOLTIP_NEXT_FILE": "Sledeći fajl",
   "POST_BUTTON_ADD_FILES": "Dodaj fajlove",

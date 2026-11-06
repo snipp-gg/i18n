@@ -1434,7 +1434,6 @@
   "POST_TOAST_ADDING_FILES": "Lägger till filer...",
   "POST_ADD_FILES_DROPZONE": "Släpp filer här eller klicka för att lägga till",
   "POST_ADD_FILES_TAP": "Tryck för att lägga till filer",
-  "POST_TOOLTIP_REMOVE_FILE": "Ta bort den här filen från albumet",
   "POST_TOOLTIP_PREVIOUS_FILE": "Föregående fil",
   "POST_TOOLTIP_NEXT_FILE": "Nästa fil",
   "POST_BUTTON_ADD_FILES": "Lägg till filer",

@@ -1434,7 +1434,6 @@
   "POST_TOAST_ADDING_FILES": "Adding files...",
   "POST_ADD_FILES_DROPZONE": "Drop files here or click to add",
   "POST_ADD_FILES_TAP": "Tap to add files",
-  "POST_TOOLTIP_REMOVE_FILE": "Remove this file from album",
   "POST_TOOLTIP_PREVIOUS_FILE": "Previous File",
   "POST_TOOLTIP_NEXT_FILE": "Next File",
   "POST_BUTTON_ADD_FILES": "Add files",

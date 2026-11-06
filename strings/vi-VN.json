@@ -1434,7 +1434,6 @@
   "POST_TOAST_ADDING_FILES": "Đang thêm tệp...",
   "POST_ADD_FILES_DROPZONE": "Thả tệp vào đây hoặc nhấp để thêm",
   "POST_ADD_FILES_TAP": "Nhấn để thêm tệp",
-  "POST_TOOLTIP_REMOVE_FILE": "Gỡ tệp này khỏi album",
   "POST_TOOLTIP_PREVIOUS_FILE": "Tệp trước",
   "POST_TOOLTIP_NEXT_FILE": "Tệp tiếp theo",
   "POST_BUTTON_ADD_FILES": "Thêm tệp",

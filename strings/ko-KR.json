@@ -1434,7 +1434,6 @@
   "POST_TOAST_ADDING_FILES": "파일 추가 중...",
   "POST_ADD_FILES_DROPZONE": "여기에 파일을 놓거나 클릭해 추가하세요",
   "POST_ADD_FILES_TAP": "탭해 파일을 추가하세요",
-  "POST_TOOLTIP_REMOVE_FILE": "이 파일을 앨범에서 제거",
   "POST_TOOLTIP_PREVIOUS_FILE": "이전 파일",
   "POST_TOOLTIP_NEXT_FILE": "다음 파일",
   "POST_BUTTON_ADD_FILES": "파일 추가",

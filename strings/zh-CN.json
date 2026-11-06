@@ -1434,7 +1434,6 @@
   "POST_TOAST_ADDING_FILES": "正在添加文件...",
   "POST_ADD_FILES_DROPZONE": "将文件拖放到此处或点击添加",
   "POST_ADD_FILES_TAP": "点按以添加文件",
-  "POST_TOOLTIP_REMOVE_FILE": "从相册中移除此文件",
   "POST_TOOLTIP_PREVIOUS_FILE": "上一个文件",
   "POST_TOOLTIP_NEXT_FILE": "下一个文件",
   "POST_BUTTON_ADD_FILES": "添加文件",

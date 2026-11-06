@@ -1434,7 +1434,6 @@
   "POST_TOAST_ADDING_FILES": "Dosyalar ekleniyor...",
   "POST_ADD_FILES_DROPZONE": "Dosyaları buraya bırakın veya eklemek için tıklayın",
   "POST_ADD_FILES_TAP": "Dosya eklemek için dokunun",
-  "POST_TOOLTIP_REMOVE_FILE": "Bu dosyayı albümden kaldır",
   "POST_TOOLTIP_PREVIOUS_FILE": "Önceki Dosya",
   "POST_TOOLTIP_NEXT_FILE": "Sonraki Dosya",
   "POST_BUTTON_ADD_FILES": "Dosya ekle",

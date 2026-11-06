@@ -1434,7 +1434,6 @@
   "POST_TOAST_ADDING_FILES": "Lisätään tiedostoja...",
   "POST_ADD_FILES_DROPZONE": "Pudota tiedostot tähän tai napsauta lisätäksesi",
   "POST_ADD_FILES_TAP": "Napauta lisätäksesi tiedostoja",
-  "POST_TOOLTIP_REMOVE_FILE": "Poista tämä tiedosto albumista",
   "POST_TOOLTIP_PREVIOUS_FILE": "Edellinen tiedosto",
   "POST_TOOLTIP_NEXT_FILE": "Seuraava tiedosto",
   "POST_BUTTON_ADD_FILES": "Lisää tiedostoja",
