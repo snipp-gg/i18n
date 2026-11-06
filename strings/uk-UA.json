@@ -1434,7 +1434,6 @@
   "POST_TOAST_ADDING_FILES": "Додавання файлів...",
   "POST_ADD_FILES_DROPZONE": "Перетягніть файли сюди або натисніть, щоб додати",
   "POST_ADD_FILES_TAP": "Tap to add files",
-  "POST_TOOLTIP_REMOVE_FILE": "Прибрати цей файл з альбому",
   "POST_TOOLTIP_PREVIOUS_FILE": "Попередній файл",
   "POST_TOOLTIP_NEXT_FILE": "Наступний файл",
   "POST_BUTTON_ADD_FILES": "Add files",
