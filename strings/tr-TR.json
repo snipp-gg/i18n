@@ -36,7 +36,7 @@
   "SETTINGS_PREFS_INCLUDE_METADATA_LABEL": "Include Metadata",
   "SETTINGS_PREFS_INCLUDE_METADATA_HINT": "Keeps metadata such as camera, location and timestamp in your uploads. Disabled by default to protect your privacy.",
   "SETTINGS_PREFS_AUTO_BLUR_LABEL": "Blur Personal Info",
-  "SETTINGS_PREFS_AUTO_BLUR_HINT": "Blurs emails, phone numbers, addresses and other personal details in pictures as you upload them, from the website, the apps or the API. Each picture uses a little of your daily Snippy usage.",
+  "SETTINGS_PREFS_AUTO_BLUR_HINT": "Blurs personal details like emails, phone numbers and addresses in your pictures as you upload them. Every picture uses a little of your daily Snippy usage.",
   "SETTINGS_PREFS_AUTO_BLUR_PLUS_ONLY_HINT": "Blur Personal Info is a Plus feature. Subscribe to unlock it.",
   "SETTINGS_PREFS_ADAPTIVE_STREAMING_LABEL": "Adaptive Streaming",
   "SETTINGS_PREFS_ADAPTIVE_STREAMING_HINT": "Streams your videos in adaptive quality, using your priority minutes. Enabled by default. Turn it off to upload videos in standard quality and save your minutes.",
