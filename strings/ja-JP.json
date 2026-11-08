@@ -36,7 +36,7 @@
   "SETTINGS_PREFS_INCLUDE_METADATA_LABEL": "メタデータを保持",
   "SETTINGS_PREFS_INCLUDE_METADATA_HINT": "アップロードしたファイルに、カメラ・位置情報・タイムスタンプなどのメタデータを保持します。プライバシー保護のため、デフォルトでは無効になっています。",
   "SETTINGS_PREFS_AUTO_BLUR_LABEL": "個人情報をぼかす",
-  "SETTINGS_PREFS_AUTO_BLUR_HINT": "ウェブサイト、アプリ、APIから画像をアップロードする際に、画像内のメールアドレス、電話番号、住所などの個人情報をぼかします。画像1枚ごとに、1日のSnippy使用量を少し消費します。",
+  "SETTINGS_PREFS_AUTO_BLUR_HINT": "アップロード時に、画像内のメールアドレス、電話番号、住所などの個人情報をぼかします。画像1枚ごとに、1日のSnippy使用量を少し消費します。",
   "SETTINGS_PREFS_AUTO_BLUR_PLUS_ONLY_HINT": "「個人情報をぼかす」はPlus機能です。登録して解放しましょう。",
   "SETTINGS_PREFS_ADAPTIVE_STREAMING_LABEL": "アダプティブストリーミング",
   "SETTINGS_PREFS_ADAPTIVE_STREAMING_HINT": "優先時間を使って、動画をアダプティブ画質でストリーミングします。デフォルトで有効です。オフにすると、動画は標準画質でアップロードされ、優先時間を節約できます。",

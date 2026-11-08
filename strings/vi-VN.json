@@ -36,7 +36,7 @@
   "SETTINGS_PREFS_INCLUDE_METADATA_LABEL": "Bao gồm siêu dữ liệu",
   "SETTINGS_PREFS_INCLUDE_METADATA_HINT": "Giữ lại siêu dữ liệu như máy ảnh, vị trí và dấu thời gian trong các tệp tải lên. Tắt theo mặc định để bảo vệ quyền riêng tư của bạn.",
   "SETTINGS_PREFS_AUTO_BLUR_LABEL": "Làm mờ thông tin cá nhân",
-  "SETTINGS_PREFS_AUTO_BLUR_HINT": "Làm mờ email, số điện thoại, địa chỉ và các thông tin cá nhân khác trong hình ảnh khi bạn tải chúng lên từ trang web, ứng dụng hoặc API. Mỗi hình ảnh tốn một ít mức sử dụng Snippy hàng ngày của bạn.",
+  "SETTINGS_PREFS_AUTO_BLUR_HINT": "Làm mờ email, số điện thoại, địa chỉ và thông tin cá nhân khác trong hình ảnh bạn tải lên. Mỗi hình ảnh tốn một ít mức sử dụng Snippy hàng ngày.",
   "SETTINGS_PREFS_AUTO_BLUR_PLUS_ONLY_HINT": "Làm mờ thông tin cá nhân là một tính năng Plus. Hãy đăng ký để mở khóa.",
   "SETTINGS_PREFS_ADAPTIVE_STREAMING_LABEL": "Phát trực tuyến thích ứng",
   "SETTINGS_PREFS_ADAPTIVE_STREAMING_HINT": "Phát video của bạn ở chất lượng thích ứng, sử dụng phút ưu tiên của bạn. Bật theo mặc định. Tắt nó đi để tải video lên ở chất lượng tiêu chuẩn và tiết kiệm phút của bạn.",

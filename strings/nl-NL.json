@@ -36,7 +36,7 @@
   "SETTINGS_PREFS_INCLUDE_METADATA_LABEL": "Metadata meenemen",
   "SETTINGS_PREFS_INCLUDE_METADATA_HINT": "Bewaart metadata zoals camera, locatie en tijdstempel in je uploads. Standaard uitgeschakeld om je privacy te beschermen.",
   "SETTINGS_PREFS_AUTO_BLUR_LABEL": "Persoonlijke gegevens vervagen",
-  "SETTINGS_PREFS_AUTO_BLUR_HINT": "Vervaagt e-mailadressen, telefoonnummers, adressen en andere persoonlijke gegevens in afbeeldingen terwijl je ze uploadt via de website, de apps of de API. Elke afbeelding gebruikt een beetje van je dagelijkse Snippy-verbruik.",
+  "SETTINGS_PREFS_AUTO_BLUR_HINT": "Vervaagt persoonlijke gegevens zoals e-mailadressen, telefoonnummers en adressen in je afbeeldingen terwijl je ze uploadt, en gebruikt daarvoor een beetje van je dagelijkse Snippy-verbruik per afbeelding.",
   "SETTINGS_PREFS_AUTO_BLUR_PLUS_ONLY_HINT": "Persoonlijke gegevens vervagen is een Plus-functie. Abonneer je om het te ontgrendelen.",
   "SETTINGS_PREFS_ADAPTIVE_STREAMING_LABEL": "Adaptieve streaming",
   "SETTINGS_PREFS_ADAPTIVE_STREAMING_HINT": "Streamt je video's in adaptieve kwaliteit met je prioriteitsminuten. Standaard ingeschakeld. Schakel het uit om video's in standaardkwaliteit te uploaden en je minuten te besparen.",

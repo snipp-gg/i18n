@@ -36,7 +36,7 @@
   "SETTINGS_PREFS_INCLUDE_METADATA_LABEL": "保留元数据",
   "SETTINGS_PREFS_INCLUDE_METADATA_HINT": "在上传的文件中保留相机、位置和时间戳等元数据。默认禁用以保护您的隐私。",
   "SETTINGS_PREFS_AUTO_BLUR_LABEL": "模糊个人信息",
-  "SETTINGS_PREFS_AUTO_BLUR_HINT": "在您通过网站、应用或 API 上传图片时，模糊图片中的电子邮件、电话号码、地址和其他个人信息。每张图片会消耗少量每日 Snippy 使用量。",
+  "SETTINGS_PREFS_AUTO_BLUR_HINT": "在您上传图片时，模糊其中的电子邮件、电话号码和地址等个人信息。每处理一张图片，会消耗少量每日 Snippy 使用量。",
   "SETTINGS_PREFS_AUTO_BLUR_PLUS_ONLY_HINT": "模糊个人信息是 Plus 功能。订阅即可解锁。",
   "SETTINGS_PREFS_ADAPTIVE_STREAMING_LABEL": "自适应串流",
   "SETTINGS_PREFS_ADAPTIVE_STREAMING_HINT": "使用您的优先分钟以自适应画质串流您的视频。默认启用。关闭它可以标准画质上传视频并节省您的分钟。",

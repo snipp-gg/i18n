@@ -36,7 +36,7 @@
   "SETTINGS_PREFS_INCLUDE_METADATA_LABEL": "Sisällytä metatiedot",
   "SETTINGS_PREFS_INCLUDE_METADATA_HINT": "Säilyttää latauksissasi metatiedot, kuten kameran, sijainnin ja aikaleiman. Pois käytöstä oletuksena yksityisyytesi suojaamiseksi.",
   "SETTINGS_PREFS_AUTO_BLUR_LABEL": "Sumenna henkilötiedot",
-  "SETTINGS_PREFS_AUTO_BLUR_HINT": "Sumentaa sähköpostiosoitteet, puhelinnumerot, osoitteet ja muut henkilötiedot kuvissa, kun lataat niitä sivuston, sovellusten tai API:n kautta. Jokainen kuva kuluttaa hieman päivittäisestä Snippy-käytöstäsi.",
+  "SETTINGS_PREFS_AUTO_BLUR_HINT": "Kun lataat kuvia, niissä näkyvät henkilötiedot, kuten sähköpostiosoitteet, puhelinnumerot ja osoitteet, sumennetaan. Jokainen kuva kuluttaa hieman päivittäisestä Snippy-käytöstäsi.",
   "SETTINGS_PREFS_AUTO_BLUR_PLUS_ONLY_HINT": "Sumenna henkilötiedot on Plus-ominaisuus. Tilaa avataksesi sen.",
   "SETTINGS_PREFS_ADAPTIVE_STREAMING_LABEL": "Mukautuva suoratoisto",
   "SETTINGS_PREFS_ADAPTIVE_STREAMING_HINT": "Suoratoistaa videosi mukautuvalla laadulla käyttäen prioriteettiminuuttejasi. Käytössä oletuksena. Poista se käytöstä, jotta voit ladata videoita vakiolaadulla ja säästää minuuttejasi.",

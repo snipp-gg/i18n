@@ -36,7 +36,7 @@
   "SETTINGS_PREFS_INCLUDE_METADATA_LABEL": "Uključi metapodatke",
   "SETTINGS_PREFS_INCLUDE_METADATA_HINT": "Zadržava metapodatke kao što su kamera, lokacija i vremenska oznaka u vašim otpremanjima. Podrazumevano isključeno radi zaštite vaše privatnosti.",
   "SETTINGS_PREFS_AUTO_BLUR_LABEL": "Zamuti lične podatke",
-  "SETTINGS_PREFS_AUTO_BLUR_HINT": "Zamućuje imejl adrese, brojeve telefona, adrese i druge lične podatke na slikama dok ih otpremate putem sajta, aplikacija ili API-ja. Svaka slika troši mali deo vaše dnevne iskorišćenosti Snippy-ja.",
+  "SETTINGS_PREFS_AUTO_BLUR_HINT": "Dok otpremate slike, zamućuje na njima lične podatke poput imejl adresa, brojeva telefona i adresa. Svaka slika troši mali deo vaše dnevne iskorišćenosti Snippy-ja.",
   "SETTINGS_PREFS_AUTO_BLUR_PLUS_ONLY_HINT": "Zamućivanje ličnih podataka je Plus funkcija. Pretplatite se da je otključate.",
   "SETTINGS_PREFS_ADAPTIVE_STREAMING_LABEL": "Adaptivno strimovanje",
   "SETTINGS_PREFS_ADAPTIVE_STREAMING_HINT": "Strimuje vaše video snimke u adaptivnom kvalitetu, koristeći vaše prioritetne minute. Podrazumevano uključeno. Isključite ga da biste otpremali video snimke u standardnom kvalitetu i sačuvali svoje minute.",

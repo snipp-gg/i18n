@@ -36,7 +36,7 @@
   "SETTINGS_PREFS_INCLUDE_METADATA_LABEL": "Metadaten beibehalten",
   "SETTINGS_PREFS_INCLUDE_METADATA_HINT": "Behält Metadaten wie Kamera, Standort und Zeitstempel in deinen Uploads. Standardmäßig deaktiviert, um deine Privatsphäre zu schützen.",
   "SETTINGS_PREFS_AUTO_BLUR_LABEL": "Persönliche Daten unkenntlich machen",
-  "SETTINGS_PREFS_AUTO_BLUR_HINT": "Macht E-Mail-Adressen, Telefonnummern, Anschriften und andere persönliche Daten in Bildern unkenntlich, während du sie über die Website, die Apps oder die API hochlädst. Jedes Bild verbraucht ein wenig deiner täglichen Snippy-Nutzung.",
+  "SETTINGS_PREFS_AUTO_BLUR_HINT": "Macht beim Hochladen persönliche Daten wie E-Mail-Adressen, Telefonnummern und Anschriften in deinen Bildern unkenntlich. Pro Bild wird ein wenig deiner täglichen Snippy-Nutzung verbraucht.",
   "SETTINGS_PREFS_AUTO_BLUR_PLUS_ONLY_HINT": "Persönliche Daten unkenntlich machen ist eine Plus-Funktion. Abonniere, um sie freizuschalten.",
   "SETTINGS_PREFS_ADAPTIVE_STREAMING_LABEL": "Adaptives Streaming",
   "SETTINGS_PREFS_ADAPTIVE_STREAMING_HINT": "Streamt deine Videos in adaptiver Qualität und nutzt dafür deine Prioritätsminuten. Standardmäßig aktiviert. Deaktiviere es, um Videos in Standardqualität hochzuladen und deine Minuten zu sparen.",

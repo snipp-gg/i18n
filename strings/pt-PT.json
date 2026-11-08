@@ -36,7 +36,7 @@
   "SETTINGS_PREFS_INCLUDE_METADATA_LABEL": "Manter Metadados",
   "SETTINGS_PREFS_INCLUDE_METADATA_HINT": "Mantém os metadados, como câmara, localização e data e hora, nos seus carregamentos. Desativado por predefinição para proteger a sua privacidade.",
   "SETTINGS_PREFS_AUTO_BLUR_LABEL": "Desfocar Dados Pessoais",
-  "SETTINGS_PREFS_AUTO_BLUR_HINT": "Desfoca e-mails, números de telefone, moradas e outros dados pessoais nas imagens enquanto as carrega através do site, das apps ou da API. Cada imagem gasta um pouco da sua utilização diária do Snippy.",
+  "SETTINGS_PREFS_AUTO_BLUR_HINT": "Desfoca dados pessoais como e-mails, telefones e moradas nas imagens que carrega. Cada imagem gasta um pouco da sua utilização diária do Snippy.",
   "SETTINGS_PREFS_AUTO_BLUR_PLUS_ONLY_HINT": "Desfocar Dados Pessoais é uma funcionalidade Plus. Subscreva para a desbloquear.",
   "SETTINGS_PREFS_ADAPTIVE_STREAMING_LABEL": "Streaming adaptativo",
   "SETTINGS_PREFS_ADAPTIVE_STREAMING_HINT": "Transmite os seus vídeos em qualidade adaptativa, usando os seus minutos prioritários. Ativado por predefinição. Desative-o para carregar vídeos em qualidade padrão e poupar os seus minutos.",

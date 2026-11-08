@@ -36,7 +36,7 @@
   "SETTINGS_PREFS_INCLUDE_METADATA_LABEL": "Inkluder metadata",
   "SETTINGS_PREFS_INCLUDE_METADATA_HINT": "Beholder metadata som kamera, posisjon og tidsstempel i opplastingene dine. Deaktivert som standard for å beskytte personvernet ditt.",
   "SETTINGS_PREFS_AUTO_BLUR_LABEL": "Slør personopplysninger",
-  "SETTINGS_PREFS_AUTO_BLUR_HINT": "Slører e-postadresser, telefonnumre, adresser og andre personopplysninger i bilder mens du laster dem opp fra nettstedet, appene eller API-et. Hvert bilde bruker litt av ditt daglige Snippy-forbruk.",
+  "SETTINGS_PREFS_AUTO_BLUR_HINT": "Slører e-postadresser, telefonnumre, adresser og andre personopplysninger i bildene du laster opp. Hvert bilde bruker litt av ditt daglige Snippy-forbruk.",
   "SETTINGS_PREFS_AUTO_BLUR_PLUS_ONLY_HINT": "Slør personopplysninger er en Plus-funksjon. Abonner for å låse den opp.",
   "SETTINGS_PREFS_ADAPTIVE_STREAMING_LABEL": "Adaptiv strømming",
   "SETTINGS_PREFS_ADAPTIVE_STREAMING_HINT": "Strømmer videoene dine i adaptiv kvalitet ved hjelp av prioritetsminuttene dine. Aktivert som standard. Slå det av for å laste opp videoer i standardkvalitet og spare minuttene dine.",

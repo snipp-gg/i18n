@@ -36,7 +36,7 @@
   "SETTINGS_PREFS_INCLUDE_METADATA_LABEL": "Includi metadati",
   "SETTINGS_PREFS_INCLUDE_METADATA_HINT": "Mantiene metadati come fotocamera, posizione e data nei tuoi caricamenti. Disattivato per impostazione predefinita per proteggere la tua privacy.",
   "SETTINGS_PREFS_AUTO_BLUR_LABEL": "Sfoca dati personali",
-  "SETTINGS_PREFS_AUTO_BLUR_HINT": "Sfoca email, numeri di telefono, indirizzi e altri dati personali nelle immagini mentre le carichi dal sito, dalle app o tramite l'API. Ogni immagine consuma un po' del tuo utilizzo giornaliero di Snippy.",
+  "SETTINGS_PREFS_AUTO_BLUR_HINT": "Sfoca email, numeri di telefono, indirizzi e altri dati personali nelle immagini che carichi. Ogni immagine consuma un po' del tuo utilizzo giornaliero di Snippy.",
   "SETTINGS_PREFS_AUTO_BLUR_PLUS_ONLY_HINT": "Sfoca dati personali è una funzionalità Plus. Abbonati per sbloccarla.",
   "SETTINGS_PREFS_ADAPTIVE_STREAMING_LABEL": "Streaming adattivo",
   "SETTINGS_PREFS_ADAPTIVE_STREAMING_HINT": "Trasmette i tuoi video in qualità adattiva usando i tuoi minuti prioritari. Attivo per impostazione predefinita. Disattivalo per caricare i video in qualità standard e risparmiare i tuoi minuti.",

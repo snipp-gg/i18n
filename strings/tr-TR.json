@@ -36,7 +36,7 @@
   "SETTINGS_PREFS_INCLUDE_METADATA_LABEL": "Meta Verileri Koru",
   "SETTINGS_PREFS_INCLUDE_METADATA_HINT": "Yüklediğin dosyalarda kamera, konum ve zaman damgası gibi meta verileri korur. Gizliliğini korumak için varsayılan olarak devre dışıdır.",
   "SETTINGS_PREFS_AUTO_BLUR_LABEL": "Kişisel Bilgileri Bulanıklaştır",
-  "SETTINGS_PREFS_AUTO_BLUR_HINT": "Görselleri web sitesinden, uygulamalardan veya API üzerinden yüklerken içlerindeki e-posta adreslerini, telefon numaralarını, adresleri ve diğer kişisel bilgileri bulanıklaştırır. Her görsel, günlük Snippy kullanımınızdan biraz harcar.",
+  "SETTINGS_PREFS_AUTO_BLUR_HINT": "Yüklediğiniz görsellerdeki e-posta, telefon numarası ve adres gibi kişisel bilgileri bulanıklaştırır. Her görsel günlük Snippy kullanımınızın küçük bir bölümünü harcar.",
   "SETTINGS_PREFS_AUTO_BLUR_PLUS_ONLY_HINT": "Kişisel Bilgileri Bulanıklaştır bir Plus özelliğidir. Kilidini açmak için abone olun.",
   "SETTINGS_PREFS_ADAPTIVE_STREAMING_LABEL": "Uyarlanabilir Yayın",
   "SETTINGS_PREFS_ADAPTIVE_STREAMING_HINT": "Videolarını öncelikli dakikalarını kullanarak uyarlanabilir kalitede yayınlar. Varsayılan olarak etkindir. Videoları standart kalitede yüklemek ve dakikalarından tasarruf etmek için kapat.",

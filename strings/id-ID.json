@@ -36,7 +36,7 @@
   "SETTINGS_PREFS_INCLUDE_METADATA_LABEL": "Sertakan Metadata",
   "SETTINGS_PREFS_INCLUDE_METADATA_HINT": "Menyimpan metadata seperti kamera, lokasi, dan stempel waktu dalam unggahan Anda. Dinonaktifkan secara default untuk melindungi privasi Anda.",
   "SETTINGS_PREFS_AUTO_BLUR_LABEL": "Buramkan Informasi Pribadi",
-  "SETTINGS_PREFS_AUTO_BLUR_HINT": "Memburamkan email, nomor telepon, alamat, dan detail pribadi lainnya di gambar saat Anda mengunggahnya dari situs web, aplikasi, atau API. Setiap gambar memakai sedikit dari penggunaan harian Snippy Anda.",
+  "SETTINGS_PREFS_AUTO_BLUR_HINT": "Memburamkan informasi pribadi seperti email, nomor telepon, dan alamat di gambar Anda saat Anda mengunggahnya. Setiap gambar yang diproses memakai sedikit penggunaan harian Snippy Anda.",
   "SETTINGS_PREFS_AUTO_BLUR_PLUS_ONLY_HINT": "Buramkan Informasi Pribadi adalah fitur Plus. Berlangganan untuk membukanya.",
   "SETTINGS_PREFS_ADAPTIVE_STREAMING_LABEL": "Streaming Adaptif",
   "SETTINGS_PREFS_ADAPTIVE_STREAMING_HINT": "Melakukan streaming video Anda dalam kualitas adaptif menggunakan menit prioritas Anda. Diaktifkan secara default. Nonaktifkan untuk mengunggah video dalam kualitas standar dan menghemat menit Anda.",

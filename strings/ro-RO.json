@@ -36,7 +36,7 @@
   "SETTINGS_PREFS_INCLUDE_METADATA_LABEL": "Include metadatele",
   "SETTINGS_PREFS_INCLUDE_METADATA_HINT": "Păstrează metadatele precum camera, locația și marcajul temporal în încărcările tale. Dezactivat implicit pentru a-ți proteja confidențialitatea.",
   "SETTINGS_PREFS_AUTO_BLUR_LABEL": "Estompează datele personale",
-  "SETTINGS_PREFS_AUTO_BLUR_HINT": "Estompează adresele de e-mail, numerele de telefon, adresele și alte date personale din imagini în timp ce le încarci de pe site, din aplicații sau prin API. Fiecare imagine consumă puțin din utilizarea ta zilnică de Snippy.",
+  "SETTINGS_PREFS_AUTO_BLUR_HINT": "În timp ce îți încarci imaginile, estompează datele personale din ele, precum adresele de e-mail, numerele de telefon și adresele. Fiecare imagine consumă puțin din utilizarea ta zilnică de Snippy.",
   "SETTINGS_PREFS_AUTO_BLUR_PLUS_ONLY_HINT": "Estompează datele personale este o funcție Plus. Abonează-te pentru a o debloca.",
   "SETTINGS_PREFS_ADAPTIVE_STREAMING_LABEL": "Streaming adaptiv",
   "SETTINGS_PREFS_ADAPTIVE_STREAMING_HINT": "Îți redă videoclipurile în calitate adaptivă, folosind minutele tale prioritare. Activat implicit. Dezactivează-l pentru a încărca videoclipuri în calitate standard și a-ți economisi minutele.",

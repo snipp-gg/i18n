@@ -36,7 +36,7 @@
   "SETTINGS_PREFS_INCLUDE_METADATA_LABEL": "Behåll metadata",
   "SETTINGS_PREFS_INCLUDE_METADATA_HINT": "Behåller metadata som kamera, plats och tidsstämpel i dina uppladdade filer. Inaktiverat som standard för att skydda din integritet.",
   "SETTINGS_PREFS_AUTO_BLUR_LABEL": "Sudda ut personuppgifter",
-  "SETTINGS_PREFS_AUTO_BLUR_HINT": "Suddar ut e-postadresser, telefonnummer, adresser och andra personuppgifter i bilder medan du laddar upp dem från webbplatsen, apparna eller API:et. Varje bild använder lite av din dagliga Snippy-användning.",
+  "SETTINGS_PREFS_AUTO_BLUR_HINT": "Suddar ut e-postadresser, telefonnummer, adresser och andra personuppgifter i dina bilder medan du laddar upp dem. Din dagliga användning av Snippy ökar en aning för varje bild som bearbetas.",
   "SETTINGS_PREFS_AUTO_BLUR_PLUS_ONLY_HINT": "Sudda ut personuppgifter är en Plus-funktion. Prenumerera för att låsa upp den.",
   "SETTINGS_PREFS_ADAPTIVE_STREAMING_LABEL": "Adaptiv strömning",
   "SETTINGS_PREFS_ADAPTIVE_STREAMING_HINT": "Strömmar dina videor i adaptiv kvalitet med dina prioritetsminuter. Aktiverat som standard. Stäng av det för att ladda upp videor i standardkvalitet och spara dina minuter.",
