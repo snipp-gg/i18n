@@ -21,7 +21,7 @@
   "SETTINGS_PREFS_EMBED_HINT": "Customize how your uploads look when shared on platforms.",
   "SETTINGS_PREFS_EMBED_CUSTOMIZE_BUTTON": "Customize",
   "SETTINGS_PREFS_POST_PRIVACY_LABEL": "Default Post Privacy",
-  "SETTINGS_PREFS_POST_PRIVACY_HINT": "Pre-selected when you upload on the website.",
+  "SETTINGS_PREFS_POST_PRIVACY_HINT": "Pre-selected whenever you upload. API uploads set their own privacy.",
   "SETTINGS_PREFS_SHARE_POLICY_LABEL": "Private Post Sharing",
   "SETTINGS_PREFS_SHARE_POLICY_HINT": "Choose who can give you access to their private posts.",
   "SETTINGS_PREFS_SHARE_POLICY_EVERYONE": "Everyone",
