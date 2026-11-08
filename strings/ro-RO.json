@@ -21,7 +21,7 @@
   "SETTINGS_PREFS_EMBED_HINT": "Personalizează cum arată încărcările tale când sunt distribuite pe platforme.",
   "SETTINGS_PREFS_EMBED_CUSTOMIZE_BUTTON": "Personalizează",
   "SETTINGS_PREFS_POST_PRIVACY_LABEL": "Confidențialitatea implicită a postărilor",
-  "SETTINGS_PREFS_POST_PRIVACY_HINT": "Se selectează automat când încarci de pe site.",
+  "SETTINGS_PREFS_POST_PRIVACY_HINT": "Se preselectează la fiecare încărcare. Încărcările prin API își setează propria confidențialitate.",
   "SETTINGS_PREFS_SHARE_POLICY_LABEL": "Distribuirea postărilor private",
   "SETTINGS_PREFS_SHARE_POLICY_HINT": "Alege cine îți poate oferi acces la postările sale private.",
   "SETTINGS_PREFS_SHARE_POLICY_EVERYONE": "Toată lumea",

@@ -21,7 +21,7 @@
   "SETTINGS_PREFS_EMBED_HINT": "Personalize como os seus carregamentos aparecem quando partilhados em plataformas.",
   "SETTINGS_PREFS_EMBED_CUSTOMIZE_BUTTON": "Personalizar",
   "SETTINGS_PREFS_POST_PRIVACY_LABEL": "Privacidade Predefinida da Publicação",
-  "SETTINGS_PREFS_POST_PRIVACY_HINT": "Selecionada para si quando carrega através do site.",
+  "SETTINGS_PREFS_POST_PRIVACY_HINT": "Pré-selecionada sempre que carrega. Os carregamentos através da API definem a sua própria privacidade.",
   "SETTINGS_PREFS_SHARE_POLICY_LABEL": "Partilha de Publicações Privadas",
   "SETTINGS_PREFS_SHARE_POLICY_HINT": "Escolha quem lhe pode dar acesso às próprias publicações privadas.",
   "SETTINGS_PREFS_SHARE_POLICY_EVERYONE": "Todos",

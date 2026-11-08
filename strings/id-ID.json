@@ -21,7 +21,7 @@
   "SETTINGS_PREFS_EMBED_HINT": "Sesuaikan tampilan unggahan Anda saat dibagikan di platform.",
   "SETTINGS_PREFS_EMBED_CUSTOMIZE_BUTTON": "Sesuaikan",
   "SETTINGS_PREFS_POST_PRIVACY_LABEL": "Privasi Postingan Default",
-  "SETTINGS_PREFS_POST_PRIVACY_HINT": "Dipilih otomatis saat Anda mengunggah lewat situs web.",
+  "SETTINGS_PREFS_POST_PRIVACY_HINT": "Dipilih otomatis setiap kali Anda mengunggah. Unggahan lewat API menetapkan privasinya sendiri.",
   "SETTINGS_PREFS_SHARE_POLICY_LABEL": "Berbagi Postingan Pribadi",
   "SETTINGS_PREFS_SHARE_POLICY_HINT": "Pilih siapa yang dapat memberi Anda akses ke postingan pribadi mereka.",
   "SETTINGS_PREFS_SHARE_POLICY_EVERYONE": "Semua orang",

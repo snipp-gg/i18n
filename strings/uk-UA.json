@@ -21,7 +21,7 @@
   "SETTINGS_PREFS_EMBED_HINT": "Налаштуйте, як ваші завантаження виглядають при поширенні на платформах.",
   "SETTINGS_PREFS_EMBED_CUSTOMIZE_BUTTON": "Налаштувати",
   "SETTINGS_PREFS_POST_PRIVACY_LABEL": "Приватність дописів за замовчуванням",
-  "SETTINGS_PREFS_POST_PRIVACY_HINT": "Вибирається автоматично, коли ви завантажуєте через сайт.",
+  "SETTINGS_PREFS_POST_PRIVACY_HINT": "Попередньо вибирається під час кожного завантаження. Завантаження через API задають власну приватність.",
   "SETTINGS_PREFS_SHARE_POLICY_LABEL": "Спільний доступ до приватних дописів",
   "SETTINGS_PREFS_SHARE_POLICY_HINT": "Виберіть, хто може надавати вам доступ до своїх приватних дописів.",
   "SETTINGS_PREFS_SHARE_POLICY_EVERYONE": "Усі",

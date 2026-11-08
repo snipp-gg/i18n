@@ -21,7 +21,7 @@
   "SETTINGS_PREFS_EMBED_HINT": "Prilagodi kako tvoji prijenosi izgledaju pri dijeljenju na platformama.",
   "SETTINGS_PREFS_EMBED_CUSTOMIZE_BUTTON": "Prilagodi",
   "SETTINGS_PREFS_POST_PRIVACY_LABEL": "Zadana privatnost objava",
-  "SETTINGS_PREFS_POST_PRIVACY_HINT": "Odabire se umjesto tebe kad prenosiš putem web-stranice.",
+  "SETTINGS_PREFS_POST_PRIVACY_HINT": "Unaprijed se odabire svaki put kad prenosiš. Prijenosi putem API-ja postavljaju vlastitu privatnost.",
   "SETTINGS_PREFS_SHARE_POLICY_LABEL": "Dijeljenje privatnih objava",
   "SETTINGS_PREFS_SHARE_POLICY_HINT": "Odaberi tko ti može dati pristup svojim privatnim objavama.",
   "SETTINGS_PREFS_SHARE_POLICY_EVERYONE": "Svi",

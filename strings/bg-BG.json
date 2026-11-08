@@ -21,7 +21,7 @@
   "SETTINGS_PREFS_EMBED_HINT": "Персонализирайте как изглеждат качванията ви, когато се споделят в платформи.",
   "SETTINGS_PREFS_EMBED_CUSTOMIZE_BUTTON": "Персонализиране",
   "SETTINGS_PREFS_POST_PRIVACY_LABEL": "Поверителност на публикациите по подразбиране",
-  "SETTINGS_PREFS_POST_PRIVACY_HINT": "Избира се вместо вас, когато качвате през сайта.",
+  "SETTINGS_PREFS_POST_PRIVACY_HINT": "Избира се предварително всеки път, когато качвате. Качванията през API задават собствена поверителност.",
   "SETTINGS_PREFS_SHARE_POLICY_LABEL": "Споделяне на лични публикации",
   "SETTINGS_PREFS_SHARE_POLICY_HINT": "Изберете кой може да ви дава достъп до своите лични публикации.",
   "SETTINGS_PREFS_SHARE_POLICY_EVERYONE": "Всички",

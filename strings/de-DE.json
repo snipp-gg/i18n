@@ -21,7 +21,7 @@
   "SETTINGS_PREFS_EMBED_HINT": "Passe an, wie deine Uploads aussehen, wenn sie auf Plattformen geteilt werden.",
   "SETTINGS_PREFS_EMBED_CUSTOMIZE_BUTTON": "Anpassen",
   "SETTINGS_PREFS_POST_PRIVACY_LABEL": "Standard-Beitrags-Sichtbarkeit",
-  "SETTINGS_PREFS_POST_PRIVACY_HINT": "Wird beim Hochladen über die Website vorausgewählt.",
+  "SETTINGS_PREFS_POST_PRIVACY_HINT": "Wird jedes Mal vorausgewählt, wenn du hochlädst. Uploads über die API legen ihre eigene Sichtbarkeit fest.",
   "SETTINGS_PREFS_SHARE_POLICY_LABEL": "Freigabe privater Beiträge",
   "SETTINGS_PREFS_SHARE_POLICY_HINT": "Wähle, wer dir Zugriff auf seine privaten Beiträge geben darf.",
   "SETTINGS_PREFS_SHARE_POLICY_EVERYONE": "Alle",

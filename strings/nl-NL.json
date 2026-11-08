@@ -21,7 +21,7 @@
   "SETTINGS_PREFS_EMBED_HINT": "Bepaal hoe je uploads eruitzien wanneer ze op platforms worden gedeeld.",
   "SETTINGS_PREFS_EMBED_CUSTOMIZE_BUTTON": "Aanpassen",
   "SETTINGS_PREFS_POST_PRIVACY_LABEL": "Standaard postprivacy",
-  "SETTINGS_PREFS_POST_PRIVACY_HINT": "Wordt voor je geselecteerd wanneer je uploadt via de website.",
+  "SETTINGS_PREFS_POST_PRIVACY_HINT": "Wordt bij elke upload vooraf voor je geselecteerd. Uploads via de API stellen hun eigen privacy in.",
   "SETTINGS_PREFS_SHARE_POLICY_LABEL": "Privéposts delen",
   "SETTINGS_PREFS_SHARE_POLICY_HINT": "Kies wie je toegang mag geven tot hun privéposts.",
   "SETTINGS_PREFS_SHARE_POLICY_EVERYONE": "Iedereen",

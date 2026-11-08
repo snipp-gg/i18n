@@ -21,7 +21,7 @@
   "SETTINGS_PREFS_EMBED_HINT": "I-customize kung paano lumalabas ang iyong mga upload kapag ibinahagi sa mga platform.",
   "SETTINGS_PREFS_EMBED_CUSTOMIZE_BUTTON": "I-customize",
   "SETTINGS_PREFS_POST_PRIVACY_LABEL": "Default na Privacy ng Post",
-  "SETTINGS_PREFS_POST_PRIVACY_HINT": "Awtomatikong napipili kapag nag-upload ka sa website.",
+  "SETTINGS_PREFS_POST_PRIVACY_HINT": "Awtomatikong napipili tuwing mag-a-upload ka. Ang mga upload mula sa API ang nagtatakda ng sarili nilang privacy.",
   "SETTINGS_PREFS_SHARE_POLICY_LABEL": "Pagbabahagi ng Pribadong Post",
   "SETTINGS_PREFS_SHARE_POLICY_HINT": "Piliin kung sino ang puwedeng magbigay sa iyo ng access sa kanilang mga pribadong post.",
   "SETTINGS_PREFS_SHARE_POLICY_EVERYONE": "Lahat",

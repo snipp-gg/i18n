@@ -21,7 +21,7 @@
   "SETTINGS_PREFS_EMBED_HINT": "Přizpůsobte si, jak vaše nahrané soubory vypadají při sdílení na platformách.",
   "SETTINGS_PREFS_EMBED_CUSTOMIZE_BUTTON": "Přizpůsobit",
   "SETTINGS_PREFS_POST_PRIVACY_LABEL": "Výchozí soukromí příspěvku",
-  "SETTINGS_PREFS_POST_PRIVACY_HINT": "Předvybere se, když nahráváte přes web.",
+  "SETTINGS_PREFS_POST_PRIVACY_HINT": "Předvybere se pokaždé, když nahráváte. Nahrávání přes API si nastavuje vlastní soukromí.",
   "SETTINGS_PREFS_SHARE_POLICY_LABEL": "Sdílení soukromých příspěvků",
   "SETTINGS_PREFS_SHARE_POLICY_HINT": "Vyberte, kdo vám může dát přístup ke svým soukromým příspěvkům.",
   "SETTINGS_PREFS_SHARE_POLICY_EVERYONE": "Všichni",

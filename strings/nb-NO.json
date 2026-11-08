@@ -21,7 +21,7 @@
   "SETTINGS_PREFS_EMBED_HINT": "Tilpass hvordan opplastingene dine ser ut når de deles på plattformer.",
   "SETTINGS_PREFS_EMBED_CUSTOMIZE_BUTTON": "Tilpass",
   "SETTINGS_PREFS_POST_PRIVACY_LABEL": "Standard innleggspersonvern",
-  "SETTINGS_PREFS_POST_PRIVACY_HINT": "Forhåndsvalgt når du laster opp på nettstedet.",
+  "SETTINGS_PREFS_POST_PRIVACY_HINT": "Forhåndsvalgt hver gang du laster opp. Opplastinger via API-et angir sitt eget personvern.",
   "SETTINGS_PREFS_SHARE_POLICY_LABEL": "Deling av private innlegg",
   "SETTINGS_PREFS_SHARE_POLICY_HINT": "Velg hvem som kan gi deg tilgang til sine private innlegg.",
   "SETTINGS_PREFS_SHARE_POLICY_EVERYONE": "Alle",

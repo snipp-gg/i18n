@@ -21,7 +21,7 @@
   "SETTINGS_PREFS_EMBED_HINT": "Tùy chỉnh cách nội dung tải lên của bạn hiển thị khi được chia sẻ trên các nền tảng.",
   "SETTINGS_PREFS_EMBED_CUSTOMIZE_BUTTON": "Tùy chỉnh",
   "SETTINGS_PREFS_POST_PRIVACY_LABEL": "Quyền riêng tư bài đăng mặc định",
-  "SETTINGS_PREFS_POST_PRIVACY_HINT": "Được chọn sẵn khi bạn tải lên trên trang web.",
+  "SETTINGS_PREFS_POST_PRIVACY_HINT": "Được chọn sẵn mỗi khi bạn tải lên. Các lượt tải lên qua API tự đặt quyền riêng tư của chúng.",
   "SETTINGS_PREFS_SHARE_POLICY_LABEL": "Chia sẻ bài đăng riêng tư",
   "SETTINGS_PREFS_SHARE_POLICY_HINT": "Chọn ai có thể cấp cho bạn quyền truy cập vào bài đăng riêng tư của họ.",
   "SETTINGS_PREFS_SHARE_POLICY_EVERYONE": "Mọi người",

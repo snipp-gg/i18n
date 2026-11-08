@@ -21,7 +21,7 @@
   "SETTINGS_PREFS_EMBED_HINT": "Prispôsob si, ako tvoje nahrávania vyzerajú pri zdieľaní na platformách.",
   "SETTINGS_PREFS_EMBED_CUSTOMIZE_BUTTON": "Prispôsobiť",
   "SETTINGS_PREFS_POST_PRIVACY_LABEL": "Predvolené súkromie príspevku",
-  "SETTINGS_PREFS_POST_PRIVACY_HINT": "Predvyberie sa, keď nahrávaš cez web.",
+  "SETTINGS_PREFS_POST_PRIVACY_HINT": "Predvyberie sa pri každom nahrávaní. Nahrávanie cez API si nastavuje vlastné súkromie.",
   "SETTINGS_PREFS_SHARE_POLICY_LABEL": "Zdieľanie súkromných príspevkov",
   "SETTINGS_PREFS_SHARE_POLICY_HINT": "Vyber, kto ti môže dať prístup k svojim súkromným príspevkom.",
   "SETTINGS_PREFS_SHARE_POLICY_EVERYONE": "Všetci",

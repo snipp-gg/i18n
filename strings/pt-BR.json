@@ -21,7 +21,7 @@
   "SETTINGS_PREFS_EMBED_HINT": "Personalize a aparência dos seus envios quando compartilhados em plataformas.",
   "SETTINGS_PREFS_EMBED_CUSTOMIZE_BUTTON": "Personalizar",
   "SETTINGS_PREFS_POST_PRIVACY_LABEL": "Privacidade Padrão da Publicação",
-  "SETTINGS_PREFS_POST_PRIVACY_HINT": "Selecionada para você ao enviar pelo site.",
+  "SETTINGS_PREFS_POST_PRIVACY_HINT": "Pré-selecionada sempre que você envia. Os envios pela API definem a própria privacidade.",
   "SETTINGS_PREFS_SHARE_POLICY_LABEL": "Compartilhamento de Publicações Privadas",
   "SETTINGS_PREFS_SHARE_POLICY_HINT": "Escolha quem pode dar a você acesso às próprias publicações privadas.",
   "SETTINGS_PREFS_SHARE_POLICY_EVERYONE": "Todos",

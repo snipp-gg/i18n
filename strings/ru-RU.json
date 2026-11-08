@@ -21,7 +21,7 @@
   "SETTINGS_PREFS_EMBED_HINT": "Настройте, как ваши загрузки выглядят при отправке на платформах.",
   "SETTINGS_PREFS_EMBED_CUSTOMIZE_BUTTON": "Настроить",
   "SETTINGS_PREFS_POST_PRIVACY_LABEL": "Приватность поста по умолчанию",
-  "SETTINGS_PREFS_POST_PRIVACY_HINT": "Выбирается автоматически при загрузке через сайт.",
+  "SETTINGS_PREFS_POST_PRIVACY_HINT": "Предварительно выбирается при каждой загрузке. Загрузки через API задают собственную приватность.",
   "SETTINGS_PREFS_SHARE_POLICY_LABEL": "Совместный доступ к приватным постам",
   "SETTINGS_PREFS_SHARE_POLICY_HINT": "Выберите, кто может давать вам доступ к своим приватным постам.",
   "SETTINGS_PREFS_SHARE_POLICY_EVERYONE": "Все",

@@ -21,7 +21,7 @@
   "SETTINGS_PREFS_EMBED_HINT": "Yüklemelerinizin platformlarda paylaşıldığında nasıl göründüğünü özelleştirin.",
   "SETTINGS_PREFS_EMBED_CUSTOMIZE_BUTTON": "Özelleştir",
   "SETTINGS_PREFS_POST_PRIVACY_LABEL": "Varsayılan Gönderi Gizliliği",
-  "SETTINGS_PREFS_POST_PRIVACY_HINT": "Web sitesinden yüklerken önceden seçilir.",
+  "SETTINGS_PREFS_POST_PRIVACY_HINT": "Her yüklemede önceden seçilir. API üzerinden yapılan yüklemeler kendi gizliliklerini belirler.",
   "SETTINGS_PREFS_SHARE_POLICY_LABEL": "Özel Gönderi Paylaşımı",
   "SETTINGS_PREFS_SHARE_POLICY_HINT": "Size özel gönderilerine erişim verebilecek kişileri seçin.",
   "SETTINGS_PREFS_SHARE_POLICY_EVERYONE": "Herkes",

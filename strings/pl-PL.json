@@ -21,7 +21,7 @@
   "SETTINGS_PREFS_EMBED_HINT": "Dostosuj wygląd swoich przesłanych plików podczas udostępniania na platformach.",
   "SETTINGS_PREFS_EMBED_CUSTOMIZE_BUTTON": "Dostosuj",
   "SETTINGS_PREFS_POST_PRIVACY_LABEL": "Domyślna Prywatność Postów",
-  "SETTINGS_PREFS_POST_PRIVACY_HINT": "Wybierana automatycznie, gdy przesyłasz przez stronę.",
+  "SETTINGS_PREFS_POST_PRIVACY_HINT": "Wybierana wstępnie przy każdym przesyłaniu. Przesyłanie przez API ustawia własną prywatność.",
   "SETTINGS_PREFS_SHARE_POLICY_LABEL": "Udostępnianie Prywatnych Postów",
   "SETTINGS_PREFS_SHARE_POLICY_HINT": "Wybierz, kto może dać Ci dostęp do swoich prywatnych postów.",
   "SETTINGS_PREFS_SHARE_POLICY_EVERYONE": "Wszyscy",

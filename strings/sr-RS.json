@@ -21,7 +21,7 @@
   "SETTINGS_PREFS_EMBED_HINT": "Prilagodite kako vaša otpremanja izgledaju kada se podele na platformama.",
   "SETTINGS_PREFS_EMBED_CUSTOMIZE_BUTTON": "Prilagodi",
   "SETTINGS_PREFS_POST_PRIVACY_LABEL": "Podrazumevana privatnost objave",
-  "SETTINGS_PREFS_POST_PRIVACY_HINT": "Bira se umesto vas kada otpremate putem sajta.",
+  "SETTINGS_PREFS_POST_PRIVACY_HINT": "Unapred se bira pri svakom otpremanju. Otpremanja putem API-ja postavljaju sopstvenu privatnost.",
   "SETTINGS_PREFS_SHARE_POLICY_LABEL": "Deljenje privatnih objava",
   "SETTINGS_PREFS_SHARE_POLICY_HINT": "Izaberite ko može da vam da pristup svojim privatnim objavama.",
   "SETTINGS_PREFS_SHARE_POLICY_EVERYONE": "Svi",

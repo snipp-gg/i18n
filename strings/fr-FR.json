@@ -21,7 +21,7 @@
   "SETTINGS_PREFS_EMBED_HINT": "Personnalisez l'apparence de vos envois lorsqu'ils sont partagés sur les plateformes.",
   "SETTINGS_PREFS_EMBED_CUSTOMIZE_BUTTON": "Personnaliser",
   "SETTINGS_PREFS_POST_PRIVACY_LABEL": "Confidentialité des posts par défaut",
-  "SETTINGS_PREFS_POST_PRIVACY_HINT": "Présélectionnée lorsque vous envoyez depuis le site.",
+  "SETTINGS_PREFS_POST_PRIVACY_HINT": "Présélectionnée à chaque envoi. Les envois via l'API définissent leur propre confidentialité.",
   "SETTINGS_PREFS_SHARE_POLICY_LABEL": "Partage des posts privés",
   "SETTINGS_PREFS_SHARE_POLICY_HINT": "Choisissez qui peut vous donner accès à ses posts privés.",
   "SETTINGS_PREFS_SHARE_POLICY_EVERYONE": "Tout le monde",

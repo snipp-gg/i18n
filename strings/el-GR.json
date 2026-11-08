@@ -21,7 +21,7 @@
   "SETTINGS_PREFS_EMBED_HINT": "Προσαρμόστε πώς εμφανίζονται οι αναρτήσεις σας όταν κοινοποιούνται στο Discord και αλλού.",
   "SETTINGS_PREFS_EMBED_CUSTOMIZE_BUTTON": "Προσαρμογή",
   "SETTINGS_PREFS_POST_PRIVACY_LABEL": "Προεπιλεγμένο Απόρρητο Ανάρτησης",
-  "SETTINGS_PREFS_POST_PRIVACY_HINT": "Προεπιλέγεται όταν ανεβάζετε από τον ιστότοπο.",
+  "SETTINGS_PREFS_POST_PRIVACY_HINT": "Προεπιλέγεται κάθε φορά που ανεβάζετε. Τα ανεβάσματα μέσω API ορίζουν το δικό τους απόρρητο.",
   "SETTINGS_PREFS_SHARE_POLICY_LABEL": "Κοινοποίηση Ιδιωτικών Αναρτήσεων",
   "SETTINGS_PREFS_SHARE_POLICY_HINT": "Επιλέξτε ποιος μπορεί να σας δίνει πρόσβαση στις ιδιωτικές αναρτήσεις του.",
   "SETTINGS_PREFS_SHARE_POLICY_EVERYONE": "Όλοι",

@@ -21,7 +21,7 @@
   "SETTINGS_PREFS_EMBED_HINT": "Mukauta, miltä latauksesi näyttävät jaettuina alustoilla.",
   "SETTINGS_PREFS_EMBED_CUSTOMIZE_BUTTON": "Mukauta",
   "SETTINGS_PREFS_POST_PRIVACY_LABEL": "Julkaisun oletusyksityisyys",
-  "SETTINGS_PREFS_POST_PRIVACY_HINT": "Valitaan puolestasi, kun lataat sivuston kautta.",
+  "SETTINGS_PREFS_POST_PRIVACY_HINT": "Valitaan valmiiksi aina, kun lataat. API-lataukset asettavat oman yksityisyytensä.",
   "SETTINGS_PREFS_SHARE_POLICY_LABEL": "Yksityisten julkaisujen jakaminen",
   "SETTINGS_PREFS_SHARE_POLICY_HINT": "Valitse, kuka voi antaa sinulle pääsyn yksityisiin julkaisuihinsa.",
   "SETTINGS_PREFS_SHARE_POLICY_EVERYONE": "Kaikki",

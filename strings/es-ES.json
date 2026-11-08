@@ -21,7 +21,7 @@
   "SETTINGS_PREFS_EMBED_HINT": "Personaliza el aspecto de tus subidas cuando se comparten en plataformas.",
   "SETTINGS_PREFS_EMBED_CUSTOMIZE_BUTTON": "Personalizar",
   "SETTINGS_PREFS_POST_PRIVACY_LABEL": "Privacidad de la Publicación por Defecto",
-  "SETTINGS_PREFS_POST_PRIVACY_HINT": "Se selecciona automáticamente cuando subes desde la web.",
+  "SETTINGS_PREFS_POST_PRIVACY_HINT": "Se preselecciona en cada subida. Las subidas desde la API definen su propia privacidad.",
   "SETTINGS_PREFS_SHARE_POLICY_LABEL": "Compartir Publicaciones Privadas",
   "SETTINGS_PREFS_SHARE_POLICY_HINT": "Elige quién puede darte acceso a sus publicaciones privadas.",
   "SETTINGS_PREFS_SHARE_POLICY_EVERYONE": "Todos",

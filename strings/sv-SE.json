@@ -21,7 +21,7 @@
   "SETTINGS_PREFS_EMBED_HINT": "Anpassa hur dina uppladdningar ser ut när de delas på plattformar.",
   "SETTINGS_PREFS_EMBED_CUSTOMIZE_BUTTON": "Anpassa",
   "SETTINGS_PREFS_POST_PRIVACY_LABEL": "Förvald inläggssekretess",
-  "SETTINGS_PREFS_POST_PRIVACY_HINT": "Förvald när du laddar upp på webbplatsen.",
+  "SETTINGS_PREFS_POST_PRIVACY_HINT": "Förvald varje gång du laddar upp. Uppladdningar via API:et anger sin egen sekretess.",
   "SETTINGS_PREFS_SHARE_POLICY_LABEL": "Delning av privata inlägg",
   "SETTINGS_PREFS_SHARE_POLICY_HINT": "Välj vem som kan ge dig åtkomst till sina privata inlägg.",
   "SETTINGS_PREFS_SHARE_POLICY_EVERYONE": "Alla",

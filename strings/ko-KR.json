@@ -21,7 +21,7 @@
   "SETTINGS_PREFS_EMBED_HINT": "플랫폼에서 공유될 때 업로드가 어떻게 보일지 맞춤 설정하세요.",
   "SETTINGS_PREFS_EMBED_CUSTOMIZE_BUTTON": "맞춤 설정",
   "SETTINGS_PREFS_POST_PRIVACY_LABEL": "기본 게시물 공개 범위",
-  "SETTINGS_PREFS_POST_PRIVACY_HINT": "웹사이트에서 업로드할 때 자동으로 선택됩니다.",
+  "SETTINGS_PREFS_POST_PRIVACY_HINT": "업로드할 때마다 미리 선택됩니다. API 업로드는 자체적으로 공개 범위를 설정합니다.",
   "SETTINGS_PREFS_SHARE_POLICY_LABEL": "비공개 게시물 공유",
   "SETTINGS_PREFS_SHARE_POLICY_HINT": "누가 회원님에게 비공개 게시물 접근 권한을 줄 수 있는지 선택하세요.",
   "SETTINGS_PREFS_SHARE_POLICY_EVERYONE": "모든 사람",

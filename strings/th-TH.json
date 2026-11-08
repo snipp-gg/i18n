@@ -21,7 +21,7 @@
   "SETTINGS_PREFS_EMBED_HINT": "ปรับแต่งวิธีที่การอัปโหลดของคุณดูเมื่อแชร์บนแพลตฟอร์ม",
   "SETTINGS_PREFS_EMBED_CUSTOMIZE_BUTTON": "ปรับแต่ง",
   "SETTINGS_PREFS_POST_PRIVACY_LABEL": "ค่าเริ่มต้นความเป็นส่วนตัวของโพสต์",
-  "SETTINGS_PREFS_POST_PRIVACY_HINT": "จะถูกเลือกให้โดยอัตโนมัติเมื่ออัปโหลดบนเว็บไซต์",
+  "SETTINGS_PREFS_POST_PRIVACY_HINT": "จะถูกเลือกไว้ล่วงหน้าทุกครั้งที่คุณอัปโหลด การอัปโหลดผ่าน API จะกำหนดความเป็นส่วนตัวของตัวเอง",
   "SETTINGS_PREFS_SHARE_POLICY_LABEL": "การแชร์โพสต์ส่วนตัว",
   "SETTINGS_PREFS_SHARE_POLICY_HINT": "เลือกว่าใครสามารถให้สิทธิ์คุณเข้าถึงโพสต์ส่วนตัวของพวกเขาได้",
   "SETTINGS_PREFS_SHARE_POLICY_EVERYONE": "ทุกคน",
