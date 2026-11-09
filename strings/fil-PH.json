@@ -2283,7 +2283,7 @@
   "SUPPORT_WEEKLY_LIMITS_WHAT_COUNTS_ITEM_ALL_SOURCES": "Bawat matagumpay na upload ay bibilangin: website, API, ShareX, at XerahS. Public, unlisted, at private posts ay magkakapareho ang bilang.",
   "SUPPORT_WEEKLY_LIMITS_WHAT_COUNTS_ITEM_ALBUMS": "Ang mga album ay binibilang bilang kabuuan ng kanilang mga file. Ang 5-file na album na 200 MB bawat isa ay gumagamit ng 1 GB ng quota.",
   "SUPPORT_WEEKLY_LIMITS_WHAT_COUNTS_ITEM_FAILED_UPLOADS": "Ang mga upload na nabigo bago matapos, tulad ng rate-limited o naputol na request, ay hindi kumukonsumo ng quota. Kapag na-store na ang isang upload, gastado na ang bytes, kahit ma-moderate pa ang post pagkatapos.",
-  "SUPPORT_WEEKLY_LIMITS_WHAT_COUNTS_ITEM_DELETION_NO_REFUND": "Ang pagtanggal ng post ay hindi nagre-refund ng quota nito. Bumabalik lamang ang bytes sa iyong lingguhang reset, hindi kailanman sa pagtanggal.",
+  "SUPPORT_WEEKLY_LIMITS_WHAT_COUNTS_ITEM_DELETION_NO_REFUND": "Ang pagtanggal ng post ay hindi nagre-refund ng quota nito.",
   "SUPPORT_WEEKLY_LIMITS_HITTING_LIMIT_HEADING": "Pag-abot sa Limit",
   "SUPPORT_WEEKLY_LIMITS_HITTING_LIMIT_ITEM_ERROR": "Kapag wala ka nang quota, ang mga bagong upload ay magbabalik ng \"Weekly usage limit exceeded\" error kasama ang timestamp ng iyong susunod na reset.",
   "SUPPORT_WEEKLY_LIMITS_HITTING_LIMIT_P1_BEFORE_LINK": "Tingnan ang iyong live na paggamit at countdown sa susunod na refill mula sa",
