@@ -2289,7 +2289,7 @@
   "SUPPORT_WEEKLY_LIMITS_HITTING_LIMIT_P1_BEFORE_LINK": "Проверьте своё актуальное использование и обратный отсчёт до следующего пополнения в",
   "SUPPORT_WEEKLY_LIMITS_HITTING_LIMIT_P1_LINK": "настройках оплаты",
   "SUPPORT_WEEKLY_LIMITS_HITTING_LIMIT_P2_BEFORE_LINK": "Переход на",
-  "SUPPORT_WEEKLY_LIMITS_HITTING_LIMIT_P2_AFTER_LINK": "применяет вашу более высокую квоту немедленно, включая уже накопленное использование.",
+  "SUPPORT_WEEKLY_LIMITS_HITTING_LIMIT_P2_AFTER_LINK": "обнуляет ваше использование и сразу даёт вам более высокую квоту.",
   "SUPPORT_WEEKLY_LIMITS_CTA_HEADING": "Нужны более высокие лимиты?",
   "SUPPORT_WEEKLY_LIMITS_CTA_BODY": "Ведёте проект, которому нужно больше 50 ГБ в неделю? Свяжитесь с нами, и мы подберём подходящий тариф.",
   "SUPPORT_PRIORITY_MINUTES_META_DESCRIPTION": "Как работают приоритетные минуты Snipp, месячный лимит потокового вещания для аккаунтов Free, Plus и Ultra и что происходит, когда он заканчивается.",

@@ -2289,7 +2289,7 @@
   "SUPPORT_WEEKLY_LIMITS_HITTING_LIMIT_P1_BEFORE_LINK": "Check your live usage and the countdown to your next refill from",
   "SUPPORT_WEEKLY_LIMITS_HITTING_LIMIT_P1_LINK": "billing settings",
   "SUPPORT_WEEKLY_LIMITS_HITTING_LIMIT_P2_BEFORE_LINK": "Upgrading to",
-  "SUPPORT_WEEKLY_LIMITS_HITTING_LIMIT_P2_AFTER_LINK": "applies your higher quota immediately, including the existing usage you've already accumulated.",
+  "SUPPORT_WEEKLY_LIMITS_HITTING_LIMIT_P2_AFTER_LINK": "resets your usage to zero and gives you the higher quota right away.",
   "SUPPORT_WEEKLY_LIMITS_CTA_HEADING": "Need higher limits?",
   "SUPPORT_WEEKLY_LIMITS_CTA_BODY": "Running a project that needs more than 50 GB per week? Reach out and we'll work out a plan that fits.",
   "SUPPORT_PRIORITY_MINUTES_META_DESCRIPTION": "How Snipp's priority minutes work, the monthly streaming budget for Free, Plus, and Ultra accounts, and what happens when you run out.",

@@ -2289,7 +2289,7 @@
   "SUPPORT_WEEKLY_LIMITS_HITTING_LIMIT_P1_BEFORE_LINK": "Verifique seu uso em tempo real e a contagem regressiva até a próxima recarga nas",
   "SUPPORT_WEEKLY_LIMITS_HITTING_LIMIT_P1_LINK": "configurações de cobrança",
   "SUPPORT_WEEKLY_LIMITS_HITTING_LIMIT_P2_BEFORE_LINK": "Fazer upgrade para o",
-  "SUPPORT_WEEKLY_LIMITS_HITTING_LIMIT_P2_AFTER_LINK": "aplica sua cota mais alta imediatamente, incluindo o uso que você já acumulou.",
+  "SUPPORT_WEEKLY_LIMITS_HITTING_LIMIT_P2_AFTER_LINK": "zera seu uso e libera a cota mais alta imediatamente.",
   "SUPPORT_WEEKLY_LIMITS_CTA_HEADING": "Precisa de limites mais altos?",
   "SUPPORT_WEEKLY_LIMITS_CTA_BODY": "Tem um projeto que precisa de mais de 50 GB por semana? Entre em contato e elaboraremos um plano que se encaixe nas suas necessidades.",
   "SUPPORT_PRIORITY_MINUTES_META_DESCRIPTION": "Como funcionam os minutos prioritários do Snipp, o orçamento mensal de streaming para contas Free, Plus e Ultra, e o que acontece quando eles acabam.",

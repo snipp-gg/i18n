@@ -2289,7 +2289,7 @@
   "SUPPORT_WEEKLY_LIMITS_HITTING_LIMIT_P1_BEFORE_LINK": "要查看实时用量和距下次配额恢复的倒计时，请前往",
   "SUPPORT_WEEKLY_LIMITS_HITTING_LIMIT_P1_LINK": "计费设置",
   "SUPPORT_WEEKLY_LIMITS_HITTING_LIMIT_P2_BEFORE_LINK": "升级到",
-  "SUPPORT_WEEKLY_LIMITS_HITTING_LIMIT_P2_AFTER_LINK": "后，更高的配额会立即生效，包括您已累积的现有用量。",
+  "SUPPORT_WEEKLY_LIMITS_HITTING_LIMIT_P2_AFTER_LINK": "后，您的用量会清零，更高的配额也会立即生效。",
   "SUPPORT_WEEKLY_LIMITS_CTA_HEADING": "需要更高的限额吗？",
   "SUPPORT_WEEKLY_LIMITS_CTA_BODY": "您的项目每周需要上传超过 50 GB 吗？请联系我们，我们将为您制定合适的方案。",
   "SUPPORT_PRIORITY_MINUTES_META_DESCRIPTION": "Snipp 的优先分钟如何运作、Free、Plus 和 Ultra 账户的每月流式传输预算，以及用完后会发生什么。",

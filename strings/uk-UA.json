@@ -2289,7 +2289,7 @@
   "SUPPORT_WEEKLY_LIMITS_HITTING_LIMIT_P1_BEFORE_LINK": "Перевіряйте своє поточне використання та зворотний відлік до наступного поповнення в",
   "SUPPORT_WEEKLY_LIMITS_HITTING_LIMIT_P1_LINK": "налаштуваннях оплати",
   "SUPPORT_WEEKLY_LIMITS_HITTING_LIMIT_P2_BEFORE_LINK": "Перехід на",
-  "SUPPORT_WEEKLY_LIMITS_HITTING_LIMIT_P2_AFTER_LINK": "застосовує вашу вищу квоту негайно, зокрема до вже накопиченого використання.",
+  "SUPPORT_WEEKLY_LIMITS_HITTING_LIMIT_P2_AFTER_LINK": "обнуляє ваше використання та одразу дає вам вищу квоту.",
   "SUPPORT_WEEKLY_LIMITS_CTA_HEADING": "Потрібні вищі ліміти?",
   "SUPPORT_WEEKLY_LIMITS_CTA_BODY": "Ведете проєкт, якому потрібно більше за 50 ГБ на тиждень? Зверніться, і ми розробимо план, який вам підійде.",
   "SUPPORT_PRIORITY_MINUTES_META_DESCRIPTION": "Як працюють пріоритетні хвилини Snipp, місячний бюджет на стримінг для акаунтів Free, Plus та Ultra і що відбувається, коли вони закінчуються.",

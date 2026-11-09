@@ -2289,7 +2289,7 @@
   "SUPPORT_WEEKLY_LIMITS_HITTING_LIMIT_P1_BEFORE_LINK": "Tarkista reaaliaikainen käyttösi ja seuraavan täydennyksen lähtölaskenta kohdasta",
   "SUPPORT_WEEKLY_LIMITS_HITTING_LIMIT_P1_LINK": "laskutusasetukset",
   "SUPPORT_WEEKLY_LIMITS_HITTING_LIMIT_P2_BEFORE_LINK": "Päivittäminen tasoon",
-  "SUPPORT_WEEKLY_LIMITS_HITTING_LIMIT_P2_AFTER_LINK": "ottaa suuremman kiintiösi käyttöön välittömästi, mukaan lukien jo kertyneen käytön.",
+  "SUPPORT_WEEKLY_LIMITS_HITTING_LIMIT_P2_AFTER_LINK": "nollaa käyttösi ja antaa sinulle suuremman kiintiön heti.",
   "SUPPORT_WEEKLY_LIMITS_CTA_HEADING": "Tarvitsetko suuremmat rajat?",
   "SUPPORT_WEEKLY_LIMITS_CTA_BODY": "Pyöritätkö projektia, joka tarvitsee yli 50 GB viikossa? Ota yhteyttä, niin laadimme sinulle sopivan paketin.",
   "SUPPORT_PRIORITY_MINUTES_META_DESCRIPTION": "Miten Snippin prioriteettiminuutit toimivat, kuukausittainen suoratoistobudjetti ilmaisille, Plus- ja Ultra-tileille, ja mitä tapahtuu, kun ne loppuvat.",
